@@ -1,0 +1,117 @@
+{
+  "book": "2 Peter",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and take three deep breaths, visualizing God's divine power filling you with strength and godliness",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I actively growing in my faith and spiritual virtues?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I need to add more intentional spiritual disciplines",
+            "response": "Create a weekly spiritual growth plan with specific virtues to develop"
+          },
+          {
+            "id": "b",
+            "text": "I feel stagnant in my spiritual journey",
+            "response": "Schedule a spiritual mentorship meeting or join a discipleship group"
+          },
+          {
+            "id": "c",
+            "text": "I want to deepen my understanding of God's promises",
+            "response": "Start a daily scripture meditation practice focusing on God's promises"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a ladder representing the spiritual virtues: faith, virtue, knowledge, self-control, perseverance, godliness, brotherly kindness, and love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading 2 Peter 1 shifted your understanding of spiritual growth?",
+        "options": [
+          "Growth is intentional, not automatic",
+          "God provides everything I need for spiritual development",
+          "My faith requires active participation and effort",
+          "Spiritual maturity is a progressive journey"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual growth most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Power Enables Transformation",
+            "expansion": "God's power, not human effort alone, provides the capacity for profound spiritual change."
+          },
+          {
+            "id": 2,
+            "text": "Progressive Spiritual Virtues",
+            "expansion": "Spiritual maturity is a deliberate, incremental journey of adding godly characteristics."
+          },
+          {
+            "id": 3,
+            "text": "Confirmed Prophetic Word",
+            "expansion": "Scripture is a trustworthy revelation, authenticated by divine origin and apostolic witness."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power has already provided everything necessary for godliness, why do so many believers struggle with spiritual stagnation?"
+      },
+      "moral_slider": {
+        "question": "How do personal effort and divine grace interact in spiritual growth?",
+        "left_label": "Human Striving",
+        "right_label": "Divine Enablement"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of spiritual development have shifted?",
+        "options": [
+          "I now see spiritual growth as more intentional",
+          "Divine empowerment feels more tangible",
+          "Spiritual virtues seem more interconnected",
+          "Prophetic confirmation seems more important"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Empowerment for Godly Living",
+          "summary": "God provides supernatural power and resources for believers to live a Christ-centered life. Through divine promises and the indwelling Holy Spirit, Christians are equipped to overcome worldly corruption and pursue spiritual transformation.",
+          "cross_references": [
+            "Ephesians 1:3",
+            "Colossians 1:11",
+            "2 Corinthians 9:8",
+            "Galatians 2:20"
+          ]
+        },
+        {
+          "title": "Progressive Spiritual Maturity",
+          "summary": "Christian growth is a deliberate, incremental process involving intentional addition of spiritual virtues. Believers are called to continuously develop character qualities that reflect Christ's nature and demonstrate authentic faith.",
+          "cross_references": [
+            "Romans 8:29",
+            "Philippians 3:12-14",
+            "1 Corinthians 3:1-3",
+            "Hebrews 5:12-14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do divine power and human responsibility interact in spiritual transformation?",
+        "options": [
+          "God's sovereignty completely determines spiritual growth",
+          "Human effort is primary, with God's power as supplemental support",
+          "Collaborative partnership between divine enablement and human cooperation",
+          "Spiritual growth is purely a mystical, non-rational process"
+        ]
+      }
+    }
+  }
+}

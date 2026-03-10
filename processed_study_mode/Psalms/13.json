@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, acknowledging moments when you've felt forgotten by God, then whisper: 'But I trust in Your unfailing love.'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you felt God seemed distant during a personal struggle?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I've experienced deep spiritual silence",
+            "response": "Journal your honest feelings, then intentionally list God's past faithfulness"
+          },
+          {
+            "id": 2,
+            "text": "I'm currently in a challenging season",
+            "response": "Practice praising God despite current circumstances"
+          },
+          {
+            "id": 3,
+            "text": "I'm emerging from a difficult time",
+            "response": "Share your testimony of God's restoration with someone"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing a dark cloud with a small ray of light breaking through, representing hope in moments of spiritual darkness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 13 shifted your perspective on waiting and trusting God?",
+        "options": [
+          "I understand lament is a valid spiritual response",
+          "I see the importance of being honest with God",
+          "I recognize trust can coexist with struggle",
+          "I learned that faith isn't about perfect emotions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional aspect of David's lament resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Feeling Forgotten by God",
+            "expansion": "The experience of perceived divine absence and silence in personal suffering"
+          },
+          {
+            "id": 2,
+            "text": "Persistent Prayer Despite Struggle",
+            "expansion": "Maintaining spiritual dialogue even when feeling spiritually disconnected"
+          },
+          {
+            "id": 3,
+            "text": "Transformative Hope",
+            "expansion": "The radical shift from despair to trust, demonstrating spiritual resilience"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might persistent questioning of divine silence actually be a form of profound spiritual engagement?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate your trust when experiencing divine silence?",
+        "left_label": "Personal Doubt",
+        "right_label": "Unconditional Trust"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual struggle evolved?",
+        "options": [
+          "Suffering is not a sign of abandonment",
+          "Questioning is part of spiritual growth",
+          "Emotional honesty matters more than performative piety",
+          "Hope can coexist with deep pain"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Lament and Human Suffering",
+          "summary": "Psalms 13 reveals the raw emotional struggle of a believer experiencing prolonged distress and feeling abandoned by God. The psalmist wrestles with deep spiritual anguish while maintaining an ultimate trust in divine deliverance.",
+          "cross_references": [
+            "Job 13:15",
+            "Psalm 22:1-2",
+            "Lamentations 3:22-23",
+            "2 Corinthians 4:8-9"
+          ]
+        },
+        {
+          "title": "Persistent Faith Through Trials",
+          "summary": "Despite overwhelming feelings of divine abandonment, the psalmist demonstrates resilient faith by transitioning from despair to hope. The passage illustrates the transformative power of trusting God even in moments of profound spiritual darkness.",
+          "cross_references": [
+            "Romans 8:28",
+            "James 1:2-4",
+            "Isaiah 40:31",
+            "Hebrews 11:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm challenge traditional perspectives on spiritual suffering and divine responsiveness?",
+        "options": [
+          "Suffering is not indicative of God's absence but potentially a pathway to deeper spiritual transformation",
+          "Emotional honesty with God is a valid and important aspect of authentic spiritual relationship",
+          "Divine timing frequently differs from human expectations of immediate intervention",
+          "Persistent faith can coexist with genuine emotional struggle and doubt"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "2 Samuel",
+  "chapter": 17,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, reflecting on how quickly trust can shift between people, like Absalom's changing advisors",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When facing conflict, do you seek wise counsel or impulsive advice?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I rush into decisions",
+            "response": "Practice pausing and seeking multiple perspectives before acting"
+          },
+          {
+            "id": 2,
+            "text": "I carefully consider advice",
+            "response": "Continue developing your discernment through prayer and wise counsel"
+          },
+          {
+            "id": 3,
+            "text": "I'm uncertain how I make decisions",
+            "response": "Journal about your recent decision-making patterns"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with two different roads: one representing Hushai's strategic advice, another representing Ahithophel's direct plan",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of conflict resolution?",
+        "options": [
+          "Wisdom matters more than quick action",
+          "Not all advice is good advice",
+          "Providence works through unexpected means",
+          "Personal relationships impact political decisions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of political conflict resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Strategic Manipulation",
+            "expansion": "Ahithophel's cunning plan reveals how political strategy can be coldly calculated and emotionally detached."
+          },
+          {
+            "id": 2,
+            "text": "Loyalty Under Pressure",
+            "expansion": "Hushai's strategic counter-counsel demonstrates how loyalty can be expressed through intellectual resistance."
+          },
+          {
+            "id": 3,
+            "text": "Family Betrayal",
+            "expansion": "Absalom's rebellion against his father David represents the deepest potential for human relational fracture."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal ambitions become more destructive than the principles they initially claim to serve?"
+      },
+      "moral_slider": {
+        "question": "Where does legitimate leadership succession become illegitimate rebellion?",
+        "left_label": "Personal Ambition",
+        "right_label": "Legitimate Authority"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership conflict evolved?",
+        "options": [
+          "Power is more complex than simple right and wrong",
+          "Family dynamics can catastrophically override loyalty",
+          "Strategic thinking can be both destructive and protective",
+          "Wisdom often emerges from unexpected sources"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Political Conflict",
+          "summary": "God's sovereignty is demonstrated through unexpected counsel and intervention in human political struggles. The chapter reveals how divine strategy can override human strategic planning.",
+          "cross_references": [
+            "Proverbs 21:30",
+            "Isaiah 46:10",
+            "Psalm 33:10-11",
+            "Romans 8:28"
+          ]
+        },
+        {
+          "title": "Wisdom vs Strategic Manipulation",
+          "summary": "The contrast between Ahithophel's cunning political strategy and Hushai's counter-counsel illustrates the complexity of human political maneuvering. True wisdom ultimately comes from seeking God's perspective.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "James 1:5",
+            "1 Corinthians 1:25",
+            "Proverbs 16:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's providence interact with human free will in moments of political and familial conflict?",
+        "options": [
+          "God ultimately controls outcomes despite human intentions",
+          "Human choices remain fully autonomous without divine intervention",
+          "Divine guidance operates through human counsel and decision-making",
+          "Spiritual discernment trumps strategic human planning"
+        ]
+      }
+    }
+  }
+}

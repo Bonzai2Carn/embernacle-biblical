@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize passing wisdom from one generation to the next, like David instructing Solomon",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I preparing the next generation with spiritual guidance?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Mentor someone younger in faith",
+            "response": "Schedule a monthly mentorship meeting"
+          },
+          {
+            "id": 2,
+            "text": "Share life lessons with family",
+            "response": "Write down key spiritual insights for your children/siblings"
+          },
+          {
+            "id": 3,
+            "text": "Invest in leadership development",
+            "response": "Offer guidance to a young professional in your community"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing how wisdom and faith can be passed down through generations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of legacy and spiritual inheritance?",
+        "options": [
+          "I see the importance of intentional spiritual guidance",
+          "Leadership requires clear instructions and moral integrity",
+          "Each generation has a responsibility to honor previous wisdom",
+          "Succession planning is crucial in spiritual and family contexts"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about David's final counsel to Solomon?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Spiritual Legacy",
+            "expansion": "Passing wisdom between generations requires intentional spiritual mentorship."
+          },
+          {
+            "id": 2,
+            "text": "Personal Accountability",
+            "expansion": "Individual righteousness determines collective blessing and national trajectory."
+          },
+          {
+            "id": 3,
+            "text": "Divine Covenant Continuity",
+            "expansion": "God's promises persist through faithful leadership succession."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal obedience create broader systemic transformation beyond individual spiritual practice?"
+      },
+      "moral_slider": {
+        "question": "Where do personal loyalty and divine justice intersect in leadership succession?",
+        "left_label": "Human Loyalty",
+        "right_label": "Divine Judgment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual inheritance changed?",
+        "options": [
+          "Leadership is more about character than position",
+          "Generational wisdom matters profoundly",
+          "Divine promises require human cooperation",
+          "Spiritual legacy transcends individual lifespans"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Dynastic Succession and Divine Providence",
+          "summary": "David's final instructions to Solomon represent a critical moment of generational leadership transition. The passage demonstrates how God's covenant promises are preserved through intentional spiritual mentorship and strategic leadership preparation.",
+          "cross_references": [
+            "2 Samuel 7:12-16",
+            "Proverbs 4:1-9",
+            "1 Chronicles 28:9-10",
+            "Psalm 127:3-5"
+          ]
+        },
+        {
+          "title": "Righteousness and Justice",
+          "summary": "Solomon's early reign involves executing justice and removing potential threats to the kingdom's stability. The narrative illustrates how godly leadership requires both mercy and decisive action to maintain spiritual and political integrity.",
+          "cross_references": [
+            "Romans 13:1-4",
+            "Proverbs 20:8",
+            "Deuteronomy 17:18-20",
+            "Psalm 101:5-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should biblical leadership manage inherited conflicts and potential political challenges?",
+        "options": [
+          "Prioritize reconciliation and forgiveness",
+          "Implement strategic justice aligned with divine principles",
+          "Avoid confrontation and seek compromise",
+          "Rely solely on prophetic guidance for decision-making"
+        ]
+      }
+    }
+  }
+}

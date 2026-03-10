@@ -1,0 +1,117 @@
+{
+  "book": "Ezra",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine carefully preparing for a significant spiritual journey, focusing on trusting God's guidance and protection",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you prepare spiritually before undertaking a challenging mission or life transition?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Fast and pray for divine direction",
+            "response": "Set aside dedicated time for spiritual preparation"
+          },
+          {
+            "id": 2,
+            "text": "Seek counsel from spiritual leaders",
+            "response": "Schedule meetings with mentors or pastors for guidance"
+          },
+          {
+            "id": 3,
+            "text": "Study scripture related to your journey",
+            "response": "Create a focused reading plan for spiritual strength"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing a dangerous journey protected by God's invisible hand",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Ezra 8 changed your perspective on spiritual preparation?",
+        "options": [
+          "I see the importance of careful planning with faith",
+          "I recognize God's protection in uncertain times",
+          "I understand the value of community in spiritual journeys",
+          "I appreciate the need for humility before major transitions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What stands out most about leadership and community in this genealogical account?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Organizational Precision",
+            "expansion": "Detailed family registrations reveal the importance of knowing one's heritage and communal identity."
+          },
+          {
+            "id": 2,
+            "text": "Collaborative Restoration",
+            "expansion": "Multiple families and lineages working together demonstrate unity in rebuilding their spiritual community."
+          },
+          {
+            "id": 3,
+            "text": "Leadership Responsibility",
+            "expansion": "Ezra's meticulous documentation shows the weight of guiding a community through significant transition."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "In what ways might detailed genealogical records represent more than just names, but symbolize collective memory and spiritual continuity?"
+      },
+      "moral_slider": {
+        "question": "How do personal ancestry and collective identity intersect in spiritual renewal?",
+        "left_label": "Individual Identity",
+        "right_label": "Communal Heritage"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of community and spiritual leadership evolved?",
+        "options": [
+          "Recognize importance of historical roots",
+          "Appreciate collaborative spiritual work",
+          "Understand leadership as careful documentation",
+          "Value personal and collective narratives"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Preparation and Leadership",
+          "summary": "Ezra carefully documents the genealogical lineage of those returning from Babylonian exile, demonstrating God's intentional restoration of His people. The precise accounting reveals divine orchestration in rebuilding the community and preserving spiritual heritage.",
+          "cross_references": [
+            "Nehemiah 7:6-7",
+            "1 Chronicles 9:1-3",
+            "Isaiah 43:5-6",
+            "Jeremiah 29:10-14"
+          ]
+        },
+        {
+          "title": "Faith Through Collective Restoration",
+          "summary": "The chapter illustrates how communal obedience and spiritual commitment enable national reconstruction. By meticulously recording family lines and participants, Ezra emphasizes collective responsibility in spiritual renewal.",
+          "cross_references": [
+            "Zechariah 8:23",
+            "Psalm 133:1",
+            "1 Corinthians 12:12-27",
+            "Ephesians 4:4-6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does genealogical documentation reflect theological significance in biblical restoration narratives?",
+        "options": [
+          "Demonstrates divine providence in preserving covenant lineage",
+          "Validates historical authenticity of spiritual community",
+          "Emphasizes individual and collective identity in God's redemptive plan",
+          "Provides administrative framework for spiritual reconstruction"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 31,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on wise counsel and personal integrity",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I honor the wisdom of mentors and spiritual leaders in my life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen more, speak less",
+            "response": "Practice active listening in conversations with mentors"
+          },
+          {
+            "id": 2,
+            "text": "Seek regular guidance",
+            "response": "Schedule monthly mentorship or spiritual advisory meetings"
+          },
+          {
+            "id": 3,
+            "text": "Apply received wisdom",
+            "response": "Create a journal to track and implement advice from trusted sources"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing personal character qualities that protect against poor choices",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of leadership and personal discipline?",
+        "options": [
+          "I see leadership as more about character than position",
+          "I recognize the importance of self-control",
+          "I understand wisdom often comes from unexpected sources",
+          "I'm more aware of potential personal vulnerabilities"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which maternal wisdom resonates most profoundly?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Protecting Leadership's Integrity",
+            "expansion": "Counsel about avoiding substances that compromise moral discernment and judicial fairness."
+          },
+          {
+            "id": "2",
+            "text": "Personal Discipline and Self-Control",
+            "expansion": "Recognizing that true power emerges from restraint rather than unchecked impulses."
+          },
+          {
+            "id": "3",
+            "text": "Generational Wisdom Transfer",
+            "expansion": "The profound responsibility of parents to guide their children toward ethical living."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might temporary pleasures subtly erode the foundations of character and leadership?"
+      },
+      "moral_slider": {
+        "question": "To what extent should personal freedom be balanced against societal responsibility?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Collective Welfare"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of wisdom and guidance evolved?",
+        "options": [
+          "More aware of external influences",
+          "Recognize complexity of moral choices",
+          "Value intergenerational counsel",
+          "Understand leadership requires discipline"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Royal Wisdom and Moral Integrity",
+          "summary": "King Lemuel receives maternal counsel about maintaining personal and leadership integrity. The passage emphasizes the importance of self-control, particularly for those in positions of authority and influence.",
+          "cross_references": [
+            "1 Timothy 3:2-3",
+            "Titus 1:7-8",
+            "James 1:5-6",
+            "Proverbs 20:1"
+          ]
+        },
+        {
+          "title": "Leadership and Ethical Governance",
+          "summary": "The text provides guidance for leaders about avoiding potential moral compromises that could undermine their ability to administer justice. Wisdom is presented as a crucial attribute for effective leadership.",
+          "cross_references": [
+            "Romans 13:1-4",
+            "Deuteronomy 17:18-20",
+            "Psalm 72:1-4",
+            "Proverbs 16:10-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should spiritual leaders interpret and apply principles of personal restraint and ethical leadership?",
+        "options": [
+          "Prioritize spiritual discipline over personal desires",
+          "Recognize vulnerability to moral compromise",
+          "Seek accountability and external counsel",
+          "Develop comprehensive understanding of ethical boundaries"
+        ]
+      }
+    }
+  }
+}

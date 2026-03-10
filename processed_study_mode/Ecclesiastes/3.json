@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and acknowledge that life's seasons change, but God remains constant.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Which current life season feels most challenging, and how can you embrace God's timing?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Professional transition",
+            "response": "Seek mentorship and prayer guidance"
+          },
+          {
+            "id": 2,
+            "text": "Emotional healing period",
+            "response": "Journal and practice intentional self-compassion"
+          },
+          {
+            "id": 3,
+            "text": "Personal growth season",
+            "response": "Set deliberate learning and spiritual development goals"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of your life with different colored sections representing various seasons you've experienced",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of life's rhythms?",
+        "options": [
+          "I see life as more cyclical",
+          "I'm more accepting of change",
+          "I understand God's sovereignty better",
+          "I feel more patient with my current season"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on time's cycles resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Life's seasons are predetermined",
+            "expansion": "Our experiences flow through divine orchestration beyond individual control."
+          },
+          {
+            "id": 2,
+            "text": "Time's rhythms reveal universal patterns",
+            "expansion": "Recurring cycles suggest underlying spiritual and natural harmonies."
+          },
+          {
+            "id": 3,
+            "text": "Human agency exists within temporal constraints",
+            "expansion": "We navigate life's seasons with intentionality while acknowledging larger cosmic rhythms."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If every moment is part of a divine sequence, how do we reconcile personal suffering with the idea of a purposeful universe?"
+      },
+      "moral_slider": {
+        "question": "How do you balance acceptance of life's seasons with active personal transformation?",
+        "left_label": "Passive Acceptance",
+        "right_label": "Active Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of time and purpose shifted after reflecting on this chapter?",
+        "options": [
+          "I see life as more interconnected",
+          "I feel less anxious about change",
+          "I recognize deeper spiritual rhythms",
+          "I'm more aware of life's impermanence"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Temporality",
+          "summary": "God establishes seasons and rhythms in human experience that transcend individual control. These appointed times reflect divine design and purposeful orchestration of life's cycles.",
+          "cross_references": [
+            "Psalm 31:15",
+            "Job 14:5",
+            "Galatians 4:4",
+            "Acts 1:7"
+          ]
+        },
+        {
+          "title": "Cyclical Nature of Human Experience",
+          "summary": "Life encompasses contrasting experiences that are interconnected and meaningful within God's broader narrative. Each season, whether joyful or painful, serves a significant purpose in spiritual formation.",
+          "cross_references": [
+            "Romans 8:28",
+            "James 1:2-4",
+            "2 Corinthians 4:17",
+            "Ecclesiastes 7:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does understanding divine timing transform our perspective on life's unpredictable seasons?",
+        "options": [
+          "Recognizing God's sovereign control reduces anxiety about life's uncertainties",
+          "Embracing each season as an opportunity for spiritual growth and transformation",
+          "Understanding that temporary experiences do not define ultimate spiritual reality",
+          "Developing resilience through trust in God's overarching redemptive plan"
+        ]
+      }
+    }
+  }
+}

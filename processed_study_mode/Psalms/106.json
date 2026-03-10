@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 106,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently reflect on God's consistent mercy despite human repeated failures",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have I experienced God's patience and restoration in my own cycles of failure and redemption?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Acknowledge past mistakes",
+            "response": "Write a personal prayer of honest confession"
+          },
+          {
+            "id": 2,
+            "text": "Recognize God's ongoing grace",
+            "response": "List specific instances of undeserved mercy in your life"
+          },
+          {
+            "id": 3,
+            "text": "Commit to learning from history",
+            "response": "Identify one repeated pattern you want to change with God's help"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing moments of human weakness and God's rescue throughout biblical history",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your understanding of God's character?",
+        "options": [
+          "God is more patient than I previously understood",
+          "Humanity's tendency to repeat mistakes is more profound",
+          "God's mercy is deeper and more consistent than I realized",
+          "Historical patterns of faith and failure are more complex"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theme from Israel's historical reflection resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Divine Mercy Despite Human Failure",
+            "expansion": "God's persistent compassion continues even when humanity repeatedly falls short of covenant expectations."
+          },
+          {
+            "id": "b",
+            "text": "Generational Pattern of Rebellion",
+            "expansion": "The recurring cycle of sin, punishment, repentance, and restoration reveals deep spiritual dynamics."
+          },
+          {
+            "id": "c",
+            "text": "Remembrance as Spiritual Discipline",
+            "expansion": "Honestly recounting historical mistakes serves as a profound mechanism for spiritual growth and transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine patience is infinite, what responsibility do humans bear for repeatedly breaking sacred trust?"
+      },
+      "moral_slider": {
+        "question": "How do you balance divine judgment with divine mercy?",
+        "left_label": "Strict Justice",
+        "right_label": "Unlimited Forgiveness"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of collective spiritual responsibility shifted?",
+        "options": [
+          "I now see individual actions as interconnected",
+          "Historical patterns reveal deeper spiritual truths",
+          "Repentance is more nuanced than I previously understood",
+          "Community accountability matters more than personal righteousness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "National Confession of Israel's Persistent Rebellion",
+          "summary": "This psalm provides a historical retrospective of Israel's consistent pattern of disobedience and God's remarkable, enduring mercy. It chronicles the nation's repeated failures despite divine intervention and God's unwavering covenant commitment.",
+          "cross_references": [
+            "Exodus 32:9-14",
+            "Nehemiah 9:16-17",
+            "Romans 5:20",
+            "1 Corinthians 10:1-13"
+          ]
+        },
+        {
+          "title": "Divine Mercy Overcoming Human Weakness",
+          "summary": "Psalms 106 demonstrates God's transformative grace that persistently rescues His people despite their repeated transgressions. The psalm illustrates how divine compassion ultimately triumphs over human spiritual failure.",
+          "cross_references": [
+            "Lamentations 3:22-23",
+            "Romans 8:38-39",
+            "2 Timothy 2:13",
+            "Hebrews 11:32-34"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand God's relationship with a repeatedly disobedient people?",
+        "options": [
+          "God's covenant love transcends human faithlessness",
+          "Divine judgment is inevitable for persistent rebellion",
+          "Redemption is always possible through genuine repentance",
+          "Historical patterns reveal cyclical spiritual dynamics"
+        ]
+      }
+    }
+  }
+}

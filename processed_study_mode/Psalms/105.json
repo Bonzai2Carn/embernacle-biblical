@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 105,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and recall God's faithfulness through generations, taking 3 deep breaths while remembering His historical promises",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I better remember and share God's miraculous work in my personal history?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Start a personal testimony journal",
+            "response": "Document specific ways God has been faithful in your life"
+          },
+          {
+            "id": 2,
+            "text": "Share a story of God's provision with a family member",
+            "response": "Intentionally recount a specific moment of divine intervention"
+          },
+          {
+            "id": 3,
+            "text": "Create a visual timeline of God's guidance",
+            "response": "Map out key spiritual moments in your journey"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing God's promises traveling through generations, using different colors for each generation's story",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 105 shifted your understanding of God's historical faithfulness?",
+        "options": [
+          "I see God's consistent love across generations",
+          "I recognize patterns of divine intervention",
+          "I feel more connected to biblical history",
+          "I understand God's promises are eternal"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound theme of God's faithfulness resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Covenant Remembrance",
+            "expansion": "Divine promises transcend generations, showing persistent love beyond human limitations."
+          },
+          {
+            "id": 2,
+            "text": "Historical Redemption Narrative",
+            "expansion": "Each historical moment reveals God's strategic intervention in human affairs."
+          },
+          {
+            "id": 3,
+            "text": "Transformative Divine Protection",
+            "expansion": "God's protective power actively shields and guides His chosen people through impossible circumstances."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine faithfulness is constant, what role do human choices truly play in spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine sovereignty with human free will?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Predestination"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of God's relationship with humanity shifted?",
+        "options": [
+          "More appreciation for historical continuity",
+          "Deeper understanding of covenant dynamics",
+          "Recognition of divine patience",
+          "Awareness of collective spiritual journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Covenant Faithfulness",
+          "summary": "Psalm 105 celebrates God's unwavering commitment to His covenant with Abraham, Isaac, and Jacob. The psalm recounts Israel's historical journey, highlighting divine intervention and preservation through generations.",
+          "cross_references": [
+            "Genesis 12:1-3",
+            "Exodus 2:24-25",
+            "1 Chronicles 16:8-36",
+            "Romans 11:29"
+          ]
+        },
+        {
+          "title": "Divine Providence in Israel's History",
+          "summary": "The psalm systematically demonstrates God's sovereign guidance and protection throughout Israel's formative historical periods. It emphasizes how divine providence superintends national destiny, even through challenging circumstances.",
+          "cross_references": [
+            "Deuteronomy 7:6-8",
+            "Isaiah 46:9-10",
+            "Acts 13:17-22",
+            "Hebrews 11:8-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's covenant relationship with Israel inform our understanding of divine promises?",
+        "options": [
+          "God's promises are unconditional and eternally binding",
+          "Covenant promises require ongoing human faithfulness",
+          "Divine promises transcend historical-cultural limitations",
+          "Covenant relationships demonstrate God's redemptive purposes"
+        ]
+      }
+    }
+  }
+}

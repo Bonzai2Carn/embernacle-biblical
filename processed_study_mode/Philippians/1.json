@@ -1,0 +1,117 @@
+{
+  "book": "Philippians",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on your spiritual 'fellowship in the gospel' - how do your relationships actively support Christ's mission?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you demonstrate joy and unity in your Christian community, even during challenging times?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray consistently for fellow believers",
+            "response": "Create a weekly prayer journal tracking specific needs of your church community"
+          },
+          {
+            "id": 2,
+            "text": "Encourage others in their spiritual journey",
+            "response": "Send weekly encouragement messages to 2-3 church members"
+          },
+          {
+            "id": 3,
+            "text": "Practice gracious communication",
+            "response": "Commit to speaking positively about your church and its leaders"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting different people, representing how the gospel brings diverse believers together in unity",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of Christian community and partnership?",
+        "options": [
+          "I see community more as a collaborative mission",
+          "I recognize the importance of mutual spiritual support",
+          "I understand joy can exist alongside suffering",
+          "I'm more aware of my role in spreading the gospel"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's spiritual perspective resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Joy in Christ despite circumstances",
+            "expansion": "Paul demonstrates radical contentment transcending external challenges."
+          },
+          {
+            "id": 2,
+            "text": "Partnership in the Gospel",
+            "expansion": "Spiritual community is a profound source of mutual encouragement and strength."
+          },
+          {
+            "id": 3,
+            "text": "Living is Christ, dying is gain",
+            "expansion": "Paul's ultimate identity is defined by his relationship with Jesus, not worldly achievements."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perspective on suffering change if you viewed it as an opportunity for spiritual growth rather than a punishment?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and spiritual calling interact?",
+        "left_label": "Personal Comfort",
+        "right_label": "Spiritual Sacrifice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community evolved?",
+        "options": [
+          "Seeing community as transactional",
+          "Recognizing deeper spiritual interconnectedness",
+          "Understanding suffering as potentially transformative",
+          "Valuing spiritual partnership over individual achievement"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Gospel Partnership and Spiritual Unity",
+          "summary": "Paul emphasizes the profound spiritual connection between believers through Christ's mission. The church in Philippi shares a collaborative relationship in spreading the Gospel, demonstrating interdependence and mutual spiritual support.",
+          "cross_references": [
+            "2 Corinthians 8:23",
+            "Romans 12:4-5",
+            "Ephesians 4:4-6",
+            "1 Corinthians 3:9"
+          ]
+        },
+        {
+          "title": "Divine Providence in Suffering",
+          "summary": "Paul interprets personal challenges and imprisonment through a theological lens of God's sovereign plan. He views his circumstances as opportunities for Christ's gospel to advance, transforming potential setbacks into ministerial opportunities.",
+          "cross_references": [
+            "Romans 8:28",
+            "Genesis 50:20",
+            "Acts 16:22-25",
+            "2 Corinthians 12:9-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand personal suffering in relationship to God's redemptive purposes?",
+        "options": [
+          "Suffering is purely punitive and indicates spiritual weakness",
+          "Suffering can be a strategic platform for gospel advancement",
+          "Personal comfort and spiritual growth are mutually exclusive",
+          "Divine purposes can transcend immediate human comprehension"
+        ]
+      }
+    }
+  }
+}

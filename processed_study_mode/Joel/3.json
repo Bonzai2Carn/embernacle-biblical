@@ -1,0 +1,117 @@
+{
+  "book": "Joel",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize God defending His people, bringing justice to those who have oppressed them.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when you see injustice against vulnerable people?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray for divine intervention",
+            "response": "Spend time interceding for those who are marginalized"
+          },
+          {
+            "id": 2,
+            "text": "Take personal action",
+            "response": "Research local organizations that support justice and consider volunteering"
+          },
+          {
+            "id": 3,
+            "text": "Raise awareness",
+            "response": "Share stories and educate others about systemic oppression"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a protective shield representing God's defense of His people",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of God's justice?",
+        "options": [
+          "God is more actively involved than I previously thought",
+          "Justice is more complex than simple punishment",
+          "God deeply cares about the marginalized",
+          "Restoration is part of God's ultimate plan"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine perspective on justice most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's defense of the marginalized",
+            "expansion": "Divine intervention protects those systematically oppressed and exploited"
+          },
+          {
+            "id": 2,
+            "text": "Cosmic accountability for nations",
+            "expansion": "Historical actions and collective behaviors have spiritual consequences"
+          },
+          {
+            "id": 3,
+            "text": "Restoration after displacement",
+            "expansion": "God's ultimate plan includes redemptive restoration for scattered peoples"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine justice operates beyond human timelines, how might our perception of fairness be fundamentally limited?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine judgment with divine mercy?",
+        "left_label": "Retributive Justice",
+        "right_label": "Restorative Compassion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of collective spiritual accountability shifted?",
+        "options": [
+          "I now see broader systemic implications",
+          "Individual actions matter more than I previously understood",
+          "Historical injustices have spiritual weight",
+          "Divine perspective transcends human frameworks"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment of Nations",
+          "summary": "God demonstrates His sovereignty by holding nations accountable for their treatment of Israel. The Valley of Jehoshaphat represents a prophetic moment of divine judicial process where international actions against God's chosen people are evaluated.",
+          "cross_references": [
+            "Matthew 25:31-46",
+            "Revelation 16:16",
+            "Zechariah 12:2-3",
+            "Isaiah 34:2-4"
+          ]
+        },
+        {
+          "title": "Restoration of Israel",
+          "summary": "Joel prophesies a comprehensive restoration of Israel, where God will not only return His people to their land but also vindicate them against historical oppressors. This restoration represents a profound demonstration of God's covenant faithfulness.",
+          "cross_references": [
+            "Ezekiel 37:21-22",
+            "Amos 9:14-15",
+            "Romans 11:25-26",
+            "Isaiah 11:11-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary theological understanding interpret divine judgment against nations regarding Israel?",
+        "options": [
+          "Literal geographic judgment",
+          "Symbolic spiritual accountability",
+          "Prophetic representation of eschatological events",
+          "Covenantal redemptive process"
+        ]
+      }
+    }
+  }
+}

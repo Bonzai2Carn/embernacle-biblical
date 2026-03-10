@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 32,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and reflect: Am I more focused on defending myself or understanding God's perspective?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when I feel misunderstood or criticized?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become defensive",
+            "response": "Practice listening before speaking"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw completely",
+            "response": "Seek healthy dialogue and understanding"
+          },
+          {
+            "id": 3,
+            "text": "React with anger",
+            "response": "Cultivate patience and humility"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing someone listening carefully before speaking, representing Elihu's respectful approach",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "What did I learn about patience and wisdom from this chapter?",
+        "options": [
+          "Wisdom isn't about age, but understanding",
+          "Listening is more important than being right",
+          "Anger can block true communication",
+          "Respect matters in difficult conversations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What strikes you most about Elihu's emergence?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Youthful Perspective",
+            "expansion": "Elihu represents a fresh viewpoint unbound by generational preconceptions."
+          },
+          {
+            "id": 2,
+            "text": "Suppressed Wisdom",
+            "expansion": "His restraint in speaking until the elders had exhausted their arguments reveals strategic humility."
+          },
+          {
+            "id": 3,
+            "text": "Righteous Indignation",
+            "expansion": "Elihu's anger stems from a deeper theological concern about misrepresenting divine justice."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wisdom is not exclusively correlated with age, what truly qualifies someone to speak authoritatively about suffering?"
+      },
+      "moral_slider": {
+        "question": "How do personal righteousness and divine perspective interact?",
+        "left_label": "Human Justification",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of wisdom and suffering shifted?",
+        "options": [
+          "Recognizing humility's importance",
+          "Understanding generational perspectives",
+          "Challenging presumptive theological arguments",
+          "Seeing anger as a potential catalyst for insight"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Wisdom Beyond Age",
+          "summary": "True spiritual understanding is not exclusively tied to chronological age but to divine insight and humility. Elihu represents a younger perspective challenging the traditional wisdom of elder counselors.",
+          "cross_references": [
+            "1 Timothy 4:12",
+            "Ecclesiastes 4:13",
+            "1 Corinthians 1:27",
+            "Proverbs 16:31"
+          ]
+        },
+        {
+          "title": "Righteous Anger and Spiritual Discernment",
+          "summary": "Elihu's anger stems from a passion for God's justice and a frustration with theological misrepresentations. His response demonstrates that righteous anger can be a catalyst for spiritual correction and deeper understanding.",
+          "cross_references": [
+            "Ephesians 4:26",
+            "James 1:19-20",
+            "Psalm 7:11",
+            "Proverbs 19:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What theological perspectives emerge from Elihu's emergence in the dialogue?",
+        "options": [
+          "Divine wisdom transcends generational boundaries",
+          "Spiritual discernment requires humility and openness",
+          "Righteous confrontation can be a form of spiritual correction",
+          "Personal righteousness must not overshadow God's sovereignty"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on the sacred process of new life and ritual purification",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you view personal seasons of transition and restoration?",
+        "options": [
+          {
+            "id": "1",
+            "text": "I see transitions as opportunities for spiritual renewal",
+            "response": "Create a personal ritual of reflection after significant life changes"
+          },
+          {
+            "id": "2",
+            "text": "I struggle with feeling 'unclean' during vulnerable seasons",
+            "response": "Practice self-compassion and seek spiritual counseling"
+          },
+          {
+            "id": "3",
+            "text": "I want to understand sacred boundaries better",
+            "response": "Study historical and cultural meanings of ritual purification"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a symbolic journey of healing and restoration after a significant life transition",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Leviticus 12 changed your perspective on spiritual restoration?",
+        "options": [
+          "I understand ritual practices as meaningful spiritual processes",
+          "I see vulnerability as a sacred part of human experience",
+          "I recognize the importance of intentional healing seasons",
+          "I appreciate cultural approaches to marking life transitions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of ritual purity resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Physical Boundaries of Holiness",
+            "expansion": "Ritual separation creates sacred spaces of spiritual transformation."
+          },
+          {
+            "id": 2,
+            "text": "Feminine Experience of Motherhood",
+            "expansion": "Biological processes are intrinsically connected to spiritual restoration."
+          },
+          {
+            "id": 3,
+            "text": "Divine Attention to Personal Transition",
+            "expansion": "God's meticulous care extends to individual life cycles and intimate experiences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If ritual impurity is not about moral judgment, but spiritual attunement, how might we reframe our understanding of bodily experiences as sacred?"
+      },
+      "moral_slider": {
+        "question": "How do cultural practices of ritual purification balance between communal protection and individual dignity?",
+        "left_label": "External Regulation",
+        "right_label": "Personal Autonomy"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on bodily processes and spiritual holiness shifted?",
+        "options": [
+          "More appreciative of complex spiritual transitions",
+          "Recognize deeper symbolic meanings in ritual practices",
+          "Understand interconnectedness of physical and spiritual realms",
+          "Recognize divine compassion in detailed instructions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Ritual Purity and Childbirth",
+          "summary": "This passage addresses the ritual impurity associated with childbirth and the prescribed purification process for women. The text establishes ceremonial regulations that demonstrate God's holiness and the importance of ritual cleansing after biological processes.",
+          "cross_references": [
+            "Luke 2:22-24",
+            "Genesis 17:12",
+            "Exodus 13:2",
+            "1 Samuel 1:21-28"
+          ]
+        },
+        {
+          "title": "Spiritual Symbolism of Purification",
+          "summary": "The extended purification period reveals divine perspectives on life, reproduction, and spiritual restoration. The regulations symbolize the transition between physical vulnerability and spiritual readiness, highlighting the sacred nature of new life.",
+          "cross_references": [
+            "Psalm 51:7",
+            "Romans 6:4",
+            "2 Corinthians 5:17",
+            "Galatians 4:4-5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do these purification rituals reflect God's perspective on human life and spiritual transformation?",
+        "options": [
+          "They demonstrate God's meticulous care for physical and spiritual boundaries",
+          "They symbolize the process of spiritual renewal and sanctification",
+          "They represent the distinction between ceremonial and moral holiness",
+          "They illustrate the comprehensive nature of God's redemptive plan"
+        ]
+      }
+    }
+  }
+}

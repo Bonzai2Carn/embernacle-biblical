@@ -1,0 +1,117 @@
+{
+  "book": "2 Timothy",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine yourself as a disciplined soldier in Christ's army, focused solely on your mission of spiritual growth and sharing the gospel.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Who are the 'faithful men' in your life that you could mentor or invest spiritual wisdom into?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Younger believers at church",
+            "response": "Offer to mentor or disciple someone weekly"
+          },
+          {
+            "id": 2,
+            "text": "Family members seeking spiritual guidance",
+            "response": "Schedule intentional spiritual conversations"
+          },
+          {
+            "id": 3,
+            "text": "Colleagues or community members",
+            "response": "Create a small discipleship group or study"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a soldier's equipment, but replace traditional weapons with spiritual tools like prayer, scripture, faith, and love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of Christian commitment?",
+        "options": [
+          "I need to be more disciplined in my faith",
+          "Mentorship is more important than I realized",
+          "Endurance is a critical spiritual characteristic",
+          "I want to invest more in others' spiritual growth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual metaphor resonates most deeply with your understanding of discipleship?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Soldier of Christ",
+            "expansion": "Discipleship requires disciplined commitment and strategic spiritual warfare."
+          },
+          {
+            "id": 2,
+            "text": "Trained Athlete",
+            "expansion": "Christian growth demands rigorous training, personal discipline, and adherence to spiritual rules."
+          },
+          {
+            "id": 3,
+            "text": "Faithful Transmitter of Truth",
+            "expansion": "Spiritual legacy involves carefully preserving and passing down transformative teachings."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal comfort be hindering your capacity to endure spiritual challenges?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal grace with doctrinal integrity?",
+        "left_label": "Radical Grace",
+        "right_label": "Doctrinal Precision"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual mentorship evolved?",
+        "options": [
+          "More committed to discipleship",
+          "Recognize the importance of theological transmission",
+          "Understand spiritual growth requires intentionality",
+          "Appreciate the multi-generational nature of faith"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Discipleship and Spiritual Legacy",
+          "summary": "Paul instructs Timothy to perpetuate sound Christian teaching through intentional mentorship and discipleship. The transmission of theological truth requires faithful individuals who can accurately preserve and communicate the gospel message.",
+          "cross_references": [
+            "Matthew 28:19-20",
+            "Titus 2:1-2",
+            "2 John 1:9-11",
+            "Ephesians 4:11-16"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare and Christian Endurance",
+          "summary": "Christians are called to persevere through challenges, viewing their faith journey as a spiritual battle requiring discipline, commitment, and strategic focus. Metaphors of soldiering and athletic competition illustrate the demanding nature of Christian discipleship.",
+          "cross_references": [
+            "Ephesians 6:10-18",
+            "1 Corinthians 9:24-27",
+            "James 1:2-4",
+            "Romans 8:37"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand their role in spiritual transmission and conflict?",
+        "options": [
+          "As passive recipients of tradition",
+          "As active agents of gospel preservation and proclamation",
+          "As primarily defensive spiritual warriors",
+          "As strategic, disciplined spiritual ambassadors"
+        ]
+      }
+    }
+  }
+}

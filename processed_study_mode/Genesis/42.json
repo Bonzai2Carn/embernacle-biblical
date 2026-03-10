@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 42,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being reunited with someone you've been separated from for many years. Breathe deeply and consider God's mysterious ways of restoration.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do unresolved family conflicts might be holding you back from experiencing God's full blessing?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek reconciliation",
+            "response": "Make a plan to reach out and communicate honestly with the estranged family member"
+          },
+          {
+            "id": 2,
+            "text": "Pray for healing",
+            "response": "Spend time in prayer asking God to soften hearts and provide wisdom"
+          },
+          {
+            "id": 3,
+            "text": "Self-examine my role",
+            "response": "Journal about your part in the family tension and seek personal growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a time when unexpected circumstances led to surprising reconnection",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of family dynamics and God's providence?",
+        "options": [
+          "I see how God works through difficult circumstances",
+          "Family reconciliation is complex and takes time",
+          "Past hurts can be transformed by grace",
+          "God's plans are often mysterious and unexpected"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about family dynamics in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family survival under economic pressure",
+            "expansion": "Economic challenges can reveal deeper family tensions and survival strategies."
+          },
+          {
+            "id": 2,
+            "text": "Unresolved guilt and past betrayals",
+            "expansion": "Past familial sins create long-lasting psychological and relational consequences."
+          },
+          {
+            "id": 3,
+            "text": "Protective parental instincts",
+            "expansion": "Parents often make complex decisions to shield their most vulnerable children."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might unacknowledged past sins continue to shape present family relationships?"
+      },
+      "moral_slider": {
+        "question": "To what extent should family reconciliation depend on confronting historical wrongs?",
+        "left_label": "Forgiveness without Accountability",
+        "right_label": "Full Disclosure and Repentance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of family dynamics shifted after studying this chapter?",
+        "options": [
+          "Recognize complexity of sibling relationships",
+          "Understand generational impact of betrayal",
+          "Appreciate subtle dynamics of forgiveness",
+          "See economic pressures as relational catalysts"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Famine",
+          "summary": "God's sovereign control orchestrates events to fulfill His redemptive plan. The widespread famine forces Jacob's family into a critical moment of reconciliation and restoration.",
+          "cross_references": [
+            "Genesis 50:20",
+            "Romans 8:28",
+            "Psalm 105:16-17",
+            "Acts 7:11-12"
+          ]
+        },
+        {
+          "title": "Consequences of Past Sin",
+          "summary": "The brothers encounter the profound spiritual consequences of their previous betrayal of Joseph. Their past actions create a moment of divine reckoning and potential redemption.",
+          "cross_references": [
+            "Galatians 6:7",
+            "Numbers 32:23",
+            "Proverbs 11:21",
+            "Job 4:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's providence intersect with human free will in this narrative?",
+        "options": [
+          "God predetermines all events without human agency",
+          "Human choices are sovereign, with God responding reactively",
+          "Divine sovereignty and human responsibility coexist mysteriously",
+          "Events are purely random without divine intervention"
+        ]
+      }
+    }
+  }
+}

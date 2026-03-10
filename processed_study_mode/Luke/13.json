@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on moments where you've judged others' suffering, then breathe and release those judgments",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when tragedy strikes someone else?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I tend to speculate about their possible sins",
+            "response": "Practice compassion instead of judgment"
+          },
+          {
+            "id": 2,
+            "text": "I immediately offer sympathy",
+            "response": "Deepen your empathy with intentional prayer"
+          },
+          {
+            "id": 3,
+            "text": "I become anxious about potential dangers",
+            "response": "Surrender your fears through repentance and trust"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a tree that represents your spiritual growth, with branches showing areas needing pruning and areas bearing fruit",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage shifted your understanding of suffering and repentance?",
+        "options": [
+          "Suffering isn't always a direct punishment",
+          "Everyone needs personal repentance",
+          "God's mercy is broader than human judgment",
+          "Tragedies should prompt spiritual reflection"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on suffering most challenges your understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Suffering is not necessarily a direct punishment for personal sin",
+            "expansion": "Divine justice operates beyond simplistic cause-and-effect morality"
+          },
+          {
+            "id": 2,
+            "text": "Universal human vulnerability demands universal repentance",
+            "expansion": "Tragedy reveals our shared mortality and spiritual need"
+          },
+          {
+            "id": 3,
+            "text": "Unexpected death calls us to spiritual readiness",
+            "expansion": "Life's unpredictability demands continuous spiritual preparation"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering is not a direct measure of personal righteousness, how do we understand divine justice and human accountability?"
+      },
+      "moral_slider": {
+        "question": "What determines spiritual consequence: Individual actions or divine mercy?",
+        "left_label": "Personal Accountability",
+        "right_label": "Divine Grace"
+      },
+      "reevaluation": {
+        "question": "How has this passage shifted your understanding of suffering and redemption?",
+        "options": [
+          "I see suffering more compassionately",
+          "I recognize the importance of personal repentance",
+          "I understand divine judgment differently",
+          "I'm more aware of life's fragility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and Human Suffering",
+          "summary": "Jesus challenges the presumption that personal tragedy indicates greater sinfulness. He redirects listeners' focus from speculating about others' spiritual status to examining their own need for repentance.",
+          "cross_references": [
+            "Job 1:1-22",
+            "John 9:1-3",
+            "Romans 2:1-4",
+            "1 Corinthians 10:13"
+          ]
+        },
+        {
+          "title": "Universal Call to Repentance",
+          "summary": "Christ emphasizes that unexpected death should not distract from the urgent spiritual necessity of personal transformation. Suffering and mortality serve as divine warnings about the importance of spiritual preparedness.",
+          "cross_references": [
+            "2 Peter 3:9",
+            "Acts 17:30",
+            "Ezekiel 18:32",
+            "Revelation 3:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret unexpected suffering or tragic events?",
+        "options": [
+          "As direct punishment for specific sins",
+          "As opportunities for spiritual reflection and repentance",
+          "As random occurrences without spiritual significance",
+          "As tests of faith and spiritual resilience"
+        ]
+      }
+    }
+  }
+}

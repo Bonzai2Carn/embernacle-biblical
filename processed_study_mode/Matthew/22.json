@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to imagine yourself invited to a royal wedding feast, reflecting on how unworthy yet welcomed you are by God's grace",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How am I responding to God's unexpected invitation in my life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Remain comfortable in my current routine",
+            "response": "Challenge yourself to step out in faith this week"
+          },
+          {
+            "id": 2,
+            "text": "Make excuses for not fully engaging",
+            "response": "Identify one specific area where you're hesitating and take a small step forward"
+          },
+          {
+            "id": 3,
+            "text": "Authentically prepare my heart for God's calling",
+            "response": "Spend time in prayer asking God to align your heart with His invitation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself at a wedding feast, showing how you might look if you were suddenly and unexpectedly invited",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of God's kingdom invitation changed after reading this chapter?",
+        "options": [
+          "I see God's invitation is more inclusive than I previously thought",
+          "I recognize the importance of being spiritually prepared",
+          "I understand that responding to God requires humility",
+          "I see that God's grace is both generous and transformative"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which parable challenges your understanding of divine invitation most profoundly?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Wedding Feast Parable",
+            "expansion": "God's invitation transcends social status and requires genuine spiritual readiness."
+          },
+          {
+            "id": 2,
+            "text": "Tribute to Caesar",
+            "expansion": "Spiritual allegiance and civic responsibility can coexist through nuanced discernment."
+          },
+          {
+            "id": 3,
+            "text": "Resurrection Debate",
+            "expansion": "Divine reality often challenges human conceptual limitations and presumed understanding."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine invitation is universally offered, what prevents universal acceptance?"
+      },
+      "moral_slider": {
+        "question": "How do personal righteousness and divine grace interact?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual readiness evolved?",
+        "options": [
+          "More aware of personal spiritual preparedness",
+          "Recognize complexity of divine invitation",
+          "Understand limitations of legalistic thinking",
+          "Appreciate nuanced theological interpretation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Parable of the Wedding Feast",
+          "summary": "Illustrates God's inclusive kingdom invitation, emphasizing that salvation is available to all who accept, regardless of background. The parable reveals divine sovereignty and human responsibility in response to God's grace.",
+          "cross_references": [
+            "Luke 14:16-24",
+            "Revelation 19:6-9",
+            "Isaiah 25:6-8",
+            "Ephesians 2:8-9"
+          ]
+        },
+        {
+          "title": "Rendering to Caesar and God",
+          "summary": "Demonstrates the complex relationship between spiritual and civic responsibilities, teaching that believers can simultaneously honor governmental authorities and remain committed to God's higher purposes. Highlights the principle of dual citizenship in earthly and heavenly kingdoms.",
+          "cross_references": [
+            "Romans 13:1-7",
+            "1 Peter 2:13-17",
+            "Acts 5:29",
+            "Titus 3:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this chapter challenge traditional understanding of divine election and human free will?",
+        "options": [
+          "God's invitation is universally extended, but individual response determines acceptance",
+          "Divine predestination completely overrides human choice",
+          "Salvation is simultaneously a divine initiative and human decision",
+          "The parable suggests a limited, predetermined group can enter God's kingdom"
+        ]
+      }
+    }
+  }
+}

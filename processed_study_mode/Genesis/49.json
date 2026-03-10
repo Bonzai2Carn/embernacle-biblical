@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 49,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize your legacy - what do you want your children or loved ones to remember about your character and faith?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do your current actions today shape the potential future for your family and descendants?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm being intentional about my choices",
+            "response": "Continue documenting personal values and spiritual lessons for future generations"
+          },
+          {
+            "id": 2,
+            "text": "I'm uncertain about my impact",
+            "response": "Start journaling spiritual insights and personal growth for your family"
+          },
+          {
+            "id": 3,
+            "text": "I need guidance",
+            "response": "Seek mentorship from spiritual leaders about generational influence"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing the strengths and potential challenges of each branch, inspired by Jacob's prophetic blessings",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Jacob's final words changed your understanding of family legacy?",
+        "options": [
+          "Legacy is more complex than I previously thought",
+          "Individual choices significantly impact family trajectory",
+          "Spiritual inheritance matters more than material wealth",
+          "Forgiveness and redemption can transform family narratives"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound theme resonates most in Jacob's final prophetic blessing?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Familial Legacy",
+            "expansion": "Each son carries generational consequences beyond their individual actions."
+          },
+          {
+            "id": 2,
+            "text": "Divine Providence",
+            "expansion": "God's predetermined trajectory overrides human weakness and individual failures."
+          },
+          {
+            "id": 3,
+            "text": "Moral Accountability",
+            "expansion": "Personal choices create lasting ripples through generations of consequences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If a person's potential is predetermined, how much genuine agency does an individual truly possess?"
+      },
+      "moral_slider": {
+        "question": "To what extent do past family transgressions define future potential?",
+        "left_label": "Unchangeable Destiny",
+        "right_label": "Personal Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of generational dynamics shifted?",
+        "options": [
+          "I now see deeper patterns of inheritance",
+          "Individual choice matters more than inherited traits",
+          "Spiritual legacy transcends biological lineage",
+          "Family history is more complex than simple determinism"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Prophetic Patriarchal Blessing",
+          "summary": "Jacob's final discourse represents a profound prophetic declaration over his sons, revealing divine destiny and generational trajectory. This chapter demonstrates God's sovereign plan of redemption being communicated through familial lineage.",
+          "cross_references": [
+            "Hebrews 11:21",
+            "Romans 9:6-8",
+            "Isaiah 44:1-3",
+            "Galatians 3:29"
+          ]
+        },
+        {
+          "title": "Divine Providence and Individual Accountability",
+          "summary": "Jacob's pronouncements illustrate how individual moral choices impact familial and national destinies. Each son receives a personalized prophecy reflecting their past actions and future potential within God's overarching redemptive plan.",
+          "cross_references": [
+            "Exodus 20:5",
+            "Numbers 14:18",
+            "Jeremiah 32:18",
+            "Ezekiel 18:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jacob's prophetic blessing demonstrate divine sovereignty versus human free will?",
+        "options": [
+          "Divine predestination completely determines outcomes",
+          "Human choices significantly influence prophetic trajectories",
+          "Prophetic declarations are conditional upon faithfulness",
+          "Individual actions are integrated into God's larger redemptive plan"
+        ]
+      }
+    }
+  }
+}

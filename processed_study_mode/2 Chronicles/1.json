@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God offering you wisdom. What would you ask for?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you seeking divine wisdom in your current life challenges?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Prayer and meditation",
+            "response": "Spend 10 minutes in focused prayer asking for guidance"
+          },
+          {
+            "id": 2,
+            "text": "Scripture study",
+            "response": "Read a Proverbs chapter about wisdom this week"
+          },
+          {
+            "id": 3,
+            "text": "Seeking godly counsel",
+            "response": "Schedule a meeting with a spiritual mentor"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself receiving wisdom from God, showing what supernatural wisdom might look like visually",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Solomon's wisdom request changed your perspective on seeking divine guidance?",
+        "options": [
+          "I see wisdom as a gift, not just a personal achievement",
+          "I realize God wants to give me wisdom proactively",
+          "I understand wisdom is more valuable than material wealth",
+          "I'm inspired to pray more specifically for wisdom"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of leadership stands out most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Empowerment",
+            "expansion": "Solomon's strength comes directly from God's presence and exaltation."
+          },
+          {
+            "id": 2,
+            "text": "Collective Consultation",
+            "expansion": "Solomon involves national leaders in significant spiritual moments."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Seeking",
+            "expansion": "Solomon demonstrates humility by approaching God at the high place of Gibeon."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might true leadership emerge not from personal ambition, but from genuine spiritual alignment?"
+      },
+      "moral_slider": {
+        "question": "To what extent does divine favor depend on human initiative versus pure grace?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual leadership shifted?",
+        "options": [
+          "Recognized importance of communal spiritual moments",
+          "Appreciated divine empowerment over individual capability",
+          "Understood leadership as spiritual seeking",
+          "Saw humility as a precondition for true power"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Empowerment of Leadership",
+          "summary": "Solomon's ascension demonstrates God's sovereign selection and empowerment of spiritual leadership. The Lord exalted Solomon and granted him unprecedented wisdom and authority, revealing divine delegation of governmental responsibilities.",
+          "cross_references": [
+            "1 Kings 3:9-14",
+            "Proverbs 8:15-16",
+            "Romans 13:1",
+            "Daniel 2:21"
+          ]
+        },
+        {
+          "title": "Seeking Divine Wisdom",
+          "summary": "Solomon's approach to Gibeon represents a profound spiritual hunger for divine guidance and understanding. By sacrificing and seeking God's counsel, he models the principle of prioritizing spiritual insight over personal ambition.",
+          "cross_references": [
+            "James 1:5",
+            "Proverbs 2:6",
+            "Colossians 1:9",
+            "Psalm 32:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine empowerment relate to human responsibility in spiritual leadership?",
+        "options": [
+          "Divine empowerment is unilateral and independent of human preparation",
+          "Human readiness and humility are prerequisites for divine empowerment",
+          "Spiritual leadership requires simultaneous divine grace and human cooperation",
+          "Theological authority is exclusively determined by institutional appointment"
+        ]
+      }
+    }
+  }
+}

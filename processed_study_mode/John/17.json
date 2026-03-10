@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 17,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus praying directly to the Father on your behalf, interceding with deep love and purpose",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How deeply do you understand your relationship with God as Jesus describes 'eternal life'?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I see it as distant and formal",
+            "response": "Spend time reading Scripture to understand God's personal nature"
+          },
+          {
+            "id": 2,
+            "text": "I feel somewhat connected",
+            "response": "Journal about moments you've felt God's presence"
+          },
+          {
+            "id": 3,
+            "text": "I experience intimate relationship",
+            "response": "Continue cultivating daily communication with God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of Jesus standing between you and God, representing His role as mediator and intercessor",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of prayer and relationship with God?",
+        "options": [
+          "Prayer is more about connection than requests",
+          "Jesus truly advocates for me personally",
+          "God wants deep, transformative relationship",
+          "My understanding of prayer has deepened"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Christ's complete submission to the Father's will",
+            "expansion": "Jesus demonstrates radical obedience as the ultimate model of spiritual surrender."
+          },
+          {
+            "id": 2,
+            "text": "The profound nature of eternal life as knowing God",
+            "expansion": "True life is not about duration, but intimate relationship with the divine."
+          },
+          {
+            "id": 3,
+            "text": "Jesus interceding for His disciples' unity and protection",
+            "expansion": "Christ's prayer reveals His deep compassion and spiritual covering for believers."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If knowing God is eternal life, how might your current understanding limit or expand your spiritual perception?"
+      },
+      "moral_slider": {
+        "question": "How do you balance divine sovereignty with human agency?",
+        "left_label": "Human Free Will",
+        "right_label": "Divine Predestination"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer and spiritual intimacy shifted?",
+        "options": [
+          "More aware of prayer as relationship, not transaction",
+          "Recognize deeper spiritual unity among believers",
+          "See Christ's intercession as personally meaningful",
+          "Understand spiritual authority differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Unity and Mission",
+          "summary": "Jesus reveals the profound relationship between the Father and Son, demonstrating their unified purpose in salvation. The prayer highlights Christ's complete submission to the Father's will and His role in revealing God's nature.",
+          "cross_references": [
+            "Philippians 2:5-11",
+            "Colossians 1:15-19",
+            "Hebrews 1:1-3",
+            "1 John 5:20"
+          ]
+        },
+        {
+          "title": "Eternal Life through Relationship",
+          "summary": "Eternal life is defined not merely as duration, but as intimate knowledge of God through Jesus Christ. The passage emphasizes relationship over religious performance as the pathway to spiritual transformation.",
+          "cross_references": [
+            "John 10:10",
+            "Romans 8:29",
+            "2 Peter 1:4",
+            "1 John 2:23"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' high priestly prayer challenge traditional understandings of divine sovereignty and human agency?",
+        "options": [
+          "Divine election implies predetermined salvation without human response",
+          "God's sovereignty coexists with genuine human free will",
+          "Salvation is a collaborative process between divine initiative and human cooperation",
+          "Eternal life is exclusively determined by God's sovereign choice"
+        ]
+      }
+    }
+  }
+}

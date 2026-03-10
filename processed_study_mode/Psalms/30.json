@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on God's ability to transform mourning into dancing",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What personal 'pit' or season of struggle has God lifted you from?",
+        "options": [
+          {
+            "id": 1,
+            "text": "A professional setback",
+            "response": "Write a gratitude journal entry about God's restoration"
+          },
+          {
+            "id": 2,
+            "text": "An emotional or relational challenge",
+            "response": "Share your testimony of healing with a trusted friend"
+          },
+          {
+            "id": 3,
+            "text": "A spiritual dry season",
+            "response": "Create a prayer of thanksgiving for God's faithfulness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing a dark valley transforming into a bright, joyful landscape to represent God turning mourning into dancing",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm shifted your understanding of God's redemptive power?",
+        "options": [
+          "I see God as more compassionate",
+          "I understand suffering differently now",
+          "I feel more hope in difficult seasons",
+          "I recognize God's ability to restore"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine transformation resonates most?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's ability to turn mourning into dancing",
+            "expansion": "Suffering can be transformed into unexpected joy through divine intervention."
+          },
+          {
+            "id": "2",
+            "text": "The momentary nature of divine anger",
+            "expansion": "God's anger is fleeting, but His favor offers profound restoration."
+          },
+          {
+            "id": "3",
+            "text": "Personal testimony of deliverance",
+            "expansion": "Sharing personal experiences of divine rescue can inspire deeper spiritual understanding."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If joy emerges from periods of suffering, what might that suggest about the purpose of human adversity?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human vulnerability with divine strength?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Power"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience evolved?",
+        "options": [
+          "Recognizing divine timing",
+          "Understanding suffering as transformative",
+          "Embracing vulnerability",
+          "Witnessing unexpected redemption"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Deliverance",
+          "summary": "This psalm emphasizes God's rescue and restoration of the faithful from profound suffering and potential destruction. David celebrates how God transforms personal despair into jubilant praise, demonstrating divine intervention in human vulnerability.",
+          "cross_references": [
+            "Isaiah 43:1-3",
+            "2 Corinthians 1:10",
+            "Psalm 34:6",
+            "Jeremiah 29:11"
+          ]
+        },
+        {
+          "title": "Transformative Worship",
+          "summary": "The psalm reveals worship as a dynamic response to God's redemptive actions, where personal testimony becomes a vehicle for spiritual transformation. David's experience illustrates how authentic praise emerges from genuine personal encounters with divine mercy.",
+          "cross_references": [
+            "Psalm 22:22-24",
+            "Revelation 12:10-11",
+            "Romans 8:28",
+            "James 1:2-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering intersect with divine purpose in this psalm?",
+        "options": [
+          "Suffering is purely punitive and indicates divine displeasure",
+          "Suffering can be a transformative process for spiritual growth",
+          "Divine intervention always eliminates suffering immediately",
+          "Personal testimony of healing serves as a prophetic witness"
+        ]
+      }
+    }
+  }
+}

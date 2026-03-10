@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus meeting you personally at a place of your deepest need, just as He met the Samaritan woman",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently approach spiritual conversations with people different from you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I avoid engaging with people outside my comfort zone",
+            "response": "Practice intentional, compassionate listening this week"
+          },
+          {
+            "id": 2,
+            "text": "I'm curious but unsure how to start spiritual dialogues",
+            "response": "Learn one open-ended question that invites deeper conversation"
+          },
+          {
+            "id": 3,
+            "text": "I'm ready to share my faith authentically",
+            "response": "Pray for divine appointments this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a well, and around the well, write words of living water that Jesus offers",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of evangelism?",
+        "options": [
+          "Evangelism is more about listening than speaking",
+          "Everyone has a spiritual thirst waiting to be recognized",
+          "Cultural barriers can be overcome through genuine connection",
+          "Jesus values individuals over religious traditions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Jesus' encounter with the Samaritan woman most challenges your perspective?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Breaking Cultural Barriers",
+            "expansion": "Jesus transcends ethnic and social divisions by engaging a Samaritan woman in meaningful dialogue."
+          },
+          {
+            "id": 2,
+            "text": "Living Water Metaphor",
+            "expansion": "The spiritual water represents profound inner transformation beyond physical thirst."
+          },
+          {
+            "id": 3,
+            "text": "True Worship Revealed",
+            "expansion": "Authentic worship is about spirit and truth, not geographical location or ritualistic performance."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your preconceived social boundaries prevent you from recognizing spiritual opportunities?"
+      },
+      "moral_slider": {
+        "question": "Where do you position authentic spiritual encounter versus religious tradition?",
+        "left_label": "Rigid Tradition",
+        "right_label": "Transformative Encounter"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of spiritual transformation?",
+        "options": [
+          "Recognizing divine encounters in unexpected places",
+          "Understanding worship beyond physical rituals",
+          "Embracing conversations that cross social boundaries",
+          "Seeing personal testimony as powerful evangelism"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Living Water and Spiritual Transformation",
+          "summary": "Jesus reveals divine truth through metaphorical language about living water, symbolizing spiritual renewal and eternal life. The conversation with the Samaritan woman demonstrates God's inclusive grace that transcends cultural and religious boundaries.",
+          "cross_references": [
+            "Isaiah 12:3",
+            "Jeremiah 2:13",
+            "Revelation 22:17",
+            "John 7:38"
+          ]
+        },
+        {
+          "title": "True Worship and Divine Encounter",
+          "summary": "Christ redefines worship as a spiritual experience centered on genuine relationship with God rather than ritualistic practices or geographic location. He emphasizes that authentic worship involves spirit and truth, connecting directly with divine presence.",
+          "cross_references": [
+            "Psalm 51:6",
+            "Romans 12:1",
+            "1 Samuel 16:7",
+            "Micah 6:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' interaction with the Samaritan woman challenge traditional theological understanding of divine encounters?",
+        "options": [
+          "Demonstrates radical inclusivity of God's redemptive plan",
+          "Challenges social and religious prejudices of the time",
+          "Reveals divine knowledge transcending human limitations",
+          "Emphasizes personal transformation over institutional religion"
+        ]
+      }
+    }
+  }
+}

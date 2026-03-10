@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to silently affirm: 'God's righteousness is unchanging, even when I am unfaithful'",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How does understanding universal human sinfulness change my view of judgment and grace?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I see myself as equally in need of God's mercy",
+            "response": "Practice daily humility and gratitude for unmerited grace"
+          },
+          {
+            "id": "B",
+            "text": "I recognize no one is righteous by their own merit",
+            "response": "Extend compassion to others, knowing all need redemption"
+          },
+          {
+            "id": "C",
+            "text": "God's justice requires a perfect solution beyond human effort",
+            "response": "Deepen trust in Christ's redemptive work"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scale with human actions on one side and God's grace on the other, showing how grace outweighs our limitations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of righteousness?",
+        "options": [
+          "I now see righteousness as a gift, not an achievement",
+          "I understand God's justice is more complex than I previously thought",
+          "I recognize the universal need for redemption",
+          "I'm more aware of God's consistent character"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core theological insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Faithfulness Transcends Human Failure",
+            "expansion": "Divine reliability exists independent of human inconsistency"
+          },
+          {
+            "id": 2,
+            "text": "Universal Human Sinfulness",
+            "expansion": "All humans share a fundamental brokenness before divine standards"
+          },
+          {
+            "id": 3,
+            "text": "Grace Overcomes Legalistic Righteousness",
+            "expansion": "Salvation emerges from divine mercy, not human performance"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human unfaithfulness actually highlights God's faithfulness, can failure itself become a pathway to understanding grace?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate righteousness: in personal effort or divine intervention?",
+        "left_label": "Human Achievement",
+        "right_label": "Divine Grace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of redemption shifted?",
+        "options": [
+          "I see sin more comprehensively",
+          "Divine mercy feels more expansive",
+          "Personal effort seems less significant",
+          "Theological complexity has increased"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Universal Sinfulness",
+          "summary": "All humanity, both Jews and Gentiles, are under the condemnation of sin. No one is righteous by their own merit, and everyone stands equally guilty before God's divine judgment.",
+          "cross_references": [
+            "Psalm 14:1-3",
+            "Ecclesiastes 7:20",
+            "Galatians 3:22",
+            "1 John 1:8"
+          ]
+        },
+        {
+          "title": "Justification by Faith",
+          "summary": "Righteousness is not achieved through works of the law, but through faith in Jesus Christ. God provides salvation as a free gift, demonstrating His justice and mercy simultaneously.",
+          "cross_references": [
+            "Ephesians 2:8-9",
+            "Galatians 2:16",
+            "Titus 3:5",
+            "Romans 4:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human sinfulness reveal God's righteousness?",
+        "options": [
+          "God's perfect justice is demonstrated through humanity's moral failure",
+          "Divine grace becomes more magnificent when contrasted with human weakness",
+          "The depth of God's redemptive plan is revealed through universal human brokenness",
+          "Human sin provides an opportunity for God to display transformative mercy"
+        ]
+      }
+    }
+  }
+}

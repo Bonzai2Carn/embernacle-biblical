@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on an unintentional mistake you've made recently, and imagine laying your hand on a symbolic representation of that error, transferring its weight symbolically to God's mercy.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when you realize you've made an unintentional mistake?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I try to quickly make amends and seek forgiveness",
+            "response": "Practice immediate acknowledgment and seeking restoration"
+          },
+          {
+            "id": "b",
+            "text": "I often feel shame and try to hide my mistake",
+            "response": "Learn to view mistakes as opportunities for growth and grace"
+          },
+          {
+            "id": "c",
+            "text": "I minimize the impact and move on quickly",
+            "response": "Develop a more intentional approach to personal accountability"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a heavy burden being lifted off your shoulders, representing how God handles our unintentional sins",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of God's approach to human mistakes?",
+        "options": [
+          "God is more gracious than I previously understood",
+          "Accountability matters, even for unintentional errors",
+          "There's a systematic way to seek restoration",
+          "Sin is serious, but not beyond forgiveness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of unintentional sin resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Accountability",
+            "expansion": "Even unconscious transgressions require intentional reconciliation with divine standards."
+          },
+          {
+            "id": 2,
+            "text": "Communal Consequence",
+            "expansion": "Individual sins can create spiritual ripple effects impacting entire communities."
+          },
+          {
+            "id": 3,
+            "text": "Ritual Restoration",
+            "expansion": "Structured sacrificial processes provide a pathway to spiritual healing and reconnection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If sin can occur unintentionally, how responsible are we truly for our actions?"
+      },
+      "moral_slider": {
+        "question": "How do unintentional sins reflect human spiritual complexity?",
+        "left_label": "Human Frailty",
+        "right_label": "Divine Expectation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of sin and redemption shifted?",
+        "options": [
+          "More aware of subtle moral nuances",
+          "Recognize complexity of spiritual accountability",
+          "Understand importance of intentional restoration",
+          "Appreciate structured path to spiritual healing"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Unintentional Sin and Atonement",
+          "summary": "Leviticus 4 introduces the concept of sin offerings for unintentional transgressions, highlighting God's understanding of human frailty. The chapter demonstrates that even unintentional sins require spiritual reconciliation and restoration through prescribed sacrificial mechanisms.",
+          "cross_references": [
+            "Hebrews 9:22",
+            "Romans 3:23",
+            "1 John 1:9",
+            "Numbers 15:22-31"
+          ]
+        },
+        {
+          "title": "Hierarchical Accountability in Sin",
+          "summary": "The chapter outlines different sin offerings based on social status, revealing that spiritual responsibility varies with leadership position. Priests, leaders, and common people have distinct processes for addressing unintentional sins, emphasizing communal and individual spiritual accountability.",
+          "cross_references": [
+            "James 3:1",
+            "Luke 12:48",
+            "1 Timothy 5:19-20",
+            "Ezekiel 34:1-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary believers understand the concept of unintentional sin in light of Christ's atonement?",
+        "options": [
+          "Unintentional sins are still significant and require personal repentance",
+          "Christ's sacrifice completely covers all sins, including unintentional transgressions",
+          "Believers must remain vigilant and self-examining to minimize unintentional sins",
+          "The Old Testament sin offering system is no longer applicable in the New Covenant"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "book": "Job",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and acknowledge that life's trials don't always have simple explanations. Release the need to fully understand God's ways.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when life seems unfair or confusing?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become angry and frustrated",
+            "response": "Practice surrendering your emotions to God through prayer"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw and isolate",
+            "response": "Seek supportive community who can listen without judgment"
+          },
+          {
+            "id": 3,
+            "text": "Demand explanations from God",
+            "response": "Practice humble trust and acceptance of divine mystery"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a maze representing life's complex journey, with unexpected turns symbolizing Job's struggle to understand his suffering",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job's perspective changed your understanding of suffering?",
+        "options": [
+          "Suffering isn't always a direct punishment",
+          "Good people can experience profound challenges",
+          "Questioning is a valid part of faith",
+          "Spiritual growth often happens through difficult seasons"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What strikes you most about Job's perspective in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Job's raw emotional honesty",
+            "expansion": "He refuses to suppress his genuine suffering and questions traditional theological assumptions"
+          },
+          {
+            "id": 2,
+            "text": "The complexity of divine justice",
+            "expansion": "Job challenges the simplistic notion that good always prospers and evil always suffers"
+          },
+          {
+            "id": 3,
+            "text": "Human vulnerability before mysterious divine plans",
+            "expansion": "Job reveals the profound human struggle to comprehend seemingly arbitrary spiritual experiences"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering is not a direct punishment, what deeper purpose might it serve in human spiritual development?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile belief in a just God with observed human suffering?",
+        "left_label": "Divine Randomness",
+        "right_label": "Purposeful Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of suffering and divine justice shifted?",
+        "options": [
+          "I now see suffering as more complex",
+          "I'm more comfortable with theological uncertainty",
+          "I recognize human limitations in understanding divine plans",
+          "I'm more empathetic toward those experiencing unexplained hardship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Human Suffering",
+          "summary": "Job challenges the traditional theological understanding that suffering is always a direct result of personal sin. He observes that the wicked often prosper while the righteous experience profound hardship.",
+          "cross_references": [
+            "Ecclesiastes 7:15",
+            "Psalm 73:3-12",
+            "Matthew 5:45",
+            "Romans 9:14-16"
+          ]
+        },
+        {
+          "title": "Complexity of Theological Perspectives",
+          "summary": "Job demonstrates that simplistic theological explanations fail to adequately address the nuanced realities of human experience and divine providence. He argues for a more sophisticated understanding of God's relationship with humanity.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "James 1:2-4",
+            "Proverbs 3:5-6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine justice in light of unequal suffering?",
+        "options": [
+          "Suffering is always a direct punishment for sin",
+          "God's justice operates on a timeline beyond human comprehension",
+          "Suffering serves a redemptive and transformative purpose",
+          "Randomness and human free will contribute to suffering"
+        ]
+      }
+    }
+  }
+}

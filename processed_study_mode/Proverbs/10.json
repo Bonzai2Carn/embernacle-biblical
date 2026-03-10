@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize diligence as a strong hand working steadily, laziness as a hand lying limp and inactive",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in my life am I currently being sluggish or avoiding necessary work?",
+        "options": [
+          {
+            "id": "work",
+            "text": "At my job or career responsibilities",
+            "response": "Create a structured daily task list and commit to completing 3 key priorities"
+          },
+          {
+            "id": "personal",
+            "text": "In my personal growth or spiritual disciplines",
+            "response": "Schedule consistent daily time for prayer, reading, or self-improvement"
+          },
+          {
+            "id": "home",
+            "text": "In household management or family duties",
+            "response": "Develop a weekly chore rotation and hold yourself accountable"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing a wise person gathering/working during summer, and a foolish person sleeping, to illustrate the difference between diligence and laziness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of work, wisdom, and responsibility?",
+        "options": [
+          "I see work as more than just a task, but a spiritual discipline",
+          "I recognize how my choices impact my future",
+          "I understand that diligence is a form of wisdom",
+          "I'm motivated to be more intentional in my daily efforts"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which central wisdom theme most resonates with your understanding of personal responsibility?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Diligence Creates Prosperity",
+            "expansion": "Hard work and consistent effort are fundamental to personal and spiritual growth."
+          },
+          {
+            "id": 2,
+            "text": "Character Shapes Destiny",
+            "expansion": "Our moral choices continuously define our life's trajectory and spiritual inheritance."
+          },
+          {
+            "id": 3,
+            "text": "Righteousness Protects",
+            "expansion": "Ethical living provides a divine buffer against life's destructive forces."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your understanding of success differ if you viewed diligence as a spiritual discipline rather than merely an economic strategy?"
+      },
+      "moral_slider": {
+        "question": "Where do personal effort and divine provision intersect in your understanding of prosperity?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Provision"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on personal responsibility evolved through this exploration?",
+        "options": [
+          "I recognize the importance of consistent effort",
+          "I see character as more significant than temporary outcomes",
+          "I understand wisdom as an active, not passive, pursuit",
+          "I appreciate the spiritual dimensions of daily choices"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom and Righteousness",
+          "summary": "Solomon emphasizes the transformative power of wisdom and righteous living as pathways to blessing and preservation. The chapter demonstrates how personal choices directly impact one's life trajectory and spiritual standing.",
+          "cross_references": [
+            "Proverbs 3:13-18",
+            "James 1:5",
+            "Matthew 7:24-27",
+            "Psalm 1:1-3"
+          ]
+        },
+        {
+          "title": "Diligence and Character",
+          "summary": "The proverbs highlight the critical importance of diligence, personal responsibility, and intentional labor as markers of godly character. Laziness is portrayed as a spiritual and practical liability that leads to decline.",
+          "cross_references": [
+            "Proverbs 6:6-11",
+            "2 Thessalonians 3:10-12",
+            "Colossians 3:23-24",
+            "Ecclesiastes 9:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal character intersect with divine providence in achieving life outcomes?",
+        "options": [
+          "Divine sovereignty completely determines life results",
+          "Human choices and divine guidance are collaborative",
+          "Personal effort is the primary determinant of success",
+          "Spiritual maturity transcends material measurements"
+        ]
+      }
+    }
+  }
+}

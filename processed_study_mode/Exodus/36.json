@@ -1,0 +1,115 @@
+{
+  "book": "Exodus",
+  "chapter": 36,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine skilled hands carefully crafting something beautiful for God's glory, breathing peace and intentionality into each detail.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you use your unique skills to contribute to a greater spiritual purpose?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Volunteer my technical skills at church",
+            "response": "Offer your professional abilities to support ministry work"
+          },
+          {
+            "id": 2,
+            "text": "Create something that honors God's design",
+            "response": "Develop a creative project with spiritual intention"
+          },
+          {
+            "id": 3,
+            "text": "Learn a new skill to serve others",
+            "response": "Take a class or workshop to expand your ability to contribute"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or imagine the tabernacle being constructed, focusing on the intricate details and the joy of collaborative craftsmanship",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about the careful construction of the tabernacle shifted your understanding of worship and dedication?",
+        "options": [
+          "I see worship as more intentional and detailed",
+          "I recognize the value of collective effort",
+          "I understand skill as a spiritual gift",
+          "I appreciate the beauty of creating something for God's purpose"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of crafting the sanctuary speaks most to your understanding of devotion?",
+        "choices": [
+          {
+            "id": "skill",
+            "text": "Divine-gifted craftsmanship",
+            "expansion": "Recognizing that true artistry emerges from spiritual inspiration, not mere human technique."
+          },
+          {
+            "id": "community",
+            "text": "Collaborative worship preparation",
+            "expansion": "Understanding how collective effort transforms individual contributions into sacred architecture."
+          },
+          {
+            "id": "precision",
+            "text": "Exact obedience to divine instructions",
+            "expansion": "Seeing spiritual maturity as careful alignment with God's detailed expectations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine instructions are so precise, what room remains for human creativity in spiritual expression?"
+      },
+      "moral_slider": {
+        "question": "How do individual talents serve collective spiritual purposes?",
+        "left_label": "Personal Autonomy",
+        "right_label": "Community Submission"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on worship shifted after examining this chapter?",
+        "options": [
+          "I now see worship as more intentional",
+          "I understand spiritual gifts differently",
+          "I recognize the importance of detailed obedience",
+          "I appreciate collaborative spiritual work more"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Gifting and Craftsmanship",
+          "summary": "God uniquely equips individuals with specialized skills for Kingdom purposes. The crafting of the tabernacle demonstrates that spiritual gifts are intentionally distributed by divine wisdom and enabled through supernatural ability.",
+          "cross_references": [
+            "1 Corinthians 12:4-7",
+            "Ephesians 4:11-12",
+            "Romans 12:6-8"
+          ]
+        },
+        {
+          "title": "Collaborative Sacred Work",
+          "summary": "The construction of the sanctuary reveals the importance of collective effort and shared commitment in fulfilling divine mandates. Each skilled worker contributes their unique talents toward a unified spiritual objective.",
+          "cross_references": [
+            "1 Corinthians 3:9",
+            "Nehemiah 4:6",
+            "Philippians 2:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine empowerment intersect with human skill and willingness in accomplishing spiritual work?",
+        "options": [
+          "Divine calling precedes and enables human capability",
+          "Human skill is independent of spiritual gifting",
+          "Spiritual work requires both supernatural enablement and human collaboration",
+          "Individual talents are sufficient without spiritual guidance"
+        ]
+      }
+    }
+  }
+}

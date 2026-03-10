@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine the intricate craftsmanship of the bronze altar and sea, reflecting on how God values excellence and detail in worship",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you approach your daily tasks and spiritual service with the same level of precision and dedication shown in crafting the temple furnishings?",
+        "options": [
+          {
+            "id": "1",
+            "text": "Improve my current ministry responsibilities",
+            "response": "Review your current roles and seek ways to enhance quality and dedication"
+          },
+          {
+            "id": "2",
+            "text": "Develop a skill that honors God",
+            "response": "Invest time in learning something that can be used for spiritual service"
+          },
+          {
+            "id": "3",
+            "text": "Seek mentorship in spiritual craftsmanship",
+            "response": "Find a spiritual mentor who demonstrates excellence in service"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw the bronze sea supported by twelve oxen, imagining the incredible detail and symbolism of strength and stability",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about the temple's construction changed your understanding of worship?",
+        "options": [
+          "I now see worship as more intentional and carefully crafted",
+          "I recognize the importance of excellence in spiritual practices",
+          "I appreciate the symbolic representations in biblical architecture",
+          "I'm more aware of how physical spaces can reflect spiritual truths"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which symbolic element of the temple's construction most resonates with spiritual craftsmanship?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Bronze Altar's Massive Dimensions",
+            "expansion": "Represents the magnitude of divine encounter and sacrificial commitment"
+          },
+          {
+            "id": 2,
+            "text": "The Sea of Cast Bronze with Oxen",
+            "expansion": "Symbolizes spiritual cleansing and the foundational strength of faithful service"
+          },
+          {
+            "id": 3,
+            "text": "Intricate Craftsmanship of Details",
+            "expansion": "Reveals God's appreciation for precision, beauty, and intentional spiritual design"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might the meticulous construction of physical sacred spaces reflect the interior landscape of spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "To what extent does divine instruction require human precision versus divine intervention?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship infrastructure evolved from studying this chapter?",
+        "options": [
+          "Recognized deeper symbolism in architectural details",
+          "Appreciated collective effort in spiritual construction",
+          "Understood worship as both metaphorical and literal space",
+          "Saw divine design in human craftsmanship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Craftsmanship and Precision",
+          "summary": "Solomon's construction of the temple vessels demonstrates God's desire for meticulous design and sacred artistry. The precise measurements and detailed craftsmanship reveal divine standards of excellence and intentionality in worship.",
+          "cross_references": [
+            "Exodus 25:9",
+            "Hebrews 8:5",
+            "1 Chronicles 28:11-12",
+            "Exodus 31:1-5"
+          ]
+        },
+        {
+          "title": "Symbolic Representation in Temple Furnishings",
+          "summary": "The bronze altar, Sea, and supporting oxen symbolize God's strength, cleansing, and divine sovereignty. Each element carries theological significance beyond its physical construction, representing spiritual truths about worship and divine relationship.",
+          "cross_references": [
+            "Revelation 4:6-7",
+            "Ezekiel 1:10",
+            "Isaiah 6:1-3",
+            "Zechariah 3:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the intricate temple designs reflect God's character and human worship?",
+        "options": [
+          "God values precision and intentional design in spiritual practices",
+          "Physical structures serve as metaphors for spiritual realities",
+          "Architectural details communicate theological principles",
+          "Worship requires both spiritual devotion and structured implementation"
+        ]
+      }
+    }
+  }
+}

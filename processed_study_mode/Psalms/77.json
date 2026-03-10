@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 77,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and recall a time when you felt God was distant, then silently invite His presence",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you experienced spiritual struggle like the Psalmist, feeling forgotten by God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "During a personal crisis",
+            "response": "Journal your feelings and intentionally remember God's past faithfulness"
+          },
+          {
+            "id": 2,
+            "text": "In a season of unanswered prayer",
+            "response": "Create a memorial list of previous answered prayers and miracles"
+          },
+          {
+            "id": 3,
+            "text": "Experiencing emotional or spiritual dryness",
+            "response": "Seek counsel from a trusted spiritual mentor or pastor"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing moments when God rescued or helped you, even when you felt alone",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 77 shifted your understanding of spiritual struggle?",
+        "options": [
+          "I now see struggles as opportunities for deeper faith",
+          "I recognize the importance of remembering God's past works",
+          "I understand that honest lament is a valid form of prayer",
+          "I feel more compassionate toward others experiencing doubt"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional journey resonates most in this psalm of lament?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Anguish",
+            "expansion": "The raw vulnerability of remembering past struggles and feeling distant from God's comfort."
+          },
+          {
+            "id": 2,
+            "text": "Historical Reflection",
+            "expansion": "Recalling God's past interventions as a pathway to understanding current suffering."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Wrestling",
+            "expansion": "The transformative process of moving from despair to tentative hope through memory and meditation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might persistent questioning of divine silence actually be a form of deep spiritual engagement rather than rejection?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate your spiritual resilience during periods of profound uncertainty?",
+        "left_label": "Doubt and Isolation",
+        "right_label": "Trust and Community"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on suffering and divine presence shifted?",
+        "options": [
+          "I now see struggle as potentially transformative",
+          "Historical precedent matters more than personal emotion",
+          "Questioning is itself a legitimate spiritual practice",
+          "Remembrance can be a healing mechanism"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Remembrance in Suffering",
+          "summary": "The Psalm explores the profound struggle of remembering God's past faithfulness during present personal distress. The author wrestles with feelings of abandonment while simultaneously recalling God's historical interventions.",
+          "cross_references": [
+            "Lamentations 3:19-23",
+            "Isaiah 43:16-19",
+            "Deuteronomy 7:9",
+            "2 Corinthians 1:3-4"
+          ]
+        },
+        {
+          "title": "God's Redemptive Power Through Historical Narrative",
+          "summary": "The psalmist reflects on Israel's historical deliverance, particularly the Exodus, as a theological testament to God's supernatural intervention. This narrative serves as a powerful reminder of divine sovereignty and covenant faithfulness.",
+          "cross_references": [
+            "Exodus 14:21-22",
+            "Psalm 105:37-42",
+            "Hebrews 11:29",
+            "Joshua 4:23-24"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal spiritual struggle relate to understanding God's broader redemptive plan?",
+        "options": [
+          "Suffering can be a pathway to deeper spiritual understanding",
+          "Historical divine interventions provide context for present challenges",
+          "Emotional vulnerability is a legitimate form of spiritual dialogue",
+          "Remembering God's past faithfulness transforms present perspective"
+        ]
+      }
+    }
+  }
+}

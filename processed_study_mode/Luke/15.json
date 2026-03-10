@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus seeking you out, just as a shepherd searches for a lost sheep, with unconditional love and compassion.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in your life do you feel spiritually 'lost' right now?",
+        "options": [
+          {
+            "id": 1,
+            "text": "In my relationships",
+            "response": "Spend time in prayer asking God to restore and heal those connections"
+          },
+          {
+            "id": 2,
+            "text": "In my career/purpose",
+            "response": "Journal about your hopes and ask God for guidance and clarity"
+          },
+          {
+            "id": 3,
+            "text": "In my personal faith journey",
+            "response": "Read Scripture and reconnect with God's foundational promises"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself being carried safely on Jesus' shoulders, just like the lost sheep in the parable",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my understanding of God's love changed after reading this chapter?",
+        "options": [
+          "God loves me even when I'm imperfect",
+          "God actively seeks out those who are lost",
+          "No one is beyond redemption",
+          "God celebrates when I return to Him"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea stays with you about God's perspective on lost souls?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God actively searches for the lost",
+            "expansion": "Divine love is not passive, but persistently seeks restoration."
+          },
+          {
+            "id": 2,
+            "text": "Every individual soul has immeasurable worth",
+            "expansion": "One lost soul matters more than statistical majority."
+          },
+          {
+            "id": 3,
+            "text": "Redemption brings profound joy",
+            "expansion": "Restoration creates greater celebration than continuous faithfulness."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God values the one who is lost more than those who never strayed, what does this reveal about divine mercy versus human judgment?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile God's unconditional love with personal accountability?",
+        "left_label": "Absolute Grace",
+        "right_label": "Strict Justice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual restoration shifted?",
+        "options": [
+          "I see redemption as more accessible",
+          "I understand divine love more deeply",
+          "I'm less judgmental toward 'lost' people",
+          "I recognize my own need for grace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Pursuit of the Lost",
+          "summary": "God actively seeks out those who are spiritually separated from Him. The parable illustrates God's relentless love and redemptive mission towards sinners who have wandered away from His grace.",
+          "cross_references": [
+            "Ezekiel 34:11-16",
+            "Matthew 18:12-14",
+            "1 Peter 2:25",
+            "John 10:11"
+          ]
+        },
+        {
+          "title": "Radical Grace and Redemption",
+          "summary": "Jesus challenges religious exclusivity by demonstrating God's inclusive love towards marginalized individuals. The parable reveals that no person is beyond the reach of divine mercy and restoration.",
+          "cross_references": [
+            "Romans 5:8",
+            "1 Timothy 1:15",
+            "Ephesians 2:8-9",
+            "Luke 7:47-48"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage challenge traditional religious perspectives on salvation?",
+        "options": [
+          "God's love transcends human religious boundaries",
+          "Redemption is available to all, regardless of social status",
+          "Spiritual restoration matters more than religious performance",
+          "Divine mercy is proactive, not dependent on human worthiness"
+        ]
+      }
+    }
+  }
+}

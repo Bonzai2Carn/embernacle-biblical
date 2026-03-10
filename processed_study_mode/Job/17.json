@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 17,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently acknowledge your current emotional pain, recognizing that God sees and understands your suffering",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when feeling misunderstood and abandoned by those closest to you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Withdraw and isolate myself",
+            "response": "Practice vulnerability with trusted friends or counselor"
+          },
+          {
+            "id": 2,
+            "text": "Become defensive and angry",
+            "response": "Pause and pray for emotional healing and perspective"
+          },
+          {
+            "id": 3,
+            "text": "Suppress my emotions",
+            "response": "Journal honestly about your feelings and seek spiritual guidance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a heart with protective walls around it, representing how Job feels emotionally isolated and wounded",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 17 shifted your understanding of suffering?",
+        "options": [
+          "Suffering is not always a result of personal failure",
+          "God is present even in moments of extreme pain",
+          "True friendship requires empathy, not judgment",
+          "Emotional honesty is a form of spiritual strength"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual struggle resonates most deeply in Job's lament?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Feeling abandoned by God",
+            "expansion": "The profound sense of divine distance and perceived rejection creates existential despair."
+          },
+          {
+            "id": 2,
+            "text": "Social isolation and mockery",
+            "expansion": "The experience of being ridiculed while suffering intensifies personal anguish."
+          },
+          {
+            "id": 3,
+            "text": "Anticipation of death's proximity",
+            "expansion": "Recognizing mortality becomes a lens through which all present suffering is interpreted."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of suffering transform if you viewed it as a pathway to deeper understanding rather than punishment?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate personal resilience in the face of seemingly overwhelming despair?",
+        "left_label": "Hopelessness",
+        "right_label": "Spiritual Endurance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human vulnerability shifted?",
+        "options": [
+          "Recognize the complexity of human emotional experience",
+          "Understand suffering as potentially transformative",
+          "Appreciate the depth of human spiritual struggle",
+          "Acknowledge the limits of human comprehension"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Suffering and Spiritual Despair",
+          "summary": "Job expresses profound emotional and spiritual exhaustion, feeling crushed by his circumstances and experiencing profound isolation. His suffering has reached a point where death seems imminent, and his relationships have been fundamentally damaged.",
+          "cross_references": [
+            "Psalm 22:6-8",
+            "Psalm 88:3-5",
+            "Lamentations 3:1-20",
+            "2 Corinthians 1:8-9"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Human Limitation",
+          "summary": "Job recognizes divine sovereignty in his suffering, acknowledging that God has obscured understanding from his mockers and will ultimately determine judgment. He wrestles with the seemingly arbitrary nature of divine intervention.",
+          "cross_references": [
+            "Romans 9:20-21",
+            "Isaiah 45:9",
+            "Psalm 115:3",
+            "Ecclesiastes 3:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human suffering in this passage?",
+        "options": [
+          "God's actions are ultimately mysterious and beyond human comprehension",
+          "Suffering serves a redemptive purpose in spiritual formation",
+          "Divine judgment operates according to principles humans cannot fully understand",
+          "Individual suffering reflects broader cosmic spiritual conflicts"
+        ]
+      }
+    }
+  }
+}

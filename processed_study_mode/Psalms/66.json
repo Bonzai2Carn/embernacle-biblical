@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 66,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and silently thank God for His enduring faithfulness, remembering how He has preserved you through challenges",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's deliverance in your personal struggles?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through unexpected solutions",
+            "response": "Journal a specific moment of unexpected breakthrough"
+          },
+          {
+            "id": 2,
+            "text": "During financial challenges",
+            "response": "Create a gratitude list of past provisions"
+          },
+          {
+            "id": 3,
+            "text": "In relational healing",
+            "response": "Pray for continued restoration in difficult relationships"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a mountain with a path winding through obstacles, symbolizing your spiritual journey of trusting God's guidance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm shifted your understanding of worship and God's faithfulness?",
+        "options": [
+          "Worship is more about thanksgiving than requests",
+          "God is consistently present in life's challenges",
+          "Personal testimony matters in spiritual community",
+          "Trials can be opportunities for deeper trust"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theme resonates most in this psalm of praise?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "God's overwhelming sovereignty",
+            "expansion": "The psalm celebrates divine power that transcends human limitations and challenges."
+          },
+          {
+            "id": "b",
+            "text": "Personal testimony of deliverance",
+            "expansion": "The psalmist shares a profound narrative of personal redemption and transformative encounter with God."
+          },
+          {
+            "id": "c",
+            "text": "Universal call to worship",
+            "expansion": "The psalm invites all people to recognize and honor God's magnificent works across generations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If praise is a choice, what internal barriers might prevent genuine worship?"
+      },
+      "moral_slider": {
+        "question": "How do individual struggles relate to communal spiritual experience?",
+        "left_label": "Personal Suffering",
+        "right_label": "Collective Redemption"
+      },
+      "reevaluation": {
+        "question": "How might this psalm challenge your understanding of divine interaction?",
+        "options": [
+          "Recognizing God's active involvement in personal challenges",
+          "Understanding worship as a transformative practice",
+          "Seeing hardship as potential spiritual growth",
+          "Embracing a broader, more universal perspective of divine love"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Universal Praise and God's Sovereignty",
+          "summary": "The psalm calls for all nations to recognize God's supreme power and remarkable works of deliverance. It emphasizes the universal nature of God's reign and His ability to intervene in human affairs.",
+          "cross_references": [
+            "Revelation 15:4",
+            "Psalm 86:9",
+            "Isaiah 45:22-23",
+            "Romans 14:11"
+          ]
+        },
+        {
+          "title": "Personal Testimony of Divine Faithfulness",
+          "summary": "The psalmist shares a deeply personal account of God's intervention and answered prayer, highlighting the transformative power of sincere worship and testimony. The narrative demonstrates how individual experiences can glorify God's larger redemptive work.",
+          "cross_references": [
+            "Psalm 34:8",
+            "1 Peter 2:3",
+            "Psalm 116:12-14",
+            "Hebrews 13:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's sovereignty interact with human free will in the context of divine deliverance?",
+        "options": [
+          "God's intervention is completely predetermined",
+          "Human response and faith play a critical role in divine intervention",
+          "Divine sovereignty operates independently of human choice",
+          "Deliverance is a collaborative process between God and human agency"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to silently reflect on God's faithfulness despite human forgetfulness and rebellion",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How have I overlooked God's consistent work in my life?",
+        "options": [
+          {
+            "id": "1",
+            "text": "I've been focused on my own achievements",
+            "response": "Practice daily gratitude acknowledging God's hand in your journey"
+          },
+          {
+            "id": "2",
+            "text": "I struggle to remember past divine interventions",
+            "response": "Start a journal documenting God's specific moments of grace"
+          },
+          {
+            "id": "3",
+            "text": "I'm prone to spiritual amnesia",
+            "response": "Create a visual reminder of God's past deliverances in your life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your personal journey with God, including landmark moments of His faithfulness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of covenant relationship?",
+        "options": [
+          "I see covenant as more about God's commitment than my performance",
+          "I recognize my tendency to forget God's past works",
+          "I understand the importance of remembering God's faithfulness",
+          "I'm more aware of generational spiritual patterns"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of covenant relationship most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Memory of Past Deliverance",
+            "expansion": "God remembers His historical acts of rescue and redemption"
+          },
+          {
+            "id": 2,
+            "text": "Collective Responsibility",
+            "expansion": "The entire community bears responsibility for covenant faithfulness"
+          },
+          {
+            "id": 3,
+            "text": "Generational Spiritual Inheritance",
+            "expansion": "Each generation carries both the blessings and potential consequences of ancestral choices"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine covenant requires full understanding, yet humans are inherently limited, how can genuine commitment be possible?"
+      },
+      "moral_slider": {
+        "question": "How do personal choices intersect with communal spiritual destiny?",
+        "left_label": "Individual Agency",
+        "right_label": "Corporate Accountability"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual responsibility?",
+        "options": [
+          "I recognize my actions impact more than myself",
+          "I see covenant as a deeper relational concept",
+          "I understand generational spiritual dynamics differently",
+          "I'm more aware of collective spiritual consequences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Renewal",
+          "summary": "Moses reaffirms God's covenant with Israel, emphasizing the collective responsibility of the entire community to maintain their relationship with God. The covenant transcends individual generations and requires consistent faithfulness.",
+          "cross_references": [
+            "Exodus 24:7-8",
+            "Joshua 24:25",
+            "2 Kings 23:1-3",
+            "Nehemiah 9:38"
+          ]
+        },
+        {
+          "title": "Generational Accountability",
+          "summary": "The chapter highlights that covenant faithfulness is not limited to those who directly experienced God's miracles, but extends to future generations who must learn and honor God's commandments. Each generation bears responsibility for spiritual continuity.",
+          "cross_references": [
+            "Psalm 78:5-7",
+            "Isaiah 59:21",
+            "Acts 2:39",
+            "Ephesians 6:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does individual spiritual responsiveness interact with communal covenant relationship?",
+        "options": [
+          "Personal faith is entirely independent of community covenant",
+          "Individual commitment directly impacts collective spiritual health",
+          "Generational spiritual inheritance determines divine favor",
+          "Community covenant supersedes personal spiritual choices"
+        ]
+      }
+    }
+  }
+}

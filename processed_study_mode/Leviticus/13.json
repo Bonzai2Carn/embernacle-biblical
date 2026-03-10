@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on personal areas of 'uncleanness' that might need spiritual healing or separation",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you responsibly handle situations where someone's 'condition' might affect community health or spiritual wellness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Compassionately seek understanding",
+            "response": "Listen first, judge last, seek restoration"
+          },
+          {
+            "id": 2,
+            "text": "Maintain necessary boundaries",
+            "response": "Protect community while showing dignity"
+          },
+          {
+            "id": 3,
+            "text": "Seek spiritual guidance",
+            "response": "Consult wise leaders for discernment"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing spiritual 'cleansing' or 'healing' using symbols of separation and restoration",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of community health and spiritual wholeness?",
+        "options": [
+          "More aware of personal responsibility",
+          "Understand importance of careful assessment",
+          "Recognize complexity of community wellness",
+          "Appreciate divine wisdom in prevention"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of ritual purity most challenges your understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Physical Manifestations of Spiritual Condition",
+            "expansion": "Skin diseases symbolize deeper spiritual states beyond mere physical symptoms."
+          },
+          {
+            "id": 2,
+            "text": "Community Protection through Isolation",
+            "expansion": "Quarantine represents a complex balance between compassion and collective well-being."
+          },
+          {
+            "id": 3,
+            "text": "Detailed Diagnostic Procedures",
+            "expansion": "Meticulous observation reflects a profound reverence for holistic human health."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might defining 'unclean' be more about maintaining communal integrity than personal judgment?"
+      },
+      "moral_slider": {
+        "question": "How do protective boundaries relate to genuine compassion?",
+        "left_label": "Strict Separation",
+        "right_label": "Inclusive Healing"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on ritual purity evolved?",
+        "options": [
+          "More aware of community health dynamics",
+          "Recognize symbolic meaning beyond literal interpretation",
+          "Appreciate complexity of ancient medical/spiritual practices",
+          "See deeper connections between physical and spiritual wellness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Ritual Purity and Holiness",
+          "summary": "Leviticus 13 details complex regulations for identifying and managing skin diseases and bodily afflictions. These instructions emphasize the profound connection between physical health, ritual cleanliness, and spiritual wholeness in ancient Israelite society.",
+          "cross_references": [
+            "Deuteronomy 24:8-9",
+            "2 Kings 5:1-14",
+            "Luke 17:11-19",
+            "Matthew 8:1-4"
+          ]
+        },
+        {
+          "title": "Divine Order and Separation",
+          "summary": "The meticulous guidelines for examining potential diseases reveal God's desire for communal health and spiritual distinction. These regulations demonstrate how physical conditions symbolize broader spiritual principles of purity and contamination.",
+          "cross_references": [
+            "Exodus 15:26",
+            "Numbers 12:10-15",
+            "2 Chronicles 26:16-21",
+            "James 5:14-15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the detailed disease assessment protocols in Leviticus 13 reflect theological perspectives on divine care and human vulnerability?",
+        "options": [
+          "Divine sovereignty extends to physical and spiritual health management",
+          "Community protection requires careful discernment and compassionate isolation",
+          "Bodily conditions serve as spiritual metaphors for inner condition",
+          "Holiness requires systematic, intentional approaches to potential contamination"
+        ]
+      }
+    }
+  }
+}

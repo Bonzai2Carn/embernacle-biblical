@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 26,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize moments when you felt powerless, then breathe deeply and remember God's strength transcends human limitations",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you tried to offer wisdom without truly understanding someone's struggle?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I've given unsolicited advice",
+            "response": "Practice listening more, speaking less"
+          },
+          {
+            "id": 2,
+            "text": "I've judged without compassion",
+            "response": "Develop empathy before offering counsel"
+          },
+          {
+            "id": 3,
+            "text": "I've minimized others' pain",
+            "response": "Validate emotions before attempting to solve problems"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing the contrast between human weakness and divine strength, using symbols of fragility and power",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of human wisdom?",
+        "options": [
+          "Wisdom comes from humility",
+          "Human knowledge is limited",
+          "True insight requires divine perspective",
+          "Compassion matters more than clever arguments"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What profound insight emerges from Job's rhetorical critique?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Powerlessness of human counsel",
+            "expansion": "Human wisdom crumbles when confronting profound existential suffering."
+          },
+          {
+            "id": "B",
+            "text": "Limitations of human understanding",
+            "expansion": "Our intellectual frameworks are inadequate for comprehending divine mysteries."
+          },
+          {
+            "id": "C",
+            "text": "Spiritual realm's complexity",
+            "expansion": "Unseen spiritual dimensions transcend human perception and comprehension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When you claim to offer wisdom, from what source do you truly speak - personal experience or genuine understanding?"
+      },
+      "moral_slider": {
+        "question": "How do human attempts at explanation relate to divine mystery?",
+        "left_label": "Human Reasoning",
+        "right_label": "Divine Incomprehensibility"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual counsel shifted?",
+        "options": [
+          "More humble about my insights",
+          "More aware of complexity",
+          "More respectful of mystery",
+          "More open to uncertainty"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Power and Human Limitation",
+          "summary": "Job challenges the superficial counsel of his friends by highlighting the vast difference between human understanding and divine omnipotence. He exposes their inability to provide genuine spiritual insight or comprehend the profound mysteries of God's sovereignty.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "1 Corinthians 1:25",
+            "Psalm 147:5",
+            "Romans 11:33-34"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment and Wisdom",
+          "summary": "Job critiques the shallow theological perspectives of his companions, emphasizing that true wisdom comes from divine revelation rather than human reasoning. He demonstrates that spiritual understanding transcends intellectual argumentation.",
+          "cross_references": [
+            "Proverbs 9:10",
+            "James 1:5",
+            "1 Corinthians 2:14",
+            "Colossians 2:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's response challenge traditional theological assumptions about suffering and divine counsel?",
+        "options": [
+          "Human wisdom is inherently limited in understanding divine purposes",
+          "Suffering does not necessarily indicate personal spiritual failure",
+          "Authentic spiritual insight requires humility and divine revelation",
+          "Theological debates can obscure genuine spiritual understanding"
+        ]
+      }
+    }
+  }
+}

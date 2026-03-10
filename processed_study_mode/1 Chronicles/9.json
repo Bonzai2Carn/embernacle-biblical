@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on your spiritual heritage: Who in your family lineage most inspired your faith?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I honor the spiritual legacy of those who came before me?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Learn about my family's faith history",
+            "response": "Research family stories and spiritual traditions"
+          },
+          {
+            "id": 2,
+            "text": "Reconnect with older family members",
+            "response": "Schedule time to hear their spiritual journey"
+          },
+          {
+            "id": 3,
+            "text": "Document my own faith story",
+            "response": "Write or record personal testimony for future generations"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree highlighting spiritual influences and people who taught you about faith",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogy chapter changed my understanding of spiritual inheritance?",
+        "options": [
+          "I see my faith as part of a larger story",
+          "I recognize the importance of spiritual lineage",
+          "I want to be intentional about passing faith to next generation",
+          "I appreciate the continuity of God's work through families"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of community restoration speaks most powerfully to you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Genealogical Continuity",
+            "expansion": "Tracing lineage preserves historical identity and spiritual inheritance."
+          },
+          {
+            "id": 2,
+            "text": "Communal Resettlement",
+            "expansion": "Rebuilding together represents collective resilience after traumatic displacement."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Leadership Restoration",
+            "expansion": "Reinstating priests and Levites symbolizes recommitting to divine covenant."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your understanding of community change if you viewed your identity not as an individual, but as part of a continuous ancestral narrative?"
+      },
+      "moral_slider": {
+        "question": "How do past failures balance against potential for redemption?",
+        "left_label": "Historical Failure",
+        "right_label": "Future Restoration"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on community and spiritual inheritance shifted?",
+        "options": [
+          "I now see lineage as more significant",
+          "Collective resilience matters more than individual achievement",
+          "Spiritual leadership requires deep historical understanding",
+          "Community restoration is a complex, multilayered process"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Restoration and Genealogical Preservation",
+          "summary": "Despite Israel's captivity resulting from unfaithfulness, God preserves their lineage and provides a pathway for restoration. The detailed genealogical record demonstrates God's covenant faithfulness and continued engagement with His chosen people.",
+          "cross_references": [
+            "Jeremiah 29:11",
+            "Ezekiel 36:24-28",
+            "Nehemiah 1:8-9",
+            "Romans 11:1-2"
+          ]
+        },
+        {
+          "title": "Community Reconstruction and Spiritual Leadership",
+          "summary": "The resettlement emphasizes the importance of communal identity and spiritual roles within the post-exilic Jewish community. Priests, Levites, and temple servants play crucial roles in rebuilding social and religious structures.",
+          "cross_references": [
+            "Ezra 2:70",
+            "Haggai 1:12-14",
+            "Zechariah 4:6",
+            "1 Peter 2:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's faithfulness manifest through generational restoration after collective disobedience?",
+        "options": [
+          "Divine mercy transcends historical judgment",
+          "Genealogical continuity reflects God's redemptive plan",
+          "Spiritual leadership is critical for community regeneration",
+          "Individual and collective repentance enables restoration"
+        ]
+      }
+    }
+  }
+}

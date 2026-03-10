@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 24,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize building a life of wisdom, brick by careful brick, choosing understanding over impulse",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in my life am I currently choosing quick gratification over long-term wisdom?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Work/Career Decisions",
+            "response": "Create a 90-day strategic plan that prioritizes learning and growth"
+          },
+          {
+            "id": 2,
+            "text": "Personal Relationships",
+            "response": "Schedule intentional conversations that build deeper understanding"
+          },
+          {
+            "id": 3,
+            "text": "Personal Development",
+            "response": "Commit to a weekly learning habit in a skill or area of personal growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a house with different rooms, where each room represents a type of wisdom or knowledge you want to cultivate in your life",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on personal growth?",
+        "options": [
+          "I see wisdom as an active, intentional process",
+          "I understand that character development takes time",
+          "I recognize the importance of surrounding myself with wise influences",
+          "I'm more aware of avoiding destructive behaviors"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which insight about wisdom most resonates with your current life journey?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Wisdom builds strength beyond physical power",
+            "expansion": "Knowledge transforms internal capacity before manifesting external capability."
+          },
+          {
+            "id": "2",
+            "text": "Avoid associating with destructive people",
+            "expansion": "Your social circle determines the trajectory of your moral development."
+          },
+          {
+            "id": "3",
+            "text": "Wisdom fills life with precious treasures",
+            "expansion": "True richness emerges from understanding, not merely material accumulation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If knowledge truly increases strength, what weakness are you currently tolerating that wisdom could transform?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal ambition with ethical restraint?",
+        "left_label": "Individual Achievement",
+        "right_label": "Collective Harmony"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your previous understanding of personal growth?",
+        "options": [
+          "I recognize the importance of intentional relationships",
+          "I see wisdom as an active, transformative force",
+          "I understand strength is more internal than external",
+          "I'm questioning my current sources of knowledge"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom's Transformative Power",
+          "summary": "True wisdom is not merely intellectual knowledge, but a transformative spiritual force that builds character, establishes households, and provides supernatural strength. It is a divine gift that transcends human understanding and provides practical guidance for righteous living.",
+          "cross_references": [
+            "James 1:5",
+            "Proverbs 2:6",
+            "1 Corinthians 1:30",
+            "Ephesians 1:17"
+          ]
+        },
+        {
+          "title": "Moral Discernment and Spiritual Integrity",
+          "summary": "Believers are called to maintain spiritual separation from those who devise evil and engage in destructive behaviors. Wisdom demands intentional choices that prioritize righteousness over short-term worldly attractions.",
+          "cross_references": [
+            "2 Corinthians 6:14",
+            "Psalm 1:1-2",
+            "Ephesians 5:11",
+            "Proverbs 13:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine wisdom fundamentally reshape human perspective and decision-making?",
+        "options": [
+          "Wisdom reorients personal motivations from self-interest to kingdom purposes",
+          "Spiritual wisdom provides supernatural discernment beyond natural understanding",
+          "Divine wisdom transforms behavioral patterns through spiritual enlightenment",
+          "Wisdom enables prophetic insight into complex life challenges"
+        ]
+      }
+    }
+  }
+}

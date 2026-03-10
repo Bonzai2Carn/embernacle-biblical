@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on personal hidden sins that might be blocking God's blessings in your life. Silently confess these to God.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What 'hidden sin' might be hindering your spiritual progress?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Personal greed or secret disobedience",
+            "response": "Take time to thoroughly examine your heart and confess specific areas of compromise"
+          },
+          {
+            "id": "B",
+            "text": "Unresolved conflict or unforgiveness",
+            "response": "Identify the person and seek reconciliation or inner healing"
+          },
+          {
+            "id": "C",
+            "text": "Pride or self-reliance instead of trusting God",
+            "response": "Surrender your plans and seek God's guidance through prayer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a wall with one small brick colored differently, representing how a single hidden sin can disrupt an entire community's progress",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of personal and communal accountability?",
+        "options": [
+          "Sin affects more than just the individual",
+          "Transparency and honesty are crucial in spiritual community",
+          "God values complete obedience over partial compliance",
+          "Personal actions have wider consequences than we realize"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of community accountability resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Individual sin affects the entire community",
+            "expansion": "One person's transgression can create widespread consequences for collective spiritual health."
+          },
+          {
+            "id": 2,
+            "text": "Divine judgment is precise and personal",
+            "expansion": "God sees and responds to specific actions with nuanced understanding."
+          },
+          {
+            "id": 3,
+            "text": "Confession and repentance are transformative",
+            "expansion": "Acknowledging fault opens pathways for restoration and healing."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When personal desires conflict with communal covenant, who bears ultimate responsibility: the individual or the collective?"
+      },
+      "moral_slider": {
+        "question": "How do divine expectations balance with human weakness?",
+        "left_label": "Human Frailty",
+        "right_label": "Divine Perfection"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual accountability shifted?",
+        "options": [
+          "I recognize individual actions have broader implications",
+          "I see the importance of transparency and honesty",
+          "I understand judgment can be redemptive, not just punitive",
+          "I appreciate the complexity of collective spiritual responsibility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Consequences of Individual Sin",
+          "summary": "Achan's personal disobedience brought collective judgment upon the entire Israelite community. His secret sin disrupted God's covenant relationship and military progress, demonstrating how individual actions can impact communal spiritual dynamics.",
+          "cross_references": [
+            "Exodus 20:5",
+            "1 Corinthians 5:6-7",
+            "Galatians 5:9",
+            "Romans 5:12"
+          ]
+        },
+        {
+          "title": "Divine Holiness and Accountability",
+          "summary": "God's absolute righteousness demands complete obedience and cannot tolerate deliberate disobedience. The narrative reveals that spiritual compromise, even in seemingly small matters, can interrupt divine favor and potentially derail spiritual mission.",
+          "cross_references": [
+            "Habakkuk 1:13",
+            "1 Peter 1:15-16",
+            "Hebrews 12:14",
+            "Isaiah 59:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does individual sin impact collective spiritual community?",
+        "options": [
+          "Individual sins can create systemic spiritual blockages",
+          "Personal disobedience potentially interrupts divine blessing for entire community",
+          "Corporate accountability exists alongside individual responsibility",
+          "Spiritual leadership must address hidden transgressions proactively"
+        ]
+      }
+    }
+  }
+}

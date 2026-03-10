@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Acknowledge your pain without judgment, remembering that God hears your honest emotions.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically process deep emotional pain or disappointment?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I tend to suppress my feelings",
+            "response": "Consider journaling or speaking with a trusted friend about your true emotions"
+          },
+          {
+            "id": 2,
+            "text": "I become angry and frustrated",
+            "response": "Practice expressing your feelings to God honestly in prayer, like Job did"
+          },
+          {
+            "id": 3,
+            "text": "I withdraw from others",
+            "response": "Intentionally seek supportive community and pastoral care during difficult seasons"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a dark storm cloud representing your heaviest emotional moment, then add a small light breaking through to symbolize hope",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job's raw emotional expression changed your understanding of spiritual vulnerability?",
+        "options": [
+          "Emotions are valid before God",
+          "Suffering doesn't mean lack of faith",
+          "Honesty is more important than appearing strong",
+          "God can handle our deepest pain"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about Job's profound emotional suffering?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Wishing to erase his own existence",
+            "expansion": "The depth of grief can make life itself feel unbearable and undesirable."
+          },
+          {
+            "id": 2,
+            "text": "Cursing the day of his birth",
+            "expansion": "Radical despair challenges the fundamental narrative of life's inherent meaning."
+          },
+          {
+            "id": 3,
+            "text": "Expressing unfiltered emotional pain",
+            "expansion": "Authentic suffering demands raw, unmediated expression beyond social propriety."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering strips away all pretense, what fundamental truth about human vulnerability does Job's lament reveal?"
+      },
+      "moral_slider": {
+        "question": "How do we reconcile divine providence with individual human suffering?",
+        "left_label": "Randomness/Meaninglessness",
+        "right_label": "Purposeful Divine Plan"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of grief and suffering have shifted?",
+        "options": [
+          "Suffering is not a moral failure",
+          "Emotional honesty is a form of strength",
+          "Pain can be articulated without judgment",
+          "Silence is not always the most healing response"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Profound Grief and Despair",
+          "summary": "Job expresses overwhelming sorrow and pain through cursing his own birth, revealing the depth of human suffering that can challenge faith. His lament demonstrates the raw emotional landscape of extreme personal tragedy.",
+          "cross_references": [
+            "Jeremiah 20:14-15",
+            "Ecclesiastes 4:2-3",
+            "Psalm 88:3-9",
+            "Lamentations 3:1-20"
+          ]
+        },
+        {
+          "title": "Existential Questioning of Divine Purpose",
+          "summary": "Job wrestles with the seemingly meaningless nature of his existence in the face of immense suffering. His monologue reveals a profound theological struggle with understanding divine justice and personal meaning.",
+          "cross_references": [
+            "Romans 8:28",
+            "Habakkuk 1:2-4",
+            "Isaiah 45:9",
+            "James 1:2-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's response to suffering challenge traditional theological understanding of divine providence?",
+        "options": [
+          "Suffering is not always a direct result of personal sin",
+          "God permits profound pain as part of a larger spiritual transformation",
+          "Emotional honesty with God is a valid form of spiritual dialogue",
+          "Human comprehension of divine purpose is inherently limited"
+        ]
+      }
+    }
+  }
+}

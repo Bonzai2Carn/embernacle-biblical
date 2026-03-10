@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 42,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently affirm: 'God is sovereign, even when I don't understand.'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past challenges transformed your understanding of God's purpose?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Acknowledge my limited perspective",
+            "response": "Write a prayer of humility recognizing God's wisdom"
+          },
+          {
+            "id": 2,
+            "text": "Recognize God's restoration potential",
+            "response": "List areas in your life where healing and renewal are needed"
+          },
+          {
+            "id": 3,
+            "text": "Embrace learning through suffering",
+            "response": "Journal about a difficult season that deepened your faith"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing how God can restore and multiply what seemed lost",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 42 shifted your understanding of God's character?",
+        "options": [
+          "God is more mysterious than I previously thought",
+          "God is ultimately just and compassionate",
+          "Suffering doesn't indicate punishment",
+          "My understanding of God is always incomplete"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What strikes you most about Job's final response to God?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Total Humility",
+            "expansion": "Job recognizes his human limitations against divine wisdom."
+          },
+          {
+            "id": 2,
+            "text": "Direct Perception of God",
+            "expansion": "Personal encounter transforms intellectual understanding into profound spiritual experience."
+          },
+          {
+            "id": 3,
+            "text": "Acknowledgment of Divine Sovereignty",
+            "expansion": "Job accepts God's ultimate authority beyond human comprehension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might acknowledging one's own ignorance be a pathway to deeper understanding?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate the balance between questioning divine purpose and accepting mystery?",
+        "left_label": "Human Reasoning",
+        "right_label": "Divine Mystery"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on suffering and divine providence shifted?",
+        "options": [
+          "More accepting of uncertainty",
+          "Recognize limitations of human understanding",
+          "See suffering as potentially transformative",
+          "Believe in a larger spiritual narrative"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Humility",
+          "summary": "Job recognizes God's absolute power and his own limited understanding. This moment represents a profound theological turning point where human perspective surrenders to divine wisdom.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "Proverbs 3:5-6",
+            "Romans 11:33-34",
+            "1 Corinthians 1:25"
+          ]
+        },
+        {
+          "title": "Transformative Encounter with God",
+          "summary": "Job moves from hearing about God intellectually to experiencing God personally. This spiritual transformation demonstrates the profound difference between theological knowledge and genuine spiritual revelation.",
+          "cross_references": [
+            "Exodus 33:18-23",
+            "Psalm 63:1-2",
+            "John 14:8-9",
+            "2 Corinthians 3:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's response reflect the nature of true spiritual understanding?",
+        "options": [
+          "Acknowledging personal limitations before divine wisdom",
+          "Recognizing God's sovereignty transcends human reasoning",
+          "Embracing mystery and submitting to divine perspective",
+          "Transforming intellectual knowledge into personal encounter"
+        ]
+      }
+    }
+  }
+}

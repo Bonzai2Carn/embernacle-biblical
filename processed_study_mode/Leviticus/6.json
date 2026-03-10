@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on personal integrity, asking God to reveal any areas where you might be dishonest or withholding truth",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do my actions demonstrate trustworthiness and accountability?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I always return what is not mine",
+            "response": "Make a list of any borrowed items and plan to return them this week"
+          },
+          {
+            "id": 2,
+            "text": "I am transparent about mistakes",
+            "response": "Confess a recent error to someone and offer sincere restitution"
+          },
+          {
+            "id": 3,
+            "text": "I protect others' property and trust",
+            "response": "Create personal guidelines about handling others' belongings with respect"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scale representing honesty, with one side showing truth and restoration, the other showing deceit",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of personal integrity?",
+        "options": [
+          "I realized honesty is more than just not lying",
+          "Restitution is an important part of true repentance",
+          "God cares deeply about how we treat others' property",
+          "Personal accountability matters to God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of accountability most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Restoration of Trust",
+            "expansion": "Genuine restitution requires more than just material compensation, but rebuilding relational integrity."
+          },
+          {
+            "id": 2,
+            "text": "Personal Honesty",
+            "expansion": "Deception fractures not just human relationships, but one's spiritual connection with divine expectations."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Accountability",
+            "expansion": "Individual actions carry profound communal and transcendent consequences beyond immediate circumstances."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal intentions intersect with the objective consequences of our moral transgressions?"
+      },
+      "moral_slider": {
+        "question": "To what extent does intent mitigate the severity of a moral failure?",
+        "left_label": "Pure Intention",
+        "right_label": "Absolute Consequence"
+      },
+      "reevaluation": {
+        "question": "How has this passage reshaped your understanding of personal responsibility?",
+        "options": [
+          "I see accountability more holistically",
+          "I recognize the spiritual dimensions of my actions",
+          "I understand the importance of immediate confession",
+          "I appreciate the complexity of moral restoration"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Restitution and Personal Integrity",
+          "summary": "This chapter emphasizes the importance of personal honesty and making proper amends when one has wronged another. Divine law requires not just confession, but active restoration of what was stolen or misappropriated.",
+          "cross_references": [
+            "Exodus 22:1-4",
+            "Numbers 5:5-8",
+            "Luke 19:8",
+            "Matthew 5:23-24"
+          ]
+        },
+        {
+          "title": "Sacrificial Accountability",
+          "summary": "The text reveals God's comprehensive system of spiritual and material accountability, where sin requires both ritual cleansing and practical recompense. The sacrificial system demonstrates that spiritual restoration involves tangible actions.",
+          "cross_references": [
+            "1 John 1:9",
+            "James 5:16",
+            "Proverbs 28:13",
+            "Romans 12:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine justice intersect with personal moral responsibility in biblical law?",
+        "options": [
+          "Restoration is more important than punishment",
+          "Spiritual confession must be accompanied by material restitution",
+          "Personal accountability transcends ritual sacrifice",
+          "Divine law prioritizes relational healing over legal precision"
+        ]
+      }
+    }
+  }
+}

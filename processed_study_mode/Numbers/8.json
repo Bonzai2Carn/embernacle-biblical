@@ -1,0 +1,117 @@
+{
+  "book": "Numbers",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine light spreading from a pure, carefully crafted lampstand, symbolizing God's precise guidance and illumination in your life.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you ensure your life reflects spiritual clarity and intentionality, like the carefully arranged lampstand?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Establish a consistent daily prayer routine",
+            "response": "Create a dedicated morning/evening prayer time"
+          },
+          {
+            "id": 2,
+            "text": "Review and realign personal spiritual goals",
+            "response": "Journal spiritual priorities and potential adjustments"
+          },
+          {
+            "id": 3,
+            "text": "Seek spiritual mentorship or guidance",
+            "response": "Connect with a trusted spiritual leader for counsel"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a lampstand with seven branches, decorating each branch to represent a different area of spiritual light in your life",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage changed your understanding of spiritual dedication?",
+        "options": [
+          "I see the importance of precision in spiritual practices",
+          "I recognize God's desire for intentional worship",
+          "I understand spiritual leadership requires careful preparation",
+          "I appreciate the symbolism of spiritual illumination"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Precision in Instruction",
+            "expansion": "God provides exact blueprints for spiritual preparation and worship."
+          },
+          {
+            "id": 2,
+            "text": "Intentional Craftsmanship",
+            "expansion": "Each spiritual instrument reflects careful, deliberate divine design."
+          },
+          {
+            "id": 3,
+            "text": "Obedience in Detail",
+            "expansion": "Faithful execution requires attending to every specific divine commandment."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might meticulous spiritual instructions reveal something about the nature of divine communication?"
+      },
+      "moral_slider": {
+        "question": "Where do you position yourself between ritual compliance and spiritual authenticity?",
+        "left_label": "Mechanical Obedience",
+        "right_label": "Heartfelt Worship"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual discipline evolved?",
+        "options": [
+          "More appreciative of precise instructions",
+          "Recognize symbolic significance of ritual",
+          "Value intentionality over mechanical performance",
+          "See deeper connection between divine design and human implementation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Illumination",
+          "summary": "The lampstand represents spiritual enlightenment and God's guiding presence among His people. Its precise construction demonstrates God's meticulous design for spiritual revelation and worship.",
+          "cross_references": [
+            "Psalm 119:105",
+            "John 8:12",
+            "Revelation 1:20",
+            "Zechariah 4:2-6"
+          ]
+        },
+        {
+          "title": "Consecration and Holiness",
+          "summary": "The detailed instructions for arranging the lampstand symbolize God's requirement of spiritual purity and intentional worship. Each element represents the careful preparation required to serve divine purposes.",
+          "cross_references": [
+            "1 Peter 1:15-16",
+            "Romans 12:1",
+            "Hebrews 12:14",
+            "Exodus 19:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the lampstand's precise construction reflect theological understanding of divine guidance?",
+        "options": [
+          "God values methodical, intentional worship",
+          "Spiritual illumination requires precise spiritual alignment",
+          "Divine instructions reveal deeper spiritual principles",
+          "Symbolic representations communicate transcendent truths"
+        ]
+      }
+    }
+  }
+}

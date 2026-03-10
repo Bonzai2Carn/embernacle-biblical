@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe slowly and acknowledge your current struggles, remembering that God sees your pain even when others don't understand",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when life feels unfair and overwhelming?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Withdraw and isolate",
+            "response": "Consider reaching out to a trusted friend or counselor for support"
+          },
+          {
+            "id": 2,
+            "text": "Become bitter",
+            "response": "Practice gratitude and seek spiritual guidance to process your emotions"
+          },
+          {
+            "id": 3,
+            "text": "Surrender to God",
+            "response": "Pray honestly about your pain and ask for strength to endure"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a time when you felt exhausted or discouraged, then draw a small light or hope symbol nearby",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 7 shifted your perspective on suffering?",
+        "options": [
+          "I now see suffering as more complex and personal",
+          "I understand the importance of empathy towards those in pain",
+          "I recognize that honest struggles can be part of spiritual growth",
+          "I feel more compassionate towards people experiencing hardship"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional state resonates most with Job's suffering?",
+        "choices": [
+          {
+            "id": "exhaustion",
+            "text": "Total Emotional Exhaustion",
+            "expansion": "The profound weariness that comes from sustained, unrelenting pain and uncertainty."
+          },
+          {
+            "id": "despair",
+            "text": "Existential Despair",
+            "expansion": "Questioning the purpose of continued struggle when life seems fundamentally unfair and meaningless."
+          },
+          {
+            "id": "resilience",
+            "text": "Silent Resilience",
+            "expansion": "The underlying strength to continue enduring despite experiencing overwhelming suffering."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering is universal, what transforms mere endurance into meaningful experience?"
+      },
+      "moral_slider": {
+        "question": "How do human suffering and divine providence coexist?",
+        "left_label": "Randomness/Injustice",
+        "right_label": "Purposeful Design"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal struggle evolved?",
+        "options": [
+          "More compassionate toward human vulnerability",
+          "Recognize deeper emotional complexity in suffering",
+          "Understand suffering as potentially transformative",
+          "See life's challenges as opportunities for growth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Suffering and Existential Struggle",
+          "summary": "Job expresses profound despair about life's transient and painful nature, comparing human existence to arduous hired labor. His metaphorical description reveals the overwhelming sense of futility and exhaustion experienced in seasons of intense suffering.",
+          "cross_references": [
+            "Ecclesiastes 2:23",
+            "Psalm 90:10",
+            "Genesis 3:19",
+            "James 4:14"
+          ]
+        },
+        {
+          "title": "Divine Appointed Trials",
+          "summary": "Job wrestles with understanding God's sovereign design in allowing prolonged suffering, questioning the purpose of seemingly meaningless pain. His lament reflects the tension between human understanding and divine providence.",
+          "cross_references": [
+            "1 Peter 1:6-7",
+            "Romans 8:28",
+            "James 1:2-4",
+            "Hebrews 12:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers theologically interpret extended periods of seemingly purposeless suffering?",
+        "options": [
+          "God is refining character through trials",
+          "Suffering represents divine punishment",
+          "Trials demonstrate spiritual warfare",
+          "Pain is inherently meaningless and random"
+        ]
+      }
+    }
+  }
+}

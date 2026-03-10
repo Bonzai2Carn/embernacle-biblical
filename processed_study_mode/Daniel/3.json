@@ -1,0 +1,117 @@
+{
+  "book": "Daniel",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine standing firm in your convictions, even when facing intense pressure to compromise.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What 'fiery furnaces' of cultural pressure are you currently facing that challenge your faith?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Workplace expectations that conflict with my beliefs",
+            "response": "Seek wisdom through prayer and seek godly counsel"
+          },
+          {
+            "id": 2,
+            "text": "Social media pressures to conform",
+            "response": "Set clear boundaries and intentionally curate your digital environment"
+          },
+          {
+            "id": 3,
+            "text": "Family or peer pressure to compromise values",
+            "response": "Lovingly and respectfully stand firm in your convictions"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself standing strong in a challenging situation, with God's protective presence around you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Shadrach, Meshach, and Abednego's courage changed your perspective on facing trials?",
+        "options": [
+          "I feel more empowered to stand up for my beliefs",
+          "I recognize the importance of trusting God in difficult circumstances",
+          "I understand that faithfulness might require personal sacrifice",
+          "I'm inspired by the power of unwavering faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological concept resonates most deeply in this story of resistance?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Unwavering Faith",
+            "expansion": "The three men's commitment transcends personal survival and demonstrates absolute trust in divine sovereignty."
+          },
+          {
+            "id": 2,
+            "text": "Spiritual Courage",
+            "expansion": "Refusing to compromise core beliefs, even under threat of death, represents profound moral integrity."
+          },
+          {
+            "id": 3,
+            "text": "Divine Intervention",
+            "expansion": "God's supernatural protection demonstrates His power to preserve those who remain faithful."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When societal pressure demands compromise, what internal resources determine one's capacity to remain true to core convictions?"
+      },
+      "moral_slider": {
+        "question": "How do personal principles interact with collective cultural expectations?",
+        "left_label": "Individual Conviction",
+        "right_label": "Social Conformity"
+      },
+      "reevaluation": {
+        "question": "How has this narrative challenged your understanding of spiritual resilience?",
+        "options": [
+          "Recognized the power of principled resistance",
+          "Understood faith as a transformative force",
+          "Saw divine protection in a new light",
+          "Questioned my own spiritual courage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Faithfulness Under Persecution",
+          "summary": "Shadrach, Meshach, and Abednego demonstrate unwavering faith in God's sovereignty, refusing to compromise their spiritual integrity despite facing death. Their commitment illustrates that true devotion transcends immediate physical consequences.",
+          "cross_references": [
+            "1 Peter 1:7",
+            "Hebrews 11:25-27",
+            "Acts 5:29",
+            "Revelation 2:10"
+          ]
+        },
+        {
+          "title": "Divine Intervention and Protection",
+          "summary": "God miraculously preserves His faithful servants in the fiery furnace, revealing His supernatural power and demonstrating that He is present with believers during their most challenging trials. The narrative emphasizes God's supernatural protection for those who trust Him completely.",
+          "cross_references": [
+            "Isaiah 43:2",
+            "Psalm 91:15",
+            "2 Corinthians 1:10",
+            "James 1:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage challenge our understanding of faithful obedience in contemporary contexts of spiritual compromise?",
+        "options": [
+          "Personal comfort should never supersede spiritual conviction",
+          "God's deliverance is not always physical, but always spiritual",
+          "Corporate pressure cannot override individual moral responsibility",
+          "Faithfulness requires courage to stand alone against systemic injustice"
+        ]
+      }
+    }
+  }
+}

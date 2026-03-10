@@ -1,0 +1,117 @@
+{
+  "book": "1 Samuel",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on moments when fear drives your decisions instead of faith.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you made a decision out of fear rather than trusting God's protection?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Career choice driven by anxiety",
+            "response": "Pause and pray for God's guidance instead of making hasty decisions"
+          },
+          {
+            "id": 2,
+            "text": "Relationship compromise out of loneliness",
+            "response": "Seek godly counsel and wait on God's timing"
+          },
+          {
+            "id": 3,
+            "text": "Compromising integrity for survival",
+            "response": "Recommit to trusting God's plan over personal survival strategies"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing David's journey, with symbols representing his fear (storm clouds) and God's hidden protection (safe haven)",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of faith during difficult seasons?",
+        "options": [
+          "Faith isn't always perfect or linear",
+          "God's protection exists even in our imperfect choices",
+          "Survival instincts can sometimes conflict with spiritual trust",
+          "Difficult seasons don't mean God has abandoned you"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which psychological dynamic most resonates with David's decision to flee to the Philistines?",
+        "choices": [
+          {
+            "id": "fear",
+            "text": "Survival through strategic retreat",
+            "expansion": "David perceives Saul's persistent threat as potentially terminal, choosing pragmatic self-preservation."
+          },
+          {
+            "id": "strategy",
+            "text": "Calculated political maneuvering",
+            "expansion": "David uses his relocation as a geopolitical chess move to disrupt Saul's pursuit and create strategic distance."
+          },
+          {
+            "id": "faith",
+            "text": "Momentary wavering of divine trust",
+            "expansion": "Despite previous prophetic assurances, David momentarily defaults to human reasoning instead of spiritual confidence."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "At what point does strategic survival become a compromise of one's spiritual integrity?"
+      },
+      "moral_slider": {
+        "question": "How does one balance personal safety with maintaining moral and spiritual principles?",
+        "left_label": "Self-Preservation",
+        "right_label": "Spiritual Conviction"
+      },
+      "reevaluation": {
+        "question": "How might your perspective on David's decision change after deeper reflection?",
+        "options": [
+          "I see it as a moment of human weakness",
+          "I recognize the complexity of survival under persecution",
+          "I appreciate the nuanced political navigation",
+          "I'm more sympathetic to David's psychological state"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Desperation",
+          "summary": "David's decision to flee to the Philistines reveals human vulnerability and God's sovereign protection. Despite appearing to make a strategic choice out of fear, David remains under God's watchful care and ultimate plan.",
+          "cross_references": [
+            "Psalm 34:22",
+            "Proverbs 3:5-6",
+            "Romans 8:28",
+            "Philippians 4:6-7"
+          ]
+        },
+        {
+          "title": "Survival and Spiritual Integrity",
+          "summary": "David navigates a complex political landscape while maintaining his faith and ultimate trajectory toward kingship. His temporary refuge among the Philistines demonstrates strategic survival without compromising his divine calling.",
+          "cross_references": [
+            "1 Samuel 16:13",
+            "Psalm 23:4",
+            "Isaiah 41:10",
+            "2 Corinthians 4:8-9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret David's apparent moral compromise in seeking protection from Israel's enemies?",
+        "options": [
+          "David's actions demonstrate pragmatic survival under divine guidance",
+          "David momentarily failed in trusting God's protection",
+          "The narrative reveals the complexity of faith during persecution",
+          "David strategically positioned himself for future leadership"
+        ]
+      }
+    }
+  }
+}

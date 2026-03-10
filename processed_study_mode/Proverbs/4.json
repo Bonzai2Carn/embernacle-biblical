@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize wisdom as a precious treasure. What does wisdom look like in your mind?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently seeking wisdom in your life?",
+        "options": [
+          {
+            "id": "study",
+            "text": "Through consistent learning and reading",
+            "response": "Create a weekly learning schedule focusing on personal growth"
+          },
+          {
+            "id": "mentorship",
+            "text": "By seeking guidance from wise mentors",
+            "response": "Reach out to a respected leader and request a monthly check-in"
+          },
+          {
+            "id": "reflection",
+            "text": "By carefully examining my past experiences",
+            "response": "Start a journal documenting lessons learned from life experiences"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path representing your journey to wisdom, with obstacles and guiding lights along the way",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your current understanding of wisdom?",
+        "options": [
+          "Wisdom requires active pursuit",
+          "Wisdom is more about character than knowledge",
+          "Wisdom can be learned from others' experiences",
+          "Wisdom requires humility and openness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which element of parental wisdom resonates most deeply?",
+        "choices": [
+          {
+            "id": "wisdom",
+            "text": "Prioritizing Wisdom",
+            "expansion": "Wisdom transcends mere knowledge and represents a holistic understanding of life's deeper principles."
+          },
+          {
+            "id": "instruction",
+            "text": "Valuing Generational Teaching",
+            "expansion": "Inherited wisdom carries the accumulated insights of those who have walked life's path before us."
+          },
+          {
+            "id": "obedience",
+            "text": "Practicing Attentive Listening",
+            "expansion": "True understanding emerges when we humble ourselves and genuinely receive guidance."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wisdom is so valuable, why do most people resist being instructed?"
+      },
+      "moral_slider": {
+        "question": "How do personal autonomy and inherited wisdom balance?",
+        "left_label": "Individual Freedom",
+        "right_label": "Ancestral Guidance"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your perspective on learning?",
+        "options": [
+          "I recognize the importance of humble learning",
+          "I see wisdom as a collaborative journey",
+          "I understand guidance differently now",
+          "I'm more open to generational insights"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Parental Spiritual Guidance",
+          "summary": "Wisdom is transmitted through generational teaching, emphasizing the critical role of parents in spiritual formation. The passage demonstrates how spiritual knowledge is intentionally passed from one generation to another through deliberate instruction and personal mentorship.",
+          "cross_references": [
+            "Deuteronomy 6:6-7",
+            "Ephesians 6:4",
+            "2 Timothy 1:5",
+            "Proverbs 22:6"
+          ]
+        },
+        {
+          "title": "Pursuit of Wisdom",
+          "summary": "Wisdom is presented as a supreme virtue that must be actively pursued and cherished above all worldly achievements. The text portrays wisdom as a transformative force that leads to life, protection, and spiritual understanding.",
+          "cross_references": [
+            "James 1:5",
+            "Proverbs 3:13-18",
+            "1 Corinthians 1:24",
+            "Colossians 2:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does intergenerational spiritual transmission impact individual faith development?",
+        "options": [
+          "Parental instruction is the primary determinant of spiritual understanding",
+          "Individual spiritual experiences are more important than inherited teachings",
+          "Wisdom is a collaborative process involving multiple generations",
+          "Personal revelation supersedes traditional familial spiritual frameworks"
+        ]
+      }
+    }
+  }
+}

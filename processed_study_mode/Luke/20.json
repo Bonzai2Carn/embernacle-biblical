@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on the authority of Jesus. Who truly has ultimate authority in your life right now?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you handle challenging questions about your faith?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become defensive",
+            "response": "Practice listening and responding with grace and wisdom"
+          },
+          {
+            "id": 2,
+            "text": "Avoid the conversation",
+            "response": "Develop confidence in understanding your spiritual beliefs"
+          },
+          {
+            "id": 3,
+            "text": "Engage respectfully",
+            "response": "Study scripture to be prepared for thoughtful dialogue"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene showing Jesus outsmarting the religious leaders who were trying to trap him with tricky questions",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of Jesus' interactions with religious authorities?",
+        "options": [
+          "Jesus was strategically wise",
+          "Religious leaders were often manipulative",
+          "Jesus always maintained spiritual integrity",
+          "Challenging conversations can reveal deeper truths"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual challenge resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Religious Authority's Legitimacy",
+            "expansion": "How do leaders earn genuine spiritual credibility beyond institutional power?"
+          },
+          {
+            "id": "2",
+            "text": "Resurrection and Eternal Life",
+            "expansion": "What transforms our understanding of life beyond temporal human limitations?"
+          },
+          {
+            "id": "3",
+            "text": "Paying Taxes and Civic Responsibility",
+            "expansion": "How do spiritual principles intersect with practical societal obligations?"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If religious leaders consistently challenge authentic spiritual truth, what internal mechanisms protect genuine faith from institutional manipulation?"
+      },
+      "moral_slider": {
+        "question": "How do human power structures interact with divine authority?",
+        "left_label": "Human Autonomy",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual authority shifted?",
+        "options": [
+          "Become more questioning of institutional claims",
+          "Recognize complexity in spiritual leadership",
+          "Appreciate nuanced interpretations of faith",
+          "Understand power dynamics in religious contexts"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Authority and Spiritual Leadership",
+          "summary": "Jesus confronts religious leaders about their spiritual authority and challenges their legitimacy. The chapter reveals the tension between human religious structures and divine mandate, demonstrating Christ's ultimate spiritual authority.",
+          "cross_references": [
+            "Matthew 21:23-27",
+            "Mark 11:27-33",
+            "John 5:36-44",
+            "Romans 13:1-2"
+          ]
+        },
+        {
+          "title": "Resurrection and Eternal Life",
+          "summary": "Jesus provides profound theological insight into resurrection and eternal life, challenging Sadducean theological assumptions. He demonstrates God's eternal nature and the reality of life beyond physical death.",
+          "cross_references": [
+            "1 Corinthians 15:12-58",
+            "Matthew 22:23-33",
+            "John 11:25-26",
+            "Revelation 21:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' response to religious authorities challenge traditional understanding of spiritual leadership?",
+        "options": [
+          "Divine authority transcends institutional religious structures",
+          "Spiritual leadership requires moral and theological integrity",
+          "Religious systems can become obstacles to genuine spiritual understanding",
+          "Prophetic challenge is essential for spiritual renewal"
+        ]
+      }
+    }
+  }
+}

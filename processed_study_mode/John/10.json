@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize Jesus as the Good Shepherd, quietly listening for His guiding voice in your current life situation",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I recognizing and responding to Jesus' voice in my daily decisions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I often feel uncertain about God's direction",
+            "response": "Start a daily prayer journaling practice to improve spiritual listening skills"
+          },
+          {
+            "id": 2,
+            "text": "I struggle to distinguish God's voice from other influences",
+            "response": "Commit to reading Scripture daily and comparing inner impressions against biblical principles"
+          },
+          {
+            "id": 3,
+            "text": "I want to develop deeper spiritual discernment",
+            "response": "Seek mentorship from a mature Christian who can help guide spiritual understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a sheep following a loving shepherd, showing how closely the sheep stays near its protector",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of Jesus' relationship with believers?",
+        "options": [
+          "Jesus is more relational than I previously understood",
+          "I see Jesus as a protective guide, not just a distant deity",
+          "I recognize the importance of listening and following",
+          "I feel more confident in my spiritual journey"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which metaphor of Jesus speaks most powerfully to you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Good Shepherd",
+            "expansion": "Jesus intimately knows and protects His followers, guiding them with personal care."
+          },
+          {
+            "id": 2,
+            "text": "The Gate/Door",
+            "expansion": "Jesus represents the exclusive pathway to salvation, defining authentic spiritual access."
+          },
+          {
+            "id": 3,
+            "text": "Laying Down His Life",
+            "expansion": "Christ's voluntary sacrifice demonstrates ultimate love through intentional self-surrender."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If a shepherd truly knows each sheep, how deeply does God actually know you, beyond surface-level understanding?"
+      },
+      "moral_slider": {
+        "question": "How do you navigate the tension between divine protection and human free will?",
+        "left_label": "Complete Divine Control",
+        "right_label": "Total Human Autonomy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual leadership transformed?",
+        "options": [
+          "I see leadership as sacrificial service",
+          "I recognize spiritual authority comes through relationship, not position",
+          "I understand vulnerability is a form of strength",
+          "I appreciate the difference between hired hands and true shepherds"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Good Shepherd",
+          "summary": "Jesus describes Himself as the true shepherd who knows and protects His flock. He distinguishes authentic spiritual leadership from false shepherds who exploit and abandon their followers.",
+          "cross_references": [
+            "Ezekiel 34:11-16",
+            "Psalm 23:1-4",
+            "Hebrews 13:20-21",
+            "1 Peter 5:4"
+          ]
+        },
+        {
+          "title": "Divine Identity and Salvation",
+          "summary": "Jesus reveals His divine nature and mission of providing abundant life through sacrificial love. He emphasizes His unique relationship with God the Father and His role in eternal salvation.",
+          "cross_references": [
+            "John 14:6",
+            "Romans 8:38-39",
+            "Colossians 1:15-20",
+            "Revelation 1:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' metaphor of the Good Shepherd challenge traditional religious leadership paradigms?",
+        "options": [
+          "Leadership is about sacrificial service, not personal gain",
+          "Spiritual authority derives from intimate relationship, not institutional position",
+          "True shepherds prioritize individual care over institutional maintenance",
+          "Authentic spiritual guidance requires complete self-surrender"
+        ]
+      }
+    }
+  }
+}

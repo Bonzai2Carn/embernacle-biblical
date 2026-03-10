@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being 'born again' - what does spiritual rebirth feel like in your heart?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does being 'born again' transform your understanding of faith?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize personal spiritual need",
+            "response": "Pray for genuine heart transformation"
+          },
+          {
+            "id": 2,
+            "text": "Examine current spiritual condition",
+            "response": "Journal about areas needing renewal"
+          },
+          {
+            "id": 3,
+            "text": "Seek deeper relationship with God",
+            "response": "Commit to daily intentional prayer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself before and after experiencing spiritual rebirth",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading John 3 shifted your understanding of salvation?",
+        "options": [
+          "Salvation is a personal transformation",
+          "God's love is unconditional",
+          "Faith requires supernatural change",
+          "Spiritual birth is mysterious but real"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight resonates most deeply with you?",
+        "choices": [
+          {
+            "id": "rebirth",
+            "text": "Being 'born again' spiritually",
+            "expansion": "Transformation requires a profound internal shift beyond external religious practices."
+          },
+          {
+            "id": "mystery",
+            "text": "The mysterious nature of spiritual awakening",
+            "expansion": "True spiritual understanding transcends rational comprehension and human logic."
+          },
+          {
+            "id": "divine_love",
+            "text": "God's unconditional love for humanity",
+            "expansion": "Divine love is not earned, but freely given as a transformative gift."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual rebirth is invisible, how can one be certain it has genuinely occurred?"
+      },
+      "moral_slider": {
+        "question": "How do human understanding and divine mystery intersect?",
+        "left_label": "Human Limitation",
+        "right_label": "Divine Revelation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual transformation shifted?",
+        "options": [
+          "I see spiritual growth as more mysterious",
+          "I recognize the need for internal change",
+          "I understand faith as beyond intellectual comprehension",
+          "I appreciate the complexity of spiritual journeys"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Regeneration",
+          "summary": "The concept of being 'born again' represents a profound spiritual transformation that transcends physical birth. This divine regeneration is essential for entering God's kingdom and experiencing true spiritual life.",
+          "cross_references": [
+            "Titus 3:5",
+            "1 Peter 1:23",
+            "James 1:18",
+            "2 Corinthians 5:17"
+          ]
+        },
+        {
+          "title": "Divine Love and Salvation",
+          "summary": "God's redemptive plan is fundamentally rooted in unconditional love, offering salvation to humanity through belief in Jesus Christ. This love is transformative, providing eternal life to those who accept Christ's sacrificial mission.",
+          "cross_references": [
+            "John 3:16",
+            "Romans 5:8",
+            "Ephesians 2:8-9",
+            "1 John 4:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What does spiritual rebirth fundamentally signify in Christian theology?",
+        "options": [
+          "A metaphorical internal transformation",
+          "Complete replacement of one's original nature",
+          "A supernatural divine intervention in human consciousness",
+          "A ritualistic religious ceremony"
+        ]
+      }
+    }
+  }
+}

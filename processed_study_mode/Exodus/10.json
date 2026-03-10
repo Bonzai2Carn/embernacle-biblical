@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, reflecting on areas of stubborn pride where you might be resisting God's guidance, like Pharaoh",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What 'plagues' or consequences might be occurring in your life due to spiritual resistance?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Relationship tensions",
+            "response": "Practice humility and seek reconciliation"
+          },
+          {
+            "id": 2,
+            "text": "Career stagnation",
+            "response": "Seek God's wisdom and be open to change"
+          },
+          {
+            "id": 3,
+            "text": "Personal growth barriers",
+            "response": "Examine and surrender areas of self-reliance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing darkness, then draw a ray of light breaking through to symbolize God's power over obstacles",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of God's sovereignty?",
+        "options": [
+          "God is patient but ultimately in control",
+          "Resistance to divine guidance has consequences",
+          "God uses challenging circumstances to reveal His power",
+          "Spiritual transformation often requires uncomfortable processes"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological concept resonates most deeply in this chapter?",
+        "choices": [
+          {
+            "id": "divine_sovereignty",
+            "text": "Divine Sovereignty",
+            "expansion": "God's ultimate control over human events, even through hardening Pharaoh's heart."
+          },
+          {
+            "id": "generational_testimony",
+            "text": "Generational Testimony",
+            "expansion": "The importance of passing down stories of divine intervention to future generations."
+          },
+          {
+            "id": "spiritual_stubbornness",
+            "text": "Spiritual Stubbornness",
+            "expansion": "The destructive consequences of persistently resisting divine instruction."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might pride prevent someone from recognizing transformative truth, even when evidence is overwhelming?"
+      },
+      "moral_slider": {
+        "question": "What is the balance between divine judgment and divine mercy?",
+        "left_label": "Strict Justice",
+        "right_label": "Compassionate Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine intervention evolved?",
+        "options": [
+          "More aware of subtle spiritual dynamics",
+          "Recognize complexity of human-divine interactions",
+          "Appreciate narrative of redemption",
+          "See consequences of spiritual resistance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Hardening of Heart",
+          "summary": "God deliberately hardens Pharaoh's heart to demonstrate His supreme power and ultimate control over human will. This reveals God's strategic plan to manifest His glory through confrontation and judgment.",
+          "cross_references": [
+            "Romans 9:17-18",
+            "Isaiah 45:9",
+            "Daniel 4:35",
+            "Proverbs 21:1"
+          ]
+        },
+        {
+          "title": "Generational Testimony of God's Mighty Acts",
+          "summary": "The plagues serve not just as immediate judgment, but as a perpetual testimony to future generations about God's power, justice, and covenant faithfulness. Each miraculous intervention becomes a narrative of divine intervention.",
+          "cross_references": [
+            "Psalm 78:4-6",
+            "Deuteronomy 6:20-23",
+            "Joel 1:3",
+            "Judges 6:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's hardening of Pharaoh's heart align with human free will and divine justice?",
+        "options": [
+          "God's sovereignty supersedes human autonomy in executing divine judgment",
+          "Pharaoh's repeated rejection preceded divine hardening, indicating personal responsibility",
+          "The hardening represents a judicial act of God in response to persistent rebellion",
+          "Divine intervention demonstrates God's ultimate control over historical outcomes"
+        ]
+      }
+    }
+  }
+}

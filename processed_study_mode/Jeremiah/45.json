@@ -1,0 +1,117 @@
+{
+  "book": "Jeremiah",
+  "chapter": 45,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and release any personal frustrations, remembering God sees your struggles",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where are you experiencing emotional exhaustion or feeling overwhelmed?",
+        "options": [
+          {
+            "id": 1,
+            "text": "At work",
+            "response": "Create a 15-minute daily prayer/reflection time to surrender your stress"
+          },
+          {
+            "id": 2,
+            "text": "In relationships",
+            "response": "Journal your feelings and seek godly counsel or mentorship"
+          },
+          {
+            "id": 3,
+            "text": "Personally/Spiritually",
+            "response": "Take a spiritual inventory and realign priorities with God's purpose"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing something in your life that feels heavy, then draw a symbol of God lifting that burden",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your perspective on personal challenges?",
+        "options": [
+          "I see my struggles differently now",
+          "I understand God's perspective more clearly",
+          "I feel more hopeful about my current situation",
+          "I recognize God's sovereignty in my challenges"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theme resonates most deeply about personal struggle and divine purpose?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God sees individual pain",
+            "expansion": "Divine awareness extends beyond national narratives to personal emotional landscapes."
+          },
+          {
+            "id": 2,
+            "text": "Surrender precedes transformation",
+            "expansion": "Personal grief can be a prerequisite for spiritual reconstruction and alignment."
+          },
+          {
+            "id": 3,
+            "text": "Prophetic burdens are emotionally taxing",
+            "expansion": "Carrying divine messages often involves profound personal anguish and spiritual exhaustion."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal lamentations be obscuring the larger spiritual transformation God is orchestrating in your life?"
+      },
+      "moral_slider": {
+        "question": "In moments of personal suffering, how do you balance personal grief with divine sovereignty?",
+        "left_label": "Personal Anguish",
+        "right_label": "Divine Purpose"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on personal struggle shifted after reflecting on this passage?",
+        "options": [
+          "I see suffering as more purposeful",
+          "I recognize divine attentiveness to individual pain",
+          "I understand spiritual transformation requires personal surrender",
+          "I'm more open to seeing challenges as potential growth opportunities"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Personal Suffering",
+          "summary": "God addresses Baruch's personal despair and emotional exhaustion during a tumultuous national crisis. The passage reveals that individual struggles are seen and understood by God, even amidst broader prophetic judgment.",
+          "cross_references": [
+            "Psalm 34:18",
+            "Isaiah 57:15",
+            "2 Corinthians 1:3-4",
+            "1 Peter 5:7"
+          ]
+        },
+        {
+          "title": "Prophetic Companionship and Spiritual Resilience",
+          "summary": "Jeremiah's relationship with Baruch demonstrates the emotional complexity of prophetic ministry. Despite personal challenges, God provides direct encouragement and perspective to those serving alongside His prophetic mission.",
+          "cross_references": [
+            "Exodus 33:14",
+            "Joshua 1:9",
+            "Acts 27:23-25",
+            "2 Timothy 4:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's perspective on personal suffering challenge human perceptions of divine comfort?",
+        "options": [
+          "God acknowledges individual pain while maintaining broader redemptive purposes",
+          "Personal emotional experiences are secondary to prophetic/national missions",
+          "Divine comfort often involves reframing circumstances rather than removing them",
+          "Spiritual resilience emerges through understanding God's sovereign perspective"
+        ]
+      }
+    }
+  }
+}

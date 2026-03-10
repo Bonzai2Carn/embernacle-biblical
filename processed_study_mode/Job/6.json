@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine holding your deepest pain on a scale, acknowledging its true weight without minimizing your suffering.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when friends misunderstand your deep emotional struggles?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Withdraw and become silent",
+            "response": "Practice gentle, honest communication about your feelings"
+          },
+          {
+            "id": 2,
+            "text": "Get defensive and argue",
+            "response": "Listen first, then share your perspective with vulnerability"
+          },
+          {
+            "id": 3,
+            "text": "Pretend everything is fine",
+            "response": "Find a trusted friend or counselor who can hear your true experience"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a heavy burden you're carrying, using colors and shapes that represent its emotional weight",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job's raw emotional expression changed your understanding of suffering?",
+        "options": [
+          "Suffering is more complex than simple explanations",
+          "Emotional honesty is a form of strength",
+          "Pain deserves compassionate listening",
+          "Spiritual struggles are valid and real"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about Job's emotional landscape?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Overwhelming suffering",
+            "expansion": "Pain so profound it defies rational measurement or comprehension"
+          },
+          {
+            "id": 2,
+            "text": "Divine abandonment",
+            "expansion": "The sense of being targeted by an inscrutable, overwhelming supernatural force"
+          },
+          {
+            "id": 3,
+            "text": "Emotional rawness",
+            "expansion": "Unfiltered, visceral expression of human vulnerability in extreme circumstances"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your suffering feels incomprehensible, does that invalidate its authentic experience?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile personal suffering with divine justice?",
+        "left_label": "Absolute Doubt",
+        "right_label": "Unwavering Trust"
+      },
+      "reevaluation": {
+        "question": "How has this passage shifted your understanding of human resilience?",
+        "options": [
+          "More empathetic toward inexplicable pain",
+          "Recognize complexity of spiritual struggle",
+          "Appreciate raw emotional honesty",
+          "Understand vulnerability as strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Suffering's Emotional Weight",
+          "summary": "Job articulates the immense emotional and spiritual burden of his suffering, suggesting that his pain transcends typical human comprehension. He expresses that his grief is so profound that it would outweigh the sand of the sea if measured.",
+          "cross_references": [
+            "Psalm 42:5",
+            "Lamentations 3:19-20",
+            "2 Corinthians 1:5-7",
+            "Isaiah 53:3"
+          ]
+        },
+        {
+          "title": "Divine Discipline and Spiritual Anguish",
+          "summary": "Job describes God's discipline as painful arrows piercing his spirit, metaphorically depicting divine correction as a deeply personal and overwhelming experience. He portrays spiritual suffering as more intense than physical affliction.",
+          "cross_references": [
+            "Hebrews 12:5-6",
+            "Psalm 38:2",
+            "Proverbs 3:11-12",
+            "1 Peter 4:12-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret seasons of intense spiritual suffering?",
+        "options": [
+          "As direct punishment for personal sin",
+          "As opportunities for spiritual refinement and growth",
+          "As mysterious divine tests of faith",
+          "As potential spiritual warfare manifestations"
+        ]
+      }
+    }
+  }
+}

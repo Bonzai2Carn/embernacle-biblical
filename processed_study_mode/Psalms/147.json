@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 147,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 20 seconds to pause and silently thank God for healing and restoring you, just as the Psalm describes God's restorative power",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I recognize God's care in both my personal challenges and community needs?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Focus on personal healing",
+            "response": "Spend time in prayer asking God to heal specific personal wounds"
+          },
+          {
+            "id": 2,
+            "text": "Support community restoration",
+            "response": "Identify and serve someone in your local community who needs compassionate support"
+          },
+          {
+            "id": 3,
+            "text": "Praise through challenges",
+            "response": "Create a gratitude list that acknowledges God's goodness even during difficult seasons"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing how God counts and names the stars, representing His incredible detail and personal care",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm shifted my understanding of God's nature?",
+        "options": [
+          "I see God as more personally involved",
+          "I recognize God's power in both big and small details",
+          "I feel more motivated to praise God",
+          "I understand God's care more deeply"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of God's nature resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's Cosmic Power",
+            "expansion": "The psalm reveals God's sovereignty over astronomical and meteorological systems."
+          },
+          {
+            "id": "2",
+            "text": "Divine Compassion",
+            "expansion": "God tenderly cares for the broken-hearted and binds their emotional wounds."
+          },
+          {
+            "id": "3",
+            "text": "Intellectual Majesty",
+            "expansion": "God's understanding is infinite, transcending human comprehension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power is so comprehensive, what prevents human suffering?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile God's cosmic power with personal vulnerability?",
+        "left_label": "Cosmic Indifference",
+        "right_label": "Personal Intimacy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine engagement shifted?",
+        "options": [
+          "More aware of cosmic complexity",
+          "Recognize divine tenderness",
+          "Appreciate mysterious divine intelligence",
+          "Feel more personally connected"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Sovereign Restoration",
+          "summary": "This psalm celebrates God's power to rebuild and restore, specifically referencing Jerusalem's restoration after exile. It demonstrates divine compassion in reconstructing broken systems and healing spiritual/national wounds.",
+          "cross_references": [
+            "Isaiah 61:4",
+            "Nehemiah 2:17-20",
+            "Jeremiah 29:10-11",
+            "Zechariah 8:3-8"
+          ]
+        },
+        {
+          "title": "Divine Scientific Sovereignty",
+          "summary": "The psalm portrays God as supreme over natural systems, counting stars, controlling weather patterns, and demonstrating intricate understanding of creation. It highlights God's mathematical precision and cosmic management.",
+          "cross_references": [
+            "Job 38:4-7",
+            "Colossians 1:16-17",
+            "Hebrews 11:3",
+            "Proverbs 8:22-31"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 147 challenge contemporary perspectives about divine involvement in natural and human systems?",
+        "options": [
+          "God is actively managing cosmic and local systems simultaneously",
+          "Natural laws reflect divine mathematical precision",
+          "Divine intervention occurs through systemic restoration, not just individual miracles",
+          "God's emotional investment extends beyond human comprehension"
+        ]
+      }
+    }
+  }
+}

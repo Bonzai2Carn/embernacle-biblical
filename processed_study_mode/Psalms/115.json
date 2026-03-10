@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 115,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently affirm 'God is my help and shield' while taking three deep breaths",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently place your trust - in human systems or in God's promises?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Mostly in human resources and strategies",
+            "response": "Spend time listing God's proven faithfulness in your life"
+          },
+          {
+            "id": 2,
+            "text": "Partially in God, but still anxious",
+            "response": "Practice surrendering specific worries through prayer"
+          },
+          {
+            "id": 3,
+            "text": "Fully trusting God's guidance",
+            "response": "Share your testimony of trust with someone"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with God's attributes protecting you from worldly idols",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of trust?",
+        "options": [
+          "I see idols differently now",
+          "I understand God's sovereignty more deeply",
+          "I recognize my tendency to trust other things",
+          "I feel more secure in God's protection"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological perspective resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's glory transcends human limitations",
+            "expansion": "The psalm emphasizes divine sovereignty beyond human constructs of power and representation."
+          },
+          {
+            "id": "2",
+            "text": "Idolatry leads to spiritual emptiness",
+            "expansion": "Manufactured gods are powerless compared to the living, active God of Israel."
+          },
+          {
+            "id": "3",
+            "text": "Trust overcomes human vulnerability",
+            "expansion": "Faithful dependence on God provides strength when human resources fail."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power cannot be physically represented, how do we genuinely experience God's presence?"
+      },
+      "moral_slider": {
+        "question": "How does human agency interact with divine sovereignty?",
+        "left_label": "Human Control",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship and spiritual representation shifted?",
+        "options": [
+          "Recognized limitations of material representations",
+          "Understood deeper spiritual connectivity",
+          "Challenged previous assumptions about divine interaction",
+          "Gained perspective on spiritual authenticity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Glory versus Idolatry",
+          "summary": "The psalm emphasizes God's supremacy over human-crafted idols. It highlights the futility of worshipping lifeless representations and contrasts them with the living, active God of Israel.",
+          "cross_references": [
+            "Isaiah 44:9-20",
+            "1 Corinthians 10:19-20",
+            "Habakkuk 2:18-19",
+            "Revelation 9:20"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty and Human Trust",
+          "summary": "The psalm underscores the importance of trusting in God's sovereignty rather than relying on human limitations. It encourages believers to place their confidence in God's power and faithfulness.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "Jeremiah 17:5-8",
+            "2 Corinthians 1:9-10",
+            "Romans 8:28"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm challenge contemporary perspectives on divine representation and spiritual dependency?",
+        "options": [
+          "Challenges materialistic approaches to spirituality",
+          "Critiques human-centered religious practices",
+          "Emphasizes transcendent nature of divine relationship",
+          "Highlights limitations of empirical understanding of God"
+        ]
+      }
+    }
+  }
+}

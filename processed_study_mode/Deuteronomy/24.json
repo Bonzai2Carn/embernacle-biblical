@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 24,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on the dignity of human relationships, recognizing that every person deserves respect and fair treatment",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I create more just and compassionate systems in my personal relationships and community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Practice empathy towards vulnerable groups",
+            "response": "Volunteer or support organizations that help marginalized people"
+          },
+          {
+            "id": 2,
+            "text": "Examine my own biases about social justice",
+            "response": "Keep a reflective journal about personal prejudices and growth"
+          },
+          {
+            "id": 3,
+            "text": "Learn about systemic inequalities",
+            "response": "Read books or attend workshops about social justice and community care"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing how you can protect or care for someone who might be vulnerable in your community",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of social responsibility?",
+        "options": [
+          "I see the importance of protecting the vulnerable",
+          "I recognize systemic inequalities more clearly",
+          "I feel more motivated to create just systems",
+          "I understand the spiritual significance of treating others with dignity"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine guidance resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Protection of the vulnerable",
+            "expansion": "The passage emphasizes social compassion for marginalized groups like widows and workers."
+          },
+          {
+            "id": 2,
+            "text": "Ethical boundaries in relationships",
+            "expansion": "Divorce and remarriage regulations reveal complex interpersonal dynamics and spiritual integrity."
+          },
+          {
+            "id": 3,
+            "text": "Systemic justice through legal frameworks",
+            "expansion": "Detailed legal prescriptions demonstrate God's concern for procedural fairness and human dignity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might rigid legal interpretations potentially contradict the underlying spiritual intent of divine commandments?"
+      },
+      "moral_slider": {
+        "question": "To what extent should ancient legal principles be directly applied in contemporary contexts?",
+        "left_label": "Literal Interpretation",
+        "right_label": "Contextual Adaptation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical legal frameworks evolved?",
+        "options": [
+          "More nuanced appreciation of cultural context",
+          "Recognize complexity beyond surface-level rules",
+          "Greater respect for systemic compassion",
+          "Deeper understanding of human dignity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection of Vulnerable Populations",
+          "summary": "This passage demonstrates God's concern for marginalized groups such as divorcees, servants, and economic dependents. The laws provide social protections and dignity for individuals who might otherwise be exploited in ancient Near Eastern societies.",
+          "cross_references": [
+            "Exodus 22:21-24",
+            "Psalm 68:5",
+            "James 1:27",
+            "Matthew 25:40"
+          ]
+        },
+        {
+          "title": "Marriage and Relational Covenant",
+          "summary": "Deuteronomy 24 reveals complex marital dynamics and divine principles surrounding divorce, remarriage, and interpersonal relationships. The text demonstrates God's nuanced understanding of human relational complexity while establishing ethical boundaries.",
+          "cross_references": [
+            "Matthew 19:3-9",
+            "1 Corinthians 7:10-16",
+            "Malachi 2:16",
+            "Genesis 2:24"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage reflect God's perspective on human dignity and societal responsibility?",
+        "options": [
+          "Divine concern for individual welfare transcends legal technicalities",
+          "Social laws should prioritize protection of vulnerable populations",
+          "Relational covenants require compassion and ethical consideration",
+          "Systemic justice emerges from recognizing individual human worth"
+        ]
+      }
+    }
+  }
+}

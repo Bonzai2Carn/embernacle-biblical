@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on areas of unintentional sin in your life, asking God for gentle revelation and cleansing",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you handle situations where you might be indirectly responsible for sin or unholiness?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ignore and hope it goes away",
+            "response": "Actively seek reconciliation and seek God's guidance"
+          },
+          {
+            "id": "B",
+            "text": "Pretend I didn't notice",
+            "response": "Courageously address the issue with humility and grace"
+          },
+          {
+            "id": "C",
+            "text": "Feel overwhelmed by guilt",
+            "response": "Bring the situation to God, seek forgiveness, and make amends"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a clean heart being washed and restored, representing how God cleanses us from unintentional sins",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about God's provision for dealing with unintentional sin changed your perspective?",
+        "options": [
+          "I see God as more merciful than I previously understood",
+          "I recognize the importance of taking responsibility for my actions",
+          "I'm more aware of how sin can subtly impact my relationship with God",
+          "I feel more hopeful about receiving grace and restoration"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of personal accountability speaks most powerfully to you?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Unintentional Sin Awareness",
+            "expansion": "Even unconscious transgressions carry spiritual and communal consequences."
+          },
+          {
+            "id": "b",
+            "text": "Personal Confession",
+            "expansion": "Acknowledging one's moral failures is the first step towards spiritual restoration."
+          },
+          {
+            "id": "c",
+            "text": "Ritual Cleansing",
+            "expansion": "External purification symbolizes internal spiritual transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If sin can occur without intentional knowledge, what does this reveal about human moral complexity and divine understanding?"
+      },
+      "moral_slider": {
+        "question": "How do individual actions impact communal spiritual integrity?",
+        "left_label": "Personal Autonomy",
+        "right_label": "Collective Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal accountability shifted?",
+        "options": [
+          "More aware of unintentional moral consequences",
+          "Recognize importance of immediate confession",
+          "Understand deeper layers of spiritual cleansing",
+          "See sin as more nuanced than black-and-white"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Unintentional Sin and Accountability",
+          "summary": "This passage reveals God's understanding that humans can sin unintentionally and still bear responsibility. The text emphasizes personal accountability even when transgressions occur through ignorance or inadvertence.",
+          "cross_references": [
+            "Numbers 15:22-31",
+            "Luke 12:47-48",
+            "James 4:17",
+            "1 Timothy 1:13"
+          ]
+        },
+        {
+          "title": "Ritual Purity and Moral Cleanliness",
+          "summary": "Leviticus 5 demonstrates the intricate relationship between physical uncleanness and spiritual contamination. The chapter illustrates how seemingly minor transgressions require deliberate restoration and reconciliation with God.",
+          "cross_references": [
+            "1 John 1:9",
+            "Ezekiel 36:25",
+            "2 Corinthians 7:1",
+            "Hebrews 9:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary believers understand the concept of unintentional sin?",
+        "options": [
+          "Unintentional sins are less serious and require minimal spiritual attention",
+          "All sins, intentional or not, separate humans from God and require genuine repentance",
+          "Only deliberate transgressions truly constitute spiritual accountability",
+          "Unintentional sins reflect human weakness and require God's grace and understanding"
+        ]
+      }
+    }
+  }
+}

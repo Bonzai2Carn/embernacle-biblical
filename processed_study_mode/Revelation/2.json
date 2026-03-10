@@ -1,0 +1,117 @@
+{
+  "book": "Revelation",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to silently reflect on your first love for Christ and where that passion may have diminished",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "Are you maintaining spiritual vigilance while preserving compassionate love?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm strong in doctrinal purity but lacking in love",
+            "response": "Intentionally practice grace and compassion this week"
+          },
+          {
+            "id": 2,
+            "text": "I'm emotionally passionate but doctrinally weak",
+            "response": "Study scripture and seek sound theological understanding"
+          },
+          {
+            "id": 3,
+            "text": "I feel balanced in my spiritual walk",
+            "response": "Continue cultivating both truth and love"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a lampstand with seven branches, representing the church's light in the world",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual maturity?",
+        "options": [
+          "Doctrinal precision matters more than emotional connection",
+          "Loving relationship with Jesus is the primary goal",
+          "Both theological depth and passionate love are essential",
+          "I'm unsure how to balance these spiritual dimensions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual authenticity resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Testing False Apostles",
+            "expansion": "Discernment requires courageous spiritual scrutiny beyond surface appearances."
+          },
+          {
+            "id": 2,
+            "text": "Persevering Under Hardship",
+            "expansion": "Spiritual endurance emerges not from comfort, but from unwavering commitment."
+          },
+          {
+            "id": 3,
+            "text": "Losing First Love",
+            "expansion": "Institutional righteousness can subtly replace genuine spiritual intimacy."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "Can passionate doctrinal correctness paradoxically become a barrier to authentic spiritual connection?"
+      },
+      "moral_slider": {
+        "question": "How do spiritual discernment and grace coexist?",
+        "left_label": "Strict Judgment",
+        "right_label": "Unconditional Acceptance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual authenticity transformed?",
+        "options": [
+          "Recognized the difference between performance and genuine devotion",
+          "Understood spiritual testing requires compassion",
+          "Realized institutional righteousness can mask spiritual emptiness",
+          "Acknowledged the complexity of maintaining spiritual passion"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Ecclesiastical Evaluation",
+          "summary": "Christ's direct assessment of the Ephesian church reveals a nuanced spiritual diagnostic of commitment, discernment, and potential spiritual decline. The passage demonstrates Christ's intimate knowledge of His church's strengths and areas requiring correction.",
+          "cross_references": [
+            "1 Corinthians 11:31",
+            "Hebrews 12:6",
+            "Psalm 139:23-24",
+            "1 Peter 4:17"
+          ]
+        },
+        {
+          "title": "Spiritual Perseverance and Love",
+          "summary": "The church is commended for doctrinal vigilance and endurance, yet challenged regarding its diminishing relational passion with God. Christ emphasizes that theological orthodoxy without genuine love represents an incomplete spiritual condition.",
+          "cross_references": [
+            "1 Corinthians 13:2",
+            "Galatians 5:6",
+            "James 2:17",
+            "Ephesians 4:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's evaluation of the Ephesian church challenge contemporary ecclesiastical self-perception?",
+        "options": [
+          "Doctrinal accuracy can mask spiritual coldness",
+          "External works do not necessarily indicate internal spiritual health",
+          "Persecution endurance does not guarantee intimate relationship with Christ",
+          "Theological discernment must be balanced with divine love"
+        ]
+      }
+    }
+  }
+}

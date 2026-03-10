@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 11,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect: Where am I seeking personal glory instead of God's purpose?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might pride be preventing me from truly connecting with God's plan?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I recognize my own ambitious tendencies",
+            "response": "Spend time in prayer surrendering personal goals to God's vision"
+          },
+          {
+            "id": 2,
+            "text": "I see how I seek recognition over collaboration",
+            "response": "Practice humility by intentionally celebrating others' achievements"
+          },
+          {
+            "id": 3,
+            "text": "I want to build community God's way",
+            "response": "Seek unity through listening and mutual understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a tower that represents something in your life you're trying to build without God's guidance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged my understanding of ambition and community?",
+        "options": [
+          "I see pride differently now",
+          "I understand God values unity over personal achievement",
+          "I recognize the danger of independent spirit",
+          "I want to align my goals with God's purpose"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What does human ambition reveal about our relationship with God?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Human pride and self-sufficiency",
+            "expansion": "The tower represents humanity's attempt to define its own significance independent of divine purpose."
+          },
+          {
+            "id": 2,
+            "text": "Collective human potential",
+            "expansion": "The builders demonstrated remarkable unity and collaborative capability before divine intervention."
+          },
+          {
+            "id": 3,
+            "text": "Fear of dispersion and insignificance",
+            "expansion": "The people's primary motivation was maintaining collective identity and preventing social fragmentation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If unity can achieve remarkable things, why might God perceive human consolidation of power as potentially dangerous?"
+      },
+      "moral_slider": {
+        "question": "To what extent should human ambition be moderated by spiritual humility?",
+        "left_label": "Unbridled Ambition",
+        "right_label": "Divine Submission"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of collective human potential shifted?",
+        "options": [
+          "More aware of human limitations",
+          "Recognize the importance of spiritual perspective",
+          "Appreciate the complexity of divine intervention",
+          "Understand the risks of unchecked collective pride"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Pride and Divine Intervention",
+          "summary": "The Tower of Babel narrative reveals humanity's attempt to establish self-sufficiency and global prominence without acknowledging God's sovereignty. The people sought to create a unified identity and reputation through architectural achievement, challenging divine design for human dispersal.",
+          "cross_references": [
+            "Proverbs 16:18",
+            "Isaiah 14:13-14",
+            "Acts 17:26",
+            "James 4:6"
+          ]
+        },
+        {
+          "title": "Language and Divine Judgment",
+          "summary": "God's deliberate confounding of human language demonstrates His ability to disrupt human plans and prevent unchecked collective rebellion. The linguistic diversification serves as a mechanism of divine judgment and geographical distribution.",
+          "cross_references": [
+            "1 Corinthians 14:10",
+            "Revelation 7:9",
+            "Psalm 33:10",
+            "Daniel 2:21"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the Tower of Babel narrative challenge contemporary understandings of human potential and divine sovereignty?",
+        "options": [
+          "Human technological achievement can become a form of spiritual rebellion",
+          "Divine intervention preserves humanity from unchecked collective pride",
+          "Cultural and linguistic diversity is part of God's intentional design",
+          "Collaborative human efforts can be misaligned with divine purposes"
+        ]
+      }
+    }
+  }
+}

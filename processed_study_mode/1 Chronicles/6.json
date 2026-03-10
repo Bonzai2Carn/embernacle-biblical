@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Quietly reflect on your spiritual lineage and the generations that have followed God before you",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you honor the spiritual legacy of your family or faith community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Learn family spiritual stories",
+            "response": "Ask elder relatives about their faith journey"
+          },
+          {
+            "id": 2,
+            "text": "Research my denominational history",
+            "response": "Read books about church/faith tradition origins"
+          },
+          {
+            "id": 3,
+            "text": "Document my own spiritual journey",
+            "response": "Start a journal tracking personal spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree of faith, including generations who followed God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogy changed your perspective on spiritual inheritance?",
+        "options": [
+          "I see the importance of generational faithfulness",
+          "Family spiritual history matters more to me now",
+          "God works through ordinary family lines",
+          "Lineage doesn't determine individual faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of lineage speaks most deeply to you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Priestly Succession",
+            "expansion": "The careful tracing of Aaron's bloodline reveals divine intentionality in spiritual leadership."
+          },
+          {
+            "id": 2,
+            "text": "Generational Continuity",
+            "expansion": "Each generation carries forward not just genetic inheritance, but spiritual responsibility."
+          },
+          {
+            "id": 3,
+            "text": "Tribal Identity",
+            "expansion": "The Levitical tribe represents a unique covenant relationship with God beyond mere genealogy."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual leadership is inherited, what transforms genetic descent into genuine spiritual calling?"
+      },
+      "moral_slider": {
+        "question": "How much should family heritage determine one's spiritual destiny?",
+        "left_label": "Individual Choice",
+        "right_label": "Ancestral Calling"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual inheritance evolved?",
+        "options": [
+          "I see deeper intentionality in historical genealogies",
+          "Family background matters more than I previously thought",
+          "Personal commitment transcends ancestral patterns",
+          "Divine selection operates beyond human lineage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Priestly Lineage and Divine Order",
+          "summary": "This passage meticulously traces the genealogy of the Levitical priesthood, emphasizing God's structured approach to spiritual leadership and covenant relationships. The detailed genealogical record demonstrates divine intentionality in selecting and preserving the priestly line.",
+          "cross_references": [
+            "Exodus 28:1",
+            "Numbers 3:5-10",
+            "Hebrews 7:11-14",
+            "Leviticus 8:30"
+          ]
+        },
+        {
+          "title": "Generational Spiritual Inheritance",
+          "summary": "The genealogical record reveals how spiritual legacy and covenant commitment are transmitted across generations. The meticulous tracking of Aaron's descendants highlights the importance of spiritual continuity and faithfulness.",
+          "cross_references": [
+            "Deuteronomy 6:4-7",
+            "Psalm 78:5-8",
+            "2 Timothy 1:5",
+            "Exodus 20:5-6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the detailed genealogical record of the Levitical priesthood inform our understanding of spiritual leadership and divine selection?",
+        "options": [
+          "Demonstrates God's intentional design in spiritual succession",
+          "Reveals the importance of familial and tribal connections in spiritual service",
+          "Highlights the significance of documenting spiritual heritage",
+          "Underscores the principle of preparation and generational training in ministry"
+        ]
+      }
+    }
+  }
+}

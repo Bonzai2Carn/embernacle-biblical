@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus stepping into your personal 'boat' of daily life, asking permission to teach and guide you",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in your life are you struggling to trust God's direction, like Simon Peter with the fishing nets?",
+        "options": [
+          {
+            "id": "career",
+            "text": "Professional/Career Path",
+            "response": "Pray for divine guidance and be willing to 'let down your nets' in unexpected ways"
+          },
+          {
+            "id": "relationships",
+            "text": "Personal Relationships",
+            "response": "Surrender your expectations and be open to God's unexpected plans"
+          },
+          {
+            "id": "ministry",
+            "text": "Spiritual Calling",
+            "response": "Listen deeply and be obedient, even when instructions seem counterintuitive"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself in a boat, with Jesus sitting beside you, showing how He might be guiding your journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 5 shifted your understanding of following Jesus?",
+        "options": [
+          "I see discipleship as more about radical obedience",
+          "I recognize Jesus meets people exactly where they are",
+          "I understand faith involves stepping into the unknown",
+          "I'm more aware of God's transformative power"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What moment in this chapter most reveals divine intervention?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The miraculous fish catch",
+            "expansion": "Jesus transforms ordinary human effort into supernatural abundance"
+          },
+          {
+            "id": 2,
+            "text": "Healing of the leper",
+            "expansion": "Christ demonstrates compassion that transcends social and religious boundaries"
+          },
+          {
+            "id": 3,
+            "text": "Calling of the first disciples",
+            "expansion": "Ordinary people are invited into extraordinary spiritual purpose"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When Jesus asks Simon to launch into deeper waters after a fruitless night, what does this suggest about perseverance beyond human logic?"
+      },
+      "moral_slider": {
+        "question": "How do human limitations interact with divine potential?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Empowerment"
+      },
+      "reevaluation": {
+        "question": "How might this chapter challenge your understanding of spiritual calling?",
+        "options": [
+          "I see divine opportunities in mundane moments",
+          "Personal inadequacy is not a barrier to God's purpose",
+          "Transformation often begins with radical obedience",
+          "Spiritual growth requires stepping beyond comfort zones"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Authority and Human Obedience",
+          "summary": "Jesus demonstrates supernatural power through the miraculous fish catch, revealing His divine authority over creation. Simon Peter's initial hesitation gives way to complete surrender, illustrating the transformative nature of encountering Christ's power.",
+          "cross_references": [
+            "John 15:5",
+            "Isaiah 6:5",
+            "Exodus 3:11-12",
+            "Philippians 2:13"
+          ]
+        },
+        {
+          "title": "Call to Discipleship",
+          "summary": "Jesus transforms ordinary fishermen into spiritual fishers of men, showing that divine calling transcends professional skills and personal limitations. The narrative reveals God's intentional selection of unlikely candidates for Kingdom work.",
+          "cross_references": [
+            "Matthew 4:19",
+            "1 Corinthians 1:27-29",
+            "Acts 4:13",
+            "Jeremiah 1:6-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human weakness intersect with divine empowerment in spiritual transformation?",
+        "options": [
+          "Divine grace overcomes human inadequacy",
+          "Personal skill determines spiritual effectiveness",
+          "Surrender precedes supernatural intervention",
+          "Spiritual calling requires perfect qualification"
+        ]
+      }
+    }
+  }
+}

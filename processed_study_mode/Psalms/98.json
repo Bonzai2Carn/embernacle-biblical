@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 98,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a symphony of creation praising God, with all of nature joining in joyful worship",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I express genuine joy and gratitude in my worship of God today?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Sing a new song of praise",
+            "response": "Choose a worship song and sing it with heartfelt enthusiasm"
+          },
+          {
+            "id": 2,
+            "text": "Share God's goodness with someone",
+            "response": "Tell a friend or family member about a recent blessing"
+          },
+          {
+            "id": 3,
+            "text": "Create a gratitude list",
+            "response": "Write down 5 specific ways God has been faithful recently"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing all of creation (mountains, rivers, animals, people) worshiping God together",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm shifted my understanding of worship?",
+        "options": [
+          "Worship is more than just music",
+          "All of creation praises God",
+          "Joy is a key element of true worship",
+          "God's faithfulness inspires praise"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which central theme resonates most deeply with you in this psalm?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Universal Praise",
+            "expansion": "The psalm suggests that all creation is invited to worship, transcending human boundaries."
+          },
+          {
+            "id": 2,
+            "text": "Divine Righteousness",
+            "expansion": "God's justice and faithfulness are proclaimed as fundamental to His nature."
+          },
+          {
+            "id": 3,
+            "text": "Celebratory Worship",
+            "expansion": "The psalm is a jubilant expression of joy and thanksgiving for God's redemptive acts."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If praise is a universal language, what prevents humans from experiencing collective harmony?"
+      },
+      "moral_slider": {
+        "question": "How do divine sovereignty and human free will interact in worship?",
+        "left_label": "Predetermined Worship",
+        "right_label": "Voluntary Praise"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship transformed?",
+        "options": [
+          "More inclusive of all creation",
+          "Deeper appreciation of divine justice",
+          "Recognizing worship as a response, not a duty",
+          "Understanding praise as a cosmic event"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Victory and Universal Praise",
+          "summary": "Psalm 98 celebrates God's triumphant redemption and kingship over all creation. It emphasizes that God's salvation is a public demonstration of divine power and righteousness that transcends Israel's immediate context.",
+          "cross_references": [
+            "Isaiah 52:10",
+            "Revelation 15:4",
+            "Romans 15:9-11",
+            "Zechariah 14:16-19"
+          ]
+        },
+        {
+          "title": "Cosmic Worship and Creation's Response",
+          "summary": "The psalm portrays worship as a universal, multi-dimensional experience where not just humans, but all of creation participates in praising God. It suggests that divine redemption has implications for the entire created order.",
+          "cross_references": [
+            "Colossians 1:20",
+            "Romans 8:19-22",
+            "Psalm 96:11-13",
+            "Revelation 5:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 98 challenge traditional understanding of salvation's scope?",
+        "options": [
+          "Salvation is exclusively for Israel",
+          "God's redemptive work includes all nations and creation",
+          "Worship is limited to human religious practices",
+          "Divine victory is metaphorical rather than literal"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 10 seconds to reflect on fairness and compassionate justice, imagining how you can treat others with dignity even in conflict",
+        "timer": 10
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate justice and mercy in my daily interactions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen carefully before judging",
+            "response": "Practice active listening and seek to understand before forming an opinion"
+          },
+          {
+            "id": 2,
+            "text": "Show proportional correction",
+            "response": "When addressing wrongs, use measured and appropriate responses"
+          },
+          {
+            "id": 3,
+            "text": "Protect the vulnerable",
+            "response": "Stand up for those who cannot defend themselves in legal or social situations"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing someone being treated fairly, with kindness and respect",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of justice?",
+        "options": [
+          "Justice requires compassion",
+          "Punishment should be proportional",
+          "Everyone deserves dignity",
+          "Personal restraint is important in conflict"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which judicial principle resonates most deeply?",
+        "choices": [
+          {
+            "id": "proportionality",
+            "text": "Punishment must be proportional to the offense",
+            "expansion": "Justice demands measured response, preventing excess or arbitrary punishment."
+          },
+          {
+            "id": "dignity",
+            "text": "Even condemned persons retain human dignity",
+            "expansion": "Legal consequences should not strip away fundamental human respect."
+          },
+          {
+            "id": "accountability",
+            "text": "Personal responsibility is paramount",
+            "expansion": "Individual actions have direct, predictable consequences within a structured legal framework."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If justice is about restoration rather than punishment, how might these legal prescriptions transform societal understanding of accountability?"
+      },
+      "moral_slider": {
+        "question": "How do legal boundaries balance individual freedom with communal order?",
+        "left_label": "Personal Liberty",
+        "right_label": "Collective Discipline"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on justice evolved after examining these principles?",
+        "options": [
+          "More empathetic towards legal process",
+          "Recognize complexity of moral judgments",
+          "Appreciate nuanced approaches to accountability",
+          "See law as a tool for communal healing"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Justice and Proportionality",
+          "summary": "Deuteronomy 25 emphasizes measured and humane legal punishment, ensuring that justice is administered with restraint and dignity. The chapter demonstrates God's concern for fair treatment and prevention of excessive punishment.",
+          "cross_references": [
+            "Proverbs 17:15",
+            "Romans 13:4",
+            "Matthew 7:1-2",
+            "Galatians 6:1"
+          ]
+        },
+        {
+          "title": "Social Responsibility and Compassion",
+          "summary": "The chapter outlines communal obligations, including caring for widows, maintaining family lineage, and showing respect for vulnerable members of society. These laws reflect God's heart for equitable and compassionate social structures.",
+          "cross_references": [
+            "James 1:27",
+            "Ruth 4:1-12",
+            "Isaiah 1:17",
+            "1 Timothy 5:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the legal and social principles in Deuteronomy 25 reflect God's character of justice and mercy?",
+        "options": [
+          "Divine standards emphasize human dignity over punitive measures",
+          "Legal frameworks should prioritize rehabilitation over retribution",
+          "Community welfare requires active participation and mutual protection",
+          "Systemic compassion is a fundamental expression of spiritual maturity"
+        ]
+      }
+    }
+  }
+}

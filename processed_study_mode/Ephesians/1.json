@@ -1,0 +1,117 @@
+{
+  "book": "Ephesians",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on being 'chosen' by God before time began",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding God's predestination impact your sense of purpose?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Feel overwhelmed by divine selection",
+            "response": "Spend time in gratitude prayer"
+          },
+          {
+            "id": 2,
+            "text": "Feel uncertain about personal agency",
+            "response": "Study biblical teachings on free will and divine sovereignty"
+          },
+          {
+            "id": 3,
+            "text": "Feel empowered by God's intentional love",
+            "response": "Journal about your unique calling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself as God's adopted child, surrounded by heavenly blessings",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on God's love changed after reading this chapter?",
+        "options": [
+          "I feel more secure in God's plan",
+          "I understand divine love differently",
+          "I'm more aware of spiritual blessings",
+          "I'm curious to learn more about predestination"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological concept resonates most deeply with you in this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Election",
+            "expansion": "The profound mystery of being chosen by God before time began."
+          },
+          {
+            "id": 2,
+            "text": "Spiritual Adoption",
+            "expansion": "The transformative understanding of becoming God's children through grace."
+          },
+          {
+            "id": 3,
+            "text": "Predestination",
+            "expansion": "The sovereign plan of God unfolding through intentional, loving selection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God chose us before the foundation of the world, what does this reveal about human free will and divine sovereignty?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine selection with personal agency?",
+        "left_label": "Human Choice",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of God's relationship with humanity?",
+        "options": [
+          "I see God's love as more intentional",
+          "I'm wrestling with the concept of predestination",
+          "I feel more secure in my spiritual identity",
+          "I'm curious about divine mystery"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Election and Predestination",
+          "summary": "God sovereignly chose believers in Christ before creation, establishing a redemptive plan that transcends human understanding. This election is rooted in God's love and purpose, demonstrating His intentional pursuit of relationship with humanity.",
+          "cross_references": [
+            "Romans 8:29-30",
+            "John 15:16",
+            "1 Peter 1:2",
+            "2 Thessalonians 2:13"
+          ]
+        },
+        {
+          "title": "Spiritual Blessings in Christ",
+          "summary": "Believers are recipients of comprehensive spiritual inheritance through Jesus Christ, positioned in heavenly realms with access to divine resources. These blessings represent God's generosity and transformative grace available to His children.",
+          "cross_references": [
+            "Colossians 1:12",
+            "2 Peter 1:3-4",
+            "Galatians 3:14",
+            "1 Corinthians 1:30"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine election in light of human free will?",
+        "options": [
+          "God's sovereign choice is unconditional and predetermined",
+          "Election involves divine foreknowledge of human response",
+          "Predestination represents God's inclusive invitation to all",
+          "Individual human choice ultimately determines salvation"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect: Where am I seeking validation through numbers or achievements instead of trusting God's guidance?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might pride and self-reliance lead me away from God's plan?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I often measure my worth through performance metrics",
+            "response": "Spend time journaling about your identity in Christ, not achievements"
+          },
+          {
+            "id": 2,
+            "text": "I struggle with wanting to prove my own capabilities",
+            "response": "Practice surrendering control and asking God for wisdom"
+          },
+          {
+            "id": 3,
+            "text": "I compare myself to others frequently",
+            "response": "Meditate on scriptures about God's unique design for each person"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing pride as a wall between you and God, with steps of humility breaking down that wall",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of spiritual leadership?",
+        "options": [
+          "Leadership is about humility, not control",
+          "God values obedience over impressive numbers",
+          "Consequences of pride can impact entire communities",
+          "True repentance involves taking responsibility"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Satan's ability to manipulate human pride",
+            "expansion": "Pride can create vulnerability to spiritual deception and strategic attack."
+          },
+          {
+            "id": 2,
+            "text": "Joab's wisdom in challenging David's impulse",
+            "expansion": "True loyalty sometimes requires respectfully questioning leadership's potentially destructive decisions."
+          },
+          {
+            "id": 3,
+            "text": "Divine consequences of national leadership choices",
+            "expansion": "Leaders' spiritual decisions have systemic impacts beyond their personal realm."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does measuring one's strength become a spiritual vulnerability rather than a strategic assessment?"
+      },
+      "moral_slider": {
+        "question": "How do personal ambition and spiritual accountability interact?",
+        "left_label": "Individual Authority",
+        "right_label": "Divine Submission"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of leadership and spiritual discernment?",
+        "options": [
+          "Recognized the subtlety of spiritual temptation",
+          "Understood leadership requires spiritual humility",
+          "Saw how pride can blind even righteous individuals",
+          "Appreciated the importance of wise counsel"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Accountability",
+          "summary": "Satan's role in provoking David reveals the complex spiritual dynamics of temptation and human choice. David's decision to conduct a census demonstrates pride and self-reliance, challenging God's ultimate authority over Israel's destiny.",
+          "cross_references": [
+            "2 Samuel 24:1",
+            "James 1:13-14",
+            "Job 1:12",
+            "1 Corinthians 10:13"
+          ]
+        },
+        {
+          "title": "Consequences of Spiritual Disobedience",
+          "summary": "David's census triggers divine judgment, illustrating the serious spiritual ramifications of pride and mistrust in God's provision. The subsequent plague demonstrates God's holiness and the profound impact of leadership's spiritual decisions.",
+          "cross_references": [
+            "Exodus 30:12",
+            "Proverbs 16:18",
+            "Romans 6:23",
+            "Hebrews 12:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage reveal the spiritual dynamics between human agency and divine intervention?",
+        "options": [
+          "Satan can influence human decisions, but ultimate responsibility lies with the individual",
+          "God permits spiritual testing to reveal character and deepen spiritual maturity",
+          "Leadership carries heightened spiritual accountability for communal consequences",
+          "Divine judgment serves as a mechanism for spiritual correction and redemption"
+        ]
+      }
+    }
+  }
+}

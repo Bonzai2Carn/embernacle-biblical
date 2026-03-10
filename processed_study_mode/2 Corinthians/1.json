@@ -1,0 +1,117 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Recall a moment when God comforted you through difficulty, then silently thank Him for His mercy.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you transform a personal experience of comfort into meaningful support for someone else?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Share my story of overcoming with someone struggling",
+            "response": "Schedule a compassionate listening conversation"
+          },
+          {
+            "id": 2,
+            "text": "Offer practical help to someone in pain",
+            "response": "Make a meal, run an errand, or provide tangible support"
+          },
+          {
+            "id": 3,
+            "text": "Pray specifically for someone experiencing hardship",
+            "response": "Write down their needs and intercede intentionally"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a heart with multiple layers representing different challenges you've faced, and color in the spaces where God brought comfort",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading 2 Corinthians 1 shifted your understanding of suffering and comfort?",
+        "options": [
+          "Suffering isn't pointless; God uses it for transformation",
+          "Comfort is meant to be shared, not kept private",
+          "God's presence matters more than the absence of problems",
+          "Vulnerability about struggles can lead to deeper connections"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine comfort resonates most with you?",
+        "choices": [
+          {
+            "id": "personal_comfort",
+            "text": "Personal Comfort in Suffering",
+            "expansion": "God's comfort is first intimate and personal before it becomes transformative for others."
+          },
+          {
+            "id": "communal_healing",
+            "text": "Comfort as a Shared Experience",
+            "expansion": "Our individual trials become resources for collective spiritual resilience."
+          },
+          {
+            "id": "redemptive_suffering",
+            "text": "Suffering as Spiritual Growth",
+            "expansion": "Tribulations are not punishments but opportunities for deeper spiritual understanding."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If comfort is truly transformative, how might your current pain be preparing you to comfort others?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal vulnerability with spiritual strength?",
+        "left_label": "Vulnerability",
+        "right_label": "Resilience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of suffering and comfort evolved?",
+        "options": [
+          "I see suffering more as a growth opportunity",
+          "I understand comfort as a communal experience",
+          "I recognize God's presence in difficult moments",
+          "I'm more open to sharing my struggles"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Comfort in Suffering",
+          "summary": "Paul emphasizes God's role as the ultimate source of comfort during tribulation. The suffering believers experience is not meaningless, but an opportunity to receive and subsequently share divine consolation.",
+          "cross_references": [
+            "Psalm 34:18",
+            "Isaiah 41:10",
+            "Romans 8:28",
+            "James 1:2-4"
+          ]
+        },
+        {
+          "title": "Apostolic Authenticity and Integrity",
+          "summary": "Paul defends his apostolic calling and ministerial integrity, demonstrating that his leadership is rooted in God's will and characterized by transparency and genuine spiritual authority.",
+          "cross_references": [
+            "Galatians 1:1",
+            "1 Corinthians 9:1",
+            "2 Timothy 1:12",
+            "Acts 26:16-18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering relate to God's redemptive purposes?",
+        "options": [
+          "Suffering is purely punitive and indicates divine displeasure",
+          "Suffering can be transformative and serve a redemptive spiritual purpose",
+          "Suffering is random and has no inherent spiritual meaning",
+          "Suffering exclusively tests and proves individual faith"
+        ]
+      }
+    }
+  }
+}

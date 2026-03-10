@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect: When have I tried to help someone suffering, but possibly made their pain worse?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond to someone's suffering - with judgment or compassion?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen without offering immediate advice",
+            "response": "Practice active, empathetic listening this week"
+          },
+          {
+            "id": 2,
+            "text": "Share personal struggles to connect",
+            "response": "Share a vulnerable moment with someone who is hurting"
+          },
+          {
+            "id": 3,
+            "text": "Offer practical help instead of words",
+            "response": "Do one tangible act of service for someone struggling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing how words can either wound or heal a hurting person",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my perspective on comforting others changed?",
+        "options": [
+          "I realize advice isn't always helpful",
+          "Empathy matters more than being right",
+          "Suffering is complex and personal",
+          "Sometimes presence matters more than words"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What emerges most powerfully in Eliphaz's initial response to Job's suffering?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Past Virtue Contrasted with Present Suffering",
+            "expansion": "Job's previous wisdom and compassion seem ironically reversed in his own moment of crisis."
+          },
+          {
+            "id": 2,
+            "text": "The Fragility of Human Resilience",
+            "expansion": "Even the strongest counselors can be overwhelmed when personal tragedy strikes."
+          },
+          {
+            "id": 3,
+            "text": "Unexpected Vulnerability",
+            "expansion": "Those who once offered strength can suddenly become the ones requiring comfort and support."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does one's capacity for offering wisdom change when personal suffering transforms perspective?"
+      },
+      "moral_slider": {
+        "question": "How do prior good deeds relate to current suffering?",
+        "left_label": "Earned Suffering",
+        "right_label": "Unmerited Trial"
+      },
+      "reevaluation": {
+        "question": "How might this passage challenge your understanding of personal resilience?",
+        "options": [
+          "Suffering is not always a direct result of personal fault",
+          "Strength can coexist with profound vulnerability",
+          "Compassion requires acknowledging human limitation",
+          "Wisdom emerges through experiencing, not just observing, pain"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Frailty and Divine Judgment",
+          "summary": "Eliphaz confronts Job's suffering by highlighting human weakness before God's ultimate sovereignty. He suggests that human righteousness is insufficient to prevent divine correction and judgment.",
+          "cross_references": [
+            "Romans 3:23",
+            "Isaiah 64:6",
+            "Psalm 103:14",
+            "1 Peter 1:24"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment in Suffering",
+          "summary": "Eliphaz introduces a theological perspective that suffering is often a divine mechanism for spiritual refinement and correction. He implies that human experiences of pain are opportunities for understanding divine discipline.",
+          "cross_references": [
+            "Hebrews 12:6",
+            "Proverbs 3:11-12",
+            "James 1:2-4",
+            "1 Corinthians 11:32"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret personal suffering within God's providential framework?",
+        "options": [
+          "Suffering is always direct punishment for personal sin",
+          "Suffering can be a complex spiritual journey of growth and testing",
+          "Personal righteousness guarantees immunity from trials",
+          "Divine purposes in suffering are ultimately mysterious and beyond human comprehension"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 55,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, imagining releasing betrayal and hurt into God's hands",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when someone close to you betrays your trust?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek revenge",
+            "response": "Pray for healing and perspective instead of retaliation"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw completely",
+            "response": "Practice forgiveness and set healthy boundaries"
+          },
+          {
+            "id": 3,
+            "text": "Internalize the pain",
+            "response": "Share your feelings with a trusted friend or counselor"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a safe place where you feel protected from emotional harm",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 55 changed your perspective on handling betrayal?",
+        "options": [
+          "I feel more compassionate towards those who hurt me",
+          "I understand the importance of bringing my pain to God",
+          "I recognize that my initial reactions aren't always healthy",
+          "I want to learn how to process hurt more constructively"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional response resonates most with David's prayer?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Betrayal's Deep Pain",
+            "expansion": "The raw vulnerability of feeling wounded by a trusted friend cuts to the heart of human emotional complexity."
+          },
+          {
+            "id": 2,
+            "text": "Seeking Divine Refuge",
+            "expansion": "In moments of profound distress, turning to God becomes the ultimate act of spiritual resilience."
+          },
+          {
+            "id": 3,
+            "text": "Righteous Anger",
+            "expansion": "The legitimate human impulse to desire justice when experiencing profound personal violation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do we reconcile the desire for personal vindication with spiritual teachings of forgiveness?"
+      },
+      "moral_slider": {
+        "question": "Where do personal emotional wounds intersect with spiritual healing?",
+        "left_label": "Human Suffering",
+        "right_label": "Divine Restoration"
+      },
+      "reevaluation": {
+        "question": "How might your perspective on conflict and betrayal shift after deeply reflecting on this psalm?",
+        "options": [
+          "More compassionate understanding",
+          "Greater emotional vulnerability",
+          "Increased spiritual dependence",
+          "Deeper capacity for forgiveness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Betrayal and Divine Justice",
+          "summary": "David experiences profound emotional pain from a close friend's betrayal, expressing deep anguish and seeking God's intervention. The psalm reveals the profound spiritual and emotional trauma of treachery among trusted companions.",
+          "cross_references": [
+            "Zechariah 13:6",
+            "John 13:18",
+            "2 Samuel 15:12",
+            "Proverbs 19:4"
+          ]
+        },
+        {
+          "title": "Trust in Divine Deliverance",
+          "summary": "Despite overwhelming distress and fear, David demonstrates unwavering faith in God's ultimate protection and judgment. The psalm emphasizes surrendering personal vengeance to divine sovereignty and trusting God's redemptive plan.",
+          "cross_references": [
+            "Romans 12:19",
+            "1 Peter 5:7",
+            "Psalm 34:18",
+            "Isaiah 41:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Divine Justice Manifest in Personal Betrayal?",
+        "options": [
+          "God directly intervenes to punish betrayers",
+          "Suffering refines spiritual character",
+          "Forgiveness supersedes personal revenge",
+          "Divine timing reveals ultimate redemption"
+        ]
+      }
+    }
+  }
+}

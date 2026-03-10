@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 11,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently acknowledge where you might be speaking from pride instead of humility, breathing slowly and releasing judgmental thoughts",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when someone challenges my perspective or spiritual understanding?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become defensive",
+            "response": "Practice active listening and seek understanding before responding"
+          },
+          {
+            "id": 2,
+            "text": "Dismiss their perspective",
+            "response": "Consider their viewpoint with genuine openness and grace"
+          },
+          {
+            "id": 3,
+            "text": "Immediately argue back",
+            "response": "Pause and reflect on potential wisdom in their critique"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing the difference between human wisdom and divine understanding, using contrasting colors or symbolic images",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of spiritual conversation and correction?",
+        "options": [
+          "I recognize the danger of presumptuous speech",
+          "I understand the importance of humility in spiritual discussions",
+          "I see how quickly humans can misinterpret divine purposes",
+          "I appreciate the complexity of suffering and human understanding"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about confronting theological assumptions?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Human arguments can be superficial",
+            "expansion": "Zophar suggests that verbose arguments often mask deeper spiritual truths."
+          },
+          {
+            "id": 2,
+            "text": "Divine perspective transcends human reasoning",
+            "expansion": "The text implies God's wisdom fundamentally differs from human intellectual constructs."
+          },
+          {
+            "id": 3,
+            "text": "Moral certainty can be dangerous",
+            "expansion": "Presuming one's own righteousness without divine perspective leads to spiritual arrogance."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your current understanding of suffering were completely wrong, what transformative insight might you be missing?"
+      },
+      "moral_slider": {
+        "question": "How do human explanations relate to divine understanding of suffering?",
+        "left_label": "Human Reasoning",
+        "right_label": "Divine Mystery"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your previous theological assumptions?",
+        "options": [
+          "I recognize my understanding is limited",
+          "I'm more aware of potential spiritual pride",
+          "I see the complexity of interpreting divine action",
+          "I'm more humble about my theological conclusions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Human Limitation",
+          "summary": "Zophar challenges Job's perspective on suffering, asserting that human understanding is fundamentally limited compared to God's infinite wisdom. He suggests that Job's complaints reveal spiritual ignorance and a lack of true comprehension about divine providence.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "Proverbs 3:5-6",
+            "Romans 11:33-34",
+            "1 Corinthians 13:12"
+          ]
+        },
+        {
+          "title": "Theological Rebuke and Spiritual Correction",
+          "summary": "Zophar confronts Job's self-righteousness, arguing that true spiritual growth requires humility and acknowledgment of one's inherent sinfulness. He emphasizes that divine correction is a pathway to understanding and redemption.",
+          "cross_references": [
+            "Hebrews 12:5-6",
+            "Proverbs 15:31-32",
+            "James 4:6",
+            "Psalm 94:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret suffering and divine correction?",
+        "options": [
+          "Suffering is always a direct punishment for personal sin",
+          "Suffering can be a transformative spiritual experience with redemptive purposes",
+          "Divine correction reflects God's love and desire for spiritual growth",
+          "Individual human perspectives are often insufficient to comprehend divine plans"
+        ]
+      }
+    }
+  }
+}

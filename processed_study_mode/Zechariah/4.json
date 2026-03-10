@@ -1,0 +1,117 @@
+{
+  "book": "Zechariah",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize a golden lampstand continuously fed by olive trees, representing God's unending spiritual supply",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently receive spiritual strength and renewal?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through personal prayer and scripture",
+            "response": "Commit to a consistent daily devotional time"
+          },
+          {
+            "id": 2,
+            "text": "Through community and church support",
+            "response": "Schedule regular fellowship or small group meetings"
+          },
+          {
+            "id": 3,
+            "text": "I'm struggling to find consistent spiritual nourishment",
+            "response": "Seek mentorship or spiritual guidance from a trusted leader"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a lamp being continuously filled with oil from nearby olive trees, symbolizing God's constant provision",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of spiritual strength?",
+        "options": [
+          "I now see strength comes from God, not my own effort",
+          "I recognize the importance of continuous spiritual renewal",
+          "I understand leadership requires divine empowerment",
+          "I'm more aware of God's constant, supernatural support"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which symbolic element of the vision most resonates with your spiritual understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Golden Lampstand",
+            "expansion": "Represents divine illumination and constant spiritual sustenance through God's presence."
+          },
+          {
+            "id": 2,
+            "text": "The Two Olive Trees",
+            "expansion": "Symbolizes continuous divine empowerment and leadership through prophetic and priestly anointing."
+          },
+          {
+            "id": 3,
+            "text": "The Seven Lamps",
+            "expansion": "Signifies completeness, perfection, and the comprehensive nature of divine revelation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power flows not by human might but by God's Spirit, what assumptions about personal capability must you re-examine?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human effort with divine empowerment?",
+        "left_label": "Human Striving",
+        "right_label": "Divine Enabling"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual leadership transformed?",
+        "options": [
+          "Recognized the primacy of divine empowerment",
+          "Understood leadership as a spiritual, not just organizational function",
+          "Appreciated the role of continuous spiritual nourishment",
+          "Saw leadership as a collaborative, Spirit-led process"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Empowerment through the Spirit",
+          "summary": "Zechariah's vision highlights God's supernatural empowerment through the Holy Spirit, demonstrating that human accomplishments are not by might or power, but by divine intervention. The lampstand and olive trees symbolize continuous spiritual provision and enablement.",
+          "cross_references": [
+            "Zechariah 4:6",
+            "Ephesians 3:20",
+            "John 15:5",
+            "Galatians 2:20"
+          ]
+        },
+        {
+          "title": "Rebuilding God's Kingdom",
+          "summary": "The prophetic vision encourages Joshua and Zerubbabel during the temple reconstruction, revealing God's commitment to restoring spiritual infrastructure and leadership. The vision reassures that divine purpose will triumph over human limitations.",
+          "cross_references": [
+            "Ezra 3:8-13",
+            "Haggai 2:4-9",
+            "2 Corinthians 4:7",
+            "Philippians 4:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine empowerment contrast with human self-sufficiency in spiritual work?",
+        "options": [
+          "Human effort is primary, divine assistance is supplemental",
+          "Divine power completely supersedes human capability",
+          "Spiritual work requires collaborative partnership between human willingness and divine strength",
+          "Supernatural enablement eliminates the need for human responsibility"
+        ]
+      }
+    }
+  }
+}

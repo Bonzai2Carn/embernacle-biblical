@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 18,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on wise counsel: Who in your life offers balanced, godly advice?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently handle overwhelming leadership responsibilities?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I try to do everything myself",
+            "response": "Delegate tasks and trust others, just as Moses learned from Jethro"
+          },
+          {
+            "id": 2,
+            "text": "I feel constantly stressed and burned out",
+            "response": "Seek wise counsel and create sustainable systems of support"
+          },
+          {
+            "id": 3,
+            "text": "I'm open to learning better management strategies",
+            "response": "Study leadership principles that prioritize both efficiency and relationships"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of Moses and Jethro sitting together, with lines connecting different people showing how they share responsibilities",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your view of leadership and counsel?",
+        "options": [
+          "Leadership isn't about doing everything alone",
+          "Wise advice can come from unexpected sources",
+          "Humility is crucial in leadership",
+          "Collaborative leadership is more effective"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of leadership wisdom most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Delegation of Responsibility",
+            "expansion": "True leadership involves empowering others and distributing complex tasks strategically."
+          },
+          {
+            "id": 2,
+            "text": "Listening to External Advice",
+            "expansion": "Wisdom often comes from unexpected sources, even from those outside our immediate circle."
+          },
+          {
+            "id": 3,
+            "text": "Family Support in Mission",
+            "expansion": "Personal relationships can provide critical perspective and spiritual reinforcement during challenging journeys."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of leadership change if you viewed it as service rather than power?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal autonomy with structured guidance?",
+        "left_label": "Individual Initiative",
+        "right_label": "Hierarchical Structure"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of collaborative leadership evolved?",
+        "options": [
+          "I now see value in diverse perspectives",
+          "I recognize the importance of mentorship",
+          "I understand leadership as a shared responsibility",
+          "I appreciate external wisdom more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Guidance through Wise Counsel",
+          "summary": "Jethro represents the importance of external wisdom and strategic leadership advice, even from non-Israelite sources. His counsel to Moses demonstrates that God can provide guidance through diverse channels of human wisdom and relationship.",
+          "cross_references": [
+            "Proverbs 15:22",
+            "Proverbs 19:20",
+            "James 1:5",
+            "Ecclesiastes 4:9-12"
+          ]
+        },
+        {
+          "title": "Organizational Leadership and Delegation",
+          "summary": "Moses learns critical leadership principles about delegating responsibility and establishing a systemic approach to judicial and administrative governance. This chapter illustrates the biblical principle of distributed leadership and shared ministerial burden.",
+          "cross_references": [
+            "Acts 6:1-7",
+            "1 Timothy 5:17",
+            "Titus 1:5-9",
+            "Numbers 11:16-17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine providence manifest through human relationships and counsel in leadership development?",
+        "options": [
+          "God uses external relationships to provide strategic wisdom",
+          "Spiritual leadership requires humility to receive counsel",
+          "Effective leadership requires systematic delegation of responsibilities",
+          "Interpersonal relationships are critical channels of divine guidance"
+        ]
+      }
+    }
+  }
+}

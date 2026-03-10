@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 128,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine your family gathered together, visualizing peace and blessing flowing from your faithfulness",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can your personal reverence for God positively impact your family's spiritual environment?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Daily family devotionals",
+            "response": "Commit to a short daily scripture reading and prayer time with family members"
+          },
+          {
+            "id": 2,
+            "text": "Leading by example",
+            "response": "Demonstrate consistent spiritual disciplines that your family can observe and learn from"
+          },
+          {
+            "id": 3,
+            "text": "Creating spiritual traditions",
+            "response": "Establish meaningful spiritual rituals that connect your family to God's blessings"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a tree with strong roots representing your family's spiritual foundation, and branches showing blessings and growth",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of family and spiritual blessing?",
+        "options": [
+          "I see family as a spiritual ecosystem",
+          "God's blessings are connected to faithful living",
+          "Personal spiritual health impacts family dynamics",
+          "Generational spiritual inheritance is real"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of blessing resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Prosperity",
+            "expansion": "Understanding blessing as holistic wellbeing beyond material wealth"
+          },
+          {
+            "id": 2,
+            "text": "Family Integrity",
+            "expansion": "Recognizing familial harmony as a profound spiritual inheritance"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Obedience",
+            "expansion": "Seeing faithful living as the foundation of genuine blessing"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If reverence for divine principles guarantees prosperity, how do we reconcile this with suffering experienced by faithful individuals?"
+      },
+      "moral_slider": {
+        "question": "How do personal choices intersect with divine blessing?",
+        "left_label": "Individual Agency",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of blessing evolved?",
+        "options": [
+          "More nuanced view of prosperity",
+          "Greater appreciation for spiritual inheritance",
+          "Deeper understanding of divine relationship",
+          "Recognizing blessing beyond material metrics"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Blessing in Family Life",
+          "summary": "This psalm celebrates God's profound blessing upon those who honor Him, specifically emphasizing how faithfulness translates into familial prosperity and peace. It portrays obedience to God as directly connected to domestic harmony and generational flourishing.",
+          "cross_references": [
+            "Deuteronomy 28:1-14",
+            "Proverbs 3:1-2",
+            "Ephesians 6:2-3",
+            "1 Timothy 5:4"
+          ]
+        },
+        {
+          "title": "Spiritual Rewards of Righteousness",
+          "summary": "The psalm illustrates how godly living produces tangible blessings, not merely spiritual rewards but practical outcomes in work, family, and community. It presents a holistic view of divine favor that encompasses material and relational dimensions.",
+          "cross_references": [
+            "Psalm 1:1-3",
+            "Isaiah 3:10",
+            "Matthew 6:33",
+            "James 1:25"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine blessing intersect with human responsibility in this psalm?",
+        "options": [
+          "Blessing is unconditional and independent of human action",
+          "Blessings are directly proportional to faithful obedience",
+          "Divine favor operates through grace that empowers righteous living",
+          "Prosperity is a guaranteed outcome of spiritual discipline"
+        ]
+      }
+    }
+  }
+}

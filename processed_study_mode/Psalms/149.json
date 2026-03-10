@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 149,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 20 seconds to silently praise God, lifting your hands in a posture of surrender and worship",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you celebrate God's victories in your life right now?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Worship through song",
+            "response": "Create a personal praise playlist celebrating God's faithfulness"
+          },
+          {
+            "id": 2,
+            "text": "Share testimony",
+            "response": "Tell someone how God has been working in your life recently"
+          },
+          {
+            "id": 3,
+            "text": "Pray with confidence",
+            "response": "Declare God's promises over challenging situations"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself dancing before God in celebration, showing joy and freedom",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of worship?",
+        "options": [
+          "Worship is more than singing",
+          "God delights in our passionate praise",
+          "Praise can be a form of spiritual warfare",
+          "Worship is a lifestyle, not just an activity"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of praise resonates most powerfully?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Communal Celebration",
+            "expansion": "Praise is a collective experience that unites believers in joyful expression."
+          },
+          {
+            "id": 2,
+            "text": "Divine Justice",
+            "expansion": "Worship includes acknowledging God's righteous judgments and sovereign power."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Warfare",
+            "expansion": "Praise can be a strategic weapon of spiritual transformation and confrontation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might genuine worship transform personal and societal power dynamics?"
+      },
+      "moral_slider": {
+        "question": "What is the relationship between divine praise and human accountability?",
+        "left_label": "Passive Worship",
+        "right_label": "Active Engagement"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of praise evolved?",
+        "options": [
+          "More communal than individual",
+          "More about justice than emotion",
+          "More spiritually strategic",
+          "More personally transformative"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Praise as Spiritual Warfare",
+          "summary": "The psalm connects worship with spiritual empowerment and divine judgment. Believers are called to praise God while simultaneously being instruments of His righteous judgment against ungodly nations.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "2 Corinthians 10:4-5",
+            "Revelation 19:14-15",
+            "Jude 1:14-15"
+          ]
+        },
+        {
+          "title": "Corporate Worship and Jubilation",
+          "summary": "This psalm emphasizes collective praise as a fundamental expression of spiritual community. The congregation is called to celebrate God's redemption with intense joy and musical celebration.",
+          "cross_references": [
+            "Psalm 150:3-5",
+            "Colossians 3:16",
+            "James 5:13",
+            "1 Corinthians 14:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand the connection between praise and spiritual authority?",
+        "options": [
+          "Praise activates spiritual power through faith",
+          "Worship is a form of spiritual warfare",
+          "Musical celebration demonstrates theological commitment",
+          "Collective worship transforms individual spiritual dynamics"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1 Timothy",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently visualize yourself as a spiritual leader, reflecting on your character and integrity before God",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How well do I manage my personal life and relationships as a potential spiritual leader?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm consistent in my personal and public conduct",
+            "response": "Continue cultivating integrity and accountability"
+          },
+          {
+            "id": 2,
+            "text": "I struggle with maintaining godly character",
+            "response": "Seek mentorship and develop personal disciplines"
+          },
+          {
+            "id": 3,
+            "text": "I need significant personal transformation",
+            "response": "Engage in intentional spiritual growth and counseling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a house with rooms representing different aspects of personal character: hospitality, self-control, family leadership, and spiritual maturity",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of spiritual leadership?",
+        "options": [
+          "Leadership is more about character than position",
+          "Personal integrity is crucial for spiritual influence",
+          "Family management reflects spiritual maturity",
+          "Humility is essential in leadership roles"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which leadership quality resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Character",
+            "expansion": "Leadership begins with internal integrity before external influence."
+          },
+          {
+            "id": 2,
+            "text": "Family Management",
+            "expansion": "How one leads at home reveals their capacity to lead in broader contexts."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Temperament",
+            "expansion": "Spiritual leaders must demonstrate emotional and spiritual self-regulation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If leadership is about service, why do so many seek positions of authority for personal gain?"
+      },
+      "moral_slider": {
+        "question": "How do personal imperfections relate to spiritual leadership?",
+        "left_label": "Disqualification",
+        "right_label": "Grace and Growth"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual leadership transformed?",
+        "options": [
+          "Recognized leadership as stewardship, not status",
+          "Understood character matters more than charisma",
+          "Saw leadership as a spiritual calling, not a career",
+          "Appreciated the holistic nature of spiritual qualification"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Leadership Qualifications",
+          "summary": "Paul provides comprehensive guidelines for church leadership character and conduct. These standards emphasize spiritual maturity, moral integrity, and family management as critical indicators of leadership readiness.",
+          "cross_references": [
+            "Titus 1:6-9",
+            "James 3:1",
+            "1 Peter 5:1-4",
+            "Proverbs 15:33"
+          ]
+        },
+        {
+          "title": "Spiritual Leadership Integrity",
+          "summary": "Church leaders must demonstrate Christ-like character beyond mere professional competence. Their personal lives serve as living testimonies and models of spiritual transformation.",
+          "cross_references": [
+            "Matthew 20:25-28",
+            "2 Corinthians 4:2",
+            "Ephesians 4:11-16",
+            "1 Thessalonians 2:3-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary churches interpret leadership qualifications in light of cultural and generational changes?",
+        "options": [
+          "Maintain strict, literal adherence to biblical requirements",
+          "Adapt requirements contextually while preserving core spiritual principles",
+          "Prioritize spiritual gifts and calling over specific personal criteria",
+          "Develop a nuanced, grace-based approach to leadership selection"
+        ]
+      }
+    }
+  }
+}

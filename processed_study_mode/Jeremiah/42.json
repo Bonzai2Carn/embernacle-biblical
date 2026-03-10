@@ -1,0 +1,117 @@
+{
+  "book": "Jeremiah",
+  "chapter": 42,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine seeking God's guidance, just as the people approached Jeremiah for divine direction. Take three deep breaths and silently ask God to reveal His path for you.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When facing uncertainty, do you genuinely seek God's guidance or lean on your own understanding?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I typically rely on my own wisdom first",
+            "response": "Spend time in prayer, surrendering your plans and asking God for clear direction"
+          },
+          {
+            "id": 2,
+            "text": "I sometimes hesitate to fully follow God's guidance",
+            "response": "Journal about areas where you struggle to trust God's leading and commit them to prayer"
+          },
+          {
+            "id": 3,
+            "text": "I want to be more intentional about seeking God's will",
+            "response": "Create a weekly prayer practice focused on asking God for specific guidance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map with two paths: one representing human wisdom and one representing God's guidance. Use different colors and symbols to show the contrast between self-directed and God-directed journeys.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your approach to seeking guidance?",
+        "options": [
+          "I realize I often want guidance but don't truly listen",
+          "I see the importance of humble, sincere seeking of God's will",
+          "I'm more aware of my tendency to prefer my own plans",
+          "I want to develop a more authentic prayer life"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of seeking divine guidance resonates most strongly?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Humility in requesting guidance",
+            "expansion": "Recognizing human limitations and genuinely seeking wisdom beyond personal understanding."
+          },
+          {
+            "id": 2,
+            "text": "Collective spiritual consultation",
+            "expansion": "The communal approach of seeking divine direction through a prophet represents spiritual unity."
+          },
+          {
+            "id": 3,
+            "text": "Vulnerability in uncertain times",
+            "expansion": "Acknowledging human fragility and dependence on higher wisdom during moments of profound transition."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When you claim to want divine guidance, are you truly prepared to follow directions that might contradict your predetermined preferences?"
+      },
+      "moral_slider": {
+        "question": "How do personal desires interact with authentic spiritual discernment?",
+        "left_label": "Personal Agenda",
+        "right_label": "Divine Will"
+      },
+      "reevaluation": {
+        "question": "How might this passage challenge your understanding of seeking spiritual counsel?",
+        "options": [
+          "I recognize my own potential for selective hearing",
+          "I understand the importance of genuine, open-hearted listening",
+          "I see how preconceived plans can obstruct spiritual guidance",
+          "I appreciate the complexity of discerning divine direction"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Guidance Seeking",
+          "summary": "The remnant of Judah approaches Jeremiah seeking prophetic counsel and divine direction after experiencing national devastation. They desire clear spiritual guidance about their future path and God's intended plan for their survival.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "James 1:5",
+            "Psalm 32:8",
+            "Isaiah 30:21"
+          ]
+        },
+        {
+          "title": "Authentic Spiritual Consultation",
+          "summary": "The people demonstrate a moment of potential spiritual vulnerability, requesting prophetic intercession while simultaneously harboring potential hidden motives. Their request reveals the complex dynamics of seeking divine guidance during national crisis.",
+          "cross_references": [
+            "1 Kings 22:8",
+            "Jeremiah 23:16-17",
+            "Ezekiel 14:3",
+            "Acts 5:32"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do human motivations potentially distort genuine spiritual seeking?",
+        "options": [
+          "People often seek divine confirmation for pre-existing plans",
+          "Spiritual consultation can mask underlying rebellious intentions",
+          "True seeking requires complete surrender and openness to unexpected guidance",
+          "Cultural trauma can create momentary spiritual desperation without lasting transformation"
+        ]
+      }
+    }
+  }
+}

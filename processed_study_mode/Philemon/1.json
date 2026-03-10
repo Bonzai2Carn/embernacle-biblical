@@ -1,0 +1,117 @@
+{
+  "book": "Philemon",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being personally remembered in prayer by a spiritual mentor who deeply cares about your faith journey",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate love and support for fellow believers in my community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Write an encouragement letter",
+            "response": "Select one person in your church or ministry circle and send a handwritten note of spiritual affirmation"
+          },
+          {
+            "id": 2,
+            "text": "Pray specifically for someone's spiritual growth",
+            "response": "Spend time interceding for a specific person's faith development and challenges"
+          },
+          {
+            "id": 3,
+            "text": "Offer practical support",
+            "response": "Identify a tangible way to serve a fellow believer this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a person surrounded by warm, connecting lines representing prayers and spiritual connections",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this passage shifted your understanding of Christian community?",
+        "options": [
+          "Community is about genuine, personal connections",
+          "Prayer is a powerful way of supporting others",
+          "Love transcends social boundaries",
+          "Faith is deeply relational"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual dynamic resonates most powerfully in this introduction?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Paul's Gratitude",
+            "expansion": "Thanksgiving emerges as a profound spiritual practice that transforms perspective and relationship."
+          },
+          {
+            "id": 2,
+            "text": "Community Connection",
+            "expansion": "The interconnected nature of early Christian relationships transcends social boundaries and hierarchies."
+          },
+          {
+            "id": 3,
+            "text": "Grace as Foundation",
+            "expansion": "Divine grace precedes and enables all authentic human interaction and spiritual transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal affection and spiritual calling intertwine to create transformative human relationships?"
+      },
+      "moral_slider": {
+        "question": "Where do personal relationships intersect with spiritual accountability?",
+        "left_label": "Individual Freedom",
+        "right_label": "Communal Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community shifted?",
+        "options": [
+          "More aware of relational dynamics",
+          "Recognize deeper spiritual interconnectedness",
+          "Value personal narrative in faith journey",
+          "See leadership as servanthood"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Community and Fellowship",
+          "summary": "Paul demonstrates the transformative power of Christian relationships by addressing multiple believers in a personal, interconnected manner. The opening emphasizes spiritual kinship that transcends social boundaries and hierarchies.",
+          "cross_references": [
+            "1 Corinthians 12:12-27",
+            "Ephesians 4:4-6",
+            "Romans 12:4-5",
+            "Galatians 3:28"
+          ]
+        },
+        {
+          "title": "Prayer and Spiritual Intercession",
+          "summary": "Paul highlights the importance of consistent, intentional prayer for fellow believers, demonstrating spiritual care and supernatural connectivity. His prayer reflects deep concern and active spiritual engagement with the Colossian church.",
+          "cross_references": [
+            "Colossians 1:9-12",
+            "1 Thessalonians 5:17",
+            "James 5:16",
+            "Ephesians 6:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Paul's approach to Christian relationships challenge traditional social hierarchies?",
+        "options": [
+          "Emphasizes spiritual equality over social status",
+          "Demonstrates radical inclusivity in Christian community",
+          "Prioritizes redemptive relationships over legal/social distinctions",
+          "Reveals transformative power of Christian love and reconciliation"
+        ]
+      }
+    }
+  }
+}

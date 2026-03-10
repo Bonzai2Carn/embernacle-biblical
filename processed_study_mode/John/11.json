@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 11,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently whisper 'Jesus, you are the resurrection and the life' while breathing deeply",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in my life do I need resurrection power?",
+        "options": [
+          {
+            "id": 1,
+            "text": "In my spiritual walk",
+            "response": "Commit to daily prayer and spiritual renewal"
+          },
+          {
+            "id": 2,
+            "text": "In a broken relationship",
+            "response": "Seek reconciliation and healing"
+          },
+          {
+            "id": 3,
+            "text": "In my career or purpose",
+            "response": "Pray for divine guidance and new opportunities"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene of Lazarus emerging from the tomb, showing his grave clothes falling away",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of Jesus' power?",
+        "options": [
+          "Jesus cares deeply about human suffering",
+          "Miracles happen beyond human understanding",
+          "Faith requires waiting and trusting",
+          "God's timing is perfect, not always immediate"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound moment in Jesus' interaction with Mary and Martha resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Jesus weeping with compassion",
+            "expansion": "Divine empathy transcends theological understanding and reveals God's emotional connection to human suffering."
+          },
+          {
+            "id": 2,
+            "text": "Lazarus' resurrection as a sign of power",
+            "expansion": "The miracle demonstrates Jesus' authority over death and foreshadows his own resurrection."
+          },
+          {
+            "id": 3,
+            "text": "Martha's declaration of faith",
+            "expansion": "Her proclamation 'I believe that you are the Christ' represents a profound theological affirmation amid personal grief."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If Jesus loved Lazarus, why did he deliberately delay coming until after his death - what deeper purpose might transcend immediate human understanding?"
+      },
+      "moral_slider": {
+        "question": "How do personal grief and spiritual trust interact when facing profound loss?",
+        "left_label": "Emotional Despair",
+        "right_label": "Spiritual Confidence"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on death, faith, and divine intervention shifted after reflecting on this passage?",
+        "options": [
+          "More open to mysterious divine timing",
+          "Recognize deeper emotional complexity of faith",
+          "Understand suffering as potentially transformative",
+          "See compassion as a profound spiritual response"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Death and Resurrection",
+          "summary": "Jesus demonstrates ultimate power over death through the resurrection of Lazarus. This miracle reveals Christ's divine authority and prefigures His own resurrection, showing God's power transcends human limitations.",
+          "cross_references": [
+            "Romans 8:11",
+            "1 Corinthians 15:54-57",
+            "Revelation 1:18",
+            "John 14:6"
+          ]
+        },
+        {
+          "title": "Compassion and Emotional Vulnerability of Christ",
+          "summary": "Jesus displays profound human emotions, weeping for Lazarus and demonstrating deep love for His friends. This passage reveals Christ's simultaneous divine power and genuine human empathy.",
+          "cross_references": [
+            "Hebrews 4:15",
+            "Isaiah 53:3",
+            "Luke 19:41-44",
+            "1 Peter 5:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the resurrection of Lazarus challenge traditional understanding of death and divine intervention?",
+        "options": [
+          "Jesus demonstrates that physical death is not the ultimate end",
+          "Divine timing sometimes differs from human expectations",
+          "Faith is critical in experiencing miraculous transformation",
+          "God's purposes transcend immediate human comprehension"
+        ]
+      }
+    }
+  }
+}

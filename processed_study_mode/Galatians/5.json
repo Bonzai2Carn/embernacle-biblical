@@ -1,0 +1,115 @@
+{
+  "book": "Galatians",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize being completely free from the weight of trying to earn God's favor. Breathe in grace, breathe out striving.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where am I still trying to 'earn' God's love instead of receiving it freely?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Religious performance",
+            "response": "List rigid rules you've created that might be preventing genuine relationship with God"
+          },
+          {
+            "id": 2,
+            "text": "Self-justification",
+            "response": "Write down areas where you're defending yourself instead of allowing God's grace"
+          },
+          {
+            "id": 3,
+            "text": "Comparison with others",
+            "response": "Identify 3 ways you've been measuring your spirituality against others"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself walking freely, with broken chains falling away from your feet",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual freedom?",
+        "options": [
+          "I see grace differently now",
+          "I recognize my tendency to create religious rules",
+          "I want to live more by the Spirit's guidance",
+          "I'm convicted about my self-righteousness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core spiritual concept most resonates with your understanding of Christian freedom?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Liberty in Christ",
+            "expansion": "Freedom is not about removing constraints, but being liberated from legalistic obligations to pursue genuine spiritual transformation."
+          },
+          {
+            "id": 2,
+            "text": "Grace Over Law",
+            "expansion": "Salvation emerges through faith and relationship, not mechanical adherence to ritualistic requirements."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Identity",
+            "expansion": "Our fundamental worth comes from Christ's redemption, not external religious performances."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If religious practices could never earn salvation, what truly defines authentic spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal spiritual freedom with community religious expectations?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Communal Accountability"
+      },
+      "reevaluation": {
+        "question": "How might this passage challenge your previous understanding of spiritual growth?",
+        "options": [
+          "Recognizing grace over legalism",
+          "Understanding spiritual freedom",
+          "Redefining personal righteousness",
+          "Embracing transformative faith"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Liberty",
+          "summary": "Paul emphasizes spiritual freedom through Christ, warning against returning to legalistic practices. The gospel represents liberation from ritualistic obligations, focusing instead on faith and grace.",
+          "cross_references": [
+            "Romans 8:2",
+            "2 Corinthians 3:17",
+            "John 8:36"
+          ]
+        },
+        {
+          "title": "Grace vs. Law",
+          "summary": "Believers are justified through faith, not by adherence to Mosaic law or ritual practices. Attempting to earn righteousness through legal observance nullifies Christ's redemptive work.",
+          "cross_references": [
+            "Romans 3:20",
+            "Ephesians 2:8-9",
+            "Romans 6:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What does true spiritual freedom encompass in Christian theology?",
+        "options": [
+          "Freedom from sin's power through Christ's redemption",
+          "Complete autonomy without moral accountability",
+          "Liberation from external religious rituals and regulations",
+          "Unrestricted personal interpretation of scripture"
+        ]
+      }
+    }
+  }
+}

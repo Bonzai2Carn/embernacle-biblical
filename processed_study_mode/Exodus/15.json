@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize God's mighty power, imagining waves parting and enemies being overwhelmed by divine protection",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's deliverance in your personal life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through a challenging life circumstance",
+            "response": "Journal about that specific moment of breakthrough"
+          },
+          {
+            "id": 2,
+            "text": "In a moment of spiritual struggle",
+            "response": "Pray and thank God for His consistent rescue"
+          },
+          {
+            "id": 3,
+            "text": "During a personal crisis",
+            "response": "Share your testimony of God's faithfulness with someone"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing God's protection like a giant shield covering His people",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your view of God's power?",
+        "options": [
+          "God is more active in my life than I previously thought",
+          "God truly fights for His people",
+          "God's protection is real and tangible",
+          "I see God as both loving and mighty"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological perspective resonates most from this victory song?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Divine Intervention",
+            "expansion": "God actively participates in human struggles and liberates the oppressed."
+          },
+          {
+            "id": "B",
+            "text": "Communal Praise",
+            "expansion": "Collective worship emerges from shared transformative experiences."
+          },
+          {
+            "id": "C",
+            "text": "Theological Sovereignty",
+            "expansion": "The Lord demonstrates absolute power over human political systems."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might understanding divine victory differ when experienced by the oppressed versus the oppressors?"
+      },
+      "moral_slider": {
+        "question": "To what extent is divine intervention justified in human conflict?",
+        "left_label": "Non-Intervention",
+        "right_label": "Direct Deliverance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine action evolved?",
+        "options": [
+          "More nuanced view of divine justice",
+          "Increased appreciation for collective liberation",
+          "Deeper respect for spiritual resilience",
+          "Questioning historical interpretations"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Deliverance",
+          "summary": "God's miraculous intervention demonstrates His supreme power over human oppression. The song reveals how divine intervention transcends human military capabilities, showing God as the ultimate deliverer of His people.",
+          "cross_references": [
+            "Psalm 106:12",
+            "Isaiah 12:2",
+            "Psalm 118:14",
+            "Revelation 15:3"
+          ]
+        },
+        {
+          "title": "Worship Through Adversity",
+          "summary": "Israel's response to deliverance is spontaneous worship, transforming a moment of physical salvation into a spiritual celebration. Their song illustrates how experiencing God's rescue generates profound theological reflection and praise.",
+          "cross_references": [
+            "Psalm 106:12",
+            "Colossians 3:16",
+            "James 5:13",
+            "Acts 16:25"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's deliverance in Exodus 15 challenge contemporary understandings of divine intervention?",
+        "options": [
+          "God actively intervenes in human historical narratives",
+          "Divine rescue is metaphorical rather than literal",
+          "Miraculous deliverance demonstrates God's sovereignty over systemic oppression",
+          "Historical events reflect symbolic spiritual truths"
+        ]
+      }
+    }
+  }
+}

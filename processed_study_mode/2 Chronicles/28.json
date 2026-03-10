@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on areas of spiritual compromise in your life, asking God for courage to turn back to Him.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past mistakes or generational patterns influenced your spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Acknowledge inherited negative patterns",
+            "response": "Write a prayer of repentance for family generational sins"
+          },
+          {
+            "id": 2,
+            "text": "Recognize personal responsibility",
+            "response": "Create a personal commitment to break destructive spiritual cycles"
+          },
+          {
+            "id": 3,
+            "text": "Seek divine restoration",
+            "response": "Study Scripture about God's redemptive power"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a pathway showing your spiritual journey, marking moments of straying and returning to God's path",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about King Ahaz's spiritual decline changed your understanding of personal faithfulness?",
+        "options": [
+          "Recognize the danger of gradual compromise",
+          "Understand the importance of consistent spiritual leadership",
+          "See how personal choices impact entire communities",
+          "Appreciate God's mercy even in moments of profound disobedience"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What most reveals the spiritual trajectory of King Ahaz?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Idol worship",
+            "expansion": "The deliberate rejection of God's covenant for foreign religious practices represents a profound spiritual rebellion."
+          },
+          {
+            "id": 2,
+            "text": "Child sacrifice",
+            "expansion": "Sacrificing one's own children symbolizes the ultimate moral corruption and spiritual bankruptcy."
+          },
+          {
+            "id": 3,
+            "text": "Political capitulation",
+            "expansion": "Seeking alliances with foreign powers instead of trusting in God reveals a deep spiritual insecurity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When personal desperation confronts spiritual principles, what ultimately determines one's moral choices?"
+      },
+      "moral_slider": {
+        "question": "To what extent can divine judgment be balanced with divine mercy?",
+        "left_label": "Strict Punishment",
+        "right_label": "Restorative Grace"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of leadership and spiritual responsibility have shifted?",
+        "options": [
+          "Personal accountability matters more than institutional position",
+          "Spiritual drift happens incrementally, not suddenly",
+          "Consequences of leadership extend far beyond the individual",
+          "Moral courage requires constant vigilance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and National Consequences",
+          "summary": "King Ahaz's idolatrous practices and abandonment of Yahweh led to severe national defeat and spiritual decline. His systematic rejection of God's covenant resulted in military vulnerability and spiritual bankruptcy.",
+          "cross_references": [
+            "Deuteronomy 28:15-68",
+            "Judges 2:11-15",
+            "1 Kings 11:1-13",
+            "Jeremiah 44:22-23"
+          ]
+        },
+        {
+          "title": "Mercy Amid Judgment",
+          "summary": "Despite Ahaz's profound wickedness, God's mercy was demonstrated through restraining total destruction and preserving a remnant. The narrative reveals God's persistent commitment to His covenant, even when human leadership fails.",
+          "cross_references": [
+            "Romans 11:2-5",
+            "Isaiah 1:9",
+            "Malachi 3:6",
+            "Lamentations 3:22-23"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do individual leadership choices impact national spiritual trajectory?",
+        "options": [
+          "Leaders' moral decisions directly influence societal spiritual climate",
+          "Personal spiritual compromise can precipitate broader systemic decline",
+          "Divine judgment operates through geopolitical and social mechanisms",
+          "Spiritual restoration requires intentional repentance and systemic reform"
+        ]
+      }
+    }
+  }
+}

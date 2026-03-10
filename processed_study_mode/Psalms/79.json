@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 79,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on the pain of seeing sacred spaces destroyed, and breathe a prayer for restoration",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when you see injustice against God's people or sacred institutions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray for intervention",
+            "response": "Dedicate time to intercessory prayer for persecuted communities"
+          },
+          {
+            "id": 2,
+            "text": "Take supportive action",
+            "response": "Research and support organizations helping oppressed religious groups"
+          },
+          {
+            "id": 3,
+            "text": "Raise awareness",
+            "response": "Share stories of religious persecution and advocate for religious freedom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing God's protection and restoration after a time of great suffering",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this psalm changed your understanding of God's response to suffering?",
+        "options": [
+          "God hears the cry of the oppressed",
+          "Suffering is not the end of the story",
+          "Divine justice will ultimately prevail",
+          "Lament is a valid spiritual response to pain"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound emotion resonates most in this Psalm of lament?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Anger at Injustice",
+            "expansion": "The Psalm reveals a deep cry for God's righteous judgment against those who have devastated Jerusalem."
+          },
+          {
+            "id": 2,
+            "text": "Community Suffering",
+            "expansion": "The collective trauma of the people overwhelms individual experience, highlighting communal pain."
+          },
+          {
+            "id": 3,
+            "text": "Desperate Plea for Mercy",
+            "expansion": "The poet urgently seeks God's compassionate intervention despite overwhelming national devastation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine justice is perfect, why do innocent communities continue to suffer while oppressors seemingly prosper?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile God's love with apparent divine judgment?",
+        "left_label": "Unconditional Love",
+        "right_label": "Righteous Punishment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of communal suffering and divine response shifted?",
+        "options": [
+          "More aware of historical collective trauma",
+          "Deepened empathy for marginalized communities",
+          "Recognized complexity of theological responses",
+          "Challenged by unresolved theological tensions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "National Lament Over Jerusalem's Destruction",
+          "summary": "A communal prayer expressing profound grief over the destruction of Jerusalem and the Temple by foreign powers. The psalm reflects Israel's collective suffering and the perceived abandonment by God during a devastating national crisis.",
+          "cross_references": [
+            "Lamentations 1:1-3",
+            "2 Kings 25:8-12",
+            "Jeremiah 52:12-16",
+            "Daniel 9:16-19"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Mercy",
+          "summary": "The psalm reveals the theological tension between God's righteous judgment against Israel's sins and the hope of divine restoration and compassion. It demonstrates the covenant relationship between God and His people, even in moments of profound national discipline.",
+          "cross_references": [
+            "Deuteronomy 28:45-48",
+            "Ezekiel 14:12-23",
+            "Psalm 74:1-3",
+            "Isaiah 40:1-2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically understand divine discipline in the context of national suffering?",
+        "options": [
+          "God's discipline is always proportional to communal sin",
+          "National suffering represents complex spiritual and geopolitical dynamics",
+          "Divine judgment demonstrates God's ultimate sovereignty",
+          "Communal repentance can interrupt cycles of divine discipline"
+        ]
+      }
+    }
+  }
+}

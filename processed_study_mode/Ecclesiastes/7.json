@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, reflecting on the wisdom that life's difficult moments shape character more profoundly than easy pleasures",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might embracing sorrow and challenges help me grow in wisdom?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Reflect on past struggles that taught me important lessons",
+            "response": "Journal about personal growth from difficult experiences"
+          },
+          {
+            "id": 2,
+            "text": "Consider how pain can develop deeper spiritual understanding",
+            "response": "Spend time in prayer, asking God to reveal wisdom through challenges"
+          },
+          {
+            "id": 3,
+            "text": "Examine current difficulties as opportunities for character development",
+            "response": "Create a gratitude list about lessons learned through current struggles"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing wisdom as a path with both smooth and rocky terrain",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my perspective on life's challenges?",
+        "options": [
+          "I see challenges as opportunities for growth",
+          "I understand that wisdom comes through difficult experiences",
+          "I'm more patient with my personal development process",
+          "I recognize the value of listening to wise counsel"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound truth about human experience resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "A good name matters more than temporary pleasures",
+            "expansion": "Character and reputation outlast momentary gratifications"
+          },
+          {
+            "id": 2,
+            "text": "Sorrow teaches more than constant happiness",
+            "expansion": "Profound wisdom often emerges through experiencing life's difficulties"
+          },
+          {
+            "id": 3,
+            "text": "Humility is wiser than pride",
+            "expansion": "Recognizing human limitations leads to genuine understanding"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wisdom emerges from suffering, what transformative insights might pain be attempting to communicate that comfort cannot?"
+      },
+      "moral_slider": {
+        "question": "Where do you position yourself between accepting life's imperfections and striving for personal improvement?",
+        "left_label": "Acceptance",
+        "right_label": "Transformation"
+      },
+      "reevaluation": {
+        "question": "How has reflecting on these insights shifted your perspective on life's meaning?",
+        "options": [
+          "I see life's challenges more philosophically",
+          "I'm more aware of wisdom's subtle teachings",
+          "I recognize the value of emotional depth",
+          "I'm less driven by superficial achievements"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom Through Suffering",
+          "summary": "Ecclesiastes 7 presents a counterintuitive perspective that adversity and sorrow are more spiritually formative than pleasure and comfort. The passage suggests that painful experiences cultivate deeper wisdom and character development.",
+          "cross_references": [
+            "James 1:2-4",
+            "Romans 5:3-5",
+            "Hebrews 12:11",
+            "1 Peter 1:6-7"
+          ]
+        },
+        {
+          "title": "Moral Discernment and Humility",
+          "summary": "The chapter emphasizes the importance of wisdom, restraint, and understanding human limitations. It portrays true wisdom as recognizing one's imperfections and avoiding extreme moral positions.",
+          "cross_references": [
+            "Proverbs 9:10",
+            "1 Corinthians 10:12",
+            "Micah 6:8",
+            "Philippians 2:3-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christians understand suffering and adversity in light of God's providence?",
+        "options": [
+          "Suffering is purely punitive and indicates divine displeasure",
+          "Adversity can be a transformative tool for spiritual growth and character development",
+          "Pain is a random occurrence with no inherent spiritual significance",
+          "Suffering represents an opportunity for deeper communion with Christ's redemptive work"
+        ]
+      }
+    }
+  }
+}

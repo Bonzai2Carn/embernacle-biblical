@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 60,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on God's sovereignty during challenging national trials",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when feeling spiritually or personally defeated?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Retreat and isolate",
+            "response": "Instead, seek community and prayer support"
+          },
+          {
+            "id": 2,
+            "text": "Blame God",
+            "response": "Choose to trust God's ultimate plan and purpose"
+          },
+          {
+            "id": 3,
+            "text": "Give up hope",
+            "response": "Renew your faith through Scripture and worship"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing God's strength protecting you during a difficult battle or challenge",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your perspective on national or personal struggles?",
+        "options": [
+          "God remains sovereign even in defeat",
+          "Prayer and trust are powerful responses to challenges",
+          "Divine help is always available",
+          "Struggles do not define my ultimate outcome"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual struggle resonates most in this psalm?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Divine Rejection",
+            "expansion": "The feeling of being momentarily abandoned by God despite faithfulness"
+          },
+          {
+            "id": "2",
+            "text": "National Suffering",
+            "expansion": "The collective pain of a community experiencing divine discipline"
+          },
+          {
+            "id": "3",
+            "text": "Redemptive Hope",
+            "expansion": "The persistent belief that God will ultimately restore and vindicate His people"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When divine silence feels overwhelming, what internal resources sustain spiritual resilience?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine judgment with divine love?",
+        "left_label": "Punishment",
+        "right_label": "Restoration"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual struggle evolved?",
+        "options": [
+          "Recognizing complexity in divine interactions",
+          "Understanding suffering as potential transformation",
+          "Seeing national challenges through spiritual lens",
+          "Embracing uncertainty in faith journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Discipline and Restoration",
+          "summary": "God's temporary rejection and subsequent restoration of His people illustrates His redemptive discipline. The psalm reveals how divine judgment serves a corrective and ultimately restorative purpose in Israel's covenant relationship.",
+          "cross_references": [
+            "Hebrews 12:6",
+            "Jeremiah 29:11",
+            "1 Peter 5:10",
+            "Deuteronomy 32:39-40"
+          ]
+        },
+        {
+          "title": "Sovereignty in Warfare",
+          "summary": "The psalm demonstrates God's ultimate control over national conflicts and military outcomes. It portrays divine intervention as the determining factor in strategic victories, transcending human military capabilities.",
+          "cross_references": [
+            "1 Samuel 17:47",
+            "Proverbs 21:31",
+            "2 Chronicles 20:15",
+            "Romans 8:31"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human agency in national conflicts?",
+        "options": [
+          "God completely predetermines all military outcomes",
+          "Human strategy and divine providence work collaboratively",
+          "Divine intervention occurs selectively based on covenant faithfulness",
+          "Military results are primarily determined by human capabilities"
+        ]
+      }
+    }
+  }
+}

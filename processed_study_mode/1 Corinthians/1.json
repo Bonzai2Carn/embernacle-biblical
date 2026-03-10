@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and repeat: 'I am called and chosen by God'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you understand your unique calling from God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through my talents and skills",
+            "response": "List three ways you can serve using your specific gifts"
+          },
+          {
+            "id": 2,
+            "text": "Through my current life circumstances",
+            "response": "Journal about how God might be using your current situation"
+          },
+          {
+            "id": 3,
+            "text": "Through spiritual community",
+            "response": "Reach out to a mentor or church leader for guidance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself wearing a 'chosen by God' badge",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of personal worth?",
+        "options": [
+          "I feel more valued by God",
+          "I understand my identity is in Christ",
+          "I recognize God's grace more clearly",
+          "I see my challenges differently"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of God's grace most resonates with you?",
+        "choices": [
+          {
+            "id": "enrichment",
+            "text": "Being spiritually enriched in Christ",
+            "expansion": "God's grace transforms our inner resources beyond mere material provisions."
+          },
+          {
+            "id": "calling",
+            "text": "Being called to holiness",
+            "expansion": "Our identity is defined not by our past, but by our divine invitation."
+          },
+          {
+            "id": "unity",
+            "text": "Church unity across diverse backgrounds",
+            "expansion": "Christ transcends social, cultural, and personal divisions."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human wisdom contradicts divine revelation, what determines your ultimate trust?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human intelligence with spiritual understanding?",
+        "left_label": "Human Intellect",
+        "right_label": "Divine Wisdom"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual maturity evolved?",
+        "options": [
+          "I now see wisdom differently",
+          "I recognize my previous limitations",
+          "I'm more open to divine perspective",
+          "I understand unity in Christ more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Calling and Sanctification",
+          "summary": "Paul emphasizes God's sovereign election and the transformative power of Christ's grace in calling believers. The Corinthian church is identified as sanctified in Christ, demonstrating God's intentional work of redemption.",
+          "cross_references": [
+            "Ephesians 1:4-5",
+            "Romans 8:28-30",
+            "2 Thessalonians 2:13-14",
+            "1 Peter 2:9-10"
+          ]
+        },
+        {
+          "title": "Unity and Wisdom in Christ",
+          "summary": "Paul challenges divisive spiritual pride by highlighting the centrality of Christ's gospel over human wisdom or denominational allegiances. True spiritual wisdom emerges from God's redemptive plan through the cross.",
+          "cross_references": [
+            "1 Corinthians 2:1-5",
+            "Colossians 2:8-10",
+            "James 3:13-18",
+            "Proverbs 9:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine election intersect with human responsibility in salvation?",
+        "options": [
+          "God's sovereign choice is independent of human merit",
+          "Human free will ultimately determines salvation",
+          "Divine election and human response are mysteriously interconnected",
+          "Salvation is a collaborative process between God and individuals"
+        ]
+      }
+    }
+  }
+}

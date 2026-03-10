@@ -1,0 +1,117 @@
+{
+  "book": "1 Timothy",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently repeat: 'Christ Jesus came to save sinners'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you view your past failures in light of God's grace?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel condemned by my past mistakes",
+            "response": "Meditate on God's transformative mercy"
+          },
+          {
+            "id": 2,
+            "text": "I recognize God's redemptive power",
+            "response": "Share your testimony of grace with someone"
+          },
+          {
+            "id": 3,
+            "text": "I'm uncertain about God's forgiveness",
+            "response": "Study scriptures about divine mercy and redemption"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of your spiritual journey, marking moments of God's grace and transformation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading 1 Timothy 1 shifted your understanding of grace?",
+        "options": [
+          "I see grace as more expansive",
+          "I understand my need for mercy",
+          "I recognize God's patience with sinners",
+          "I feel more hopeful about personal transformation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's theological instruction most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Sound Doctrine Matters",
+            "expansion": "Theological precision protects believers from spiritual confusion and false teachings."
+          },
+          {
+            "id": 2,
+            "text": "Grace Transforms Sinners",
+            "expansion": "Christ's mercy can radically redeem even the most broken human narrative."
+          },
+          {
+            "id": 3,
+            "text": "Love as the Commandment's Purpose",
+            "expansion": "Genuine spiritual instruction ultimately aims to cultivate transformative love."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your understanding of 'sound doctrine' differ from mere intellectual agreement versus genuine spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do you balance holding theological truth with extending grace?",
+        "left_label": "Strict Doctrinal Purity",
+        "right_label": "Radical Compassionate Inclusion"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual leadership changed after reflecting on this chapter?",
+        "options": [
+          "More aware of theological responsibility",
+          "Recognize the importance of grace",
+          "Understand leadership as servanthood",
+          "See doctrine as a pathway to love"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Apostolic Authority and Sound Doctrine",
+          "summary": "Paul establishes his apostolic credentials and warns against false teachings that deviate from the gospel. He emphasizes the importance of maintaining doctrinal integrity and focusing on love that comes from a pure heart.",
+          "cross_references": [
+            "Titus 1:9",
+            "2 Timothy 1:13",
+            "Ephesians 4:14",
+            "2 Peter 2:1"
+          ]
+        },
+        {
+          "title": "Christ's Redemptive Purpose",
+          "summary": "Paul highlights the transformative power of Christ's grace, demonstrating how the gospel can radically change lives, even for those who were previously opposed to the faith. The passage reveals God's mercy and Christ's patient redemption.",
+          "cross_references": [
+            "Romans 5:8",
+            "Galatians 1:13-14",
+            "1 Corinthians 15:9-10",
+            "Ephesians 3:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should the church approach doctrinal disagreements while maintaining Christian unity?",
+        "options": [
+          "Prioritize love and grace over strict theological precision",
+          "Develop comprehensive doctrinal statements to prevent false teaching",
+          "Encourage open dialogue and mutual understanding",
+          "Separate from those with differing theological interpretations"
+        ]
+      }
+    }
+  }
+}

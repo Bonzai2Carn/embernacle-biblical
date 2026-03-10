@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 71,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently affirm: 'God, You are my rock and my refuge'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently experiencing God's faithfulness during challenging times?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel overwhelmed and need reassurance",
+            "response": "Write down three past instances of God's proven faithfulness in your life"
+          },
+          {
+            "id": 2,
+            "text": "I'm seeking guidance and protection",
+            "response": "Create a prayer journal specifically documenting your current challenges and hopes"
+          },
+          {
+            "id": 3,
+            "text": "I want to trust God more deeply",
+            "response": "Memorize a key verse from this Psalm about God's consistent care"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with words/symbols representing God's protection throughout your life journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm shifted your understanding of God's long-term faithfulness?",
+        "options": [
+          "I see God as more consistently present",
+          "I recognize God's protection spans my entire life",
+          "I feel more hope about future challenges",
+          "I understand God's faithfulness is independent of my circumstances"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core theme resonates most deeply in this psalm of spiritual resilience?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Divine Protection Throughout Life",
+            "expansion": "The psalmist's conviction that God has been a refuge from youth to old age reveals an unwavering trust in continuous divine care."
+          },
+          {
+            "id": "2",
+            "text": "Persistence in Praise Despite Challenges",
+            "expansion": "Even amid persecution and personal struggles, the author maintains a commitment to declaring God's righteousness and faithfulness."
+          },
+          {
+            "id": "3",
+            "text": "Generational Testimony of God's Power",
+            "expansion": "The psalm emphasizes proclaiming God's mighty acts not just for oneself, but as a testimony to future generations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might one's perception of divine protection change when experiencing prolonged suffering or seemingly unanswered prayers?"
+      },
+      "moral_slider": {
+        "question": "What is the relationship between personal vulnerability and spiritual strength?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Empowerment"
+      },
+      "reevaluation": {
+        "question": "How has this psalm challenged your understanding of spiritual resilience?",
+        "options": [
+          "Recognized the importance of continuous trust",
+          "Understood suffering as a potential pathway to deeper faith",
+          "Appreciated the value of intergenerational spiritual storytelling",
+          "Saw vulnerability as a strength, not a weakness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Lifelong Trust in Divine Protection",
+          "summary": "The psalmist demonstrates unwavering faith and dependence on God throughout all stages of life. He portrays God as a consistent refuge and strength, transcending personal challenges and generational transitions.",
+          "cross_references": [
+            "Psalm 46:1",
+            "Isaiah 46:4",
+            "Philippians 4:13",
+            "2 Corinthians 12:9-10"
+          ]
+        },
+        {
+          "title": "Testimony of God's Faithfulness",
+          "summary": "The psalm serves as a profound narrative of personal spiritual testimony, highlighting God's continuous redemptive work in an individual's life. It emphasizes the transformative power of divine intervention and persistent hope.",
+          "cross_references": [
+            "Deuteronomy 7:9",
+            "Lamentations 3:22-23",
+            "1 Thessalonians 5:24",
+            "Hebrews 10:23"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering relate to divine purpose in Psalm 71?",
+        "options": [
+          "Suffering is a punishment for sin",
+          "Trials are opportunities for spiritual growth and testimony",
+          "Divine protection guarantees complete immunity from challenges",
+          "Adversity reveals God's transformative power in human experience"
+        ]
+      }
+    }
+  }
+}

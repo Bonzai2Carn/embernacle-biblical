@@ -1,0 +1,117 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being deeply loved. Breathe slowly and recall moments of unconditional acceptance.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you perceive your own worth and beauty in God's eyes?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I struggle with self-acceptance",
+            "response": "Write three positive affirmations about yourself rooted in God's love"
+          },
+          {
+            "id": "b",
+            "text": "I want to grow in understanding divine love",
+            "response": "Spend 15 minutes journaling about God's perspective of you"
+          },
+          {
+            "id": "c",
+            "text": "I feel confident in God's love",
+            "response": "Pray for someone else struggling with self-worth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a heart surrounded by sweet-smelling flowers, representing how love is more beautiful and fragrant than external appearances",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of love?",
+        "options": [
+          "Love is deeper than physical attraction",
+          "God values inner beauty more than external perfection",
+          "Intimacy requires vulnerability",
+          "True love sees beyond current circumstances"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about love's transformative power?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Acceptance",
+            "expansion": "Recognizing one's inherent beauty despite external perceptions."
+          },
+          {
+            "id": 2,
+            "text": "Passionate Longing",
+            "expansion": "Love as an intense, consuming desire that transcends physical attraction."
+          },
+          {
+            "id": 3,
+            "text": "Vulnerability as Strength",
+            "expansion": "Revealing one's true self becomes an act of profound courage and intimacy."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does vulnerability reveal more about authentic connection than protective facades?"
+      },
+      "moral_slider": {
+        "question": "To what extent does passionate love challenge or align with spiritual devotion?",
+        "left_label": "Earthly Desire",
+        "right_label": "Spiritual Transcendence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of love's complexity shifted?",
+        "options": [
+          "Recognized love's multidimensional nature",
+          "Understand vulnerability as strength",
+          "Appreciate emotional depth over superficial attraction",
+          "Saw spiritual metaphors in human intimacy"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Love and Human Intimacy",
+          "summary": "The chapter explores the profound metaphorical connection between human romantic love and spiritual devotion. It presents love as a divine gift that transcends physical attraction, revealing deeper spiritual intimacy.",
+          "cross_references": [
+            "Ephesians 5:25-33",
+            "Song of Solomon 8:6-7",
+            "1 Corinthians 13:4-8",
+            "Hosea 2:19-20"
+          ]
+        },
+        {
+          "title": "Spiritual Longing and Pursuit",
+          "summary": "The text demonstrates passionate spiritual pursuit, symbolizing the soul's deep desire for divine connection. It illustrates the reciprocal nature of love between the believer and the divine beloved.",
+          "cross_references": [
+            "Psalms 42:1-2",
+            "John 17:23",
+            "James 4:8",
+            "Revelation 3:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret the intimate language of romantic love in this biblical text?",
+        "options": [
+          "As a literal description of human romantic relationships",
+          "As an allegorical representation of God's love for His people",
+          "As a poetic metaphor blending spiritual and human love",
+          "As a prophetic symbolism of Christ's relationship with the Church"
+        ]
+      }
+    }
+  }
+}

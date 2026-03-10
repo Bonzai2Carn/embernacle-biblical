@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 38,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently breathe and acknowledge your personal burdens, recognizing God sees your struggles and pain",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when feeling overwhelmed by personal guilt or suffering?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I withdraw and isolate myself",
+            "response": "Practice vulnerability with trusted friends or spiritual mentors"
+          },
+          {
+            "id": 2,
+            "text": "I blame myself constantly",
+            "response": "Seek God's forgiveness and grace, understanding His compassion"
+          },
+          {
+            "id": 3,
+            "text": "I try to handle everything alone",
+            "response": "Intentionally invite God and supportive community into your struggles"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a heavy burden you're carrying, then symbolically place it at the foot of an imaginary cross",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm shifted your understanding of personal suffering?",
+        "options": [
+          "I see suffering as an opportunity for growth",
+          "I recognize God's presence even in pain",
+          "I understand vulnerability as strength",
+          "I feel more compassionate towards my own weaknesses"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional theme in Psalm 38 resonates most deeply?",
+        "choices": [
+          {
+            "id": "guilt",
+            "text": "Personal Guilt and Suffering",
+            "expansion": "The profound inner turmoil of experiencing divine discipline and personal shame."
+          },
+          {
+            "id": "vulnerability",
+            "text": "Human Vulnerability Before God",
+            "expansion": "The raw admission of human weakness and complete dependence on divine mercy."
+          },
+          {
+            "id": "isolation",
+            "text": "Spiritual and Social Isolation",
+            "expansion": "The painful experience of feeling abandoned by friends and overwhelmed by internal struggles."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal suffering be transformed from a punishment into an opportunity for spiritual growth and self-understanding?"
+      },
+      "moral_slider": {
+        "question": "Between divine judgment and divine mercy, where does authentic spiritual healing occur?",
+        "left_label": "Strict Divine Judgment",
+        "right_label": "Unconditional Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on personal suffering and spiritual accountability shifted?",
+        "options": [
+          "I see suffering as more complex than simple punishment",
+          "I recognize my own vulnerability more deeply",
+          "I understand the importance of honest self-reflection",
+          "I appreciate the potential for spiritual transformation through difficult experiences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Discipline and Human Frailty",
+          "summary": "David experiences profound suffering as a consequence of personal sin, revealing the complex relationship between human transgression and divine correction. The psalm portrays a vulnerable spiritual state where the author acknowledges God's righteous judgment while simultaneously seeking mercy.",
+          "cross_references": [
+            "Hebrews 12:5-6",
+            "Proverbs 3:11-12",
+            "1 Corinthians 11:32",
+            "Job 5:17-18"
+          ]
+        },
+        {
+          "title": "Spiritual Brokenness and Redemptive Suffering",
+          "summary": "The psalm illustrates the profound emotional and physical anguish that accompanies spiritual conviction and repentance. David's transparent lament demonstrates how genuine spiritual transformation often involves painful self-reflection and vulnerability before God.",
+          "cross_references": [
+            "Psalm 32:3-5",
+            "James 4:9-10",
+            "2 Corinthians 7:10",
+            "Psalm 51:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand divine discipline in personal spiritual growth?",
+        "options": [
+          "Discipline is always punitive and represents God's anger",
+          "Discipline is fundamentally redemptive and intended for spiritual maturation",
+          "Personal suffering is random and unconnected to spiritual condition",
+          "Suffering represents a direct correlation between sin and immediate consequences"
+        ]
+      }
+    }
+  }
+}

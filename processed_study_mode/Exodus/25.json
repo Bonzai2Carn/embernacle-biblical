@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine giving your most treasured possession as an act of pure worship, without expectation of return",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What valuable resources or talents could you willingly dedicate to God's purposes?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Financial resources",
+            "response": "Create a specific giving plan for your church or ministry"
+          },
+          {
+            "id": 2,
+            "text": "Personal skills",
+            "response": "Volunteer your professional skills for a spiritual mission"
+          },
+          {
+            "id": 3,
+            "text": "Time and energy",
+            "response": "Commit to a regular service opportunity"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Design a personal 'sanctuary space' representing where you meet with God, using symbols of dedication and worship",
+        "type": "create"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of giving and worship?",
+        "options": [
+          "Giving is more about heart motivation than amount",
+          "Worship requires intentional, quality offerings",
+          "God values personal sacrifice",
+          "Generosity is a form of spiritual partnership"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What does genuine offering reveal about human-divine relationship?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Voluntary Heart-Giving",
+            "expansion": "True worship emerges from internal motivation, not external compulsion."
+          },
+          {
+            "id": 2,
+            "text": "Material as Spiritual Metaphor",
+            "expansion": "Physical offerings symbolize deeper spiritual surrenders and transformations."
+          },
+          {
+            "id": 3,
+            "text": "Divine Collaboration",
+            "expansion": "God invites human participation in sacred design through intentional contribution."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine instructions require specific materials, does this suggest spirituality is more structured or more relational?"
+      },
+      "moral_slider": {
+        "question": "How does individual intention balance with communal sacred purpose?",
+        "left_label": "Personal Autonomy",
+        "right_label": "Collective Worship"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of 'offering' have transformed?",
+        "options": [
+          "Offering is transactional",
+          "Offering reflects inner transformation",
+          "Offering connects human and divine realms",
+          "Offering requires personal vulnerability"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Voluntary Worship",
+          "summary": "God invites willing-hearted participation in sacred offerings. The divine request emphasizes personal motivation over compulsory giving, revealing a relationship of love and voluntary devotion.",
+          "cross_references": [
+            "2 Corinthians 9:7",
+            "Romans 12:1",
+            "Psalm 51:17",
+            "1 Peter 2:5"
+          ]
+        },
+        {
+          "title": "Divine Design of Sacred Spaces",
+          "summary": "God provides precise instructions for constructing a dwelling place among His people. The meticulous details demonstrate God's desire for intentional, consecrated worship environments that reflect His holiness.",
+          "cross_references": [
+            "1 Chronicles 28:19",
+            "Hebrews 8:5",
+            "1 Kings 6:1-2",
+            "Acts 7:44"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's request for offerings reflect divine-human relationship dynamics?",
+        "options": [
+          "Offerings represent transactional worship",
+          "Offerings demonstrate relational partnership with God",
+          "Offerings are purely symbolic gestures",
+          "Offerings reveal God's material needs"
+        ]
+      }
+    }
+  }
+}

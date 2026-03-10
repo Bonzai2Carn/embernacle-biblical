@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize a moment of temptation. Breathe slowly and recognize where subtle doubts might challenge your trust in God's guidance.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you recognize the subtle voices of temptation in your own life?",
+        "options": [
+          {
+            "id": "A",
+            "text": "By comparing them against Scripture",
+            "response": "Create a personal 'truth filter' journal to compare thoughts against biblical principles"
+          },
+          {
+            "id": "B",
+            "text": "By seeking wise counsel",
+            "response": "Schedule a meeting with a spiritual mentor this week"
+          },
+          {
+            "id": "C",
+            "text": "By practicing immediate prayer when doubt emerges",
+            "response": "Develop a quick prayer strategy for moments of spiritual vulnerability"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a moment where you chose obedience over temptation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Genesis 3 changed your understanding of temptation and personal responsibility?",
+        "options": [
+          "I see temptation as more subtle and strategic",
+          "I recognize my own capacity to rationalize poor choices",
+          "I understand the importance of personal accountability",
+          "I'm more aware of how small compromises lead to larger consequences"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of human nature emerges most powerfully in this moment of temptation?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Curiosity about forbidden knowledge",
+            "expansion": "The desire to transcend given boundaries reveals a fundamental human impulse toward understanding."
+          },
+          {
+            "id": 2,
+            "text": "Vulnerability to persuasive manipulation",
+            "expansion": "Subtle rhetorical strategies can destabilize deeply held commitments."
+          },
+          {
+            "id": 3,
+            "text": "Desire to be 'like God'",
+            "expansion": "Humans inherently yearn to expand their perceived limitations and achieve transcendent status."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If knowledge itself is not inherently evil, what transforms the act of knowing into a transgressive moment?"
+      },
+      "moral_slider": {
+        "question": "To what extent is disobedience a necessary path to self-awareness?",
+        "left_label": "Compliance",
+        "right_label": "Rebellion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of choice, consequence, and free will shifted?",
+        "options": [
+          "I see complexity in moral decisions",
+          "I recognize human vulnerability",
+          "I understand temptation differently",
+          "I perceive divine expectations more nuanced"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Origin of Sin",
+          "summary": "Genesis 3 reveals humanity's first moral rebellion against divine instruction. The serpent introduces doubt about God's command, leading to humanity's initial transgression and separation from perfect communion with God.",
+          "cross_references": [
+            "Romans 5:12",
+            "1 Corinthians 15:22",
+            "James 1:14-15",
+            "Ezekiel 28:13-15"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Redemptive Promise",
+          "summary": "After humanity's fall, God pronounces consequences for disobedience while simultaneously revealing a redemptive plan through the prophetic statement about the serpent's ultimate defeat. This chapter marks the beginning of God's redemptive narrative.",
+          "cross_references": [
+            "Genesis 3:15",
+            "Galatians 4:4-5",
+            "Revelation 12:9",
+            "Romans 16:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Genesis 3 illuminate the nature of human free will and divine sovereignty?",
+        "options": [
+          "Free will demonstrates human capacity for independent moral choice",
+          "Divine foreknowledge suggests predestined outcomes",
+          "The narrative reveals a complex interplay between human agency and divine providence",
+          "Sin fundamentally alters the relationship between humanity and God"
+        ]
+      }
+    }
+  }
+}

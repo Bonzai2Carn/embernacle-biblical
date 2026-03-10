@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 26,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine standing boldly for your faith, just as Paul stood confidently before King Agrippa, declaring his testimony with courage.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you more courageously share your personal faith journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Share my testimony with a friend",
+            "response": "Write out your personal story of encountering Christ"
+          },
+          {
+            "id": 2,
+            "text": "Practice explaining my faith simply",
+            "response": "Create a 2-minute elevator pitch of your spiritual transformation"
+          },
+          {
+            "id": 3,
+            "text": "Be more transparent about my spiritual experiences",
+            "response": "Journal about moments God has dramatically worked in your life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a courtroom scene where you're telling your story of faith, just like Paul did before King Agrippa",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Paul's defense changed your understanding of sharing personal faith?",
+        "options": [
+          "Faith sharing can be confident, not defensive",
+          "Personal stories are powerful testimony",
+          "Boldness comes from genuine transformation",
+          "Everyone's spiritual journey is unique"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's testimony resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Transformation",
+            "expansion": "Paul's radical shift from persecutor to passionate follower reveals the profound potential for spiritual metamorphosis."
+          },
+          {
+            "id": 2,
+            "text": "Fearless Testimony",
+            "expansion": "Paul's unapologetic witness before powerful authorities demonstrates extraordinary courage in proclaiming his convictions."
+          },
+          {
+            "id": 3,
+            "text": "Divine Calling",
+            "expansion": "Paul's understanding of his specific missional purpose highlights the intimate way God recruits and redirects individual lives."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your deepest beliefs were challenged publicly, would you have the courage to speak truth, or would self-preservation silence you?"
+      },
+      "moral_slider": {
+        "question": "How do personal experiences validate or challenge theological understanding?",
+        "left_label": "Subjective Experience",
+        "right_label": "Objective Truth"
+      },
+      "reevaluation": {
+        "question": "How has this passage shifted your understanding of personal testimony?",
+        "options": [
+          "I see spiritual transformation differently",
+          "I recognize the power of personal narrative",
+          "I understand missionary calling more deeply",
+          "I'm more aware of spiritual courage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Personal Testimony and Gospel Proclamation",
+          "summary": "Paul uses his personal conversion story as a powerful evangelistic tool, demonstrating how individual spiritual experiences can be transformative witnesses. His testimony reveals the redemptive power of Christ's transformative grace.",
+          "cross_references": [
+            "1 Timothy 1:12-17",
+            "Galatians 1:13-16",
+            "2 Corinthians 5:17",
+            "Romans 8:1"
+          ]
+        },
+        {
+          "title": "Divine Providence and Apostolic Mission",
+          "summary": "Paul's defense reveals God's sovereign plan in calling him from persecutor to apostle, highlighting how divine intervention can radically redirect human purpose. His mission demonstrates God's universal redemptive plan transcending cultural boundaries.",
+          "cross_references": [
+            "Jeremiah 1:5",
+            "Romans 8:28",
+            "Ephesians 2:10",
+            "Galatians 1:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Paul's conversion narrative challenge traditional understandings of spiritual transformation?",
+        "options": [
+          "Conversion can occur suddenly and dramatically",
+          "Personal spiritual experiences are valid evangelistic tools",
+          "God's grace can transform even the most resistant individuals",
+          "Theological understanding emerges through personal encounter with Christ"
+        ]
+      }
+    }
+  }
+}

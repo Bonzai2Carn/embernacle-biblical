@@ -1,0 +1,117 @@
+{
+  "book": "Titus",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently affirm: 'God's truth is reliable and unchanging'",
+        "timer": 15
+      },
+      "two_step": {
+        "reflect_question": "How can I cultivate spiritual leadership qualities in my personal life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Develop personal integrity",
+            "response": "Create a daily accountability journal tracking moral and spiritual commitments"
+          },
+          {
+            "id": 2,
+            "text": "Study Scripture more deeply",
+            "response": "Commit to 15 minutes of focused Bible study each morning"
+          },
+          {
+            "id": 3,
+            "text": "Seek mentorship from mature believers",
+            "response": "Reach out to a church elder or respected Christian leader for guidance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing spiritual protection and leadership qualities mentioned in the chapter",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual leadership?",
+        "options": [
+          "Leadership requires more character than charisma",
+          "Integrity is crucial for spiritual influence",
+          "Sound doctrine matters more than personality",
+          "True leadership is rooted in God's truth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which foundational aspect of spiritual leadership resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Apostolic Authority",
+            "expansion": "Paul's self-understanding as a divinely commissioned messenger shapes authentic spiritual leadership."
+          },
+          {
+            "id": 2,
+            "text": "Character Over Credentials",
+            "expansion": "Spiritual leadership is defined more by moral integrity than by institutional position."
+          },
+          {
+            "id": 3,
+            "text": "Theological Precision",
+            "expansion": "Sound doctrine protects the community from destructive internal divisions and external influences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal biases distort your understanding of spiritual truth?"
+      },
+      "moral_slider": {
+        "question": "To what extent should spiritual leadership balance grace and accountability?",
+        "left_label": "Unconditional Acceptance",
+        "right_label": "Strict Discipline"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual leadership evolved?",
+        "options": [
+          "More aware of character requirements",
+          "Recognize complexity of doctrinal purity",
+          "Understand leadership as servant-based",
+          "Appreciate theological nuance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Apostolic Authority and Church Leadership",
+          "summary": "Paul establishes his divine calling and credentials as an apostle, emphasizing the importance of godly leadership in the church. He outlines specific qualifications for church elders, highlighting moral integrity and doctrinal soundness.",
+          "cross_references": [
+            "1 Timothy 3:1-7",
+            "1 Peter 5:1-4",
+            "Acts 20:28",
+            "Ephesians 4:11-12"
+          ]
+        },
+        {
+          "title": "Sound Doctrine and Gospel Truth",
+          "summary": "Paul stresses the critical importance of maintaining pure biblical teaching and confronting false doctrines that could mislead believers. He emphasizes that true faith produces godly living and aligns with the unchanging promises of God.",
+          "cross_references": [
+            "2 Timothy 4:3-4",
+            "Jude 1:3",
+            "2 Peter 2:1-3",
+            "Galatians 1:6-9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should churches today approach leadership selection and doctrinal purity?",
+        "options": [
+          "Prioritize spiritual maturity over professional qualifications",
+          "Develop comprehensive screening processes for church leaders",
+          "Regularly teach and reinforce foundational biblical doctrines",
+          "Create accountability structures within church leadership"
+        ]
+      }
+    }
+  }
+}

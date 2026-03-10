@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on areas where you might be living without acknowledging God's presence",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might my daily choices reveal whether I'm living as a 'fool' who disregards God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Evaluate my moral choices without God's guidance",
+            "response": "Create a personal accountability journal tracking spiritual decisions"
+          },
+          {
+            "id": 2,
+            "text": "Examine my heart for subtle forms of practical atheism",
+            "response": "Spend time in prayer asking God to reveal hidden motivations"
+          },
+          {
+            "id": 3,
+            "text": "Assess my genuine trust in God during challenges",
+            "response": "Journal specific areas where you're struggling to trust divine providence"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing light overcoming darkness, representing God's ultimate victory over human foolishness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual wisdom?",
+        "options": [
+          "I now see wisdom as more about relationship with God",
+          "I recognize human tendency towards self-centered thinking",
+          "I understand spiritual blindness more clearly",
+          "I'm more aware of needing divine perspective"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human nature resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Humanity's inherent moral corruption",
+            "expansion": "The psalm suggests humans are fundamentally prone to turning away from God's wisdom and righteousness."
+          },
+          {
+            "id": 2,
+            "text": "Divine judgment of systemic wickedness",
+            "expansion": "God critically examines human behavior and holds collective social structures accountable for moral failings."
+          },
+          {
+            "id": 3,
+            "text": "Hope for redemptive transformation",
+            "expansion": "Despite human weakness, the psalm implies potential for restoration and reconnection with divine purpose."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If everyone acts corruptly as the psalm suggests, how can we simultaneously believe in human potential for goodness?"
+      },
+      "moral_slider": {
+        "question": "To what extent do individual moral failures reflect broader societal spiritual conditions?",
+        "left_label": "Individual Responsibility",
+        "right_label": "Collective Spiritual State"
+      },
+      "reevaluation": {
+        "question": "How might this psalm challenge your understanding of human nature?",
+        "options": [
+          "I see more complexity in moral behavior",
+          "I recognize systemic spiritual challenges",
+          "I'm more aware of personal accountability",
+          "I'm hopeful about potential for transformation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Depravity",
+          "summary": "David describes the universal moral corruption of humanity, emphasizing that all people have turned away from God and become fundamentally wayward. The psalm reveals the inherent sinfulness of human nature and the universal need for divine redemption.",
+          "cross_references": [
+            "Romans 3:10-12",
+            "Jeremiah 17:9",
+            "Genesis 6:5",
+            "Ephesians 2:1-3"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Salvation",
+          "summary": "The psalm portrays God's perspective on human wickedness and His ultimate intervention for the righteous. It highlights God's judgment of those who reject Him and His promise of deliverance for those who seek Him.",
+          "cross_references": [
+            "Isaiah 59:16-20",
+            "Romans 11:26-27",
+            "2 Thessalonians 1:6-9",
+            "Matthew 25:31-46"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand human nature in light of this psalm's depiction of universal sinfulness?",
+        "options": [
+          "Humans are fundamentally good but occasionally make mistakes",
+          "Humans are inherently sinful and require divine intervention for redemption",
+          "Moral behavior is relative and depends on individual cultural contexts",
+          "Human potential for goodness exists but is consistently undermined by spiritual weakness"
+        ]
+      }
+    }
+  }
+}

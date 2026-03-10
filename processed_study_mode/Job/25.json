@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God's infinite armies, remembering your smallness in His vast universe. Breathe quietly and surrender.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding God's immense power change your perspective on personal struggles?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Recognize my limitations",
+            "response": "Write a prayer acknowledging your dependence on God"
+          },
+          {
+            "id": "B",
+            "text": "Embrace humility",
+            "response": "Journal about areas where you need to let go of pride"
+          },
+          {
+            "id": "C",
+            "text": "Seek divine perspective",
+            "response": "Meditate on scriptures about God's sovereignty"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a small human figure next to an enormous star, representing human frailty compared to God's grandeur",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of human righteousness?",
+        "options": [
+          "I feel more aware of my human limitations",
+          "I understand God's holiness more deeply",
+          "I'm more humbled by divine perfection",
+          "I see the importance of grace differently"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective about human insignificance resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Cosmic Humility",
+            "expansion": "Humans are infinitesimally small compared to divine magnitude and universal complexity."
+          },
+          {
+            "id": 2,
+            "text": "Divine Sovereignty",
+            "expansion": "God's armies and power transcend human comprehension and moral judgment."
+          },
+          {
+            "id": 3,
+            "text": "Inherent Imperfection",
+            "expansion": "Human beings are fundamentally limited and tainted by their mortal origin."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If perfection is unattainable, what meaning can human striving possibly hold?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human limitation with spiritual aspiration?",
+        "left_label": "Total Human Inadequacy",
+        "right_label": "Potential for Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human worth shifted?",
+        "options": [
+          "I feel more humble",
+          "I recognize divine complexity",
+          "I see limitations as part of growth",
+          "I'm more accepting of uncertainty"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Insignificance",
+          "summary": "Bildad emphasizes God's absolute dominion and overwhelming power compared to human frailty. He highlights the cosmic scale of divine authority and the inherent limitations of human righteousness.",
+          "cross_references": [
+            "Isaiah 40:15",
+            "Psalm 103:19",
+            "Romans 9:20-21",
+            "1 Samuel 2:6-8"
+          ]
+        },
+        {
+          "title": "Inherent Human Impurity",
+          "summary": "The passage explores the fundamental spiritual challenge of human sinfulness and inability to achieve self-righteousness. Bildad argues that human beings, born of woman, are inherently unclean before a perfect God.",
+          "cross_references": [
+            "Romans 3:23",
+            "Psalm 51:5",
+            "Isaiah 64:6",
+            "Ephesians 2:1-3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand human righteousness in light of divine perfection?",
+        "options": [
+          "Human righteousness is entirely dependent on God's grace",
+          "Moral effort can partially compensate for human limitations",
+          "Divine judgment requires absolute perfection",
+          "Redemption transforms human moral capacity"
+        ]
+      }
+    }
+  }
+}

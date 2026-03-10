@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Quietly reflect on personal hygiene as a form of spiritual care and respect for your body",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you understand the connection between physical cleanliness and spiritual wholeness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Physical health reflects spiritual discipline",
+            "response": "Develop a holistic wellness routine that includes spiritual and physical practices"
+          },
+          {
+            "id": 2,
+            "text": "Cleanliness is about community respect",
+            "response": "Be more mindful of personal hygiene and its impact on those around you"
+          },
+          {
+            "id": 3,
+            "text": "Bodily conditions reveal deeper spiritual truths",
+            "response": "Practice self-awareness and compassionate understanding of human vulnerability"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a diagram showing how care and cleanliness protect community health",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of health and community?",
+        "options": [
+          "I see health as more holistic",
+          "I appreciate ancient wisdom about wellness",
+          "I'm more aware of community interdependence",
+          "I understand biblical hygiene practices better"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which concept of ritual purity most intrigues you?",
+        "choices": [
+          {
+            "id": "bodily_discharge",
+            "text": "Physical Bodily Conditions",
+            "expansion": "Illness and bodily functions create temporary spiritual disruption requiring intentional restoration."
+          },
+          {
+            "id": "community_health",
+            "text": "Communal Protection Mechanisms",
+            "expansion": "Ritual laws serve as ancient epidemiological protocols to prevent disease transmission."
+          },
+          {
+            "id": "spiritual_boundaries",
+            "text": "Sacred/Profane Distinctions",
+            "expansion": "Bodily experiences represent liminal spaces between human vulnerability and divine holiness."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If ritual impurity is not about moral failure, but about natural human conditions, what does this reveal about divine understanding of human fragility?"
+      },
+      "moral_slider": {
+        "question": "How do ritual purity laws balance individual experience with communal well-being?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Collective Protection"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of ancient religious practices shifted?",
+        "options": [
+          "I see more scientific wisdom",
+          "I recognize deeper psychological insights",
+          "I appreciate complex theological reasoning",
+          "I'm more aware of cultural contextualization"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Bodily Discharges and Ritual Purity",
+          "summary": "This chapter addresses ritual contamination through various bodily discharges, emphasizing the holiness of the community and the importance of maintaining ceremonial cleanliness. The detailed prescriptions highlight God's concern for physical and spiritual health within the Israelite community.",
+          "cross_references": [
+            "Numbers 19:11-22",
+            "Ezekiel 36:25-27",
+            "Mark 5:25-34",
+            "2 Corinthians 7:1"
+          ]
+        },
+        {
+          "title": "Divine Separation and Restoration",
+          "summary": "Leviticus 15 demonstrates God's intricate guidelines for addressing human physical conditions and their spiritual implications. The regulations provide a systematic approach to ritual purification, symbolizing the broader theological concept of restoration and cleansing from spiritual impurity.",
+          "cross_references": [
+            "1 John 1:7",
+            "Hebrews 9:13-14",
+            "Revelation 1:5",
+            "Titus 2:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary theological understanding interpret these ancient ritual purity laws?",
+        "options": [
+          "As literal, timeless medical and spiritual guidelines",
+          "As symbolic representations of spiritual cleansing and holiness",
+          "As culturally specific practices with limited modern application",
+          "As prophetic foreshadowing of Christ's redemptive work of spiritual purification"
+        ]
+      }
+    }
+  }
+}

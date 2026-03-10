@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe slowly and visualize personal cleansing, remembering God's restoration process",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you approach personal healing and spiritual restoration?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I actively seek spiritual counsel",
+            "response": "Schedule a meeting with a spiritual mentor or counselor"
+          },
+          {
+            "id": "B",
+            "text": "I prefer private introspection",
+            "response": "Spend dedicated time in prayer and journaling about personal restoration"
+          },
+          {
+            "id": "C",
+            "text": "I rely on community support",
+            "response": "Share your healing journey with a trusted small group or friend"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a journey of transformation, showing stages of healing from 'unclean' to 'restored'",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about ritual cleansing changed your understanding of personal restoration?",
+        "options": [
+          "I see restoration as more holistic",
+          "I understand spiritual healing requires community involvement",
+          "I recognize healing is a deliberate, step-by-step process",
+          "I appreciate God's detailed care for individual transformation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about ritual purification?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Communal Healing Process",
+            "expansion": "Purification involves collective restoration, not just individual cleansing."
+          },
+          {
+            "id": 2,
+            "text": "Divine Attention to Detail",
+            "expansion": "God's precise instructions reveal meticulous care for human wholeness."
+          },
+          {
+            "id": 3,
+            "text": "Symbolic Transformation",
+            "expansion": "Ritual represents deeper spiritual movement from impurity to sacred status."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might external ritual cleansing reflect or transform internal spiritual conditions?"
+      },
+      "moral_slider": {
+        "question": "To what extent do religious rituals create genuine spiritual change?",
+        "left_label": "Mechanical Ritual",
+        "right_label": "Transformative Experience"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on religious ritual shifted?",
+        "options": [
+          "More appreciative of symbolic meanings",
+          "See deeper psychological significance",
+          "Recognize cultural complexity",
+          "Understand historical context better"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Ritual Purification",
+          "summary": "Leviticus 14 details complex ceremonial procedures for cleansing individuals from skin diseases and contamination. The elaborate ritual demonstrates God's holistic approach to physical and spiritual restoration, emphasizing the connection between bodily health and spiritual wholeness.",
+          "cross_references": [
+            "James 5:14-15",
+            "Mark 1:40-45",
+            "2 Kings 5:1-14",
+            "Matthew 8:2-4"
+          ]
+        },
+        {
+          "title": "Divine Healing and Restoration",
+          "summary": "The chapter reveals God's intentional process of restoration for those experiencing isolation due to disease. The ritualistic cleansing symbolizes spiritual renewal, demonstrating that God's redemptive plan encompasses physical healing and communal reintegration.",
+          "cross_references": [
+            "Psalm 103:3",
+            "Isaiah 53:4-5",
+            "1 Peter 2:24",
+            "Exodus 15:26"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the detailed purification process in Leviticus 14 reflect theological perspectives on holiness and restoration?",
+        "options": [
+          "God values comprehensive healing beyond physical symptoms",
+          "Ritual purity symbolizes spiritual transformation",
+          "Community restoration is integral to individual healing",
+          "Divine protocols demonstrate God's precise redemptive methodology"
+        ]
+      }
+    }
+  }
+}

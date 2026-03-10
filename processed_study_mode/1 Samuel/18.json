@@ -1,0 +1,117 @@
+{
+  "book": "1 Samuel",
+  "chapter": 18,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine two souls deeply connected in friendship, like Jonathan and David. Breathe in trust, breathe out loyalty.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you demonstrate genuine friendship without expectation of personal gain?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Offer unconditional support",
+            "response": "Proactively help a friend without seeking recognition"
+          },
+          {
+            "id": 2,
+            "text": "Practice selfless listening",
+            "response": "Give full attention without interrupting or judging"
+          },
+          {
+            "id": 3,
+            "text": "Share resources generously",
+            "response": "Give without expecting anything in return, like Jonathan giving David his robe and weapons"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing true friendship, showing two people connected by an invisible spiritual bond",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of friendship changed after reading this chapter?",
+        "options": [
+          "Friendship is about deep spiritual connection, not just surface-level interactions",
+          "True friendship involves sacrifice and loyalty",
+          "Genuine relationships transcend personal ambition or competition",
+          "Love can exist beyond family or romantic bonds"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dynamic of friendship most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Selfless Love (Jonathan's covenant with David)",
+            "expansion": "True friendship transcends personal gain and seeks the other's highest good."
+          },
+          {
+            "id": 2,
+            "text": "Navigating Complex Power Dynamics",
+            "expansion": "Relationships require wisdom when operating within hierarchical or potentially threatening environments."
+          },
+          {
+            "id": 3,
+            "text": "Loyalty Under Pressure",
+            "expansion": "Genuine connection endures even when external forces seek to divide or destroy."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might David's initial success provoke jealousy, and what does this reveal about human nature's deeper insecurities?"
+      },
+      "moral_slider": {
+        "question": "Where is the boundary between righteous ambition and potentially destructive competition?",
+        "left_label": "Personal Achievement",
+        "right_label": "Collective Harmony"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership and friendship evolved?",
+        "options": [
+          "I see more complexity in human motivations",
+          "Loyalty is more nuanced than I previously understood",
+          "Power can corrupt even well-intentioned relationships",
+          "True friendship requires extraordinary courage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant of Friendship",
+          "summary": "Jonathan and David demonstrate a profound spiritual bond that transcends familial and political relationships. Their covenant represents a divine model of unconditional love, loyalty, and sacrificial friendship.",
+          "cross_references": [
+            "Proverbs 18:24",
+            "John 15:13",
+            "Ecclesiastes 4:9-10",
+            "Ruth 1:16-17"
+          ]
+        },
+        {
+          "title": "Divine Favor and Human Jealousy",
+          "summary": "David's rising success reveals the tension between God's anointing and human insecurity. Saul's growing jealousy demonstrates how spiritual blindness can lead to destructive behavior against God's chosen vessels.",
+          "cross_references": [
+            "Psalm 105:15",
+            "Proverbs 27:4",
+            "James 3:16",
+            "Acts 13:22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine selection interact with human political dynamics?",
+        "options": [
+          "God's chosen individuals often face significant opposition",
+          "Political favor is not equivalent to spiritual legitimacy",
+          "Character development occurs through challenging relationships",
+          "Divine purpose transcends human understanding and control"
+        ]
+      }
+    }
+  }
+}

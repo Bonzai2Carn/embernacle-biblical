@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, remembering that God's strength overcomes your weaknesses",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you tend to attribute success to your own abilities instead of God's grace?",
+        "options": [
+          {
+            "id": "1",
+            "text": "I often take personal credit",
+            "response": "Practice humility and acknowledge God's role in your achievements"
+          },
+          {
+            "id": "2",
+            "text": "I struggle with pride",
+            "response": "Create a gratitude journal highlighting God's interventions"
+          },
+          {
+            "id": "3",
+            "text": "I want to grow in recognizing God's power",
+            "response": "Regularly pray for perspective and spiritual awareness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a giant obstacle that seems impossible, with God's hand helping you overcome it",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of personal achievement?",
+        "options": [
+          "I see my limitations more clearly",
+          "I recognize God's role in my successes",
+          "I understand grace better",
+          "I want to be more humble"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea stays with you from this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's sovereignty in conquest",
+            "expansion": "Divine power transcends human limitations and directly intervenes in historical events."
+          },
+          {
+            "id": 2,
+            "text": "Israel's unworthiness before God",
+            "expansion": "National blessing comes not through inherent merit but through divine grace and covenant."
+          },
+          {
+            "id": 3,
+            "text": "The danger of self-righteousness",
+            "expansion": "Human beings must remain humble, recognizing their persistent tendency toward rebellion."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's promise is certain, why must Israel still participate in the conquest?"
+      },
+      "moral_slider": {
+        "question": "How do divine election and human responsibility intersect?",
+        "left_label": "Predestination",
+        "right_label": "Free Will"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine intervention changed?",
+        "options": [
+          "More aware of God's active role in history",
+          "Recognize human weakness more clearly",
+          "See covenant relationship as dynamic",
+          "Understand grace beyond personal merit"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Conquest",
+          "summary": "God demonstrates His supreme power by enabling Israel to defeat stronger nations. The conquest is not based on Israel's righteousness, but on God's sovereign will and promise to their ancestors.",
+          "cross_references": [
+            "Joshua 23:9-10",
+            "Psalm 44:3",
+            "Romans 9:16",
+            "Ephesians 2:8-9"
+          ]
+        },
+        {
+          "title": "Israel's Perpetual Rebellion",
+          "summary": "Despite God's miraculous deliverance, Israel consistently demonstrates a pattern of disobedience and hardness of heart. Their history reveals human weakness and divine patience.",
+          "cross_references": [
+            "Exodus 32:9",
+            "Numbers 14:22-23",
+            "Acts 7:51",
+            "Hebrews 3:12-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's selection of Israel challenge traditional understandings of divine election and human merit?",
+        "options": [
+          "God chooses based on unconditional grace, not human worthiness",
+          "Israel's selection implies inherent spiritual superiority",
+          "Divine selection demonstrates God's redemptive strategy beyond individual merit",
+          "National election guarantees automatic spiritual blessing"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Judges",
+  "chapter": 17,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on a moment when you've hidden or rationalized a personal sin, then breathe and release it to God",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might you be secretly compromising your spiritual integrity?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Hiding personal sins from others",
+            "response": "Practice radical honesty with God and trusted spiritual mentor"
+          },
+          {
+            "id": 2,
+            "text": "Creating personal religious practices outside biblical guidance",
+            "response": "Return to scripture and seek biblical understanding"
+          },
+          {
+            "id": 3,
+            "text": "Mixing cultural practices with genuine worship",
+            "response": "Examine current spiritual practices for biblical alignment"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing personal compromise, showing a path that starts pure but gradually gets twisted",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of personal worship?",
+        "options": [
+          "Realized worship can be sincerely misguided",
+          "Understood personal interpretation isn't always correct",
+          "Recognized the danger of creating 'custom' spiritual practices",
+          "Saw how easily one can drift from authentic faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of family dynamics most resonates with you in this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Familial Confession and Restoration",
+            "expansion": "Micah's open acknowledgment of theft reveals complex emotional vulnerability within family relationships."
+          },
+          {
+            "id": 2,
+            "text": "Maternal Blessing After Transgression",
+            "expansion": "The mother's immediate blessing suggests unconditional love transcends moral judgment."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Ambiguity in Personal Vows",
+            "expansion": "The blurred lines between personal commitment and divine intention create profound theological tension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When personal guilt intersects with spiritual dedication, who truly determines the authenticity of redemption?"
+      },
+      "moral_slider": {
+        "question": "How do individual intentions align with communal spiritual expectations?",
+        "left_label": "Personal Interpretation",
+        "right_label": "Collective Religious Tradition"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of personal accountability?",
+        "options": [
+          "I see nuance in familial reconciliation",
+          "My view of spiritual vows has become more complex",
+          "I recognize the layered nature of personal morality",
+          "I understand interpersonal forgiveness differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Misguided Devotion",
+          "summary": "Micah demonstrates a distorted understanding of worship, mixing personal preferences with religious practice. His actions reveal a syncretistic approach to faith, blending cultural practices with partial obedience to God.",
+          "cross_references": [
+            "Deuteronomy 12:4-5",
+            "1 Samuel 15:22",
+            "Jeremiah 7:9-10",
+            "Matthew 15:9"
+          ]
+        },
+        {
+          "title": "Personal Morality vs. Divine Standards",
+          "summary": "The narrative exposes the spiritual chaos of Israel during this period, where individuals created their own religious standards instead of following God's prescribed worship. Personal interpretation of righteousness replaces covenant obedience.",
+          "cross_references": [
+            "Judges 21:25",
+            "Proverbs 14:12",
+            "Isaiah 5:20-21",
+            "Romans 1:21-22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What theological implications emerge from Micah's approach to worship?",
+        "options": [
+          "Individual interpretation can replace divine commandments",
+          "Personal sincerity is equivalent to true spiritual devotion",
+          "Unauthorized religious practices are acceptable if intentions seem pure",
+          "Systematic disobedience reveals deeper spiritual disconnection from God"
+        ]
+      }
+    }
+  }
+}

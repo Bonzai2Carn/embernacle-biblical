@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine the wilderness where John preached. Take deep breaths, picturing yourself preparing your heart for spiritual transformation.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I actively prepare my heart to receive God's message?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Daily Scripture reading",
+            "response": "Set aside 15 minutes each morning for Bible study and prayer"
+          },
+          {
+            "id": 2,
+            "text": "Confession and repentance",
+            "response": "Write down areas needing spiritual renewal and surrender them to God"
+          },
+          {
+            "id": 3,
+            "text": "Intentional listening",
+            "response": "Practice quiet meditation and attentiveness to God's voice"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of John the Baptist in the wilderness, showing how his message of preparation looks visually",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Mark 1 shifted your understanding of spiritual preparation?",
+        "options": [
+          "I now see preparation as a heart condition, not just an external action",
+          "I recognize the importance of humility in spiritual growth",
+          "I understand more deeply the role of repentance",
+          "I feel more connected to the early moments of Jesus' ministry"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual preparation speaks most profoundly to you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "John's wilderness proclamation",
+            "expansion": "Radical proclamation often emerges from places of isolation and spiritual clarity."
+          },
+          {
+            "id": 2,
+            "text": "Public confession of sins",
+            "expansion": "True transformation requires vulnerability and honest acknowledgment of personal brokenness."
+          },
+          {
+            "id": 3,
+            "text": "Preparing the way for divine encounter",
+            "expansion": "Spiritual readiness is an intentional posture of humility and anticipation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If preparing the way requires personal transformation, what inner landscapes must you first clear before encountering the divine?"
+      },
+      "moral_slider": {
+        "question": "How do personal repentance and divine grace intersect in spiritual growth?",
+        "left_label": "Individual Effort",
+        "right_label": "Divine Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual preparation evolved?",
+        "options": [
+          "More aware of personal spiritual barriers",
+          "Recognize the importance of humility",
+          "Understanding repentance as a continuous process",
+          "Seeing confession as liberating rather than shameful"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Preparation",
+          "summary": "God strategically prepares the way for Jesus through prophetic fulfillment and John the Baptist's ministry. This demonstrates God's intentional redemptive plan and meticulous orchestration of salvation's arrival.",
+          "cross_references": [
+            "Isaiah 40:3",
+            "Malachi 3:1",
+            "Luke 1:76-77",
+            "Matthew 3:1-3"
+          ]
+        },
+        {
+          "title": "Repentance and Redemption",
+          "summary": "John's baptism symbolizes spiritual cleansing and transformation, calling people to radical inner change before Christ's ministry. This represents the fundamental human need for spiritual renewal and reconciliation with God.",
+          "cross_references": [
+            "Acts 19:4",
+            "Luke 3:3",
+            "Romans 6:4",
+            "2 Corinthians 5:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine preparation intersect with human spiritual readiness in God's redemptive plan?",
+        "options": [
+          "God's sovereignty completely determines spiritual receptivity",
+          "Human free will plays a primary role in spiritual transformation",
+          "Divine preparation and human response are mutually collaborative",
+          "Spiritual readiness is predominantly an individual psychological process"
+        ]
+      }
+    }
+  }
+}

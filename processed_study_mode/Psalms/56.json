@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 56,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, visualizing God's protection when you feel surrounded by enemies or overwhelming challenges",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when you feel threatened or under pressure?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I panic and try to solve everything myself",
+            "response": "Practice immediately turning your concerns into prayers"
+          },
+          {
+            "id": 2,
+            "text": "I become defensive and confrontational",
+            "response": "Develop a habit of seeking God's perspective before reacting"
+          },
+          {
+            "id": 3,
+            "text": "I withdraw and become passive",
+            "response": "Learn to trust God's protection while taking wise, faith-filled action"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield surrounding you, with words of God's promises written on each section of the shield",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm shifted your understanding of facing challenges?",
+        "options": [
+          "I see challenges as opportunities for God's protection",
+          "I recognize my tendency to fear instead of trust",
+          "I understand that God sees my struggles",
+          "I feel more empowered to respond with faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core emotional experience resonates most from David's psalm?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Vulnerability in Persecution",
+            "expansion": "David acknowledges human fragility while trusting divine protection"
+          },
+          {
+            "id": 2,
+            "text": "Transformative Trust",
+            "expansion": "Personal weakness becomes a pathway to profound spiritual strength"
+          },
+          {
+            "id": 3,
+            "text": "Emotional Honesty with God",
+            "expansion": "Raw, unfiltered communication with the divine reveals authentic spiritual relationship"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might vulnerability be paradoxically interpreted as spiritual courage rather than weakness?"
+      },
+      "moral_slider": {
+        "question": "Where do human fear and divine protection intersect?",
+        "left_label": "Human Vulnerability",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience shifted?",
+        "options": [
+          "Recognizing struggle as part of faith journey",
+          "Understanding emotional transparency with God",
+          "Seeing challenges as opportunities for growth",
+          "Embracing uncertainty as a spiritual discipline"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Trust Amidst Persecution",
+          "summary": "David expresses deep vulnerability while facing enemies who constantly attack him. Despite overwhelming circumstances, he affirms unwavering trust in God's protection and ultimate deliverance.",
+          "cross_references": [
+            "1 Peter 5:7",
+            "Psalm 34:19",
+            "Romans 8:28",
+            "Isaiah 41:10"
+          ]
+        },
+        {
+          "title": "Divine Accountability",
+          "summary": "The Psalm reveals God's meticulous accounting of human suffering and persecution. David demonstrates confidence that God records every tear and tracks every moment of human struggle.",
+          "cross_references": [
+            "Revelation 20:12",
+            "Psalm 139:16",
+            "Matthew 10:30",
+            "Job 23:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering relate to God's sovereign purpose?",
+        "options": [
+          "Suffering is always a direct punishment for sin",
+          "Trials are opportunities for spiritual growth and testimony",
+          "God is distant and uninvolved in human pain",
+          "Persecution reveals the depth of one's faith commitment"
+        ]
+      }
+    }
+  }
+}

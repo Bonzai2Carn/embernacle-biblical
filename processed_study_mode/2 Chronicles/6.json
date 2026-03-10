@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and imagine God's presence filling this sacred space, just as Solomon envisioned God dwelling in the temple",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I create a space in my life that truly honors God's presence?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Dedicate a physical prayer corner in my home",
+            "response": "Set up a quiet area with Bible, journal, and meaningful spiritual symbols"
+          },
+          {
+            "id": 2,
+            "text": "Develop a consistent daily worship routine",
+            "response": "Create a morning or evening ritual of prayer and Scripture reading"
+          },
+          {
+            "id": 3,
+            "text": "Intentionally invite God's presence in daily decisions",
+            "response": "Pause and seek God's guidance before making significant choices"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a special place where you feel closest to God, inspired by Solomon's temple",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of worship and God's dwelling?",
+        "options": [
+          "I see worship as more than a physical location",
+          "God desires genuine heart connection",
+          "Prayer is a powerful way to invite God's presence",
+          "Spiritual spaces can be both external and internal"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's faithfulness to His promises",
+            "expansion": "Divine commitments transcend human limitations and generational timelines."
+          },
+          {
+            "id": 2,
+            "text": "The significance of sacred space",
+            "expansion": "Physical temples represent symbolic spaces where humanity encounters divine presence."
+          },
+          {
+            "id": 3,
+            "text": "Corporate spiritual leadership",
+            "expansion": "Leaders like Solomon carry collective spiritual responsibility for their community's relationship with God."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God does not dwell exclusively in temples, what truly constitutes a 'dwelling place' for the divine?"
+      },
+      "moral_slider": {
+        "question": "How do human intentions align with divine purposes?",
+        "left_label": "Human Limitation",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has this passage transformed your understanding of worship and divine relationship?",
+        "options": [
+          "Recognize divine presence beyond physical structures",
+          "Understand leadership as spiritual mediation",
+          "Appreciate covenant continuity across generations",
+          "Recognize prayer as relational communication"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Dwelling Place",
+          "summary": "Solomon acknowledges God's sovereign choice to dwell among His people through the temple. The temple represents a physical manifestation of God's covenant relationship with Israel, demonstrating His commitment to inhabit a space dedicated to worship and divine connection.",
+          "cross_references": [
+            "1 Kings 8:10-13",
+            "Exodus 25:8-9",
+            "Psalm 132:13-14",
+            "Acts 7:48-50"
+          ]
+        },
+        {
+          "title": "Covenant Faithfulness",
+          "summary": "Solomon celebrates God's unwavering faithfulness in fulfilling His promises to David and the Israelite people. The temple construction represents a tangible sign of God's commitment to His covenant, highlighting His reliability and long-term redemptive plan.",
+          "cross_references": [
+            "2 Samuel 7:12-16",
+            "Psalm 89:3-4",
+            "Isaiah 55:3",
+            "Luke 1:32-33"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the temple's theological significance transform our understanding of divine-human relationship?",
+        "options": [
+          "The temple represents a localized divine presence limited to physical space",
+          "God's presence transcends physical structures and resides in believers' hearts",
+          "The temple symbolizes a mediatorial system for approaching divine holiness",
+          "Worship spaces are primarily architectural expressions of human religious aspiration"
+        ]
+      }
+    }
+  }
+}

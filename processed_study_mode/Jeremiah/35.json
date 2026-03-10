@@ -1,0 +1,117 @@
+{
+  "book": "Jeremiah",
+  "chapter": 35,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine faithfully following a family tradition passed down through generations, just like the Rechabites",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How consistently do you honor the spiritual commitments of your family or mentors?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm fully committed to my family's spiritual legacy",
+            "response": "Continue honoring and sharing those traditions"
+          },
+          {
+            "id": 2,
+            "text": "I've drifted from my family's spiritual foundations",
+            "response": "Schedule time to reconnect and understand your roots"
+          },
+          {
+            "id": 3,
+            "text": "I'm uncertain about my spiritual inheritance",
+            "response": "Investigate your family's spiritual history"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing spiritual values and commitments passed through generations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual obedience?",
+        "options": [
+          "Obedience is more about consistent commitment than occasional actions",
+          "Family traditions can powerfully shape spiritual identity",
+          "God honors faithfulness, even in unexpected ways",
+          "Personal integrity matters more than social pressures"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of obedience stands out most powerfully?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Generational Commitment",
+            "expansion": "The Rechabites maintained ancestral instructions across generations, demonstrating profound familial loyalty."
+          },
+          {
+            "id": 2,
+            "text": "Spiritual Integrity",
+            "expansion": "Their unwavering commitment to their forefather's principles transcended cultural and temporal pressures."
+          },
+          {
+            "id": 3,
+            "text": "Divine Validation",
+            "expansion": "God uses their faithfulness as a prophetic contrast to Judah's disobedience."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do external commands become internalized convictions, and at what point does obedience transform from obligation to authentic identity?"
+      },
+      "moral_slider": {
+        "question": "What determines the legitimacy of traditional practices?",
+        "left_label": "Cultural Flexibility",
+        "right_label": "Principled Preservation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual inheritance shifted?",
+        "options": [
+          "Recognize deeper meanings of familial legacy",
+          "Appreciate nuanced forms of faithfulness",
+          "Understand obedience as a relational practice",
+          "See generational wisdom as potentially prophetic"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Obedience and Ancestral Commitment",
+          "summary": "The Rechabites demonstrate unwavering commitment to their ancestral instructions, refusing to compromise their familial traditions even under divine test. Their steadfast obedience serves as a powerful contrast to Judah's disobedience to God's commandments.",
+          "cross_references": [
+            "Hebrews 11:8",
+            "1 Corinthians 10:31",
+            "Ephesians 6:1-3",
+            "Proverbs 1:8"
+          ]
+        },
+        {
+          "title": "Divine Recognition of Faithfulness",
+          "summary": "God uses the Rechabites' loyalty as a prophetic illustration of authentic spiritual commitment, highlighting how genuine devotion transcends ritualistic religious practice. Their example becomes a profound teaching moment about true faithfulness.",
+          "cross_references": [
+            "James 2:17",
+            "Romans 2:28-29",
+            "1 Samuel 15:22",
+            "Matthew 7:21"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the Rechabite narrative challenge contemporary understanding of spiritual inheritance and commitment?",
+        "options": [
+          "Demonstrates that generational spiritual instructions can preserve cultural and religious identity",
+          "Reveals that external compliance matters more than internal transformation",
+          "Shows that absolute obedience to human traditions supersedes divine flexibility",
+          "Illustrates how principled consistency can be a prophetic testimony"
+        ]
+      }
+    }
+  }
+}

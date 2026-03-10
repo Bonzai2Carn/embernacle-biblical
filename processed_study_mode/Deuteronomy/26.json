@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 26,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine presenting your first harvest as a grateful offering to God, symbolizing trust and dependence",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I practice gratitude and recognition of God's provision in my daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Create a weekly gratitude journal",
+            "response": "Write down 3 specific ways God has provided or blessed you"
+          },
+          {
+            "id": 2,
+            "text": "Set aside a portion of income as a deliberate offering",
+            "response": "Donate to a charity or church ministry that serves others"
+          },
+          {
+            "id": 3,
+            "text": "Share my blessing story with someone",
+            "response": "Tell a friend or family member about God's faithfulness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a basket filled with your most treasured first fruits, representing what you're most grateful for",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on giving and gratitude?",
+        "options": [
+          "I see giving as an act of worship, not obligation",
+          "I recognize God's continuous provision more clearly",
+          "I feel more connected to my spiritual heritage",
+          "I want to be more intentional about acknowledging God's blessings"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of offering first fruits most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Acknowledging Divine Provision",
+            "expansion": "Recognizing God's sovereignty in providing land and harvest demonstrates profound spiritual humility."
+          },
+          {
+            "id": 2,
+            "text": "Communal Worship Ritual",
+            "expansion": "The prescribed offering creates a shared cultural and spiritual experience that binds community together."
+          },
+          {
+            "id": 3,
+            "text": "Gratitude as Spiritual Practice",
+            "expansion": "Intentionally presenting first fruits transforms economic transaction into a spiritual discipline of thanksgiving."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If giving represents a spiritual act of remembrance, what memories are you choosing to honor through your current practices?"
+      },
+      "moral_slider": {
+        "question": "How do personal economic interests balance with spiritual obligations?",
+        "left_label": "Individual Economic Security",
+        "right_label": "Spiritual Generosity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of offering and worship transformed?",
+        "options": [
+          "I see offering as more than a transaction",
+          "I recognize deeper communal connections",
+          "I understand spiritual practices as holistic",
+          "I appreciate ancestral spiritual wisdom more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "First Fruits Offering",
+          "summary": "A theological practice demonstrating gratitude and acknowledgment of God's provision. This ritual symbolizes recognizing divine sovereignty over agricultural blessings and establishing a covenant relationship through worship.",
+          "cross_references": [
+            "Exodus 23:19",
+            "Leviticus 23:10-14",
+            "Nehemiah 10:35-37",
+            "Proverbs 3:9-10"
+          ]
+        },
+        {
+          "title": "Covenant Remembrance",
+          "summary": "The chapter emphasizes Israel's historical narrative of redemption and God's faithfulness. By reciting their ancestral journey, they reinforce their identity as a chosen people and recommit to their theological covenant.",
+          "cross_references": [
+            "Joshua 24:2-13",
+            "Psalms 105:8-11",
+            "Acts 7:2-4",
+            "Galatians 3:16-18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the first fruits offering represent theological principles of stewardship and gratitude?",
+        "options": [
+          "Acknowledging God as ultimate provider",
+          "Demonstrating trust through sacrificial giving",
+          "Connecting personal prosperity to divine covenant",
+          "Practicing communal worship through material offering"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Numbers",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine standing boldly before leadership to advocate for justice, like Zelophehad's daughters did",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I courageously speak up for fairness and inclusion in my community?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Speak up in a meeting or group setting",
+            "response": "Prepare thoughtful, respectful remarks that highlight an overlooked perspective"
+          },
+          {
+            "id": "b",
+            "text": "Address systemic inequity",
+            "response": "Research and propose constructive solutions that create more balanced opportunities"
+          },
+          {
+            "id": "c",
+            "text": "Support marginalized voices",
+            "response": "Actively listen and amplify perspectives that are typically unheard"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of five sisters standing confidently together, representing courage and unity",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of advocacy and justice?",
+        "options": [
+          "Leadership should listen to all voices",
+          "Women can be powerful change agents",
+          "Fairness requires actively challenging existing systems",
+          "Personal courage can transform community practices"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound theme resonates most with you in this narrative of inheritance?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Female Agency in Patriarchal Society",
+            "expansion": "The daughters challenge systemic gender limitations by advocating for their familial inheritance rights."
+          },
+          {
+            "id": 2,
+            "text": "Justice Beyond Traditional Structures",
+            "expansion": "Moses seeks divine guidance to resolve a complex legal and social dilemma not previously addressed in existing laws."
+          },
+          {
+            "id": 3,
+            "text": "Generational Continuity and Legacy",
+            "expansion": "The daughters ensure their father's name and lineage will not be forgotten, despite his having no sons."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do societal norms become transformed when marginalized voices persistently speak truth to power?"
+      },
+      "moral_slider": {
+        "question": "To what extent should established legal frameworks be adaptable to emerging social realities?",
+        "left_label": "Rigid Tradition",
+        "right_label": "Dynamic Interpretation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of inheritance and legacy shifted after reflecting on this narrative?",
+        "options": [
+          "I recognize the importance of challenging unjust systems",
+          "I see how divine guidance can resolve complex social challenges",
+          "I understand the power of collective advocacy",
+          "I appreciate the significance of preserving familial memory"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Gender Equality",
+          "summary": "The daughters of Zelophehad challenge traditional inheritance laws by advocating for women's property rights. Their petition demonstrates God's concern for fairness and individual dignity beyond cultural norms.",
+          "cross_references": [
+            "Galatians 3:28",
+            "1 Peter 3:7",
+            "Exodus 21:15-17",
+            "Romans 2:11"
+          ]
+        },
+        {
+          "title": "Leadership Succession and Divine Guidance",
+          "summary": "Moses seeks divine guidance for leadership transition, highlighting the importance of seeking God's will in organizational and spiritual succession. God directly instructs Moses about Joshua's appointment as the next leader.",
+          "cross_references": [
+            "Acts 1:24-26",
+            "1 Timothy 4:14",
+            "2 Timothy 2:2",
+            "Proverbs 3:5-6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this chapter challenge traditional patriarchal inheritance systems?",
+        "options": [
+          "Divine justice transcends cultural gender limitations",
+          "Women's voices and rights are significant in God's economy",
+          "Spiritual inheritance is more important than material inheritance",
+          "God values individual merit over generational status"
+        ]
+      }
+    }
+  }
+}

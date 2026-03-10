@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God offering you wisdom. What area of your life needs divine guidance right now?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently seek wisdom in your decision-making?",
+        "options": [
+          {
+            "id": "1",
+            "text": "Mostly rely on personal experience",
+            "response": "Consider prayer and seeking godly counsel more actively"
+          },
+          {
+            "id": "2",
+            "text": "Consult multiple trusted sources",
+            "response": "Practice humility by prioritizing God's perspective over your own"
+          },
+          {
+            "id": "3",
+            "text": "Rarely seek advice before making choices",
+            "response": "Develop a habit of pausing and asking God for supernatural wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of two people disagreeing, and imagine how Solomon might wisely resolve their conflict",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter challenged your understanding of wisdom?",
+        "options": [
+          "Wisdom comes from humble dependence on God",
+          "True wisdom involves compassion and understanding",
+          "Wisdom is more valuable than wealth or power",
+          "Wisdom requires listening before speaking"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea most resonates with your understanding of leadership?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Solomon's diplomatic marriage with Egypt",
+            "expansion": "Political alliances can be strategic pathways to peace and national stability."
+          },
+          {
+            "id": 2,
+            "text": "Solomon's love for God despite imperfect worship practices",
+            "expansion": "Devotion can coexist with human imperfection and evolving spiritual understanding."
+          },
+          {
+            "id": 3,
+            "text": "Building infrastructure before religious institutions",
+            "expansion": "Practical governance and spiritual development can occur simultaneously but with different priorities."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal compromise in one area of spiritual life subtly erode deeper commitments?"
+      },
+      "moral_slider": {
+        "question": "How do cultural adaptations interact with spiritual authenticity?",
+        "left_label": "Cultural Compromise",
+        "right_label": "Spiritual Purity"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on leadership and faithfulness shifted?",
+        "options": [
+          "More understanding of human complexity",
+          "Recognize nuanced paths of spiritual growth",
+          "Appreciate strategic long-term vision",
+          "Recognize imperfection as part of spiritual journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Wisdom and Leadership",
+          "summary": "Solomon demonstrates humility by acknowledging his inexperience as a young ruler and seeking divine wisdom to govern effectively. His request for understanding reveals his genuine desire to lead righteously and serve God's people.",
+          "cross_references": [
+            "Proverbs 9:10",
+            "James 1:5",
+            "2 Chronicles 1:10",
+            "Colossians 2:3"
+          ]
+        },
+        {
+          "title": "God's Conditional Blessing",
+          "summary": "God responds to Solomon's humble request by not only granting wisdom but also offering additional blessings of wealth and honor. The divine response demonstrates God's willingness to generously reward sincere, selfless devotion.",
+          "cross_references": [
+            "Matthew 6:33",
+            "Jeremiah 29:11",
+            "James 4:10",
+            "Proverbs 22:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Solomon's approach to leadership reflect spiritual maturity?",
+        "options": [
+          "Recognizing personal limitations",
+          "Prioritizing collective welfare over personal gain",
+          "Seeking divine guidance proactively",
+          "Understanding leadership as a sacred responsibility"
+        ]
+      }
+    }
+  }
+}

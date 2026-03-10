@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take three deep breaths and reflect on God's abundant care, remembering that you are more valuable to Him than sparrows",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I managing anxiety about material possessions versus trusting God's provision?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm overly worried about finances",
+            "response": "Create a simple budget that includes intentional giving and trust"
+          },
+          {
+            "id": 2,
+            "text": "I'm indifferent to material needs",
+            "response": "Develop a responsible financial stewardship plan"
+          },
+          {
+            "id": 3,
+            "text": "I'm seeking balance between responsibility and faith",
+            "response": "Pray daily for wisdom in financial management"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself being 'rich toward God' - what does that look like in your life?",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of true wealth?",
+        "options": [
+          "Material possessions are less important than spiritual growth",
+          "God's perspective on resources is radically different from the world's",
+          "Anxiety about the future prevents living fully in God's present care",
+          "Being a faithful steward matters more than accumulating wealth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which transformative insight resonates most from Luke 12?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Providence in Daily Life",
+            "expansion": "Trust transcends material anxieties and reveals deeper spiritual dependence."
+          },
+          {
+            "id": 2,
+            "text": "Radical Transparency of Inner Character",
+            "expansion": "Our hidden motivations will ultimately be revealed, challenging surface-level religiosity."
+          },
+          {
+            "id": 3,
+            "text": "Preparedness for Divine Encounter",
+            "expansion": "Spiritual alertness requires constant readiness and faithful stewardship."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God knows every detail of your life, how does this transform your understanding of personal autonomy and divine sovereignty?"
+      },
+      "moral_slider": {
+        "question": "How do personal anxiety and divine trust intersect in your spiritual journey?",
+        "left_label": "Human Worry",
+        "right_label": "Divine Confidence"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual priorities shifted after reflecting on Luke 12?",
+        "options": [
+          "Increased awareness of spiritual depth",
+          "Reduced attachment to material concerns",
+          "Greater sense of personal accountability",
+          "Deeper trust in divine provision"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence and Personal Worth",
+          "summary": "God's profound care and attention extends to every individual, demonstrating that humans have immeasurable value in His sight. The chapter emphasizes that God knows and values each person intimately, even numbering the hairs on their head.",
+          "cross_references": [
+            "Matthew 10:30-31",
+            "1 Peter 5:7",
+            "Psalm 139:13-16",
+            "Ephesians 2:10"
+          ]
+        },
+        {
+          "title": "Spiritual Preparedness and Stewardship",
+          "summary": "Believers are called to live with constant spiritual alertness and faithful stewardship, understanding that accountability to God is inevitable. The chapter underscores the importance of being ready for Christ's return and managing divine resources responsibly.",
+          "cross_references": [
+            "Matthew 24:42-44",
+            "1 Corinthians 4:2",
+            "2 Peter 3:10",
+            "Revelation 22:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty intersect with human responsibility in spiritual preparedness?",
+        "options": [
+          "God's grace completely determines spiritual readiness",
+          "Human choices and spiritual discipline are primary factors",
+          "A collaborative partnership between divine guidance and human response",
+          "Spiritual preparedness is fundamentally unpredictable"
+        ]
+      }
+    }
+  }
+}

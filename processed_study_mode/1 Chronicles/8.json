@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on your family lineage - consider how each generation carries both challenges and potential for growth",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do the detailed genealogies in this chapter speak to the importance of personal and spiritual heritage?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize my family's spiritual history",
+            "response": "Create a family prayer journal documenting spiritual milestones"
+          },
+          {
+            "id": 2,
+            "text": "Learn from past generations' experiences",
+            "response": "Interview an elder about family spiritual traditions"
+          },
+          {
+            "id": 3,
+            "text": "Break negative generational patterns",
+            "response": "Commit to intentional spiritual growth different from past generations"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree that includes both biological and spiritual 'ancestors' who influenced your faith journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogical chapter changed your perspective on personal history?",
+        "options": [
+          "I now see family history as more meaningful",
+          "I recognize the importance of spiritual inheritance",
+          "I want to learn more about my ancestors",
+          "I understand my identity is part of a larger story"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What stands out in this genealogical record?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Detailed Family Lineage",
+            "expansion": "Genealogies reveal the importance of historical memory and connection to ancestral roots."
+          },
+          {
+            "id": 2,
+            "text": "Tribal Identity of Benjamin",
+            "expansion": "The meticulous tracking of Benjamin's descendants highlights the tribe's significance in Israelite history."
+          },
+          {
+            "id": 3,
+            "text": "Individual Names and Stories",
+            "expansion": "Each name represents a human story of survival, legacy, and potential divine purpose."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do these seemingly mundane genealogical records speak to the deeper human desire for meaning and continuity?"
+      },
+      "moral_slider": {
+        "question": "How much value should we place on ancestral heritage versus individual identity?",
+        "left_label": "Individual Identity",
+        "right_label": "Ancestral Heritage"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on biblical genealogies shifted?",
+        "options": [
+          "More appreciative of historical complexity",
+          "Recognize spiritual significance beyond names",
+          "See human stories within historical records",
+          "Understand importance of cultural memory"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Genealogical Significance of Benjamite Lineage",
+          "summary": "This chapter meticulously traces the genealogical descent of the Benjamite tribe, emphasizing the importance of ancestral records in understanding Israel's tribal structure. The detailed genealogy demonstrates God's covenant faithfulness in preserving tribal identities and heritage.",
+          "cross_references": [
+            "Genesis 49:27",
+            "Judges 20:15-16",
+            "1 Samuel 9:1-2",
+            "Romans 11:1"
+          ]
+        },
+        {
+          "title": "Divine Providence in Family Lineage",
+          "summary": "The intricate recording of Benjamin's descendants reveals God's sovereign plan in preserving specific family lines and individual stories within the broader narrative of Israel's history. Each genealogical detail reflects divine intentionality in national and spiritual development.",
+          "cross_references": [
+            "Matthew 1:1-17",
+            "Luke 3:23-38",
+            "Galatians 3:29",
+            "Hebrews 7:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do genealogical records contribute to understanding theological narratives of covenant and inheritance?",
+        "options": [
+          "Demonstrate God's faithfulness across generations",
+          "Validate historical continuity of divine promises",
+          "Highlight individual significance within collective identity",
+          "Provide prophetic insight into messianic lineage"
+        ]
+      }
+    }
+  }
+}

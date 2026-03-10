@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 67,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and envision God's blessing spreading like light across all nations, softly repeating 'May God be gracious to us and bless us'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I actively participate in sharing God's goodness with others beyond my immediate community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Support global missions",
+            "response": "Research and contribute to a missionary organization"
+          },
+          {
+            "id": 2,
+            "text": "Pray for international communities",
+            "response": "Create a prayer list for different nations and peoples"
+          },
+          {
+            "id": 3,
+            "text": "Share personal testimony",
+            "response": "Look for opportunities to share how God has worked in your life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a world map and place small rays of light or colorful dots representing how God's love and praise can spread to every nation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your perspective on God's global purpose?",
+        "options": [
+          "God cares for all nations, not just my community",
+          "Praise and blessing are meant to be shared universally",
+          "My personal blessing is connected to God's larger plan",
+          "Witnessing to others is a natural expression of God's love"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine perspective resonates most strongly in this Psalm?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Universal Praise",
+            "expansion": "God's salvation is intended for all nations, not just Israel."
+          },
+          {
+            "id": 2,
+            "text": "Divine Blessing",
+            "expansion": "God's favor can transform entire communities through spiritual abundance."
+          },
+          {
+            "id": 3,
+            "text": "Global Worship",
+            "expansion": "Humanity's ultimate purpose is to recognize and celebrate divine sovereignty."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's mercy is truly universal, how might that challenge our tribal or exclusive religious perspectives?"
+      },
+      "moral_slider": {
+        "question": "How do divine blessing and human responsibility intersect?",
+        "left_label": "Divine Sovereignty",
+        "right_label": "Human Agency"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine purpose shifted?",
+        "options": [
+          "More global perspective",
+          "Deeper appreciation of spiritual inclusivity",
+          "Recognition of universal divine love",
+          "Challenging previous exclusionary beliefs"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Universal Blessing",
+          "summary": "Psalm 67 emphasizes God's desire for universal salvation and blessing beyond Israel. The psalm portrays divine grace as an expansive, inclusive gift meant for all nations and peoples.",
+          "cross_references": [
+            "Genesis 12:3",
+            "Isaiah 49:6",
+            "Romans 15:9-12",
+            "Revelation 7:9-10"
+          ]
+        },
+        {
+          "title": "Global Worship and Praise",
+          "summary": "The psalm calls for all nations to recognize and praise God, presenting a vision of global worship where diverse peoples acknowledge divine sovereignty. It highlights the missional mandate of praising God's redemptive work.",
+          "cross_references": [
+            "Psalm 86:9",
+            "Matthew 28:19-20",
+            "Philippians 2:10-11",
+            "Revelation 15:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 67 challenge traditional understandings of divine election and global salvation?",
+        "options": [
+          "God's blessing is universally available, not exclusively for one people group",
+          "Divine election includes redemptive purpose for all nations",
+          "Worship transcends ethnic and cultural boundaries",
+          "Salvation is fundamentally a missional and inclusive divine initiative"
+        ]
+      }
+    }
+  }
+}

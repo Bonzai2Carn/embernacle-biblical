@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine wisdom flowing like a river, connecting knowledge and understanding. Breathe deeply and invite divine insight.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you pursue wisdom with the same intentionality as the Queen of Sheba?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Study Scripture more consistently",
+            "response": "Set a daily Bible reading schedule"
+          },
+          {
+            "id": 2,
+            "text": "Seek counsel from wise mentors",
+            "response": "Identify and schedule a monthly meeting with a spiritual advisor"
+          },
+          {
+            "id": 3,
+            "text": "Develop a learning mindset",
+            "response": "Keep a journal of insights and questions from daily experiences"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing the journey of the Queen of Sheba, including the gifts she brought and the wisdom she discovered",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of wisdom?",
+        "options": [
+          "Wisdom is a journey, not a destination",
+          "True wisdom comes from humility and curiosity",
+          "Wisdom can be recognized and celebrated across cultures",
+          "Divine wisdom surpasses human knowledge"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of wisdom intrigues you most?",
+        "choices": [
+          {
+            "id": "diplomatic",
+            "text": "Diplomatic Wisdom",
+            "expansion": "Solomon demonstrates wisdom through complex international relationships and intellectual exchange."
+          },
+          {
+            "id": "spiritual",
+            "text": "Spiritual Recognition",
+            "expansion": "The Queen of Sheba recognizes Solomon's wisdom as fundamentally connected to God's blessing."
+          },
+          {
+            "id": "material",
+            "text": "Material Manifestation of Wisdom",
+            "expansion": "Wisdom is reflected not just in words, but in Solomon's extraordinary wealth and infrastructure."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When external validation meets internal truth, which ultimately defines wisdom's authenticity?"
+      },
+      "moral_slider": {
+        "question": "How does divine wisdom balance with human achievement?",
+        "left_label": "Human Capability",
+        "right_label": "Divine Inspiration"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of wisdom evolved?",
+        "options": [
+          "More relational than intellectual",
+          "Deeply connected to spiritual insight",
+          "Demonstrated through complex problem-solving",
+          "Manifested through material and cultural abundance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Wisdom and Sovereignty",
+          "summary": "Solomon's extraordinary wisdom demonstrates God's supernatural ability to grant understanding beyond human capability. His wisdom serves as a manifestation of divine blessing and God's commitment to honoring faithful leadership.",
+          "cross_references": [
+            "Proverbs 2:6",
+            "James 1:5",
+            "Colossians 2:3",
+            "2 Chronicles 1:10-12"
+          ]
+        },
+        {
+          "title": "International Recognition of God's Chosen Kingdom",
+          "summary": "The Queen of Sheba's journey symbolizes how God's reputation transcends national boundaries. Her recognition of Solomon's wisdom and wealth represents divine validation of Israel's spiritual and cultural prominence.",
+          "cross_references": [
+            "Matthew 12:42",
+            "Isaiah 49:6",
+            "Acts 13:47",
+            "Psalm 86:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Solomon's wisdom reveal deeper theological perspectives about divine gifting and leadership?",
+        "options": [
+          "Wisdom is primarily a divine endowment, not merely human achievement",
+          "Leadership effectiveness stems from spiritual alignment, not personal capability",
+          "God strategically positions His chosen leaders to demonstrate supernatural understanding",
+          "Spiritual gifts are meant to glorify God and draw nations toward His redemptive plan"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on how unity can overcome differences in belief. Imagine diverse believers finding common ground through grace and understanding.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when fellow believers disagree on theological interpretations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Argue forcefully for my position",
+            "response": "Practice active listening and seek to understand before being understood"
+          },
+          {
+            "id": 2,
+            "text": "Avoid conflict altogether",
+            "response": "Engage respectfully, focusing on core Christian unity"
+          },
+          {
+            "id": 3,
+            "text": "Seek wise counsel from spiritual leaders",
+            "response": "Schedule a meeting with church mentors to discuss the disagreement constructively"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two different types of people, symbolizing how the early church resolved cultural differences",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of Christian community?",
+        "options": [
+          "I see the importance of grace over rigid rules",
+          "Unity matters more than cultural differences",
+          "Leadership should listen to diverse perspectives",
+          "Conflict can lead to deeper understanding when handled with love"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological perspective resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Grace transcends cultural boundaries",
+            "expansion": "God's salvation is not confined by human traditions or ethnic distinctions."
+          },
+          {
+            "id": 2,
+            "text": "Unity requires compassionate dialogue",
+            "expansion": "Complex theological disputes can be resolved through patient, respectful conversation."
+          },
+          {
+            "id": 3,
+            "text": "Missional inclusion challenges religious exclusivity",
+            "expansion": "The early church wrestled with expanding God's redemptive narrative beyond traditional expectations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal religious traditions potentially prevent others from experiencing divine grace?"
+      },
+      "moral_slider": {
+        "question": "How do religious traditions balance between preservation and transformation?",
+        "left_label": "Rigid Tradition",
+        "right_label": "Open Adaptation"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual inclusion?",
+        "options": [
+          "I see God's work beyond my cultural boundaries",
+          "I recognize the complexity of theological interpretation",
+          "I appreciate the role of communal discernment",
+          "I understand grace as more expansive than previously thought"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Gentile Inclusion in Christian Faith",
+          "summary": "The Jerusalem Council represents a pivotal moment in Christian theology, addressing the critical question of Gentile conversion and membership in the faith community. It demonstrates God's universal plan of salvation that transcends cultural and ethnic boundaries.",
+          "cross_references": [
+            "Galatians 3:28",
+            "Romans 10:12-13",
+            "Ephesians 2:14-16",
+            "Colossians 3:11"
+          ]
+        },
+        {
+          "title": "Grace versus Legalism",
+          "summary": "This chapter highlights the theological tension between salvation by faith and adherence to Mosaic law. The council decisively affirms that salvation is through Christ's grace, not through ritual observances or cultural practices.",
+          "cross_references": [
+            "Ephesians 2:8-9",
+            "Romans 3:20-24",
+            "Galatians 2:16",
+            "Titus 3:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Acts 15 challenge traditional religious boundaries in understanding salvation?",
+        "options": [
+          "Salvation is exclusively through adherence to Jewish cultural practices",
+          "Salvation is a universal gift accessible to all people regardless of ethnic background",
+          "Gentile converts must fully adopt Jewish religious customs",
+          "Christ's redemptive work transcends cultural and legal frameworks"
+        ]
+      }
+    }
+  }
+}

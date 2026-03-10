@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 44,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Quietly reflect on moments when you've felt God seems distant during challenging times",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when it feels like God is silent during personal struggles?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become angry and question God's faithfulness",
+            "response": "Practice lament prayer, honestly expressing your feelings to God"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw and become spiritually passive",
+            "response": "Intentionally read Scripture and remember God's past faithfulness"
+          },
+          {
+            "id": 3,
+            "text": "Seek community support and prayer",
+            "response": "Connect with trusted spiritual friends who can provide encouragement"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a time when you felt overwhelmed but still trusted God's unseen plan",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm shifted your understanding of spiritual struggle?",
+        "options": [
+          "I now see lament as a valid form of prayer",
+          "I understand that suffering doesn't mean God has abandoned me",
+          "I recognize the importance of remembering God's historical faithfulness",
+          "I'm more comfortable expressing raw emotions to God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional layer of suffering resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Undeserved Suffering",
+            "expansion": "The psalmist wrestles with experiencing divine rejection despite faithfulness."
+          },
+          {
+            "id": 2,
+            "text": "Communal Lament",
+            "expansion": "The poem expresses collective national pain and spiritual disorientation."
+          },
+          {
+            "id": 3,
+            "text": "Theological Wrestle",
+            "expansion": "There's a profound questioning of God's apparent abandonment during national crisis."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If faithfulness does not guarantee divine protection, what truly defines the relationship between humans and God?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine sovereignty with human suffering?",
+        "left_label": "Random Chaos",
+        "right_label": "Purposeful Design"
+      },
+      "reevaluation": {
+        "question": "How might this psalm challenge your understanding of faith?",
+        "options": [
+          "Faith is not about guaranteed outcomes",
+          "Suffering can coexist with devotion",
+          "Honest questioning is a form of spiritual integrity",
+          "Divine silence is part of spiritual journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "National Lament and Historical Remembrance",
+          "summary": "The psalm reflects Israel's collective memory of divine deliverance in past generations. It emphasizes God's historical interventions and the nation's dependence on divine favor rather than military might.",
+          "cross_references": [
+            "Exodus 15:1-18",
+            "Deuteronomy 7:6-8",
+            "Joshua 24:11-13",
+            "Judges 2:10-23"
+          ]
+        },
+        {
+          "title": "Suffering and Divine Sovereignty",
+          "summary": "The psalm wrestles with the theological tension between God's covenant promises and the current experience of national suffering. It presents a raw, honest dialogue about seemingly undeserved divine abandonment.",
+          "cross_references": [
+            "Job 23:1-17",
+            "Lamentations 3:1-33",
+            "Isaiah 49:14-16",
+            "Romans 8:35-39"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand divine silence and apparent abandonment during periods of collective suffering?",
+        "options": [
+          "God's silence is a test of faith and spiritual resilience",
+          "Suffering does not negate God's ultimate covenant faithfulness",
+          "Theological interpretations must balance historical remembrance with present experience",
+          "Lament is a legitimate and biblical form of spiritual communication"
+        ]
+      }
+    }
+  }
+}

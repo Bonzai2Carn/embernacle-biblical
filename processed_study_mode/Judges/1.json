@@ -1,0 +1,117 @@
+{
+  "book": "Judges",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine stepping into a challenging situation with confidence, knowing God is guiding your steps",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when facing seemingly insurmountable challenges in my life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Rely solely on my own strength",
+            "response": "Pause and seek God's guidance through prayer"
+          },
+          {
+            "id": 2,
+            "text": "Give up immediately",
+            "response": "Break challenges into smaller, manageable steps with faith"
+          },
+          {
+            "id": 3,
+            "text": "Collaborate with trusted allies",
+            "response": "Seek wise counsel and partnership in overcoming obstacles"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing a difficult journey where God's guidance leads you through unexpected paths",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of spiritual battles?",
+        "options": [
+          "I see challenges as opportunities for God's intervention",
+          "Spiritual growth requires persistent effort",
+          "Teamwork and unity are crucial in facing opposition",
+          "God's promises are fulfilled through obedient action"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which leadership dynamic intrigues you most in this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Tribal Collaboration",
+            "expansion": "Judah and Simeon demonstrate cooperative strategy in territorial conquest."
+          },
+          {
+            "id": 2,
+            "text": "Divine Guidance",
+            "expansion": "God explicitly designates Judah as the lead tribe in confronting the Canaanites."
+          },
+          {
+            "id": 3,
+            "text": "Covenant Execution",
+            "expansion": "The Israelites are actively fulfilling God's promised land distribution."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does cooperative tribal action reveal deeper spiritual interdependence beyond mere military strategy?"
+      },
+      "moral_slider": {
+        "question": "To what extent should divine mandate override human compassion in territorial conflicts?",
+        "left_label": "Human Mercy",
+        "right_label": "Divine Command"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical conquest evolved?",
+        "options": [
+          "More nuanced about historical context",
+          "Recognize complexity of divine instructions",
+          "Appreciate collective tribal responsibility",
+          "See spiritual metaphors beyond literal interpretation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Obedience",
+          "summary": "Israel seeks divine guidance for territorial conquest after Joshua's death. The narrative demonstrates God's continued leadership and covenant faithfulness through tribal cooperation and strategic warfare.",
+          "cross_references": [
+            "Deuteronomy 7:1-2",
+            "Joshua 23:4-5",
+            "Exodus 23:31-33",
+            "Numbers 33:50-56"
+          ]
+        },
+        {
+          "title": "Partial Obedience and Consequences",
+          "summary": "The tribes of Israel do not completely drive out all Canaanite inhabitants as commanded, revealing a pattern of incomplete spiritual compliance. This partial obedience sets the stage for future spiritual compromise and idolatry.",
+          "cross_references": [
+            "Joshua 15:63",
+            "Judges 2:1-3",
+            "Deuteronomy 7:16",
+            "Psalm 106:34-36"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What theological implications emerge from Israel's incomplete conquest of Canaan?",
+        "options": [
+          "Divine judgment is contingent upon full obedience",
+          "Human weakness can compromise God's ultimate redemptive plans",
+          "Incremental spiritual transformation is part of God's long-term strategy",
+          "Covenant faithfulness requires persistent, comprehensive commitment"
+        ]
+      }
+    }
+  }
+}

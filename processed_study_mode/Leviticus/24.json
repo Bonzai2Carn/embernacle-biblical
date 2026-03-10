@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 24,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine the pure olive oil burning steadily in the lampstand, representing continuous devotion to God",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I maintain a consistent spiritual discipline, like the continually burning lamp?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Create a daily prayer routine",
+            "response": "Set a specific time each day for dedicated prayer and reflection"
+          },
+          {
+            "id": 2,
+            "text": "Develop a Scripture reading habit",
+            "response": "Choose a consistent time and place to read Scripture daily"
+          },
+          {
+            "id": 3,
+            "text": "Practice intentional worship",
+            "response": "Incorporate worship music or meditation into your daily schedule"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a lamp that represents your spiritual commitment, with each part of the lamp symbolizing an aspect of your faith journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual consistency?",
+        "options": [
+          "I see the importance of daily spiritual disciplines",
+          "I recognize the value of intentional worship",
+          "I understand God desires steady, not sporadic, devotion",
+          "I'm inspired to be more consistent in my faith practice"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which ritual detail speaks most deeply to spiritual discipline?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Continual lampstand maintenance",
+            "expansion": "Consistent spiritual attentiveness requires daily, intentional care"
+          },
+          {
+            "id": 2,
+            "text": "Pure olive oil symbolism",
+            "expansion": "Spiritual purity demands carefully selected, refined resources"
+          },
+          {
+            "id": 3,
+            "text": "Precise tabernacle protocols",
+            "expansion": "Divine relationship thrives on reverent, structured approach"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If ritual precision reveals divine character, what does inconsistent worship reveal about our inner spiritual landscape?"
+      },
+      "moral_slider": {
+        "question": "How do sacred boundaries protect community versus potentially restrict spiritual expression?",
+        "left_label": "Individual Freedom",
+        "right_label": "Communal Holiness"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship transformed?",
+        "options": [
+          "More appreciative of intentional spiritual practice",
+          "Recognize deeper symbolic meanings in ritual",
+          "Understand divine desire for relational order",
+          "See spiritual discipline as sacred invitation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Order and Ritual Purity",
+          "summary": "This chapter emphasizes God's precise instructions for maintaining the tabernacle's sacred space and spiritual illumination. The meticulous details about oil, lamps, and worship demonstrate God's desire for intentional, structured communion with His people.",
+          "cross_references": [
+            "Exodus 27:20-21",
+            "Numbers 8:1-4",
+            "Revelation 1:12-13",
+            "Hebrews 9:2"
+          ]
+        },
+        {
+          "title": "Divine Justice and Blasphemy",
+          "summary": "The narrative highlights God's absolute standards of holiness and the severe consequences of disrespecting His name. The punishment for blasphemy underscores the gravity of spiritual accountability and the sanctity of divine revelation.",
+          "cross_references": [
+            "Deuteronomy 5:11",
+            "Matthew 12:31-32",
+            "Acts 13:45-46",
+            "James 3:9-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should modern believers interpret divine justice and holiness standards?",
+        "options": [
+          "Literal application of ancient legal principles",
+          "Metaphorical understanding emphasizing spiritual transformation",
+          "Contextual interpretation considering cultural and historical nuances",
+          "Grace-centered approach prioritizing redemption over punishment"
+        ]
+      }
+    }
+  }
+}

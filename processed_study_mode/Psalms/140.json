@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 140,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God's protective shield around you, blocking harmful words and evil intentions",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when facing people who speak maliciously against you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I retaliate immediately",
+            "response": "Practice restraint and pray for wisdom instead of responding impulsively"
+          },
+          {
+            "id": 2,
+            "text": "I withdraw and avoid conflict",
+            "response": "Learn to set healthy boundaries while maintaining a spirit of grace"
+          },
+          {
+            "id": 3,
+            "text": "I seek revenge",
+            "response": "Trust God's justice and focus on personal peace and integrity"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with Bible verses that protect you from negative words or attitudes",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your perspective on handling difficult people?",
+        "options": [
+          "I see the importance of prayer in challenging relationships",
+          "I understand God's role in protecting me from harm",
+          "I recognize my need to trust God's justice over my own reactions",
+          "I feel more empowered to respond with wisdom instead of emotion"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core spiritual theme resonates most deeply in this Psalm?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Divine Protection from Evil",
+            "expansion": "The Psalmist seeks God's intervention against malicious enemies who plot harm."
+          },
+          {
+            "id": "2",
+            "text": "Spiritual Warfare",
+            "expansion": "The prayer reveals an understanding of unseen conflicts beyond physical confrontations."
+          },
+          {
+            "id": "3",
+            "text": "Trust in Divine Justice",
+            "expansion": "The Psalm demonstrates radical faith that God will ultimately vindicate the righteous."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do you discern between legitimate self-defense and vengeful retaliation when confronted by those who wish you harm?"
+      },
+      "moral_slider": {
+        "question": "To what extent should one rely on divine intervention versus personal action when facing persecution?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Intervention"
+      },
+      "reevaluation": {
+        "question": "How might your perspective on conflict resolution have shifted after studying this Psalm?",
+        "options": [
+          "More patient with adversaries",
+          "Greater trust in spiritual protection",
+          "Understanding of inner spiritual battles",
+          "Recognizing complexity of human motivations"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection Against Evil",
+          "summary": "David seeks divine intervention against malicious and violent enemies who plot against him. The psalm emphasizes God's role as a refuge and protector for the righteous in times of persecution and threat.",
+          "cross_references": [
+            "Psalm 18:48",
+            "Romans 12:19",
+            "2 Thessalonians 1:6",
+            "Proverbs 6:16-19"
+          ]
+        },
+        {
+          "title": "Righteousness and Divine Justice",
+          "summary": "The psalm expresses confidence that God will ultimately vindicate the righteous and punish those who intend harm. It reveals a profound theological understanding of God's sovereign judgment and commitment to moral order.",
+          "cross_references": [
+            "Romans 12:21",
+            "Psalm 37:1-2",
+            "Isaiah 54:17",
+            "1 Peter 3:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm reveal the theological dynamics of spiritual warfare and divine protection?",
+        "options": [
+          "God actively defends believers against spiritual and physical threats",
+          "Personal vengeance is replaced by trust in divine justice",
+          "Prayer is a powerful spiritual weapon against malevolent forces",
+          "Suffering does not indicate divine abandonment but can be a context for God's intervention"
+        ]
+      }
+    }
+  }
+}

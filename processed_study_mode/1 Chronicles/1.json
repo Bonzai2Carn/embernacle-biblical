@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and trace your own personal family lineage in your mind, remembering the generations that came before you",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding your ancestral history shape your sense of identity and purpose?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Research my family genealogy",
+            "response": "Create a simple family tree documenting at least 3 generations"
+          },
+          {
+            "id": 2,
+            "text": "Reflect on family stories passed down",
+            "response": "Journal about meaningful family narratives"
+          },
+          {
+            "id": 3,
+            "text": "Consider spiritual legacy",
+            "response": "Pray about continuing positive spiritual traditions"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing the generations from Adam to Noah, using simple symbols to represent each person",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogy changed your perspective on human history?",
+        "options": [
+          "I see how interconnected humanity is",
+          "I understand God's consistent presence through generations",
+          "I'm more curious about my own family history",
+          "I appreciate the importance of remembering our roots"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which genealogical theme resonates most deeply?",
+        "choices": [
+          {
+            "id": "continuity",
+            "text": "Unbroken human lineage from creation",
+            "expansion": "Our individual stories are part of a grand, interconnected narrative spanning generations."
+          },
+          {
+            "id": "origins",
+            "text": "Tracing humanity back to its foundational roots",
+            "expansion": "Understanding our ancestral journey provides context for our present existence."
+          },
+          {
+            "id": "divine_order",
+            "text": "God's systematic preservation of human history",
+            "expansion": "Even in complex genealogies, there's evidence of intentional divine orchestration."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If our ancestors' stories are meticulously recorded, what personal responsibility do we bear to understand and honor our own generational narrative?"
+      },
+      "moral_slider": {
+        "question": "How much weight should we give to ancestral identity versus individual agency?",
+        "left_label": "Ancestral Determinism",
+        "right_label": "Personal Choice"
+      },
+      "reevaluation": {
+        "question": "How has exploring these ancient genealogies transformed your perspective on human interconnectedness?",
+        "options": [
+          "Recognized deeper human unity",
+          "Appreciated historical complexity",
+          "Felt more connected to broader human story",
+          "Gained respect for historical documentation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Genealogical Purpose",
+          "summary": "God meticulously preserves human lineage as a testament to His sovereign plan of redemption. The genealogical record demonstrates divine continuity and intentionality in human history.",
+          "cross_references": [
+            "Genesis 5:1-32",
+            "Matthew 1:1-17",
+            "Luke 3:23-38",
+            "Romans 5:12-21"
+          ]
+        },
+        {
+          "title": "Human Origin and Divine Design",
+          "summary": "The genealogy reveals humanity's collective origin and God's intentional creation of diverse nations and peoples. Each name represents God's intricate design and providential oversight of human development.",
+          "cross_references": [
+            "Acts 17:26",
+            "Genesis 10:1-32",
+            "Deuteronomy 32:8",
+            "Ephesians 2:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the biblical genealogy challenge or support contemporary understanding of human origins?",
+        "options": [
+          "Affirms divine creation and intentional human design",
+          "Demonstrates historical continuity of God's redemptive plan",
+          "Highlights genetic and cultural diversity as part of God's design",
+          "Provides theological framework for understanding human interconnectedness"
+        ]
+      }
+    }
+  }
+}

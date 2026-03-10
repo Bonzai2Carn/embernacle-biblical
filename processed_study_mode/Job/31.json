@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 31,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently review your personal integrity. Imagine God's gaze tracking your steps with perfect understanding.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I maintain personal accountability and moral boundaries in a world of temptation?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Create daily accountability checkpoints",
+            "response": "Set evening reflection time to honestly review your day's choices and motivations"
+          },
+          {
+            "id": 2,
+            "text": "Establish visual reminders of integrity",
+            "response": "Place scripture or personal commitment notes in key visual spaces"
+          },
+          {
+            "id": 3,
+            "text": "Develop trusted spiritual mentorship",
+            "response": "Find someone who can provide honest feedback about your character"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing your personal moral boundaries, with symbols of temptations being deflected",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of personal integrity?",
+        "options": [
+          "I see integrity as more comprehensive than just avoiding obvious sins",
+          "I recognize the importance of internal motivations",
+          "I understand that God sees beyond external actions",
+          "I feel challenged to be more intentional about my moral choices"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which ethical dimension of personal integrity resonates most deeply?",
+        "choices": [
+          {
+            "id": "covenant_eyes",
+            "text": "Making a covenant with one's eyes against lustful thoughts",
+            "expansion": "Conscious self-restraint as a spiritual discipline of purity"
+          },
+          {
+            "id": "divine_accountability",
+            "text": "Understanding God's omniscient observation of human actions",
+            "expansion": "Recognition that every step is witnessed and potentially judged by divine perspective"
+          },
+          {
+            "id": "moral_consistency",
+            "text": "Maintaining integrity across private and public spaces",
+            "expansion": "Alignment between internal character and external behavior as ultimate spiritual authenticity"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If moral perfection requires complete internal and external alignment, can any human truly claim righteousness?"
+      },
+      "moral_slider": {
+        "question": "How do personal intentions balance against actual moral performance?",
+        "left_label": "Intent",
+        "right_label": "Action"
+      },
+      "reevaluation": {
+        "question": "How has this exploration of personal integrity challenged your previous understanding?",
+        "options": [
+          "Recognized deeper layers of moral complexity",
+          "Understood personal accountability more deeply",
+          "Saw limitations in human self-assessment",
+          "Appreciated divine perspective more comprehensively"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Personal Integrity and Moral Accountability",
+          "summary": "Job demonstrates a profound commitment to personal holiness and ethical conduct before God. He presents a comprehensive self-examination of his moral character, challenging any potential accusations of hidden sin or moral failure.",
+          "cross_references": [
+            "Psalm 24:3-4",
+            "Proverbs 10:9",
+            "1 Thessalonians 2:10",
+            "James 1:27"
+          ]
+        },
+        {
+          "title": "Divine Observation and Spiritual Transparency",
+          "summary": "Job acknowledges God's comprehensive understanding of human behavior, emphasizing that every action and intention is ultimately transparent to the divine perspective. He presents a theological framework of ultimate accountability.",
+          "cross_references": [
+            "Hebrews 4:13",
+            "Proverbs 15:3",
+            "1 Chronicles 28:9",
+            "Jeremiah 17:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal moral integrity relate to spiritual righteousness in divine judgment?",
+        "options": [
+          "Moral behavior is a direct reflection of spiritual condition",
+          "External actions are less important than internal heart motivation",
+          "Righteousness is determined by grace, not personal performance",
+          "Spiritual integrity requires consistent ethical conduct"
+        ]
+      }
+    }
+  }
+}

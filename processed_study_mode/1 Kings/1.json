@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on seasons of transition and aging, taking three deep breaths acknowledging life's natural rhythms",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you honor and care for elderly family members or mentors in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Regular visits and communication",
+            "response": "Schedule a weekly call or visit with an older family member"
+          },
+          {
+            "id": 2,
+            "text": "Practical assistance with daily needs",
+            "response": "Offer to help with errands, medical appointments, or household tasks"
+          },
+          {
+            "id": 3,
+            "text": "Emotional support and listening",
+            "response": "Create intentional time to hear their stories and wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing caring for someone who is elderly or experiencing a life transition",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on aging and succession?",
+        "options": [
+          "I see aging as a natural process with dignity",
+          "Leadership transitions are complex and require wisdom",
+          "Family dynamics can be challenging during life changes",
+          "Care and respect for elders is important"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea resonates most about human vulnerability?",
+        "choices": [
+          {
+            "id": "aging",
+            "text": "The frailty of human power",
+            "expansion": "Even mighty King David becomes physically dependent on others"
+          },
+          {
+            "id": "care",
+            "text": "Compassionate human service",
+            "expansion": "The servants seek practical, intimate care for their aging monarch"
+          },
+          {
+            "id": "transition",
+            "text": "Generational leadership dynamics",
+            "expansion": "David's physical decline signals an impending royal succession"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When human dignity becomes compromised by age, what remains sacred about a person's essential worth?"
+      },
+      "moral_slider": {
+        "question": "How do we balance respect for leadership with acknowledging human vulnerability?",
+        "left_label": "Vulnerability",
+        "right_label": "Authority"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on aging and leadership shifted?",
+        "options": [
+          "Recognized the universal human experience of decline",
+          "Understood the importance of compassionate care",
+          "Appreciated the complexity of power transitions",
+          "Reflected on personal attitudes toward elder dignity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Aging and Human Vulnerability",
+          "summary": "David's physical decline reveals the universal human experience of aging and mortality. Despite being a powerful king, David is now dependent on others for basic comfort and care.",
+          "cross_references": [
+            "Ecclesiastes 3:2",
+            "Psalm 90:10",
+            "Isaiah 40:30-31",
+            "Job 14:1-2"
+          ]
+        },
+        {
+          "title": "Royal Succession and Divine Providence",
+          "summary": "This chapter introduces the complex political dynamics of royal succession in ancient Israel. The narrative demonstrates God's sovereignty in determining leadership transitions, even amid human intrigue and potential power struggles.",
+          "cross_references": [
+            "1 Samuel 16:1",
+            "Proverbs 8:15-16",
+            "Romans 13:1",
+            "Daniel 2:21"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should theological understanding interpret David's physical vulnerability and the surrounding political dynamics?",
+        "options": [
+          "Demonstrates human limitations and dependence on divine grace",
+          "Reveals the complexity of leadership transitions in biblical narratives",
+          "Highlights the importance of community care for aging leaders",
+          "Illustrates the transient nature of human power and authority"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 19,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine the heavens declaring God's glory, listening to the silent yet powerful message of creation",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I better recognize God's divine communication through creation and Scripture?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Spend time in nature observing God's design",
+            "response": "Take a 30-minute walk outside, intentionally looking for evidence of divine craftsmanship"
+          },
+          {
+            "id": 2,
+            "text": "Study Scripture more deeply",
+            "response": "Choose one Psalm per week to meditate on and journal insights"
+          },
+          {
+            "id": 3,
+            "text": "Develop a daily reflection practice",
+            "response": "Create a morning routine that includes reading Scripture and prayer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing how the sun, sky, and nature speak about God's greatness without using words",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of God's communication?",
+        "options": [
+          "God speaks through creation more powerfully than I realized",
+          "Scripture is a precise and trustworthy guide",
+          "God's messages are always around me, not just in church",
+          "I need to be more attentive to divine communication"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine revelation resonates most strongly with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Nature's silent testimony of God's glory",
+            "expansion": "Creation speaks a universal language beyond human words"
+          },
+          {
+            "id": 2,
+            "text": "Divine law as perfect and transformative",
+            "expansion": "God's statutes restore the soul and provide wisdom beyond human understanding"
+          },
+          {
+            "id": 3,
+            "text": "Personal accountability before God",
+            "expansion": "Our hidden faults and intentional sins are known and can be redeemed"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If the heavens 'declare the glory of God' without speech, how do we interpret divine communication beyond linguistic boundaries?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile the perfection of divine law with human imperfection?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Standard"
+      },
+      "reevaluation": {
+        "question": "How might this psalm transform your understanding of divine revelation?",
+        "options": [
+          "Seeing nature as a theological text",
+          "Recognizing law as grace, not restriction",
+          "Understanding personal accountability differently",
+          "Embracing divine communication beyond words"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Revelation through Creation",
+          "summary": "God reveals His eternal nature and divine attributes through the magnificent design of the natural world. The heavens and creation itself communicate God's glory and systematic order without verbal speech.",
+          "cross_references": [
+            "Romans 1:20",
+            "Job 38:4-7",
+            "Colossians 1:16-17",
+            "Isaiah 40:26"
+          ]
+        },
+        {
+          "title": "The Perfect Law of God",
+          "summary": "God's scriptural law represents absolute perfection, offering spiritual restoration and wisdom beyond human understanding. The divine commandments provide transformative guidance for righteous living.",
+          "cross_references": [
+            "James 1:25",
+            "2 Timothy 3:16-17",
+            "Psalm 119:105",
+            "Matthew 5:17-18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine revelation operate in understanding God's nature?",
+        "options": [
+          "Through observable natural creation",
+          "Exclusively through written scriptural revelation",
+          "Simultaneously through creation and scripture",
+          "Primarily through personal spiritual experiences"
+        ]
+      }
+    }
+  }
+}

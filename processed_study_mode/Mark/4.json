@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine seeds being scattered. Where are the different places they might land in your life?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How receptive is your heart to receiving God's word?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Like hard ground, I struggle to understand",
+            "response": "Pray for spiritual openness and understanding"
+          },
+          {
+            "id": 2,
+            "text": "Like rocky soil, I'm enthusiastic but inconsistent",
+            "response": "Develop daily spiritual disciplines and consistency"
+          },
+          {
+            "id": 3,
+            "text": "Like good soil, I want to grow and bear fruit",
+            "response": "Cultivate a consistent, intentional spiritual practice"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing different types of ground and how seeds might grow (or not grow) in each area",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of spiritual growth?",
+        "options": [
+          "I see growth is about the condition of my heart",
+          "Spiritual progress isn't automatic",
+          "God's word can be impacted by my receptiveness",
+          "Small seeds can produce significant results"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual receptivity resonates most deeply?",
+        "choices": [
+          {
+            "id": "wayside",
+            "text": "The Hard-Hearted Ground",
+            "expansion": "Some hearts are so defended that transformative seeds cannot penetrate their predetermined narratives."
+          },
+          {
+            "id": "rocky",
+            "text": "The Shallow Ground",
+            "expansion": "Initial enthusiasm without deep roots creates spiritual volatility and eventual withering."
+          },
+          {
+            "id": "good_soil",
+            "text": "The Fertile Heart",
+            "expansion": "True spiritual growth requires vulnerability, patience, and intentional cultivation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "What invisible barriers prevent divine wisdom from taking root in your inner landscape?"
+      },
+      "moral_slider": {
+        "question": "How consciously do you cultivate spiritual receptivity?",
+        "left_label": "Passive Listener",
+        "right_label": "Active Cultivator"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual growth shifted?",
+        "options": [
+          "I recognize my own spiritual soil types",
+          "I see transformation as a intentional process",
+          "External conditions matter less than internal preparation",
+          "Small seeds can yield profound harvests"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Parable of the Sower",
+          "summary": "Jesus illustrates the variability of human spiritual receptivity through a farming metaphor. The parable demonstrates how different heart conditions determine spiritual growth and fruitfulness.",
+          "cross_references": [
+            "Matthew 13:1-23",
+            "Luke 8:4-15",
+            "1 Corinthians 3:6-7",
+            "Galatians 6:7-8"
+          ]
+        },
+        {
+          "title": "Kingdom of God's Mysterious Growth",
+          "summary": "Christ reveals the spiritual principle that God's Kingdom grows incrementally and often imperceptibly, requiring patience, faith, and divine intervention. The parable highlights God's sovereignty in spiritual transformation.",
+          "cross_references": [
+            "1 Corinthians 3:5-9",
+            "Zechariah 4:10",
+            "Isaiah 55:10-11",
+            "2 Corinthians 5:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual receptivity impact an individual's understanding of divine truth?",
+        "options": [
+          "Heart condition determines spiritual comprehension",
+          "External circumstances limit spiritual growth",
+          "Personal choice plays a critical role in spiritual development",
+          "Divine election predetermines spiritual receptivity"
+        ]
+      }
+    }
+  }
+}

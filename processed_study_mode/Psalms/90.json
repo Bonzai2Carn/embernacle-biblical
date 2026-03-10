@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 90,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently acknowledge God's eternal nature compared to human mortality",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I prioritize my life's limited time to honor God's eternal perspective?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Spend more intentional time in prayer and scripture",
+            "response": "Create a daily spiritual discipline routine"
+          },
+          {
+            "id": 2,
+            "text": "Refocus my goals on eternal rather than temporary pursuits",
+            "response": "Review personal goals through a spiritual lens"
+          },
+          {
+            "id": 3,
+            "text": "Seek wisdom about using my time more purposefully",
+            "response": "Schedule a spiritual mentoring conversation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing God's eternal existence compared to your own brief life span",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of time and mortality?",
+        "options": [
+          "I feel more humble about my human limitations",
+          "I'm more aware of God's infinite perspective",
+          "I want to be more intentional with my life",
+          "I feel more peaceful about life's brevity"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human mortality resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Human life is brief and fragile",
+            "expansion": "Our existence is like grass that flourishes and then quickly withers away."
+          },
+          {
+            "id": "b",
+            "text": "God's eternal perspective transcends human time",
+            "expansion": "A thousand years are like a passing day in God's eternal consciousness."
+          },
+          {
+            "id": "c",
+            "text": "Wisdom comes from understanding life's brevity",
+            "expansion": "Recognizing our limited time helps us cultivate genuine spiritual perspective."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If time is so fleeting, what truly matters in our momentary human experience?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human transience with divine eternity?",
+        "left_label": "Existential Despair",
+        "right_label": "Transcendent Hope"
+      },
+      "reevaluation": {
+        "question": "How might understanding mortality transform your current life choices?",
+        "options": [
+          "Prioritize spiritual growth",
+          "Live with greater intentionality",
+          "Release attachment to temporary achievements",
+          "Cultivate deeper relationships"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Eternity vs Human Mortality",
+          "summary": "Moses reflects on the infinite nature of God contrasted with human transience and brevity of life. The psalm emphasizes the eternal perspective of God and the temporal limitations of human existence.",
+          "cross_references": [
+            "2 Peter 3:8",
+            "Psalm 103:15-16",
+            "Isaiah 40:6-8",
+            "James 4:14"
+          ]
+        },
+        {
+          "title": "God's Sovereignty Over Time",
+          "summary": "The psalm explores God's transcendence beyond temporal constraints, highlighting His eternal nature and complete control over human generations. It underscores divine perspective in understanding human limitations.",
+          "cross_references": [
+            "Psalm 102:24-27",
+            "Hebrews 1:10-12",
+            "Revelation 1:8",
+            "1 Timothy 6:16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does understanding God's eternal nature impact our perspective on human life and suffering?",
+        "options": [
+          "Recognizing life's brevity motivates spiritual growth and intentional living",
+          "Divine perspective provides comfort in experiencing temporal challenges",
+          "Understanding God's timelessness reduces anxiety about personal mortality",
+          "Embracing eternal hope transforms our interpretation of present circumstances"
+        ]
+      }
+    }
+  }
+}

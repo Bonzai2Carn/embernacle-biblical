@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine waiting by a healing pool, feeling Jesus' compassionate gaze seeing your deepest need",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What persistent challenge in your life are you waiting to be healed or transformed?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Physical/Health Challenge",
+            "response": "Pray specifically about your condition, asking for God's direct intervention"
+          },
+          {
+            "id": 2,
+            "text": "Emotional/Spiritual Struggle",
+            "response": "Journal your honest feelings and surrender them to Jesus"
+          },
+          {
+            "id": 3,
+            "text": "Relational Barrier",
+            "response": "Take one step towards reconciliation or understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself being helped by Jesus, showing how He sees your 'unseen' needs",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of Jesus' healing power?",
+        "options": [
+          "Jesus sees beyond physical symptoms to deeper spiritual needs",
+          "Healing can happen instantly through faith",
+          "God's timing and methods are often unexpected",
+          "Jesus confronts religious systems that block true healing"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine healing resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Supernatural intervention",
+            "expansion": "God's power transcends human limitations and medical understanding."
+          },
+          {
+            "id": 2,
+            "text": "Personal responsibility in healing",
+            "expansion": "Individual faith and willingness to act are critical in experiencing transformation."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual vs. physical restoration",
+            "expansion": "True healing involves more than physical recovery—it encompasses spiritual wholeness."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If healing is available, what internal barriers might prevent someone from receiving it?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine compassion with apparent selectivity in miraculous intervention?",
+        "left_label": "Universal Suffering",
+        "right_label": "Purposeful Healing"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine healing evolved?",
+        "options": [
+          "More open to supernatural possibilities",
+          "Recognize complexity of human suffering",
+          "Value personal agency in healing",
+          "See spiritual transformation as primary"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Healing and Sovereignty",
+          "summary": "Jesus demonstrates divine authority by healing a man who had been disabled for 38 years at the Bethesda pool. This miraculous intervention reveals God's power to restore and redeem beyond human limitations.",
+          "cross_references": [
+            "Isaiah 53:4-5",
+            "Psalm 103:2-3",
+            "James 5:14-15",
+            "Matthew 8:16-17"
+          ]
+        },
+        {
+          "title": "Jesus' Divine Identity",
+          "summary": "In this chapter, Jesus explicitly claims divine equality with God the Father, asserting His role in judgment, resurrection, and eternal life. His statements challenge religious legalism and highlight His unique spiritual authority.",
+          "cross_references": [
+            "John 1:1-14",
+            "Philippians 2:6-7",
+            "Colossians 1:15-19",
+            "Hebrews 1:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand Jesus' declaration of divine authority in relation to traditional religious practices?",
+        "options": [
+          "Jesus fulfills religious law while transcending its literal interpretations",
+          "Divine authority supersedes human religious traditions",
+          "Spiritual healing is more significant than ritualistic observance",
+          "Personal relationship with God matters more than institutional compliance"
+        ]
+      }
+    }
+  }
+}

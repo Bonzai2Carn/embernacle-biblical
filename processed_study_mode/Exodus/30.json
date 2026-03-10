@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine carefully crafting something sacred for God's purpose, just as the detailed incense altar was meticulously designed",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you create 'sacred space' in your daily life that honors God's presence?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Establish a daily prayer corner",
+            "response": "Designate a specific area in your home for quiet reflection and worship"
+          },
+          {
+            "id": 2,
+            "text": "Set intentional worship times",
+            "response": "Schedule consistent moments of spiritual connection throughout your day"
+          },
+          {
+            "id": 3,
+            "text": "Purify your inner attitudes",
+            "response": "Regularly examine your heart's motivations and align them with God's standards"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw an altar with special details, representing something valuable you want to dedicate to God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of worship and devotion?",
+        "options": [
+          "Worship requires intentional preparation",
+          "God values precise, thoughtful dedication",
+          "Sacred spaces help focus spiritual connection",
+          "Devotion is more than just emotional feeling"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of sacred craftsmanship resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine precision in design",
+            "expansion": "God's instructions reveal meticulous care for spiritual symbolism and aesthetic beauty."
+          },
+          {
+            "id": 2,
+            "text": "Intentional materials of worship",
+            "expansion": "Each material—gold, acacia wood, specific measurements—communicates spiritual intentionality."
+          },
+          {
+            "id": 3,
+            "text": "Consecration through craftsmanship",
+            "expansion": "Creating sacred objects becomes an act of spiritual transformation and devotion."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might the intricate instructions for the incense altar reveal more about the nature of divine communication than the physical object itself?"
+      },
+      "moral_slider": {
+        "question": "To what extent do ritualistic practices enhance or potentially distract from genuine spiritual connection?",
+        "left_label": "Ritualistic Formalism",
+        "right_label": "Authentic Spirituality"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship and sacred design evolved?",
+        "options": [
+          "Recognize deeper symbolic meaning in physical objects",
+          "Appreciate precision as a form of spiritual discipline",
+          "Understand worship as holistic creative expression",
+          "See divine instructions as invitations, not mere commands"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Sacred Worship Preparation",
+          "summary": "This chapter emphasizes the intricate design and sacred nature of worship implements, highlighting God's precise instructions for creating holy spaces and objects. The detailed specifications demonstrate divine intentionality in how His people approach and honor Him.",
+          "cross_references": [
+            "Hebrews 9:1-10",
+            "1 Chronicles 28:11-19",
+            "Revelation 8:3-4",
+            "Romans 12:1"
+          ]
+        },
+        {
+          "title": "Consecration and Holiness",
+          "summary": "The chapter underscores the critical importance of spiritual purity and consecration in approaching God. The elaborate rituals and specific instructions reveal that worship requires intentional preparation and reverent dedication.",
+          "cross_references": [
+            "1 Peter 1:15-16",
+            "James 4:8",
+            "Psalm 24:3-4",
+            "Hebrews 12:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the precise instructions for altar and incense preparation reflect God's character and expectations for worship?",
+        "options": [
+          "God values meticulousness and intentionality in spiritual practices",
+          "The elaborate instructions symbolize humanity's distance from divine perfection",
+          "Precise worship protocols demonstrate God's desire for intimate relationship",
+          "The specifications represent symbolic spiritual truths beyond literal implementation"
+        ]
+      }
+    }
+  }
+}

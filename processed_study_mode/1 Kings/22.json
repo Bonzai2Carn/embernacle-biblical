@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize making a decision: What voices are you listening to - wise counsel or tempting shortcuts?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you discern true spiritual guidance from false prophetic voices?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Compare advice against Scripture",
+            "response": "Study and pray about major decisions, measuring counsel against biblical principles"
+          },
+          {
+            "id": 2,
+            "text": "Seek multiple godly perspectives",
+            "response": "Consult trusted spiritual mentors before making significant choices"
+          },
+          {
+            "id": 3,
+            "text": "Pray for spiritual discernment",
+            "response": "Ask God to reveal truth and guard against deceptive influences"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene showing two paths: one with false prophets promising success, another with a lone prophet speaking difficult truth",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual leadership?",
+        "options": [
+          "Leadership requires moral courage",
+          "Not all spiritual voices speak truth",
+          "Consequences follow poor spiritual decisions",
+          "God's prophecy ultimately prevails"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which prophetic dynamic most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The tension between true and false prophecy",
+            "expansion": "Recognizing authentic spiritual guidance requires discernment beyond surface-level proclamations."
+          },
+          {
+            "id": 2,
+            "text": "Political alliances versus divine will",
+            "expansion": "Human strategic partnerships can conflict with deeper spiritual trajectories."
+          },
+          {
+            "id": 3,
+            "text": "Consequences of ignoring prophetic warning",
+            "expansion": "Spiritual resistance often leads to unforeseen personal and collective consequences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do we distinguish between counsel that serves personal ambition versus genuine divine guidance?"
+      },
+      "moral_slider": {
+        "question": "How do political pragmatism and spiritual integrity intersect?",
+        "left_label": "Political Compromise",
+        "right_label": "Spiritual Conviction"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prophetic communication evolved?",
+        "options": [
+          "Recognized complexity of spiritual discernment",
+          "Understand the role of personal bias in interpretation",
+          "Appreciate nuanced communication between divine and human realms",
+          "Recognize consequences of spiritual disobedience"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence and Prophetic Warning",
+          "summary": "God's sovereignty is demonstrated through prophetic revelation, where true prophets speak uncomfortable truths against popular political narratives. The chapter reveals how divine judgment can be predetermined despite human attempts to circumvent it.",
+          "cross_references": [
+            "Jeremiah 23:16-22",
+            "Ezekiel 13:1-10",
+            "2 Chronicles 18:12-27",
+            "Proverbs 29:25"
+          ]
+        },
+        {
+          "title": "Consequences of Ungodly Alliances",
+          "summary": "The alliance between Jehoshaphat and Ahab demonstrates the spiritual risks of partnering with unrighteous leaders. Despite Jehoshaphat's initial godly intentions, his collaboration leads to potential danger and compromise.",
+          "cross_references": [
+            "2 Corinthians 6:14",
+            "1 Kings 16:29-33",
+            "Psalm 1:1-3",
+            "James 4:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine prophecy interact with human free will in this narrative?",
+        "options": [
+          "Prophecy is deterministic and humans cannot alter divine decrees",
+          "Humans have agency, but prophetic warnings reveal potential spiritual consequences",
+          "Prophetic words are conditional and can be mitigated through genuine repentance",
+          "Divine foreknowledge does not negate human responsibility for choices"
+        ]
+      }
+    }
+  }
+}

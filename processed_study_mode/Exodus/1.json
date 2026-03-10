@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being part of a family legacy, remembering those who came before you and the journey they undertook",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you remain faithful during seasons of oppression or difficulty?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Maintain personal integrity",
+            "response": "Choose daily to act with courage and compassion, even when circumstances are challenging"
+          },
+          {
+            "id": 2,
+            "text": "Trust in God's larger plan",
+            "response": "Practice prayer and reflection, believing God is working beyond what you can see"
+          },
+          {
+            "id": 3,
+            "text": "Support community resilience",
+            "response": "Encourage and strengthen others around you during difficult times"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing multiple generations, highlighting how each person contributes to a larger story",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on family and survival?",
+        "options": [
+          "I see family heritage more meaningfully",
+          "I understand resilience differently now",
+          "I appreciate the strength of community",
+          "I recognize God's providence in challenging times"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What stands out most about the Israelites' initial migration to Egypt?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Family Unity",
+            "expansion": "Their migration preserved familial connections despite challenging circumstances."
+          },
+          {
+            "id": "b",
+            "text": "Divine Providence",
+            "expansion": "Even in transition, God's protective hand remains over His chosen people."
+          },
+          {
+            "id": "c",
+            "text": "Generational Resilience",
+            "expansion": "The seventy descendants represent potential for growth and survival."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might comfortable circumstances potentially blind a community to emerging threats?"
+      },
+      "moral_slider": {
+        "question": "How do external pressures impact a community's spiritual identity?",
+        "left_label": "Assimilation",
+        "right_label": "Preservation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of community survival changed?",
+        "options": [
+          "Recognize collective strength matters more than individual power",
+          "Understand historical challenges shape communal resilience",
+          "Appreciate subtle dynamics of cultural preservation",
+          "Recognize vulnerability can precede transformation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Migration",
+          "summary": "God orchestrates the movement of His chosen people into a foreign land as part of His redemptive plan. The migration to Egypt represents a strategic positioning for future divine intervention and national formation.",
+          "cross_references": [
+            "Genesis 15:13-14",
+            "Acts 7:6-7",
+            "Romans 8:28",
+            "Psalm 105:12-15"
+          ]
+        },
+        {
+          "title": "Survival Under Oppression",
+          "summary": "Despite severe persecution and attempted population control, God preserves His covenant people through unexpected means. The resilience of Israel demonstrates divine protection and supernatural multiplication.",
+          "cross_references": [
+            "Psalm 124:1-2",
+            "Isaiah 54:17",
+            "Jeremiah 29:11",
+            "Romans 8:31"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's providential care manifest in contexts of systemic oppression?",
+        "options": [
+          "God works through unlikely human agents (midwives)",
+          "Divine purposes transcend human political structures",
+          "Spiritual resilience emerges under persecution",
+          "Covenant promises override human limitations"
+        ]
+      }
+    }
+  }
+}

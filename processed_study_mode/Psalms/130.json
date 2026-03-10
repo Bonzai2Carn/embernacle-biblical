@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 130,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently repeat 'With You there is forgiveness' for inner peace",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently understand God's mercy in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I struggle to believe God can forgive my deepest mistakes",
+            "response": "Write down one specific thing you need to surrender to God's grace"
+          },
+          {
+            "id": 2,
+            "text": "I know God forgives but find it hard to forgive myself",
+            "response": "Spend 5 minutes in prayer asking God to heal your self-perception"
+          },
+          {
+            "id": 3,
+            "text": "I'm learning to trust God's redemptive process",
+            "response": "Share your journey of understanding grace with a trusted friend"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a dark cave with a small light representing hope breaking through",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of waiting on God?",
+        "options": [
+          "I see waiting as an opportunity for spiritual growth",
+          "I recognize waiting involves active hope, not passive resignation",
+          "I understand God's timing is different from my own timeline",
+          "I'm learning to trust God's character during uncertain seasons"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine mercy resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Willingness to Forgive",
+            "expansion": "Despite human failings, divine grace offers redemption beyond human comprehension."
+          },
+          {
+            "id": 2,
+            "text": "Waiting in Spiritual Humility",
+            "expansion": "Patience in spiritual longing reveals profound trust in God's transformative timing."
+          },
+          {
+            "id": 3,
+            "text": "The Depth of Human Brokenness",
+            "expansion": "Acknowledging human weakness becomes the first step toward genuine spiritual restoration."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine forgiveness is unconditional, what genuine role does human repentance play?"
+      },
+      "moral_slider": {
+        "question": "How do you navigate the tension between divine judgment and mercy?",
+        "left_label": "Human Unworthiness",
+        "right_label": "Divine Compassion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual vulnerability transformed?",
+        "options": [
+          "I now see brokenness as a pathway, not a barrier",
+          "Waiting is an active spiritual practice",
+          "Mercy is more expansive than I previously understood",
+          "Personal shame can be transformed by grace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Forgiveness",
+          "summary": "Psalm 130 centers on the profound depth of God's mercy and willingness to forgive human transgression. The psalm acknowledges human sinfulness while simultaneously proclaiming God's redemptive grace and capacity for total forgiveness.",
+          "cross_references": [
+            "1 John 1:9",
+            "Romans 8:1",
+            "Ephesians 2:8-9",
+            "Isaiah 43:25"
+          ]
+        },
+        {
+          "title": "Redemptive Hope",
+          "summary": "The psalm expresses a deep theological understanding of human dependency on divine intervention for salvation. It illustrates the spiritual journey from acknowledging sin to experiencing hope through God's unconditional love and redemptive plan.",
+          "cross_references": [
+            "Micah 7:18-19",
+            "Colossians 1:13-14",
+            "Romans 5:8",
+            "Titus 3:4-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human understanding of sin relate to divine mercy in Psalm 130?",
+        "options": [
+          "Sin separates humanity from God's perfect holiness",
+          "Divine mercy transcends human limitations",
+          "Genuine repentance enables spiritual restoration",
+          "God's forgiveness is unconditional and complete"
+        ]
+      }
+    }
+  }
+}

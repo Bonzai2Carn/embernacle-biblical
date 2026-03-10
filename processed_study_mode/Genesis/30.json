@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on moments when you've felt inadequate or compared yourself to others. Release those feelings to God.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do family dynamics and unresolved tensions impact your spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek reconciliation with family members",
+            "response": "Schedule a conversation or write a healing letter"
+          },
+          {
+            "id": 2,
+            "text": "Recognize generational patterns of strife",
+            "response": "Journal about family relationship dynamics"
+          },
+          {
+            "id": 3,
+            "text": "Pray for healing in family relationships",
+            "response": "Create a dedicated prayer list for family restoration"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing how God sees you: uniquely created and loved, beyond comparisons with others",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of God's providence?",
+        "options": [
+          "God works through imperfect human situations",
+          "Divine plans transcend human scheming",
+          "Personal worth isn't determined by productivity",
+          "Patience is crucial in spiritual journeys"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dynamic of human relationships most resonates with you in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family Competition",
+            "expansion": "The intense sibling rivalry between Rachel and Leah reveals how deeply personal validation can drive human behavior."
+          },
+          {
+            "id": 2,
+            "text": "Reproductive Desperation",
+            "expansion": "Rachel's profound emotional distress about childlessness illuminates the societal pressures surrounding fertility in ancient cultures."
+          },
+          {
+            "id": 3,
+            "text": "Negotiated Relationships",
+            "expansion": "Jacob's complex familial arrangements demonstrate how transactional human connections can become when social survival is at stake."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal desires for validation potentially distort our understanding of divine providence?"
+      },
+      "moral_slider": {
+        "question": "To what extent are human strategies for achieving desired outcomes morally justifiable?",
+        "left_label": "Personal Agency",
+        "right_label": "Divine Submission"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on family dynamics shifted after examining this narrative?",
+        "options": [
+          "Increased empathy for complex family structures",
+          "Recognized the psychological complexity of human motivations",
+          "Understood historical contexts of marriage and reproduction",
+          "Challenged my assumptions about biblical family narratives"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Childbearing",
+          "summary": "This chapter reveals God's sovereignty over human reproduction and family lineage. Despite human strategies and manipulations, God ultimately determines fertility and fulfills His covenant promises.",
+          "cross_references": [
+            "1 Samuel 1:5-6",
+            "Psalm 113:9",
+            "Luke 1:36-37",
+            "Romans 9:10-12"
+          ]
+        },
+        {
+          "title": "Relational Dynamics and Patriarchal Family Structure",
+          "summary": "The narrative exposes complex interpersonal tensions within polygamous marriages, highlighting competition, negotiation, and strategic relational maneuvering. The passage demonstrates the emotional and social challenges of non-monogamous familial arrangements.",
+          "cross_references": [
+            "Genesis 16:1-4",
+            "1 Samuel 1:1-8",
+            "Ephesians 5:31",
+            "1 Corinthians 7:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret the familial strategies employed in Genesis 30?",
+        "options": [
+          "As human manipulation outside of divine providence",
+          "As complex cultural mechanisms reflecting God's larger redemptive plan",
+          "As morally neutral cultural practices distinct from modern ethical standards",
+          "As evidence of spiritual immaturity in biblical patriarchal families"
+        ]
+      }
+    }
+  }
+}

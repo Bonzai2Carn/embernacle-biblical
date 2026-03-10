@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, acknowledging the unseen struggles of those around you. Silently offer compassion to those experiencing oppression.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I be a comfort to someone experiencing injustice or loneliness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen without judgment",
+            "response": "Schedule time to have a genuine conversation with someone who might feel marginalized"
+          },
+          {
+            "id": 2,
+            "text": "Offer practical support",
+            "response": "Identify a specific way to help someone in a difficult situation this week"
+          },
+          {
+            "id": 3,
+            "text": "Stand against systemic oppression",
+            "response": "Research local advocacy groups addressing social injustice"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing two people supporting each other, representing companionship against life's challenges",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your perspective on success and relationships?",
+        "options": [
+          "I now value human connection over individual achievement",
+          "I recognize the importance of supporting others",
+          "I see how power can be misused",
+          "I'm more aware of societal inequalities"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human suffering resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The oppressed have no comforter",
+            "expansion": "Power structures often perpetuate injustice without accountability"
+          },
+          {
+            "id": 2,
+            "text": "Better to have never existed than witness evil",
+            "expansion": "Existential despair can overwhelm the human experience of suffering"
+          },
+          {
+            "id": 3,
+            "text": "Human labor is marked by envy and competition",
+            "expansion": "Our achievements are frequently undermined by our own competitive nature"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human suffering is so prevalent, what transforms mere observation into meaningful action?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine providence with human oppression?",
+        "left_label": "Cosmic Indifference",
+        "right_label": "Purposeful Suffering"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human struggle evolved?",
+        "options": [
+          "Recognize systemic inequalities",
+          "Appreciate individual resilience",
+          "Seek collective solutions",
+          "Embrace compassionate perspective"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Suffering and Oppression",
+          "summary": "The passage reveals the profound despair of human oppression and systemic injustice. The author observes the powerlessness of the marginalized and the overwhelming force of oppressors.",
+          "cross_references": [
+            "Psalm 103:6",
+            "James 2:6-7",
+            "Proverbs 14:31",
+            "Isaiah 1:17"
+          ]
+        },
+        {
+          "title": "Existential Meaninglessness",
+          "summary": "The text explores the futility of human labor and the potential meaninglessness of existence under earthly constraints. The author suggests that non-existence might be preferable to experiencing profound suffering.",
+          "cross_references": [
+            "Job 3:3-4",
+            "Romans 8:20-22",
+            "Philippians 1:21-23",
+            "1 Corinthians 15:19"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand human suffering in light of divine sovereignty?",
+        "options": [
+          "Suffering is a result of human sinfulness and systemic brokenness",
+          "God uses suffering to refine and transform human character",
+          "Suffering reveals the temporary nature of earthly systems",
+          "Divine compassion transcends human oppression and pain"
+        ]
+      }
+    }
+  }
+}

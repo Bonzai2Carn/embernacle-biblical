@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 49,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on the transient nature of wealth and human achievements compared to eternal spiritual values",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently measure personal worth and success?",
+        "options": [
+          {
+            "id": 1,
+            "text": "By financial achievements",
+            "response": "Consider developing spiritual and relational wealth alongside material goals"
+          },
+          {
+            "id": 2,
+            "text": "By social status",
+            "response": "Prioritize internal character development over external recognition"
+          },
+          {
+            "id": 3,
+            "text": "By spiritual growth",
+            "response": "Continue nurturing your relationship with God and serving others"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing temporary earthly treasures on one side and eternal spiritual treasures on the other",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm challenged your understanding of personal value?",
+        "options": [
+          "I realize wealth is temporary",
+          "I see spiritual growth as more important",
+          "I want to invest more in eternal things",
+          "I feel more humble about personal achievements"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound perspective about wealth and mortality resonates most?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Wealth cannot redeem one's soul",
+            "expansion": "Material possessions are ultimately transient against the backdrop of eternal spiritual realities."
+          },
+          {
+            "id": "B",
+            "text": "Death is the great equalizer",
+            "expansion": "Both wealthy and poor ultimately face the same mortal destiny, rendering earthly status meaningless."
+          },
+          {
+            "id": "C",
+            "text": "True wisdom transcends financial measures",
+            "expansion": "Understanding spiritual truths matters more than accumulating worldly resources."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wealth cannot purchase immortality, what truly gives human life enduring significance?"
+      },
+      "moral_slider": {
+        "question": "How do we balance pursuing earthly success with spiritual understanding?",
+        "left_label": "Worldly Ambition",
+        "right_label": "Spiritual Perspective"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm challenged your previous assumptions about value and meaning?",
+        "options": [
+          "Reconsidered the importance of material wealth",
+          "Gained perspective on mortality",
+          "Recognized spiritual wisdom's supremacy",
+          "Understood life's transient nature more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Mortality and Wealth's Transience",
+          "summary": "This psalm confronts the illusion of human wealth and status as ultimately meaningless in light of eternal destiny. It emphasizes that material prosperity cannot redeem one's soul or prevent inevitable death.",
+          "cross_references": [
+            "1 Timothy 6:7",
+            "Luke 12:16-21",
+            "Ecclesiastes 5:15",
+            "Job 1:21"
+          ]
+        },
+        {
+          "title": "Universal Human Condition",
+          "summary": "The psalm addresses all people, both rich and poor, highlighting the universal human experience of mortality and spiritual accountability. It underscores that death is the great equalizer, transcending social and economic boundaries.",
+          "cross_references": [
+            "Romans 3:23",
+            "Hebrews 9:27",
+            "Ecclesiastes 3:20",
+            "Job 14:1-2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand the relationship between earthly wealth and spiritual significance?",
+        "options": [
+          "Wealth is a divine blessing and sign of spiritual favor",
+          "Material resources are tools for kingdom purposes, not personal accumulation",
+          "Financial prosperity indicates God's approval of an individual's life",
+          "Spiritual richness matters more than monetary wealth"
+        ]
+      }
+    }
+  }
+}

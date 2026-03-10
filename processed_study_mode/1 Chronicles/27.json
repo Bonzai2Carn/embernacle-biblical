@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to reflect on your role within your community, just as these military divisions served a larger purpose",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How can you contribute systematically and faithfully to your community's needs?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Volunteer regularly in a structured role",
+            "response": "Create a consistent monthly commitment"
+          },
+          {
+            "id": 2,
+            "text": "Support organizational leadership",
+            "response": "Offer skills that complement existing team structures"
+          },
+          {
+            "id": 3,
+            "text": "Develop discipline in personal responsibilities",
+            "response": "Design a personal accountability system"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a diagram showing how different people's roles connect together, like the military divisions in this chapter",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about organizational structure changed your view of service?",
+        "options": [
+          "Service requires intentional planning",
+          "Everyone has a specific role to play",
+          "Leadership depends on coordinated efforts",
+          "Consistency matters more than individual heroics"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which organizational principle stands out most?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Military Division Structure",
+            "expansion": "Systematic organization reveals divine order in human collaboration."
+          },
+          {
+            "id": "b",
+            "text": "Leadership by Monthly Rotation",
+            "expansion": "Shared responsibility prevents power concentration and encourages collective engagement."
+          },
+          {
+            "id": "c",
+            "text": "Precise Numerical Accounting",
+            "expansion": "Meticulous record-keeping demonstrates reverence for each individual's contribution."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might consistent, structured service reveal deeper spiritual disciplines beyond mere administrative efficiency?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between individual contribution and collective purpose?",
+        "left_label": "Individual Agency",
+        "right_label": "Communal Alignment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of organizational leadership shifted?",
+        "options": [
+          "Recognize complexity of coordinated effort",
+          "Appreciate systematic approach to service",
+          "Value numerical precision in spiritual contexts",
+          "Understand leadership as collaborative responsibility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Organization of Military Service",
+          "summary": "God values strategic, systematic organization in national defense and leadership. The precise military divisions demonstrate divine precision in administrative structures and collective responsibility.",
+          "cross_references": [
+            "Numbers 1:1-4",
+            "Judges 7:1-8",
+            "1 Samuel 11:8",
+            "Romans 13:1-4"
+          ]
+        },
+        {
+          "title": "Leadership Accountability and Service",
+          "summary": "Effective leadership requires structured rotation, shared responsibilities, and clear hierarchical systems. Each division's leader represents a microcosm of faithful stewardship and national commitment.",
+          "cross_references": [
+            "Exodus 18:13-26",
+            "Acts 6:1-7",
+            "1 Peter 4:10-11",
+            "Ephesians 4:11-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does organizational structure reflect spiritual leadership principles?",
+        "options": [
+          "Organizational structure reveals divine order and intentionality",
+          "Leadership roles are more about service than personal prominence",
+          "Systematic approaches demonstrate godly wisdom in governance",
+          "Collaborative leadership models spiritual unity and collective purpose"
+        ]
+      }
+    }
+  }
+}

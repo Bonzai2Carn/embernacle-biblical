@@ -1,0 +1,117 @@
+{
+  "book": "1 Timothy",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently honor someone in your family or church who has shown spiritual maturity. Breathe deeply and imagine extending respect.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I currently treating different generations in my spiritual community?",
+        "options": [
+          {
+            "id": "A",
+            "text": "With genuine respect and compassion",
+            "response": "Continue your current approach, being intentional about honoring others"
+          },
+          {
+            "id": "B",
+            "text": "Sometimes dismissively or impatiently",
+            "response": "Practice active listening and seek to understand different generational perspectives"
+          },
+          {
+            "id": "C",
+            "text": "I'm not very engaged with different age groups",
+            "response": "Intentionally build cross-generational relationships in your church or community"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing how different generations can support and care for each other spiritually",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your view of family and church relationships?",
+        "options": [
+          "I now see the importance of respecting all ages",
+          "I recognize the need to care for vulnerable family members",
+          "I understand spiritual community is multi-generational",
+          "I feel challenged to be more intentional in my relationships"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about family and community care resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Honoring Parents and Elders",
+            "expansion": "Generational respect transforms community accountability and spiritual inheritance."
+          },
+          {
+            "id": "b",
+            "text": "Supporting Vulnerable Widows",
+            "expansion": "Practical compassion reveals the church's truest theological commitment."
+          },
+          {
+            "id": "c",
+            "text": "Treating All Ages with Dignity",
+            "expansion": "Spiritual family transcends biological relationships through mutual respect."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might our perception of familial duty change if we viewed care as a sacred trust rather than mere obligation?"
+      },
+      "moral_slider": {
+        "question": "How do personal responsibility and communal support balance in caring for family?",
+        "left_label": "Individual Independence",
+        "right_label": "Collective Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of family care evolved?",
+        "options": [
+          "More aware of intergenerational responsibilities",
+          "Recognize spiritual family beyond blood relations",
+          "Understand care as mutual, not unidirectional",
+          "See vulnerability as strength, not weakness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Family Care and Generational Responsibility",
+          "summary": "Paul emphasizes the spiritual and practical duty of caring for family members, particularly widows. The passage highlights familial responsibility as a fundamental expression of godly love and Christian community.",
+          "cross_references": [
+            "James 1:27",
+            "Exodus 20:12",
+            "Matthew 15:4-6",
+            "Galatians 6:10"
+          ]
+        },
+        {
+          "title": "Respect and Spiritual Community",
+          "summary": "The apostle provides guidance on interpersonal relationships within the church, stressing respectful treatment across age groups and genders. This framework establishes healthy spiritual community boundaries rooted in familial metaphors.",
+          "cross_references": [
+            "1 Peter 5:5",
+            "Titus 2:1-2",
+            "Romans 12:10",
+            "Leviticus 19:32"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christian communities practically interpret intergenerational care and support?",
+        "options": [
+          "Prioritize immediate family responsibilities over broader community needs",
+          "Create structured support systems for vulnerable church members",
+          "View care as a collective spiritual obligation beyond biological relationships",
+          "Emphasize individual autonomy in caring for community members"
+        ]
+      }
+    }
+  }
+}

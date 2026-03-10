@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on pursuits that ultimately feel empty, and surrender those temporary desires to God's deeper purpose.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What worldly achievement or pleasure are you chasing that might ultimately feel meaningless?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Career Success",
+            "response": "Evaluate your motivations and ensure your work honors God, not just personal ambition"
+          },
+          {
+            "id": 2,
+            "text": "Material Possessions",
+            "response": "Practice gratitude and generosity, seeing possessions as tools for God's kingdom"
+          },
+          {
+            "id": 3,
+            "text": "Personal Recognition",
+            "response": "Shift focus from self-promotion to serving others and glorifying God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself letting go of something you've been pursuing that doesn't truly satisfy your soul",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of success and fulfillment?",
+        "options": [
+          "I realize worldly achievements are temporary",
+          "I want to prioritize eternal over temporary",
+          "I need to redefine what 'success' means to me",
+          "I'm convicted about my current pursuits"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of human pursuit most resonates with your understanding of meaning?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Material Achievement is Ultimately Empty",
+            "expansion": "Despite grand constructions and accumulations, true satisfaction remains elusive."
+          },
+          {
+            "id": 2,
+            "text": "Wisdom Transcends Temporary Pleasures",
+            "expansion": "Intellectual discernment offers deeper insight than momentary sensory gratification."
+          },
+          {
+            "id": 3,
+            "text": "Life's Inherent Uncertainty Demands Humility",
+            "expansion": "Human efforts are fundamentally transient against the backdrop of eternal perspectives."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If all your achievements were to vanish tomorrow, what genuine value would remain in your life's purpose?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human ambition with existential meaninglessness?",
+        "left_label": "Futility",
+        "right_label": "Purposefulness"
+      },
+      "reevaluation": {
+        "question": "How has this reflection shifted your understanding of success?",
+        "options": [
+          "Recognize limitations of material pursuits",
+          "Value wisdom over immediate gratification",
+          "Embrace life's inherent unpredictability",
+          "Seek meaning beyond personal achievements"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Pursuit of Worldly Pleasure",
+          "summary": "Solomon explores the emptiness of seeking fulfillment through sensory pleasures and material achievements. He discovers that worldly pursuits, while momentarily satisfying, ultimately provide no lasting meaning or spiritual satisfaction.",
+          "cross_references": [
+            "Proverbs 23:20-21",
+            "1 John 2:16-17",
+            "Luke 12:15",
+            "Matthew 6:19-20"
+          ]
+        },
+        {
+          "title": "Wisdom vs. Foolishness",
+          "summary": "The passage demonstrates the tension between human wisdom and folly, revealing that intellectual achievements and rational approaches cannot ultimately resolve life's deeper existential questions. True understanding comes from recognizing divine perspective.",
+          "cross_references": [
+            "1 Corinthians 1:25",
+            "Proverbs 9:10",
+            "James 1:5",
+            "Colossians 2:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human pursuit of satisfaction differ from divine purpose?",
+        "options": [
+          "Temporal pleasures provide momentary satisfaction but no eternal meaning",
+          "Human wisdom is fundamentally limited without spiritual understanding",
+          "Material achievements cannot substitute for spiritual contentment",
+          "True fulfillment originates from relationship with God, not worldly accomplishments"
+        ]
+      }
+    }
+  }
+}

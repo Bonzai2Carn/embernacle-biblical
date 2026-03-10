@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 78,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently recall one moment God has been faithful in your family's history",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have generational patterns of faith or rebellion impacted your spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize negative inherited patterns",
+            "response": "Write down one generational pattern you want to intentionally change"
+          },
+          {
+            "id": 2,
+            "text": "Celebrate positive spiritual legacies",
+            "response": "Call or write a family member who modeled faith to you"
+          },
+          {
+            "id": 3,
+            "text": "Break cycles of spiritual forgetfulness",
+            "response": "Start a family journal documenting God's faithfulness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing moments where God rescued or protected your family",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your understanding of spiritual inheritance?",
+        "options": [
+          "I now see the importance of telling faith stories",
+          "I recognize generational patterns matter",
+          "I want to be more intentional about passing down spiritual lessons",
+          "I understand God's patience with human weakness better"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core theme of generational spiritual transmission resonates most?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Teaching Future Generations",
+            "expansion": "The psalm emphasizes intentional spiritual education to preserve historical and divine memory."
+          },
+          {
+            "id": "2",
+            "text": "Divine Faithfulness Despite Human Rebellion",
+            "expansion": "God's consistent mercy emerges even when Israel repeatedly fails and turns away."
+          },
+          {
+            "id": "3",
+            "text": "Historical Remembrance as Spiritual Discipline",
+            "expansion": "Recounting past experiences becomes a critical mechanism for maintaining spiritual identity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might selective memory of divine intervention potentially distort or clarify our understanding of spiritual heritage?"
+      },
+      "moral_slider": {
+        "question": "To what extent should painful historical experiences be transmitted to future generations?",
+        "left_label": "Protect from Difficult Truths",
+        "right_label": "Reveal Complete Historical Narrative"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual inheritance changed?",
+        "options": [
+          "Recognize importance of intentional teaching",
+          "Appreciate complexity of generational faith transmission",
+          "Understand divine patience more deeply",
+          "See historical narrative as spiritual formation tool"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Generational Spiritual Legacy",
+          "summary": "This psalm emphasizes the critical importance of transmitting spiritual knowledge and experiences from one generation to the next. It highlights how parents and community leaders must intentionally teach God's works and commandments to ensure continued faithfulness.",
+          "cross_references": [
+            "Deuteronomy 6:4-9",
+            "Ephesians 6:4",
+            "Proverbs 22:6",
+            "2 Timothy 1:5"
+          ]
+        },
+        {
+          "title": "Divine Faithfulness Amid Human Rebellion",
+          "summary": "Psalms 78 chronicles Israel's repeated pattern of disobedience and God's persistent mercy and redemption. The narrative reveals God's unchanging character of grace, even when His people continually fail and turn away from His covenant.",
+          "cross_references": [
+            "Lamentations 3:22-23",
+            "Romans 5:8",
+            "1 John 1:9",
+            "Hebrews 13:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's response to generational sin and rebellion reflect His theological attributes?",
+        "options": [
+          "God's mercy transcends human failure",
+          "Divine judgment is proportional to persistent rebellion",
+          "Covenant faithfulness supersedes human inconsistency",
+          "Redemptive history demonstrates God's transformative power"
+        ]
+      }
+    }
+  }
+}

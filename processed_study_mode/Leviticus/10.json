@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently reflect on the importance of treating God's holiness with absolute reverence and respect",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I approach spiritual responsibilities with genuine reverence and obedience?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I carefully follow established spiritual guidelines",
+            "response": "Continue studying scripture and seeking godly counsel"
+          },
+          {
+            "id": 2,
+            "text": "I sometimes act on my own assumptions",
+            "response": "Pray for wisdom and submit my will to God's instructions"
+          },
+          {
+            "id": 3,
+            "text": "I struggle with understanding spiritual boundaries",
+            "response": "Seek mentorship and deeper biblical understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing the difference between holy and unholy approaches to worship",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "After reading this chapter, how has my understanding of God's holiness changed?",
+        "options": [
+          "I now see God's standards are more serious than I previously thought",
+          "I recognize the importance of following divine instructions precisely",
+          "I understand that spiritual leadership carries significant responsibility",
+          "I am more aware of the consequences of treating holy things casually"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual dynamic resonates most deeply in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Holiness",
+            "expansion": "God's absolute standards transcend human intention or presumed familiarity."
+          },
+          {
+            "id": 2,
+            "text": "Priestly Accountability",
+            "expansion": "Religious leadership carries extraordinary responsibility and consequence."
+          },
+          {
+            "id": 3,
+            "text": "Unexpected Judgment",
+            "expansion": "Divine responses can be sudden and overwhelming when sacred boundaries are transgressed."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "Can sincere religious zeal ever be dangerous if it is not precisely aligned with divine instruction?"
+      },
+      "moral_slider": {
+        "question": "How do we balance personal spiritual passion with strict obedience?",
+        "left_label": "Individual Inspiration",
+        "right_label": "Precise Compliance"
+      },
+      "reevaluation": {
+        "question": "How might this narrative challenge your understanding of worship and reverence?",
+        "options": [
+          "My view of divine expectations has become more nuanced",
+          "I recognize the importance of humble obedience",
+          "I'm more aware of potential spiritual presumption",
+          "I see leadership as a profound moral responsibility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Holiness and Worship Protocol",
+          "summary": "God demands precise obedience in worship and demonstrates the severe consequences of unauthorized religious practices. The narrative reveals that approaching divine presence requires strict adherence to prescribed spiritual protocols.",
+          "cross_references": [
+            "Hebrews 12:28-29",
+            "1 Corinthians 11:27-30",
+            "2 Samuel 6:6-7",
+            "Deuteronomy 4:24"
+          ]
+        },
+        {
+          "title": "Priestly Accountability and Spiritual Leadership",
+          "summary": "Spiritual leaders bear heightened responsibility and face more significant consequences for religious transgressions. The account of Nadab and Abihu illustrates the critical importance of spiritual integrity and following divine instructions precisely.",
+          "cross_references": [
+            "James 3:1",
+            "1 Timothy 3:1-7",
+            "Ezekiel 34:1-10",
+            "Luke 12:47-48"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand God's seemingly harsh judgment in this biblical narrative?",
+        "options": [
+          "God's holiness requires absolute reverence and precise obedience",
+          "This represents a symbolic demonstration of spiritual boundaries",
+          "The punishment reveals the profound seriousness of unauthorized worship",
+          "The narrative illustrates the transformative nature of divine correction"
+        ]
+      }
+    }
+  }
+}

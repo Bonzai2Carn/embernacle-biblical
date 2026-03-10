@@ -1,0 +1,117 @@
+{
+  "book": "Hebrews",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine yourself running a spiritual race, laying down every burden that weighs you down, focusing solely on Jesus ahead",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What 'weights' or persistent sins are currently hindering your spiritual growth?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Identify a specific habit blocking my spiritual progress",
+            "response": "Write it down and commit to surrendering it to God in prayer"
+          },
+          {
+            "id": 2,
+            "text": "Recognize areas where I've become spiritually weary",
+            "response": "Seek accountability and renewed spiritual disciplines"
+          },
+          {
+            "id": 3,
+            "text": "Compare my endurance to Christ's example",
+            "response": "Meditate on Christ's sacrifice and draw strength from His perseverance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a racetrack with Jesus at the finish line, and place symbolic weights representing your personal challenges along the track",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual discipline and endurance?",
+        "options": [
+          "I now see challenges as opportunities for growth",
+          "I recognize the importance of fixing my eyes on Jesus",
+          "I understand suffering can have spiritual purpose",
+          "I feel motivated to persevere through difficult seasons"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual metaphor resonates most with your journey?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Running the Race of Faith",
+            "expansion": "Recognizing life as a disciplined spiritual marathon requiring continuous focus and endurance."
+          },
+          {
+            "id": 2,
+            "text": "Enduring Divine Discipline",
+            "expansion": "Understanding suffering as a transformative process of spiritual growth and refinement."
+          },
+          {
+            "id": 3,
+            "text": "Following Christ's Example",
+            "expansion": "Embracing challenges by looking to Jesus' ultimate model of perseverance and sacrifice."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If discipline is truly an expression of love, how might your perspective on personal struggles change?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal comfort with spiritual growth?",
+        "left_label": "Comfort",
+        "right_label": "Transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience evolved?",
+        "options": [
+          "I now see challenges as opportunities",
+          "My perspective on suffering has deepened",
+          "I'm more aware of spiritual endurance",
+          "I recognize the importance of community support"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Endurance",
+          "summary": "Believers are called to persevere through life's challenges by focusing on Jesus as the ultimate example of faithful suffering. The Christian journey is compared to a spiritual race requiring discipline, perspective, and unwavering commitment.",
+          "cross_references": [
+            "1 Corinthians 9:24-27",
+            "Philippians 3:12-14",
+            "James 1:2-4",
+            "2 Timothy 4:7-8"
+          ]
+        },
+        {
+          "title": "Divine Discipline",
+          "summary": "God's disciplinary process is an expression of His love and commitment to believers' spiritual growth. Suffering and challenges are viewed as transformative tools that God uses to refine character and develop spiritual maturity.",
+          "cross_references": [
+            "Proverbs 3:11-12",
+            "Revelation 3:19",
+            "Job 5:17-18",
+            "1 Peter 1:6-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christians fundamentally understand divine discipline and spiritual challenges?",
+        "options": [
+          "As punitive measures designed to restrict spiritual freedom",
+          "As redemptive processes intended for spiritual transformation",
+          "As random experiences with no deeper spiritual significance",
+          "As proofs of personal spiritual failure or divine displeasure"
+        ]
+      }
+    }
+  }
+}

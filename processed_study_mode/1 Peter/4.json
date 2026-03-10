@@ -1,0 +1,117 @@
+{
+  "book": "1 Peter",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to breathe deeply and visualize laying down your past sinful patterns at Christ's feet, choosing intentional surrender",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "What past lifestyle habits are you still holding onto that don't honor God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Social behaviors that compromise my integrity",
+            "response": "Create specific boundaries and accountability with a trusted friend"
+          },
+          {
+            "id": 2,
+            "text": "Media/entertainment choices that conflict with godly values",
+            "response": "Conduct a week-long media fast and reassess consumption patterns"
+          },
+          {
+            "id": 3,
+            "text": "Relational patterns that pull me away from spiritual growth",
+            "response": "Schedule intentional time with spiritually mature believers"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing your life 'before Christ' on one side and 'after Christ' on the other, showing transformation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of personal transformation?",
+        "options": [
+          "Suffering can be a pathway to spiritual growth",
+          "God desires active change, not just passive belief",
+          "My past does not determine my future with Christ",
+          "Intentional surrender leads to true freedom"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual transformation resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Suffering as a pathway to spiritual growth",
+            "expansion": "Pain can be a profound teacher that reshapes our character toward divine purposes."
+          },
+          {
+            "id": 2,
+            "text": "Breaking free from past sinful patterns",
+            "expansion": "Radical transformation requires intentional rejection of former worldly behaviors."
+          },
+          {
+            "id": 3,
+            "text": "Living according to God's will",
+            "expansion": "Surrendering personal desires creates alignment with transcendent spiritual objectives."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering refines spiritual character, how might your current challenges be secretly constructing your inner resilience?"
+      },
+      "moral_slider": {
+        "question": "How do personal desires balance against divine calling?",
+        "left_label": "Self-Determination",
+        "right_label": "Divine Submission"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual growth evolved?",
+        "options": [
+          "I now see suffering as potentially redemptive",
+          "My view of personal transformation has deepened",
+          "I recognize the limitations of worldly pursuits",
+          "I'm more aware of spiritual accountability"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Suffering and Sanctification",
+          "summary": "Christian suffering parallels Christ's redemptive suffering, serving as a transformative process that separates believers from worldly passions. The experience of suffering becomes a spiritual discipleship mechanism that aligns believers more closely with God's will.",
+          "cross_references": [
+            "Romans 8:17",
+            "Philippians 3:10",
+            "James 1:2-4",
+            "2 Corinthians 4:17"
+          ]
+        },
+        {
+          "title": "Holistic Spiritual Transformation",
+          "summary": "Believers are called to radically reorient their life perspectives from worldly desires to divine purpose. This transformation involves a complete philosophical and behavioral shift from previous pagan lifestyles to Christ-centered living.",
+          "cross_references": [
+            "Ephesians 4:17-24",
+            "Colossians 3:5-10",
+            "Titus 3:3-7",
+            "Romans 12:1-2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christian suffering relate to spiritual growth and divine purpose?",
+        "options": [
+          "Suffering is purely punitive and demonstrates God's judgment",
+          "Suffering is a transformative process that refines spiritual character",
+          "Suffering is an optional experience for mature believers",
+          "Suffering represents a direct correlation with personal spiritual maturity"
+        ]
+      }
+    }
+  }
+}

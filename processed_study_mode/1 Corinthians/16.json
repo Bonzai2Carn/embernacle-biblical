@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to reflect on how you can generously support your local church or fellow believers this week",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How can I intentionally practice generosity and support for my spiritual community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Regular financial giving",
+            "response": "Set up an automatic monthly donation to your church or a Christian mission organization"
+          },
+          {
+            "id": 2,
+            "text": "Time and service",
+            "response": "Volunteer for a ministry or find a practical way to serve church members in need"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual support",
+            "response": "Commit to praying regularly for church leaders and missionaries"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of how different people in a church community can support each other, using symbols or images representing various forms of help",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on Christian community and support?",
+        "options": [
+          "I see giving as more of a spiritual discipline now",
+          "I understand the importance of supporting other believers",
+          "I feel challenged to be more intentional about generosity",
+          "I recognize the global nature of the church community"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Christian community challenges you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Systematic Generosity",
+            "expansion": "Intentional, planned giving transforms charity from sporadic emotion to disciplined spiritual practice."
+          },
+          {
+            "id": 2,
+            "text": "Mutual Accountability",
+            "expansion": "Authentic Christian relationships require transparency and mutual spiritual endorsement."
+          },
+          {
+            "id": 3,
+            "text": "Missional Collaboration",
+            "expansion": "Kingdom work transcends individual congregations, requiring strategic partnership."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal prosperity be a stewardship opportunity rather than a personal entitlement?"
+      },
+      "moral_slider": {
+        "question": "Where do you balance personal resources and communal needs?",
+        "left_label": "Individual Retention",
+        "right_label": "Radical Generosity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian giving evolved?",
+        "options": [
+          "I now see giving as spiritual discipline",
+          "Community needs matter more than personal comfort",
+          "Generosity is an act of worship",
+          "Resources are ultimately God's, not mine"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Generosity and Supporting the Church",
+          "summary": "Paul instructs the Corinthians about systematic, proportional giving to support the Jerusalem church during a time of economic hardship. The collection demonstrates Christian unity, compassion, and practical love across different congregations.",
+          "cross_references": [
+            "2 Corinthians 9:6-7",
+            "Acts 11:27-30",
+            "Romans 15:25-27",
+            "Galatians 2:10"
+          ]
+        },
+        {
+          "title": "Apostolic Leadership and Church Cooperation",
+          "summary": "Paul models collaborative ministry by coordinating travel plans, recommending trusted co-workers, and maintaining relational accountability between churches. His approach emphasizes interdependence and mutual support in gospel mission.",
+          "cross_references": [
+            "Acts 15:36-41",
+            "Romans 16:1-2",
+            "Philippians 2:25-30",
+            "Colossians 4:7-9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should modern churches understand financial giving and missional support?",
+        "options": [
+          "Giving should be proportional to individual prosperity",
+          "Financial support demonstrates spiritual connection between congregations",
+          "Missional giving transcends local church boundaries",
+          "Transparency and accountability are crucial in financial partnerships"
+        ]
+      }
+    }
+  }
+}

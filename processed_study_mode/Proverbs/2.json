@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine wisdom as a treasure map. Where might your next 'hidden treasure' of insight be waiting?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How actively are you pursuing wisdom in your current life season?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I'm casually interested",
+            "response": "Start a daily 10-minute reading or learning routine"
+          },
+          {
+            "id": "B",
+            "text": "I want to go deeper",
+            "response": "Find a mentor or study group focused on personal growth"
+          },
+          {
+            "id": "C",
+            "text": "I'm fully committed",
+            "response": "Create a structured personal development plan with specific learning goals"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a treasure chest filled with books, insights, and glowing knowledge instead of gold coins",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your view of wisdom?",
+        "options": [
+          "Wisdom seems more intentional than accidental",
+          "I understand wisdom requires active pursuit",
+          "Knowledge feels more like a journey than a destination",
+          "I see wisdom as a spiritual discipline"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of wisdom's pursuit resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Active Seeking",
+            "expansion": "Wisdom requires intentional, energetic pursuit, like searching for hidden treasure."
+          },
+          {
+            "id": "B",
+            "text": "Inner Transformation",
+            "expansion": "True understanding begins when wisdom penetrates the heart and changes internal perspectives."
+          },
+          {
+            "id": "C",
+            "text": "Reverent Learning",
+            "expansion": "The fear of the Lord represents the fundamental starting point of genuine knowledge."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wisdom is available to all, why do so few genuinely seek it with passionate commitment?"
+      },
+      "moral_slider": {
+        "question": "How do personal effort and divine grace intersect in acquiring wisdom?",
+        "left_label": "Human Striving",
+        "right_label": "Divine Revelation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of wisdom's acquisition evolved?",
+        "options": [
+          "I now see wisdom as an active, intentional pursuit",
+          "I recognize wisdom requires humility",
+          "I understand wisdom is both intellectual and spiritual",
+          "I see wisdom as a lifelong journey, not a destination"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Pursuit of Divine Wisdom",
+          "summary": "Wisdom is not passive but requires intentional seeking, comparable to pursuing precious treasure. True understanding comes through active engagement with divine instruction and humble receptivity.",
+          "cross_references": [
+            "James 1:5",
+            "Proverbs 4:7",
+            "Colossians 2:3",
+            "Matthew 13:44"
+          ]
+        },
+        {
+          "title": "Transformative Knowledge",
+          "summary": "Genuine spiritual wisdom transcends intellectual knowledge, offering moral protection and spiritual discernment. The pursuit of wisdom leads to understanding God's character and navigating life's complexities.",
+          "cross_references": [
+            "Ephesians 1:17",
+            "1 Corinthians 2:6-7",
+            "Psalm 111:10",
+            "Job 28:28"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does one authentically pursue divine wisdom according to this chapter?",
+        "options": [
+          "Intellectual study alone is sufficient for understanding",
+          "Humble and persistent seeking is essential",
+          "Wisdom is predetermined and cannot be actively pursued",
+          "Emotional commitment matters more than disciplined learning"
+        ]
+      }
+    }
+  }
+}

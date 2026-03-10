@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus standing silently before His accusers, choosing mercy over defense.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when facing unjust treatment or accusations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Defend myself aggressively",
+            "response": "Practice responding with grace and humility"
+          },
+          {
+            "id": 2,
+            "text": "Remain silent like Jesus",
+            "response": "Trust God's ultimate justice and plan"
+          },
+          {
+            "id": 3,
+            "text": "Seek revenge",
+            "response": "Pray for those who wrong you and release the situation to God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene showing Jesus' strength in silence during His trial, emphasizing His peaceful demeanor",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of sacrifice and redemption?",
+        "options": [
+          "I see Jesus' suffering in a more personal light",
+          "I understand the depth of God's love more clearly",
+          "I recognize the weight of human sin",
+          "I feel more grateful for Christ's redemptive work"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of human vulnerability strikes you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Judas's remorse",
+            "expansion": "The profound psychological collapse after betraying something sacred"
+          },
+          {
+            "id": 2,
+            "text": "Pilate's moral weakness",
+            "expansion": "The tragic compromise of personal integrity under institutional pressure"
+          },
+          {
+            "id": 3,
+            "text": "Jesus's silent endurance",
+            "expansion": "The transformative power of choosing non-violent resistance in extreme suffering"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "At what point does personal responsibility intersect with systemic injustice?"
+      },
+      "moral_slider": {
+        "question": "How do human emotions of guilt and redemption interact?",
+        "left_label": "Personal Shame",
+        "right_label": "Collective Accountability"
+      },
+      "reevaluation": {
+        "question": "How has this narrative challenged your understanding of human nature?",
+        "options": [
+          "I see more complexity in moral choices",
+          "I recognize institutional power's destructive potential",
+          "I understand suffering's redemptive dimension",
+          "I'm more aware of personal moral fragility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Christ's Suffering",
+          "summary": "God's predetermined plan of redemption unfolds through human actions of betrayal and condemnation. Despite human intentions to harm Jesus, divine providence orchestrates the crucifixion as the ultimate act of salvation.",
+          "cross_references": [
+            "Acts 2:23",
+            "Isaiah 53:10",
+            "Romans 8:32",
+            "Ephesians 1:11"
+          ]
+        },
+        {
+          "title": "Judicial Injustice and Spiritual Blindness",
+          "summary": "The religious leaders and Roman authorities demonstrate profound spiritual and legal corruption in their treatment of Jesus. Their actions reveal humanity's capacity for moral compromise and systemic rejection of divine truth.",
+          "cross_references": [
+            "John 11:50",
+            "Acts 13:27",
+            "1 Corinthians 2:8",
+            "Psalm 2:2-3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' response during His trial reveal divine character and redemptive purpose?",
+        "options": [
+          "Jesus' silence demonstrates sovereign control, not weakness",
+          "His non-violent resistance challenges systemic oppression",
+          "His willingness to suffer reveals unconditional love for humanity",
+          "His prophetic fulfillment validates divine mission"
+        ]
+      }
+    }
+  }
+}

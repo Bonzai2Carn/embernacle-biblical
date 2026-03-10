@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 96,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine declaring God's glory to the entire world, with joy and enthusiasm radiating from your heart",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you personally 'sing a new song' to the Lord that demonstrates His greatness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Compose a personal worship expression",
+            "response": "Write or create a unique way to praise God that comes from your authentic experience"
+          },
+          {
+            "id": 2,
+            "text": "Share God's goodness with someone new",
+            "response": "Tell a friend or stranger about a meaningful way God has worked in your life"
+          },
+          {
+            "id": 3,
+            "text": "Worship through creative arts",
+            "response": "Use music, poetry, or visual art to express your reverence for God's majesty"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing all the nations of the world praising God together, using bright colors and symbols of joy",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your understanding of worship?",
+        "options": [
+          "Worship is more than music - it's a lifestyle of declaring God's greatness",
+          "Every person and nation can participate in praising God",
+          "Worship involves both heart-feeling and active proclamation",
+          "God's glory transcends personal circumstances"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core message of praise resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Global worship proclamation",
+            "expansion": "The psalm calls for universal acknowledgment of God's glory beyond cultural boundaries."
+          },
+          {
+            "id": "2",
+            "text": "Divine majesty transcending human understanding",
+            "expansion": "God's greatness overwhelms and surpasses all earthly comprehension."
+          },
+          {
+            "id": "3",
+            "text": "Transformative power of praise",
+            "expansion": "Worship has the potential to reshape perspectives and invite divine presence."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If praise is a universal language, what prevents authentic worship from connecting all humanity?"
+      },
+      "moral_slider": {
+        "question": "How do personal limitations impact one's capacity for genuine spiritual praise?",
+        "left_label": "Human Limitation",
+        "right_label": "Divine Transcendence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship evolved?",
+        "options": [
+          "More inclusive of diverse expressions",
+          "Deeper appreciation for communal worship",
+          "Recognize worship as transformative action",
+          "Understand praise as spiritual alignment"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Universal Praise of God's Sovereignty",
+          "summary": "This psalm calls all nations and peoples to worship Yahweh as the supreme and universal King. It emphasizes God's glory transcending national boundaries and invites global worship and recognition of divine majesty.",
+          "cross_references": [
+            "Revelation 15:4",
+            "Isaiah 2:2-4",
+            "Romans 15:11",
+            "Zechariah 14:16-19"
+          ]
+        },
+        {
+          "title": "Divine Glory and Creation's Witness",
+          "summary": "The psalm portrays creation itself as a witness to God's greatness, with natural elements participating in praising the Lord. It highlights how God's redemptive and creative power demonstrate His unparalleled magnificence.",
+          "cross_references": [
+            "Psalm 19:1-4",
+            "Romans 1:20",
+            "Colossians 1:16-17",
+            "Isaiah 55:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm challenge contemporary understandings of worship and divine sovereignty?",
+        "options": [
+          "Worship is not limited to cultural or national boundaries",
+          "God's glory supersedes human-constructed religious frameworks",
+          "Creation itself is a medium of divine communication",
+          "Universal praise transcends individual religious experiences"
+        ]
+      }
+    }
+  }
+}

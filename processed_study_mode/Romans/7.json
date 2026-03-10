@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize the inner struggle between your desires and your best intentions. Breathe deeply and acknowledge the tension between spiritual aspiration and human weakness.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you experience the internal conflict between knowing what is right and actually doing it?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I constantly feel pulled between good intentions and sinful impulses",
+            "response": "Practice mindful prayer and accountability with a trusted friend"
+          },
+          {
+            "id": 2,
+            "text": "I sometimes struggle but generally maintain self-control",
+            "response": "Develop a daily spiritual discipline to strengthen inner resolve"
+          },
+          {
+            "id": 3,
+            "text": "I feel overwhelmed by my inability to consistently do what I know is right",
+            "response": "Seek counseling or spiritual mentorship to understand grace"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a person with two sides: one representing your ideal self, and one representing your struggles and temptations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Romans 7 changed your understanding of personal spiritual struggle?",
+        "options": [
+          "I understand my weakness more compassionately",
+          "I see the importance of relying on God's grace",
+          "I recognize the universal nature of inner spiritual conflict",
+          "I feel more hopeful about overcoming personal challenges"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological idea about law and relationship most resonates?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Legal bondage versus spiritual freedom",
+            "expansion": "The metaphor of marriage reveals how deeply we are bound before spiritual transformation."
+          },
+          {
+            "id": 2,
+            "text": "Death as a pathway to new relationship",
+            "expansion": "Our old self must symbolically 'die' to enter a new covenant with Christ."
+          },
+          {
+            "id": 3,
+            "text": "Internal struggle between desire and action",
+            "expansion": "The spiritual conflict within reveals our profound need for grace."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If the law reveals our weakness, how can it simultaneously be holy and expose our spiritual brokenness?"
+      },
+      "moral_slider": {
+        "question": "To what degree does human effort contribute to spiritual transformation?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Grace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual struggle evolved?",
+        "options": [
+          "I now see internal conflict as normal",
+          "Grace matters more than perfect performance",
+          "Transformation is a journey, not an instant",
+          "My identity is not defined by my failures"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Law and Spiritual Freedom",
+          "summary": "Paul uses a marriage metaphor to illustrate how believers are released from the legal covenant through Christ's death. This transition represents a fundamental transformation in spiritual relationship from legalistic obligation to grace-based intimacy.",
+          "cross_references": [
+            "Galatians 3:24-25",
+            "Ephesians 2:8-9",
+            "2 Corinthians 3:6",
+            "Jeremiah 31:31-34"
+          ]
+        },
+        {
+          "title": "Internal Spiritual Conflict",
+          "summary": "The chapter explores the profound inner struggle between the sinful nature and spiritual desire, highlighting humanity's inherent weakness in self-reformation. Paul reveals the necessity of divine intervention in overcoming spiritual bondage.",
+          "cross_references": [
+            "Galatians 5:17",
+            "James 4:1-2",
+            "1 Peter 2:11",
+            "Philippians 3:12-14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the passage redefine the believer's relationship with divine law?",
+        "options": [
+          "Law is replaced by unconditional grace",
+          "Law remains valid but is fulfilled through Christ",
+          "Law serves as a diagnostic tool for spiritual condition",
+          "Law is completely abolished for believers"
+        ]
+      }
+    }
+  }
+}

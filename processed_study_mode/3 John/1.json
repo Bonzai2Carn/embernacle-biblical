@@ -1,0 +1,117 @@
+{
+  "book": "3 John",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on the word 'truth' - imagine it flowing through your heart like a gentle, pure stream of light",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I actively supporting fellow believers in their spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Offer practical support",
+            "response": "Identify one believer this week to encourage or help practically"
+          },
+          {
+            "id": 2,
+            "text": "Practice hospitality",
+            "response": "Plan to host or welcome a missionary or church worker"
+          },
+          {
+            "id": 3,
+            "text": "Communicate genuine care",
+            "response": "Write a meaningful note of spiritual encouragement to someone"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two people, representing how you can support and love fellow believers in their faith journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this reading changed my understanding of spiritual community?",
+        "options": [
+          "I see supporting believers as more intentional",
+          "I recognize the importance of genuine love in faith",
+          "I want to be more hospitable to fellow Christians",
+          "I understand truth as an active, relational concept"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual hospitality resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Supporting traveling missionaries",
+            "expansion": "Practical faith means creating tangible pathways for spiritual work to continue."
+          },
+          {
+            "id": 2,
+            "text": "Walking in truth authentically",
+            "expansion": "Personal integrity is the foundational cornerstone of genuine spiritual witness."
+          },
+          {
+            "id": 3,
+            "text": "Loving beyond immediate community",
+            "expansion": "True Christian love transcends personal familiarity and extends to strangers."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual truth is a journey, how do we distinguish between genuine hospitality and mere performative kindness?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and spiritual service balance?",
+        "left_label": "Personal Comfort",
+        "right_label": "Sacrificial Service"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of Christian community?",
+        "options": [
+          "I see hospitality more as an active verb",
+          "Truth requires both words and actions",
+          "Supporting missionaries matters deeply",
+          "Love extends beyond familiar circles"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Hospitality",
+          "summary": "True Christian love extends beyond personal circles to include strangers and traveling missionaries. Genuine hospitality reflects spiritual maturity and demonstrates practical support for Gospel propagation.",
+          "cross_references": [
+            "Romans 12:13",
+            "Hebrews 13:2",
+            "1 Peter 4:9",
+            "Matthew 25:40"
+          ]
+        },
+        {
+          "title": "Walking in Truth",
+          "summary": "Authentic Christian discipleship is characterized by consistent alignment with divine truth, manifesting through actions, relationships, and spiritual integrity. Walking in truth is both an internal transformation and external demonstration.",
+          "cross_references": [
+            "John 14:6",
+            "Ephesians 4:15",
+            "2 John 1:4",
+            "Psalm 86:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual truth translate into practical Christian living?",
+        "options": [
+          "Truth is primarily doctrinal and intellectual",
+          "Truth manifests through compassionate service and authentic relationships",
+          "Truth is exclusively about personal spiritual experiences",
+          "Truth requires both theological understanding and missional action"
+        ]
+      }
+    }
+  }
+}

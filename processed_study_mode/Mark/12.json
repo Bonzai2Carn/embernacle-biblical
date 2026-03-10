@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine giving away something truly precious, reflecting on the widow's sacrificial offering in the temple",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you demonstrate genuine worship beyond mere outward appearances?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Evaluate my giving patterns",
+            "response": "Review personal financial contributions and motivations"
+          },
+          {
+            "id": 2,
+            "text": "Check my heart's sincerity",
+            "response": "Spend time in prayer examining true motivations for service"
+          },
+          {
+            "id": 3,
+            "text": "Practice radical generosity",
+            "response": "Look for unexpected opportunities to give sacrificially this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing what true worship looks like, using symbols representing heart, sacrifice, and love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of true discipleship?",
+        "options": [
+          "Worship is more about heart than ritual",
+          "Sacrificial giving matters more than amount",
+          "Standing for truth can be costly",
+          "Religious performance doesn't impress God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which moment in Mark 12 most reveals divine intention?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Wicked Tenants Parable",
+            "expansion": "God's persistent love persists even after repeated rejection"
+          },
+          {
+            "id": 2,
+            "text": "Paying Taxes to Caesar",
+            "expansion": "Spiritual obligations can coexist with civic responsibilities"
+          },
+          {
+            "id": 3,
+            "text": "The Greatest Commandment",
+            "expansion": "Love transcends ritual and becomes the fundamental spiritual practice"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine authority is constantly challenged, how do we discern genuine spiritual leadership?"
+      },
+      "moral_slider": {
+        "question": "How do religious institutions balance prophetic critique with institutional survival?",
+        "left_label": "Radical Critique",
+        "right_label": "Institutional Preservation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual authority shifted?",
+        "options": [
+          "More skeptical of religious institutions",
+          "Recognize complexity of spiritual leadership",
+          "Value authentic prophetic voices",
+          "Appreciate nuanced spiritual wisdom"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Authority and Rejection",
+          "summary": "Jesus challenges religious leadership through the parable of the vineyard tenants, revealing God's ultimate sovereignty and judgment. The parable demonstrates how spiritual leaders can become corrupt and reject divine messengers.",
+          "cross_references": [
+            "Isaiah 5:1-7",
+            "Matthew 21:33-46",
+            "Acts 4:11-12",
+            "Psalm 118:22-23"
+          ]
+        },
+        {
+          "title": "Rendering unto God and Caesar",
+          "summary": "Jesus provides profound insight into the relationship between spiritual and civic responsibilities, emphasizing that while earthly authorities have legitimate claims, ultimate allegiance belongs to God. The passage explores the nuanced balance between civic participation and spiritual devotion.",
+          "cross_references": [
+            "Romans 13:1-7",
+            "1 Peter 2:13-17",
+            "Daniel 3:16-18",
+            "Acts 5:29"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do spiritual authority and earthly governance intersect in Christian theological understanding?",
+        "options": [
+          "Absolute separation of spiritual and civic domains",
+          "Complementary roles with God's sovereignty as ultimate authority",
+          "Conditional submission based on alignment with divine principles",
+          "Complete subordination of civic authority to spiritual leadership"
+        ]
+      }
+    }
+  }
+}

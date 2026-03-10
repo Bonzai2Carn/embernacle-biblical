@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 33,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize God's presence. Breathe deeply and whisper, 'Show me Your glory.'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I experiencing God's presence in my daily journey?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I feel distant from God",
+            "response": "Spend 10 minutes in silent prayer, asking God to draw near"
+          },
+          {
+            "id": "B",
+            "text": "I want more of God's presence",
+            "response": "Study Scripture and journal about your spiritual hunger"
+          },
+          {
+            "id": "C",
+            "text": "I'm seeking God's guidance",
+            "response": "Create a prayer list specifically asking for divine direction"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a tent with a cloud of God's presence hovering nearby, representing Moses' intimate connection with God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of God's presence?",
+        "options": [
+          "God desires intimate relationship, not just rules",
+          "Seeking God requires persistent pursuit",
+          "God's presence is a privilege, not a guarantee",
+          "True transformation happens in God's presence"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine relationship most resonates?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's conditional presence",
+            "expansion": "Divine proximity requires human sanctification and readiness"
+          },
+          {
+            "id": 2,
+            "text": "Moses' intimate dialogue with God",
+            "expansion": "Authentic relationship emerges through persistent, vulnerable communication"
+          },
+          {
+            "id": 3,
+            "text": "The promise of divine guidance",
+            "expansion": "Spiritual journey requires trust beyond immediate understanding"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might divine withdrawal reveal more about human spiritual capacity than divine presence?"
+      },
+      "moral_slider": {
+        "question": "What determines the authenticity of spiritual relationship?",
+        "left_label": "External Compliance",
+        "right_label": "Internal Transformation"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of divine-human interaction?",
+        "options": [
+          "Recognized complexity of spiritual intimacy",
+          "Understood conditional nature of divine presence",
+          "Appreciated vulnerability in spiritual dialogue",
+          "Recognized personal responsibility in relationship with divine"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Presence and Covenant Renewal",
+          "summary": "God's decision to not directly accompany Israel reveals the profound consequences of their recent idolatry. This chapter demonstrates divine mercy alongside judicial separation, where God maintains His covenant promise while establishing boundaries.",
+          "cross_references": [
+            "Psalm 51:11",
+            "Isaiah 59:2",
+            "James 4:8",
+            "2 Corinthians 6:17"
+          ]
+        },
+        {
+          "title": "Moses' Intercession and Divine Relationship",
+          "summary": "Moses' extraordinary intimacy with God is highlighted through his bold requests for divine guidance and presence. His intercession reveals the transformative power of authentic, transparent communication with God.",
+          "cross_references": [
+            "James 5:16",
+            "Romans 8:26",
+            "Hebrews 7:25",
+            "1 Timothy 2:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's conditional presence challenge our understanding of divine relationship?",
+        "options": [
+          "God's holiness demands human transformation",
+          "Divine relationship requires mutual commitment",
+          "Sin creates relational distance with God",
+          "Intercession can restore divine proximity"
+        ]
+      }
+    }
+  }
+}

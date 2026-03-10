@@ -1,0 +1,117 @@
+{
+  "book": "Esther",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on how pride can lead to poor decisions, like King Ahasuerus displaying his wealth and demanding his wife's obedience",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I handle situations where my pride might cause me to make unwise choices?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek advice from wise counselors",
+            "response": "Ask a trusted friend or mentor for perspective before making a significant decision"
+          },
+          {
+            "id": 2,
+            "text": "Practice humility in leadership",
+            "response": "Consciously consider others' feelings and perspectives before acting"
+          },
+          {
+            "id": 3,
+            "text": "Recognize the potential consequences of pride",
+            "response": "Pause and reflect on potential long-term impacts of impulsive actions"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a royal feast showing the contrast between external grandeur and internal emptiness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Esther 1 challenged your understanding of power and leadership?",
+        "options": [
+          "Power without wisdom can be destructive",
+          "Personal pride can lead to harmful decisions",
+          "Leadership requires emotional intelligence",
+          "Cultural contexts greatly influence leadership styles"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of power reveals the most about human nature?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "King's lavish feast demonstrating wealth",
+            "expansion": "Displays how power often seeks public validation and external affirmation."
+          },
+          {
+            "id": 2,
+            "text": "Queen Vashti's refusal to be objectified",
+            "expansion": "Reveals individual dignity can challenge systemic authority."
+          },
+          {
+            "id": 3,
+            "text": "King's impulsive decree after rejection",
+            "expansion": "Illustrates how wounded pride can lead to disproportionate retaliatory actions."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does personal dignity intersect with societal expectations, and who ultimately determines the boundaries?"
+      },
+      "moral_slider": {
+        "question": "How do personal principles balance against cultural/institutional norms?",
+        "left_label": "Individual Integrity",
+        "right_label": "Collective Compliance"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on power dynamics shifted after examining this narrative?",
+        "options": [
+          "Recognized complexity of authority",
+          "Understood personal dignity's importance",
+          "Noticed emotional reactivity in leadership",
+          "Saw systemic gender dynamics"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Royal Power and Human Pride",
+          "summary": "King Ahasuerus displays extreme human pride through an extravagant display of wealth and authority. The narrative reveals how earthly power can become a manifestation of human ego and temporal significance.",
+          "cross_references": [
+            "Daniel 4:30",
+            "Proverbs 16:18",
+            "1 John 2:16",
+            "James 4:6"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty in Political Circumstances",
+          "summary": "Even in a seemingly secular royal court, God's providence is subtly at work, preparing circumstances for future divine intervention. The complex political dynamics set the stage for unexpected redemptive outcomes.",
+          "cross_references": [
+            "Romans 8:28",
+            "Psalm 75:6-7",
+            "Proverbs 21:1",
+            "Acts 17:26"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine providence intersect with human free will in political leadership decisions?",
+        "options": [
+          "Human decisions are entirely autonomous from divine influence",
+          "God strategically guides human choices without violating personal agency",
+          "Political leaders are merely instruments of predetermined divine plans",
+          "Divine intervention is conditional upon human righteousness"
+        ]
+      }
+    }
+  }
+}

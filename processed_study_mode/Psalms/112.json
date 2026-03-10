@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 112,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, visualizing a life where righteousness and generosity naturally flow from your heart",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I become a person who brings light and hope to others through my actions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Practice intentional generosity",
+            "response": "Set aside a specific amount of money or time each week to help someone in need"
+          },
+          {
+            "id": 2,
+            "text": "Develop resilient faith during challenges",
+            "response": "Journal about how your faith sustains you during difficult times"
+          },
+          {
+            "id": 3,
+            "text": "Be a source of stability for others",
+            "response": "Offer consistent emotional and practical support to someone in your community"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a person with a bright, glowing heart spreading light to others around them",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of what true spiritual strength looks like?",
+        "options": [
+          "Strength is not about personal power, but about serving others",
+          "Faith creates resilience in difficult circumstances",
+          "Generosity and compassion are signs of spiritual maturity",
+          "Righteousness brings inner peace and external stability"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of righteousness resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Righteousness as generosity",
+            "expansion": "True righteousness manifests through compassionate giving and supporting those in need."
+          },
+          {
+            "id": "b",
+            "text": "Steadfast faith amid challenges",
+            "expansion": "Maintaining unwavering trust in God's guidance, even when circumstances seem uncertain."
+          },
+          {
+            "id": "c",
+            "text": "Inner peace from divine alignment",
+            "expansion": "Living with integrity creates a profound sense of spiritual and emotional stability."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might genuine righteousness transform societal structures if practiced universally?"
+      },
+      "moral_slider": {
+        "question": "Where does personal prosperity intersect with spiritual responsibility?",
+        "left_label": "Individual Success",
+        "right_label": "Community Welfare"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of righteousness evolved?",
+        "options": [
+          "Shifted from legalistic to compassionate perspective",
+          "Recognized interconnectedness of personal and communal spiritual health",
+          "Understood righteousness as active engagement, not passive compliance",
+          "Appreciated the dynamic nature of spiritual growth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Righteousness and Divine Blessing",
+          "summary": "The psalm explores how obedience and fear of God result in profound spiritual and material blessings. It describes the character and inheritance of those who reverence divine commandments.",
+          "cross_references": [
+            "Proverbs 3:9-10",
+            "James 1:12",
+            "Matthew 6:33",
+            "2 Corinthians 9:10"
+          ]
+        },
+        {
+          "title": "Godly Character in Adversity",
+          "summary": "This psalm illustrates how the righteous maintain stability, compassion, and courage during challenging circumstances. It emphasizes spiritual resilience rooted in trust in God's providence.",
+          "cross_references": [
+            "Isaiah 41:10",
+            "Romans 8:28",
+            "Philippians 4:13",
+            "1 Peter 5:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal righteousness intersect with divine blessing in a believer's life?",
+        "options": [
+          "Righteousness is solely a personal moral achievement",
+          "Divine blessing is independent of human behavior",
+          "Righteousness creates a spiritual environment for God's blessings",
+          "Blessings are predetermined and unaffected by human actions"
+        ]
+      }
+    }
+  }
+}

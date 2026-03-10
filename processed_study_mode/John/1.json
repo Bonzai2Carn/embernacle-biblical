@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and visualize light piercing through darkness, representing Christ's eternal presence",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you allow Christ's light to shine through you today?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Speak kindness to someone struggling",
+            "response": "Intentionally offer encouragement to someone who seems discouraged"
+          },
+          {
+            "id": 2,
+            "text": "Share your personal faith journey",
+            "response": "Look for a natural opportunity to share how Christ has transformed your life"
+          },
+          {
+            "id": 3,
+            "text": "Serve someone unexpectedly",
+            "response": "Perform an anonymous act of service without seeking recognition"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing 'light overcoming darkness', using only white and black colors",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christ's divine nature changed after reading this chapter?",
+        "options": [
+          "I see Jesus more as God than ever before",
+          "I understand His creative power more deeply",
+          "I recognize how He brings hope to darkness",
+          "I feel more connected to His eternal existence"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of the Word's nature most intrigues you?",
+        "choices": [
+          {
+            "id": "divine_origin",
+            "text": "The Word was with God and was God",
+            "expansion": "The mysterious co-eternal and co-equal nature of divine personhood challenges linear human understanding."
+          },
+          {
+            "id": "creative_power",
+            "text": "All things were made through Him",
+            "expansion": "The creative agency of the Word reveals divine intentionality in universal design."
+          },
+          {
+            "id": "light_metaphor",
+            "text": "The life was the light of men",
+            "expansion": "Light represents comprehension, revelation, and spiritual illumination beyond mere physical perception."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If the Word existed before creation, what does this suggest about the nature of existence itself?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine transcendence with personal relationship?",
+        "left_label": "Distant Absolute",
+        "right_label": "Intimate Presence"
+      },
+      "reevaluation": {
+        "question": "How has this passage reshaped your understanding of divine identity?",
+        "options": [
+          "I see divinity as more complex",
+          "I recognize deeper mystical dimensions",
+          "I'm more aware of symbolic spiritual language",
+          "I'm challenged to think beyond literal interpretations"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Eternal Word",
+          "summary": "John introduces Jesus as the pre-existent divine Logos, existing before creation and being fully God. This passage reveals Christ's divine nature and his role in creation as an eternal, creative being.",
+          "cross_references": [
+            "Colossians 1:15-17",
+            "Hebrews 1:2-3",
+            "Proverbs 8:22-31",
+            "Revelation 1:8"
+          ]
+        },
+        {
+          "title": "Light and Darkness",
+          "summary": "The metaphorical battle between light and darkness represents the spiritual conflict between divine truth and human ignorance. Christ's incarnation brings divine illumination into a world of spiritual darkness.",
+          "cross_references": [
+            "1 John 1:5",
+            "Isaiah 9:2",
+            "Matthew 4:16",
+            "2 Corinthians 4:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What does the 'Word' (Logos) reveal about Christ's nature and relationship to God?",
+        "options": [
+          "Christ is a created being, subordinate to God",
+          "Christ is fully divine, co-eternal with the Father",
+          "Christ is a metaphorical representation of divine wisdom",
+          "Christ is a separate entity from God with distinct purposes"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Haggai",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize prioritizing God's work over personal comfort, breathing slowly and releasing distractions",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What personal projects might be preventing you from investing in spiritual growth?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Career advancement",
+            "response": "Schedule dedicated prayer/study time each week"
+          },
+          {
+            "id": 2,
+            "text": "Personal entertainment",
+            "response": "Reduce screen time and replace with spiritual reading"
+          },
+          {
+            "id": 3,
+            "text": "Financial pursuits",
+            "response": "Commit a percentage of income to kingdom work"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a house with two rooms: one beautifully decorated, one empty and neglected. Represent how we sometimes prioritize personal comfort over spiritual priorities.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this reading changed your perspective on personal priorities?",
+        "options": [
+          "I recognize I've been self-focused",
+          "I want to realign my time with God's purposes",
+          "I see the importance of community spiritual work",
+          "I feel challenged to be more intentional"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual priority resonates most deeply?",
+        "choices": [
+          {
+            "id": "delay",
+            "text": "Procrastinating God's work",
+            "expansion": "Comfort often delays divine mission and personal spiritual growth."
+          },
+          {
+            "id": "priority",
+            "text": "Rebuilding the Temple",
+            "expansion": "Restoring sacred spaces reflects inner spiritual commitment."
+          },
+          {
+            "id": "leadership",
+            "text": "Prophetic confrontation",
+            "expansion": "Challenging societal complacency requires courage and divine perspective."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When you say 'the time is not right', are you truly discerning God's timing or merely avoiding personal responsibility?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and divine calling intersect?",
+        "left_label": "Personal Comfort",
+        "right_label": "Divine Mandate"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual priorities?",
+        "options": [
+          "I recognize my tendency to delay spiritual work",
+          "I see the importance of community restoration",
+          "I understand leadership requires prophetic courage",
+          "I'm more aware of rationalizing spiritual inaction"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Priorities",
+          "summary": "God challenges the people's misplaced priorities of personal comfort over spiritual restoration. The prophet confronts the community's self-centeredness and lack of commitment to rebuilding the temple.",
+          "cross_references": [
+            "Matthew 6:33",
+            "Psalm 127:1",
+            "Zechariah 4:6",
+            "1 Corinthians 3:11"
+          ]
+        },
+        {
+          "title": "Spiritual Negligence",
+          "summary": "The people's delayed temple reconstruction reveals a deeper spiritual apathy and disconnect from God's purposes. Their economic struggles are directly linked to their spiritual disobedience.",
+          "cross_references": [
+            "Malachi 3:10",
+            "Haggai 2:15-19",
+            "Amos 4:9",
+            "2 Chronicles 7:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal spiritual neglect impact broader community blessing?",
+        "options": [
+          "Individual spiritual lethargy directly influences communal spiritual health",
+          "Divine blessing is contingent upon collective obedience and prioritization",
+          "Spiritual restoration precedes material and economic prosperity",
+          "Delayed spiritual commitments result in diminished spiritual and material outcomes"
+        ]
+      }
+    }
+  }
+}

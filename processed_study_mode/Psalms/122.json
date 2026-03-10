@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 122,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize Jerusalem as a place of unity, peace, and spiritual connection",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I contribute to unity and peace in my own community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray for local leaders and community members",
+            "response": "Set aside 5 minutes daily for intentional community prayer"
+          },
+          {
+            "id": 2,
+            "text": "Build bridges across different social groups",
+            "response": "Initiate a conversation with someone from a different background this week"
+          },
+          {
+            "id": 3,
+            "text": "Support local community initiatives",
+            "response": "Research and volunteer for a local peace-building organization"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a city where people from different backgrounds are living together in harmony",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed my understanding of community and spiritual unity?",
+        "options": [
+          "I see community as more than just a physical location",
+          "Unity requires intentional effort and prayer",
+          "Spiritual connection transcends personal differences",
+          "Peace is an active, collaborative process"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Jerusalem's significance resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Unity of Believers",
+            "expansion": "The city represents collective spiritual identity and communal connection."
+          },
+          {
+            "id": 2,
+            "text": "Divine Testimony",
+            "expansion": "Jerusalem embodies God's historical covenant and ongoing relationship with His people."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Pilgrimage",
+            "expansion": "The journey to Jerusalem symbolizes intentional spiritual seeking and transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If Jerusalem represents spiritual unity, how do we transcend geographical and denominational boundaries in authentic worship?"
+      },
+      "moral_slider": {
+        "question": "How do personal spiritual experiences balance with communal worship traditions?",
+        "left_label": "Individual Spirituality",
+        "right_label": "Collective Religious Practice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual community evolved?",
+        "options": [
+          "Deeper appreciation for collective worship",
+          "Recognizing universal spiritual connections",
+          "Understanding symbolic significance of sacred spaces",
+          "Embracing diversity within spiritual traditions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Pilgrim's Joy in Worship",
+          "summary": "The psalm celebrates the spiritual anticipation of journeying to Jerusalem for worship. It reflects deep communal joy and spiritual unity among God's people during sacred gatherings.",
+          "cross_references": [
+            "Deuteronomy 16:16",
+            "Isaiah 2:3",
+            "Zechariah 8:21-22",
+            "Hebrews 12:22-24"
+          ]
+        },
+        {
+          "title": "Divine Community and Peace",
+          "summary": "This psalm emphasizes the theological significance of Jerusalem as a center of spiritual community and divine governance. It highlights the interconnectedness of worship, justice, and communal harmony.",
+          "cross_references": [
+            "Psalm 48:1-2",
+            "Isaiah 56:7",
+            "Revelation 21:2",
+            "Galatians 4:26"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the spiritual significance of Jerusalem in this psalm translate to contemporary Christian understanding of sacred community?",
+        "options": [
+          "Jerusalem represents the literal geographic location of divine presence",
+          "Jerusalem symbolizes the spiritual kingdom of God transcending physical boundaries",
+          "The psalm's communal worship model is exclusively historical and not applicable today",
+          "Jerusalem represents the collective spiritual experience of believers worldwide"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on your family lineage, remembering that each generation carries stories and significance",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I honor the legacy of my family's past while creating my own unique path?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Learn and document family stories",
+            "response": "Start a family history journal or digital archive"
+          },
+          {
+            "id": 2,
+            "text": "Embrace family strengths while pursuing personal growth",
+            "response": "Identify positive family traits and intentionally develop them"
+          },
+          {
+            "id": 3,
+            "text": "Break negative generational patterns",
+            "response": "Seek counseling or personal development resources"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree with branches representing different generations, including names and their unique contributions",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogy changed your perspective on family and personal history?",
+        "options": [
+          "I see the importance of remembering my roots",
+          "Family history is more complex than I realized",
+          "Each generation has a unique story to tell",
+          "My personal journey is connected to something larger"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which genealogical thread speaks most profoundly about human legacy?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family Continuity",
+            "expansion": "Genealogies reveal how identity is transmitted across generations through bloodline and covenant."
+          },
+          {
+            "id": 2,
+            "text": "Individual Achievement",
+            "expansion": "Each name represents potential stories of personal transformation and individual significance."
+          },
+          {
+            "id": 3,
+            "text": "Communal Persistence",
+            "expansion": "The survival of tribal lineages demonstrates collective resilience through historical challenges."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do names and ancestral records reveal more about human dignity than mere biological succession?"
+      },
+      "moral_slider": {
+        "question": "To what extent do familial origins determine personal destiny?",
+        "left_label": "Predetermined",
+        "right_label": "Self-Determined"
+      },
+      "reevaluation": {
+        "question": "How has exploring these genealogical records shifted your understanding of human narrative?",
+        "options": [
+          "I see deeper interconnectedness",
+          "I recognize individual agency within collective history",
+          "I appreciate the complexity of human lineage",
+          "I understand historical continuity differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Genealogical Significance",
+          "summary": "Chronicles demonstrates God's meticulous record-keeping of familial lineages, revealing divine intentionality in preserving historical identity. These genealogies highlight the importance of family heritage and God's covenant preservation through generational lines.",
+          "cross_references": [
+            "Genesis 12:2",
+            "Matthew 1:1-17",
+            "Luke 3:23-38",
+            "Galatians 3:29"
+          ]
+        },
+        {
+          "title": "Divine Providence in Family Lines",
+          "summary": "Even within complex genealogical records, God's sovereign hand is evident in selecting and guiding specific family lines. The text reveals how seemingly mundane family histories are part of God's larger redemptive narrative.",
+          "cross_references": [
+            "Romans 9:6-8",
+            "Ephesians 1:11",
+            "Isaiah 46:10",
+            "Jeremiah 29:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand the theological significance of detailed biblical genealogies?",
+        "options": [
+          "As precise historical documentation demonstrating God's covenant faithfulness",
+          "As symbolic representations of spiritual inheritance and divine selection",
+          "As evidence of Israel's cultural commitment to familial record-keeping",
+          "As prophetic indicators of messianic lineage and divine plan"
+        ]
+      }
+    }
+  }
+}

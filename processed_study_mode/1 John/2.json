@@ -1,0 +1,117 @@
+{
+  "book": "1 John",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus as your personal Advocate, standing between you and your sins, offering grace and redemption",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I actively demonstrating love and obedience to God's commandments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I need to improve my daily spiritual disciplines",
+            "response": "Create a simple prayer and Bible reading plan"
+          },
+          {
+            "id": 2,
+            "text": "I want to love others more genuinely",
+            "response": "Practice one intentional act of kindness this week"
+          },
+          {
+            "id": 3,
+            "text": "I struggle with consistent obedience",
+            "response": "Journal about areas where you need God's transformative grace"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of Jesus as your defender/advocate, standing between you and darkness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading 1 John 2 shifted your understanding of God's love and grace?",
+        "options": [
+          "I see God's love as more personal",
+          "I understand grace more deeply",
+          "I recognize my need for constant redemption",
+          "I feel more motivated to live righteously"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological insight most resonates with you about knowing Christ?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Obedience reveals true relationship",
+            "expansion": "Keeping Christ's commandments is the authentic proof of genuine spiritual connection."
+          },
+          {
+            "id": 2,
+            "text": "Christ as our Advocate",
+            "expansion": "Jesus intercedes personally and continuously on our behalf before the Father."
+          },
+          {
+            "id": 3,
+            "text": "Universal redemptive scope",
+            "expansion": "Christ's propitiation extends beyond individual salvation to encompass the entire world's potential reconciliation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If claiming to know Christ requires obedience, how do you reconcile human imperfection with spiritual authenticity?"
+      },
+      "moral_slider": {
+        "question": "Where do you currently stand between legalistic obedience and grace-filled transformation?",
+        "left_label": "Rule-following",
+        "right_label": "Heart transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual intimacy with Christ evolved?",
+        "options": [
+          "Deeper appreciation of grace",
+          "Increased emphasis on personal responsibility",
+          "More holistic view of redemption",
+          "Greater understanding of Christ's advocacy"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christ as Advocate and Propitiation",
+          "summary": "John emphasizes Christ's dual role in redemption - as the legal advocate before God the Father and the sacrificial atonement for human sin. This theological concept highlights both divine justice and mercy in the process of human reconciliation with God.",
+          "cross_references": [
+            "Romans 8:34",
+            "Hebrews 7:25",
+            "Hebrews 9:15",
+            "1 Timothy 2:5"
+          ]
+        },
+        {
+          "title": "Obedience and Authentic Faith",
+          "summary": "True spiritual relationship with God is demonstrated through active obedience to divine commandments, not merely intellectual assent. Keeping God's word reveals genuine spiritual transformation and authentic Christian discipleship.",
+          "cross_references": [
+            "James 2:17",
+            "John 14:15",
+            "Matthew 7:21",
+            "Ephesians 2:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's advocacy impact the believer's understanding of sin and grace?",
+        "options": [
+          "Christ's advocacy provides complete legal coverage for human weakness",
+          "Advocacy implies unconditional acceptance regardless of behavioral choices",
+          "Divine advocacy requires corresponding human responsiveness and repentance",
+          "Advocacy is primarily a judicial transaction with minimal personal transformation"
+        ]
+      }
+    }
+  }
+}

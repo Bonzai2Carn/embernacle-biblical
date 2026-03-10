@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine pouring out your most precious possession as an act of pure worship, just as Mary poured her expensive perfume on Jesus' feet",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate extravagant love and devotion to Jesus this week?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Give sacrificially to someone in need",
+            "response": "Identify a specific person or cause to support financially"
+          },
+          {
+            "id": 2,
+            "text": "Spend extended time in worship",
+            "response": "Set aside an hour for uninterrupted prayer and praise"
+          },
+          {
+            "id": 3,
+            "text": "Share my faith boldly",
+            "response": "Look for an opportunity to testify about Jesus' impact in my life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of Jesus surrounded by people who deeply love and worship Him, showing different expressions of devotion",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of worship and sacrifice?",
+        "options": [
+          "I see worship as more than just singing",
+          "I understand the value of costly devotion",
+          "I recognize Jesus' worth more deeply",
+          "I'm challenged to love Jesus more genuinely"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound moment most reveals Jesus' character in this chapter?",
+        "choices": [
+          {
+            "id": "mary_anointing",
+            "text": "Mary's extravagant worship",
+            "expansion": "Sacrificial love transcends practical economics and social expectations."
+          },
+          {
+            "id": "jesus_prophecy",
+            "text": "Jesus predicting His death",
+            "expansion": "Spiritual awareness and purposeful surrender demonstrate divine intentionality."
+          },
+          {
+            "id": "crowd_response",
+            "text": "The mixed reactions to Jesus",
+            "expansion": "Humanity's complexity in responding to transformative spiritual encounters."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If true worship requires total surrender, what 'costly perfume' are you withholding from your spiritual journey?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and divine purpose intersect in suffering?",
+        "left_label": "Personal Preservation",
+        "right_label": "Sacrificial Mission"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of discipleship?",
+        "options": [
+          "Recognized deeper meaning of sacrifice",
+          "Questioned my own spiritual motivations",
+          "Saw vulnerability as strength",
+          "Understood faith beyond logical reasoning"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Sacrificial Worship",
+          "summary": "Mary's costly anointing of Jesus demonstrates radical, unreserved devotion. Her act symbolizes complete surrender and recognition of Christ's impending sacrificial mission.",
+          "cross_references": [
+            "Mark 14:3-9",
+            "Luke 7:36-50",
+            "Matthew 26:6-13",
+            "Romans 12:1"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty in Redemption",
+          "summary": "The chapter reveals Jesus' intentional movement toward crucifixion, demonstrating God's predetermined plan of salvation. Christ's words and actions show conscious alignment with the Father's redemptive purpose.",
+          "cross_references": [
+            "Isaiah 53:7",
+            "Acts 2:23",
+            "Revelation 13:8",
+            "Ephesians 1:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' approaching death challenge traditional messianic expectations?",
+        "options": [
+          "The Messiah would triumph through apparent weakness",
+          "Divine victory occurs through sacrificial love",
+          "Spiritual kingdom supersedes political liberation",
+          "Redemption requires voluntary submission"
+        ]
+      }
+    }
+  }
+}

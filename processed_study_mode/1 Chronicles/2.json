@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a quiet moment to reflect on your family lineage and God's faithfulness across generations",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding your family's spiritual history impact your personal faith journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Learn more about family spiritual heritage",
+            "response": "Research family history and talk to elder relatives about faith stories"
+          },
+          {
+            "id": 2,
+            "text": "Recognize generational patterns",
+            "response": "Pray about breaking negative generational cycles"
+          },
+          {
+            "id": 3,
+            "text": "Appreciate God's redemptive plan",
+            "response": "Journal about how God works through imperfect family lines"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree that includes both challenging and positive family members, showing God's grace",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Judah's complex family story changed your perspective on God's grace?",
+        "options": [
+          "God uses imperfect people",
+          "Family history doesn't define destiny",
+          "Redemption is always possible",
+          "Personal choices matter deeply"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which genealogical insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine judgment of wickedness",
+            "expansion": "God actively intervenes to remove those who persistently oppose His standards."
+          },
+          {
+            "id": 2,
+            "text": "Redemptive lineage through imperfect people",
+            "expansion": "Even complicated family histories can be part of God's larger narrative of salvation."
+          },
+          {
+            "id": 3,
+            "text": "Importance of genealogical record-keeping",
+            "expansion": "Individual stories matter within the broader context of communal identity and divine purpose."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do individual moral choices ripple through generations, and can divine judgment be simultaneously an act of justice and mercy?"
+      },
+      "moral_slider": {
+        "question": "To what extent does personal character determine divine blessing?",
+        "left_label": "Individual Weakness",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical genealogy shifted?",
+        "options": [
+          "Recognize complexity of human relationships",
+          "Appreciate divine sovereignty",
+          "Understand narrative continuity",
+          "See individual stories within collective context"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Genealogy",
+          "summary": "God's providential plan is evident through detailed lineage tracking, demonstrating His intentional involvement in human history. The genealogical record reveals God's commitment to covenant promises and His selection of specific family lines.",
+          "cross_references": [
+            "Genesis 12:2-3",
+            "Romans 9:6-8",
+            "Matthew 1:1-17",
+            "Galatians 3:29"
+          ]
+        },
+        {
+          "title": "Moral Accountability Before God",
+          "summary": "The narrative of Er's death illustrates God's judgment on individual wickedness, emphasizing personal moral responsibility. Divine evaluation transcends familial status and requires individual righteousness.",
+          "cross_references": [
+            "Ezekiel 18:20",
+            "Romans 2:6-8",
+            "Galatians 6:7-8",
+            "Proverbs 11:21"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's sovereign selection of genealogical lines relate to individual human agency?",
+        "options": [
+          "Divine predestination completely overrides human choice",
+          "God works through human decisions while maintaining ultimate control",
+          "Genealogical selection implies unconditional election",
+          "Individual moral choices remain critically important alongside divine planning"
+        ]
+      }
+    }
+  }
+}

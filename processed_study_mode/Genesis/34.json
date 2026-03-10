@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 34,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and reflect on the importance of treating others with respect and dignity, especially those who are vulnerable.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I protect and honor the dignity of others in challenging situations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Speak up against injustice",
+            "response": "Develop courage to stand against harmful behaviors or actions that violate others' rights"
+          },
+          {
+            "id": 2,
+            "text": "Promote understanding and peace",
+            "response": "Seek peaceful dialogue and seek to understand different perspectives before reacting"
+          },
+          {
+            "id": 3,
+            "text": "Provide support to the vulnerable",
+            "response": "Create safe spaces and support systems for those who might be marginalized or at risk"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing what protection and respect look like in a community where everyone is valued",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of conflict resolution?",
+        "options": [
+          "I see the dangers of revenge",
+          "I understand the importance of communication",
+          "I recognize how emotions can lead to destructive actions",
+          "I learned about the complexity of human relationships"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of human response to violation most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Emotional Trauma",
+            "expansion": "The profound psychological impact of violation transcends immediate physical harm"
+          },
+          {
+            "id": 2,
+            "text": "Family Protection",
+            "expansion": "Familial bonds can drive extreme responses to perceived threats against vulnerable members"
+          },
+          {
+            "id": 3,
+            "text": "Cultural Conflict",
+            "expansion": "Intercultural misunderstandings can escalate quickly when fundamental values clash"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does righteous anger transform into disproportionate revenge, and who determines that boundary?"
+      },
+      "moral_slider": {
+        "question": "How do personal justice and communal peace balance when grave wrongs occur?",
+        "left_label": "Individual Retribution",
+        "right_label": "Collective Reconciliation"
+      },
+      "reevaluation": {
+        "question": "How has this narrative challenged your understanding of justice and forgiveness?",
+        "options": [
+          "I see more complexity in familial protection",
+          "I recognize the dangers of disproportionate response",
+          "I understand cultural misunderstandings better",
+          "I'm more aware of power dynamics in relationships"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Sexual Violence and Moral Accountability",
+          "summary": "The chapter reveals the devastating consequences of sexual assault and the complex dynamics of honor, revenge, and familial protection. It exposes the deeply traumatic impact of sexual violation on individuals and communities.",
+          "cross_references": [
+            "Deuteronomy 22:25-29",
+            "2 Samuel 13:1-22",
+            "Judges 19:22-30",
+            "Jeremiah 6:15"
+          ]
+        },
+        {
+          "title": "Divine Covenant and Human Moral Failure",
+          "summary": "Genesis 34 demonstrates the tension between God's covenant promises and human beings' sinful, vengeful actions. The narrative reveals how human anger and retribution can corrupt and undermine spiritual integrity.",
+          "cross_references": [
+            "Romans 12:19",
+            "Matthew 5:38-48",
+            "Galatians 6:7-8",
+            "Proverbs 20:22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand divine justice and human moral responsibility in cases of extreme personal violation?",
+        "options": [
+          "God's redemptive plan transcends human violence and vengeance",
+          "Victims have legitimate rights to seek legal and communal accountability",
+          "Forgiveness and restoration should be the ultimate spiritual goal",
+          "Systemic cultural protections must be established to prevent such violations"
+        ]
+      }
+    }
+  }
+}

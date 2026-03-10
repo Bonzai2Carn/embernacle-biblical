@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a moment of silence to honor the memory of a loved one, reflecting on Sarah's life and Abraham's deep grief",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you demonstrate respect and compassion during times of loss and mourning?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen and be present for grieving friends",
+            "response": "Practice active, empathetic listening without trying to fix their pain"
+          },
+          {
+            "id": 2,
+            "text": "Help with practical needs during bereavement",
+            "response": "Offer tangible support like meals, errands, or memorial assistance"
+          },
+          {
+            "id": 3,
+            "text": "Honor the deceased's memory through storytelling",
+            "response": "Share positive memories and celebrate their life's impact"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene showing Abraham negotiating respectfully to purchase a burial place for Sarah",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of grief and cultural respect?",
+        "options": [
+          "Grief is a universal human experience",
+          "Negotiation can be done with dignity and mutual respect",
+          "Family connections and honoring loved ones transcend cultural boundaries",
+          "Sacred moments of loss reveal deep human compassion"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about Abraham's grief and land negotiation?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Dignity in mourning",
+            "expansion": "Abraham demonstrates profound respect for Sarah's memory through deliberate, culturally sensitive burial preparations."
+          },
+          {
+            "id": 2,
+            "text": "Negotiation as spiritual practice",
+            "expansion": "Abraham's careful land transaction reveals deep principles of integrity and intentionality beyond mere economic exchange."
+          },
+          {
+            "id": 3,
+            "text": "Outsider's vulnerability",
+            "expansion": "Abraham's status as a 'foreigner' highlights the complex dynamics of belonging and hospitality in ancient community structures."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might grief transform our understanding of belonging and community?"
+      },
+      "moral_slider": {
+        "question": "What matters more: personal emotional closure or communal agreement?",
+        "left_label": "Individual Need",
+        "right_label": "Collective Consent"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on mourning and memorial changed?",
+        "options": [
+          "More aware of cultural burial practices",
+          "Recognize emotional complexity of loss",
+          "Appreciate nuanced interpersonal negotiations",
+          "See land ownership as deeply symbolic"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Grief and Dignity in Loss",
+          "summary": "Abraham's mourning for Sarah demonstrates profound respect for human life and the dignity of death. His careful negotiation for a burial site reveals the cultural and spiritual importance of honoring the deceased.",
+          "cross_references": [
+            "2 Samuel 21:9-14",
+            "Ecclesiastes 3:1-2",
+            "1 Thessalonians 4:13-14",
+            "Job 1:20-21"
+          ]
+        },
+        {
+          "title": "Covenant Land Acquisition",
+          "summary": "Abraham's purchase of the Machpelah cave represents his first literal land ownership in the Promised Land, symbolizing God's unfolding covenant promise. This transaction occurs through respectful negotiation, not conquest.",
+          "cross_references": [
+            "Genesis 17:8",
+            "Acts 7:5",
+            "Hebrews 11:9-10",
+            "Joshua 24:32"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Abraham's response to Sarah's death reflect theological understanding of mortality and divine promise?",
+        "options": [
+          "Demonstrates faith in God's continued blessing despite personal loss",
+          "Reveals cultural practices of mourning and land inheritance",
+          "Symbolizes transitional moments in covenant relationship",
+          "Illustrates spiritual maturity in handling grief"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 18,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine persistently seeking God's help, like the widow pursuing justice. Take deep breaths and visualize your prayer breaking through barriers.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in your life are you tempted to give up on prayer or God's intervention?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Personal Relationship Challenge",
+            "response": "Commit to daily prayer specifically for that relationship, without losing hope"
+          },
+          {
+            "id": 2,
+            "text": "Career/Opportunity Struggle",
+            "response": "Create a focused prayer journal tracking your persistent requests and God's responses"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Growth Barrier",
+            "response": "Schedule consistent prayer times and invite an accountability partner"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself standing boldly before God, presenting your most persistent request. Use bold colors to represent courage and faith.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of prayer?",
+        "options": [
+          "Prayer is about persistence, not just performance",
+          "God always hears, even when answers seem delayed",
+          "My faith matters more than my circumstances",
+          "Prayer is a conversation, not just a transaction"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of persistent prayer resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Persistence despite apparent silence",
+            "expansion": "True prayer transcends immediate outcomes and trusts in divine timing."
+          },
+          {
+            "id": 2,
+            "text": "Challenging systemic injustice through determination",
+            "expansion": "Consistent advocacy can transform even indifferent systems."
+          },
+          {
+            "id": 3,
+            "text": "The power of an individual's unwavering spirit",
+            "expansion": "One person's relentless pursuit can ultimately move immovable obstacles."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine justice is guaranteed, why must we still persist in prayer and action?"
+      },
+      "moral_slider": {
+        "question": "How do human persistence and divine sovereignty interact in prayer?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has this parable challenged your understanding of prayer?",
+        "options": [
+          "I see prayer as more active and confrontational",
+          "I understand persistence differently now",
+          "I recognize my own tendency to give up too quickly",
+          "I see prayer as a dialogue, not just a request"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Persistent Prayer",
+          "summary": "This parable demonstrates the importance of consistent and unwavering prayer, emphasizing that believers should continually approach God with their requests, even when answers seem delayed. The narrative illustrates that persistent faith ultimately prevails through continued supplication.",
+          "cross_references": [
+            "Romans 12:12",
+            "1 Thessalonians 5:17",
+            "Ephesians 6:18",
+            "James 5:16"
+          ]
+        },
+        {
+          "title": "Divine Justice and Human Persistence",
+          "summary": "The passage reveals God's character through a judicial metaphor, showing that if an unrighteous judge can eventually respond to persistent request, how much more will a loving God answer His children's prayers. The parable underscores the relationship between human persistence and divine responsiveness.",
+          "cross_references": [
+            "Matthew 7:7-11",
+            "Psalm 34:15",
+            "Hebrews 11:6",
+            "1 Peter 3:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this parable challenge traditional understandings of prayer and divine intervention?",
+        "options": [
+          "Prayer is not about immediate results but sustained faith",
+          "God's responsiveness is linked to believers' persistent spiritual tenacity",
+          "Divine timing often differs from human expectations",
+          "Spiritual breakthrough requires consistent, unrelenting supplication"
+        ]
+      }
+    }
+  }
+}

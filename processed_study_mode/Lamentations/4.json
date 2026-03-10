@@ -1,0 +1,117 @@
+{
+  "book": "Lamentations",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on the fragility of earthly treasures and how quickly value can change",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when life's comforts and securities are stripped away?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Trust in God's unchanging nature",
+            "response": "Pray and reaffirm faith despite circumstances"
+          },
+          {
+            "id": 2,
+            "text": "Become bitter and resentful",
+            "response": "Seek spiritual counseling to process emotions healthily"
+          },
+          {
+            "id": 3,
+            "text": "Learn from the difficult season",
+            "response": "Journal about spiritual growth insights"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing how precious things can lose their shine, but inner character remains valuable",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of suffering?",
+        "options": [
+          "Suffering reveals deeper truths about human nature",
+          "God is present even in devastating moments",
+          "Material wealth is temporary",
+          "Community resilience matters more than individual comfort"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of human suffering resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Loss of societal dignity",
+            "expansion": "The transformation of precious people into disposable vessels reveals profound social breakdown."
+          },
+          {
+            "id": 2,
+            "text": "Spiritual desolation",
+            "expansion": "The scattered sanctuary stones symbolize a profound disconnection from divine presence."
+          },
+          {
+            "id": 3,
+            "text": "Maternal anguish",
+            "expansion": "The contrast between nurturing animals and human cruelty highlights devastating communal trauma."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When societal collapse occurs, what truly reveals the depth of human character: survival mechanisms or compassionate response?"
+      },
+      "moral_slider": {
+        "question": "How do divine judgment and human suffering intersect?",
+        "left_label": "Punishment",
+        "right_label": "Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of communal suffering evolved?",
+        "options": [
+          "Recognize systemic vulnerability",
+          "Appreciate human resilience",
+          "Understand cyclical historical patterns",
+          "Reflect on spiritual consequences of collective actions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and National Consequences",
+          "summary": "Lamentations 4 reveals the profound spiritual and physical devastation resulting from Israel's persistent disobedience. The chapter illustrates how divine judgment manifests through catastrophic societal collapse, demonstrating God's commitment to holiness and accountability.",
+          "cross_references": [
+            "Deuteronomy 28:15-68",
+            "Jeremiah 52:4-11",
+            "2 Chronicles 36:17-20",
+            "Romans 2:6-9"
+          ]
+        },
+        {
+          "title": "Suffering and Spiritual Resilience",
+          "summary": "Despite overwhelming national trauma, the text portrays human vulnerability and the potential for spiritual transformation through extreme suffering. The graphic descriptions of deprivation serve as a stark reminder of sin's destructive potential and the necessity of covenant faithfulness.",
+          "cross_references": [
+            "Psalm 102:9-10",
+            "Isaiah 53:4-5",
+            "Hebrews 12:5-11",
+            "1 Peter 1:6-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret national suffering in light of divine sovereignty?",
+        "options": [
+          "Suffering is solely punitive and reflects direct divine retribution",
+          "Suffering can be redemptive and transformative for spiritual renewal",
+          "National challenges reveal systemic spiritual and moral failures",
+          "Divine mercy remains present even in moments of apparent abandonment"
+        ]
+      }
+    }
+  }
+}

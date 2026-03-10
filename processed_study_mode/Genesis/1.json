@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine absolute darkness, then visualize God's creative light breaking through - breathe slowly and sense divine potential",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding God as Creator impact your sense of personal purpose?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize my life as intentionally designed",
+            "response": "Journal three unique ways you feel God's intentional design in your life"
+          },
+          {
+            "id": 2,
+            "text": "Embrace my creative potential",
+            "response": "Start a small creative project this week as an act of worship"
+          },
+          {
+            "id": 3,
+            "text": "See myself as part of a larger divine order",
+            "response": "Spend 15 minutes in nature, observing God's intricate design"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or craft a picture representing 'light emerging from darkness' using whatever materials you have",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Genesis 1 shifted your understanding of creation?",
+        "options": [
+          "I see God as more intentional",
+          "I appreciate the complexity of creation",
+          "I feel more connected to a divine purpose",
+          "I'm curious about scientific and spiritual perspectives"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which foundational concept about creation resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Intentionality",
+            "expansion": "Creation emerges from purposeful, intelligent design rather than random chance."
+          },
+          {
+            "id": 2,
+            "text": "Order from Chaos",
+            "expansion": "Divine power transforms formlessness into structured, meaningful existence."
+          },
+          {
+            "id": 3,
+            "text": "Progressive Unfolding",
+            "expansion": "Creation is a deliberate, sequential process of increasing complexity and sophistication."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If 'darkness was on the face of the deep' before creation, what does this suggest about the nature of potential and emptiness?"
+      },
+      "moral_slider": {
+        "question": "How do you perceive the relationship between divine agency and natural processes?",
+        "left_label": "Mechanical Universe",
+        "right_label": "Active Divine Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of creation's origins shifted?",
+        "options": [
+          "More appreciation for mystery",
+          "Greater sense of cosmic intentionality",
+          "Increased respect for scientific and spiritual perspectives",
+          "Deeper curiosity about metaphysical origins"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Creation",
+          "summary": "God as the sovereign creator demonstrates His power to bring order from chaos. The narrative reveals creation as intentional and structured, emerging from divine purpose and supernatural intervention.",
+          "cross_references": [
+            "John 1:1-3",
+            "Colossians 1:16-17",
+            "Hebrews 11:3",
+            "Psalm 33:6"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty",
+          "summary": "God's creative process illustrates absolute authority and control over all existence. Each creation is purposeful, sequenced, and declared 'good' by the divine creator.",
+          "cross_references": [
+            "Isaiah 45:12",
+            "Revelation 4:11",
+            "Job 38:4-7",
+            "Psalm 104:24"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we interpret the Genesis creation narrative in light of scientific understanding?",
+        "options": [
+          "Literal 6-day creation event",
+          "Allegorical representation of divine creative process",
+          "Symbolic theological explanation of origins",
+          "Progressive creation model reconciling science and scripture"
+        ]
+      }
+    }
+  }
+}

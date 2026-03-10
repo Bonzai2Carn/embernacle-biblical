@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently affirm: 'My integrity matters more than popular opinion'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you maintain personal integrity when others challenge your character?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Stand firm in my convictions",
+            "response": "Write down your core values and review them weekly"
+          },
+          {
+            "id": 2,
+            "text": "Seek wise counsel",
+            "response": "Identify 1-2 trusted mentors to consult during difficult times"
+          },
+          {
+            "id": 3,
+            "text": "Practice self-reflection",
+            "response": "Journal about your motivations and moral choices"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing your personal values and principles that protect you during life's challenges",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 27 changed your understanding of personal integrity?",
+        "options": [
+          "I now see integrity as a spiritual commitment",
+          "I understand integrity costs something",
+          "I recognize integrity isn't about being perfect",
+          "I see integrity as a daily choice"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of suffering resonates most profoundly?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Maintaining personal integrity despite adversity",
+            "expansion": "Job's commitment to righteousness transcends his immediate painful circumstances."
+          },
+          {
+            "id": 2,
+            "text": "Rejecting false consolations from others",
+            "expansion": "Job refuses to compromise his truth to satisfy his friends' theological narratives."
+          },
+          {
+            "id": 3,
+            "text": "Affirming God's ultimate justice beyond current perception",
+            "expansion": "Job maintains belief in divine justice even while experiencing profound personal injustice."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might maintaining moral integrity in suffering be itself a form of spiritual resistance?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate personal dignity in the face of inexplicable suffering?",
+        "left_label": "Victimhood",
+        "right_label": "Transcendence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal resilience evolved?",
+        "options": [
+          "Recognizing suffering does not define worth",
+          "Understanding integrity as a choice, not a circumstance",
+          "Seeing moral courage as an internal state",
+          "Rejecting simplistic explanations of complex experiences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Maintaining Integrity Under Suffering",
+          "summary": "Job declares his commitment to righteousness despite experiencing profound injustice and pain. He refuses to compromise his moral principles or falsely admit wrongdoing, demonstrating unwavering faith in divine justice.",
+          "cross_references": [
+            "1 Peter 4:19",
+            "James 1:2-4",
+            "Psalm 34:19",
+            "Romans 5:3-5"
+          ]
+        },
+        {
+          "title": "Divine Justice and Human Accountability",
+          "summary": "Job challenges the simplistic theological perspective that suffering always indicates personal sin. He argues for a more nuanced understanding of divine judgment, emphasizing personal integrity over mechanical retribution.",
+          "cross_references": [
+            "Ecclesiastes 7:15",
+            "Matthew 5:45",
+            "John 9:1-3",
+            "Romans 8:28"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's response challenge traditional theological assumptions about suffering?",
+        "options": [
+          "Suffering is not always a direct punishment for personal sin",
+          "Maintaining moral integrity is more important than conforming to expected theological narratives",
+          "Divine justice operates beyond human comprehension",
+          "Personal faith can withstand profound theological challenges"
+        ]
+      }
+    }
+  }
+}

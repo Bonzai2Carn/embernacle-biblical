@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine receiving a courage-filled mission directly from God. Take three deep breaths and whisper, 'Be strong and courageous'.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in my life do I need divine courage to move forward?",
+        "options": [
+          {
+            "id": 1,
+            "text": "In my career transition",
+            "response": "Create a faith-based action plan with specific steps"
+          },
+          {
+            "id": 2,
+            "text": "In a personal relationship challenge",
+            "response": "Commit to prayer and seeking godly counsel"
+          },
+          {
+            "id": 3,
+            "text": "In pursuing a spiritual calling",
+            "response": "Write down the vision and seek mentorship"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map representing your personal 'promised land' - what goals or dreams God might be calling you toward",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this reading shifted your understanding of personal calling and divine guidance?",
+        "options": [
+          "I see God's promises require my active participation",
+          "Leadership isn't about perfection, but obedience",
+          "Courage comes from trusting God's Word",
+          "Every challenge is an opportunity for spiritual growth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which leadership transition moment resonates most strongly?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Succession",
+            "expansion": "God directly affirms Joshua's leadership after Moses, demonstrating continuous divine guidance."
+          },
+          {
+            "id": 2,
+            "text": "Territorial Promise",
+            "expansion": "Every place touched becomes inheritance, symbolizing active faith and divine partnership."
+          },
+          {
+            "id": 3,
+            "text": "Courage Command",
+            "expansion": "God repeatedly instructs Joshua to be strong and courageous, revealing inner spiritual preparation matters more than external circumstances."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does inheriting a vision differ from creating your own, and what transformative challenges emerge in that transition?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal hesitation with divine calling?",
+        "left_label": "Personal Limitation",
+        "right_label": "Transcendent Potential"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership and spiritual inheritance shifted?",
+        "options": [
+          "Leadership is more about divine empowerment than personal capability",
+          "Courage is an internal choice, not determined by external circumstances",
+          "Spiritual inheritance requires active participation",
+          "Transitions are opportunities for renewed purpose"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Leadership Succession",
+          "summary": "God orchestrates leadership transitions with intentionality and divine empowerment. The transition from Moses to Joshua demonstrates God's continued commitment to His covenant people and His chosen leadership.",
+          "cross_references": [
+            "Deuteronomy 31:23",
+            "Acts 1:8",
+            "2 Timothy 2:2",
+            "Hebrews 13:7"
+          ]
+        },
+        {
+          "title": "Promises and Territorial Inheritance",
+          "summary": "God reaffirms His unconditional covenant promise of land to Israel, emphasizing divine sovereignty in territorial allocation. The promise extends beyond individual limitations to collective national destiny.",
+          "cross_references": [
+            "Genesis 15:18",
+            "Exodus 23:31",
+            "Deuteronomy 11:24",
+            "Ezekiel 47:13-14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine leadership transfer demonstrate God's continuous providential guidance?",
+        "options": [
+          "Leadership is solely based on human qualification",
+          "God strategically prepares and empowers successors",
+          "Spiritual leadership is an inherited, genetic privilege",
+          "Transitions represent moments of divine recalibration and renewed mission"
+        ]
+      }
+    }
+  }
+}

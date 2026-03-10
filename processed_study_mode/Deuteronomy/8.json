@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on a time God provided for you unexpectedly, just like He provided manna in the wilderness",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past challenges prepared you for current spiritual growth?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize wilderness seasons as training",
+            "response": "Journal about personal wilderness experiences and lessons learned"
+          },
+          {
+            "id": 2,
+            "text": "Identify spiritual resilience moments",
+            "response": "List 3 times you overcame difficulties through faith"
+          },
+          {
+            "id": 3,
+            "text": "Practice gratitude for God's guidance",
+            "response": "Create a daily gratitude prayer acknowledging divine provision"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your personal 'wilderness journey', marking places where God sustained you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of life's challenges?",
+        "options": [
+          "Challenges are opportunities for spiritual growth",
+          "God is intentional in my life's journey",
+          "Dependence on God matters more than personal strength",
+          "Wilderness experiences have purpose"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core spiritual theme resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Humility through Wilderness",
+            "expansion": "God intentionally creates circumstances that strip away self-sufficiency to reveal true character."
+          },
+          {
+            "id": 2,
+            "text": "Remembrance as Spiritual Discipline",
+            "expansion": "Deliberate recollection of God's past faithfulness protects against future spiritual amnesia."
+          },
+          {
+            "id": 3,
+            "text": "Testing as Transformational Process",
+            "expansion": "Trials are not punishments but opportunities for spiritual refinement and deeper trust."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God knows everything, why would He need to 'test' human hearts?"
+      },
+      "moral_slider": {
+        "question": "How do divine provision and human responsibility interact?",
+        "left_label": "God's Complete Sovereignty",
+        "right_label": "Human Free Will"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual growth?",
+        "options": [
+          "I see trials differently now",
+          "My view of God's character has shifted",
+          "I recognize my own spiritual patterns more clearly",
+          "I'm more aware of my need for humility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Discipline and Preparation",
+          "summary": "God deliberately uses wilderness experiences to test, humble, and shape His people's character. These challenging seasons are intentional processes of spiritual formation and preparation for future blessings.",
+          "cross_references": [
+            "Hebrews 12:6",
+            "James 1:2-4",
+            "Psalm 66:10",
+            "1 Peter 1:7"
+          ]
+        },
+        {
+          "title": "Providence and Dependence",
+          "summary": "The provision of manna demonstrates God's direct supernatural care and humanity's complete dependence on divine sustenance. This miraculous provision teaches radical trust and moment-by-moment reliance on God.",
+          "cross_references": [
+            "Matthew 4:4",
+            "John 6:31-35",
+            "Exodus 16:14-15",
+            "2 Corinthians 9:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine testing reveal spiritual maturity and readiness?",
+        "options": [
+          "Wilderness experiences expose inner character",
+          "Challenges demonstrate God's transformative power",
+          "Trials measure genuine faith commitment",
+          "Suffering produces spiritual resilience"
+        ]
+      }
+    }
+  }
+}

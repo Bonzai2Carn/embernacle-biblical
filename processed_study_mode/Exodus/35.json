@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 35,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on the importance of rest and dedicating time to God's purpose",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I contribute my unique skills to serve my community or church?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Volunteer my professional skills",
+            "response": "Identify a specific way your professional talents can support a ministry or community project"
+          },
+          {
+            "id": 2,
+            "text": "Offer creative talents",
+            "response": "Explore ways your artistic or craft skills could be used for community benefit"
+          },
+          {
+            "id": 3,
+            "text": "Give financial resources",
+            "response": "Determine a meaningful financial contribution to support a specific cause"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself using your best skills to help build something meaningful for others",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of giving and community service?",
+        "options": [
+          "I see giving as more than just money",
+          "I recognize everyone has valuable contributions",
+          "I understand service as an act of worship",
+          "I feel more connected to my community's needs"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of community devotion resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Voluntary giving",
+            "expansion": "The people's spontaneous offering reveals a heart of genuine spiritual generosity."
+          },
+          {
+            "id": 2,
+            "text": "Sabbath sanctity",
+            "expansion": "The strict observance of rest demonstrates profound respect for divine rhythm and spiritual renewal."
+          },
+          {
+            "id": 3,
+            "text": "Collective purpose",
+            "expansion": "Each individual's unique skill contributes to a unified spiritual construction project."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might true worship transform from external ritual to internal transformation?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between individual autonomy and communal spiritual responsibility?",
+        "left_label": "Personal Freedom",
+        "right_label": "Collective Obedience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of community and spiritual commitment evolved?",
+        "options": [
+          "Recognize the power of collective intention",
+          "Understand deeper meaning of sacrificial giving",
+          "Appreciate diverse spiritual contributions",
+          "Acknowledge the importance of shared purpose"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Sabbath Observance and Divine Rest",
+          "summary": "The chapter emphasizes the sacred nature of Sabbath as a covenant sign between God and Israel. It highlights the absolute priority of divine rest and worship over human labor.",
+          "cross_references": [
+            "Genesis 2:2-3",
+            "Exodus 20:8-11",
+            "Deuteronomy 5:12-15",
+            "Hebrews 4:9-11"
+          ]
+        },
+        {
+          "title": "Communal Worship and Voluntary Giving",
+          "summary": "The passage demonstrates Israel's collective commitment to constructing the tabernacle through willing, heart-motivated contributions. It reveals how spiritual devotion translates into practical service and generosity.",
+          "cross_references": [
+            "2 Corinthians 9:7",
+            "Exodus 25:1-2",
+            "1 Chronicles 29:9",
+            "Romans 12:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine commandment intersect with human voluntary participation in spiritual work?",
+        "options": [
+          "Obedience is purely about following external rules",
+          "Spiritual service requires internal motivation and heart commitment",
+          "Divine commands override personal willingness",
+          "Worship is a collaborative act between God's direction and human response"
+        ]
+      }
+    }
+  }
+}

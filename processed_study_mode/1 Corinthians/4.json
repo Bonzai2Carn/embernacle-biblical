@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine yourself as a humble servant, waiting for your Master's evaluation, not judging yourself or seeking human approval",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently seek validation - from people or from God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I constantly seek human praise and recognition",
+            "response": "Practice silent prayer, asking God to reveal your true motivations"
+          },
+          {
+            "id": 2,
+            "text": "I'm sometimes uncertain about my spiritual worth",
+            "response": "Meditate on God's view of you as a beloved, trusted steward"
+          },
+          {
+            "id": 3,
+            "text": "I try to live authentically before God",
+            "response": "Continue cultivating a heart of faithful service without external validation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself as a servant holding a treasure chest (representing 'mysteries of God'), waiting for your Master's approval",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your perspective on spiritual leadership and personal judgment?",
+        "options": [
+          "I understand leadership is about faithful servanthood, not popularity",
+          "I'm more aware of God's ultimate judgment versus human opinions",
+          "I realize the importance of humility in spiritual matters",
+          "I see myself as a steward, not the owner of spiritual gifts"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about spiritual leadership resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Servant leadership",
+            "expansion": "True spiritual authority emerges from humble service, not positional power."
+          },
+          {
+            "id": 2,
+            "text": "Divine accountability",
+            "expansion": "Ultimate judgment belongs to God, not human perspectives or self-assessment."
+          },
+          {
+            "id": 3,
+            "text": "Stewardship of mysteries",
+            "expansion": "Spiritual leaders are entrusted with revealing divine truths, not controlling them."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human judgment is unreliable, how can we discern spiritual maturity and leadership effectiveness?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal humility with spiritual confidence?",
+        "left_label": "Self-Doubt",
+        "right_label": "Divine Assurance"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual authority?",
+        "options": [
+          "Recognize leadership as service",
+          "Understand divine perspective trumps human opinion",
+          "Embrace personal accountability to God",
+          "Release need for external validation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Apostolic Servanthood",
+          "summary": "Paul emphasizes the role of apostles as servants of Christ and stewards of divine mysteries. He highlights the importance of faithfulness in spiritual leadership and accountability primarily to God, not human judgment.",
+          "cross_references": [
+            "Galatians 1:10",
+            "2 Corinthians 5:10",
+            "Romans 14:4",
+            "Matthew 25:21"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Self-Reflection",
+          "summary": "The chapter underscores the ultimate authority of God in judging spiritual leaders and believers. Paul argues that human evaluation is insufficient, and true justification comes from God's comprehensive understanding.",
+          "cross_references": [
+            "1 Samuel 16:7",
+            "Romans 8:33-34",
+            "James 4:12",
+            "2 Corinthians 10:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christian leaders understand spiritual accountability and judgment?",
+        "options": [
+          "Leaders are primarily accountable to God, not human opinion",
+          "Public perception and peer evaluation are critical for leadership credibility",
+          "Personal self-assessment is sufficient for spiritual growth",
+          "Divine judgment will reveal hidden motivations and true spiritual effectiveness"
+        ]
+      }
+    }
+  }
+}

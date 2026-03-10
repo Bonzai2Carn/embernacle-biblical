@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently declare God's name as your strength and protection, breathing deeply",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you seek God's help in challenging situations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Prayer and waiting on God's timing",
+            "response": "Spend dedicated time in prayer, surrendering your specific challenges"
+          },
+          {
+            "id": 2,
+            "text": "Seeking wise counsel from spiritual mentors",
+            "response": "Schedule a prayer meeting or counseling session with a trusted spiritual leader"
+          },
+          {
+            "id": 3,
+            "text": "Studying scripture for guidance",
+            "response": "Create a journal tracking how biblical promises relate to your current struggles"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with God's name written on it, representing divine protection",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of divine support?",
+        "options": [
+          "God actively listens to personal prayers",
+          "Divine help comes through unexpected means",
+          "Trusting God is more important than human strategies",
+          "Personal faith determines spiritual outcomes"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about divine support resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's protection in times of struggle",
+            "expansion": "Divine intervention transcends human limitations and provides supernatural strength."
+          },
+          {
+            "id": 2,
+            "text": "Communal prayer's transformative power",
+            "expansion": "Collective spiritual petition creates profound spiritual momentum."
+          },
+          {
+            "id": 3,
+            "text": "Trusting God's strategic intervention",
+            "expansion": "Faith isn't passive waiting, but active trust in divine strategic planning."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might true trust in divine support fundamentally alter your approach to life's challenges?"
+      },
+      "moral_slider": {
+        "question": "Where do human effort and divine intervention intersect?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual support evolved?",
+        "options": [
+          "Deeper appreciation for communal prayer",
+          "More nuanced view of divine intervention",
+          "Recognizing personal agency within spiritual context",
+          "Understanding vulnerability as spiritual strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection in National Struggle",
+          "summary": "This psalm represents a communal prayer for royal leadership during times of national challenge. It emphasizes collective intercession and trust in God's sovereign intervention during military or political conflicts.",
+          "cross_references": [
+            "2 Chronicles 20:15",
+            "Romans 8:31",
+            "Ephesians 6:10-12",
+            "1 Samuel 17:45-47"
+          ]
+        },
+        {
+          "title": "Trust in Divine Sovereignty",
+          "summary": "Psalm 20 illustrates the believer's confidence in God's ability to answer prayers and provide supernatural support beyond human capabilities. The psalm demonstrates how faith transcends immediate circumstances through spiritual trust.",
+          "cross_references": [
+            "Philippians 4:19",
+            "Isaiah 41:10",
+            "Jeremiah 29:11",
+            "2 Corinthians 1:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine intervention relate to human preparation and faith in challenging circumstances?",
+        "options": [
+          "God's support is independent of human effort",
+          "Human preparation demonstrates faith and wisdom",
+          "Divine intervention occurs through strategic human actions",
+          "Spiritual warfare requires simultaneous spiritual and practical engagement"
+        ]
+      }
+    }
+  }
+}

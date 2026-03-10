@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on how God's justice remains perfect, even when circumstances seem unclear",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when friends offer simplistic spiritual explanations for my suffering?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen patiently but don't internalize unhelpful judgments",
+            "response": "Practice gentle boundary-setting with well-meaning but misguided advice"
+          },
+          {
+            "id": 2,
+            "text": "Seek wisdom from trusted spiritual mentors",
+            "response": "Schedule a counseling session or meet with a spiritual advisor"
+          },
+          {
+            "id": 3,
+            "text": "Focus on direct communication with God",
+            "response": "Develop a more intimate prayer practice during challenging times"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting difficult experiences to hope, representing how God can restore what seems broken",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of suffering and divine justice?",
+        "options": [
+          "God's perspective is always larger than my immediate circumstances",
+          "Simple explanations rarely capture the complexity of spiritual trials",
+          "Maintaining faith requires humility and patience",
+          "Suffering doesn't necessarily indicate personal fault"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective about divine justice resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "God always punishes sin directly",
+            "expansion": "Bildad's perspective suggests a mechanical view of divine retribution"
+          },
+          {
+            "id": "b",
+            "text": "Suffering might be instructive, not punitive",
+            "expansion": "Implies a more nuanced understanding of divine interaction with human experience"
+          },
+          {
+            "id": "c",
+            "text": "Righteousness requires active seeking of God",
+            "expansion": "Emphasizes personal spiritual responsibility in relationship with the divine"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine justice were perfectly transparent, would human compassion still be necessary?"
+      },
+      "moral_slider": {
+        "question": "How do you understand the relationship between personal suffering and divine judgment?",
+        "left_label": "Mechanical Punishment",
+        "right_label": "Transformative Experience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of suffering evolved?",
+        "options": [
+          "Suffering is always a consequence of sin",
+          "Suffering can be redemptive",
+          "Divine purposes are ultimately mysterious",
+          "Personal spiritual growth matters more than explanation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Accountability",
+          "summary": "Bildad argues that God's justice is fundamentally perfect and that human suffering is typically a result of personal or generational sin. He suggests that divine judgment is always righteous and proportional to one's transgressions.",
+          "cross_references": [
+            "Exodus 20:5",
+            "Deuteronomy 24:16",
+            "Ezekiel 18:20",
+            "Galatians 6:7-8"
+          ]
+        },
+        {
+          "title": "Theological Retributive Framework",
+          "summary": "Bildad presents a simplistic theological framework where good is always rewarded and evil consistently punished. This perspective assumes a direct, immediate correlation between human actions and divine responses.",
+          "cross_references": [
+            "Proverbs 10:16",
+            "Romans 2:6-8",
+            "Job 4:7-8",
+            "Psalm 1:3-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine justice in light of human suffering?",
+        "options": [
+          "Suffering is always a direct punishment for specific sins",
+          "Divine justice is complex and cannot be reduced to simple cause-effect scenarios",
+          "Righteousness guarantees immediate earthly prosperity",
+          "God's judgments are ultimately mysterious and transcend human understanding"
+        ]
+      }
+    }
+  }
+}

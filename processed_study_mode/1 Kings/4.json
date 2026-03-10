@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine organizing a complex system. Reflect on how Solomon's administrative skills reflect divine wisdom in leadership.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you apply wisdom and strategic organization in your current responsibilities?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Audit my current commitments and roles",
+            "response": "Create a structured review of personal and professional responsibilities"
+          },
+          {
+            "id": 2,
+            "text": "Seek mentorship or counsel",
+            "response": "Connect with a trusted advisor to gain perspective on leadership and management"
+          },
+          {
+            "id": 3,
+            "text": "Develop better organizational systems",
+            "response": "Implement a new planning or tracking method for daily tasks"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a royal organizational chart showing how different leaders and officials might connect under Solomon's leadership",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of biblical leadership?",
+        "options": [
+          "Leadership requires strategic organization",
+          "Wisdom is practical, not just philosophical",
+          "God gifts people with different administrative abilities",
+          "Effective leadership involves delegation and trust"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which organizational principle of Solomon's leadership strikes you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Meritocratic Leadership",
+            "expansion": "Solomon selected leaders based on competence and character, not just familial connections."
+          },
+          {
+            "id": 2,
+            "text": "Systematic Governance",
+            "expansion": "The detailed administrative structure reveals Solomon's commitment to ordered, intentional leadership."
+          },
+          {
+            "id": 3,
+            "text": "Collaborative Management",
+            "expansion": "Multiple officials with distinct roles suggest a distributed leadership model."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does true power manifest: through hierarchical control or through wisdom's distributed influence?"
+      },
+      "moral_slider": {
+        "question": "To what extent should leadership prioritize efficiency over personal relationships?",
+        "left_label": "Personal Connections",
+        "right_label": "Systemic Efficiency"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership transformed?",
+        "options": [
+          "More appreciative of structural complexity",
+          "Recognize importance of role specialization",
+          "Understand leadership as collaborative",
+          "See wisdom as organizational strategy"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Governance Through Leadership",
+          "summary": "Solomon's administrative structure demonstrates God's orderly approach to governance and leadership. The carefully selected officials represent a divinely appointed administrative system that reflects God's desire for structured and purposeful management.",
+          "cross_references": [
+            "Romans 13:1-2",
+            "1 Timothy 2:1-2",
+            "Proverbs 8:15-16",
+            "Deuteronomy 17:14-20"
+          ]
+        },
+        {
+          "title": "Wisdom in Organizational Structure",
+          "summary": "Solomon's appointment of officials reveals the importance of strategic placement of skilled individuals in leadership roles. His selections demonstrate divine wisdom in creating an effective governmental system that serves the nation's needs.",
+          "cross_references": [
+            "Exodus 18:21",
+            "Proverbs 22:29",
+            "Daniel 1:4",
+            "Titus 1:5-9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Solomon's leadership model reflect divine principles of governance?",
+        "options": [
+          "Demonstrates strategic placement of skilled individuals",
+          "Emphasizes accountability and structured leadership",
+          "Reflects God's desire for orderly societal management",
+          "Highlights the importance of wisdom in administrative roles"
+        ]
+      }
+    }
+  }
+}

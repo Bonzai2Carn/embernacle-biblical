@@ -1,0 +1,117 @@
+{
+  "book": "Isaiah",
+  "chapter": 50,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect: 'Am I listening when God speaks, or turning away?'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I personally responding to God's call and correction?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I'm resistant to correction",
+            "response": "Spend time in prayer asking God to soften your heart"
+          },
+          {
+            "id": "B",
+            "text": "I feel discouraged by past failures",
+            "response": "Meditate on God's promise of redemption and restoration"
+          },
+          {
+            "id": "C",
+            "text": "I want to be more responsive to God's voice",
+            "response": "Practice daily scripture reading and journaling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a hand reaching out, symbolizing God's extended invitation to redemption",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Isaiah 50 shifted your understanding of God's relationship with His people?",
+        "options": [
+          "God is patient, even when we are unfaithful",
+          "God always provides a way of restoration",
+          "Personal sin can separate us from God's immediate blessing",
+          "God's love is persistent despite human weakness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theme resonates most about divine relationship and human responsibility?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Availability",
+            "expansion": "God's constant readiness to engage, despite human indifference or rejection."
+          },
+          {
+            "id": 2,
+            "text": "Consequence of Spiritual Disconnection",
+            "expansion": "Human separation from God occurs through personal choices, not divine abandonment."
+          },
+          {
+            "id": 3,
+            "text": "Redemptive Potential",
+            "expansion": "Even in moments of apparent distance, divine power remains fundamentally undiminished."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power is always present, what prevents humans from experiencing transformative connection?"
+      },
+      "moral_slider": {
+        "question": "How do personal transgressions impact spiritual relationship?",
+        "left_label": "Individual Culpability",
+        "right_label": "Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine-human interaction shifted?",
+        "options": [
+          "Recognized personal agency in spiritual disconnection",
+          "Understood God's persistent invitation",
+          "Appreciated complexity of spiritual accountability",
+          "Seen divine power beyond human limitations"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Accountability",
+          "summary": "God challenges Israel's perception of their spiritual separation, demonstrating that their estrangement is self-imposed through disobedience. The passage emphasizes divine availability and human rejection of redemptive opportunities.",
+          "cross_references": [
+            "Romans 9:20-21",
+            "Jeremiah 3:8",
+            "2 Chronicles 7:14",
+            "Hosea 14:1-2"
+          ]
+        },
+        {
+          "title": "Prophetic Suffering and Obedience",
+          "summary": "The chapter reveals the servant's commitment to divine instruction despite potential persecution, illustrating faithful submission to God's will. This narrative prefigures Christ's redemptive suffering and unwavering obedience.",
+          "cross_references": [
+            "Philippians 2:8",
+            "Hebrews 5:8-9",
+            "Matthew 26:39",
+            "John 6:38"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine redemption interact with human free will in spiritual restoration?",
+        "options": [
+          "God's sovereignty completely overrides human choice",
+          "Redemption requires mutual collaborative response",
+          "Human agency is primary, with divine grace as secondary",
+          "Redemption is universally applied regardless of individual response"
+        ]
+      }
+    }
+  }
+}

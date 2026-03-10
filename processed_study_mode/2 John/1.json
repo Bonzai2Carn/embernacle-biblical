@@ -1,0 +1,117 @@
+{
+  "book": "2 John",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and reflect: How do I demonstrate love and truth in my daily relationships?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What does walking 'in truth' look like in my current life context?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Consistently aligning actions with biblical teachings",
+            "response": "Create a personal accountability checklist"
+          },
+          {
+            "id": "b",
+            "text": "Being transparent and genuine in relationships",
+            "response": "Schedule a honest conversation with a trusted friend"
+          },
+          {
+            "id": "c",
+            "text": "Prioritizing spiritual growth over worldly pursuits",
+            "response": "Develop a intentional discipleship plan"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path representing your spiritual journey, marking moments where truth and love intersected",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage shifted my understanding of Christian love and truth?",
+        "options": [
+          "Love is active, not just emotional",
+          "Truth requires consistent commitment",
+          "Relationships are spiritual partnerships",
+          "Grace enables genuine transformation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which central idea of truth resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Walking in Truth",
+            "expansion": "Truth is not merely intellectual understanding, but a lived reality of authentic Christian discipleship."
+          },
+          {
+            "id": 2,
+            "text": "Love Rooted in Truth",
+            "expansion": "Genuine Christian love is inseparable from commitment to spiritual authenticity and doctrinal integrity."
+          },
+          {
+            "id": 3,
+            "text": "Persistent Grace",
+            "expansion": "Divine grace transcends human limitations, continually sustaining believers through relationship."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If truth 'abides in us and will be with us forever', how might this challenge your understanding of spiritual knowledge as something static versus dynamic?"
+      },
+      "moral_slider": {
+        "question": "How do you balance doctrinal protection with compassionate inclusion?",
+        "left_label": "Doctrinal Purity",
+        "right_label": "Radical Hospitality"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community evolved after reflecting on this text?",
+        "options": [
+          "More aware of theological boundaries",
+          "Deeper appreciation for relational grace",
+          "Recognizing truth as a communal journey",
+          "Understanding love as an active, discerning practice"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Walking in Truth",
+          "summary": "The epistle emphasizes the paramount importance of living authentically in Christian truth. Walking in truth represents not just intellectual understanding, but a holistic commitment to God's commandments and Christ's teachings.",
+          "cross_references": [
+            "John 14:6",
+            "1 John 1:6-7",
+            "John 8:31-32",
+            "Ephesians 4:15"
+          ]
+        },
+        {
+          "title": "Love and Doctrinal Purity",
+          "summary": "The Elder highlights the delicate balance between Christian love and doctrinal integrity. Genuine love is not passive but actively guards against false teachings that could compromise spiritual authenticity.",
+          "cross_references": [
+            "1 John 4:1",
+            "Galatians 1:8-9",
+            "2 Peter 2:1-3",
+            "Jude 1:3-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers navigate the tension between biblical love and doctrinal discernment?",
+        "options": [
+          "Unconditional acceptance of all beliefs",
+          "Rigorous theological examination with compassionate engagement",
+          "Complete separation from differing theological perspectives",
+          "Prioritizing relational harmony over doctrinal precision"
+        ]
+      }
+    }
+  }
+}

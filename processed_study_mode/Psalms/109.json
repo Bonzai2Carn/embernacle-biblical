@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 109,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, releasing any feelings of hurt or betrayal to God, acknowledging His ultimate justice",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when someone close to you acts with unexpected malice or betrayal?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek immediate revenge",
+            "response": "Pause and pray for God's guidance instead of acting impulsively"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw and isolate",
+            "response": "Seek wise counsel and maintain healthy boundaries"
+          },
+          {
+            "id": 3,
+            "text": "Internalize the pain",
+            "response": "Process emotions honestly with God, allowing Him to heal and restore"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing God's protection over you during times of accusation and conflict",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm challenged your understanding of prayer during difficult relationships?",
+        "options": [
+          "Prayer can include honest emotional expression",
+          "God understands our pain and hears our complaints",
+          "Vengeance belongs to God, not to us",
+          "Suffering doesn't mean God has abandoned me"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional layer of this psalm resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Justice Seeking",
+            "expansion": "The psalmist's raw plea for God to address profound personal betrayal and injustice."
+          },
+          {
+            "id": 2,
+            "text": "Vulnerability in Prayer",
+            "expansion": "The unfiltered emotional transparency of crying out to God without sanitizing human pain."
+          },
+          {
+            "id": 3,
+            "text": "Prophetic Imprecation",
+            "expansion": "The dramatic invocation of spiritual consequences for those who harm the righteous."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "In what ways might intense emotional prayer reveal more about the pray-er's inner landscape than about divine intervention?"
+      },
+      "moral_slider": {
+        "question": "How do personal suffering and spiritual response intersect?",
+        "left_label": "Personal Vengeance",
+        "right_label": "Divine Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of lament and spiritual struggle evolved?",
+        "options": [
+          "Recognized complexity of human emotional experience",
+          "Understood prayer as a space for raw honesty",
+          "Challenged previous assumptions about spiritual composure",
+          "Seen vulnerability as spiritual strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Imprecatory Prayer",
+          "summary": "This psalm reveals a raw, emotional plea for divine intervention against oppressors. The psalmist calls for God's judgment on those who have wronged him, demonstrating the complex theological tension between personal suffering and seeking divine retribution.",
+          "cross_references": [
+            "Romans 12:19",
+            "2 Thessalonians 1:6-7",
+            "Deuteronomy 32:35",
+            "Proverbs 20:22"
+          ]
+        },
+        {
+          "title": "Suffering and Vindication",
+          "summary": "The psalm portrays the psychological and spiritual anguish of someone falsely accused and persecuted. It explores the theological concept of ultimate divine vindication for the righteous, even in the midst of profound personal suffering.",
+          "cross_references": [
+            "Job 19:25-26",
+            "Isaiah 54:17",
+            "1 Peter 2:23",
+            "Revelation 6:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christian theology interpret the harsh language of imprecatory prayers in this psalm?",
+        "options": [
+          "As a literal call for divine punishment",
+          "As a metaphorical expression of emotional distress",
+          "As a prophetic foreshadowing of Christ's ultimate judgment",
+          "As an example of human limitation in understanding divine justice"
+        ]
+      }
+    }
+  }
+}

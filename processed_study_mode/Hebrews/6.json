@@ -1,0 +1,117 @@
+{
+  "book": "Hebrews",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize spiritual growth as a ladder, with each rung representing deeper commitment and understanding of faith",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What spiritual foundations are you still rebuilding instead of moving forward in maturity?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Stuck in repeated basic teachings",
+            "response": "Create a personal spiritual development plan"
+          },
+          {
+            "id": 2,
+            "text": "Struggling with consistent faith",
+            "response": "Journal about your spiritual journey and identify growth areas"
+          },
+          {
+            "id": 3,
+            "text": "Unsure about next spiritual steps",
+            "response": "Seek mentorship from a mature believer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw an anchor symbolizing hope, representing how God's promise is secure and unchangeable",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual maturity?",
+        "options": [
+          "I need to move beyond basic teachings",
+          "I realize faith requires continual growth",
+          "I understand the importance of perseverance",
+          "I see spiritual stagnation as a spiritual risk"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which foundational spiritual concept most intrigues you from this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Spiritual Maturity",
+            "expansion": "Growth requires moving beyond initial teachings to deeper understanding."
+          },
+          {
+            "id": 2,
+            "text": "Divine Persistence",
+            "expansion": "God's promise remains steadfast even when human commitment wavers."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Accountability",
+            "expansion": "Repeated rejection of truth carries profound spiritual consequences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual transformation is a journey, what prevents someone from truly progressing beyond initial encounters with divine truth?"
+      },
+      "moral_slider": {
+        "question": "How do you navigate the tension between divine grace and personal responsibility?",
+        "left_label": "Human Weakness",
+        "right_label": "Spiritual Accountability"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual growth?",
+        "options": [
+          "I see spiritual development as more complex",
+          "I recognize the importance of consistent commitment",
+          "I'm more aware of potential spiritual stagnation",
+          "I feel challenged to go deeper in my faith journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Maturity and Progressive Faith",
+          "summary": "This passage challenges believers to move beyond foundational Christian teachings toward deeper spiritual understanding and growth. The author emphasizes the importance of continual spiritual development and warns against spiritual stagnation.",
+          "cross_references": [
+            "1 Corinthians 3:1-3",
+            "Philippians 3:12-14",
+            "2 Peter 1:5-8",
+            "James 1:4"
+          ]
+        },
+        {
+          "title": "Warning Against Apostasy",
+          "summary": "The text presents a challenging theological perspective on potential spiritual regression, suggesting that those who fully experience God's grace and subsequently reject it face severe spiritual consequences. It underscores the gravity of deliberate, informed rejection of divine truth.",
+          "cross_references": [
+            "1 John 2:19",
+            "Matthew 12:31-32",
+            "2 Thessalonians 2:3",
+            "Jude 1:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand the theological implications of potential spiritual apostasy?",
+        "options": [
+          "Believers can permanently lose their salvation through deliberate rejection",
+          "The passage describes a hypothetical scenario that cannot actually occur",
+          "This refers to those who were never truly regenerate, but appeared to be",
+          "The warning is primarily about temporary spiritual backsliding, not permanent rejection"
+        ]
+      }
+    }
+  }
+}

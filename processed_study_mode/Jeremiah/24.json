@@ -1,0 +1,117 @@
+{
+  "book": "Jeremiah",
+  "chapter": 24,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine two different baskets of fruit. One represents hope, the other represents despair. Which basket are you choosing to focus on today?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing difficult seasons of life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become discouraged and give up",
+            "response": "Practice gratitude and seek God's perspective"
+          },
+          {
+            "id": 2,
+            "text": "Try to control everything myself",
+            "response": "Surrender circumstances to God's guidance"
+          },
+          {
+            "id": 3,
+            "text": "Isolate and avoid challenges",
+            "response": "Lean into community and spiritual support"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw two baskets - one with fresh, ripe fruit representing hope, and another with spoiled fruit representing despair. Decorate the 'hope' basket with bright colors.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage changed your view of difficult seasons?",
+        "options": [
+          "I see challenges as opportunities for growth",
+          "God is present even in painful transitions",
+          "Maintaining faith matters more than circumstances",
+          "Perspective determines spiritual resilience"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which symbol of divine judgment most resonates with you?",
+        "choices": [
+          {
+            "id": "good_figs",
+            "text": "The Good Figs (Exiled Faithful)",
+            "expansion": "Those who remain humble and trust God's plan even in difficult circumstances are ultimately preserved."
+          },
+          {
+            "id": "bad_figs",
+            "text": "The Bad Figs (Unrepentant Leadership)",
+            "expansion": "Persistent rebellion against divine guidance leads to complete spiritual and national deterioration."
+          },
+          {
+            "id": "transformation",
+            "text": "Divine Refinement Through Exile",
+            "expansion": "Suffering can be a profound mechanism of spiritual purification and redirection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God uses adversity as a tool of transformation, how might your current challenges be secretly cultivating your spiritual growth?"
+      },
+      "moral_slider": {
+        "question": "To what extent do collective national sins determine individual spiritual outcomes?",
+        "left_label": "Individual Accountability",
+        "right_label": "Communal Consequences"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine judgment shifted?",
+        "options": [
+          "More nuanced view of God's mercy",
+          "Deeper appreciation for spiritual resilience",
+          "Recognition of systemic spiritual patterns",
+          "Increased empathy for those experiencing hardship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and Restoration",
+          "summary": "God uses the Babylonian exile as a mechanism of judgment against Judah's persistent disobedience. The vision of good and bad figs represents God's discernment between those who will be refined and those who will be ultimately rejected.",
+          "cross_references": [
+            "Ezekiel 14:22-23",
+            "Zechariah 13:9",
+            "Romans 9:20-21",
+            "Hebrews 12:6-7"
+          ]
+        },
+        {
+          "title": "Prophetic Symbolism of Restoration",
+          "summary": "The good figs symbolize a remnant whom God will preserve, restore, and ultimately bring back to their land with spiritual renewal. This prophecy demonstrates God's redemptive plan even amid severe national punishment.",
+          "cross_references": [
+            "Isaiah 10:20-22",
+            "Jeremiah 29:11",
+            "Romans 11:5",
+            "Micah 2:12-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's judgment in this chapter reflect His ultimate redemptive purposes?",
+        "options": [
+          "Punishment is purely punitive and destructive",
+          "Discipline serves a restorative and transformative purpose",
+          "God arbitrarily selects who will be preserved",
+          "Suffering always indicates divine rejection"
+        ]
+      }
+    }
+  }
+}

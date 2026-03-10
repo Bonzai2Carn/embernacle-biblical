@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus writing in the sand, choosing mercy over judgment. Breathe deeply and release any self-righteousness.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when confronted with your own or others' mistakes?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Defensively attack",
+            "response": "Practice listening and seeking understanding before reacting"
+          },
+          {
+            "id": 2,
+            "text": "Condemn immediately",
+            "response": "Choose compassion and remember your own need for grace"
+          },
+          {
+            "id": 3,
+            "text": "Avoid the situation",
+            "response": "Courageously engage with empathy and wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene where someone shows unexpected mercy, like Jesus did with the woman caught in adultery",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of judgment and grace?",
+        "options": [
+          "I see grace differently now",
+          "I recognize my tendency to judge others",
+          "I want to extend more mercy",
+          "I'm challenged by Jesus' radical love"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine judgment and mercy speaks most powerfully?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Jesus protecting the woman caught in adultery",
+            "expansion": "Mercy triumphs over legalistic condemnation through compassionate understanding."
+          },
+          {
+            "id": 2,
+            "text": "Jesus declaring 'I am the light of the world'",
+            "expansion": "Divine revelation exposes human darkness while offering transformative illumination."
+          },
+          {
+            "id": 3,
+            "text": "Challenging the religious leaders' spiritual lineage",
+            "expansion": "True spiritual identity emerges from authentic relationship, not inherited status."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If truth sets us free, what invisible chains might we not realize are constraining our understanding?"
+      },
+      "moral_slider": {
+        "question": "Where do divine justice and human compassion intersect?",
+        "left_label": "Strict Judgment",
+        "right_label": "Radical Grace"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your previous assumptions about righteousness?",
+        "options": [
+          "I see judgment differently",
+          "I understand grace more deeply",
+          "I recognize spiritual blindness more clearly",
+          "I appreciate Jesus' radical approach to human brokenness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and Mercy",
+          "summary": "Jesus demonstrates profound compassion while confronting sin in the woman caught in adultery. His response reveals God's redemptive nature, balancing divine justice with transformative grace.",
+          "cross_references": [
+            "Romans 8:1",
+            "1 John 1:9",
+            "Luke 7:36-50",
+            "Psalm 103:10-12"
+          ]
+        },
+        {
+          "title": "Light of the World Identity",
+          "summary": "Jesus reveals His divine origin and mission as the eternal 'I AM', challenging religious authorities and demonstrating His pre-existence and spiritual authority. His teachings highlight the profound spiritual truth of His identity.",
+          "cross_references": [
+            "Exodus 3:14",
+            "John 1:1-5",
+            "Colossians 1:17",
+            "Revelation 1:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' interaction with the woman caught in adultery challenge traditional interpretations of divine justice?",
+        "options": [
+          "Demonstrates mercy supersedes legal punishment",
+          "Reveals God's transformative redemptive purpose",
+          "Challenges religious legalism through compassion",
+          "Establishes personal accountability without condemnation"
+        ]
+      }
+    }
+  }
+}

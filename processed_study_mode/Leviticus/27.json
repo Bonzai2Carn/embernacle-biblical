@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on what you truly value in life. Consider what you would willingly dedicate to God as a sacred offering.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you understand the concept of making sacred vows or dedicating something valuable to God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Financial commitment",
+            "response": "Create a specific giving plan for your church or a charitable cause"
+          },
+          {
+            "id": 2,
+            "text": "Personal dedication",
+            "response": "Write a personal covenant about how you will serve God this year"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual offering",
+            "response": "Identify a skill or resource you can intentionally offer for God's work"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a symbolic picture representing something valuable you would 'set apart' or dedicate to God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of commitment and sacred offerings?",
+        "options": [
+          "I see dedication as more intentional",
+          "I understand spiritual value beyond monetary terms",
+          "I recognize the importance of keeping promises to God",
+          "I'm more aware of personal consecration"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of consecration most intrigues you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Valuation System",
+            "expansion": "The precise monetary assessment reveals divine precision in human worth and commitment."
+          },
+          {
+            "id": 2,
+            "text": "Vow Redemption Mechanisms",
+            "expansion": "Flexibility in fulfilling sacred promises demonstrates God's understanding of human limitations."
+          },
+          {
+            "id": 3,
+            "text": "Ritualistic Dedication Protocols",
+            "expansion": "Structured processes for spiritual consecration reflect divine order and intentionality."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human worth can be quantified monetarily, what truly determines a person's spiritual value?"
+      },
+      "moral_slider": {
+        "question": "How do external rituals relate to internal spiritual transformation?",
+        "left_label": "Ritualistic Formalism",
+        "right_label": "Authentic Spiritual Commitment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of sacred vows evolved?",
+        "options": [
+          "Recognize complexity of spiritual commitment",
+          "Appreciate structured approach to dedicating oneself",
+          "Understand divine flexibility in human promises",
+          "See deeper symbolic meaning beyond literal interpretation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Valuation of Human Life",
+          "summary": "This chapter reveals God's systematic approach to evaluating human worth within a sacred economic and spiritual framework. It demonstrates that every individual has inherent value in God's eyes, with specific metrics based on age and gender.",
+          "cross_references": [
+            "Psalm 139:13-16",
+            "1 Corinthians 6:20",
+            "Genesis 1:27",
+            "Matthew 10:30-31"
+          ]
+        },
+        {
+          "title": "Sacred Vows and Redemption",
+          "summary": "Leviticus 27 outlines precise mechanisms for fulfilling spiritual commitments and provides pathways for financial redemption of votive offerings. The chapter emphasizes the seriousness of covenant promises and God's gracious provision for human limitations.",
+          "cross_references": [
+            "Numbers 30:2",
+            "Ecclesiastes 5:4-5",
+            "Matthew 5:33-37",
+            "Acts 5:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's detailed valuation system reflect divine perspectives on human worth and spiritual commitment?",
+        "options": [
+          "God values each person uniquely, acknowledging individual differences",
+          "The valuation system reveals structural social hierarchies of ancient Israel",
+          "These regulations demonstrate God's precision and care in spiritual transactions",
+          "The metrics symbolize spiritual principles beyond literal monetary assessment"
+        ]
+      }
+    }
+  }
+}

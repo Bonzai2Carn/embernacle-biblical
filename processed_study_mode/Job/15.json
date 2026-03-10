@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on how your words reveal your inner character, asking God to examine your heart's true motivations.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might your current communication patterns reveal unresolved spiritual struggles?",
+        "options": [
+          {
+            "id": 1,
+            "text": "My words often come from a place of defensiveness",
+            "response": "Practice active listening and seek understanding before responding"
+          },
+          {
+            "id": 2,
+            "text": "I tend to judge others quickly",
+            "response": "Pause and pray for compassion before speaking about others"
+          },
+          {
+            "id": 3,
+            "text": "I struggle to be honest about my own weaknesses",
+            "response": "Journal about areas where you need God's transformative grace"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a 'wind' representing empty or harmful words, showing how they scatter and create chaos",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual communication?",
+        "options": [
+          "Words reveal more about my heart than I realized",
+          "I need to be more intentional about speaking truth with grace",
+          "My defensive arguments often mask deeper spiritual issues",
+          "Listening is sometimes more important than speaking"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about human knowledge and divine perspective?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Human wisdom is limited",
+            "expansion": "Our understanding is finite compared to God's infinite wisdom"
+          },
+          {
+            "id": 2,
+            "text": "Speech reveals inner character",
+            "expansion": "Our words often expose the true state of our heart and spiritual condition"
+          },
+          {
+            "id": 3,
+            "text": "Pride disrupts spiritual perception",
+            "expansion": "Arrogance blinds us to genuine spiritual insights and divine guidance"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your current understanding of suffering were completely wrong, what might that reveal about your spiritual assumptions?"
+      },
+      "moral_slider": {
+        "question": "How do human suffering and divine justice intersect?",
+        "left_label": "Human Randomness",
+        "right_label": "Divine Order"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on suffering and wisdom shifted?",
+        "options": [
+          "I recognize the limits of human understanding",
+          "I'm more humble about explaining divine actions",
+          "I see wisdom as a journey, not a destination",
+          "I'm more patient with complexity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Human Accountability",
+          "summary": "Eliphaz challenges Job's spiritual integrity, suggesting that suffering is a direct result of personal sin. He argues that wisdom requires acknowledging human limitations before God's supreme judgment.",
+          "cross_references": [
+            "Proverbs 3:11-12",
+            "Hebrews 12:5-6",
+            "James 1:2-4",
+            "Romans 5:3-5"
+          ]
+        },
+        {
+          "title": "The Consequences of Unrepentant Pride",
+          "summary": "Eliphaz condemns Job's perceived self-righteousness, emphasizing that pride leads to spiritual blindness and separation from divine understanding. He implies that true wisdom comes from humility before God.",
+          "cross_references": [
+            "Proverbs 16:18",
+            "1 Peter 5:5-6",
+            "Psalm 138:6",
+            "Proverbs 11:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do human suffering and divine justice intersect in theological understanding?",
+        "options": [
+          "Suffering is always a direct punishment for personal sin",
+          "Suffering can be a pathway for spiritual growth and refinement",
+          "Divine justice is ultimately mysterious and beyond human comprehension",
+          "Suffering reveals more about human character than divine intention"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 38,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being in God's presence, feeling the humility of realizing how small you are compared to divine wisdom",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding God's sovereignty help me manage my own life challenges?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Surrender my control and trust divine wisdom",
+            "response": "Create a daily surrender prayer acknowledging God's supreme understanding"
+          },
+          {
+            "id": 2,
+            "text": "Embrace my limitations as opportunities for growth",
+            "response": "Journal about areas where I need to stop trying to have all the answers"
+          },
+          {
+            "id": 3,
+            "text": "Practice humility when facing complex problems",
+            "response": "Seek counsel and listen more before jumping to conclusions"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing how vast the universe is compared to a tiny human, representing God's perspective in Job 38",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of God's relationship with humanity?",
+        "options": [
+          "God is more mysterious than I previously thought",
+          "My human perspective is extremely limited",
+          "Divine wisdom far exceeds human comprehension",
+          "Humility is crucial in understanding spiritual truths"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine perspective resonates most deeply?",
+        "choices": [
+          {
+            "id": "cosmic_scale",
+            "text": "The immensity of God's creative power",
+            "expansion": "Recognizing human limitations against the infinite complexity of universal design."
+          },
+          {
+            "id": "divine_questioning",
+            "text": "God's direct confrontation of human presumption",
+            "expansion": "Understanding wisdom emerges from humility, not intellectual arrogance."
+          },
+          {
+            "id": "mysterious_order",
+            "text": "The intricate, unknowable systemic governance of creation",
+            "expansion": "Embracing that some divine mechanisms transcend human comprehension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If you cannot explain the fundamental mechanisms of existence, by what authority do you judge the nature of divine action?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human suffering with divine sovereignty?",
+        "left_label": "Human Autonomy",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human knowledge changed?",
+        "options": [
+          "Recognize profound limitations of human understanding",
+          "Appreciate mystery as a form of wisdom",
+          "Develop deeper humility about intellectual claims",
+          "Understand knowledge as a collaborative, humble journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty",
+          "summary": "God confronts Job's limited human understanding by revealing His absolute sovereignty over creation. The passage demonstrates that divine wisdom transcends human comprehension and that God's governance of the universe is infinitely complex and purposeful.",
+          "cross_references": [
+            "Proverbs 3:19-20",
+            "Isaiah 40:12-14",
+            "Colossians 1:16-17",
+            "Hebrews 1:2-3"
+          ]
+        },
+        {
+          "title": "Human Limitations",
+          "summary": "The divine discourse emphasizes the stark contrast between human knowledge and divine omniscience. God's rhetorical questions highlight Job's profound limitations in understanding cosmic design and divine administration.",
+          "cross_references": [
+            "1 Corinthians 1:25",
+            "Isaiah 55:8-9",
+            "Romans 11:33-34",
+            "Psalm 147:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's response to Job challenge traditional theological perspectives on suffering and divine justice?",
+        "options": [
+          "Suffering is not always a direct consequence of personal sin",
+          "Divine wisdom operates beyond human rational comprehension",
+          "God's sovereignty does not require human understanding or approval",
+          "Theological explanations are often inadequate to explain divine mysteries"
+        ]
+      }
+    }
+  }
+}

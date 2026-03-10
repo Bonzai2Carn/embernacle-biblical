@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Look up at the night sky and marvel at God's majestic creation, remembering how small yet significant humans are in the universe",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding God's greatness and human value change your daily perspective?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Develop a more humble attitude",
+            "response": "Practice daily gratitude and recognize your gifts come from God"
+          },
+          {
+            "id": 2,
+            "text": "Embrace your divine purpose",
+            "response": "Seek ways to steward your God-given responsibilities with excellence"
+          },
+          {
+            "id": 3,
+            "text": "Recognize personal worth",
+            "response": "Affirm your identity as a valued creation of God, beloved and purposeful"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing yourself as small but powerful, surrounded by God's incredible universe",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of humanity's place in creation?",
+        "options": [
+          "I feel more humble",
+          "I see myself as more significant",
+          "I'm more amazed by God's design",
+          "I understand my role in creation differently"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What most powerfully captures the essence of humanity's place in creation?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Human's humble yet honored status",
+            "expansion": "We are simultaneously small in the cosmic scale yet dramatically significant in divine perspective."
+          },
+          {
+            "id": "B",
+            "text": "God's majestic creative design",
+            "expansion": "The universe reveals intricate purposefulness that suggests intentional, loving craftsmanship."
+          },
+          {
+            "id": "C",
+            "text": "Divine delegation of stewardship",
+            "expansion": "Humans are entrusted with remarkable responsibility to represent God's care for creation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If humans are 'a little lower than the heavenly beings', what divine qualities might we be called to reflect, despite our limitations?"
+      },
+      "moral_slider": {
+        "question": "How do human dignity and human frailty coexist?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Potential"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human purpose shifted?",
+        "options": [
+          "I see humanity as more sacred",
+          "I recognize our profound interdependence with creation",
+          "I feel a greater sense of spiritual responsibility",
+          "I understand divine love more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Dignity",
+          "summary": "Psalm 8 explores the profound contrast between God's majestic cosmic power and humanity's surprisingly elevated status in creation. It highlights how humans, despite being small, are uniquely honored and positioned as stewards of God's creation.",
+          "cross_references": [
+            "Genesis 1:26-28",
+            "Hebrews 2:6-8",
+            "1 Corinthians 15:27",
+            "Ephesians 1:22"
+          ]
+        },
+        {
+          "title": "God's Creative Excellence",
+          "summary": "The psalm celebrates God's intricate design of the universe, emphasizing the magnificent complexity of creation and the deliberate placement of humanity within it. It presents creation as a testament to divine artistry and intentional purpose.",
+          "cross_references": [
+            "Job 38:4-7",
+            "Proverbs 8:22-31",
+            "Romans 1:20",
+            "Colossians 1:16-17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 8 reframe humanity's understanding of its role in God's cosmic design?",
+        "options": [
+          "Humans are insignificant compared to cosmic scales",
+          "Humans are uniquely honored and positioned as God's representatives",
+          "Creation exists primarily for human exploitation",
+          "Human value is determined by individual achievements"
+        ]
+      }
+    }
+  }
+}

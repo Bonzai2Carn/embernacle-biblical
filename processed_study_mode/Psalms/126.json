@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 126,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being suddenly freed from a long season of difficulty, experiencing unexpected joy and restoration",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced unexpected restoration or breakthrough in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through personal relationships",
+            "response": "Reach out and thank someone who has been part of your healing journey"
+          },
+          {
+            "id": 2,
+            "text": "In my spiritual walk",
+            "response": "Journal a gratitude list of God's unexpected interventions"
+          },
+          {
+            "id": 3,
+            "text": "During professional challenges",
+            "response": "Share your story of hope with someone currently struggling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of tears turning into laughter, representing joy after a difficult season",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How does this Psalm change your perspective on waiting and hope?",
+        "options": [
+          "God's timing is perfect",
+          "Restoration can happen suddenly",
+          "Joy follows seasons of struggle",
+          "Hope is always possible"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of restoration resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Joy of Return",
+            "expansion": "The sudden transformation from captivity to freedom creates spontaneous, overwhelming joy."
+          },
+          {
+            "id": "b",
+            "text": "Divine Intervention",
+            "expansion": "God's unexpected redemption demonstrates His power to reverse seemingly impossible circumstances."
+          },
+          {
+            "id": "c",
+            "text": "Seeds of Hope",
+            "expansion": "Suffering and planting are interconnected, with tears ultimately yielding profound spiritual harvest."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If restoration requires both divine action and human participation, what personal responsibility accompanies waiting for deliverance?"
+      },
+      "moral_slider": {
+        "question": "How do suffering and hope coexist in spiritual transformation?",
+        "left_label": "Despair",
+        "right_label": "Expectant Faith"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual seasons shifted?",
+        "options": [
+          "Recognized cycles of challenge and renewal",
+          "Understood suffering as potential growth",
+          "Appreciated unexpected divine intervention",
+          "Learned patience in waiting"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Restoration",
+          "summary": "The psalm celebrates God's miraculous restoration of Israel's fortunes after exile. It highlights the transformative power of divine intervention and the profound joy experienced when God dramatically changes circumstances.",
+          "cross_references": [
+            "Jeremiah 29:11",
+            "Isaiah 49:13",
+            "Ezra 1:1-4",
+            "Zechariah 8:7-8"
+          ]
+        },
+        {
+          "title": "Joyful Hope in Suffering",
+          "summary": "The psalm demonstrates how faith sustains believers during difficult seasons, portraying hope as a spiritual discipline. It reveals that seasons of sorrow can be transformed into moments of abundant rejoicing through divine promise.",
+          "cross_references": [
+            "James 1:2-4",
+            "Romans 8:28",
+            "2 Corinthians 4:16-18",
+            "Psalm 30:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine restoration challenge our understanding of suffering and redemption?",
+        "options": [
+          "Suffering is always temporary in God's redemptive plan",
+          "Divine restoration requires active human participation",
+          "God's restoration transcends historical and personal limitations",
+          "Spiritual joy is independent of external circumstances"
+        ]
+      }
+    }
+  }
+}

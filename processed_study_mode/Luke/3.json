@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on personal paths that need straightening, just as John called people to prepare the way for Christ",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I genuinely demonstrate repentance in my daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Share resources with those in need",
+            "response": "Identify one practical way to help someone who has less than you this week"
+          },
+          {
+            "id": 2,
+            "text": "Stop practicing dishonesty in my work/relationships",
+            "response": "Make a commitment to total transparency in one challenging relationship"
+          },
+          {
+            "id": 3,
+            "text": "Recognize my personal accountability to God",
+            "response": "Journal about areas where you need personal transformation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a path being made straight, representing how John prepared the way for Jesus",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 3 challenged my understanding of true repentance?",
+        "options": [
+          "Repentance is more about actions than feelings",
+          "God looks at the heart's genuine desire to change",
+          "Real transformation requires practical steps",
+          "Repentance is a continuous journey, not a one-time event"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of John the Baptist's message resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Radical Repentance",
+            "expansion": "True transformation requires confronting personal sin without compromise."
+          },
+          {
+            "id": "2",
+            "text": "Social Justice",
+            "expansion": "Authentic spiritual renewal manifests in concrete actions toward equity and compassion."
+          },
+          {
+            "id": "3",
+            "text": "Messianic Expectation",
+            "expansion": "Divine intervention is imminent, requiring spiritual preparedness and humility."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If true spiritual change demands more than ritual, what internal barriers prevent genuine transformation in your own life?"
+      },
+      "moral_slider": {
+        "question": "How do personal privilege and divine accountability intersect?",
+        "left_label": "Individual Entitlement",
+        "right_label": "Communal Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal spiritual growth evolved?",
+        "options": [
+          "Recognizing systemic barriers to change",
+          "Understanding repentance as action, not just feeling",
+          "Seeing personal transformation as communal responsibility",
+          "Acknowledging spiritual renewal requires radical honesty"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Preparation and Prophetic Fulfillment",
+          "summary": "John the Baptist emerges as the prophetic forerunner preparing the way for Jesus Christ. His ministry represents the transitional moment between Old Testament prophecy and New Testament redemption.",
+          "cross_references": [
+            "Isaiah 40:3-5",
+            "Malachi 3:1",
+            "Matthew 3:1-3",
+            "Mark 1:2-4"
+          ]
+        },
+        {
+          "title": "Repentance and Spiritual Transformation",
+          "summary": "John's baptism demands genuine repentance, calling people to radical internal change demonstrated through practical righteousness and social justice. True spiritual transformation requires authentic behavioral modification.",
+          "cross_references": [
+            "Acts 2:38",
+            "Romans 6:4",
+            "2 Corinthians 5:17",
+            "Galatians 2:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does John's prophetic ministry challenge contemporary understandings of spiritual preparation?",
+        "options": [
+          "Emphasizes internal transformation over ritualistic practices",
+          "Demonstrates prophetic confrontation of systemic social injustice",
+          "Highlights the importance of personal accountability",
+          "Reveals divine preparation preceding messianic manifestation"
+        ]
+      }
+    }
+  }
+}

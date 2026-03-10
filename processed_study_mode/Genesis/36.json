@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 36,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on how family lineages and histories shape our understanding of personal identity",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do family genealogies and histories influence your sense of personal heritage?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Learn more about my family's background",
+            "response": "Research family history through conversations with elders or genealogy resources"
+          },
+          {
+            "id": 2,
+            "text": "Understand cultural influences in my family",
+            "response": "Create a family tree that captures cultural and generational stories"
+          },
+          {
+            "id": 3,
+            "text": "Appreciate diverse family narratives",
+            "response": "Listen respectfully to family stories without judgment"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree representing Esau's descendants, using different colors for each branch of the family",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Esau's genealogy changed your perspective on family history?",
+        "options": [
+          "Recognized the importance of documenting family stories",
+          "Understood that every family has complex histories",
+          "Appreciated the value of preserving generational narratives",
+          "Saw how cultural identities are shaped over generations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What most resonates about Esau's genealogy?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family complexity and legacy",
+            "expansion": "Esau's descendants reveal how intricate family histories can become across generations."
+          },
+          {
+            "id": 2,
+            "text": "Cultural preservation",
+            "expansion": "The detailed tribal listings demonstrate the importance of maintaining cultural and ancestral records."
+          },
+          {
+            "id": 3,
+            "text": "Divine narrative continuity",
+            "expansion": "Even in a genealogical chapter, God's broader covenant story continues through documented lineages."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do seemingly mundane genealogical records actually reveal profound spiritual truths about human inheritance and divine providence?"
+      },
+      "moral_slider": {
+        "question": "To what extent do familial conflicts shape generational destinies?",
+        "left_label": "Individual Agency",
+        "right_label": "Inherited Patterns"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical genealogy shifted?",
+        "options": [
+          "More appreciative of historical detail",
+          "Recognize deeper symbolic meanings",
+          "See genealogy as spiritual narrative",
+          "Understand cultural preservation importance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Genealogy of Esau",
+          "summary": "This chapter provides a detailed genealogical record of Esau's descendants, highlighting the fulfillment of God's promise of multiplication to Jacob's brother. The extensive lineage demonstrates God's faithfulness in establishing nations and preserving familial histories.",
+          "cross_references": [
+            "1 Chronicles 1:35-54",
+            "Genesis 25:23",
+            "Romans 9:10-13",
+            "Obadiah 1:10-14"
+          ]
+        },
+        {
+          "title": "Edomite Leadership Structures",
+          "summary": "The passage meticulously details the tribal chiefs and kings of Edom, revealing complex social and political organizational structures among Esau's descendants. This genealogy underscores the divine plan of national development beyond the immediate covenant line.",
+          "cross_references": [
+            "Numbers 20:14-21",
+            "Deuteronomy 2:4-6",
+            "Ezekiel 25:12-14",
+            "Amos 1:11-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the genealogical record of Esau contribute to understanding God's broader redemptive narrative?",
+        "options": [
+          "Demonstrates God's sovereignty beyond the chosen lineage",
+          "Highlights the complexity of familial and tribal relationships",
+          "Provides historical context for later biblical interactions",
+          "Reveals divine providence in national development"
+        ]
+      }
+    }
+  }
+}

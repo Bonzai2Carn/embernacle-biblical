@@ -1,0 +1,117 @@
+{
+  "book": "Ephesians",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Picture yourself as part of one interconnected spiritual body, connected by love and shared purpose.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you practically maintain spiritual unity in your community or relationships?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Practice active listening",
+            "response": "Commit to hearing others' perspectives before responding"
+          },
+          {
+            "id": 2,
+            "text": "Resolve conflicts gently",
+            "response": "Address disagreements with humility and love"
+          },
+          {
+            "id": 3,
+            "text": "Celebrate diversity within unity",
+            "response": "Recognize different gifts while maintaining shared purpose"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of people holding hands, with each person representing a different spiritual gift or role in the church community",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community changed after reading this chapter?",
+        "options": [
+          "I see unity as more important than individual preferences",
+          "I recognize the value of diverse spiritual gifts",
+          "I understand grace plays a crucial role in relationships",
+          "I feel more connected to other believers"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological concept most challenges your understanding of Christian unity?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "One Body, One Spirit",
+            "expansion": "The radical interconnectedness of believers transcends individual differences and cultural boundaries."
+          },
+          {
+            "id": 2,
+            "text": "Walking Worthy of Calling",
+            "expansion": "Personal spiritual maturity requires intentional alignment with divine purpose and communal responsibility."
+          },
+          {
+            "id": 3,
+            "text": "Unity Through Humility",
+            "expansion": "Genuine spiritual community emerges from genuine self-awareness and mutual grace."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If true spiritual unity requires 'lowliness and gentleness', how might your current approach to disagreement reveal hidden pride?"
+      },
+      "moral_slider": {
+        "question": "How do individual spiritual gifts balance with collective church unity?",
+        "left_label": "Individual Expression",
+        "right_label": "Communal Harmony"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community evolved?",
+        "options": [
+          "More aware of spiritual interconnectedness",
+          "Recognize importance of humility",
+          "Understand diversity within unity",
+          "See beyond personal preferences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Ecclesial Unity",
+          "summary": "Paul emphasizes the profound spiritual unity of believers across diverse backgrounds. This unity transcends cultural, social, and ethnic boundaries, representing the transformative power of Christ's redemptive work.",
+          "cross_references": [
+            "1 Corinthians 12:12-13",
+            "Galatians 3:28",
+            "Romans 12:4-5",
+            "Colossians 3:11"
+          ]
+        },
+        {
+          "title": "Spiritual Gifting and Maturity",
+          "summary": "Apostolic and ministerial gifts are divinely distributed to equip believers for service and spiritual growth. The ultimate goal is corporate and individual maturity reflecting Christ's fullness.",
+          "cross_references": [
+            "1 Corinthians 12:4-11",
+            "Romans 12:6-8",
+            "1 Peter 4:10-11",
+            "1 Corinthians 14:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand spiritual diversity within ecclesiastical unity?",
+        "options": [
+          "Gifts demonstrate individual uniqueness while maintaining theological coherence",
+          "Unity requires complete uniformity of expression and ministry function",
+          "Diversity reflects God's creative design within spiritual harmony",
+          "Ministerial roles are hierarchically structured without mutual interdependence"
+        ]
+      }
+    }
+  }
+}

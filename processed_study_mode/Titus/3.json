@@ -1,0 +1,117 @@
+{
+  "book": "Titus",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and silently pray: 'Lord, help me show grace to others as You have shown grace to me.'",
+        "timer": 15
+      },
+      "two_step": {
+        "reflect_question": "How can I practically demonstrate humility and kindness in my daily interactions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "At work or school",
+            "response": "Listen more, speak less critically, offer genuine help without expecting recognition"
+          },
+          {
+            "id": 2,
+            "text": "With family members",
+            "response": "Practice patience, apologize first, choose understanding over being right"
+          },
+          {
+            "id": 3,
+            "text": "In community interactions",
+            "response": "Volunteer, support local initiatives, treat everyone with equal respect"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing someone helping another person who doesn't expect or deserve help, representing God's grace",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted my understanding of grace and personal transformation?",
+        "options": [
+          "I see my past mistakes differently",
+          "I understand God's mercy more deeply",
+          "I'm more motivated to help others",
+          "I recognize the power of personal change"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which transformative insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's mercy transcends human merit",
+            "expansion": "Divine grace operates independently of our accomplishments or worthiness."
+          },
+          {
+            "id": 2,
+            "text": "Personal transformation begins with humility",
+            "expansion": "Recognizing our past failures creates space for genuine spiritual growth."
+          },
+          {
+            "id": 3,
+            "text": "Community requires active gentleness",
+            "expansion": "Peaceful interactions emerge from intentional, compassionate engagement."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If salvation is not earned through works, what then motivates genuine spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do personal accountability and divine grace coexist?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal redemption shifted?",
+        "options": [
+          "I see my past failures more compassionately",
+          "I understand grace as unmerited gift",
+          "I recognize the importance of community healing",
+          "I'm more aware of systemic human brokenness"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Grace-Driven Transformation",
+          "summary": "Paul emphasizes the radical transformation from sinful nature to redeemed citizenship through God's mercy. Believers are rescued not by personal merit, but by divine grace and regeneration.",
+          "cross_references": [
+            "Ephesians 2:8-9",
+            "Romans 5:8",
+            "2 Corinthians 5:17",
+            "Galatians 2:16"
+          ]
+        },
+        {
+          "title": "Practical Holiness and Social Engagement",
+          "summary": "Christians are called to live constructively in society, demonstrating transformed behavior through humility, peace, and good works. Believers are to be model citizens who reflect Christ's character in community interactions.",
+          "cross_references": [
+            "Matthew 5:16",
+            "1 Peter 2:12",
+            "James 2:17",
+            "Romans 12:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine grace fundamentally reshape human potential for righteousness?",
+        "options": [
+          "Grace enables moral transformation independent of human effort",
+          "Grace provides opportunity but requires active human cooperation",
+          "Grace is primarily judicial, legally declaring righteousness",
+          "Grace is a gradual process of spiritual reformation"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Picture God's love being actively 'poured out' into your heart, like a warm, healing liquid filling every emotional space.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond to tribulations or challenges in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I get discouraged and give up",
+            "response": "Practice seeing challenges as opportunities for spiritual growth and character development"
+          },
+          {
+            "id": 2,
+            "text": "I try to avoid difficulties",
+            "response": "Intentionally develop a perspective of resilience and trust in God's transformative process"
+          },
+          {
+            "id": 3,
+            "text": "I lean into God during tough times",
+            "response": "Continue deepening your faith and documenting how God uses trials to strengthen you"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path representing your spiritual journey, with 'stones' of trials and 'bridges' of God's grace connecting each section",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of suffering and spiritual growth?",
+        "options": [
+          "Suffering is now seen as potentially redemptive",
+          "I understand God's love more deeply",
+          "I feel more hope during challenging seasons",
+          "I recognize trials can build spiritual muscle"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which transformative idea about suffering resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Tribulation produces perseverance",
+            "expansion": "Suffering is not random, but a potential pathway for spiritual refinement and growth."
+          },
+          {
+            "id": 2,
+            "text": "Peace with God through faith",
+            "expansion": "Justification creates a fundamental relational shift from alienation to intimate connection."
+          },
+          {
+            "id": 3,
+            "text": "God's love poured into our hearts",
+            "expansion": "Divine love is an experiential reality, not just a theological concept."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering refines character, does that mean all suffering has inherent spiritual value, or are some experiences merely destructive?"
+      },
+      "moral_slider": {
+        "question": "How do you balance divine sovereignty with human responsibility in personal transformation?",
+        "left_label": "Passive Acceptance",
+        "right_label": "Active Cooperation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual growth shifted?",
+        "options": [
+          "Suffering is no longer just painful, but potentially purposeful",
+          "Faith feels more dynamic and interactive",
+          "I see character development as a spiritual process",
+          "God's love seems more personally tangible"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Justification Through Faith",
+          "summary": "Paul articulates the profound theological concept of justification by faith alone. Believers are reconciled to God through Christ's redemptive work, receiving righteousness not through personal merit, but through grace.",
+          "cross_references": [
+            "Ephesians 2:8-9",
+            "Galatians 3:24",
+            "Titus 3:7",
+            "Genesis 15:6"
+          ]
+        },
+        {
+          "title": "Christ's Redemptive Comparison",
+          "summary": "Paul presents a theological contrast between Adam's sin and Christ's redemption, demonstrating how one man's disobedience brought condemnation, while Christ's obedience provides salvation and justification for many.",
+          "cross_references": [
+            "1 Corinthians 15:22",
+            "1 Corinthians 15:45",
+            "Isaiah 53:11",
+            "Hebrews 9:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering relate to spiritual transformation in God's redemptive plan?",
+        "options": [
+          "Suffering is purely punitive and demonstrates divine judgment",
+          "Tribulations are opportunities for spiritual growth and character development",
+          "Trials represent a direct challenge to faith and must be avoided",
+          "Suffering reveals God's love through refining believers' spiritual resilience"
+        ]
+      }
+    }
+  }
+}

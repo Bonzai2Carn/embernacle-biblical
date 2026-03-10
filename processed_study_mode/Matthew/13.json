@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine yourself as a soil type receiving God's Word. What kind of ground is your heart today?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How receptive are you to understanding spiritual mysteries?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I struggle to understand deeper spiritual truths",
+            "response": "Commit to daily scripture reading and prayer for spiritual insight"
+          },
+          {
+            "id": 2,
+            "text": "I'm curious but sometimes feel overwhelmed",
+            "response": "Join a Bible study group for guided understanding"
+          },
+          {
+            "id": 3,
+            "text": "I'm open to learning and growing spiritually",
+            "response": "Practice lectio divina - slow, contemplative scripture reading"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a garden with different types of soil representing how people receive God's message",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual growth changed after reading Matthew 13?",
+        "options": [
+          "I see spiritual growth as a process, not an instant transformation",
+          "I understand that my heart's condition matters in receiving God's Word",
+          "I recognize the importance of persistence in faith",
+          "I'm more aware of potential spiritual obstacles"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which parable reveals the most profound spiritual truth?",
+        "choices": [
+          {
+            "id": "mustard_seed",
+            "text": "Mustard Seed Parable",
+            "expansion": "Small beginnings can yield transformative, unexpected spiritual growth"
+          },
+          {
+            "id": "hidden_treasure",
+            "text": "Hidden Treasure Parable",
+            "expansion": "The kingdom of heaven's immeasurable value supersedes all worldly possessions"
+          },
+          {
+            "id": "sower",
+            "text": "Sower Parable",
+            "expansion": "Spiritual receptivity determines the efficacy of divine message"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine truth is universally available, why do some hearts remain unreceptive?"
+      },
+      "moral_slider": {
+        "question": "How do human limitations interact with divine invitation?",
+        "left_label": "Human Limitation",
+        "right_label": "Divine Grace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual receptivity evolved?",
+        "options": [
+          "More aware of inner spiritual landscape",
+          "Recognize complexity of spiritual understanding",
+          "See divine invitation as nuanced",
+          "Appreciate metaphorical spiritual insights"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Parables of the Kingdom",
+          "summary": "Jesus uses agricultural and everyday metaphors to reveal profound spiritual truths about God's kingdom. These parables demonstrate how divine truth is received differently based on spiritual receptivity and heart condition.",
+          "cross_references": [
+            "Mark 4:1-34",
+            "Luke 8:4-18",
+            "1 Corinthians 2:14",
+            "Ephesians 1:18"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment and Growth",
+          "summary": "The chapter illustrates how spiritual understanding requires intentional cultivation and spiritual sensitivity. Not all who hear the divine message comprehend or respond with transformative faith.",
+          "cross_references": [
+            "Romans 11:8",
+            "2 Corinthians 4:4",
+            "Hebrews 5:11-14",
+            "Revelation 3:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do Jesus' parables challenge traditional understanding of divine kingdom expansion?",
+        "options": [
+          "The kingdom grows through unexpected agents and subtle spiritual processes",
+          "Divine transformation occurs incrementally, not always dramatically",
+          "Spiritual receptivity matters more than religious pedigree",
+          "God's redemptive plan transcends human expectations and institutional boundaries"
+        ]
+      }
+    }
+  }
+}

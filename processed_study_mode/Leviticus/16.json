@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize the weight of sin being symbolically transferred and removed, breathing deeply with each exhale",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you currently approach seeking forgiveness and spiritual cleansing?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I try to handle it alone",
+            "response": "Consider seeking spiritual counsel or prayer support"
+          },
+          {
+            "id": 2,
+            "text": "I rarely address my spiritual mistakes",
+            "response": "Start a personal reflection journal about personal growth and accountability"
+          },
+          {
+            "id": 3,
+            "text": "I'm open to divine guidance in restoration",
+            "response": "Continue practicing intentional spiritual self-examination"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a symbolic image representing the scapegoat carrying away sins into the wilderness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about the Day of Atonement shifted your understanding of spiritual restoration?",
+        "options": [
+          "I see forgiveness as more complex and intentional",
+          "I understand the seriousness of sin differently",
+          "I appreciate symbolic rituals of spiritual cleansing more",
+          "I recognize the need for mediated reconciliation with God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about holiness resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The necessity of ritual purification",
+            "expansion": "Holiness requires intentional separation from impurity through prescribed sacred acts."
+          },
+          {
+            "id": 2,
+            "text": "The role of sacrifice in reconciliation",
+            "expansion": "Atonement involves symbolic transfer of guilt through a substitutionary offering."
+          },
+          {
+            "id": 3,
+            "text": "Divine proximity demands extreme reverence",
+            "expansion": "Approaching God's presence requires meticulous spiritual preparation and humility."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If imperfection requires such elaborate rituals of cleansing, what does that reveal about the nature of human brokenness?"
+      },
+      "moral_slider": {
+        "question": "How do systemic approaches to spiritual restoration balance individual responsibility?",
+        "left_label": "Personal Accountability",
+        "right_label": "Communal Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual transformation shifted?",
+        "options": [
+          "Deeper appreciation for symbolic rituals",
+          "Recognized complexity of divine-human relationship",
+          "Understand sacrifice as transformative mechanism",
+          "Challenged previous assumptions about atonement"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Day of Atonement (Yom Kippur)",
+          "summary": "This chapter describes the elaborate ritual for annual corporate atonement for Israel's sins. The high priest enters the Holy of Holies with sacrificial blood to make reconciliation between God and His people, symbolizing spiritual cleansing and restoration.",
+          "cross_references": [
+            "Hebrews 9:7-14",
+            "Romans 3:25",
+            "1 John 2:2",
+            "Hebrews 10:1-18"
+          ]
+        },
+        {
+          "title": "Sacrificial Mediation",
+          "summary": "Aaron's role as high priest demonstrates the necessity of a divinely appointed mediator between humanity and God. The sacrificial system prefigures Christ's ultimate redemptive work as the perfect mediatorial sacrifice.",
+          "cross_references": [
+            "1 Timothy 2:5-6",
+            "Hebrews 7:25-27",
+            "John 14:6",
+            "Ephesians 2:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the Day of Atonement ritual reveal God's redemptive purpose?",
+        "options": [
+          "Demonstrates divine justice requires blood sacrifice",
+          "Illustrates God's desire for relational restoration",
+          "Reveals the comprehensive nature of human sinfulness",
+          "Prefigures Christ's ultimate sacrificial atonement"
+        ]
+      }
+    }
+  }
+}

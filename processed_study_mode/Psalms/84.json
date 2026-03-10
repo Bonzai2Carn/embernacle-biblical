@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 84,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a sacred place where you feel God's presence most deeply. Breathe slowly and center your heart on God's dwelling.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where do you find your soul's true sense of belonging and rest?",
+        "options": [
+          {
+            "id": 1,
+            "text": "In my personal worship space",
+            "response": "Create a dedicated prayer corner in your home"
+          },
+          {
+            "id": 2,
+            "text": "In church community",
+            "response": "Plan intentional connection with fellow believers this week"
+          },
+          {
+            "id": 3,
+            "text": "In quiet personal moments with God",
+            "response": "Establish a daily prayer and meditation routine"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a place that represents spiritual refuge and safety for you, using warm, welcoming colors",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm reshaped your understanding of spiritual yearning?",
+        "options": [
+          "I see worship as a deep heart connection, not just a ritual",
+          "I recognize my soul's genuine longing for God's presence",
+          "I understand that spiritual strength comes from consistent seeking",
+          "I feel more aware of finding joy in God's dwelling places"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual longing resonates most deeply in this psalm?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Desire for God's dwelling place",
+            "expansion": "The psalmist's profound yearning to be in God's presence transcends physical location and becomes a spiritual hunger."
+          },
+          {
+            "id": 2,
+            "text": "Finding strength in spiritual journey",
+            "expansion": "Even through challenging passages, the believer discovers inner resilience through trust in divine guidance."
+          },
+          {
+            "id": 3,
+            "text": "Worship as transformative experience",
+            "expansion": "Authentic worship is not merely ritual, but a profound encounter that reshapes human consciousness."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If true worship is about intimate connection rather than physical location, how might we redefine spiritual 'sanctuary' beyond traditional religious spaces?"
+      },
+      "moral_slider": {
+        "question": "To what extent does spiritual longing overcome life's practical challenges?",
+        "left_label": "Worldly Pragmatism",
+        "right_label": "Transcendent Yearning"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual dwelling evolved?",
+        "options": [
+          "Recognize spirituality beyond physical structures",
+          "Understand worship as internal transformation",
+          "Appreciate pilgrimage as metaphorical journey",
+          "Embrace vulnerability in spiritual seeking"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Dwelling in God's Presence",
+          "summary": "This psalm celebrates the profound joy and longing of a believer to be in God's sanctuary. It emphasizes the supreme value of intimate communion with God over worldly achievements or comforts.",
+          "cross_references": [
+            "Exodus 25:8-9",
+            "Psalm 27:4",
+            "John 14:2-3",
+            "Revelation 21:3"
+          ]
+        },
+        {
+          "title": "Spiritual Pilgrimage",
+          "summary": "The psalm portrays the spiritual journey of believers as a transformative passage through life's challenges, finding strength and renewed hope in God's grace. It illustrates how trust and perseverance lead to spiritual growth.",
+          "cross_references": [
+            "Isaiah 40:31",
+            "2 Corinthians 12:9-10",
+            "Philippians 3:13-14",
+            "Hebrews 11:13-16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm reframe our understanding of spiritual fulfillment?",
+        "options": [
+          "Proximity to God matters more than external achievements",
+          "Spiritual strength is cultivated through persistent seeking",
+          "Divine presence transforms life's challenging valleys",
+          "Worship is a holistic lifestyle, not merely a religious activity"
+        ]
+      }
+    }
+  }
+}

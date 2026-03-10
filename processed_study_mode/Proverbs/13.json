@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on a piece of advice your parents or mentors have given you. Take a deep breath and consider how wisdom from others can protect and guide you.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you develop better listening skills to receive wisdom instead of rejecting correction?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Practice active listening without interrupting",
+            "response": "In conversations, pause and truly hear the other person before formulating your response"
+          },
+          {
+            "id": 2,
+            "text": "Ask clarifying questions when receiving feedback",
+            "response": "When receiving criticism, seek to understand the full perspective before defending yourself"
+          },
+          {
+            "id": 3,
+            "text": "Journal about feedback to process it objectively",
+            "response": "Write down advice and critically examine its potential value in your personal growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with two different roads: one smooth and well-maintained (representing wisdom), and another overgrown and difficult (representing foolishness). Add symbolic obstacles on the foolish path.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Proverbs 13 shifted your understanding of personal growth and wisdom?",
+        "options": [
+          "I now see the importance of listening more than speaking",
+          "I recognize how my words and actions have consequences",
+          "I understand wisdom requires humility",
+          "I see value in seeking advice from trusted sources"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which wisdom insight resonates most deeply with personal transformation?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Words create consequences",
+            "expansion": "Our speech is a powerful creative force that shapes our destiny and character."
+          },
+          {
+            "id": 2,
+            "text": "Diligence breeds prosperity",
+            "expansion": "Consistent effort and discipline are the true pathways to meaningful achievement."
+          },
+          {
+            "id": 3,
+            "text": "Wisdom begins with listening",
+            "expansion": "Humility to receive correction is the first step toward genuine personal growth."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your words are truly the 'fruit' of your character, what harvest are you currently cultivating?"
+      },
+      "moral_slider": {
+        "question": "How do personal discipline and divine grace interact in personal transformation?",
+        "left_label": "Human Effort",
+        "right_label": "Divine Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal responsibility shifted?",
+        "options": [
+          "I see my choices more critically",
+          "I recognize the power of self-discipline",
+          "I understand consequences differently",
+          "I'm more aware of my speech's impact"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom and Parental Guidance",
+          "summary": "True wisdom is cultivated through attentive listening to parental instruction and spiritual mentorship. Receptivity to correction demonstrates humility and potential for personal growth.",
+          "cross_references": [
+            "Ephesians 6:1-4",
+            "Deuteronomy 6:6-9",
+            "Proverbs 1:8-9",
+            "2 Timothy 3:16-17"
+          ]
+        },
+        {
+          "title": "Diligence and Character",
+          "summary": "Diligence reflects spiritual maturity and moral integrity, contrasting sharply with laziness and moral compromise. Personal discipline determines spiritual and material prosperity.",
+          "cross_references": [
+            "Colossians 3:23",
+            "Proverbs 10:4",
+            "2 Thessalonians 3:10-12",
+            "Galatians 6:7-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal speech and character interconnect with spiritual development?",
+        "options": [
+          "Words reveal inner spiritual condition",
+          "Moral integrity precedes verbal communication",
+          "Divine guidance transforms speech patterns",
+          "Personal accountability determines spiritual growth"
+        ]
+      }
+    }
+  }
+}

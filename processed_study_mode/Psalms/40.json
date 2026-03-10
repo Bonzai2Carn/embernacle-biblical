@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 40,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, visualizing God lifting you out of a place of struggle and setting your feet on solid ground",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's rescue and redemption in your current season of life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm currently in a challenging situation",
+            "response": "Write a prayer of trust, focusing on God's faithfulness"
+          },
+          {
+            "id": 2,
+            "text": "I see God's past deliverance",
+            "response": "Create a gratitude list of specific ways God has helped you"
+          },
+          {
+            "id": 3,
+            "text": "I want to trust God more deeply",
+            "response": "Memorize verses 1-3 as a personal declaration of faith"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or imagine a picture of yourself being pulled from a dark, muddy pit into a wide, open space of freedom",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 40 shifted your understanding of waiting on God?",
+        "options": [
+          "I see waiting as an active trust process",
+          "God is always working, even when I can't see it",
+          "My perspective matters less than God's plan",
+          "Patience is a form of spiritual strength"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea resonates most deeply in this psalm's message?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Rescue and Restoration",
+            "expansion": "The psalm emphasizes divine intervention and lifting one from despair to a place of hope and purpose."
+          },
+          {
+            "id": 2,
+            "text": "Obedience as Spiritual Sacrifice",
+            "expansion": "Listening and responding to God's will is more meaningful than ritual sacrifices."
+          },
+          {
+            "id": 3,
+            "text": "Public Testimony of God's Faithfulness",
+            "expansion": "Sharing personal experiences of divine deliverance can inspire and encourage others."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering is a pathway to deeper understanding, what transformative insights might emerge from your most challenging experiences?"
+      },
+      "moral_slider": {
+        "question": "How do personal struggles relate to spiritual growth?",
+        "left_label": "Individual Suffering",
+        "right_label": "Divine Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on divine intervention shifted?",
+        "options": [
+          "More aware of subtle spiritual movements",
+          "Recognize suffering as potentially purposeful",
+          "Understand obedience differently",
+          "Value personal testimony more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Deliverance and Redemption",
+          "summary": "David experiences profound divine rescue from a desperate situation, highlighting God's intervention and faithfulness. The psalm emphasizes God's ability to transform human suffering into testimony and praise.",
+          "cross_references": [
+            "Isaiah 40:31",
+            "Romans 8:28",
+            "2 Corinthians 1:10",
+            "Psalm 34:6"
+          ]
+        },
+        {
+          "title": "Sacrificial Obedience",
+          "summary": "The psalmist demonstrates that true worship transcends ritual sacrifices and centers on wholehearted obedience and submission to God's will. David portrays an internal transformation of heart that honors divine commandments.",
+          "cross_references": [
+            "1 Samuel 15:22",
+            "Micah 6:8",
+            "Romans 12:1",
+            "Hebrews 10:5-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine deliverance relate to personal spiritual transformation?",
+        "options": [
+          "Deliverance is purely transactional, without deeper spiritual implications",
+          "God's rescue always accompanies personal character reformation",
+          "Individual response determines the depth of spiritual transformation",
+          "Redemption occurs independently of human agency or response"
+        ]
+      }
+    }
+  }
+}

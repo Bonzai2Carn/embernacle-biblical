@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 43,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently ask God to 'send forth your light and truth' into areas of your current uncertainty or struggle",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently experiencing spiritual discouragement or feeling distant from God's presence?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel spiritually stuck",
+            "response": "Intentionally worship through prayer and Scripture reading this week"
+          },
+          {
+            "id": 2,
+            "text": "I'm experiencing doubt",
+            "response": "Journal your honest feelings to God, then read psalms of lament"
+          },
+          {
+            "id": 3,
+            "text": "I'm wrestling with disappointment",
+            "response": "Practice gratitude by listing 3 ways God has been faithful recently"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself walking towards a bright, guiding light, representing God's truth leading you through uncertainty",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of navigating spiritual challenges?",
+        "options": [
+          "I see hope is always available",
+          "God welcomes honest emotional expression",
+          "Worship can be a pathway through darkness",
+          "Trusting God is a choice, not just a feeling"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual struggle resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Seeking Divine Guidance",
+            "expansion": "The psalmist's plea for God's light and truth reveals the human need for spiritual orientation."
+          },
+          {
+            "id": 2,
+            "text": "Overcoming Emotional Despair",
+            "expansion": "The raw emotional vulnerability demonstrates how faith can transform inner turmoil."
+          },
+          {
+            "id": 3,
+            "text": "Trusting Beyond Circumstances",
+            "expansion": "The commitment to praise God despite current challenges represents profound spiritual resilience."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of divine guidance change if you viewed obstacles as opportunities for deeper spiritual understanding?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate your sense of hope between personal effort and divine intervention?",
+        "left_label": "Human Striving",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual struggle evolved?",
+        "options": [
+          "Recognize emotional honesty as spiritual strength",
+          "Understand suffering as a potential pathway to deeper faith",
+          "See prayer as a transformative dialogue, not just a request",
+          "Appreciate vulnerability as a form of spiritual courage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Deliverance",
+          "summary": "The Psalmist seeks God's intervention against oppression and deceit, pleading for vindication and guidance. This passage represents a profound cry for spiritual and legal protection from unjust adversaries.",
+          "cross_references": [
+            "Psalm 26:1",
+            "Proverbs 10:6",
+            "Isaiah 54:17",
+            "Romans 8:31"
+          ]
+        },
+        {
+          "title": "Hope in God's Presence",
+          "summary": "The author expresses deep trust in God's redemptive power, recognizing divine hope as the ultimate source of spiritual strength. The Psalm demonstrates a transformative approach to suffering through worship and spiritual perspective.",
+          "cross_references": [
+            "Psalm 42:11",
+            "2 Corinthians 4:16-18",
+            "Romans 15:13",
+            "Lamentations 3:24-26"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal spiritual response impact divine intervention during seasons of adversity?",
+        "options": [
+          "Persistent worship transforms spiritual circumstances",
+          "Lamentation without faith limits divine interaction",
+          "Emotional honesty with God precedes breakthrough",
+          "Theological understanding determines spiritual outcome"
+        ]
+      }
+    }
+  }
+}

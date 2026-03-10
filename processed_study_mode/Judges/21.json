@@ -1,0 +1,117 @@
+{
+  "book": "Judges",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on how quickly community can fracture, then pray for unity and reconciliation in your own relationships",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when conflict threatens to divide my community or relationships?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek mediation and understanding",
+            "response": "Schedule a neutral conversation to listen and rebuild trust"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw and protect myself",
+            "response": "Practice active forgiveness and create healthy boundaries"
+          },
+          {
+            "id": 3,
+            "text": "Take drastic measures to 'solve' the problem",
+            "response": "Pause and seek wise counsel before acting"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two separated groups, symbolizing reconciliation and healing",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed my understanding of conflict resolution?",
+        "options": [
+          "Learned the danger of rash vows",
+          "Recognized the importance of preserving community",
+          "Saw how unintended consequences can emerge from hasty actions",
+          "Understood the need for compassion in resolving deep divisions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What profound human dynamic emerges from this chapter's tribal conflict?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Collective Tribal Remorse",
+            "expansion": "The Israelites demonstrate genuine grief over potentially losing an entire tribal lineage."
+          },
+          {
+            "id": 2,
+            "text": "Oath-Driven Complexity",
+            "expansion": "Sacred vows create intricate moral dilemmas that demand creative theological resolution."
+          },
+          {
+            "id": 3,
+            "text": "Survival vs. Principle",
+            "expansion": "The tribe's preservation becomes more important than the original ethical transgression."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do well-intentioned commitments sometimes lead us further from compassion and closer to destructive problem-solving?"
+      },
+      "moral_slider": {
+        "question": "Where does communal preservation intersect with individual moral integrity?",
+        "left_label": "Tribal Survival",
+        "right_label": "Ethical Consistency"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of community conflict and reconciliation have shifted?",
+        "options": [
+          "Recognized complexity of tribal dynamics",
+          "Understood limits of rigid oath-keeping",
+          "Appreciated nuanced conflict resolution",
+          "Challenged by unexpected theological pragmatism"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Crisis and Restoration",
+          "summary": "The chapter reveals the complex consequences of hasty vows and tribal conflict in Israel. Despite their initial harsh judgment against Benjamin, the Israelites seek to preserve the tribe's continuity and fulfill their covenant responsibilities.",
+          "cross_references": [
+            "Numbers 30:2",
+            "Ecclesiastes 5:4-5",
+            "Matthew 5:33-37",
+            "Galatians 3:15"
+          ]
+        },
+        {
+          "title": "Divine Providence in Tribal Survival",
+          "summary": "God's sovereignty is demonstrated through Israel's strategic intervention to ensure Benjamin's survival, despite the tribe's near-total destruction. The narrative illustrates God's commitment to preserving His covenant people.",
+          "cross_references": [
+            "Romans 11:1-2",
+            "Jeremiah 29:11",
+            "Isaiah 49:15-16",
+            "Psalm 105:8-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret the extreme measures taken to preserve the Benjamite tribe?",
+        "options": [
+          "As a demonstration of tribal loyalty superseding individual rights",
+          "As an example of God's providential protection of His covenant people",
+          "As a morally problematic solution driven by human manipulation",
+          "As a prophetic foreshadowing of redemptive restoration"
+        ]
+      }
+    }
+  }
+}

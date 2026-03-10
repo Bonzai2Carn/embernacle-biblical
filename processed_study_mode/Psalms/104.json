@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 104,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and imagine God as the supreme architect of creation, designing every detail of the natural world with intentional care",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I better appreciate God's role as Creator in my daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Spend time observing nature more intentionally",
+            "response": "Take a daily walk and notice intricate details of plants, animals, and landscapes"
+          },
+          {
+            "id": 2,
+            "text": "Practice gratitude for ecological systems",
+            "response": "Journal about how different elements of nature work in perfect harmony"
+          },
+          {
+            "id": 3,
+            "text": "Develop a more reverent perspective of creation",
+            "response": "Learn about environmental stewardship as a spiritual practice"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape that shows different elements of creation mentioned in Psalm 104 - mountains, trees, water, animals, sunlight",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 104 shifted your understanding of God's relationship with creation?",
+        "options": [
+          "I see creation as more intentionally designed",
+          "I recognize God's ongoing involvement in natural processes",
+          "I feel more connected to the complexity of ecological systems",
+          "I appreciate the wonder and diversity of the natural world more deeply"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of God's creative power resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Design of Natural Order",
+            "expansion": "God meticulously orchestrates complex ecological systems with intentional harmony."
+          },
+          {
+            "id": 2,
+            "text": "Continuous Divine Sustenance",
+            "expansion": "Creation is not a one-time event, but a perpetual divine engagement and renewal."
+          },
+          {
+            "id": 3,
+            "text": "Transcendent yet Intimately Present Creator",
+            "expansion": "The Creator simultaneously dwells beyond comprehension and within every intricate detail of existence."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If the entire universe declares God's glory, how might our perception of 'randomness' be fundamentally misunderstood?"
+      },
+      "moral_slider": {
+        "question": "How do we balance human agency with divine providence?",
+        "left_label": "Human Autonomy",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of creation and Creator shifted?",
+        "options": [
+          "Seeing nature as more intentional",
+          "Recognizing deeper interconnectedness",
+          "Understanding divine creativity differently",
+          "Experiencing a more holistic spiritual perspective"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Creation and Sovereignty",
+          "summary": "Psalms 104 presents God as the supreme architect and sustainer of the entire created order. The psalm portrays divine creativity extending beyond initial creation to continuous maintenance of natural systems and ecosystems.",
+          "cross_references": [
+            "Genesis 1:1-31",
+            "Job 38:4-7",
+            "Colossians 1:16-17",
+            "Hebrews 1:3"
+          ]
+        },
+        {
+          "title": "Nature as Divine Revelation",
+          "summary": "The psalm demonstrates how the natural world serves as a profound theological text, revealing God's wisdom, power, and intricate design. Every element of creation becomes a testament to divine majesty and intentional engineering.",
+          "cross_references": [
+            "Romans 1:20",
+            "Psalm 19:1-4",
+            "Proverbs 8:22-31",
+            "Isaiah 40:26"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalms 104 challenge contemporary theological perspectives on creation and divine interaction with the natural world?",
+        "options": [
+          "God's involvement is passive and distant after initial creation",
+          "Creation is a dynamic, continuously sustained process",
+          "Natural systems operate independently of divine oversight",
+          "Divine providence encompasses intricate ecological relationships"
+        ]
+      }
+    }
+  }
+}

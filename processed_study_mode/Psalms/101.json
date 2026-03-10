@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 101,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently affirm your commitment to walk with integrity, taking 10 seconds to breathe and focus on personal righteousness",
+        "timer": 10
+      },
+      "two_step": {
+        "reflect_question": "How can you create boundaries that protect your spiritual integrity in daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Limit media consumption that compromises my values",
+            "response": "Create a daily media filter and accountability system"
+          },
+          {
+            "id": 2,
+            "text": "Be more intentional about my close relationships",
+            "response": "Regularly evaluate friendships for positive spiritual influence"
+          },
+          {
+            "id": 3,
+            "text": "Practice honest self-reflection",
+            "response": "Journal weekly about personal character growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with words/symbols representing personal values that protect your heart",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm challenged your understanding of personal integrity?",
+        "options": [
+          "I need to be more intentional about my choices",
+          "I realized integrity starts with small daily decisions",
+          "I want to be more proactive about spiritual boundaries",
+          "I see integrity as a continuous journey, not a destination"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea resonates most about personal integrity?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Commitment to Moral Purity",
+            "expansion": "Actively choosing righteousness in a world of moral complexity"
+          },
+          {
+            "id": 2,
+            "text": "Leadership Accountability",
+            "expansion": "Holding oneself and others to high ethical standards"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Discernment",
+            "expansion": "Consciously filtering influences that could compromise one's spiritual journey"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal ethical standards evolve when power and proximity tempt compromise?"
+      },
+      "moral_slider": {
+        "question": "How do individual moral choices impact communal integrity?",
+        "left_label": "Personal Freedom",
+        "right_label": "Collective Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal integrity shifted?",
+        "options": [
+          "More aware of subtle moral compromises",
+          "Recognize leadership's ethical burden",
+          "Understand integrity as active choice",
+          "See moral decisions as interconnected"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Personal Integrity and Godly Leadership",
+          "summary": "David commits to maintaining personal holiness and ethical standards in leadership. He declares a resolute stance against corruption and moral compromise, emphasizing personal accountability before God.",
+          "cross_references": [
+            "Proverbs 10:9",
+            "1 Timothy 3:2-3",
+            "Titus 1:7-8",
+            "James 1:26"
+          ]
+        },
+        {
+          "title": "Moral Governance and Spiritual Discernment",
+          "summary": "The psalm outlines principles of righteous leadership, focusing on surrounding oneself with faithful companions and removing destructive influences. David articulates a vision of governance rooted in divine principles and personal spiritual discipline.",
+          "cross_references": [
+            "Proverbs 13:20",
+            "1 Corinthians 15:33",
+            "Psalm 1:1-2",
+            "Ephesians 5:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal spiritual integrity intersect with leadership responsibilities?",
+        "options": [
+          "Personal holiness is a prerequisite for effective spiritual leadership",
+          "Moral standards can be contextually flexible based on leadership challenges",
+          "Leadership effectiveness depends more on skills than personal character",
+          "Spiritual integrity is a continuous process of growth and accountability"
+        ]
+      }
+    }
+  }
+}

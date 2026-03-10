@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, visualizing presenting your morning requests to God, just as David seeks God's guidance at the start of the day",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you approach God with your daily concerns and requests?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Casually and sporadic",
+            "response": "Develop a consistent morning prayer routine"
+          },
+          {
+            "id": 2,
+            "text": "With structured formality",
+            "response": "Introduce more genuine, conversational prayer"
+          },
+          {
+            "id": 3,
+            "text": "Rarely or inconsistently",
+            "response": "Commit to daily morning communication with God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a shield protecting you, representing God's favor and covering",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your understanding of approaching God?",
+        "options": [
+          "God welcomes honest, direct communication",
+          "Prayer is about relationship, not just ritual",
+          "God provides protection for the righteous",
+          "Morning is a significant time for spiritual connection"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of David's prayer resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's righteousness in judgment",
+            "expansion": "Divine judgment represents ultimate moral accountability beyond human limitations."
+          },
+          {
+            "id": 2,
+            "text": "Morning prayer as spiritual discipline",
+            "expansion": "Intentional early communion with God sets a transformative tone for daily living."
+          },
+          {
+            "id": 3,
+            "text": "Seeking divine guidance amid adversity",
+            "expansion": "Navigating complex challenges requires spiritual discernment and humble trust."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine judgment is certain, how does that understanding reshape your perception of personal accountability?"
+      },
+      "moral_slider": {
+        "question": "How do you balance divine mercy with divine justice?",
+        "left_label": "Unconditional Grace",
+        "right_label": "Strict Accountability"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer evolved?",
+        "options": [
+          "More conversational with God",
+          "Deeper appreciation for spiritual vulnerability",
+          "Recognizing prayer as transformative dialogue",
+          "Seeing prayer as spiritual alignment"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Righteousness",
+          "summary": "David appeals to God's absolute moral perfection and commitment to justice. He acknowledges that God fundamentally rejects wickedness and values the righteous.",
+          "cross_references": [
+            "Habakkuk 1:13",
+            "Romans 1:18",
+            "1 Peter 3:12",
+            "Proverbs 15:29"
+          ]
+        },
+        {
+          "title": "Prayer as Spiritual Warfare",
+          "summary": "The psalm demonstrates prayer as a strategic spiritual response to adversity, where the believer seeks divine guidance and protection against malevolent forces. David presents prayer as a powerful weapon in confronting spiritual and earthly challenges.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "2 Corinthians 10:4",
+            "James 5:16",
+            "1 Thessalonians 5:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's relationship with the righteous and wicked manifest in this psalm?",
+        "options": [
+          "God actively opposes those who practice deceit",
+          "Divine protection is unconditional for believers",
+          "Righteousness requires intentional alignment with God's character",
+          "Spiritual warfare is primarily conducted through prayer and faith"
+        ]
+      }
+    }
+  }
+}

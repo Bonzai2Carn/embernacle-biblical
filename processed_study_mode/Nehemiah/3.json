@@ -1,0 +1,117 @@
+{
+  "book": "Nehemiah",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to imagine each person working together, side by side, rebuilding Jerusalem's walls - symbolizing unity and shared purpose",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How can you contribute to a collective goal that seems overwhelming?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Start with my immediate area of influence",
+            "response": "Identify one small task you can complete today that supports a larger community goal"
+          },
+          {
+            "id": 2,
+            "text": "Collaborate with others who have complementary skills",
+            "response": "Reach out to 2-3 people who can help you achieve a shared objective"
+          },
+          {
+            "id": 3,
+            "text": "Break down the large task into manageable segments",
+            "response": "Create a step-by-step plan with realistic milestones"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a wall where each brick represents a person working together, with different colors showing different skills and backgrounds",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of teamwork and community changed after reading this chapter?",
+        "options": [
+          "I see the power of collective effort",
+          "Everyone has a unique role to play",
+          "Small contributions matter greatly",
+          "Unity can overcome seemingly impossible challenges"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What most strikes you about community collaboration in rebuilding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Diverse People Working Together",
+            "expansion": "Each group and individual contributes uniquely to the collective restoration."
+          },
+          {
+            "id": 2,
+            "text": "Leadership by Example",
+            "expansion": "The high priest Eliashib leads first, demonstrating spiritual and practical commitment."
+          },
+          {
+            "id": 3,
+            "text": "Systematic, Organized Effort",
+            "expansion": "The wall's reconstruction follows a methodical, section-by-section approach."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal restoration reflect larger communal healing?"
+      },
+      "moral_slider": {
+        "question": "What matters more: Individual effort or collective progress?",
+        "left_label": "Individual Contribution",
+        "right_label": "Community Synergy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of collaborative work shifted?",
+        "options": [
+          "I see complexity in coordinated efforts",
+          "Leadership requires more than commanding",
+          "Small contributions create massive change",
+          "Unity transcends individual differences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Collaborative Kingdom Work",
+          "summary": "Nehemiah 3 reveals the power of unified community effort in rebuilding Jerusalem's walls. Each family, clan, and group worked collaboratively, demonstrating that God's purposes are accomplished through collective commitment and shared vision.",
+          "cross_references": [
+            "1 Corinthians 12:12-27",
+            "Ephesians 4:11-16",
+            "Nehemiah 4:6",
+            "Psalm 133:1"
+          ]
+        },
+        {
+          "title": "Spiritual Leadership and Restoration",
+          "summary": "The chapter highlights how spiritual leaders like Eliashib initiated and motivated communal restoration efforts. Their proactive engagement demonstrates that godly leadership involves practical, hands-on participation in kingdom building.",
+          "cross_references": [
+            "1 Peter 5:2-3",
+            "Ezra 10:4",
+            "Acts 6:1-7",
+            "2 Timothy 2:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage challenge contemporary perspectives on community engagement and spiritual responsibility?",
+        "options": [
+          "Individual contributions matter significantly in collective mission",
+          "Spiritual leadership requires practical, tangible involvement",
+          "Unity transcends social, economic, and professional boundaries",
+          "Restoration is a communal, not just individual, spiritual process"
+        ]
+      }
+    }
+  }
+}

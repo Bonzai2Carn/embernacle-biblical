@@ -1,0 +1,117 @@
+{
+  "book": "Esther",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine standing firm in your convictions, even when everyone around you is pressuring you to compromise",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you faced pressure to compromise your beliefs?",
+        "options": [
+          {
+            "id": "a",
+            "text": "At work with ethical challenges",
+            "response": "Document your stance professionally and seek guidance"
+          },
+          {
+            "id": "b",
+            "text": "In social situations where values differ",
+            "response": "Respectfully communicate your perspective without judgment"
+          },
+          {
+            "id": "c",
+            "text": "With family traditions that conflict with personal beliefs",
+            "response": "Have an honest, compassionate conversation about your convictions"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of someone standing alone but strong, representing courage in the face of opposition",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of standing up for your beliefs?",
+        "options": [
+          "I understand the personal cost of integrity",
+          "Courage isn't about being loud, but consistent",
+          "Sometimes standing alone is necessary",
+          "Faith requires resilience in difficult situations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of courage resonates most in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Moral Integrity",
+            "expansion": "Mordecai's refusal to bow represents principled resistance against cultural pressure."
+          },
+          {
+            "id": 2,
+            "text": "Systemic Injustice",
+            "expansion": "Haman's genocidal response reveals how personal slights can escalate to collective persecution."
+          },
+          {
+            "id": 3,
+            "text": "Power Dynamics",
+            "expansion": "The narrative explores how individual actions can trigger massive institutional responses."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "At what point does personal conviction become a threat to collective harmony?"
+      },
+      "moral_slider": {
+        "question": "How do individual principles interact with societal expectations?",
+        "left_label": "Personal Conviction",
+        "right_label": "Social Conformity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of resistance shifted?",
+        "options": [
+          "Recognized complexity of moral choices",
+          "Understood systemic power structures better",
+          "Appreciated individual courage more deeply",
+          "Seen how personal actions can have collective consequences"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Faithful Resistance",
+          "summary": "Mordecai demonstrates unwavering commitment to his faith by refusing to bow to Haman, choosing spiritual integrity over political conformity. His stance reveals the tension between earthly authority and divine principles.",
+          "cross_references": [
+            "Daniel 3:16-18",
+            "Acts 5:29",
+            "Romans 13:1-2",
+            "1 Peter 2:13-17"
+          ]
+        },
+        {
+          "title": "Divine Providence in Conflict",
+          "summary": "Haman's plot against the Jews reveals the underlying spiritual battle between divine protection and human hatred. God's sovereignty is demonstrated through seemingly coincidental circumstances that ultimately protect His people.",
+          "cross_references": [
+            "Genesis 12:3",
+            "Psalm 83:4-5",
+            "Romans 8:31",
+            "Proverbs 21:30"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers navigate tensions between cultural/political expectations and spiritual convictions?",
+        "options": [
+          "Unconditional submission to governmental authority",
+          "Respectful non-compliance when commands conflict with divine principles",
+          "Strategic compromise to maintain social standing",
+          "Passive resistance through prayer and faith"
+        ]
+      }
+    }
+  }
+}

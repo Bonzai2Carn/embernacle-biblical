@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 137,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine being far from home, remembering a place of deep personal significance. Feel the emotions of displacement and longing.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when your faith is challenged in difficult circumstances?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become angry and defensive",
+            "response": "Practice processing emotions through prayer and healthy communication"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw and become silent",
+            "response": "Seek community support and maintain spiritual disciplines"
+          },
+          {
+            "id": 3,
+            "text": "Remain hopeful despite suffering",
+            "response": "Develop resilience through biblical meditation and trust in God's sovereignty"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a place that feels like 'home' to you, and include symbols of hope or remembrance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm changed your understanding of suffering and faith?",
+        "options": [
+          "I better understand the emotional depth of displacement",
+          "I recognize the importance of remembering one's spiritual heritage",
+          "I see how pain can be transformed through honest expression",
+          "I learned that faith can coexist with difficult emotions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional experience resonates most deeply from this psalm of exile?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Deep Grief",
+            "expansion": "The profound sense of loss and displacement when separated from one's homeland and sacred traditions."
+          },
+          {
+            "id": 2,
+            "text": "Righteous Anger",
+            "expansion": "The raw, unfiltered human response to oppression and collective suffering."
+          },
+          {
+            "id": 3,
+            "text": "Cultural Memory",
+            "expansion": "The importance of remembering identity even when forcibly removed from one's original context."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do painful memories serve both as wounds and as preservers of cultural identity?"
+      },
+      "moral_slider": {
+        "question": "What is the ethical boundary between justified remembrance and destructive vengeance?",
+        "left_label": "Lament",
+        "right_label": "Retribution"
+      },
+      "reevaluation": {
+        "question": "How might your understanding of suffering and resilience have shifted?",
+        "options": [
+          "Recognized the complexity of collective trauma",
+          "Understood the power of cultural memory",
+          "Appreciated the raw emotional honesty of biblical texts",
+          "Seen how oppression transforms human experience"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Lament of Exile",
+          "summary": "This psalm represents the profound spiritual and emotional trauma experienced by the Jewish people during Babylonian captivity. It captures the deep grief and displacement of a conquered people who have lost their homeland and sacred spaces.",
+          "cross_references": [
+            "Jeremiah 29:4-7",
+            "2 Kings 24:14-16",
+            "Ezekiel 1:1-3",
+            "Isaiah 43:14-21"
+          ]
+        },
+        {
+          "title": "Divine Justice and Human Anger",
+          "summary": "The psalm explores the complex theological tension between human suffering, righteous anger, and divine judgment. It reveals the raw emotional response of a people experiencing profound collective trauma and their desperate cry for justice.",
+          "cross_references": [
+            "Revelation 6:9-11",
+            "Romans 12:19-21",
+            "Lamentations 3:64-66",
+            "Deuteronomy 32:35"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret the psalm's imprecatory language against Edomites and Babylonians?",
+        "options": [
+          "As a legitimate expression of human suffering seeking divine vindication",
+          "As a problematic demonstration of unrestrained human vengeance",
+          "As prophetic poetry symbolizing spiritual warfare",
+          "As a contextual historical response reflecting ancient cultural norms of conflict"
+        ]
+      }
+    }
+  }
+}

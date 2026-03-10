@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently repeat: 'Not by human wisdom, but by God's power'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I relying more on personal persuasion versus genuine spiritual power?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Evaluate my communication style in ministry/work",
+            "response": "Journal about moments where you've prioritized eloquence over authentic spiritual message"
+          },
+          {
+            "id": 2,
+            "text": "Assess my spiritual dependence",
+            "response": "Spend 15 minutes in prayer, asking God to reveal areas of self-reliance"
+          },
+          {
+            "id": 3,
+            "text": "Examine my faith foundations",
+            "response": "Review personal beliefs, ensuring they're rooted in Scripture, not cultural wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing the difference between human wisdom (a brain) and God's wisdom (a glowing light)",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual communication?",
+        "options": [
+          "I realize eloquence isn't everything",
+          "God's power matters more than human persuasion",
+          "Spiritual messages require genuine spiritual empowerment",
+          "I need to be more dependent on the Holy Spirit"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's missionary approach most intrigues you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Avoiding Rhetorical Persuasion",
+            "expansion": "Paul deliberately rejected sophisticated argumentation to prevent human wisdom from overshadowing divine revelation."
+          },
+          {
+            "id": 2,
+            "text": "Embracing Personal Vulnerability",
+            "expansion": "Paul's admission of weakness demonstrates spiritual power emerging through human fragility."
+          },
+          {
+            "id": 3,
+            "text": "Focusing Solely on Christ's Crucifixion",
+            "expansion": "The cross becomes the singular theological and transformative message, transcending intellectual complexity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might human wisdom actually obscure genuine spiritual understanding?"
+      },
+      "moral_slider": {
+        "question": "Where do you position intellectual sophistication relative to spiritual revelation?",
+        "left_label": "Human Wisdom",
+        "right_label": "Divine Revelation"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual communication shifted?",
+        "options": [
+          "More skeptical of eloquent rhetoric",
+          "Valuing simplicity in spiritual messaging",
+          "Recognizing power beyond intellectual arguments",
+          "Appreciating vulnerability in spiritual leadership"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Wisdom vs Human Wisdom",
+          "summary": "Paul emphasizes that spiritual truth cannot be understood through intellectual prowess or rhetorical skill, but only through divine revelation. The wisdom of God transcends human understanding and is spiritually discerned.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "Isaiah 55:8-9",
+            "1 Corinthians 1:25",
+            "James 1:5"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment",
+          "summary": "True spiritual understanding comes not from human intellect but from the Holy Spirit's illumination. Believers are empowered to comprehend spiritual truths through the Spirit's revelation and guidance.",
+          "cross_references": [
+            "John 14:26",
+            "Ephesians 1:17-18",
+            "Romans 8:16",
+            "2 Corinthians 2:10-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual wisdom differ from human intellectual achievement?",
+        "options": [
+          "Spiritual wisdom is revealed, not constructed",
+          "Human wisdom is limited and temporal",
+          "Divine understanding requires spiritual transformation",
+          "True comprehension comes through humble dependence on God"
+        ]
+      }
+    }
+  }
+}

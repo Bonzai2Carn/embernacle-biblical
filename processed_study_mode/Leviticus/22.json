@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on your personal holiness. Take a deep breath and silently affirm: 'I honor God's sacred space'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I treat sacred spaces and spiritual commitments in my daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I often blur boundaries between sacred and casual",
+            "response": "Establish clear spiritual disciplines and respect sacred moments"
+          },
+          {
+            "id": 2,
+            "text": "I'm inconsistent in my spiritual reverence",
+            "response": "Create intentional practices that demonstrate respect for holy things"
+          },
+          {
+            "id": 3,
+            "text": "I struggle to understand spiritual boundaries",
+            "response": "Study scripture to understand God's perspective on holiness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a protective boundary around a special treasure, representing how God wants us to guard what is holy",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted my understanding of holiness?",
+        "options": [
+          "I see holiness as more serious and intentional",
+          "I understand God values purity more deeply",
+          "I recognize spiritual boundaries are important",
+          "I'm more aware of my own spiritual preparedness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which sacred principle of holiness most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Ritual Purity",
+            "expansion": "The profound importance of maintaining spiritual integrity before approaching divine spaces."
+          },
+          {
+            "id": 2,
+            "text": "Reverence for Divine Boundaries",
+            "expansion": "Understanding that holiness requires deliberate separation and respect for sacred parameters."
+          },
+          {
+            "id": 3,
+            "text": "Accountability in Spiritual Leadership",
+            "expansion": "Recognizing that religious leaders bear heightened responsibility for maintaining communal spiritual standards."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If holiness is not merely about external compliance, but internal transformation, what genuine changes might ritual instructions actually be pointing towards?"
+      },
+      "moral_slider": {
+        "question": "How do you balance divine standards with human imperfection?",
+        "left_label": "Strict Adherence",
+        "right_label": "Compassionate Grace"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of spiritual integrity?",
+        "options": [
+          "I see ritual as more meaningful now",
+          "I recognize deeper layers of spiritual accountability",
+          "I understand divine standards differently",
+          "I'm more aware of personal spiritual boundaries"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Priestly Holiness",
+          "summary": "God demands absolute consecration and purity from His spiritual leaders. The priests must maintain ritual and moral cleanliness to represent divine standards and mediate worship effectively.",
+          "cross_references": [
+            "1 Peter 2:9",
+            "Hebrews 7:26",
+            "1 Timothy 3:2",
+            "Ezekiel 44:23"
+          ]
+        },
+        {
+          "title": "Sacred Offerings and Sanctity",
+          "summary": "Divine offerings require meticulous care and represent sacred covenant relationships between God and His people. Uncleanness disqualifies participation and demonstrates the profound respect required in worship.",
+          "cross_references": [
+            "Malachi 1:6-8",
+            "Romans 12:1",
+            "1 Corinthians 11:27-29",
+            "Hebrews 9:13-14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do divine standards of holiness translate into contemporary spiritual leadership?",
+        "options": [
+          "Moral integrity is more important than ritualistic compliance",
+          "External purity reflects internal spiritual condition",
+          "Grace supersedes strict regulatory requirements",
+          "Spiritual leaders are held to distinctly higher accountability"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, acknowledging God's supreme power and your human limitations",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when feeling overwhelmed by God's sovereignty?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Surrender and seek humility",
+            "response": "Spend time in silent prayer, releasing control"
+          },
+          {
+            "id": 2,
+            "text": "Wrestle with theological questions",
+            "response": "Journal your thoughts and honest struggles with faith"
+          },
+          {
+            "id": 3,
+            "text": "Seek community understanding",
+            "response": "Discuss your spiritual questions with a trusted mentor"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape with mountains that represent God's immovable power, with yourself as a tiny figure",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of God's relationship with humans?",
+        "options": [
+          "God is more mysterious than I previously thought",
+          "I feel smaller but more in awe of divine power",
+          "I'm more comfortable with not understanding everything",
+          "I see the importance of humility before God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of divine power resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's overwhelming strength",
+            "expansion": "Divine power transcends human comprehension and cannot be challenged"
+          },
+          {
+            "id": "2",
+            "text": "Human vulnerability before God",
+            "expansion": "Humanity's limitations are starkly revealed in confrontation with ultimate cosmic power"
+          },
+          {
+            "id": "3",
+            "text": "The mystery of divine justice",
+            "expansion": "Human righteousness seems insignificant when measured against divine wisdom"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If righteousness cannot be self-established before God, how do we understand personal moral accountability?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine power with human suffering?",
+        "left_label": "Divine Arbitrariness",
+        "right_label": "Cosmic Justice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine-human relationships evolved?",
+        "options": [
+          "More aware of human limitations",
+          "Recognize deeper complexity of spiritual experience",
+          "Appreciate the mystery of divine interaction",
+          "Feel more humbled by cosmic perspectives"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Limitations",
+          "summary": "Job recognizes the absolute power and incomprehensible nature of God. He acknowledges that human beings are fundamentally unable to challenge or fully understand divine wisdom and judgment.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "Romans 9:20-21",
+            "Psalm 145:3",
+            "Proverbs 3:5-6"
+          ]
+        },
+        {
+          "title": "Righteousness and Divine Judgment",
+          "summary": "Job wrestles with the profound question of human righteousness before an omnipotent God. He understands that no human can stand perfectly justified before divine scrutiny.",
+          "cross_references": [
+            "Romans 3:23",
+            "Psalm 143:2",
+            "Galatians 2:16",
+            "James 2:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should one understand divine justice in light of human limitations?",
+        "options": [
+          "God's justice is absolute and beyond human comprehension",
+          "Human moral standards are insufficient to judge divine actions",
+          "Suffering does not necessarily indicate divine punishment",
+          "Humble submission is the appropriate human response to divine mystery"
+        ]
+      }
+    }
+  }
+}

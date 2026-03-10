@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 11,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize prayer as an open conversation with God, just as Jesus taught His disciples to pray simply and directly",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I improve my approach to prayer based on Jesus' model in the Lord's Prayer?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Simplify my prayer language",
+            "response": "Practice using clear, direct communication with God without unnecessary complexity"
+          },
+          {
+            "id": 2,
+            "text": "Focus on God's kingdom first",
+            "response": "Reorder daily priorities to align with spiritual goals before personal wants"
+          },
+          {
+            "id": 3,
+            "text": "Practice persistent prayer",
+            "response": "Develop a consistent prayer routine that demonstrates faith and dependence on God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a door representing persistent prayer, with someone knocking repeatedly",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of prayer and spiritual warfare?",
+        "options": [
+          "Prayer is more about relationship than performance",
+          "God wants us to be bold and persistent in our requests",
+          "Spiritual growth requires active engagement",
+          "True spiritual power comes from dependence on God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which teaching about prayer resonates most deeply?",
+        "choices": [
+          {
+            "id": "persistence",
+            "text": "The importance of persistent prayer",
+            "expansion": "Continuous prayer demonstrates faith and trust beyond immediate results."
+          },
+          {
+            "id": "ask_seek_knock",
+            "text": "God's willingness to give good gifts",
+            "expansion": "Divine generosity is greater than human limitations or expectations."
+          },
+          {
+            "id": "inner_light",
+            "text": "The metaphor of inner spiritual illumination",
+            "expansion": "Spiritual authenticity requires transparency and genuine internal transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If prayer changes you more than it changes circumstances, what internal transformations are you resisting?"
+      },
+      "moral_slider": {
+        "question": "How do you balance spiritual discipline with genuine relationship with God?",
+        "left_label": "Ritualistic Compliance",
+        "right_label": "Authentic Connection"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer evolved?",
+        "options": [
+          "More relational, less transactional",
+          "Recognize God's sovereignty beyond my requests",
+          "Understand prayer as dialogue, not monologue",
+          "See prayer as personal transformation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Prayer and Persistence",
+          "summary": "Jesus teaches disciples about effective prayer through the parable of the friend at midnight, emphasizing persistent and bold communication with God. The passage reveals that God desires genuine relationship and responsive interaction with His children.",
+          "cross_references": [
+            "Matthew 7:7-11",
+            "James 5:16",
+            "1 Thessalonians 5:17",
+            "Romans 8:26"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare and Inner Transformation",
+          "summary": "Jesus addresses spiritual dynamics of deliverance, teaching about casting out demons and the importance of complete inner transformation. The chapter reveals that merely removing spiritual darkness is insufficient without filling one's life with divine presence.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "Matthew 12:43-45",
+            "James 4:7",
+            "1 John 4:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' teaching on prayer and spiritual power challenge traditional religious practices?",
+        "options": [
+          "Prayer is relational, not transactional",
+          "Spiritual transformation requires active participation",
+          "Divine power operates beyond ritualistic frameworks",
+          "Internal spiritual condition determines external manifestation"
+        ]
+      }
+    }
+  }
+}

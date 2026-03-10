@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine bearing another person's burden with gentle compassion, just as Christ bears yours.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you demonstrate strength through understanding and supporting someone's spiritual weakness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen without judgment",
+            "response": "Schedule time to have a compassionate conversation with someone struggling in their faith"
+          },
+          {
+            "id": 2,
+            "text": "Offer practical support",
+            "response": "Identify a specific way to help someone who is spiritually vulnerable this week"
+          },
+          {
+            "id": 3,
+            "text": "Pray for understanding",
+            "response": "Develop an intercessory prayer practice focused on empathy and spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two different types of people, representing how Christ brings unity and understanding",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual strength changed after reading Romans 15?",
+        "options": [
+          "Strength is about patience, not power",
+          "Unity matters more than being right",
+          "Compassion is a form of spiritual maturity",
+          "Supporting others is central to Christian growth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about Christian community most challenges you?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Bearing with the weak's scruples",
+            "expansion": "True strength is demonstrated through patient understanding, not asserting personal freedom."
+          },
+          {
+            "id": "2",
+            "text": "Pleasing others for their edification",
+            "expansion": "Spiritual growth requires selfless consideration of others' spiritual journeys."
+          },
+          {
+            "id": "3",
+            "text": "Following Christ's self-sacrificial model",
+            "expansion": "Personal comfort is secondary to embodying Christ's radical love and empathy."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If bearing with others' weaknesses requires personal limitation, at what point does accommodation become enabling rather than loving?"
+      },
+      "moral_slider": {
+        "question": "How do personal spiritual liberty and communal spiritual sensitivity balance?",
+        "left_label": "Individual Freedom",
+        "right_label": "Communal Harmony"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on Christian community shifted?",
+        "options": [
+          "I now see diversity as strength, not division",
+          "Personal sacrifice for others feels more meaningful",
+          "Scripture's transformative power seems more tangible",
+          "Unity requires more intentional empathy"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Unity and Mutual Edification",
+          "summary": "Believers are called to prioritize community over personal preferences, bearing with one another's weaknesses. The chapter emphasizes spiritual maturity as demonstrated through patience, understanding, and selfless love within the Christian community.",
+          "cross_references": [
+            "1 Corinthians 9:19-23",
+            "Galatians 6:2",
+            "Philippians 2:3-4",
+            "Ephesians 4:2-3"
+          ]
+        },
+        {
+          "title": "Christ as the Ultimate Example of Selflessness",
+          "summary": "Jesus Christ's sacrificial nature serves as the supreme model for Christian behavior, demonstrating radical empathy and self-denial. His willingness to absorb reproach and serve others becomes the theological foundation for believers' relational interactions.",
+          "cross_references": [
+            "Philippians 2:5-8",
+            "John 15:13",
+            "1 Peter 2:21-23",
+            "2 Corinthians 8:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should theological understanding of Christian unity transform interpersonal relationships?",
+        "options": [
+          "Prioritize personal comfort and doctrinal preferences",
+          "Develop radical empathy and willingness to understand diverse perspectives",
+          "Maintain strict boundaries to preserve theological purity",
+          "Practice sacrificial love that mirrors Christ's example of reconciliation"
+        ]
+      }
+    }
+  }
+}

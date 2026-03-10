@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize placing God first in every area of your life, removing any 'idols' that compete for your devotion",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Which 'gods' or distractions might be preventing me from fully honoring God's commandments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Technology/Screen Time",
+            "response": "Set daily limits and create intentional 'unplugged' worship time"
+          },
+          {
+            "id": 2,
+            "text": "Work/Career Obsession",
+            "response": "Dedicate first fruits of labor to God, practice Sabbath rest"
+          },
+          {
+            "id": 3,
+            "text": "Personal Achievements",
+            "response": "Reframe success through lens of God's purpose, not personal glory"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of your heart with God at the center, and anything competing for that center space gets drawn outside",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has understanding the Ten Commandments shifted your view of God's relationship with humanity?",
+        "options": [
+          "God desires relationship, not just rule-following",
+          "Divine boundaries protect human freedom",
+          "God's commands reflect His character of love",
+          "Obedience is an act of worship, not obligation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine principle most resonates with personal transformation?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Authority",
+            "expansion": "Understanding God's sovereignty as a foundational framework for ethical living."
+          },
+          {
+            "id": 2,
+            "text": "Intergenerational Accountability",
+            "expansion": "Recognizing how personal choices impact familial and communal legacy."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Exclusivity",
+            "expansion": "Embracing the radical commitment of monotheism in a polytheistic world."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine commandments are universal, how do individual cultural contexts negotiate their interpretation and implementation?"
+      },
+      "moral_slider": {
+        "question": "How do personal freedom and divine prescription coexist?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Spiritual Submission"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine relationship evolved?",
+        "options": [
+          "More aware of personal responsibility",
+          "Deeper appreciation for spiritual boundaries",
+          "Reconsidering transactional versus transformational faith",
+          "Recognizing complexity of moral frameworks"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Covenant",
+          "summary": "God establishes His absolute authority through the Ten Commandments, demonstrating His unique relationship with Israel. These commandments represent a comprehensive moral and spiritual framework for understanding divine expectations and human responsibility.",
+          "cross_references": [
+            "Deuteronomy 5:6-21",
+            "Matthew 22:37-40",
+            "Romans 13:8-10",
+            "James 2:10-11"
+          ]
+        },
+        {
+          "title": "Idolatry and Spiritual Exclusivity",
+          "summary": "The first commandments emphasize God's jealous nature and rejection of competing spiritual allegiances. These instructions highlight the exclusive covenant relationship between God and His chosen people.",
+          "cross_references": [
+            "1 Corinthians 10:14",
+            "1 John 5:21",
+            "Psalm 81:9-10",
+            "Jeremiah 25:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the Ten Commandments reflect God's character and human moral responsibility?",
+        "options": [
+          "The commandments reveal God's holiness and perfect moral standard",
+          "They demonstrate divine expectations beyond mere behavioral compliance",
+          "The commandments establish foundational principles for human relationships",
+          "They illustrate God's redemptive purpose in establishing covenant guidelines"
+        ]
+      }
+    }
+  }
+}

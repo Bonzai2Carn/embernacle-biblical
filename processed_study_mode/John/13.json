@@ -1,0 +1,115 @@
+{
+  "book": "John",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and imagine Jesus humbly washing His disciples' feet, reflecting on servant leadership and unconditional love",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate radical humility in my relationships this week?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Offer help without expecting recognition",
+            "response": "Volunteer for a task no one else wants to do"
+          },
+          {
+            "id": 2,
+            "text": "Practice listening more than speaking",
+            "response": "Ask three people about their struggles and truly listen"
+          },
+          {
+            "id": 3,
+            "text": "Serve someone who cannot repay you",
+            "response": "Do an unexpected kindness for someone who cannot return the favor"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself washing someone else's feet, symbolizing unexpected service",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of leadership and love?",
+        "options": [
+          "Leadership is about serving, not being served",
+          "Love requires vulnerability and humility",
+          "True disciples follow Jesus by putting others first",
+          "Betrayal can exist even among close relationships"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of Jesus' love most challenges you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Serving despite knowing betrayal",
+            "expansion": "Jesus washes Judas' feet, fully aware of his impending betrayal, revealing radical unconditional love."
+          },
+          {
+            "id": 2,
+            "text": "Loving to the absolute end",
+            "expansion": "Christ's love transcends human limitation, extending completely without reservation or self-protection."
+          },
+          {
+            "id": 3,
+            "text": "Vulnerability before departure",
+            "expansion": "Jesus transforms His imminent suffering into an opportunity for profound intimacy and teaching."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If you knew someone would deeply wound you, how might embracing them transform both your understanding of love and their potential?"
+      },
+      "moral_slider": {
+        "question": "How does vulnerability relate to authentic leadership?",
+        "left_label": "Control",
+        "right_label": "Surrender"
+      },
+      "reevaluation": {
+        "question": "How has your perception of leadership changed after reflecting on Jesus' example?",
+        "options": [
+          "Leadership is about power",
+          "Leadership is about service",
+          "Leadership requires emotional intelligence",
+          "Leadership means bearing others' burdens"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Servant Leadership",
+          "summary": "Jesus demonstrates radical humility by washing the disciples' feet, subverting traditional power dynamics. This act symbolizes transformative leadership through sacrificial service and unconditional love.",
+          "cross_references": [
+            "Philippians 2:7-8",
+            "Mark 10:45",
+            "1 Peter 5:3"
+          ]
+        },
+        {
+          "title": "Divine Foreknowledge and Redemptive Plan",
+          "summary": "Christ understands His impending crucifixion and the betrayal by Judas, yet continues to demonstrate divine love and purposeful ministry. His actions reveal sovereign control despite human weakness.",
+          "cross_references": [
+            "Isaiah 53:7-8",
+            "Acts 2:23",
+            "Romans 8:28"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' foot-washing demonstrate theological understanding of spiritual transformation?",
+        "options": [
+          "Illustrates complete spiritual cleansing through Christ's redemptive work",
+          "Reveals hierarchical dismantling in Kingdom of God",
+          "Demonstrates sacrificial love as core Christian ethic",
+          "Symbolizes ongoing sanctification process for believers"
+        ]
+      }
+    }
+  }
+}

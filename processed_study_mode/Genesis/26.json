@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 26,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God's promise of guidance, visualizing His hand leading you through uncertain terrains, just as He guided Isaac during the famine",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when faced with challenging circumstances that test your faith?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek God's guidance directly",
+            "response": "Pause and pray, asking for specific direction before making decisions"
+          },
+          {
+            "id": 2,
+            "text": "Rely on past experiences",
+            "response": "Review previous times God has been faithful and draw strength from those memories"
+          },
+          {
+            "id": 3,
+            "text": "Consult wise counsel",
+            "response": "Reach out to spiritual mentors who can provide biblical perspective"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing Isaac's journey, with landmarks representing moments of God's protection and promise",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Genesis 26 changed your understanding of God's promises?",
+        "options": [
+          "God's promises transcend immediate circumstances",
+          "Faithfulness is generational",
+          "Divine guidance is specific and personal",
+          "Obedience leads to unexpected blessings"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine promise resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's geographic promise of land",
+            "expansion": "The promise of territorial inheritance represents not just physical space, but spiritual destiny."
+          },
+          {
+            "id": 2,
+            "text": "Divine commitment to generational blessing",
+            "expansion": "God's covenant transcends individual lifetimes, showing persistent faithfulness across generations."
+          },
+          {
+            "id": 3,
+            "text": "Protection during uncertain times",
+            "expansion": "Divine guidance appears most powerfully during seasons of scarcity and potential danger."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine promises are certain, why do faithful people still experience challenges and uncertainties?"
+      },
+      "moral_slider": {
+        "question": "How do personal choices interact with divine providence?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine guidance evolved?",
+        "options": [
+          "More aware of subtle providential patterns",
+          "Recognize complexity of faith journey",
+          "Appreciate multigenerational spiritual narratives",
+          "Understand divine promises require human cooperation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Covenant Continuation",
+          "summary": "God reaffirms His covenant with Isaac, demonstrating generational faithfulness and sovereign promise. The covenant originally made with Abraham is now transferred and confirmed through his son Isaac.",
+          "cross_references": [
+            "Hebrews 11:9",
+            "Romans 9:7",
+            "Galatians 3:29",
+            "Psalm 105:9-11"
+          ]
+        },
+        {
+          "title": "Generational Spiritual Inheritance",
+          "summary": "Isaac follows similar patterns of his father Abraham, experiencing divine guidance and encountering similar challenges in foreign lands. This highlights the hereditary nature of faith and God's consistent protection.",
+          "cross_references": [
+            "Exodus 3:6",
+            "Matthew 22:32",
+            "Acts 7:32",
+            "Hebrews 6:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's covenant promise transcend individual human limitations?",
+        "options": [
+          "Divine promises are independent of human performance",
+          "Generational faithfulness matters more than individual actions",
+          "God's sovereignty overrides human weaknesses",
+          "Covenant blessings are conditional upon perfect obedience"
+        ]
+      }
+    }
+  }
+}

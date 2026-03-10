@@ -1,0 +1,117 @@
+{
+  "book": "Esther",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Sit quietly and imagine the weight of despair Mordecai feels, then breathe deeply and remember God's unseen presence in difficult moments",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When facing overwhelming challenges, how do you typically respond?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Retreat and hide",
+            "response": "Practice vulnerability with trusted friends or mentors"
+          },
+          {
+            "id": 2,
+            "text": "Become paralyzed with fear",
+            "response": "Develop a prayer strategy and seek spiritual counsel"
+          },
+          {
+            "id": 3,
+            "text": "Take courageous action",
+            "response": "Identify one small step toward addressing the challenge"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of someone standing brave and confident despite feeling afraid, representing Esther's courage",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of courage?",
+        "options": [
+          "Courage isn't the absence of fear, but action despite fear",
+          "Personal risk can be necessary for community protection",
+          "Faith provides strength in seemingly hopeless situations",
+          "Small acts of bravery can have massive consequences"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional response in this chapter resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Mordecai's public lament",
+            "expansion": "Grief can be a prophetic act of resistance against systemic oppression"
+          },
+          {
+            "id": 2,
+            "text": "The communal Jewish mourning",
+            "expansion": "Collective suffering creates profound solidarity and shared spiritual consciousness"
+          },
+          {
+            "id": 3,
+            "text": "Esther's initial hesitation",
+            "expansion": "Personal safety often conflicts with larger moral responsibilities"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does personal risk become a moral imperative for collective salvation?"
+      },
+      "moral_slider": {
+        "question": "How do individual actions intersect with communal destiny?",
+        "left_label": "Self-Preservation",
+        "right_label": "Sacrificial Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of courage shifted?",
+        "options": [
+          "Courage is not absence of fear",
+          "Leadership requires vulnerability",
+          "Systemic change demands personal risk",
+          "Faith manifests through action"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Providential Suffering",
+          "summary": "God's people experience collective suffering as a result of systemic oppression. The mourning and lamentation of the Jews represents a profound spiritual response to imminent destruction.",
+          "cross_references": [
+            "Lamentations 3:1-33",
+            "Job 1:21",
+            "Psalm 34:18",
+            "1 Peter 5:10"
+          ]
+        },
+        {
+          "title": "Divine Positioning",
+          "summary": "Mordecai recognizes that Esther's royal position might be a strategic divine placement for potential deliverance. Her placement in the royal court suggests God's sovereign intervention in human affairs.",
+          "cross_references": [
+            "Ephesians 2:10",
+            "Romans 8:28",
+            "Esther 4:14",
+            "Genesis 50:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal spiritual responsibility intersect with collective redemption in this narrative?",
+        "options": [
+          "Individual courage can be instrumental in communal salvation",
+          "Divine providence operates through human agency",
+          "Spiritual leadership requires personal risk and sacrifice",
+          "Suffering can be a catalyst for transformative action"
+        ]
+      }
+    }
+  }
+}

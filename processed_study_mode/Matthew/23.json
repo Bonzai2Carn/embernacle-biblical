@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect: Am I seeking genuine righteousness or just appearing righteous to others?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might I be creating unnecessary spiritual burdens for myself or others?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Religious performance over authentic relationship",
+            "response": "Simplify your faith practice, focus on heart connection with God"
+          },
+          {
+            "id": 2,
+            "text": "External appearances versus internal transformation",
+            "response": "Spend time in genuine self-reflection and prayer"
+          },
+          {
+            "id": 3,
+            "text": "Judging others instead of examining myself",
+            "response": "Practice humility and self-awareness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a balance scale: On one side, place symbols of external religious acts, on the other, symbols of genuine heart transformation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of true spirituality?",
+        "options": [
+          "Religious performance is less important than heart transformation",
+          "Humility matters more than public recognition",
+          "Internal character matters more than external appearances",
+          "God sees beyond my public persona"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of religious hypocrisy most challenges your spiritual understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "External religious performance",
+            "expansion": "Religious displays often mask internal spiritual emptiness."
+          },
+          {
+            "id": 2,
+            "text": "Burdening others without personal commitment",
+            "expansion": "True spiritual leadership requires empathy and lived example."
+          },
+          {
+            "id": 3,
+            "text": "Seeking human praise over divine approval",
+            "expansion": "Authentic faith prioritizes genuine relationship with God over public perception."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your religious practices were stripped of all external validation, what genuine spiritual core would remain?"
+      },
+      "moral_slider": {
+        "question": "How do personal spiritual integrity and communal religious tradition balance?",
+        "left_label": "Individual Authenticity",
+        "right_label": "Institutional Conformity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of religious leadership transformed?",
+        "options": [
+          "From performance to genuine service",
+          "From external compliance to internal transformation",
+          "From seeking human recognition to divine alignment",
+          "From rigid rules to compassionate guidance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Religious Hypocrisy",
+          "summary": "Jesus exposes the performative religiosity of the Pharisees, who prioritize external appearances over genuine spiritual transformation. Their religious practices are motivated by pride and self-glorification rather than authentic devotion to God.",
+          "cross_references": [
+            "Isaiah 29:13",
+            "Mark 7:6-7",
+            "Romans 2:17-24",
+            "1 Samuel 16:7"
+          ]
+        },
+        {
+          "title": "Spiritual Leadership Accountability",
+          "summary": "Religious leaders bear significant responsibility for guiding people's spiritual understanding and are held to a higher standard of moral and ethical conduct. Their actions and teachings directly impact the spiritual journey of their followers.",
+          "cross_references": [
+            "James 3:1",
+            "Ezekiel 34:1-10",
+            "1 Peter 5:2-3",
+            "Luke 12:47-48"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should genuine spiritual leadership be characterized?",
+        "options": [
+          "Servant-oriented approach prioritizing others' spiritual growth",
+          "Emphasis on internal transformation over external performance",
+          "Transparent accountability and humility",
+          "Consistent alignment between teachings and personal conduct"
+        ]
+      }
+    }
+  }
+}

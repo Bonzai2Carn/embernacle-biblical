@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 136,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 10 seconds to breathe deeply and recall God's enduring, repeating love, as demonstrated in the psalm's recurring phrase 'His love endures forever'",
+        "timer": 10
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's consistent love during challenging seasons of your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through unexpected support",
+            "response": "Journal about a specific moment of unexpected grace"
+          },
+          {
+            "id": 2,
+            "text": "During personal struggles",
+            "response": "Write a prayer of gratitude for God's faithfulness"
+          },
+          {
+            "id": 3,
+            "text": "In miraculous interventions",
+            "response": "Share your story of divine intervention with someone"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of your life showing moments where God's love was evident, using a different color for each season",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 136 shifted your understanding of God's love?",
+        "options": [
+          "Love is repetitive and intentional",
+          "God's love transcends human circumstances",
+          "Divine love is historical and ongoing",
+          "Love is God's fundamental nature"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which recurring theme most strikes you in this psalm of thanksgiving?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's Eternal Love",
+            "expansion": "The repeated refrain 'His love endures forever' suggests divine love as an unbreakable, constant reality."
+          },
+          {
+            "id": "2",
+            "text": "Divine Creation Power",
+            "expansion": "The psalm recounts God's creative and redemptive acts as evidence of His transformative sovereignty."
+          },
+          {
+            "id": "3",
+            "text": "Historical Remembrance",
+            "expansion": "Recounting Israel's historical journey demonstrates how divine intervention shapes collective identity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's love truly 'endures forever', how does this challenge our human tendency to perceive love as conditional or transactional?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile God's demonstrated power with apparent human suffering?",
+        "left_label": "Divine Sovereignty",
+        "right_label": "Human Freedom"
+      },
+      "reevaluation": {
+        "question": "How has this psalm potentially transformed your understanding of divine relationship?",
+        "options": [
+          "Seeing love as more unconditional",
+          "Recognizing patterns of divine intervention",
+          "Understanding gratitude as a spiritual practice",
+          "Viewing historical narratives as theological teachings"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Enduring Love",
+          "summary": "Psalm 136 is a profound hymn celebrating God's steadfast and eternal love (hesed). Each verse repeatedly emphasizes that God's mercy and loving-kindness are perpetual and unchanging throughout human history.",
+          "cross_references": [
+            "Exodus 15:13",
+            "Lamentations 3:22-23",
+            "Romans 8:38-39",
+            "1 John 4:8"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty in Creation and Redemption",
+          "summary": "The psalm systematically chronicles God's sovereign actions in creation, deliverance, and ongoing providential care. It demonstrates how divine love manifests through powerful interventions in natural and historical processes.",
+          "cross_references": [
+            "Genesis 1:1-31",
+            "Colossians 1:16-17",
+            "Revelation 4:11",
+            "Jeremiah 32:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the repetition of 'His love endures forever' transform our understanding of divine relationship?",
+        "options": [
+          "Emphasizes God's unconditional commitment regardless of human performance",
+          "Suggests love as fundamental to God's eternal nature",
+          "Indicates persistent grace even through human failings",
+          "Reveals love as a dynamic, active covenant relationship"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1 Peter",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, remembering you are chosen by God and have a living hope beyond current circumstances",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding your spiritual identity as 'elect' transform your daily perspective?",
+        "options": [
+          {
+            "id": 1,
+            "text": "See challenges as opportunities for spiritual growth",
+            "response": "Journal about current life challenges and potential spiritual lessons"
+          },
+          {
+            "id": 2,
+            "text": "Embrace your identity as God's chosen child",
+            "response": "Write a personal affirmation of your spiritual worth"
+          },
+          {
+            "id": 3,
+            "text": "Live with intentional hope despite difficulties",
+            "response": "Create a visual reminder of your living hope"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path representing your spiritual journey, with obstacles representing trials and bright points showing God's grace",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading 1 Peter 1 shifted your understanding of suffering and hope?",
+        "options": [
+          "Suffering can be a pathway to spiritual refinement",
+          "God's love transcends temporary challenges",
+          "My identity is secure in Christ, not circumstances",
+          "Hope is an active, living reality, not just a passive emotion"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which transformative aspect of spiritual rebirth resonates most deeply?",
+        "choices": [
+          {
+            "id": "hope",
+            "text": "Living Hope Through Christ's Resurrection",
+            "expansion": "Hope transcends current circumstances by anchoring in Christ's victory over death."
+          },
+          {
+            "id": "election",
+            "text": "Divine Foreknowledge and Election",
+            "expansion": "God's sovereign choice reveals His intentional and personal relationship with believers."
+          },
+          {
+            "id": "inheritance",
+            "text": "Imperishable Inheritance",
+            "expansion": "Believers possess an eternal, uncontaminated destiny beyond temporal earthly experiences."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your faith is genuinely refined like gold through trials, how might your perception of suffering fundamentally change?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal agency with divine sovereignty?",
+        "left_label": "Human Choice",
+        "right_label": "God's Predestination"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual transformation evolved?",
+        "options": [
+          "I now see trials as opportunities for growth",
+          "My view of God's grace has deepened",
+          "I recognize my spiritual journey as divinely orchestrated",
+          "I understand salvation as an active, dynamic process"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Election and Salvation",
+          "summary": "God's sovereign choice demonstrates His redemptive plan through foreknowledge, sanctification, and Christ's sacrificial blood. Believers are chosen not by human merit, but by divine grace and purpose.",
+          "cross_references": [
+            "Ephesians 1:4-5",
+            "Romans 8:29-30",
+            "2 Thessalonians 2:13",
+            "John 15:16"
+          ]
+        },
+        {
+          "title": "Living Hope Through Resurrection",
+          "summary": "The resurrection of Jesus Christ provides believers a transformative, dynamic hope that transcends earthly circumstances. This hope is grounded in God's mercy and promises of eternal inheritance.",
+          "cross_references": [
+            "Romans 6:4",
+            "Colossians 1:27",
+            "Acts 26:23",
+            "1 Corinthians 15:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine election relate to human free will in salvation?",
+        "options": [
+          "God's sovereignty completely determines salvation without human choice",
+          "Humans have complete autonomy in choosing salvation",
+          "Divine election and human response cooperate mysteriously",
+          "Salvation is a synergistic process between God's grace and human acceptance"
+        ]
+      }
+    }
+  }
+}

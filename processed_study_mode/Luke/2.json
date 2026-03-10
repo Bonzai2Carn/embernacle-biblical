@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine the long journey of Mary and Joseph, trusting God's plan despite uncertainty. Take deep breaths and feel their courage.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate trust in God's unexpected plans, like Mary and Joseph did?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Embrace unexpected changes in my life",
+            "response": "Practice flexibility and seek God's guidance when plans shift"
+          },
+          {
+            "id": 2,
+            "text": "Step out in faith despite feeling unprepared",
+            "response": "Take small risks trusting God's direction, even when uncomfortable"
+          },
+          {
+            "id": 3,
+            "text": "Listen more to divine guidance than personal anxiety",
+            "response": "Develop a daily prayer practice of surrendering personal fears"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or imagine the stable where Jesus was born. What details would show how humble and simple his first home was?",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 2 challenged your understanding of God's ways?",
+        "options": [
+          "God often works through ordinary people",
+          "Divine plans can look very different from human expectations",
+          "Humility is a pathway to greatness",
+          "Small beginnings can have enormous significance"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine orchestration intrigues you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Census Requirement",
+            "expansion": "How seemingly mundane political processes can fulfill prophetic purposes"
+          },
+          {
+            "id": 2,
+            "text": "Journey to Bethlehem",
+            "expansion": "Personal inconvenience as a pathway to God's larger narrative"
+          },
+          {
+            "id": 3,
+            "text": "Humble Birth Setting",
+            "expansion": "Divine significance emerging from the most unassuming circumstances"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If the divine plan requires human participation, how much agency do we truly possess?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and divine calling intersect?",
+        "left_label": "Personal Convenience",
+        "right_label": "Spiritual Obedience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine guidance evolved?",
+        "options": [
+          "Recognize subtle providential movements",
+          "Appreciate unexpected paths",
+          "Understand vulnerability as strength",
+          "See significance in seemingly insignificant moments"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Historical Context",
+          "summary": "God orchestrates global political events to fulfill prophetic promises. The Roman census, seemingly a political administrative act, becomes the mechanism that moves Joseph and Mary to Bethlehem, precisely matching Micah's prophecy about Messiah's birthplace.",
+          "cross_references": [
+            "Micah 5:2",
+            "Isaiah 9:6-7",
+            "Matthew 2:5-6",
+            "Galatians 4:4-5"
+          ]
+        },
+        {
+          "title": "Incarnational Humility",
+          "summary": "Christ's birth demonstrates divine vulnerability and solidarity with human experience. The King of Kings enters the world in profound simplicity - born in a humble setting, first welcomed by shepherds, embodying God's radical approach to redemption.",
+          "cross_references": [
+            "Philippians 2:7-8",
+            "2 Corinthians 8:9",
+            "John 1:14",
+            "Hebrews 2:14-17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the historical specificity of Jesus's birth inform our understanding of divine intervention in human history?",
+        "options": [
+          "God works through precise historical circumstances",
+          "Political events can be instruments of divine prophetic fulfillment",
+          "Christ's incarnation demonstrates God's intentional engagement with human context",
+          "Historical accuracy validates scriptural theological claims"
+        ]
+      }
+    }
+  }
+}

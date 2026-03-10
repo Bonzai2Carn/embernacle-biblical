@@ -1,0 +1,117 @@
+{
+  "book": "Ephesians",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Visualize yourself transformed from darkness to light, remembering God's radical grace that rescued you from spiritual death.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's redemptive power transforming your life from spiritual deadness to spiritual aliveness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize past patterns of sin",
+            "response": "Journal about specific areas where God has changed your heart"
+          },
+          {
+            "id": 2,
+            "text": "Identify current spiritual growth areas",
+            "response": "Create a prayer list focusing on continued transformation"
+          },
+          {
+            "id": 3,
+            "text": "Share redemption story with someone",
+            "response": "Prepare a testimony of God's grace in your life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a before-and-after picture showing your life without Christ and your life with Christ, using colors and symbols to represent spiritual transformation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "After reading Ephesians 2, how has your understanding of salvation changed?",
+        "options": [
+          "I see salvation more as a gift than an achievement",
+          "I understand God's love is deeper than I previously thought",
+          "I recognize my complete dependence on God's grace",
+          "I feel more humble about my spiritual journey"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual transformation most resonates with your journey?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "From Death to Life",
+            "expansion": "Recognizing how divine grace rescues us from spiritual deadness into vibrant, purposeful existence."
+          },
+          {
+            "id": 2,
+            "text": "Breaking Worldly Patterns",
+            "expansion": "Understanding how we can transcend cultural and personal conditioning through Christ's redemptive power."
+          },
+          {
+            "id": 3,
+            "text": "Becoming God's Masterpiece",
+            "expansion": "Embracing our identity as intentionally crafted beings designed for meaningful spiritual work."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If grace is a gift, what personal effort could possibly contribute to spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do human agency and divine sovereignty interact in personal redemption?",
+        "left_label": "Human Choice",
+        "right_label": "Divine Election"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal spiritual potential shifted?",
+        "options": [
+          "I see my past differently",
+          "I recognize divine potential within me",
+          "I understand grace more deeply",
+          "I feel more connected to a larger spiritual narrative"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Redemption",
+          "summary": "Humanity's natural state is spiritual deadness and separation from God due to sin. Through God's mercy and grace, believers are transformed from a state of spiritual death to spiritual life in Christ.",
+          "cross_references": [
+            "Romans 5:8",
+            "Titus 3:3-5",
+            "Colossians 2:13",
+            "John 3:16"
+          ]
+        },
+        {
+          "title": "Salvation by Grace",
+          "summary": "Salvation is entirely a gift from God, not earned by human works or merit. The believers' transformation is a result of God's initiative, demonstrating His extraordinary love and redemptive plan.",
+          "cross_references": [
+            "Ephesians 2:8-9",
+            "Romans 3:24",
+            "Galatians 2:16",
+            "2 Timothy 1:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does understanding divine grace challenge traditional human perspectives on salvation?",
+        "options": [
+          "Grace eliminates human responsibility for moral choices",
+          "Grace demonstrates God's unconditional love beyond human performance",
+          "Grace is a cooperative effort between human effort and divine intervention",
+          "Grace is only available to select predestined individuals"
+        ]
+      }
+    }
+  }
+}

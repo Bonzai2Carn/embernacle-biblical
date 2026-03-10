@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 119,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently repeat the phrase 'Your word is a lamp to my feet' while taking 3 deep breaths",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I make God's word more central in my daily decision-making?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Morning Scripture Reading",
+            "response": "Set a consistent time each morning to read and meditate on a Bible passage"
+          },
+          {
+            "id": 2,
+            "text": "Scripture Memory",
+            "response": "Choose one verse per week to memorize and internalize"
+          },
+          {
+            "id": 3,
+            "text": "Biblical Reflection Journal",
+            "response": "Write down daily insights and how Scripture speaks to your current life challenges"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with different obstacles, and use light/lamps to represent God's word guiding you through",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my understanding of God's word changed after reading this psalm?",
+        "options": [
+          "I see Scripture as more personally applicable",
+          "I recognize the importance of meditation on God's laws",
+          "I feel more motivated to study biblical wisdom",
+          "I understand God's word as a source of guidance and comfort"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of God's word resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Guidance through Scripture",
+            "expansion": "Divine wisdom as a precise navigational tool for life's complex journey"
+          },
+          {
+            "id": 2,
+            "text": "Transformative Power of God's Law",
+            "expansion": "The radical potential of biblical principles to reshape human character"
+          },
+          {
+            "id": 3,
+            "text": "Persistent Love in Divine Instruction",
+            "expansion": "God's consistent, patient communication as an expression of unconditional love"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine instruction is truly a 'lamp to my feet', why do humans consistently struggle to follow clear guidance?"
+      },
+      "moral_slider": {
+        "question": "How do personal interpretation and objective scriptural truth coexist?",
+        "left_label": "Personal Subjectivity",
+        "right_label": "Absolute Divine Truth"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of scriptural engagement shifted?",
+        "options": [
+          "More analytical approach",
+          "Increased emotional connection",
+          "Deeper spiritual sensitivity",
+          "More holistic interpretative framework"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Word and Obedience",
+          "summary": "Psalms 119 is the longest chapter in the Bible, deeply exploring the relationship between God's Word and human spiritual formation. The Psalm emphasizes complete devotion to scriptural principles and how divine guidance shapes righteous living.",
+          "cross_references": [
+            "2 Timothy 3:16-17",
+            "Joshua 1:8",
+            "Hebrews 4:12",
+            "James 1:22-25"
+          ]
+        },
+        {
+          "title": "Spiritual Transformation through Scripture",
+          "summary": "This chapter presents Scripture as a transformative power that cleanses, instructs, and sustains believers through life's challenges. The Psalmist portrays God's law as a source of wisdom, comfort, and spiritual resilience.",
+          "cross_references": [
+            "Psalm 1:2",
+            "Romans 12:2",
+            "Isaiah 55:11",
+            "Matthew 4:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does biblical meditation fundamentally reshape spiritual understanding?",
+        "options": [
+          "Scripture transforms internal perspective beyond intellectual knowledge",
+          "Biblical reflection enables direct spiritual communication with God",
+          "Consistent scriptural engagement rewires emotional and cognitive patterns",
+          "Divine wisdom progressively replaces human limited understanding"
+        ]
+      }
+    }
+  }
+}

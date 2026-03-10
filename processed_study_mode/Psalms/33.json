@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 33,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, focusing on God's faithfulness and creative power expressed in His word",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I actively praise God for His sovereign control and consistent love?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Start a gratitude journal highlighting God's work",
+            "response": "Document daily evidence of God's goodness and creative design"
+          },
+          {
+            "id": 2,
+            "text": "Worship through music or song",
+            "response": "Spend time singing or listening to worship music that celebrates God's majesty"
+          },
+          {
+            "id": 3,
+            "text": "Pray with a posture of trust and surrender",
+            "response": "Intentionally release personal anxieties, acknowledging God's supreme control"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing God's creative power - imagine how He speaks and worlds are formed",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of God's character?",
+        "options": [
+          "I see God more as a creator than before",
+          "I understand His sovereignty more deeply",
+          "I feel more inspired to worship",
+          "I recognize how small my problems are compared to His power"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which central theme of praise resonates most strongly?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Creative Power",
+            "expansion": "The universe emerges from divine intentionality and sovereign design."
+          },
+          {
+            "id": 2,
+            "text": "Divine Faithfulness",
+            "expansion": "God's steadfast love transcends human limitation and temporal constraints."
+          },
+          {
+            "id": 3,
+            "text": "Human Dependence",
+            "expansion": "Human strength is ultimately illusory compared to divine providential care."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine sovereignty is absolute, what meaningful role remains for human agency and responsibility?"
+      },
+      "moral_slider": {
+        "question": "How do divine plans intersect with human free will?",
+        "left_label": "Predetermined Destiny",
+        "right_label": "Open Human Choice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship evolved?",
+        "options": [
+          "Recognizing worship as intellectual engagement",
+          "Understanding praise as transformative action",
+          "Seeing divine relationship as dynamic, not static",
+          "Appreciating complexity of theological mystery"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Creation",
+          "summary": "God's supreme power is demonstrated through His creative act and continuous governance of the universe. The psalm emphasizes that all creation is subject to His divine will and purpose.",
+          "cross_references": [
+            "Genesis 1:1",
+            "Colossians 1:16-17",
+            "Hebrews 11:3",
+            "Revelation 4:11"
+          ]
+        },
+        {
+          "title": "Praise and Worship of the Almighty",
+          "summary": "Believers are called to worship God with joyful and skillful praise, recognizing His righteousness and unfailing love. Musical instruments and collective worship are means of expressing devotion.",
+          "cross_references": [
+            "Ephesians 5:19",
+            "Psalm 150:3-5",
+            "Colossians 3:16",
+            "1 Chronicles 25:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's sovereignty relate to human free will?",
+        "options": [
+          "God's control is absolute, negating human choice",
+          "God's sovereignty allows human free will within His ultimate plan",
+          "Humans have complete autonomy independent of divine influence",
+          "Divine providence operates through human decisions"
+        ]
+      }
+    }
+  }
+}

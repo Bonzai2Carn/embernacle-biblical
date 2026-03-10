@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on Job's unwavering faith despite having everything to lose. Silently affirm: 'God is sovereign, even when I don't understand.'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when unexpected challenges threaten your sense of security?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Become anxious and worried",
+            "response": "Practice daily prayer and surrender your concerns to God"
+          },
+          {
+            "id": "b",
+            "text": "Blame God or become angry",
+            "response": "Study Scripture to understand God's character and faithfulness"
+          },
+          {
+            "id": "c",
+            "text": "Remain steadfast like Job",
+            "response": "Develop a consistent spiritual discipline of trust and worship"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing Job's life before his trials - show his wealth, family, and spiritual integrity using symbols and colors",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "After reading Job 1, how has your understanding of faith and suffering changed?",
+        "options": [
+          "Faith isn't about avoiding suffering",
+          "God allows challenges to test and strengthen us",
+          "Spiritual integrity matters more than material prosperity",
+          "Trusting God requires strength in difficult moments"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Job's character resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "His blameless integrity",
+            "expansion": "Maintaining moral righteousness even when no one is watching reveals true character."
+          },
+          {
+            "id": 2,
+            "text": "His spiritual reverence",
+            "expansion": "Genuine fear of God transcends transactional religious practice."
+          },
+          {
+            "id": 3,
+            "text": "His material prosperity",
+            "expansion": "Wealth can be a byproduct of wisdom and divine favor, not its ultimate purpose."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If righteousness does not guarantee immunity from suffering, what truly defines a meaningful life?"
+      },
+      "moral_slider": {
+        "question": "How do divine providence and human free will interact in moments of profound challenge?",
+        "left_label": "Human Vulnerability",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience evolved?",
+        "options": [
+          "Suffering is not punishment",
+          "Character is revealed in crisis",
+          "Faith transcends circumstances",
+          "Spiritual maturity requires complexity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Righteousness",
+          "summary": "Job represents a model of integrity and faithfulness in a world marked by spiritual warfare. His righteousness is tested not as punishment, but as a demonstration of God's ultimate sovereignty and human spiritual resilience.",
+          "cross_references": [
+            "1 Peter 1:7",
+            "James 1:2-4",
+            "Proverbs 10:22",
+            "Romans 8:28"
+          ]
+        },
+        {
+          "title": "Spiritual Conflict Behind Material Circumstances",
+          "summary": "The dialogue between God and Satan reveals a cosmic perspective on human suffering, showing that earthly challenges often have spiritual origins beyond human comprehension. Job's trials are part of a larger divine dialogue about faith and devotion.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "Revelation 12:10",
+            "2 Corinthians 10:4",
+            "1 John 5:19"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's initial righteousness challenge traditional theological perspectives on suffering?",
+        "options": [
+          "Suffering is not always a direct result of personal sin",
+          "Spiritual maturity can withstand extreme testing",
+          "God allows spiritual challenges to demonstrate deeper truths",
+          "Righteousness does not guarantee material prosperity"
+        ]
+      }
+    }
+  }
+}

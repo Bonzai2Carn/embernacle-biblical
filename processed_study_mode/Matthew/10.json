@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus personally commissioning you with divine authority to share His message of hope and healing",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently using the spiritual gifts and authority God has given you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm not sure what my spiritual gifts are",
+            "response": "Take a spiritual gifts assessment and seek mentorship"
+          },
+          {
+            "id": 2,
+            "text": "I feel overwhelmed by the responsibility",
+            "response": "Start small, pray for courage, and share your faith in everyday conversations"
+          },
+          {
+            "id": 3,
+            "text": "I'm actively serving in my church/community",
+            "response": "Continue to seek God's guidance and remain humble"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your personal 'mission field' - the people and places where God has uniquely positioned you to share His love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Matthew 10 challenged your understanding of Christian mission?",
+        "options": [
+          "Mission is about bold proclamation, not just comfort",
+          "God provides supernatural power for His mission",
+          "Following Jesus requires courage and sacrifice",
+          "Every believer is called to share the Gospel"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of discipleship most challenges your understanding?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Spiritual Authority",
+            "expansion": "Disciples are granted supernatural power to heal and confront spiritual darkness."
+          },
+          {
+            "id": "2",
+            "text": "Radical Commitment",
+            "expansion": "Following Jesus requires complete surrender and willingness to face potential persecution."
+          },
+          {
+            "id": "3",
+            "text": "Mission Strategy",
+            "expansion": "Jesus provides strategic guidance for effectively spreading the gospel message."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine power is freely given, what responsibilities accompany such extraordinary spiritual authority?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and spiritual mission balance in Christian discipleship?",
+        "left_label": "Personal Safety",
+        "right_label": "Radical Obedience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of discipleship transformed?",
+        "options": [
+          "More aware of spiritual warfare",
+          "Recognize deeper commitment required",
+          "Understand mission is challenging",
+          "See disciples as empowered servants"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Apostolic Authority and Mission",
+          "summary": "Jesus empowers His disciples with spiritual authority to represent Him in ministry. This commission demonstrates God's delegation of supernatural power and strategic deployment of human agents in expanding His kingdom.",
+          "cross_references": [
+            "Luke 10:1-24",
+            "Mark 6:7-13",
+            "Acts 1:8",
+            "Ephesians 4:11-12"
+          ]
+        },
+        {
+          "title": "Kingdom Proclamation and Spiritual Warfare",
+          "summary": "The disciples are sent as ambassadors of Christ's redemptive message, equipped to confront spiritual darkness and demonstrate God's transformative power. Their mission requires courage, dependence on God, and willingness to face potential persecution.",
+          "cross_references": [
+            "2 Corinthians 10:3-5",
+            "Ephesians 6:10-18",
+            "1 John 4:4",
+            "Romans 8:31"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine empowerment intersect with human responsibility in spiritual ministry?",
+        "options": [
+          "God's power is entirely sovereign, minimizing human agency",
+          "Ministry requires complete human initiative without divine intervention",
+          "Spiritual effectiveness emerges from synergistic partnership between divine enablement and human obedience",
+          "Supernatural gifts are limited to the original apostolic era"
+        ]
+      }
+    }
+  }
+}

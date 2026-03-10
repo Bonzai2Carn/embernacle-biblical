@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize Jesus transfigured, reflecting on what it means to truly see His divine glory",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate more faith in challenging spiritual moments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray more consistently",
+            "response": "Establish a daily prayer routine focusing on surrendering doubts"
+          },
+          {
+            "id": 2,
+            "text": "Study Scripture about faith",
+            "response": "Read passages about overcoming unbelief, like Mark 9:24"
+          },
+          {
+            "id": 3,
+            "text": "Seek spiritual mentorship",
+            "response": "Connect with a mature believer who can guide spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw Jesus transformed on the mountain, showing light radiating from Him",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of faith and spiritual transformation?",
+        "options": [
+          "I see faith as more about trust than performance",
+          "I recognize spiritual growth requires vulnerability",
+          "I understand God's power transcends human limitations",
+          "I'm more aware of my own potential for spiritual transformation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which transformative moment in Mark 9 resonates most deeply?",
+        "choices": [
+          {
+            "id": "transfiguration",
+            "text": "The Transfiguration of Jesus",
+            "expansion": "A profound revelation of divine glory interrupting human perception of reality."
+          },
+          {
+            "id": "child_lesson",
+            "text": "Jesus teaching with a child",
+            "expansion": "Radical reframing of spiritual greatness through humility and vulnerability."
+          },
+          {
+            "id": "faith_healing",
+            "text": "Healing the demon-possessed boy",
+            "expansion": "Demonstrating the power of belief over seemingly insurmountable spiritual obstacles."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine transformation is possible in an instant (as in the Transfiguration), what prevents continuous spiritual metamorphosis in our daily lives?"
+      },
+      "moral_slider": {
+        "question": "How do we balance personal spiritual ambition with genuine humility?",
+        "left_label": "Individual Achievement",
+        "right_label": "Selfless Service"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual power shifted after reading Mark 9?",
+        "options": [
+          "Power is more about inner transformation than external manifestation",
+          "Humility is a more potent spiritual force than visible miracles",
+          "Faith can overcome deeply entrenched spiritual challenges",
+          "Spiritual growth requires both belief and active surrender"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Transfiguration: Divine Revelation",
+          "summary": "Christ's divine nature is momentarily revealed to select disciples, demonstrating His supernatural identity beyond human perception. This miraculous event confirms Jesus' messianic mission and divine sonship.",
+          "cross_references": [
+            "Matthew 17:1-9",
+            "Luke 9:28-36",
+            "2 Peter 1:16-18",
+            "John 1:14"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare and Faith",
+          "summary": "The chapter explores the dynamics of spiritual power, demonstrating that genuine faith can overcome demonic oppression. Jesus teaches that persistent prayer and spiritual discipline are essential for confronting spiritual challenges.",
+          "cross_references": [
+            "Matthew 17:14-20",
+            "1 John 4:4",
+            "Ephesians 6:12",
+            "James 5:16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's transfiguration challenge contemporary perceptions of Jesus' identity?",
+        "options": [
+          "Jesus as purely human religious teacher",
+          "Jesus as fully divine and supernatural being",
+          "Jesus as symbolic spiritual metaphor",
+          "Jesus as prophetic revolutionary"
+        ]
+      }
+    }
+  }
+}

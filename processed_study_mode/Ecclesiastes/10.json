@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize removing small impurities from your life that could compromise your integrity and wisdom",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might small lapses in judgment potentially undermine your reputation and influence?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Ignore minor mistakes",
+            "response": "Actively address and learn from small errors before they become significant problems"
+          },
+          {
+            "id": 2,
+            "text": "Rationalize poor choices",
+            "response": "Practice honest self-reflection and seek accountability"
+          },
+          {
+            "id": 3,
+            "text": "Minimize potential consequences",
+            "response": "Develop consistent habits of wisdom and intentional decision-making"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with obstacles, representing how small foolish choices can disrupt your life's journey",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "What new insights did you gain about wisdom and foolishness?",
+        "options": [
+          "Small mistakes can have significant consequences",
+          "Wisdom requires constant vigilance",
+          "Character is built through consistent, thoughtful choices",
+          "Reputation can be easily damaged by careless actions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on wisdom and folly resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Small errors can ruin great reputations",
+            "expansion": "Even minor lapses in judgment can undermine years of carefully cultivated wisdom and respect."
+          },
+          {
+            "id": 2,
+            "text": "Leadership requires emotional restraint",
+            "expansion": "A ruler's impulsive reactions can destabilize entire systems and relationships."
+          },
+          {
+            "id": 3,
+            "text": "Wisdom is subtle and practical",
+            "expansion": "True understanding manifests not in grand statements, but in measured, thoughtful actions."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If wisdom is so fragile that a single foolish act can destroy its reputation, how can one truly cultivate lasting wisdom?"
+      },
+      "moral_slider": {
+        "question": "To what extent can human systems accommodate human imperfection?",
+        "left_label": "Strict Accountability",
+        "right_label": "Graceful Tolerance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of wisdom evolved?",
+        "options": [
+          "Wisdom is more about consistent character than occasional brilliance",
+          "Leadership requires both technical skill and emotional intelligence",
+          "Small actions reveal more about a person than grand declarations",
+          "Humility is the foundation of true understanding"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom vs. Foolishness",
+          "summary": "Small errors can undermine significant reputation and wisdom. The contrast between wise and foolish behavior is stark, revealing how minor lapses in judgment can critically damage one's credibility and influence.",
+          "cross_references": [
+            "Proverbs 10:23",
+            "James 3:2",
+            "Proverbs 14:16",
+            "Ephesians 5:15"
+          ]
+        },
+        {
+          "title": "Leadership and Character",
+          "summary": "Leadership effectiveness depends on composure, wisdom, and strategic restraint. A leader's response to challenges reveals their inner character and determines their potential for sustained influence.",
+          "cross_references": [
+            "Proverbs 16:32",
+            "Proverbs 29:11",
+            "James 1:19",
+            "Titus 2:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do minor moral and behavioral compromises impact spiritual integrity?",
+        "options": [
+          "Minor compromises can progressively erode spiritual discernment",
+          "Occasional lapses do not significantly impact overall spiritual standing",
+          "Consistent character matters more than isolated incidents",
+          "Small compromises reveal deeper underlying spiritual conditions"
+        ]
+      }
+    }
+  }
+}

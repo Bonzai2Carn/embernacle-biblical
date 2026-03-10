@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God calling you back to your true path, no matter how far you've wandered",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What areas of your life have you drifted away from God's original design?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Personal relationships",
+            "response": "Commit to honest communication and spiritual alignment"
+          },
+          {
+            "id": 2,
+            "text": "Career/Calling",
+            "response": "Pray for realignment with God's purpose for your life"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual discipline",
+            "response": "Restart daily devotional and prayer practices"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your spiritual journey, including places where you've wandered and places God has restored you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of God's restoration?",
+        "options": [
+          "God is always ready to welcome me back",
+          "Restoration requires my active participation",
+          "God's love is unconditional",
+          "Repentance is a continuous process"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual theme resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Restoration",
+            "expansion": "God's capacity to restore and heal transcends human failures and geographical displacement."
+          },
+          {
+            "id": 2,
+            "text": "Personal Responsibility",
+            "expansion": "Individual choice remains paramount in maintaining covenant relationship with God."
+          },
+          {
+            "id": 3,
+            "text": "Transformative Repentance",
+            "expansion": "True return to God requires comprehensive heart and soul redirection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine mercy is unconditional, why does this text emphasize human accountability?"
+      },
+      "moral_slider": {
+        "question": "How do individual actions intersect with collective spiritual destiny?",
+        "left_label": "Personal Autonomy",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual renewal evolved?",
+        "options": [
+          "Recognize personal agency in transformation",
+          "Understand God's persistent redemptive intent",
+          "Appreciate complexity of spiritual journey",
+          "Embrace humility in divine relationship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Restoration and Covenant Renewal",
+          "summary": "God promises restoration and redemption even after periods of disobedience and exile. The chapter emphasizes divine mercy and the opportunity for spiritual recommitment when people turn back to God.",
+          "cross_references": [
+            "Jeremiah 29:11-14",
+            "Isaiah 49:6",
+            "Romans 11:25-26",
+            "Joel 2:12-13"
+          ]
+        },
+        {
+          "title": "Spiritual Choice and Personal Responsibility",
+          "summary": "Moses presents a fundamental theological choice between life and death, blessing and curse, highlighting individual agency in responding to God's covenant. The passage underscores that obedience is not distant or impossible, but accessible through genuine heart transformation.",
+          "cross_references": [
+            "Joshua 24:15",
+            "Matthew 7:13-14",
+            "Deuteronomy 6:5",
+            "James 4:7-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human free will in the context of covenant relationship?",
+        "options": [
+          "God's predetermined plan completely overrides human choice",
+          "Human choice is paramount, with God responding reactively",
+          "Divine sovereignty and human responsibility are mysteriously interconnected",
+          "Covenant relationship is a collaborative process between God and humans"
+        ]
+      }
+    }
+  }
+}

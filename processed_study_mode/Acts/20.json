@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently reflect on the moments of genuine Christian fellowship Paul shared with believers, imagining the deep love and connection they experienced",
+        "timer": 25
+      },
+      "two_step": {
+        "reflect_question": "How committed are you to nurturing and encouraging fellow believers in their spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I prioritize regular spiritual fellowship",
+            "response": "Schedule weekly intentional time with a spiritual mentor or accountability partner"
+          },
+          {
+            "id": 2,
+            "text": "I occasionally connect with other believers",
+            "response": "Plan monthly intentional spiritual conversations or small group meetings"
+          },
+          {
+            "id": 3,
+            "text": "I rarely engage in deep spiritual community",
+            "response": "Begin seeking out a local church or small group where genuine discipleship occurs"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing Paul's missionary journey routes, marking places where he strengthened and encouraged believers",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Acts 20 reshaped your understanding of Christian leadership and community?",
+        "options": [
+          "Leadership is about sacrificial love, not position",
+          "Genuine spiritual community requires vulnerability",
+          "Encouragement is a critical spiritual practice",
+          "Following Christ means embracing challenging journeys"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's missionary journey resonates most deeply?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Persistent Courage",
+            "expansion": "Despite repeated threats, Paul continues preaching without wavering."
+          },
+          {
+            "id": "b",
+            "text": "Community Devotion",
+            "expansion": "Paul's profound emotional connection with fellow believers transcends geographical boundaries."
+          },
+          {
+            "id": "c",
+            "text": "Spiritual Resilience",
+            "expansion": "Paul demonstrates an unwavering commitment to his divine calling amid personal challenges."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal comfort be hindering your spiritual mission?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between personal safety and spiritual calling?",
+        "left_label": "Self-Preservation",
+        "right_label": "Radical Obedience"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian mission evolved?",
+        "options": [
+          "More appreciation for sacrifice",
+          "Greater understanding of community",
+          "Deeper respect for spiritual leadership",
+          "Recognition of personal vulnerability"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Apostolic Missionary Journey",
+          "summary": "Paul demonstrates remarkable commitment to spreading the Gospel through strategic travel and relationship-building with disciples. His journey reflects the early church's missional approach of encouraging believers and establishing spiritual networks.",
+          "cross_references": [
+            "Romans 15:20",
+            "2 Corinthians 11:28",
+            "1 Thessalonians 2:9",
+            "2 Timothy 4:7"
+          ]
+        },
+        {
+          "title": "Pastoral Leadership and Discipleship",
+          "summary": "Paul's interactions reveal profound pastoral care, emphasizing spiritual mentorship and deep personal connections within the Christian community. His approach demonstrates transformative leadership through teaching, emotional investment, and sacrificial service.",
+          "cross_references": [
+            "Ephesians 4:11-12",
+            "1 Peter 5:2-3",
+            "1 Corinthians 11:1",
+            "Philippians 3:17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Paul's missionary strategy challenge contemporary Christian leadership models?",
+        "options": [
+          "Personal relationships matter more than institutional structures",
+          "Theological depth requires consistent, sacrificial engagement",
+          "Spiritual leadership transcends geographical boundaries",
+          "Discipleship is fundamentally about spiritual reproduction"
+        ]
+      }
+    }
+  }
+}

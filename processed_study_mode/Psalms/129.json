@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 129,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and meditate on resilience: Imagine oppressive struggles pressing down, but your spirit remains unbroken, like Israel's historical perseverance",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past challenges tried to defeat you, but ultimately failed?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Personal setbacks in career",
+            "response": "Document your journey of overcoming, highlighting moments of unexpected strength"
+          },
+          {
+            "id": 2,
+            "text": "Relational difficulties",
+            "response": "Write a gratitude journal entry about lessons learned through struggle"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual trials",
+            "response": "Create a prayer of thanksgiving for God's consistent protection"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a mountain landscape where multiple attempts to erode its base have failed, representing spiritual resilience",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How does this psalm change your perspective on facing repeated challenges?",
+        "options": [
+          "Challenges do not define my ultimate outcome",
+          "God's protection is constant, even when struggles seem overwhelming",
+          "Resilience is a spiritual muscle that grows through resistance",
+          "My identity is not determined by my difficulties"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of suffering resonates most deeply?",
+        "choices": [
+          {
+            "id": "resilience",
+            "text": "Enduring oppression without losing hope",
+            "expansion": "The psalmist demonstrates spiritual strength through persistent faith despite prolonged persecution."
+          },
+          {
+            "id": "justice",
+            "text": "Divine retribution against oppressors",
+            "expansion": "The psalm anticipates God's ultimate judgment on those who intentionally harm the righteous."
+          },
+          {
+            "id": "community",
+            "text": "Collective resistance through spiritual solidarity",
+            "expansion": "The communal language suggests suffering is not individual, but a shared experience of faith communities."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might persistent suffering transform one's understanding of divine purpose?"
+      },
+      "moral_slider": {
+        "question": "Between personal vindication and compassionate forgiveness, where do you locate spiritual maturity?",
+        "left_label": "Personal Vindication",
+        "right_label": "Compassionate Forgiveness"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on adversity shifted after reflecting on this psalm?",
+        "options": [
+          "I see suffering as more purposeful",
+          "I understand resilience differently",
+          "My view of divine justice has deepened",
+          "I recognize the power of communal strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Suffering and Resilience of God's People",
+          "summary": "The psalm describes the persistent oppression faced by Israel throughout its history, yet emphasizes the enduring strength and divine protection of God's chosen people. Despite repeated afflictions, the community remains unbroken and confident in God's righteousness.",
+          "cross_references": [
+            "Isaiah 54:17",
+            "Romans 8:31",
+            "2 Corinthians 4:8-9",
+            "Jeremiah 1:19"
+          ]
+        },
+        {
+          "title": "Divine Justice and Restoration",
+          "summary": "This psalm illustrates God's ultimate judgment against those who persistently oppress His people. It demonstrates the theological principle that while enemies may inflict temporary harm, God will ultimately vindicate and restore His faithful followers.",
+          "cross_references": [
+            "Exodus 1:12",
+            "Romans 12:19",
+            "Deuteronomy 32:35",
+            "2 Thessalonians 1:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the psalm's narrative of historical suffering inform contemporary theological understanding of divine protection?",
+        "options": [
+          "Suffering is a universal experience of faith communities",
+          "God's protection does not prevent trials but provides strength through them",
+          "Historical oppression demonstrates the resilience of spiritual identity",
+          "Divine justice operates on a timeline beyond human comprehension"
+        ]
+      }
+    }
+  }
+}

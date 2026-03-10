@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 13,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize the temple's massive stones, then imagine God's plans transcending human structures",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you prepare spiritually for uncertain times?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Deepen daily prayer and Scripture reading",
+            "response": "Commit to a consistent spiritual discipline"
+          },
+          {
+            "id": 2,
+            "text": "Build resilient faith community",
+            "response": "Connect with accountability partners or small group"
+          },
+          {
+            "id": 3,
+            "text": "Study prophetic teachings",
+            "response": "Learn about biblical end-times perspectives"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of events Jesus described, showing spiritual preparedness amid changes",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of faith during challenging times?",
+        "options": [
+          "Faith is about trust, not predicting exact events",
+          "Spiritual readiness matters more than fear",
+          "God's plan transcends human understanding",
+          "Perseverance is a key spiritual discipline"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which prophetic insight most resonates with your understanding of spiritual preparedness?",
+        "choices": [
+          {
+            "id": "destruction",
+            "text": "The temple's inevitable destruction",
+            "expansion": "Recognizing that human institutions, no matter how grand, are ultimately transient."
+          },
+          {
+            "id": "tribulation",
+            "text": "The coming tribulations and spiritual challenges",
+            "expansion": "Understanding that faith requires resilience through periods of profound testing."
+          },
+          {
+            "id": "vigilance",
+            "text": "The call to constant spiritual alertness",
+            "expansion": "Embracing the need for perpetual spiritual readiness and discernment."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine knowledge transcends human timelines, what does your anticipation of prophetic events reveal about your deeper spiritual understanding?"
+      },
+      "moral_slider": {
+        "question": "How do you balance understanding prophetic warnings with maintaining spiritual peace?",
+        "left_label": "Anxiety about Future Events",
+        "right_label": "Peaceful Trust in Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual preparedness shifted?",
+        "options": [
+          "More aware of spiritual vulnerability",
+          "Increased commitment to personal faith",
+          "Recognizing the importance of discernment",
+          "Understanding the cyclical nature of spiritual challenges"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Prophetic Eschatology",
+          "summary": "Mark 13 reveals Jesus' prophetic discourse about future events, encompassing both near-term destruction of Jerusalem and ultimate end-times scenarios. The chapter demonstrates Christ's profound understanding of historical and spiritual transitions.",
+          "cross_references": [
+            "Daniel 9:27",
+            "Matthew 24:1-51",
+            "2 Thessalonians 2:3-4",
+            "Revelation 13:7-10"
+          ]
+        },
+        {
+          "title": "Spiritual Preparedness",
+          "summary": "Jesus emphasizes spiritual vigilance and readiness amid potential tribulation and global uncertainties. The discourse highlights the importance of maintaining faithful commitment despite external challenges.",
+          "cross_references": [
+            "1 Peter 4:7",
+            "Luke 21:34-36",
+            "Revelation 16:15",
+            "Matthew 25:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret prophetic passages about end-times events?",
+        "options": [
+          "Literal, chronological interpretation",
+          "Symbolic representation of spiritual principles",
+          "Dynamic, contextually adaptive understanding",
+          "Combination of historical and futuristic perspectives"
+        ]
+      }
+    }
+  }
+}

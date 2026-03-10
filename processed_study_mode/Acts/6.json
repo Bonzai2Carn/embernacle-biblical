@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently thank God for the diverse gifts He gives His church, appreciating how different believers contribute uniquely",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I serve my church community using my specific strengths and spiritual gifts?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Administrative support",
+            "response": "Offer to help organize events or manage communication"
+          },
+          {
+            "id": 2,
+            "text": "Practical care for vulnerable members",
+            "response": "Connect with church leadership about needs of elderly or struggling members"
+          },
+          {
+            "id": 3,
+            "text": "Prayer and spiritual support",
+            "response": "Develop an intentional prayer ministry for church needs"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw seven hands holding different tools representing service, symbolizing the seven deacons chosen",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my understanding of church leadership and service changed?",
+        "options": [
+          "Leadership is about serving, not being served",
+          "Every believer has a meaningful role in the church",
+          "Practical care is as important as spiritual teaching",
+          "Diverse gifts are essential for church health"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of leadership challenges you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Delegating Responsibilities",
+            "expansion": "Recognizing that spiritual leaders can't do everything personally"
+          },
+          {
+            "id": 2,
+            "text": "Addressing Systemic Inequity",
+            "expansion": "Proactively solving structural problems within a growing community"
+          },
+          {
+            "id": 3,
+            "text": "Maintaining Organizational Unity",
+            "expansion": "Resolving conflicts without fracturing the collective mission"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When resources are limited, how do you determine whose needs receive priority?"
+      },
+      "moral_slider": {
+        "question": "How do practical needs relate to spiritual mission?",
+        "left_label": "Spiritual Purity",
+        "right_label": "Practical Service"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of church leadership evolved?",
+        "options": [
+          "Leadership is about empowering others",
+          "Diversity strengthens community",
+          "Spiritual work requires practical support",
+          "Conflict can lead to growth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Church Organizational Leadership",
+          "summary": "The early church demonstrates a strategic approach to administrative challenges by delegating responsibilities. The apostles prioritize spiritual leadership while empowering capable believers to manage practical ministries.",
+          "cross_references": [
+            "Exodus 18:13-27",
+            "1 Timothy 3:8-13",
+            "Romans 12:4-8",
+            "1 Corinthians 12:28-30"
+          ]
+        },
+        {
+          "title": "Servant Leadership",
+          "summary": "Stephen and the chosen deacons exemplify humble service and spiritual maturity. Their selection reveals the church's commitment to integrity, spiritual giftedness, and meeting practical community needs.",
+          "cross_references": [
+            "Matthew 20:26-28",
+            "Philippians 2:3-4",
+            "1 Peter 4:10-11",
+            "Galatians 5:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should spiritual leadership balance ministerial responsibilities and practical service?",
+        "options": [
+          "Delegate administrative tasks to empower more spiritual focus",
+          "Leaders must personally manage all church responsibilities",
+          "Develop a collaborative model where spiritual and practical ministries are interconnected",
+          "Prioritize spiritual teaching over community welfare"
+        ]
+      }
+    }
+  }
+}

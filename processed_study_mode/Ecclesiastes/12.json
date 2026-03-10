@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize your life's journey. Breathe deeply and acknowledge God's presence through every season.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you intentionally honoring God in your current life stage?",
+        "options": [
+          {
+            "id": "youth",
+            "text": "As a young person seeking purpose",
+            "response": "Commit to daily spiritual disciplines and seek godly mentorship"
+          },
+          {
+            "id": "midlife",
+            "text": "In the midst of career and responsibilities",
+            "response": "Prioritize spiritual growth alongside professional achievements"
+          },
+          {
+            "id": "later",
+            "text": "As someone approaching later years",
+            "response": "Reflect on life's lessons and invest in spiritual legacy"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of your life with symbols representing God's faithfulness in different seasons",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your perspective on life's meaning?",
+        "options": [
+          "Life is more about spiritual purpose than worldly achievements",
+          "Youth is a critical time for establishing spiritual foundations",
+          "God's perspective transcends temporal circumstances",
+          "Wisdom comes from consistently remembering our Creator"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which metaphor of aging and mortality resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The declining physical strength",
+            "expansion": "Recognizing human fragility as a pathway to spiritual humility"
+          },
+          {
+            "id": 2,
+            "text": "The returning clouds after rain",
+            "expansion": "Understanding life's cyclical nature and inevitable decline"
+          },
+          {
+            "id": 3,
+            "text": "The final remembrance of the Creator",
+            "expansion": "Acknowledging divine connection as life's ultimate meaning"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If youth is the optimal time to remember one's Creator, what spiritual investments are you making before life's complexities overwhelm you?"
+      },
+      "moral_slider": {
+        "question": "How do you balance earthly pursuits with spiritual awareness?",
+        "left_label": "Temporal Achievement",
+        "right_label": "Eternal Perspective"
+      },
+      "reevaluation": {
+        "question": "How has this chapter transformed your understanding of life's purpose?",
+        "options": [
+          "Recognized mortality's spiritual urgency",
+          "Understood life's transient nature",
+          "Appreciated youth's spiritual potential",
+          "Reframed personal priorities"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Mortality and Divine Remembrance",
+          "summary": "The chapter emphasizes the importance of remembering God during one's youth before physical decline sets in. It presents a profound metaphorical description of aging and human fragility, urging spiritual awareness before life's vigor diminishes.",
+          "cross_references": [
+            "Psalm 90:12",
+            "Job 14:5",
+            "Proverbs 22:6",
+            "2 Timothy 2:22"
+          ]
+        },
+        {
+          "title": "Ultimate Spiritual Accountability",
+          "summary": "Solomon concludes by highlighting the ultimate purpose of human existence: to fear God and keep His commandments. The chapter underscores that every human action will be evaluated by divine judgment, emphasizing personal spiritual responsibility.",
+          "cross_references": [
+            "Romans 14:12",
+            "2 Corinthians 5:10",
+            "Revelation 20:12",
+            "Matthew 12:36"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the passage's perspective on aging and spiritual preparation challenge contemporary cultural views of youth and purpose?",
+        "options": [
+          "Youth should prioritize spiritual growth over temporary worldly achievements",
+          "Divine perspective transcends physical limitations and societal expectations",
+          "Personal accountability is more important than momentary pleasures",
+          "Wisdom comes from early recognition of life's transient nature"
+        ]
+      }
+    }
+  }
+}

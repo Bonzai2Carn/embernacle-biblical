@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 15,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine yourself as a branch connected to Christ, the vine. Breathe in God's sustaining presence.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in my life am I not bearing spiritual fruit?",
+        "options": [
+          {
+            "id": 1,
+            "text": "In my relationships",
+            "response": "Intentionally practice forgiveness and love this week"
+          },
+          {
+            "id": 2,
+            "text": "In my spiritual disciplines",
+            "response": "Commit to daily prayer and Scripture reading"
+          },
+          {
+            "id": 3,
+            "text": "In my service to others",
+            "response": "Find one volunteer opportunity this month"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a vine with branches, coloring the fruit-bearing branches brightly and the unfruitful branches in muted tones",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of spiritual growth?",
+        "options": [
+          "I now see growth as dependent on connection with Christ",
+          "I understand pruning as a necessary part of development",
+          "I realize fruit-bearing is not about my own effort",
+          "I see the importance of remaining consistently connected to Jesus"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which metaphorical aspect of vine-and-branches most resonates with your spiritual understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Dependence on Christ",
+            "expansion": "Recognizing our complete spiritual reliance on divine connection."
+          },
+          {
+            "id": 2,
+            "text": "Pruning as Growth",
+            "expansion": "Understanding spiritual refinement requires intentional, sometimes painful transformation."
+          },
+          {
+            "id": 3,
+            "text": "Fruit-Bearing Purpose",
+            "expansion": "Our spiritual vitality is measured by transformative impact, not personal comfort."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If you are truly connected to the vine, how might your daily actions reveal or contradict that connection?"
+      },
+      "moral_slider": {
+        "question": "To what degree do you actively choose spiritual attachment versus passive religious participation?",
+        "left_label": "Nominal Attachment",
+        "right_label": "Radical Abiding"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual productivity shifted?",
+        "options": [
+          "Recognizing interdependence",
+          "Understanding divine refinement",
+          "Seeing relationship over rules",
+          "Embracing purposeful transformation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Connectedness",
+          "summary": "Jesus presents an organic metaphor of spiritual interdependence, illustrating how believers must remain fundamentally connected to Christ to produce spiritual fruit. The imagery of the vine and branches demonstrates that spiritual productivity is not self-generated, but dependent on continuous connection to Christ.",
+          "cross_references": [
+            "Galatians 5:22-23",
+            "Ephesians 2:10",
+            "Philippians 1:11",
+            "Colossians 1:10"
+          ]
+        },
+        {
+          "title": "Divine Pruning and Transformation",
+          "summary": "God actively cultivates spiritual growth through strategic pruning, removing unproductive elements to enhance believers' spiritual effectiveness. This process represents divine discipline and refinement, aimed at increasing spiritual fruitfulness and conforming believers to Christ's image.",
+          "cross_references": [
+            "Hebrews 12:5-11",
+            "1 Peter 1:6-7",
+            "James 1:2-4",
+            "Romans 8:28-29"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What does authentic spiritual connection with Christ fundamentally require?",
+        "options": [
+          "Consistent personal devotion and surrender",
+          "Theological knowledge and intellectual understanding",
+          "Continuous abiding and dependence on Christ's life-giving power",
+          "Religious performance and external rituals"
+        ]
+      }
+    }
+  }
+}

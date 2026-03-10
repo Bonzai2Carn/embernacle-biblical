@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine receiving an unexpected divine message that will change the trajectory of your life, like Zechariah or Mary",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when God interrupts your expectations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Doubt and ask for proof",
+            "response": "Practice humble listening and trust"
+          },
+          {
+            "id": 2,
+            "text": "Immediately accept without questions",
+            "response": "Seek understanding while maintaining faith"
+          },
+          {
+            "id": 3,
+            "text": "Resist and try to maintain control",
+            "response": "Surrender your plans to God's greater purpose"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of an angel delivering a message, showing the emotion on the person's face",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 1 shifted your understanding of divine communication?",
+        "options": [
+          "God speaks in unexpected ways",
+          "Faith requires vulnerability",
+          "Divine messages often challenge our current understanding",
+          "Ordinary people can be part of extraordinary plans"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which narrative element most resonates with your understanding of divine intervention?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Zechariah's unexpected angelic encounter",
+            "expansion": "Divine communication often arrives when and where we least expect, challenging our limited human perspective."
+          },
+          {
+            "id": 2,
+            "text": "Mary's humble acceptance of her extraordinary calling",
+            "expansion": "Radical obedience emerges from profound spiritual receptivity and trust."
+          },
+          {
+            "id": 3,
+            "text": "Elizabeth's prophetic recognition of Mary's pregnancy",
+            "expansion": "Spiritual discernment transcends logical understanding and operates through intuitive connection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might divine promises appear differently when viewed through human limitations versus spiritual possibility?"
+      },
+      "moral_slider": {
+        "question": "To what extent do personal doubts interact with divine revelation?",
+        "left_label": "Human Skepticism",
+        "right_label": "Divine Certainty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine communication shifted after exploring Luke's narrative?",
+        "options": [
+          "More open to unexpected spiritual encounters",
+          "Recognize the importance of humble receptivity",
+          "Appreciate complexity of prophetic traditions",
+          "Understand divine timing differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Intervention in Human History",
+          "summary": "God actively orchestrates redemptive events through extraordinary interventions in ordinary human lives. The annunciation narratives of John and Jesus demonstrate divine sovereignty and purposeful planning.",
+          "cross_references": [
+            "Isaiah 7:14",
+            "Galatians 4:4-5",
+            "Ephesians 1:10",
+            "Romans 8:28"
+          ]
+        },
+        {
+          "title": "Prophetic Fulfillment and Messianic Expectation",
+          "summary": "Luke's narrative connects Old Testament prophecies with the imminent arrival of the Messiah. The genealogical and prophetic details underscore God's consistent redemptive plan throughout Israel's history.",
+          "cross_references": [
+            "Malachi 4:5-6",
+            "Isaiah 40:3-5",
+            "Jeremiah 23:5-6",
+            "Daniel 9:24-27"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine providence interact with human agency in Luke's nativity narrative?",
+        "options": [
+          "God completely predetermines events without human cooperation",
+          "Human participants have genuine free will within divine parameters",
+          "Divine plan emerges through willing human collaboration",
+          "Prophetic destiny overrides individual human choice"
+        ]
+      }
+    }
+  }
+}

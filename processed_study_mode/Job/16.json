@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine releasing the weight of undeserved criticism, remembering that true comfort comes from understanding, not judgment.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when friends misunderstand your suffering?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Defend myself aggressively",
+            "response": "Practice active listening and seek mutual understanding"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw completely",
+            "response": "Share vulnerably but set healthy emotional boundaries"
+          },
+          {
+            "id": 3,
+            "text": "Silently endure",
+            "response": "Communicate your feelings with grace and self-respect"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing emotional pain where someone's words feel like arrows, but inner strength stands firm",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 16 challenged your understanding of suffering and support?",
+        "options": [
+          "I see suffering differently now",
+          "I recognize my own tendency to judge others' pain",
+          "I want to become a more compassionate listener",
+          "I understand the importance of empathy over advice"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about Job's emotional response to his friends?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Emotional exhaustion",
+            "expansion": "Job recognizes the futility of repeating argumentative words that bring no genuine comfort."
+          },
+          {
+            "id": "b",
+            "text": "Empathetic critique",
+            "expansion": "He suggests his friends would speak differently if they experienced his suffering directly."
+          },
+          {
+            "id": "c",
+            "text": "Inner strength despite pain",
+            "expansion": "Job maintains a core of dignity and potential compassion even while feeling attacked."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might genuine empathy transform the way we respond to someone's profound suffering?"
+      },
+      "moral_slider": {
+        "question": "Where do you position the tension between expressing raw emotional truth and maintaining theological propriety?",
+        "left_label": "Unfiltered Lament",
+        "right_label": "Restrained Worship"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of compassion shifted after considering Job's perspective?",
+        "options": [
+          "Recognized limitations of simplistic advice",
+          "Understood depth of personal pain",
+          "Appreciated vulnerability as strength",
+          "Learned to listen more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Sovereignty",
+          "summary": "Job 16 reveals God's supreme authority over creation and history. His purposes prevail despite human circumstances.",
+          "cross_references": [
+            "Psalm 115:3",
+            "Isaiah 46:10",
+            "Romans 8:28",
+            "Ephesians 1:11"
+          ]
+        },
+        {
+          "title": "Human Response",
+          "summary": "Scripture calls us to respond to God's revelation with faith, obedience, and worship. Our choices shape our spiritual journey.",
+          "cross_references": [
+            "Deuteronomy 30:19",
+            "Joshua 24:15",
+            "James 1:22",
+            "Hebrews 11:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "After studying Job 16, has your theological understanding changed about:",
+        "options": [
+          "The doctrine of God (theology proper)",
+          "Salvation and grace (soteriology)",
+          "The church and its mission (ecclesiology)",
+          "End times and eternity (eschatology)"
+        ]
+      }
+    }
+  }
+}

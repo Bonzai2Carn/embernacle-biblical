@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Sit quietly and reflect on God's sovereignty. Breathe deeply and release any personal expectations about how God should work.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when God's plan seems different from my understanding?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trust and submit to God's larger purpose",
+            "response": "Spend time in prayer surrendering your personal agenda"
+          },
+          {
+            "id": "b",
+            "text": "Question and struggle with divine selection",
+            "response": "Journal your honest feelings and seek biblical wisdom"
+          },
+          {
+            "id": "c",
+            "text": "Embrace God's right to choose according to His mercy",
+            "response": "Study scripture passages about God's divine election"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing God's potter's wheel, showing how He shapes our lives according to His purpose",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of God's sovereignty?",
+        "options": [
+          "I now see God's choices as more complex and mysterious",
+          "I feel more humble about my own limited perspective",
+          "I'm wrestling with the concept of divine election",
+          "I'm more accepting of God's unfathomable ways"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What aspect of Paul's emotional connection to his heritage strikes you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "His profound sorrow for his people",
+            "expansion": "Paul's deep love transcends personal theology, revealing a heart genuinely broken for his kinsmen."
+          },
+          {
+            "id": 2,
+            "text": "His willingness to be 'accursed' for others",
+            "expansion": "This radical self-sacrifice mirrors Christ's redemptive love and demonstrates ultimate spiritual empathy."
+          },
+          {
+            "id": 3,
+            "text": "The rich spiritual inheritance of Israel",
+            "expansion": "Paul acknowledges the profound historical and covenantal significance of his people's spiritual journey."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's sovereign election is not dependent on human merit, what does this reveal about the nature of grace itself?"
+      },
+      "moral_slider": {
+        "question": "How do divine sovereignty and human responsibility interact in salvation?",
+        "left_label": "Total Divine Predestination",
+        "right_label": "Human Free Will"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of God's relationship with Israel evolved?",
+        "options": [
+          "More appreciative of Israel's unique covenant",
+          "Recognizing complexity of divine election",
+          "Understanding God's mysterious redemptive plan",
+          "Seeing beyond ethnic boundaries to spiritual realities"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Election",
+          "summary": "Paul explores God's sovereign right to choose His people, demonstrating that salvation is not based on human merit but divine election. He uses historical examples of Isaac, Jacob, and Pharaoh to illustrate God's freedom in choosing.",
+          "cross_references": [
+            "Ephesians 1:4-5",
+            "John 6:44",
+            "2 Timothy 1:9",
+            "Isaiah 46:10"
+          ]
+        },
+        {
+          "title": "Israel's Spiritual Journey",
+          "summary": "Paul wrestles with the theological tension between God's promises to Israel and their current spiritual state. He argues that not all ethnic descendants are true spiritual children, but God's redemptive purposes remain intact.",
+          "cross_references": [
+            "Galatians 3:29",
+            "Romans 11:1-2",
+            "Jeremiah 31:35-37",
+            "Matthew 3:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine election relate to human free will?",
+        "options": [
+          "God's sovereignty completely predetermines salvation",
+          "Humans have ultimate choice, independent of God's plan",
+          "Divine election and human responsibility coexist mysteriously",
+          "Salvation is a collaborative process between God and human will"
+        ]
+      }
+    }
+  }
+}

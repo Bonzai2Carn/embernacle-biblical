@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine your desires like eagles, watching them soar away. Breathe deeply and release attachment to temporary pleasures.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are your current appetites and desires potentially leading you away from wisdom?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I'm overly focused on material gain",
+            "response": "Create a gratitude journal to shift perspective from accumulation to appreciation"
+          },
+          {
+            "id": "B",
+            "text": "I'm easily tempted by social status",
+            "response": "Practice humility by serving others this week without expecting recognition"
+          },
+          {
+            "id": "C",
+            "text": "My impulses control my decisions",
+            "response": "Develop a 24-hour pause rule before making significant choices"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw an eagle flying away with a bag of coins, representing how quickly wealth and desires can disappear",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of desire and contentment?",
+        "options": [
+          "I see how temporary worldly pursuits are",
+          "I recognize the importance of self-control",
+          "I understand wisdom comes from restraint",
+          "I want to prioritize spiritual growth over material gain"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core wisdom resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Self-control in presence of power/wealth",
+            "expansion": "Restraint reveals true character more than immediate gratification."
+          },
+          {
+            "id": 2,
+            "text": "Understanding wealth's transient nature",
+            "expansion": "Material possessions are temporary and cannot define human worth."
+          },
+          {
+            "id": 3,
+            "text": "Wisdom over impulsive desires",
+            "expansion": "Disciplined reflection protects against destructive immediate impulses."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your current appetites be obscuring your deeper, more meaningful aspirations?"
+      },
+      "moral_slider": {
+        "question": "To what extent should personal desire be subordinated to discipline?",
+        "left_label": "Personal Desire",
+        "right_label": "Disciplined Restraint"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your previous understanding of self-control?",
+        "options": [
+          "I recognize my impulses more clearly",
+          "I see wealth differently now",
+          "I understand power dynamics more nuancedly",
+          "I feel challenged to practice greater self-restraint"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Wisdom in Social Interactions",
+          "summary": "This passage emphasizes discernment and self-control when engaging with powerful individuals. The text warns against being manipulated by external appearances and desires, particularly in contexts involving wealth and social status.",
+          "cross_references": [
+            "Proverbs 15:27",
+            "Matthew 4:8-10",
+            "1 Timothy 6:9-10",
+            "James 4:1-2"
+          ]
+        },
+        {
+          "title": "Contentment and Restraint",
+          "summary": "Solomon teaches the spiritual principle of inner contentment over external acquisitions. The passage highlights the transient nature of worldly wealth and the importance of spiritual wisdom over material pursuits.",
+          "cross_references": [
+            "Philippians 4:11-12",
+            "1 Timothy 6:6-8",
+            "Luke 12:15",
+            "Hebrews 13:5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage challenge contemporary perspectives on success and ambition?",
+        "options": [
+          "Material wealth is not the ultimate measure of personal worth",
+          "Spiritual wisdom should precede financial strategies",
+          "Self-control is a critical spiritual discipline",
+          "External relationships require careful discernment"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect: What burdens am I carrying that might prevent me from listening wisely?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond to requests for change or compromise in leadership?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek counsel from wise advisors",
+            "response": "Schedule time with mentors to discuss complex decisions"
+          },
+          {
+            "id": 2,
+            "text": "Listen more than I speak",
+            "response": "Practice active listening in next leadership conversation"
+          },
+          {
+            "id": 3,
+            "text": "Prioritize humility over pride",
+            "response": "Journal about personal leadership blind spots"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two different perspectives, symbolizing understanding and compromise",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of leadership?",
+        "options": [
+          "Power is not about control",
+          "Wisdom comes from listening",
+          "Pride can destroy relationships",
+          "Compromise requires humility"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about leadership transition?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Inherited Expectations",
+            "expansion": "The people's memory of Solomon's demanding reign shapes Rehoboam's initial challenge."
+          },
+          {
+            "id": 2,
+            "text": "Generational Wisdom Disconnect",
+            "expansion": "Young leaders often struggle to understand the nuanced counsel of elder advisors."
+          },
+          {
+            "id": 3,
+            "text": "Consequences of Pride",
+            "expansion": "Rehoboam's rejection of humble negotiation leads to national fracture."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does maintaining traditional power become more destructive than adaptive compromise?"
+      },
+      "moral_slider": {
+        "question": "How should a new leader balance tradition with progressive reform?",
+        "left_label": "Rigid Preservation",
+        "right_label": "Radical Transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership changed?",
+        "options": [
+          "Power is more fragile than I realized",
+          "Listening matters more than commanding",
+          "Generational perspectives create inevitable tensions",
+          "Wisdom often comes from unexpected sources"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Leadership and Counsel",
+          "summary": "The chapter reveals the critical importance of seeking wise counsel and understanding the consequences of rejecting prudent advice. Rehoboam's decision to disregard the elders' counsel leads to a significant national division.",
+          "cross_references": [
+            "Proverbs 12:15",
+            "Proverbs 15:22",
+            "James 1:5",
+            "Ecclesiastes 4:13"
+          ]
+        },
+        {
+          "title": "Divine Providence in Political Transitions",
+          "summary": "God's prophetic word through Ahijah is fulfilled as the kingdom divides, demonstrating divine sovereignty in national leadership and historical transitions. The political schism reflects deeper spiritual dynamics.",
+          "cross_references": [
+            "1 Kings 11:31",
+            "Isaiah 46:10",
+            "Daniel 2:21",
+            "Romans 13:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human political decision-making in this narrative?",
+        "options": [
+          "God allows human choices while maintaining ultimate control",
+          "Human decisions are predetermined without genuine free will",
+          "Political outcomes are solely result of human wisdom/folly",
+          "Divine prophecy operates independently of human agency"
+        ]
+      }
+    }
+  }
+}

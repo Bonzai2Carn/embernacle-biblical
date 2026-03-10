@@ -1,0 +1,117 @@
+{
+  "book": "Numbers",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, acknowledging moments when you feel frustrated with life's challenges and need God's guidance.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when facing repeated challenges or feeling stuck in a difficult season?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Complain and blame others",
+            "response": "Practice gratitude and seek constructive solutions"
+          },
+          {
+            "id": 2,
+            "text": "Become discouraged and give up",
+            "response": "Remember God's faithfulness and seek His perspective"
+          },
+          {
+            "id": 3,
+            "text": "Try to solve everything in my own strength",
+            "response": "Surrender the situation to God and ask for wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a moment of trusting God when circumstances seem impossible",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of faith during difficult times?",
+        "options": [
+          "Faith requires patience",
+          "God's promises are not always immediately fulfilled",
+          "Leadership can be challenging",
+          "Obedience matters more than circumstances"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional response resonates most with the Israelites' experience?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Frustration with leadership",
+            "expansion": "Their repeated challenges to Moses reveal deeper systemic distrust and spiritual fatigue."
+          },
+          {
+            "id": 2,
+            "text": "Collective generational suffering",
+            "expansion": "The wilderness journey represents a profound metaphor of transformation through adversity."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual exhaustion",
+            "expansion": "The lack of water symbolizes their deeper thirst for divine guidance and resolution."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "What transformative potential lies within moments of apparent hopelessness?"
+      },
+      "moral_slider": {
+        "question": "How do human limitations intersect with divine providence?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How might my understanding of leadership and community resilience shift after examining this narrative?",
+        "options": [
+          "Recognize collective trauma",
+          "Understand cyclical spiritual challenges",
+          "Appreciate leadership's complex emotional burden",
+          "Acknowledge the role of perseverance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Leadership Under Pressure",
+          "summary": "Moses faces intense congregation criticism during a critical wilderness journey moment. His leadership is tested by continual complaints and lack of resources, demonstrating the challenging nature of guiding a rebellious people.",
+          "cross_references": [
+            "Exodus 17:1-7",
+            "1 Corinthians 10:4-5",
+            "Hebrews 3:16-19",
+            "Psalm 106:32-33"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Human Weakness",
+          "summary": "God's response to Moses' momentary disobedience reveals the stringent standards for spiritual leadership. Even respected leaders are not exempt from accountability for their actions against divine instructions.",
+          "cross_references": [
+            "Deuteronomy 32:51-52",
+            "James 3:1",
+            "Romans 2:11",
+            "1 Timothy 4:16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Moses' response to the people's complaint reveal deeper spiritual dynamics?",
+        "options": [
+          "Moses prioritizes personal frustration over divine guidance",
+          "Moses demonstrates spiritual leadership wrestling with human limitations",
+          "Moses shows inappropriate emotional response to congregational challenges",
+          "Moses reveals prophetic intercession despite personal struggles"
+        ]
+      }
+    }
+  }
+}

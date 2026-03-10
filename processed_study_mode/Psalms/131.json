@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 131,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and take three deep breaths, surrendering any inner pride or restlessness to God's peace",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might you cultivate a more humble and peaceful inner attitude this week?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Practice active listening without interrupting",
+            "response": "Consciously let others speak without trying to control the conversation"
+          },
+          {
+            "id": 2,
+            "text": "Acknowledge personal limitations graciously",
+            "response": "When unsure about something, simply say 'I don't know' instead of pretending"
+          },
+          {
+            "id": 3,
+            "text": "Spend quiet time in reflection instead of constant activity",
+            "response": "Set aside 15 minutes daily for silent meditation and prayer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself as a small, peaceful child resting trustfully against God's heart",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of spiritual maturity?",
+        "options": [
+          "Maturity is about humility, not achievement",
+          "Inner peace matters more than external success",
+          "Trusting God requires letting go of control",
+          "Simplicity is a spiritual strength"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea in Psalm 131 most resonates with personal humility?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Quieting my soul",
+            "expansion": "Inner stillness as a spiritual discipline of surrendering control and ego"
+          },
+          {
+            "id": 2,
+            "text": "Not being preoccupied with great matters",
+            "expansion": "Recognizing human limitations and the wisdom of accepting one's appropriate sphere of influence"
+          },
+          {
+            "id": 3,
+            "text": "Trusting like a weaned child",
+            "expansion": "Developing a mature spiritual dependency that transcends childish demands"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal ambitions be preventing you from experiencing genuine spiritual peace?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal aspiration with spiritual humility?",
+        "left_label": "Aggressive Self-Determination",
+        "right_label": "Surrendered Trust"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual maturity shifted?",
+        "options": [
+          "From performance to presence",
+          "From complexity to simplicity",
+          "From control to trust",
+          "From external validation to internal peace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Humility Before God",
+          "summary": "This psalm represents a profound meditation on spiritual humility and childlike trust in divine providence. The psalmist demonstrates a deliberate choice to quieten personal ambitions and rest in God's sovereign care.",
+          "cross_references": [
+            "Matthew 18:3-4",
+            "1 Peter 5:5-6",
+            "Proverbs 3:34",
+            "James 4:6"
+          ]
+        },
+        {
+          "title": "Inner Spiritual Tranquility",
+          "summary": "Psalm 131 portrays the peace that emerges from surrendering personal desires and expectations to God. It emphasizes the spiritual discipline of contentment and stillness in one's relationship with the divine.",
+          "cross_references": [
+            "Philippians 4:11-12",
+            "Isaiah 26:3",
+            "Colossians 3:15",
+            "Philippians 4:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does genuine spiritual humility challenge contemporary perspectives on personal achievement and self-advancement?",
+        "options": [
+          "Humility requires intentional rejection of self-centered narratives",
+          "True spiritual growth emerges from surrendering control to divine guidance",
+          "Spiritual maturity is measured by internal peace, not external accomplishments",
+          "Childlike trust represents a more profound wisdom than worldly strategy"
+        ]
+      }
+    }
+  }
+}

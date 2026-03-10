@@ -1,0 +1,117 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine searching intently for someone you deeply love, visualizing your pursuit and desire for connection",
+        "timer": 25
+      },
+      "two_step": {
+        "reflect_question": "What areas of your life are you passionately pursuing genuine connection?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Spiritual relationship with God",
+            "response": "Spend intentional time in prayer and meditation"
+          },
+          {
+            "id": "b",
+            "text": "Meaningful human relationships",
+            "response": "Reach out and invest quality time with loved ones"
+          },
+          {
+            "id": "c",
+            "text": "Personal growth and purpose",
+            "response": "Journal and set intentional personal development goals"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your spiritual/emotional journey of seeking love and connection",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of pursuing love?",
+        "options": [
+          "Love requires active pursuit",
+          "Vulnerability is essential in relationships",
+          "Patience matters in finding true connection",
+          "Emotional authenticity is powerful"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about pursuing love?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Persistent searching",
+            "expansion": "Love requires intentional pursuit and patient determination."
+          },
+          {
+            "id": 2,
+            "text": "Vulnerability in seeking",
+            "expansion": "True connection demands risking rejection and public vulnerability."
+          },
+          {
+            "id": 3,
+            "text": "Safe intimacy",
+            "expansion": "Genuine love creates sanctuary and emotional protection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does one distinguish between obsessive pursuit and authentic spiritual longing?"
+      },
+      "moral_slider": {
+        "question": "What matters more in relationships: emotional intensity or patient understanding?",
+        "left_label": "Passionate Pursuit",
+        "right_label": "Measured Approach"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on love's journey evolved?",
+        "options": [
+          "More patient in seeking connection",
+          "Recognize vulnerability as strength",
+          "Understand love requires active participation",
+          "Appreciate emotional depth over surface interactions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Pursuit and Longing",
+          "summary": "The chapter illustrates the intense spiritual pursuit of love, representing the soul's desperate search for connection with the beloved. It symbolizes humanity's deep yearning for divine intimacy and connection with God.",
+          "cross_references": [
+            "Psalm 63:1",
+            "Isaiah 26:9",
+            "John 14:8",
+            "James 4:8"
+          ]
+        },
+        {
+          "title": "Persistent Spiritual Seeking",
+          "summary": "The narrative demonstrates passionate determination in seeking one's beloved, metaphorically representing spiritual persistence in seeking divine relationship. The protagonist's unwillingness to give up reflects mature spiritual commitment.",
+          "cross_references": [
+            "Matthew 7:7",
+            "Jeremiah 29:13",
+            "Hebrews 11:6",
+            "Revelation 3:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this chapter represent spiritual seeking and divine relationship?",
+        "options": [
+          "Represents human emotional vulnerability in spiritual journey",
+          "Symbolizes Christ's pursuit of the church",
+          "Demonstrates transformative power of persistent spiritual longing",
+          "Illustrates intimate, personal nature of divine connection"
+        ]
+      }
+    }
+  }
+}

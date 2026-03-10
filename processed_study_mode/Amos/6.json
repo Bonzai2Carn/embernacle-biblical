@@ -1,0 +1,117 @@
+{
+  "book": "Amos",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize your current comfort zone. Are there areas where luxury has dulled your spiritual sensitivity?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might your current lifestyle be preventing you from seeing social injustices around you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm too busy with personal pursuits",
+            "response": "Schedule intentional time this week to engage with community needs"
+          },
+          {
+            "id": 2,
+            "text": "I'm not aware of local challenges",
+            "response": "Research local nonprofit organizations addressing systemic issues"
+          },
+          {
+            "id": 3,
+            "text": "I feel overwhelmed by societal problems",
+            "response": "Choose one specific area to learn and potentially contribute"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing 'comfortable complacency' contrasted with 'active compassion'",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Amos 6 challenged your understanding of spiritual comfort?",
+        "options": [
+          "I recognize my potential for spiritual apathy",
+          "I see the danger of economic privilege without social responsibility",
+          "I want to develop a more prophetic perspective on my community",
+          "I feel convicted about my personal comfort zones"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual warning resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Complacency in Prosperity",
+            "expansion": "Wealth can blind us to spiritual decay and impending judgment."
+          },
+          {
+            "id": 2,
+            "text": "False Sense of Security",
+            "expansion": "Political and territorial power do not guarantee divine protection."
+          },
+          {
+            "id": 3,
+            "text": "Moral Indifference",
+            "expansion": "Comfort can desensitize us to systemic injustice and spiritual decline."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When your material comfort becomes a barrier to spiritual sensitivity, how will you recognize the moment of your own spiritual disconnection?"
+      },
+      "moral_slider": {
+        "question": "How do personal comfort and prophetic critique balance in spiritual life?",
+        "left_label": "Personal Comfort",
+        "right_label": "Prophetic Accountability"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual privilege changed?",
+        "options": [
+          "Recognized systemic spiritual blindness",
+          "Understood the danger of unchecked prosperity",
+          "Saw the importance of prophetic critique",
+          "Challenged my assumptions about divine favor"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Complacency",
+          "summary": "Amos denounces the comfortable elite who have become spiritually apathetic and disconnected from God's moral standards. Their prosperity has led to a false sense of security and moral blindness.",
+          "cross_references": [
+            "Luke 12:16-21",
+            "Revelation 3:15-17",
+            "James 5:1-6",
+            "Proverbs 29:1"
+          ]
+        },
+        {
+          "title": "Divine Judgment of Privilege",
+          "summary": "God confronts national arrogance by challenging Israel's presumed exceptional status. The passage reveals that spiritual privilege does not exempt a people from accountability for systemic injustice and moral decay.",
+          "cross_references": [
+            "Romans 2:17-24",
+            "Matthew 3:9",
+            "1 Peter 4:17",
+            "Jeremiah 7:4-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual comfort potentially compromise authentic faith?",
+        "options": [
+          "Prosperity can create a false sense of divine approval",
+          "Comfort leads to decreased spiritual sensitivity",
+          "Privilege can blind believers to systemic injustice",
+          "Material success may substitute for genuine spiritual transformation"
+        ]
+      }
+    }
+  }
+}

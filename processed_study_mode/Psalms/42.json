@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 42,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, imagining your soul thirsting for God like a deer pants for water streams",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you experiencing spiritual dryness or longing for God's presence right now?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel distant from God",
+            "response": "Set aside 15 minutes for intentional prayer and honest conversation with God"
+          },
+          {
+            "id": 2,
+            "text": "I'm struggling with persistent challenges",
+            "response": "Write down your specific challenges and pray through each one, declaring God's faithfulness"
+          },
+          {
+            "id": 3,
+            "text": "I want deeper spiritual connection",
+            "response": "Create a daily worship playlist focused on God's presence and promises"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself as a deer running toward a refreshing water source, representing your pursuit of God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 42 shifted your understanding of spiritual struggle?",
+        "options": [
+          "I understand that feeling distant doesn't mean God is absent",
+          "I recognize the importance of hope during difficult seasons",
+          "I see emotional honesty as a valid form of prayer",
+          "I learned that spiritual longing is a normal part of faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual experience resonates most deeply in this psalm?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Longing for God's presence",
+            "expansion": "The soul's deepest hunger is for divine connection, transcending mere intellectual understanding."
+          },
+          {
+            "id": "b",
+            "text": "Experiencing spiritual drought",
+            "expansion": "Moments of spiritual isolation can be profound opportunities for transformative growth and introspection."
+          },
+          {
+            "id": "c",
+            "text": "Wrestling with emotional despair",
+            "expansion": "Emotional vulnerability before God represents a profound act of spiritual authenticity and trust."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of divine absence actually be an invitation to deeper spiritual understanding?"
+      },
+      "moral_slider": {
+        "question": "Where do you locate yourself between despair and hope?",
+        "left_label": "Spiritual Desolation",
+        "right_label": "Divine Confidence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual struggle evolved?",
+        "options": [
+          "Recognize struggle as a normal part of faith journey",
+          "Understand emotional honesty as spiritual strength",
+          "See divine silence as an opportunity for growth",
+          "Appreciate vulnerability in spiritual practice"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Thirst and Longing for God",
+          "summary": "The psalmist expresses a deep, existential hunger for divine connection, comparing his spiritual yearning to a deer panting for water. This metaphor illustrates the soul's fundamental need for God's presence and sustenance.",
+          "cross_references": [
+            "John 7:37-39",
+            "Psalm 63:1",
+            "Isaiah 55:1",
+            "Revelation 22:17"
+          ]
+        },
+        {
+          "title": "Navigating Spiritual Depression",
+          "summary": "The psalm reveals an intimate struggle with emotional and spiritual despair, where the writer confronts inner turmoil while simultaneously holding onto hope in God's redemptive nature. The text demonstrates honest spiritual wrestling and persistent faith.",
+          "cross_references": [
+            "2 Corinthians 4:8-9",
+            "Psalm 34:18",
+            "Romans 8:28",
+            "James 1:2-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine presence transform personal spiritual struggle?",
+        "options": [
+          "God's presence provides immediate emotional relief",
+          "Spiritual struggle is a pathway to deeper faith transformation",
+          "Emotional pain indicates spiritual separation from God",
+          "Persistent faith emerges through wrestling with spiritual challenges"
+        ]
+      }
+    }
+  }
+}

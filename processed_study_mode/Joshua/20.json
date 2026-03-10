@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a place of safety. Reflect on God's provision of refuge for those who unintentionally make mistakes.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I respond when someone has hurt me unintentionally?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek immediate confrontation",
+            "response": "Practice compassion and listen first"
+          },
+          {
+            "id": 2,
+            "text": "Hold a long-term grudge",
+            "response": "Choose forgiveness and create space for restoration"
+          },
+          {
+            "id": 3,
+            "text": "Ignore the situation",
+            "response": "Communicate openly with grace and seek understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a safe city with strong walls and open gates, representing a place of protection and mercy",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my understanding of God's justice and mercy changed?",
+        "options": [
+          "God provides protection, even for those who make mistakes",
+          "Justice includes compassion and opportunity for redemption",
+          "Unintentional harm still requires accountability",
+          "God's love creates spaces of safety and healing"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine justice resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Compassionate Protection",
+            "expansion": "God provides sanctuary for those who unintentionally cause harm."
+          },
+          {
+            "id": 2,
+            "text": "Systematic Legal Mercy",
+            "expansion": "The cities of refuge represent a structured approach to preventing retaliatory violence."
+          },
+          {
+            "id": 3,
+            "text": "Intentional Community Care",
+            "expansion": "The tribes collectively create safe spaces for vulnerable individuals."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might true justice balance protection of the innocent with accountability for harmful actions?"
+      },
+      "moral_slider": {
+        "question": "Where does mercy intersect with legal consequence?",
+        "left_label": "Absolute Punishment",
+        "right_label": "Restorative Grace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of justice evolved?",
+        "options": [
+          "More nuanced view of intentionality",
+          "Greater appreciation for communal responsibility",
+          "Deeper understanding of divine compassion",
+          "Recognizing complexity in moral judgment"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection and Mercy",
+          "summary": "God establishes cities of refuge as a mechanism for protecting unintentional offenders from immediate retribution. These cities represent God's commitment to justice tempered with compassion, ensuring that accidental manslaughter does not result in unchecked vengeance.",
+          "cross_references": [
+            "Numbers 35:9-15",
+            "Deuteronomy 19:1-13",
+            "Hebrews 6:18",
+            "Psalm 103:8-10"
+          ]
+        },
+        {
+          "title": "Community Justice and Reconciliation",
+          "summary": "The cities of refuge demonstrate a sophisticated legal and social framework where community elders play a critical role in adjudicating cases of unintentional harm. This system highlights the importance of fair judicial processes and collective responsibility in maintaining social harmony.",
+          "cross_references": [
+            "Exodus 21:13",
+            "Proverbs 18:17",
+            "1 Corinthians 6:1-8",
+            "Romans 12:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the concept of 'cities of refuge' reflect God's understanding of human complexity and need for grace?",
+        "options": [
+          "God recognizes human frailty and provides mechanisms for redemption",
+          "The system demonstrates a nuanced approach to justice that separates intent from outcome",
+          "These cities represent a prophetic model of Christ's ultimate refuge for sinners",
+          "The design reveals God's desire for community healing over pure retribution"
+        ]
+      }
+    }
+  }
+}

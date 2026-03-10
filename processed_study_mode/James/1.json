@@ -1,0 +1,117 @@
+{
+  "book": "James",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and take 3 deep breaths, visualizing trials as opportunities for spiritual growth and transformation",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you typically respond when facing unexpected challenges?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I get frustrated and discouraged",
+            "response": "Practice reframing challenges as opportunities for spiritual development"
+          },
+          {
+            "id": 2,
+            "text": "I try to solve everything on my own",
+            "response": "Commit to seeking God's wisdom through prayer before taking action"
+          },
+          {
+            "id": 3,
+            "text": "I remain calm and seek guidance",
+            "response": "Continue developing your resilience and spiritual maturity"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself climbing a mountain, with each obstacle representing a trial that helps you grow stronger",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading James 1 shifted your perspective on life's challenges?",
+        "options": [
+          "I now see trials as opportunities for growth",
+          "I understand the importance of patience",
+          "I'm more open to seeking God's wisdom",
+          "I feel more resilient and hopeful"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea from James 1 resonates most deeply with your current life journey?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Joy in Trials",
+            "expansion": "Recognizing suffering as a transformative pathway to spiritual maturity and resilience."
+          },
+          {
+            "id": 2,
+            "text": "Seeking Divine Wisdom",
+            "expansion": "Understanding wisdom as a humble, active pursuit of God's perspective beyond human understanding."
+          },
+          {
+            "id": 3,
+            "text": "Consistent Inner Integrity",
+            "expansion": "Aligning one's internal beliefs with external actions as a manifestation of authentic faith."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If trials are meant to produce patience and completeness, how might your current struggles be secretly constructing your character?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human emotional response with spiritual perspective during challenging times?",
+        "left_label": "Emotional Reaction",
+        "right_label": "Spiritual Composure"
+      },
+      "reevaluation": {
+        "question": "After reflecting on James 1, how has your understanding of personal growth shifted?",
+        "options": [
+          "More aware of spiritual development through challenges",
+          "Recognizing wisdom as an active, intentional pursuit",
+          "Understanding faith as a dynamic, responsive journey",
+          "Seeing trials as potential opportunities for transformation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Trials and Spiritual Growth",
+          "summary": "Spiritual maturity emerges through navigating life's challenges with faith and perspective. Trials are not punishments but opportunities for developing spiritual resilience and character.",
+          "cross_references": [
+            "Romans 5:3-5",
+            "1 Peter 1:6-7",
+            "Hebrews 12:7-11",
+            "2 Corinthians 12:9-10"
+          ]
+        },
+        {
+          "title": "Divine Wisdom and Humility",
+          "summary": "Genuine spiritual wisdom originates from God and is accessible through sincere, humble prayer. Believers are encouraged to seek divine understanding rather than relying solely on human intellect.",
+          "cross_references": [
+            "Proverbs 2:6",
+            "1 Corinthians 1:25",
+            "Proverbs 9:10",
+            "Colossians 2:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christians fundamentally understand the purpose of spiritual trials?",
+        "options": [
+          "Trials are purely punitive and represent divine judgment",
+          "Trials are developmental experiences designed for spiritual transformation",
+          "Trials are random occurrences with no inherent spiritual significance",
+          "Trials are opportunities to demonstrate personal spiritual strength"
+        ]
+      }
+    }
+  }
+}

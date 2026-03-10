@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on personal accountability. Where in your life do you need to make things right?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do biblical principles of restitution challenge modern views of justice?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Focus on personal compensation",
+            "response": "Create a plan to directly make amends for past wrongs"
+          },
+          {
+            "id": 2,
+            "text": "Examine systemic restoration",
+            "response": "Research community restorative justice programs"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual reconciliation",
+            "response": "Pray for guidance in healing broken relationships"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a balance scale representing justice and mercy, with symbols showing how restoration works",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal responsibility changed?",
+        "options": [
+          "I see the importance of making things right",
+          "I recognize consequences have deeper meanings",
+          "I understand justice requires personal accountability",
+          "I'm more aware of community impact of individual actions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which principle of justice resonates most deeply with you?",
+        "choices": [
+          {
+            "id": "restitution",
+            "text": "Restorative Justice",
+            "expansion": "The idea that harm must be repaired, not just punished"
+          },
+          {
+            "id": "proportionality",
+            "text": "Proportional Consequences",
+            "expansion": "Punishment should match the severity of the transgression"
+          },
+          {
+            "id": "vulnerability",
+            "text": "Protection of the Vulnerable",
+            "expansion": "Legal systems must safeguard those who cannot protect themselves"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does self-defense become disproportionate violence, and who determines that boundary?"
+      },
+      "moral_slider": {
+        "question": "How do we balance personal property rights with human dignity?",
+        "left_label": "Individual Property",
+        "right_label": "Communal Compassion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of justice evolved?",
+        "options": [
+          "I see justice as more nuanced",
+          "I recognize contextual complexity",
+          "I appreciate restoration over punishment",
+          "I understand systemic vulnerabilities better"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Proportional Restitution",
+          "summary": "God establishes a legal framework that balances punishment with restoration, demonstrating divine concern for both communal justice and individual accountability. The principle of proportional compensation reflects God's commitment to fairness and redemptive justice.",
+          "cross_references": [
+            "Leviticus 6:1-7",
+            "Proverbs 6:30-31",
+            "Luke 19:8",
+            "Romans 13:4"
+          ]
+        },
+        {
+          "title": "Property Rights and Personal Protection",
+          "summary": "Scripture outlines specific scenarios addressing property violation, emphasizing the sanctity of personal boundaries and communal safety. These laws reveal God's design for social order and mutual respect within the community.",
+          "cross_references": [
+            "Deuteronomy 19:21",
+            "Matthew 5:38-39",
+            "Romans 12:17-18",
+            "1 Peter 3:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do divine legal principles in Exodus 22 challenge contemporary understandings of justice and mercy?",
+        "options": [
+          "Restorative justice prioritizes healing over punishment",
+          "Proportional consequences reflect God's balanced moral framework",
+          "Legal standards reveal God's protective nature toward vulnerable community members",
+          "Compassion and accountability can coexist in divine jurisprudence"
+        ]
+      }
+    }
+  }
+}

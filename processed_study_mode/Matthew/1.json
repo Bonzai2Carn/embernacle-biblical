@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Trace your family lineage in your mind, remembering how each generation connects and shapes your story, just as Jesus' genealogy reveals God's intentional plan",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does understanding Jesus' diverse family history challenge your perceptions of divine selection?",
+        "options": [
+          {
+            "id": 1,
+            "text": "God uses imperfect people",
+            "response": "Write down three personal imperfections where God might still use you"
+          },
+          {
+            "id": 2,
+            "text": "Redemption spans generations",
+            "response": "Call or write a family member to affirm your connection"
+          },
+          {
+            "id": 3,
+            "text": "Divine purpose transcends human limitations",
+            "response": "Pray for clarity about your personal calling"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree with branches representing Jesus' ancestors, using symbols or colors that represent each person's unique story",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Matthew 1 shifted your understanding of God's plan?",
+        "options": [
+          "God works through ordinary people",
+          "Genealogy matters more than I realized",
+          "Jesus' lineage shows intentional design",
+          "Family history reveals deeper spiritual patterns"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What strikes you most about this genealogy?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The inclusion of complex human stories",
+            "expansion": "The genealogy reveals God's redemptive work through imperfect human narratives."
+          },
+          {
+            "id": 2,
+            "text": "The deliberate tracing of Jesus' royal lineage",
+            "expansion": "Matthew meticulously demonstrates Jesus' legal right to David's throne through careful historical documentation."
+          },
+          {
+            "id": 3,
+            "text": "The surprising presence of non-Jewish women",
+            "expansion": "Tamar, Rahab, Ruth represent divine grace transcending cultural and ethnic boundaries."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If genealogy reveals character inheritance, what spiritual DNA are you transmitting to future generations?"
+      },
+      "moral_slider": {
+        "question": "How do individual human failures relate to divine providence?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical ancestry changed?",
+        "options": [
+          "Recognized genealogy as more than just names",
+          "Saw divine intentionality in human history",
+          "Understood grace works through imperfect people",
+          "Appreciated narrative complexity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Lineage and Providence",
+          "summary": "Matthew's genealogy demonstrates God's intentional design in preparing Christ's arrival through generations. The genealogy reveals God's redemptive plan working through imperfect human history.",
+          "cross_references": [
+            "Genesis 12:3",
+            "Romans 8:28",
+            "Galatians 4:4-5",
+            "Hebrews 1:1-2"
+          ]
+        },
+        {
+          "title": "Unexpected Redemptive Participants",
+          "summary": "The genealogy uniquely includes marginalized individuals like Tamar, Rahab, and Ruth, highlighting God's inclusive redemptive strategy. These non-traditional participants demonstrate divine grace transcending human social boundaries.",
+          "cross_references": [
+            "Joshua 2:1-21",
+            "Ruth 4:13-22",
+            "Isaiah 56:3-5",
+            "Ephesians 2:12-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's genealogy challenge traditional understandings of divine selection and human worthiness?",
+        "options": [
+          "Divine selection is based on grace, not human perfection",
+          "Genealogical heritage does not guarantee spiritual standing",
+          "God's redemptive plan includes unexpected participants",
+          "Generational faithfulness matters more than individual achievements"
+        ]
+      }
+    }
+  }
+}

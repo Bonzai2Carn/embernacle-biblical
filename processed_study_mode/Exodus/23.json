@@ -1,0 +1,117 @@
+{
+  "book": "Exodus",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize treating someone fairly who has wronged you in the past",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I practice true justice in my daily interactions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Listen without bias",
+            "response": "Intentionally hear all perspectives before forming an opinion"
+          },
+          {
+            "id": 2,
+            "text": "Help others regardless of relationship",
+            "response": "Assist someone even if they are not a friend"
+          },
+          {
+            "id": 3,
+            "text": "Stand against group misconduct",
+            "response": "Refuse to participate in collective unethical behavior"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing someone helping their enemy's animal, demonstrating unexpected kindness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of justice and compassion?",
+        "options": [
+          "I see fairness differently now",
+          "I recognize my own biases",
+          "I want to be more compassionate",
+          "I understand justice requires personal courage"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which principle of justice resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Refusing to spread false reports",
+            "expansion": "Truthfulness protects community integrity and prevents destructive social dynamics."
+          },
+          {
+            "id": 2,
+            "text": "Helping even an enemy's livestock",
+            "expansion": "Compassion transcends personal animosity and reveals moral character."
+          },
+          {
+            "id": 3,
+            "text": "Rejecting crowd-driven injustice",
+            "expansion": "Individual moral courage is essential when group mentality threatens ethical standards."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your personal biases unconsciously distort your perception of justice and fairness?"
+      },
+      "moral_slider": {
+        "question": "Where do personal boundaries intersect with communal responsibility?",
+        "left_label": "Individual Rights",
+        "right_label": "Collective Welfare"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of ethical behavior?",
+        "options": [
+          "I now see justice as more nuanced",
+          "Personal relationships shouldn't determine moral choices",
+          "Truth requires active maintenance",
+          "Compassion applies universally"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Social Justice and Righteousness",
+          "summary": "This passage emphasizes ethical conduct in legal and social interactions, highlighting the importance of integrity, fairness, and moral uprightness. It teaches that justice should be impartial and not swayed by crowd mentality or personal biases.",
+          "cross_references": [
+            "Proverbs 17:15",
+            "James 2:1-4",
+            "Micah 6:8",
+            "Matthew 5:44-45"
+          ]
+        },
+        {
+          "title": "Compassion Towards Enemies",
+          "summary": "The text instructs believers to demonstrate compassion and ethical treatment even towards those who are hostile or different. This principle transcends personal animosity and reflects God's higher moral standard of love and righteousness.",
+          "cross_references": [
+            "Romans 12:20-21",
+            "Proverbs 25:21-22",
+            "Luke 6:27-28",
+            "Matthew 5:43-48"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage challenge contemporary understanding of justice and interpersonal relationships?",
+        "options": [
+          "Personal feelings should never compromise ethical treatment of others",
+          "Legal and moral standards must transcend tribal or group loyalties",
+          "Compassion is a universal principle, not limited by personal relationships",
+          "Integrity requires active resistance to systemic injustice"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on how deception can fracture family relationships. Release any hidden motivations of manipulation.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might you be tempted to manipulate situations to gain personal advantage?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through strategic communication",
+            "response": "Practice radical honesty and transparency in all interactions"
+          },
+          {
+            "id": 2,
+            "text": "By withholding information",
+            "response": "Commit to open and direct communication with loved ones"
+          },
+          {
+            "id": 3,
+            "text": "By subtle emotional pressure",
+            "response": "Seek to understand others' perspectives before pursuing personal desires"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing the complex relationships between Isaac, Rebekah, Esau, and Jacob, using different colors to represent trust and deception",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of family dynamics and divine providence?",
+        "options": [
+          "Family relationships are complex and imperfect",
+          "God's plans can work through human flaws",
+          "Deception often has long-term consequences",
+          "Individual choices significantly impact family narratives"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dynamic of human nature speaks most powerfully in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family Manipulation",
+            "expansion": "The intricate web of deception among family members reveals how deeply personal ambition can distort relationships."
+          },
+          {
+            "id": 2,
+            "text": "Divine Providence",
+            "expansion": "Despite human scheming, God's prophetic promise to Rebecca about Jacob's destiny remains mysteriously intact."
+          },
+          {
+            "id": 3,
+            "text": "Parental Favoritism",
+            "expansion": "Isaac's preferential love for Esau and Rebecca's strategic support of Jacob expose the destructive potential of unequal parental affection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "Can genuine blessing be obtained through deceit, or does the method of obtaining favor fundamentally corrupt its value?"
+      },
+      "moral_slider": {
+        "question": "How do personal desires interact with familial/divine expectations?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Predetermined Destiny"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of familial dynamics shifted after examining this chapter?",
+        "options": [
+          "I see more complexity in family relationships",
+          "Divine plans can work through imperfect human actions",
+          "Deception has profound long-term consequences",
+          "Parental favoritism deeply impacts children's futures"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Deception and Divine Providence",
+          "summary": "Rebekah and Jacob conspire to deceive Isaac and secure the birthright through manipulation. Despite human scheming, God's sovereign plan ultimately prevails, demonstrating that divine purposes cannot be thwarted by human intervention.",
+          "cross_references": [
+            "Romans 9:10-12",
+            "Ephesians 1:11",
+            "Proverbs 16:9",
+            "Isaiah 46:10"
+          ]
+        },
+        {
+          "title": "Family Dynamics and Covenant Inheritance",
+          "summary": "The chapter reveals complex familial relationships and the profound significance of patriarchal blessing in ancient Near Eastern culture. The narrative highlights how spiritual inheritance transcends biological birth order and depends on divine selection.",
+          "cross_references": [
+            "Hebrews 11:20",
+            "Galatians 3:29",
+            "Romans 8:28",
+            "Genesis 25:23"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine sovereignty in light of human agency and moral responsibility?",
+        "options": [
+          "God's predestination overrides human choices completely",
+          "Human actions genuinely influence divine plans",
+          "Divine providence works through, not against, human decisions",
+          "Theological tension exists between human free will and God's ultimate control"
+        ]
+      }
+    }
+  }
+}

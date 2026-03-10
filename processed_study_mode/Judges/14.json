@@ -1,0 +1,117 @@
+{
+  "book": "Judges",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine choosing a path different from what your family advises. What guides your decision?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do personal desires sometimes clash with spiritual guidance?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Ignore wise counsel",
+            "response": "Pause and seek additional perspectives before making decisions"
+          },
+          {
+            "id": "B",
+            "text": "Always follow family advice",
+            "response": "Practice balanced listening while maintaining personal discernment"
+          },
+          {
+            "id": "C",
+            "text": "Compromise between desires and advice",
+            "response": "Create open dialogue about motivations and potential consequences"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing a moment of personal choice against expected guidance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on personal choice?",
+        "options": [
+          "I understand impulsive decisions better",
+          "I see the importance of seeking wisdom",
+          "I recognize cultural and family tensions",
+          "I'm more aware of potential consequences"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Samson's choice resonates most deeply?",
+        "choices": [
+          {
+            "id": "personal_desire",
+            "text": "Individual Desire Over Community Guidance",
+            "expansion": "Samson prioritizes his personal attraction despite familial and cultural warnings."
+          },
+          {
+            "id": "cultural_boundary",
+            "text": "Transgressing Cultural/Religious Boundaries",
+            "expansion": "Seeking a wife outside the Israelite community challenges established tribal norms."
+          },
+          {
+            "id": "emotional_impulse",
+            "text": "Emotional Immediacy of Passion",
+            "expansion": "Samson's swift decision reflects the raw, unfiltered nature of human emotional experience."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does personal desire become a form of spiritual rebellion, and who determines the boundaries between individual choice and communal responsibility?"
+      },
+      "moral_slider": {
+        "question": "How do personal desires align with divine purpose?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Divine Alignment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal choice and spiritual calling shifted?",
+        "options": [
+          "Recognize complexity of individual agency",
+          "Understand tension between personal desire and communal expectations",
+          "Appreciate nuanced interpretations of divine guidance",
+          "Acknowledge human imperfection in spiritual journeys"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Personal Choices",
+          "summary": "Samson's desire for a Philistine wife, despite parental objections, represents God's strategic positioning of His chosen deliverer. This chapter demonstrates how God can work through human desires and seemingly inappropriate choices to accomplish His redemptive purposes.",
+          "cross_references": [
+            "Romans 8:28",
+            "Genesis 50:20",
+            "Proverbs 19:21",
+            "Isaiah 46:10"
+          ]
+        },
+        {
+          "title": "Covenant Boundaries and Divine Mission",
+          "summary": "Samson's pursuit of a Philistine wife challenges traditional Israelite marriage norms and covenant separation. His actions reveal a complex narrative of divine calling that transcends conventional religious boundaries while simultaneously preparing for Israel's deliverance.",
+          "cross_references": [
+            "Deuteronomy 7:3-4",
+            "1 Corinthians 7:39",
+            "Ruth 1:16-17",
+            "Ephesians 2:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand Samson's unconventional choices in light of God's sovereign plan?",
+        "options": [
+          "God can use imperfect vessels to accomplish divine purposes",
+          "Personal desires should always align strictly with traditional religious expectations",
+          "Divine calling sometimes requires breaking conventional religious boundaries",
+          "Individual spiritual discernment is secondary to community religious norms"
+        ]
+      }
+    }
+  }
+}

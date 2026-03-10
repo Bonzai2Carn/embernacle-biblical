@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and whisper, 'You, Lord, are my shield and protector'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing overwhelming challenges or opposition?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Panic and withdraw",
+            "response": "Practice turning your anxieties into prayer"
+          },
+          {
+            "id": 2,
+            "text": "Fight back aggressively",
+            "response": "Seek peace and trust in God's protection"
+          },
+          {
+            "id": 3,
+            "text": "Trust God's protection",
+            "response": "Meditate on God's promises and remain calm"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself surrounded by a protective circle representing God's defense",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this psalm shifted your perspective on facing challenges?",
+        "options": [
+          "I feel more confident in God's protection",
+          "I understand that challenges don't define me",
+          "I'm learning to trust instead of fear",
+          "I see difficulties as opportunities for growth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of David's experience resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Vulnerability",
+            "expansion": "Recognizing human weakness in the face of overwhelming opposition"
+          },
+          {
+            "id": 2,
+            "text": "Divine Protection",
+            "expansion": "Experiencing God's sustaining power even amid profound personal threat"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Confidence",
+            "expansion": "Maintaining trust in God's sovereignty despite external circumstances"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal challenges reveal the authentic nature of one's spiritual resilience?"
+      },
+      "moral_slider": {
+        "question": "Where do personal fear and divine trust intersect?",
+        "left_label": "Human Vulnerability",
+        "right_label": "Spiritual Confidence"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on adversity shifted?",
+        "options": [
+          "I see challenges as opportunities for growth",
+          "My faith feels more grounded in real-world struggles",
+          "I recognize the complexity of spiritual experience",
+          "I'm more aware of inner spiritual resources"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection in Personal Crisis",
+          "summary": "David experiences profound personal vulnerability while fleeing from his son Absalom's rebellion. Despite external threats, he expresses unwavering trust in God's protective power and sovereign intervention.",
+          "cross_references": [
+            "2 Samuel 15:13-17",
+            "Romans 8:31",
+            "Psalm 46:1",
+            "Isaiah 41:10"
+          ]
+        },
+        {
+          "title": "Confidence in God's Deliverance",
+          "summary": "The psalm demonstrates radical faith during circumstances of extreme personal danger. David transforms potential despair into a declaration of God's faithfulness and redemptive capacity.",
+          "cross_references": [
+            "Psalm 34:7",
+            "2 Chronicles 20:15",
+            "Philippians 4:13",
+            "1 John 4:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal adversity reveal theological understanding of God's nature?",
+        "options": [
+          "Adversity proves God's abandonment",
+          "Trials demonstrate God's refining process",
+          "Personal suffering reveals divine sovereignty",
+          "Crisis validates spiritual maturity through trust"
+        ]
+      }
+    }
+  }
+}

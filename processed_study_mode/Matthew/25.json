@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine your spiritual lamp. Is it filled with oil of preparedness and anticipation for Christ's return?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I actively preparing for spiritual readiness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Consistent Bible study and prayer",
+            "response": "Establish a daily devotional routine"
+          },
+          {
+            "id": 2,
+            "text": "Serving others and using my talents",
+            "response": "Identify one specific way to serve in my community this week"
+          },
+          {
+            "id": 3,
+            "text": "Cultivating spiritual watchfulness",
+            "response": "Create a prayer journal tracking spiritual growth and Christ's anticipated return"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a lamp with five extra oil containers beside it, representing spiritual preparedness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual readiness?",
+        "options": [
+          "I realize preparation is ongoing, not last-minute",
+          "I see the importance of personal spiritual responsibility",
+          "I'm more aware of using my talents for God's kingdom",
+          "I understand the urgency of being spiritually alert"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual preparation resonates most with you?",
+        "choices": [
+          {
+            "id": "readiness",
+            "text": "Being prepared before the critical moment",
+            "expansion": "Proactive spiritual readiness transforms unexpected challenges into opportunities for growth."
+          },
+          {
+            "id": "wisdom",
+            "text": "Distinguishing between surface-level and deep spiritual insight",
+            "expansion": "True wisdom goes beyond appearances and connects to fundamental spiritual truths."
+          },
+          {
+            "id": "waiting",
+            "text": "The spiritual significance of patient expectation",
+            "expansion": "Waiting is not passive, but an active state of attentive preparation and hope."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual preparedness is like having oil in your lamp, what might you be neglecting in your current spiritual journey?"
+      },
+      "moral_slider": {
+        "question": "How do personal accountability and divine grace intersect?",
+        "left_label": "Individual Effort",
+        "right_label": "Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual readiness evolved?",
+        "options": [
+          "I now see preparation as a continuous process",
+          "I recognize the importance of internal motivation",
+          "I understand that readiness is more than just external actions",
+          "I see the interconnection between personal responsibility and spiritual grace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Preparedness",
+          "summary": "The parable of the ten virgins illustrates the critical importance of spiritual readiness and sustained faith. It emphasizes that mere profession of faith is insufficient without genuine spiritual preparedness and personal responsibility.",
+          "cross_references": [
+            "Luke 12:35-40",
+            "1 Thessalonians 5:2-6",
+            "Revelation 3:3",
+            "Mark 13:35-37"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Accountability",
+          "summary": "This narrative reveals God's expectation of personal spiritual diligence and the consequential nature of individual spiritual choices. The parable demonstrates that each believer is responsible for maintaining their own spiritual condition and cannot rely on others' readiness.",
+          "cross_references": [
+            "Romans 14:12",
+            "2 Corinthians 5:10",
+            "Galatians 6:5",
+            "Revelation 22:12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What does the parable of the ten virgins ultimately reveal about spiritual preparedness?",
+        "options": [
+          "Faith is a collective experience dependent on community",
+          "Personal spiritual readiness cannot be transferred or borrowed",
+          "Timing and vigilance are critical in spiritual transformation",
+          "External religious practices are more important than internal spiritual condition"
+        ]
+      }
+    }
+  }
+}

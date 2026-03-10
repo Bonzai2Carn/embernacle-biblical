@@ -1,0 +1,117 @@
+{
+  "book": "2 Kings",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on areas where you might be compromising your spiritual integrity, just as King Ahaz did by adopting foreign religious practices",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might you be subtly drifting from God's core commands by adopting cultural practices that conflict with biblical principles?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Review media/entertainment choices",
+            "response": "Audit your media consumption for alignment with biblical values"
+          },
+          {
+            "id": 2,
+            "text": "Examine workplace ethics",
+            "response": "Identify any professional compromises that contradict biblical standards"
+          },
+          {
+            "id": 3,
+            "text": "Check relational influences",
+            "response": "Evaluate friendships and their potential spiritual impact"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with two diverging roads - one representing faithful devotion, the other representing compromise - and mark where you currently stand",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about King Ahaz's spiritual compromise changed your understanding of personal faithfulness?",
+        "options": [
+          "I see how small compromises can lead to major spiritual drift",
+          "I recognize the importance of staying true to God's original commands",
+          "I understand the dangers of adopting cultural practices over biblical principles",
+          "I'm more aware of potential spiritual influences in my life"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of leadership challenges your understanding most?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Political Compromise",
+            "expansion": "Ahaz's alliance with Assyria reveals how political survival can supersede spiritual integrity."
+          },
+          {
+            "id": "b",
+            "text": "Religious Syncretism",
+            "expansion": "The king's adoption of foreign religious practices demonstrates how easily cultural influences can corrupt spiritual commitment."
+          },
+          {
+            "id": "c",
+            "text": "Generational Spiritual Decline",
+            "expansion": "Ahaz's departure from David's godly legacy illustrates the fragility of inherited spiritual heritage."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When personal power becomes more compelling than divine principle, what truly gets sacrificed?"
+      },
+      "moral_slider": {
+        "question": "How do national survival and spiritual fidelity balance?",
+        "left_label": "Pragmatic Survival",
+        "right_label": "Theological Purity"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on leadership and faith shifted?",
+        "options": [
+          "I see compromise as more nuanced",
+          "Spiritual consistency matters more than political expediency",
+          "Cultural pressures can subtly erode core beliefs",
+          "Leadership requires profound moral courage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Compromise",
+          "summary": "King Ahaz represents profound spiritual deterioration, choosing political expediency over covenant faithfulness. His actions demonstrate how national leadership can rapidly lead people away from God's intended path.",
+          "cross_references": [
+            "2 Chronicles 28:22-25",
+            "Romans 1:28-32",
+            "Jeremiah 2:13",
+            "Proverbs 14:12"
+          ]
+        },
+        {
+          "title": "Idolatrous Syncretism",
+          "summary": "Ahaz's adoption of Damascus' religious practices reveals the dangerous tendency of mixing pagan worship with authentic faith. His alterations to the temple demonstrate how cultural influences can corrupt spiritual foundations.",
+          "cross_references": [
+            "Exodus 20:3-5",
+            "1 Kings 11:1-8",
+            "2 Corinthians 6:14-18",
+            "Deuteronomy 12:30-31"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers navigate cultural pressures that conflict with biblical principles?",
+        "options": [
+          "Total separation from cultural influences",
+          "Discerning engagement without compromise",
+          "Gradual adaptation of cultural practices",
+          "Passive acceptance of prevailing societal norms"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 142,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently cry out to God, acknowledging that He knows your personal struggles when no one else does",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you felt most alone in your spiritual journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "At work/school",
+            "response": "Journal a prayer expressing your vulnerability to God"
+          },
+          {
+            "id": 2,
+            "text": "In personal relationships",
+            "response": "Reach out to a trusted spiritual mentor for support"
+          },
+          {
+            "id": 3,
+            "text": "During a personal crisis",
+            "response": "Create a specific prayer list of your current challenges"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself in a small, dark space, then draw light streaming in from above - representing God's presence in isolation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your understanding of feeling spiritually alone?",
+        "options": [
+          "God sees me even when others don't",
+          "My struggles are valid and known by God",
+          "Isolation can be a pathway to deeper intimacy with God",
+          "Crying out to God is a legitimate form of prayer"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional landscape of David's lament resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Feeling Trapped",
+            "expansion": "The sense of being hemmed in spiritually and physically without clear escape"
+          },
+          {
+            "id": 2,
+            "text": "Vulnerability in Prayer",
+            "expansion": "The raw honesty of exposing one's deepest struggles directly to God"
+          },
+          {
+            "id": 3,
+            "text": "Seeking Refuge",
+            "expansion": "The desperate yearning for divine protection in moments of overwhelming isolation"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When you feel most alone, what prevents you from believing that your solitude is truly absolute?"
+      },
+      "moral_slider": {
+        "question": "How do personal suffering and divine providence intersect?",
+        "left_label": "Individual Pain",
+        "right_label": "God's Sovereign Plan"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer transformed after reflecting on this psalm?",
+        "options": [
+          "Prayer is more about raw honesty than polished language",
+          "Vulnerability is a strength in spiritual communication",
+          "Suffering can be a pathway to deeper spiritual connection",
+          "Personal lament is a valid form of worship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Personal Lament and Divine Refuge",
+          "summary": "David expresses profound emotional distress while simultaneously seeking God's protection and intervention. This psalm represents a deeply personal cry for help during a season of significant persecution and isolation.",
+          "cross_references": [
+            "Psalm 34:18",
+            "Psalm 46:1",
+            "1 Samuel 24:1-2",
+            "2 Corinthians 1:3-4"
+          ]
+        },
+        {
+          "title": "Spiritual Vulnerability and Trust",
+          "summary": "The psalmist demonstrates radical transparency before God, revealing his spiritual and emotional vulnerability. He acknowledges his complete dependency on God's mercy and intervention during challenging circumstances.",
+          "cross_references": [
+            "Psalm 18:6",
+            "Psalm 86:7",
+            "James 4:10",
+            "1 Peter 5:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal suffering relate to spiritual growth and divine intervention?",
+        "options": [
+          "Suffering is always a direct result of personal sin",
+          "Trials can be opportunities for deeper spiritual transformation",
+          "God's presence is most evident during moments of extreme challenge",
+          "Personal lament demonstrates weakness in faith"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine standing on the edge of the Promised Land, remembering God's faithfulness through years of wilderness wandering",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past fears or doubts prevented you from stepping into God's promises?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I've let fear hold me back from spiritual growth",
+            "response": "Write down one specific area where you'll trust God's guidance"
+          },
+          {
+            "id": 2,
+            "text": "I struggle with remembering God's past faithfulness",
+            "response": "Create a journal of God's previous interventions in your life"
+          },
+          {
+            "id": 3,
+            "text": "I'm ready to move forward in obedience",
+            "response": "Identify one clear step of faith to take this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your personal 'wilderness journey', marking places where God guided you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of God's guidance?",
+        "options": [
+          "God is patient with human weakness",
+          "Obedience requires courage",
+          "Past experiences shape future faith",
+          "God's promises are certain, even when we doubt"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of leadership and spiritual journey resonates most?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Moses' Retrospective Leadership",
+            "expansion": "Reflecting on past experiences as a crucial method of guiding future generations."
+          },
+          {
+            "id": "B",
+            "text": "Divine Guidance in Challenging Terrain",
+            "expansion": "Understanding how spiritual journeys often involve navigating complex, uncertain landscapes."
+          },
+          {
+            "id": "C",
+            "text": "Consequences of Collective Doubt",
+            "expansion": "Recognizing how communal fear and hesitation can derail transformative spiritual progress."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal narratives of struggle shape our collective understanding of spiritual transformation?"
+      },
+      "moral_slider": {
+        "question": "How do individual actions impact community destiny?",
+        "left_label": "Personal Freedom",
+        "right_label": "Collective Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership and spiritual journey evolved?",
+        "options": [
+          "More empathetic to communal challenges",
+          "Greater appreciation for historical perspective",
+          "Deeper understanding of divine guidance",
+          "Recognizing the complexity of collective decision-making"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Promise and Human Responsibility",
+          "summary": "God's covenant with Israel demonstrates His commitment to fulfill promises while simultaneously requiring active human participation and obedience. The chapter reveals the delicate interplay between divine sovereignty and human agency in covenant relationship.",
+          "cross_references": [
+            "Exodus 19:5-6",
+            "Joshua 1:7-9",
+            "Hebrews 3:16-19",
+            "Romans 11:22"
+          ]
+        },
+        {
+          "title": "Leadership and Accountability",
+          "summary": "Moses recounts Israel's leadership transition and the importance of spiritual accountability among God's people. The narrative highlights how leadership failures can impact entire community trajectories and generational outcomes.",
+          "cross_references": [
+            "Numbers 13:25-33",
+            "James 3:1",
+            "1 Timothy 4:12",
+            "Ezekiel 34:1-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's patience intersect with divine judgment in covenant relationships?",
+        "options": [
+          "Divine patience is infinite and unconditional",
+          "God's patience has limits based on collective spiritual response",
+          "Judgment represents redemptive correction, not ultimate rejection",
+          "Human disobedience can delay but not ultimately defeat divine purposes"
+        ]
+      }
+    }
+  }
+}

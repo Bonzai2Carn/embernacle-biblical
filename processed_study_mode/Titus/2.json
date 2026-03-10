@@ -1,0 +1,117 @@
+{
+  "book": "Titus",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and silently ask God to help you reflect on how your daily conduct honors Him",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I intentionally demonstrate godly character in my current life stage?",
+        "options": [
+          {
+            "id": 1,
+            "text": "As an older person, mentor younger generations",
+            "response": "Schedule a mentoring coffee meeting or write an encouragement letter"
+          },
+          {
+            "id": 2,
+            "text": "As a younger person, seek wisdom from mature believers",
+            "response": "Ask a respected elder in church for guidance this week"
+          },
+          {
+            "id": 3,
+            "text": "Examine my personal habits and character consistency",
+            "response": "Journal about areas needing spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing different generations supporting each other in faith",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your view of spiritual community?",
+        "options": [
+          "I see generations as interconnected spiritual support",
+          "Character matters more than age",
+          "Everyone has a role in discipleship",
+          "Personal holiness impacts collective witness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea about personal spiritual development resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Generational spiritual mentorship",
+            "expansion": "Older believers have a profound responsibility to model and guide younger generations in godly living."
+          },
+          {
+            "id": 2,
+            "text": "Character as theological witness",
+            "expansion": "Our daily conduct directly reflects and validates the credibility of God's transformative message."
+          },
+          {
+            "id": 3,
+            "text": "Intentional discipleship",
+            "expansion": "Spiritual growth requires deliberate, relational investment from mature believers."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If personal holiness is truly a reflection of divine grace, how might your everyday choices become a living sermon?"
+      },
+      "moral_slider": {
+        "question": "How do personal autonomy and spiritual accountability balance in Christian community?",
+        "left_label": "Individual Freedom",
+        "right_label": "Communal Accountability"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual maturity shifted?",
+        "options": [
+          "I see spiritual growth as more relational",
+          "Character matters more than performance",
+          "Mentorship is crucial for spiritual development",
+          "Personal discipline reflects spiritual depth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Generational Discipleship",
+          "summary": "Paul emphasizes the critical role of older believers in mentoring and modeling spiritual maturity to younger generations. This intentional discipleship approach creates a holistic framework for spiritual growth and community transformation.",
+          "cross_references": [
+            "Deuteronomy 6:4-9",
+            "Psalm 78:4-7",
+            "2 Timothy 2:2",
+            "Proverbs 22:6"
+          ]
+        },
+        {
+          "title": "Living Doctrine Through Character",
+          "summary": "Sound doctrine is not merely intellectual assent but demonstrated through godly living across all life stages and social roles. Personal conduct becomes a powerful testimony that validates theological truth.",
+          "cross_references": [
+            "James 2:17",
+            "Matthew 5:16",
+            "1 Peter 2:12",
+            "Philippians 2:15"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christian maturity manifest in different life stages?",
+        "options": [
+          "Spiritual maturity is primarily about knowledge accumulation",
+          "Character transformation reflects true spiritual growth",
+          "Age automatically guarantees spiritual wisdom",
+          "Personal conduct directly impacts the church's reputation"
+        ]
+      }
+    }
+  }
+}

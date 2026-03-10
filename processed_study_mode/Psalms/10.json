@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on how God sees the hidden struggles of the oppressed, taking 3 deep breaths and acknowledging His awareness",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in your life do you see injustice that seems unchecked by God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "At work",
+            "response": "Document specific instances and pray specifically about each situation"
+          },
+          {
+            "id": 2,
+            "text": "In my community",
+            "response": "Research local advocacy groups and consider supporting their work"
+          },
+          {
+            "id": 3,
+            "text": "Within my family",
+            "response": "Seek wise counsel and pray for healing and restoration"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing God's hand protecting someone who feels small and vulnerable",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this Psalm changed your understanding of God's justice?",
+        "options": [
+          "God is more patient than I realized",
+          "God sees everything, even hidden injustices",
+          "God will ultimately hold people accountable",
+          "God's timeline is different from human expectations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on divine justice resonates most strongly?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God sees the suffering of the oppressed",
+            "expansion": "The Psalmist affirms God's intimate awareness of human vulnerability"
+          },
+          {
+            "id": "2",
+            "text": "Evil seems temporarily unchecked",
+            "expansion": "Wickedness appears successful in the moment, challenging theological assumptions"
+          },
+          {
+            "id": "3",
+            "text": "Hope in ultimate divine intervention",
+            "expansion": "Despite current circumstances, faith anticipates ultimate moral restoration"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God truly sees the oppression of the vulnerable, why do systemic injustices persist?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine patience with urgent human suffering?",
+        "left_label": "Immediate Judgment",
+        "right_label": "Redemptive Delay"
+      },
+      "reevaluation": {
+        "question": "How might this Psalm transform your understanding of divine engagement with human struggle?",
+        "options": [
+          "God is more intimately aware than I previously understood",
+          "Suffering is not ignored, even if not immediately resolved",
+          "Faith requires patience in the face of apparent injustice",
+          "Divine justice operates on a different timeline than human expectations"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice Against Oppression",
+          "summary": "The psalm exposes the arrogance of wicked oppressors who prey on vulnerable people. It reveals God's intimate awareness of human suffering and His commitment to ultimately bringing justice.",
+          "cross_references": [
+            "Proverbs 22:22-23",
+            "Isaiah 1:17",
+            "James 5:1-6",
+            "Deuteronomy 10:18"
+          ]
+        },
+        {
+          "title": "God's Sovereignty Over Human Evil",
+          "summary": "Psalm 10 demonstrates that despite apparent temporal triumph of wickedness, God maintains complete oversight and will decisively intervene against unrighteous actors. The psalm affirms God's eternal reign and judgment.",
+          "cross_references": [
+            "Romans 12:19",
+            "2 Thessalonians 1:6-7",
+            "Revelation 20:12-13",
+            "Psalm 94:1-3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand God's timing in addressing systemic injustice?",
+        "options": [
+          "God always intervenes immediately to stop oppression",
+          "Divine justice operates on a different temporal scale than human expectations",
+          "Believers are responsible for actively confronting injustice through spiritual and practical means",
+          "Suffering is a mysterious component of God's redemptive plan"
+        ]
+      }
+    }
+  }
+}

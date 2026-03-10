@@ -1,0 +1,117 @@
+{
+  "book": "2 Samuel",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on unresolved conflicts in your life that might need reconciliation or healing",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do past unresolved conflicts impact current relationships and communities?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Acknowledge historical wrongs",
+            "response": "Schedule time to listen and understand perspectives of those who may have been hurt"
+          },
+          {
+            "id": 2,
+            "text": "Seek peaceful resolution",
+            "response": "Initiate honest conversation with parties involved in past conflict"
+          },
+          {
+            "id": 3,
+            "text": "Make amends where possible",
+            "response": "Develop a concrete plan for restitution or healing"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing healing between two groups who have experienced historical conflict",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of justice and reconciliation?",
+        "options": [
+          "Justice requires acknowledgment of past harm",
+          "Healing often involves uncomfortable conversations",
+          "Community restoration needs mutual understanding",
+          "Forgiveness is a complex, multi-step process"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological theme resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Justice Requires Accountability",
+            "expansion": "God's judgment can extend beyond individual actions to impact entire communities and generations."
+          },
+          {
+            "id": 2,
+            "text": "Covenant Promises Have Profound Consequences",
+            "expansion": "Breaking sacred oaths can trigger systemic repercussions that demand serious reconciliation."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Leaders Bear Extraordinary Responsibility",
+            "expansion": "The actions of national leaders can fundamentally alter a nation's spiritual and material prosperity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do unresolved historical injustices continue to shape present-day consequences, and who bears responsibility for healing?"
+      },
+      "moral_slider": {
+        "question": "To what extent should contemporary communities address historical wrongs?",
+        "left_label": "Individual Absolution",
+        "right_label": "Collective Reparation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine justice evolved?",
+        "options": [
+          "More nuanced view of communal accountability",
+          "Greater appreciation for long-term spiritual consequences",
+          "Deeper understanding of leadership's spiritual weight",
+          "Recognition of complex generational dynamics"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and National Accountability",
+          "summary": "God holds nations and leaders responsible for past sins, even generations later. The famine represents divine judgment for Saul's violation of covenant promises to the Gibeonites.",
+          "cross_references": [
+            "Exodus 20:5",
+            "Numbers 14:18",
+            "Joshua 9:15",
+            "Galatians 6:7"
+          ]
+        },
+        {
+          "title": "Covenant Integrity and Reconciliation",
+          "summary": "Maintaining sacred promises and seeking restoration are critical spiritual principles. David demonstrates leadership by addressing historical injustices and seeking to make amends.",
+          "cross_references": [
+            "Psalm 15:4",
+            "Proverbs 12:22",
+            "Matthew 5:23-24",
+            "Romans 12:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should contemporary leaders address historical injustices within their communities?",
+        "options": [
+          "Acknowledge past wrongs publicly",
+          "Seek direct reconciliation with affected groups",
+          "Implement systemic reforms",
+          "Provide meaningful reparative actions"
+        ]
+      }
+    }
+  }
+}

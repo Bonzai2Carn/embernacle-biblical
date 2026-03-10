@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 28,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on the choice between blessing and curse, imagining the path of obedience leading to life and prosperity",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do your daily choices align with God's principles of faithfulness?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I consistently prioritize God's commands",
+            "response": "Continue strengthening your spiritual disciplines"
+          },
+          {
+            "id": 2,
+            "text": "I sometimes struggle with obedience",
+            "response": "Create a weekly accountability plan with trusted friends"
+          },
+          {
+            "id": 3,
+            "text": "I feel distant from God's guidance",
+            "response": "Start a focused Bible study on understanding divine direction"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with two different landscapes: one side representing blessings (lush, green, abundant) and the other representing consequences (barren, dry, challenging)",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Deuteronomy 28 shifted your understanding of personal responsibility in spiritual life?",
+        "options": [
+          "I now see obedience as a relationship, not just rules",
+          "I recognize the long-term impact of my choices",
+          "I understand God's desire for my genuine flourishing",
+          "I feel more aware of spiritual cause and effect"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine covenant most resonates with you?",
+        "choices": [
+          {
+            "id": "blessings",
+            "text": "Blessings for Obedience",
+            "expansion": "Divine rewards emerge from faithful alignment with spiritual principles."
+          },
+          {
+            "id": "consequences",
+            "text": "Consequences of Disobedience",
+            "expansion": "Personal and collective choices create cascading spiritual outcomes."
+          },
+          {
+            "id": "relationship",
+            "text": "Covenant as Relationship",
+            "expansion": "The divine-human connection transcends transactional reward and punishment."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine blessing is conditional, does that make grace less meaningful or more intentional?"
+      },
+      "moral_slider": {
+        "question": "How do individual actions impact communal spiritual destiny?",
+        "left_label": "Personal Freedom",
+        "right_label": "Collective Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual accountability shifted?",
+        "options": [
+          "More aware of personal choices",
+          "Recognize systemic spiritual dynamics",
+          "See interconnectedness of actions",
+          "Understand nuanced divine relationship"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Blessings",
+          "summary": "God promises extraordinary prosperity and protection for Israel's obedience. These blessings encompass agricultural, economic, and national dimensions, demonstrating divine favor through faithful adherence to covenant requirements.",
+          "cross_references": [
+            "Leviticus 26:3-13",
+            "Joshua 1:8",
+            "2 Chronicles 7:14",
+            "Malachi 3:10"
+          ]
+        },
+        {
+          "title": "Covenant Consequences",
+          "summary": "Disobedience leads to severe divine judgment, including societal collapse, economic devastation, and potential exile. The passage reveals God's commitment to spiritual accountability and the profound interconnectedness between national righteousness and divine blessing.",
+          "cross_references": [
+            "Jeremiah 29:11-14",
+            "Hosea 4:6",
+            "2 Kings 17:7-23",
+            "Romans 11:22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine discipline in light of God's covenant promises?",
+        "options": [
+          "Discipline reflects God's love and desire for restoration",
+          "Consequences are strictly punitive and demonstrate divine wrath",
+          "Spiritual transformation requires both blessing and challenging experiences",
+          "Individual faithfulness determines collective national outcomes"
+        ]
+      }
+    }
+  }
+}

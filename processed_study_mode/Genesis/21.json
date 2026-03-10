@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine waiting decades for a promise, then experiencing its unexpected, joyful fulfillment. Breathe deeply and reflect on God's perfect timing.",
+        "timer": 25
+      },
+      "two_step": {
+        "reflect_question": "How has waiting and trusting God's promises shaped your personal journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I've experienced patient waiting",
+            "response": "Journal about a promise or dream you're trusting God to fulfill"
+          },
+          {
+            "id": 2,
+            "text": "I struggle with impatience",
+            "response": "Practice surrendering your timeline to God through prayer"
+          },
+          {
+            "id": 3,
+            "text": "I'm currently in a season of uncertainty",
+            "response": "Seek biblical encouragement about God's faithfulness"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of an elderly person holding a newborn baby, representing how God can bring miraculous life and joy even in unexpected seasons",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of God's timing and promises?",
+        "options": [
+          "God's promises are always fulfilled, just not always quickly",
+          "Waiting requires active faith and trust",
+          "Miracles can happen at any age or stage of life",
+          "God's plan is more complex and beautiful than we can imagine"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine promise resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Precise Timing",
+            "expansion": "Divine promises unfold exactly when and how God determines, transcending human expectations."
+          },
+          {
+            "id": 2,
+            "text": "Fulfillment of Long-Awaited Hope",
+            "expansion": "Isaac represents the culmination of decades of patient faith and seemingly impossible expectation."
+          },
+          {
+            "id": 3,
+            "text": "Covenant Through Generations",
+            "expansion": "Each child represents a link in God's unfolding redemptive narrative beyond individual lifespans."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of 'impossible' limit your understanding of divine potential?"
+      },
+      "moral_slider": {
+        "question": "To what extent do human doubts intersect with divine sovereignty?",
+        "left_label": "Human Uncertainty",
+        "right_label": "Divine Certainty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of patience and promise evolved?",
+        "options": [
+          "Recognize divine timelines differ from human expectations",
+          "Understand faith as active waiting",
+          "Appreciate incremental fulfillment of promises",
+          "Acknowledge personal limitations in comprehending divine plans"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Promise Fulfilled",
+          "summary": "God demonstrates His faithfulness by fulfilling His long-standing promise to Abraham and Sarah. The birth of Isaac represents divine intervention and the supernatural power of God's covenant.",
+          "cross_references": [
+            "Romans 4:20-21",
+            "Galatians 4:28",
+            "Hebrews 11:11-12",
+            "Luke 1:37"
+          ]
+        },
+        {
+          "title": "Covenant Confirmation through Generations",
+          "summary": "Isaac's birth marks a critical moment in God's redemptive plan, establishing the lineage through which the Messianic promise would be realized. The circumcision symbolizes the ongoing spiritual covenant between God and His chosen people.",
+          "cross_references": [
+            "Genesis 17:10-14",
+            "Acts 7:8",
+            "Romans 9:7-8",
+            "Galatians 3:29"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Isaac's birth demonstrate God's providential timing and supernatural intervention?",
+        "options": [
+          "God's promises transcend human limitations and biological constraints",
+          "Divine timing often challenges human expectations and understanding",
+          "Spiritual inheritance is determined by God's sovereign choice, not human merit",
+          "Miraculous interventions serve as testimonies of God's faithfulness and power"
+        ]
+      }
+    }
+  }
+}

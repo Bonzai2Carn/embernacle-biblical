@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 35,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently breathe and imagine God's shield of protection surrounding you against unseen adversaries",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you experienced unjust opposition and struggled to respond with grace?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek legal/professional resolution",
+            "response": "Pursue justice through proper channels, maintaining personal integrity"
+          },
+          {
+            "id": 2,
+            "text": "Pray for your opponents",
+            "response": "Commit the situation to God, asking for wisdom and transformation"
+          },
+          {
+            "id": 3,
+            "text": "Seek mediation",
+            "response": "Invite a neutral third party to help resolve conflicts peacefully"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield with God's name written on it, surrounded by arrows representing challenges being deflected",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your perspective on handling conflict?",
+        "options": [
+          "I see the importance of trusting God's justice",
+          "I recognize my tendency to fight battles alone",
+          "I understand that prayer is a powerful response to opposition",
+          "I feel more peaceful about unresolved conflicts"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual struggle resonates most in this Psalm?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "David's plea for divine justice",
+            "expansion": "The raw emotional vulnerability of seeking God's intervention against unjust persecutors"
+          },
+          {
+            "id": 2,
+            "text": "The imagery of spiritual warfare",
+            "expansion": "The metaphorical battle between righteousness and those who seek to harm the faithful"
+          },
+          {
+            "id": 3,
+            "text": "Trust in God's ultimate vindication",
+            "expansion": "The deep conviction that God will ultimately defend the innocent and expose wickedness"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When does the pursuit of justice transform from righteous defense to personal vengeance?"
+      },
+      "moral_slider": {
+        "question": "How do we balance personal suffering with divine retribution?",
+        "left_label": "Personal Revenge",
+        "right_label": "Divine Justice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual conflict evolved?",
+        "options": [
+          "Recognize spiritual battles are not just physical",
+          "Understand the complexity of seeking justice",
+          "Appreciate the emotional depth of lament",
+          "See prayer as a form of spiritual warfare"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Vindication",
+          "summary": "David appeals to God for intervention against unrighteous persecutors who attack without cause. The psalm portrays a passionate plea for divine protection and judgment against those who seek to harm the innocent.",
+          "cross_references": [
+            "Psalm 7:6-8",
+            "Romans 12:19",
+            "2 Thessalonians 1:6-7",
+            "Proverbs 17:15"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare and Deliverance",
+          "summary": "The chapter reveals the spiritual struggle between righteousness and wickedness, demonstrating God's role as a defender of the faithful. David's prayer highlights the supernatural dynamics of divine protection and intervention.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "James 5:16",
+            "1 John 4:4",
+            "Psalm 34:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand divine justice and personal vindication in light of Christ's teachings?",
+        "options": [
+          "Pursue legal and personal revenge",
+          "Pray for God's intervention while practicing forgiveness",
+          "Passively accept persecution without response",
+          "Seek personal retribution through indirect means"
+        ]
+      }
+    }
+  }
+}

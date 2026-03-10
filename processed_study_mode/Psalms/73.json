@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 73,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, releasing thoughts of worldly success and comparing yourself to others. Focus on God's eternal perspective.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you been tempted to envy the seemingly successful and ungodly people around you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I often feel frustrated by their apparent prosperity",
+            "response": "Spend time journaling about your true spiritual wealth in Christ"
+          },
+          {
+            "id": 2,
+            "text": "I struggle with comparing my life to theirs",
+            "response": "Create a gratitude list highlighting God's faithfulness in your life"
+          },
+          {
+            "id": 3,
+            "text": "I'm feeling discouraged by their apparent ease",
+            "response": "Pray for a renewed perspective and focus on eternal values"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing two paths: one that looks smooth and attractive but leads away from God, and another that might look challenging but leads toward God's presence",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 73 shifted your understanding of success and spiritual fulfillment?",
+        "options": [
+          "I now see worldly success differently",
+          "I understand God's perspective more clearly",
+          "I feel more grateful for my spiritual journey",
+          "I want to focus more on God's presence than material things"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on prosperity and righteousness resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The wicked seem to prosper without consequence",
+            "expansion": "Material success does not equate to spiritual or moral righteousness"
+          },
+          {
+            "id": "B",
+            "text": "God's ultimate justice transcends temporal circumstances",
+            "expansion": "Divine perspective requires patience and trust beyond immediate appearances"
+          },
+          {
+            "id": "C",
+            "text": "Personal relationship with God matters more than worldly outcomes",
+            "expansion": "Inner spiritual communion provides deeper fulfillment than external achievements"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If prosperity is not a guaranteed sign of divine favor, how do we understand God's engagement with human suffering?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile the apparent success of the unrighteous with belief in divine justice?",
+        "left_label": "Profound Doubt",
+        "right_label": "Unwavering Faith"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual prosperity evolved?",
+        "options": [
+          "Recognized material wealth is not spiritual measure",
+          "Understood divine timing differs from human expectations",
+          "Learned to trust inner spiritual journey over external markers",
+          "Developed deeper compassion for human struggle"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Prosperity of the Wicked",
+          "summary": "The psalmist wrestles with the apparent success and comfort of ungodly people while faithful believers experience suffering. He initially struggles with understanding divine justice and the seeming unfairness of worldly outcomes.",
+          "cross_references": [
+            "Job 21:7-13",
+            "Jeremiah 12:1-2",
+            "Habakkuk 1:13",
+            "Romans 8:28"
+          ]
+        },
+        {
+          "title": "Spiritual Perspective and Transformation",
+          "summary": "Through deep reflection and entering God's sanctuary, the psalmist gains profound spiritual insight into the ultimate destiny of the wicked and the true significance of walking with God. He realizes earthly prosperity is temporary compared to eternal communion with the Divine.",
+          "cross_references": [
+            "Psalm 16:11",
+            "Matthew 16:26",
+            "1 Corinthians 2:9",
+            "2 Corinthians 4:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this psalm challenge our understanding of divine justice and spiritual maturity?",
+        "options": [
+          "Earthly success is not an indicator of spiritual righteousness",
+          "Spiritual growth requires wrestling with difficult theological questions",
+          "God's perspective transcends human temporal understanding",
+          "Intimate relationship with God provides deeper wisdom than superficial observations"
+        ]
+      }
+    }
+  }
+}

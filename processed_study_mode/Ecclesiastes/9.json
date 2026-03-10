@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, acknowledging that your life's timeline is ultimately in God's hands, not your own control",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I live more intentionally, knowing life's uncertainties?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Focus more on present relationships",
+            "response": "Schedule quality time with loved ones this week"
+          },
+          {
+            "id": 2,
+            "text": "Embrace daily opportunities",
+            "response": "Do one unexpected act of kindness daily"
+          },
+          {
+            "id": 3,
+            "text": "Appreciate life's simple moments",
+            "response": "Keep a gratitude journal for one month"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself enjoying life, showing both work and joy side-by-side",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your perspective on life's unpredictability?",
+        "options": [
+          "I feel more accepting of life's uncertainties",
+          "I want to live more purposefully",
+          "I'm more aware of life's brevity",
+          "I see the importance of joy amid challenges"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on life's uncertainty resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "All share the same ultimate fate",
+            "expansion": "Death equalizes human experience, transcending social distinctions and personal achievements."
+          },
+          {
+            "id": 2,
+            "text": "Wisdom is valuable but not guaranteed",
+            "expansion": "Intelligence does not protect one from life's unpredictable circumstances or inevitable mortality."
+          },
+          {
+            "id": 3,
+            "text": "Living fully despite uncertainty",
+            "expansion": "Embrace joy and purpose knowing life's brevity and inherent limitations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If all ultimately face the same mortal conclusion, what gives meaning to individual human striving?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine providence with apparent randomness in human experience?",
+        "left_label": "Chaos/Randomness",
+        "right_label": "Divine Order"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of life's purpose?",
+        "options": [
+          "Recognized life's inherent unpredictability",
+          "Appreciated moments of joy more deeply",
+          "Questioned previous assumptions about fairness",
+          "Accepted mortality with greater peace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Universal Experience",
+          "summary": "All humans, regardless of moral standing, experience common life events determined by God's sovereign plan. The passage emphasizes that divine providence transcends human categories of righteousness and wickedness.",
+          "cross_references": [
+            "Romans 8:28",
+            "Matthew 5:45",
+            "Job 1:21",
+            "Psalm 115:3"
+          ]
+        },
+        {
+          "title": "Life's Uncertain Nature",
+          "summary": "Human beings cannot predict their future or control their ultimate destiny. The text highlights the unpredictability of life and the importance of living purposefully despite existential uncertainties.",
+          "cross_references": [
+            "James 4:14",
+            "Proverbs 27:1",
+            "Luke 12:20",
+            "Ecclesiastes 3:1-2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret divine sovereignty in light of seemingly random life experiences?",
+        "options": [
+          "God controls all outcomes precisely",
+          "Humans have free will within divine parameters",
+          "Life events are fundamentally random",
+          "Providence operates through complex, unseen spiritual mechanisms"
+        ]
+      }
+    }
+  }
+}

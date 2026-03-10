@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 89,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, reflecting on God's faithfulness through generations, just as this Psalm celebrates His eternal covenant",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you experienced God's unbreakable promises in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through personal challenges",
+            "response": "Journal a specific moment where God's faithfulness was evident"
+          },
+          {
+            "id": 2,
+            "text": "In family history",
+            "response": "Discuss God's generational faithfulness with a family member"
+          },
+          {
+            "id": 3,
+            "text": "During spiritual struggles",
+            "response": "Pray and recommit to trusting God's unchanging nature"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing God's faithfulness across generations, using symbols and colors that represent His enduring love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 89 shifted your understanding of God's covenant?",
+        "options": [
+          "God's promises are more constant than I previously understood",
+          "I see divine faithfulness as more personal and specific",
+          "I recognize God's commitment transcends human limitations",
+          "I feel more secure in my spiritual journey"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea stays with you from Psalm 89?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Eternal Covenant",
+            "expansion": "The psalm emphasizes God's unbreakable promise with David, highlighting divine commitment beyond human limitations."
+          },
+          {
+            "id": 2,
+            "text": "Divine Sovereignty Through Suffering",
+            "expansion": "Even in apparent rejection, the psalm maintains God's ultimate control and faithfulness."
+          },
+          {
+            "id": 3,
+            "text": "The Tension Between Promise and Reality",
+            "expansion": "The psalm wrestles with the contrast between God's proclaimed promises and the current lived experience of difficulty."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's covenant is eternal, how do we reconcile moments that seem to contradict that promise?"
+      },
+      "moral_slider": {
+        "question": "How do you understand God's faithfulness during periods of apparent abandonment?",
+        "left_label": "Divine Absence",
+        "right_label": "Persistent Covenant"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine promises shifted after reflecting on Psalm 89?",
+        "options": [
+          "More aware of complexity in spiritual experience",
+          "Recognize the depth of theological wrestling",
+          "Understand suffering as part of spiritual journey",
+          "See faith as a dialogue, not just acceptance"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "God's Eternal Covenant with David",
+          "summary": "This psalm emphasizes God's unbreakable covenant with King David and his descendants. It explores the divine promise of an everlasting kingdom and God's commitment to maintain David's lineage.",
+          "cross_references": [
+            "2 Samuel 7:12-16",
+            "1 Chronicles 17:11-14",
+            "Isaiah 9:6-7",
+            "Luke 1:31-33"
+          ]
+        },
+        {
+          "title": "Divine Sovereignty and Human Vulnerability",
+          "summary": "The psalm reflects on the tension between God's absolute power and human frailty. It portrays God's faithfulness contrasted against human weakness and potential judgment.",
+          "cross_references": [
+            "Psalm 103:14-16",
+            "Isaiah 40:6-8",
+            "James 1:10-11",
+            "1 Peter 1:24-25"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's covenant with David inform our understanding of divine promises?",
+        "options": [
+          "God's promises are unconditional and eternal",
+          "Divine covenants are dependent on human faithfulness",
+          "Promises are metaphorical and not literally binding",
+          "Covenantal relationships require mutual commitment"
+        ]
+      }
+    }
+  }
+}

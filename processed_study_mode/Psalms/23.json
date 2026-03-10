@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, imagining yourself resting peacefully in green pastures beside still waters",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where in your life do you currently need God's shepherding guidance?",
+        "options": [
+          {
+            "id": "career",
+            "text": "Professional Direction",
+            "response": "Spend time in prayer asking God to clarify your career path and provide wisdom"
+          },
+          {
+            "id": "relationships",
+            "text": "Relational Healing",
+            "response": "Write a letter of forgiveness or reach out to restore a broken connection"
+          },
+          {
+            "id": "personal_growth",
+            "text": "Spiritual Development",
+            "response": "Create a 30-day plan for consistent daily scripture reading and prayer"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself walking through a dark valley with a comforting shepherd nearby",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of God's protection and provision changed after reading Psalm 23?",
+        "options": [
+          "I feel more secure in God's care",
+          "I realize God is always present, even in difficult times",
+          "I understand God's guidance is gentle and purposeful",
+          "I see God as a loving shepherd, not a distant ruler"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which metaphor of divine guidance resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Shepherd Leading",
+            "expansion": "God as a compassionate guide who knows exactly what each individual needs"
+          },
+          {
+            "id": 2,
+            "text": "The Prepared Table in Adversity",
+            "expansion": "Divine provision that transcends current circumstances and fears"
+          },
+          {
+            "id": 3,
+            "text": "Dwelling in God's Presence",
+            "expansion": "Eternal communion that transforms temporary suffering into profound peace"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If comfort and protection are guaranteed, what fears might still persist in your innermost self?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal agency with divine guidance?",
+        "left_label": "Human Control",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual support evolved?",
+        "options": [
+          "More trusting of unseen guidance",
+          "Recognize complexity of spiritual journeys",
+          "Appreciate metaphorical power of spiritual language",
+          "See vulnerability as strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Shepherding",
+          "summary": "God is portrayed as a compassionate shepherd who provides, protects, and guides His people through all life's circumstances. This metaphor emphasizes God's intimate care and complete sufficiency for His followers.",
+          "cross_references": [
+            "John 10:11",
+            "Ezekiel 34:11-16",
+            "Isaiah 40:11",
+            "1 Peter 2:25"
+          ]
+        },
+        {
+          "title": "Spiritual Confidence",
+          "summary": "The psalm represents absolute trust in God's sovereignty and protection, even in challenging and potentially dangerous environments. It demonstrates how faith transforms fear into peaceful assurance.",
+          "cross_references": [
+            "Romans 8:28",
+            "Isaiah 43:2",
+            "2 Corinthians 4:8-9",
+            "Philippians 4:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the shepherd metaphor reshape our understanding of divine relationship?",
+        "options": [
+          "God as a distant ruler",
+          "God as an intimate, personal caretaker",
+          "God as a transactional provider",
+          "God as a passive observer"
+        ]
+      }
+    }
+  }
+}

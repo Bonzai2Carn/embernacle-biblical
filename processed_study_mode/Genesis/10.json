@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 10,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on your own family lineage, considering how each generation carries unique stories and connections",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do genealogies help us understand human diversity and interconnectedness?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Recognize global human family",
+            "response": "Learn about different cultures and appreciate their unique histories"
+          },
+          {
+            "id": "b",
+            "text": "Understand migration patterns",
+            "response": "Study how families and tribes spread across the earth"
+          },
+          {
+            "id": "c",
+            "text": "Appreciate individual stories",
+            "response": "Document and honor your own family's journey and heritage"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a world map showing the migration paths of Noah's sons and their descendants",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this genealogy changed your perspective on human origins?",
+        "options": [
+          "More appreciative of human diversity",
+          "Curious about ancient migration patterns",
+          "Impressed by complex family histories",
+          "Interested in tracing my own ancestry"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What insights emerge from this genealogical record?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Plan of Human Diversity",
+            "expansion": "God intentionally disperses humanity across the earth through distinct lineages and languages."
+          },
+          {
+            "id": 2,
+            "text": "Ancestral Interconnectedness",
+            "expansion": "All human beings share fundamental familial roots despite cultural differences."
+          },
+          {
+            "id": 3,
+            "text": "Geographic and Cultural Mapping",
+            "expansion": "The chapter provides an early anthropological blueprint of human migration and settlement patterns."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might understanding our shared ancestral origins transform our perspective on human differences?"
+      },
+      "moral_slider": {
+        "question": "To what extent do human divisions reflect divine design versus human limitation?",
+        "left_label": "Human-Driven Separation",
+        "right_label": "God-Ordained Diversity"
+      },
+      "reevaluation": {
+        "question": "How has this genealogical record challenged your understanding of human origins?",
+        "options": [
+          "Recognized greater human interconnectedness",
+          "Appreciated complexity of historical migration",
+          "Saw divine intentionality in human diversity",
+          "Questioned previous assumptions about lineage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Preservation of Humanity",
+          "summary": "Genesis 10 demonstrates God's covenant commitment to preserving human life after the flood through Noah's descendants. The genealogical record reveals God's strategic plan for population expansion and cultural diversification.",
+          "cross_references": [
+            "Genesis 9:1",
+            "Acts 17:26",
+            "1 Chronicles 1:5-7",
+            "Deuteronomy 32:8"
+          ]
+        },
+        {
+          "title": "Global Migration and Ethnic Diversity",
+          "summary": "This chapter illustrates the biblical foundation for human migration and the emergence of distinct ethnic groups. The table of nations represents God's design for human geographical distribution and cultural complexity.",
+          "cross_references": [
+            "Acts 17:24-26",
+            "Revelation 7:9",
+            "Galatians 3:28",
+            "Colossians 3:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Genesis 10 reveal God's perspective on human diversity and global development?",
+        "options": [
+          "God intentionally created diverse nations and languages",
+          "Human migration was a result of divine strategic planning",
+          "Ethnic diversity reflects God's creative complexity",
+          "The genealogy demonstrates divine sovereignty in human history"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on moments when life seems unfair, then release those feelings of frustration, trusting God's larger plan.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing seemingly inexplicable hardships?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Seek immediate solutions",
+            "response": "Pause and pray for wisdom before taking action"
+          },
+          {
+            "id": 2,
+            "text": "Blame others or become angry",
+            "response": "Practice emotional restraint and seek understanding"
+          },
+          {
+            "id": 3,
+            "text": "Withdraw and become isolated",
+            "response": "Reach out to trusted spiritual mentors for support"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a maze representing life's unexpected challenges, with a path leading through difficult obstacles toward hope and restoration",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of suffering?",
+        "options": [
+          "Suffering is not always a direct punishment",
+          "God's perspective is larger than human understanding",
+          "Resilience comes through faith, not circumstance",
+          "Wisdom is found in humble acceptance"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about human vulnerability in this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Sudden destruction of the foolish",
+            "expansion": "Prosperity can collapse quickly when wisdom is absent."
+          },
+          {
+            "id": 2,
+            "text": "No external deliverance",
+            "expansion": "When systemic challenges overwhelm, personal resources may prove insufficient."
+          },
+          {
+            "id": 3,
+            "text": "Vulnerability of inheritance",
+            "expansion": "Generational achievements can be rapidly eroded by misfortune."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine judgment operates through natural consequences, how much personal agency truly exists in one's fate?"
+      },
+      "moral_slider": {
+        "question": "How do suffering and justice intersect in human experience?",
+        "left_label": "Random Suffering",
+        "right_label": "Purposeful Refinement"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of adversity shifted?",
+        "options": [
+          "More aware of life's unpredictability",
+          "Recognize systemic vulnerabilities",
+          "See suffering as potentially instructive",
+          "Understand limitations of personal control"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and Human Vulnerability",
+          "summary": "This passage reveals the precarious nature of human existence when disconnected from God's wisdom. It highlights how foolishness and pride can lead to rapid spiritual and material destruction.",
+          "cross_references": [
+            "Proverbs 10:27",
+            "Galatians 6:7-8",
+            "Psalm 37:35-36",
+            "Luke 12:16-21"
+          ]
+        },
+        {
+          "title": "Consequences of Spiritual Ignorance",
+          "summary": "The text demonstrates how unrepentant individuals face severe consequences when they reject divine guidance. Their perceived stability is ultimately fragile and subject to sudden collapse.",
+          "cross_references": [
+            "Hosea 8:7",
+            "Matthew 7:26-27",
+            "1 Corinthians 3:11-15",
+            "James 1:22-25"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand divine discipline in light of human suffering?",
+        "options": [
+          "Suffering is always a direct punishment for personal sin",
+          "Divine discipline is fundamentally redemptive and transformative",
+          "Suffering reveals complex spiritual dynamics beyond simple cause-and-effect",
+          "Personal righteousness guarantees protection from life's challenges"
+        ]
+      }
+    }
+  }
+}

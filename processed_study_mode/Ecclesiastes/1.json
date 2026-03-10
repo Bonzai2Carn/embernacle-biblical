@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe slowly, acknowledging that life's cycles continue with or without your effort. Let go of personal importance.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently investing your energy in pursuits that might ultimately feel meaningless?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Work achievements",
+            "response": "Review your professional goals and assess their eternal significance"
+          },
+          {
+            "id": 2,
+            "text": "Material acquisitions",
+            "response": "Reflect on what truly brings lasting fulfillment beyond possessions"
+          },
+          {
+            "id": 3,
+            "text": "Personal recognition",
+            "response": "Shift focus from personal glory to serving others"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a circular wheel representing life's repetitive cycles - include symbols of sunrise, work, sunset, and recurring patterns",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter challenged your understanding of success and meaning?",
+        "options": [
+          "Recognized life's transient nature",
+          "Questioned my current priorities",
+          "Felt more humble about personal achievements",
+          "Seeking deeper spiritual purpose"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human existence resonates most deeply?",
+        "choices": [
+          {
+            "id": "cyclical",
+            "text": "Life is a repetitive, unchanging cycle",
+            "expansion": "The recurring patterns of nature suggest human efforts are ultimately inconsequential."
+          },
+          {
+            "id": "transient",
+            "text": "Human life is brief and ultimately meaningless",
+            "expansion": "Generations pass, yet the earth remains, rendering individual struggles ephemeral."
+          },
+          {
+            "id": "searching",
+            "text": "Wisdom comes from recognizing life's fundamental limitations",
+            "expansion": "Understanding the futility of human striving is itself a form of profound insight."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If all human labor is ultimately 'vanity', what gives meaning to our existence?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine purpose with the apparent meaninglessness of human effort?",
+        "left_label": "Existential Despair",
+        "right_label": "Transcendent Hope"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of human significance?",
+        "options": [
+          "I see life as more cyclical than linear",
+          "I'm more aware of life's transient nature",
+          "I recognize the limitations of human understanding",
+          "I feel a deeper need to seek meaning beyond material achievements"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Existential Futility",
+          "summary": "The passage reveals the cyclical and seemingly meaningless nature of human existence. It emphasizes the repetitive patterns of life and the transient nature of human labor and achievement.",
+          "cross_references": [
+            "Psalm 90:4",
+            "James 4:14",
+            "Isaiah 40:6-8",
+            "1 Peter 1:24-25"
+          ]
+        },
+        {
+          "title": "Divine Perspective on Human Effort",
+          "summary": "Solomon explores the profound tension between human striving and the unchanging rhythms of creation. The text suggests that human labor appears ultimately inconsequential against the backdrop of eternal divine processes.",
+          "cross_references": [
+            "Ecclesiastes 3:1",
+            "Job 14:1-2",
+            "Romans 8:20-22",
+            "2 Peter 3:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand the concept of 'vanity' in light of God's eternal purposes?",
+        "options": [
+          "Human efforts are ultimately meaningless without divine perspective",
+          "Life's apparent repetitiveness masks deeper spiritual significance",
+          "Temporal achievements should be viewed through an eternal lens",
+          "Recognizing life's limitations leads to deeper spiritual humility"
+        ]
+      }
+    }
+  }
+}

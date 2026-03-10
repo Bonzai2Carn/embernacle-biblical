@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on personal integrity: In what areas of your life can you maintain faithfulness, even when others around you might be acting corruptly?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you build something lasting and positive in your community, like King Jotham's city and wall construction?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Volunteer in local community projects",
+            "response": "Identify a specific need and commit time to serve"
+          },
+          {
+            "id": 2,
+            "text": "Invest in personal skill development",
+            "response": "Take a class or learn a skill that could benefit others"
+          },
+          {
+            "id": 3,
+            "text": "Support local infrastructure improvements",
+            "response": "Attend city council meetings or contribute to community development initiatives"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a protective wall representing personal boundaries and spiritual integrity",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about King Jotham's leadership challenged your understanding of personal responsibility?",
+        "options": [
+          "I need to be more consistent in my faith",
+          "Leadership requires continuous personal growth",
+          "Integrity matters, even when others are compromising",
+          "Small, consistent actions can create significant impact"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of leadership resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Continuing Positive Traditions",
+            "expansion": "Jotham followed his father's righteous path while avoiding his previous mistakes."
+          },
+          {
+            "id": 2,
+            "text": "Infrastructure Development",
+            "expansion": "Building cities and fortifications represents strategic, long-term societal investment."
+          },
+          {
+            "id": 3,
+            "text": "Maintaining Personal Integrity",
+            "expansion": "Jotham did right in God's eyes despite surrounding cultural corruption."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal righteousness coexist with systemic societal moral decay?"
+      },
+      "moral_slider": {
+        "question": "To what extent can individual leadership transform collective spiritual direction?",
+        "left_label": "Individual Powerlessness",
+        "right_label": "Individual Transformative Potential"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership evolved?",
+        "options": [
+          "Leadership requires consistent personal integrity",
+          "Societal change happens incrementally",
+          "Spiritual leadership transcends political structures",
+          "Personal character matters more than visible achievements"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Generational Faithfulness",
+          "summary": "Jotham demonstrates continuity of faithful leadership by following his father's righteous example while avoiding his predecessor's specific mistakes. His commitment to God reflects the importance of learning from familial spiritual heritage while maintaining personal integrity.",
+          "cross_references": [
+            "Proverbs 22:6",
+            "Deuteronomy 6:4-9",
+            "Exodus 20:5-6",
+            "1 Kings 15:11-14"
+          ]
+        },
+        {
+          "title": "Leadership and Spiritual Accountability",
+          "summary": "Despite Jotham's personal righteousness, the broader population continued in spiritual corruption, illustrating the complex relationship between leadership's moral example and national spiritual condition. This highlights the challenges of systemic spiritual transformation.",
+          "cross_references": [
+            "Ezekiel 22:30",
+            "1 Corinthians 5:6-7",
+            "Matthew 5:13-16",
+            "2 Peter 2:7-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does individual righteousness interact with collective spiritual condition?",
+        "options": [
+          "Individual faithfulness can serve as a transformative catalyst for broader societal change",
+          "Systemic spiritual corruption may persist despite righteous leadership",
+          "Personal holiness is ultimately more significant than communal spiritual status",
+          "Leadership's moral example has limited power to reshape collective spiritual dynamics"
+        ]
+      }
+    }
+  }
+}

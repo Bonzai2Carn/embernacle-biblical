@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus personally reaching out to heal a limitation in your life. Breathe deeply and sense His compassionate touch.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when life's challenges seem unexplainable?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Blame circumstances or others",
+            "response": "Practice surrendering unknown situations to God's greater purpose"
+          },
+          {
+            "id": 2,
+            "text": "Get discouraged and withdraw",
+            "response": "Seek God's perspective and remain open to potential growth"
+          },
+          {
+            "id": 3,
+            "text": "Look for opportunities to learn and grow",
+            "response": "Journal about potential spiritual lessons in current challenges"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself being transformed by Jesus, showing what inner 'blindness' He might be healing in you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of suffering and God's purpose?",
+        "options": [
+          "Suffering isn't always a punishment",
+          "God can use difficult circumstances for revelation",
+          "Healing can happen in unexpected ways",
+          "Personal transformation matters more than external explanations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on suffering most resonates with you?",
+        "choices": [
+          {
+            "id": "divine_purpose",
+            "text": "Suffering can reveal God's greater work",
+            "expansion": "Pain is not always punishment, but potentially a canvas for divine demonstration"
+          },
+          {
+            "id": "spiritual_perception",
+            "text": "Spiritual blindness is more profound than physical limitation",
+            "expansion": "True vision transcends physical sight and involves spiritual understanding"
+          },
+          {
+            "id": "transformative_encounter",
+            "text": "Personal testimony can challenge religious systems",
+            "expansion": "Direct experience with divine intervention can disrupt established theological frameworks"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If healing and transformation are always possible, what paradigms in your life might need radical re-examination?"
+      },
+      "moral_slider": {
+        "question": "How do you perceive the relationship between personal suffering and divine intention?",
+        "left_label": "Random Misfortune",
+        "right_label": "Purposeful Design"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine intervention evolved?",
+        "options": [
+          "I see suffering differently now",
+          "My conception of 'healing' has expanded",
+          "I recognize more complexity in spiritual experiences",
+          "I'm more open to unexpected manifestations of grace"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Purpose in Suffering",
+          "summary": "Jesus reframes human suffering not as punishment, but as an opportunity for God's redemptive work. The blindness of this man is transformed from a perceived curse into a platform for demonstrating divine power and grace.",
+          "cross_references": [
+            "Romans 8:28",
+            "Job 1:8-12",
+            "2 Corinthians 12:9-10",
+            "Genesis 50:20"
+          ]
+        },
+        {
+          "title": "Spiritual Illumination vs. Physical Sight",
+          "summary": "The miraculous healing becomes a metaphorical journey from spiritual darkness to divine understanding. Jesus uses physical blindness to illustrate humanity's deeper spiritual blindness and the transformative power of recognizing Christ.",
+          "cross_references": [
+            "Ephesians 4:18",
+            "2 Corinthians 4:4",
+            "Acts 26:18",
+            "1 Peter 2:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret human suffering and divine intervention?",
+        "options": [
+          "Suffering is always a direct result of personal sin",
+          "God can use suffering as a means of revealing His glory and redemptive plan",
+          "Suffering is random and without theological significance",
+          "Divine healing is contingent solely on individual faith"
+        ]
+      }
+    }
+  }
+}

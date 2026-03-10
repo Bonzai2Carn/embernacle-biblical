@@ -1,0 +1,117 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on what truly satisfies your soul beyond material possessions.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Are you finding contentment in accumulation or genuine life experiences?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm focused on acquiring things",
+            "response": "Consider journaling about what brings real joy and meaning"
+          },
+          {
+            "id": 2,
+            "text": "I'm struggling to feel satisfied",
+            "response": "Spend time in prayer exploring your deeper spiritual needs"
+          },
+          {
+            "id": 3,
+            "text": "I want to rebalance my priorities",
+            "response": "Create a list of non-material goals for personal growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing the difference between having many possessions and having inner peace",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your view of success?",
+        "options": [
+          "Success is more than wealth",
+          "Inner contentment matters most",
+          "Material things are temporary",
+          "Spiritual fulfillment is key"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human limitation resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Material Wealth Cannot Guarantee Satisfaction",
+            "expansion": "External possessions do not necessarily translate to internal peace or contentment."
+          },
+          {
+            "id": 2,
+            "text": "Divine Providence is Mysterious",
+            "expansion": "God's allocation of blessing and limitation defies human rational explanation."
+          },
+          {
+            "id": 3,
+            "text": "Human Desires Exceed Mortal Capacity",
+            "expansion": "Our spiritual and emotional longings consistently transcend our temporal limitations."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If abundance does not guarantee fulfillment, what truly determines human satisfaction?"
+      },
+      "moral_slider": {
+        "question": "To what extent can one accept life's inherent unpredictability?",
+        "left_label": "Complete Uncertainty",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How might this passage transform your understanding of prosperity?",
+        "options": [
+          "Wealth is fundamentally spiritual, not material",
+          "External success does not equal internal peace",
+          "Contentment is a choice, not a circumstance",
+          "True richness transcends physical possessions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence and Human Limitations",
+          "summary": "God's sovereignty determines the enjoyment of material blessings. Wealth and prosperity do not guarantee personal satisfaction or fulfillment without divine blessing and contentment.",
+          "cross_references": [
+            "1 Timothy 6:17-19",
+            "Proverbs 22:2",
+            "James 1:17",
+            "Luke 12:15"
+          ]
+        },
+        {
+          "title": "Existential Emptiness and Spiritual Hunger",
+          "summary": "Human existence without spiritual meaning remains fundamentally unfulfilled, regardless of external achievements or accumulated resources. True satisfaction transcends material possessions and worldly accomplishments.",
+          "cross_references": [
+            "Ecclesiastes 2:11",
+            "Matthew 4:4",
+            "Psalm 107:9",
+            "John 6:35"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human desires and material prosperity?",
+        "options": [
+          "God controls ultimate outcomes regardless of human effort",
+          "Human free will determines blessing and satisfaction",
+          "Material prosperity reflects spiritual alignment",
+          "Contentment is independent of external circumstances"
+        ]
+      }
+    }
+  }
+}

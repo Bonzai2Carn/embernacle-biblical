@@ -1,0 +1,117 @@
+{
+  "book": "Malachi",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on God's enduring love, even when you feel undeserving. Breathe in His grace, breathe out your doubts.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I offering God my best, or just my leftovers?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I often give God my minimal effort",
+            "response": "Recommit to wholehearted worship and service"
+          },
+          {
+            "id": 2,
+            "text": "I struggle to see my daily tasks as worship",
+            "response": "Intentionally dedicate your work and daily activities to God"
+          },
+          {
+            "id": 3,
+            "text": "I want to honor God more authentically",
+            "response": "Create a specific plan to prioritize spiritual disciplines"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a sacrificial lamb representing your best offering to God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of worship?",
+        "options": [
+          "Worship is more than just Sunday attendance",
+          "God desires genuine heart commitment",
+          "My daily choices reflect my true worship",
+          "I need to examine the quality of my spiritual offerings"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual dynamic resonates most deeply in this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Unconditional Love",
+            "expansion": "God's love persists despite human spiritual indifference and ritualistic worship."
+          },
+          {
+            "id": 2,
+            "text": "Covenant Selectivity",
+            "expansion": "God's sovereign choice of relationship transcends human understanding of fairness."
+          },
+          {
+            "id": 3,
+            "text": "Prophetic Confrontation",
+            "expansion": "Divine communication exposes spiritual complacency and calls for genuine repentance."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's love is unconditional, why does He seem to distinguish between Jacob and Esau?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine sovereignty with human free will?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Predestination"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of divine relationship?",
+        "options": [
+          "I see God's love as more complex",
+          "I recognize my own spiritual complacency",
+          "I understand divine selection differently",
+          "I'm more aware of covenant responsibility"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereign Love",
+          "summary": "God's love is not determined by human understanding or merit, but by His sovereign choice. The contrast between Jacob and Esau demonstrates God's divine prerogative in election and covenant relationship.",
+          "cross_references": [
+            "Romans 9:10-13",
+            "Ephesians 1:4-5",
+            "John 15:16",
+            "Deuteronomy 7:7-8"
+          ]
+        },
+        {
+          "title": "Covenant Unfaithfulness",
+          "summary": "Israel's spiritual apathy and ritualistic worship reveal a profound disconnection from genuine relationship with God. Their superficial religious practices demonstrate a heart far from true devotion.",
+          "cross_references": [
+            "Isaiah 1:11-15",
+            "Amos 5:21-24",
+            "Matthew 15:8-9",
+            "1 Samuel 15:22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's sovereign love challenge traditional theological perspectives on divine selection?",
+        "options": [
+          "God's love is unconditional and not based on human worthiness",
+          "Divine election implies predetermined destiny",
+          "Covenant relationship transcends human genealogical expectations",
+          "Theological understanding requires humility about God's mysterious ways"
+        ]
+      }
+    }
+  }
+}

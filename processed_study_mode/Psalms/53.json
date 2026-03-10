@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 53,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently reflect on areas of personal integrity and where you might be turning away from God's truth",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might I be unconsciously participating in behaviors that compromise my spiritual integrity?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Examine my daily thoughts and motivations",
+            "response": "Spend 10 minutes journaling honest self-reflection"
+          },
+          {
+            "id": 2,
+            "text": "Consider my social influences and relationships",
+            "response": "Review friendships and media consumption for spiritual alignment"
+          },
+          {
+            "id": 3,
+            "text": "Assess my spiritual disciplines and commitment",
+            "response": "Create a intentional spiritual growth plan"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape where light represents God's truth gradually illuminating dark spaces of human foolishness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm challenged your understanding of human nature and divine perspective?",
+        "options": [
+          "Revealed human tendency toward self-deception",
+          "Highlighted importance of spiritual discernment",
+          "Reminded me of God's comprehensive understanding",
+          "Challenged my assumptions about personal righteousness"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human moral nature resonates most?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Humanity's inherent corruption",
+            "expansion": "The psalm suggests universal moral decay and separation from divine wisdom."
+          },
+          {
+            "id": "b",
+            "text": "Divine judgment of systemic wickedness",
+            "expansion": "God sees and evaluates collective human behavior beyond individual actions."
+          },
+          {
+            "id": "c",
+            "text": "Potential for redemptive transformation",
+            "expansion": "Even in widespread moral darkness, hope for spiritual renewal remains possible."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If everyone acts corruptly, as the psalm suggests, what gives you hope for genuine human goodness?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human moral failure with divine expectations?",
+        "left_label": "Total Human Depravity",
+        "right_label": "Inherent Human Potential"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of human nature evolved after reflecting on this psalm?",
+        "options": [
+          "More aware of systemic moral challenges",
+          "Increased compassion for human weakness",
+          "Recognized need for personal spiritual accountability",
+          "Deepened understanding of divine perspective"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Universal Human Depravity",
+          "summary": "This psalm reveals the profound spiritual corruption inherent in humanity's fallen nature. It depicts humanity's universal tendency towards moral and spiritual rebellion against God, emphasizing the complete spiritual bankruptcy of human beings without divine intervention.",
+          "cross_references": [
+            "Romans 3:10-12",
+            "Genesis 6:5",
+            "Jeremiah 17:9",
+            "Ephesians 2:1-3"
+          ]
+        },
+        {
+          "title": "Divine Judgment and Redemption",
+          "summary": "The psalm highlights God's perspective on human sinfulness and His ultimate redemptive plan. It demonstrates that despite human wickedness, God remains actively engaged with His people and will ultimately bring restoration and salvation.",
+          "cross_references": [
+            "Romans 5:8",
+            "1 John 4:10",
+            "Isaiah 59:20",
+            "Titus 2:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the psalm's depiction of human depravity challenge contemporary understanding of human nature?",
+        "options": [
+          "Humans are fundamentally good and capable of self-redemption",
+          "Human moral capacity is deeply compromised by sin",
+          "Individual actions determine spiritual standing",
+          "Divine grace transcends human limitations"
+        ]
+      }
+    }
+  }
+}

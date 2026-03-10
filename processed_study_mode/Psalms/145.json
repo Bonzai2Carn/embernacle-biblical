@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 145,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 20 seconds to silently praise God for His endless goodness, focusing on His majesty and compassion",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I more intentionally acknowledge God's greatness in my daily life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Start a daily gratitude journal highlighting God's attributes",
+            "response": "Document one way God demonstrated His character each day"
+          },
+          {
+            "id": 2,
+            "text": "Share God's goodness with someone who needs encouragement",
+            "response": "Prepare a testimony of God's faithfulness to share"
+          },
+          {
+            "id": 3,
+            "text": "Incorporate more praise into personal prayer time",
+            "response": "Spend first 5 minutes of prayer simply worshiping God's attributes"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of God's greatness using colors that represent His different qualities like love, mercy, and power",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed my understanding of God's nature?",
+        "options": [
+          "I see God as more compassionate",
+          "I recognize God's sovereignty more clearly",
+          "I feel more personally connected to God's character",
+          "I understand praise as a vital spiritual practice"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine attribute resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "God's Compassion",
+            "expansion": "The infinite tenderness of divine mercy transcends human understanding."
+          },
+          {
+            "id": "2",
+            "text": "God's Sovereignty",
+            "expansion": "The eternal reign of God encompasses all creation with purposeful governance."
+          },
+          {
+            "id": "3",
+            "text": "God's Faithfulness",
+            "expansion": "Divine commitment remains constant despite human frailty and inconsistency."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If praise is a continuous act of worship, what prevents us from experiencing divine presence in every moment?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine greatness with personal humility?",
+        "left_label": "Human Insignificance",
+        "right_label": "Divine Intimacy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship transformed?",
+        "options": [
+          "Deeper appreciation of divine complexity",
+          "Recognizing praise as a transformative practice",
+          "Understanding worship beyond ritualistic performance",
+          "Embracing vulnerability in spiritual connection"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Praise",
+          "summary": "This psalm celebrates God's eternal kingship and supreme authority over creation. It emphasizes the continuous praise and worship due to God's unending majesty and gracious nature.",
+          "cross_references": [
+            "Revelation 4:8-11",
+            "Isaiah 6:1-3",
+            "Colossians 1:15-20",
+            "Philippians 2:9-11"
+          ]
+        },
+        {
+          "title": "God's Compassionate Character",
+          "summary": "David highlights God's profound compassion, mercy, and tender care for all His created beings. The psalm underscores God's righteous nature and His commitment to sustaining and supporting all life.",
+          "cross_references": [
+            "Exodus 34:6-7",
+            "James 5:11",
+            "1 Peter 5:7",
+            "Romans 8:28"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 145 challenge contemporary understandings of divine interaction with humanity?",
+        "options": [
+          "God's sovereignty coexists with personal relationship",
+          "Divine mercy transcends human transactional expectations",
+          "Worship is a continuous state, not merely an event",
+          "God's character remains constant despite human circumstances"
+        ]
+      }
+    }
+  }
+}

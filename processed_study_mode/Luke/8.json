@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize Jesus calming the storm, breathing deeply and remembering His power is greater than any chaos in your life",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when unexpected challenges threaten to overwhelm you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I panic and try to control everything",
+            "response": "Practice surrendering your fears to God through prayer"
+          },
+          {
+            "id": 2,
+            "text": "I shut down and become passive",
+            "response": "Develop a faith-based strategy, remembering God's promises"
+          },
+          {
+            "id": 3,
+            "text": "I seek wise counsel and remain calm",
+            "response": "Continue building spiritual resilience through scripture and community"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing the parable of the sower, showing different types of soil and how seeds grow (or don't grow)",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of faith?",
+        "options": [
+          "Jesus' power is more comprehensive than I realized",
+          "My spiritual receptiveness matters more than I thought",
+          "Challenges are opportunities for deeper trust",
+          "Personal transformation requires intentional cultivation"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which parable or teaching in Luke 8 resonates most deeply with your spiritual journey?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Parable of the Sower",
+            "expansion": "Understanding one's spiritual receptivity as varying ground conditions for divine truth."
+          },
+          {
+            "id": 2,
+            "text": "Jesus Calming the Storm",
+            "expansion": "Recognizing divine peace and authority amidst life's chaotic circumstances."
+          },
+          {
+            "id": 3,
+            "text": "Healing the Demon-Possessed Man",
+            "expansion": "Exploring the transformative power of spiritual liberation and restoration."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual receptivity is like soil, what subtle barriers might prevent your heart from fully embracing transformative truth?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal faith with rational understanding?",
+        "left_label": "Intellectual Skepticism",
+        "right_label": "Pure Spiritual Trust"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual growth shifted after reflecting on Luke 8?",
+        "options": [
+          "More aware of inner spiritual barriers",
+          "Recognize divine power beyond human limitations",
+          "Understand faith as an active, dynamic process",
+          "Appreciate spiritual transformation as gradual"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Authority in Teaching and Miracles",
+          "summary": "Jesus demonstrates comprehensive spiritual authority through His teaching and miraculous interventions. His power transcends natural limitations, revealing divine sovereignty in healing, casting out demons, and controlling natural elements.",
+          "cross_references": [
+            "Mark 4:35-41",
+            "Matthew 8:23-27",
+            "John 1:14",
+            "Colossians 1:16-17"
+          ]
+        },
+        {
+          "title": "Spiritual Receptivity and Understanding",
+          "summary": "The Parable of the Sower illustrates varying human responses to divine revelation, emphasizing spiritual readiness and depth of heart in receiving God's word. Different soil conditions represent diverse spiritual conditions and potential for spiritual growth.",
+          "cross_references": [
+            "Matthew 13:1-23",
+            "Mark 4:1-20",
+            "1 Corinthians 3:6-7",
+            "James 1:21-22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual receptivity impact divine revelation and transformation?",
+        "options": [
+          "Personal heart condition determines spiritual understanding",
+          "Divine grace transcends human limitations",
+          "Intentional spiritual cultivation enables deeper revelation",
+          "Persistent faith overcomes spiritual obstacles"
+        ]
+      }
+    }
+  }
+}

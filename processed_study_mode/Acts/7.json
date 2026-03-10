@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine stepping out in faith like Abraham, leaving behind the familiar for an unknown divine calling",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I responding to God's unexpected directions in my life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm resistant and hesitant",
+            "response": "Spend time in prayer asking God for courage and clarity"
+          },
+          {
+            "id": 2,
+            "text": "I'm curious but uncertain",
+            "response": "Journal about your fears and potential next steps of faith"
+          },
+          {
+            "id": 3,
+            "text": "I'm ready to trust completely",
+            "response": "Make a specific commitment to follow God's leading this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing a journey from a familiar place to an unknown destination, representing spiritual courage",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Stephen's historical testimony changed my understanding of God's faithfulness?",
+        "options": [
+          "I see God's long-term plan more clearly",
+          "I understand biblical history better",
+          "I'm more aware of God's patience with humanity",
+          "I feel challenged to be more courageous in my faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Stephen's historical recounting most resonates with spiritual transformation?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's sovereign guidance through generations",
+            "expansion": "Divine providence operates beyond individual human understanding or timelines."
+          },
+          {
+            "id": 2,
+            "text": "Repeated patterns of rejection faced by prophetic voices",
+            "expansion": "Spiritual truth often confronts established power structures, inviting resistance."
+          },
+          {
+            "id": 3,
+            "text": "The journey of faith as continuous displacement and trust",
+            "expansion": "Authentic spiritual growth requires leaving familiar comfort zones."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might Stephen's comprehensive historical narrative challenge our tendency to understand faith through narrow, personal perspectives?"
+      },
+      "moral_slider": {
+        "question": "Where do you perceive the tension between institutional religious tradition and prophetic spiritual revelation?",
+        "left_label": "Tradition",
+        "right_label": "Prophetic Insight"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual calling shifted after hearing Stephen's speech?",
+        "options": [
+          "More aware of historical continuity in faith",
+          "Recognize the courage required in speaking uncomfortable truths",
+          "Understand faith as a dynamic, evolving journey",
+          "Appreciate the interconnectedness of God's redemptive plan"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Historical Narrative",
+          "summary": "Stephen's sermon demonstrates God's sovereign guidance throughout Israel's history, showing how divine purpose transcends human limitations. The narrative reveals God's consistent intervention and covenant faithfulness across generations.",
+          "cross_references": [
+            "Romans 8:28",
+            "Hebrews 11:8-10",
+            "Genesis 12:1-3",
+            "Galatians 3:29"
+          ]
+        },
+        {
+          "title": "Prophetic Rejection and Spiritual Resistance",
+          "summary": "Stephen highlights the recurring pattern of God's chosen messengers being rejected by their own people, illustrating humanity's persistent tendency to resist divine instruction. This theme underscores the spiritual conflict between divine revelation and human rebellion.",
+          "cross_references": [
+            "Matthew 23:37",
+            "1 Thessalonians 2:15-16",
+            "Jeremiah 7:25-26",
+            "John 15:18-20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Stephen's historical review challenge traditional understandings of Israel's spiritual heritage?",
+        "options": [
+          "Reveals systemic spiritual blindness despite religious knowledge",
+          "Demonstrates continuity of God's redemptive plan beyond institutional religion",
+          "Exposes generational patterns of prophetic rejection",
+          "Highlights individual faithfulness over collective religious performance"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 9,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine God's covenant promise of restoration and hope after the flood, symbolized by the rainbow.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I honor God's trust in humanity's stewardship of creation?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Care more intentionally for the environment",
+            "response": "Start a recycling routine or plant something green this week"
+          },
+          {
+            "id": 2,
+            "text": "Respect the sanctity of life in all its forms",
+            "response": "Practice compassion and non-violence in daily interactions"
+          },
+          {
+            "id": 3,
+            "text": "Recognize human responsibility to God's creation",
+            "response": "Learn about sustainable living practices"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a rainbow with symbols representing God's promises and human potential for renewal",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Genesis 9 shifted your understanding of God's relationship with humanity?",
+        "options": [
+          "God values restoration over destruction",
+          "Humanity is entrusted with significant responsibility",
+          "Divine promises transcend human failures",
+          "Life is sacred and interconnected"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine mandate in this chapter resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Sanctity of Life",
+            "expansion": "The prohibition against bloodshed suggests a fundamental respect for living beings."
+          },
+          {
+            "id": "2",
+            "text": "Divine Covenant Promise",
+            "expansion": "God's rainbow covenant represents a transformative commitment to humanity's continued existence."
+          },
+          {
+            "id": "3",
+            "text": "Humanity's Dominion",
+            "expansion": "Humans are granted stewardship over creation with both responsibility and vulnerability."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine mercy permits human survival after profound judgment, what does this reveal about the nature of grace?"
+      },
+      "moral_slider": {
+        "question": "How do you understand the balance between divine judgment and divine mercy?",
+        "left_label": "Strict Justice",
+        "right_label": "Compassionate Redemption"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine-human relationship shifted?",
+        "options": [
+          "More aware of human fragility",
+          "Recognize deeper divine complexity",
+          "See covenant as ongoing dialogue",
+          "Understand judgment as potential renewal"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Covenant and Renewal",
+          "summary": "God establishes a new covenant with Noah after the flood, symbolizing divine mercy and humanity's fresh start. This covenant represents God's commitment to preserve life and provide redemptive opportunities for humanity.",
+          "cross_references": [
+            "Isaiah 54:9-10",
+            "Romans 8:22-23",
+            "2 Peter 3:6-7",
+            "Hebrews 11:7"
+          ]
+        },
+        {
+          "title": "Sanctity of Human Life",
+          "summary": "God introduces fundamental principles regarding human life, establishing prohibitions against murder and providing guidelines for human-animal relationships. These principles underscore the divine valuation of human life as sacred.",
+          "cross_references": [
+            "Genesis 1:27",
+            "Acts 17:26",
+            "James 3:9",
+            "Exodus 20:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's covenant with Noah reflect broader theological perspectives on divine redemption and human responsibility?",
+        "options": [
+          "God's mercy transcends human failures",
+          "Humanity is entrusted with stewardship of creation",
+          "Divine judgment coexists with divine grace",
+          "Covenantal relationships require ongoing human faithfulness"
+        ]
+      }
+    }
+  }
+}

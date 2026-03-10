@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize a moment when you felt deeply misunderstood or unfairly judged, then breathe through those emotions with grace",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "When have you experienced unexpected rejection or mockery from those you once considered beneath you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Professional setback",
+            "response": "Practice humility and learn from unexpected critiques"
+          },
+          {
+            "id": 2,
+            "text": "Personal relationship breakdown",
+            "response": "Examine your own pride and potential blind spots"
+          },
+          {
+            "id": 3,
+            "text": "Social status change",
+            "response": "Develop empathy for those experiencing marginal circumstances"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape that represents emotional desolation, using only shades of gray and brown",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of suffering and social dynamics?",
+        "options": [
+          "Suffering is not always a direct result of personal fault",
+          "Social status can change rapidly",
+          "Empathy matters more than judgment",
+          "Personal resilience comes through humility"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about social degradation and loss of status?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Vulnerability of human reputation",
+            "expansion": "Social standing can collapse rapidly, revealing human fragility."
+          },
+          {
+            "id": 2,
+            "text": "Cyclical nature of human suffering",
+            "expansion": "Those who once looked down on others may eventually experience similar marginalization."
+          },
+          {
+            "id": 3,
+            "text": "Desperation of societal outcasts",
+            "expansion": "Survival at the margins reveals profound human resilience and dignity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When you've experienced profound loss, how do external judgments transform your understanding of personal worth?"
+      },
+      "moral_slider": {
+        "question": "How do social hierarchies reflect (or distort) inherent human dignity?",
+        "left_label": "Social Stratification",
+        "right_label": "Universal Equality"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your perception of social status?",
+        "options": [
+          "Recognized human vulnerability",
+          "Understood systemic marginalization",
+          "Questioned my previous judgments",
+          "Developed deeper empathy"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Social Reversal and Suffering",
+          "summary": "Job experiences a profound social descent, where those he previously considered beneath him now mock and marginalize him. This dramatic transformation highlights the fragility of human status and social standing in the face of unexpected adversity.",
+          "cross_references": [
+            "Proverbs 22:2",
+            "1 Samuel 2:7-8",
+            "Luke 16:25",
+            "James 2:5-6"
+          ]
+        },
+        {
+          "title": "Humiliation and Divine Testing",
+          "summary": "Job's narrative reveals the intense psychological and social suffering accompanying his physical torment. His experience demonstrates how divine testing can strip away social dignity and expose one's vulnerability.",
+          "cross_references": [
+            "2 Corinthians 12:9-10",
+            "1 Peter 1:6-7",
+            "Daniel 3:17-18",
+            "Romans 5:3-5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's experience challenge traditional theological perspectives on suffering and social status?",
+        "options": [
+          "Suffering is not necessarily a direct punishment for personal sin",
+          "Divine testing can occur independently of moral performance",
+          "Social standing is temporary and ultimately meaningless in spiritual contexts",
+          "Godly individuals are not immune to profound personal and social challenges"
+        ]
+      }
+    }
+  }
+}

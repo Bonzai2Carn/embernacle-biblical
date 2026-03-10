@@ -1,0 +1,117 @@
+{
+  "book": "1 Peter",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize yourself as a 'living stone' being carefully placed into God's spiritual building, connected to Christ as the cornerstone",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I grow in spiritual maturity and shed attitudes that prevent my growth?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Remove negative attitudes like envy and deceit",
+            "response": "Create a daily prayer asking God to reveal and help remove these attitudes"
+          },
+          {
+            "id": 2,
+            "text": "Seek pure spiritual nourishment",
+            "response": "Commit to daily scripture reading and intentional spiritual learning"
+          },
+          {
+            "id": 3,
+            "text": "Understand my identity as God's chosen vessel",
+            "response": "Journal about your unique role in God's spiritual house"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a blueprint of a building where each stone represents a person connected to Jesus, showing how they fit together uniquely",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter reshaped your understanding of spiritual growth?",
+        "options": [
+          "I see myself as part of a larger spiritual community",
+          "Growth requires intentional removal of negative attitudes",
+          "My identity is defined by God's selection, not human rejection",
+          "Spiritual maturity is an active, ongoing process"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual growth metaphor resonates most with you?",
+        "choices": [
+          {
+            "id": "newborn",
+            "text": "Newborn desiring pure spiritual milk",
+            "expansion": "Spiritual growth requires intentional, humble nourishment and openness to learning."
+          },
+          {
+            "id": "living_stones",
+            "text": "Living stones being built into a spiritual house",
+            "expansion": "Individual believers are interconnected, forming a collective spiritual structure through Christ."
+          },
+          {
+            "id": "holy_priesthood",
+            "text": "Holy priesthood offering spiritual sacrifices",
+            "expansion": "Every believer has a sacred responsibility to serve and represent God's transformative purposes."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If spiritual growth is like metabolizing 'pure milk', what impurities might be preventing your personal transformation?"
+      },
+      "moral_slider": {
+        "question": "How do you balance personal spiritual development with communal spiritual responsibility?",
+        "left_label": "Individual Spiritual Journey",
+        "right_label": "Collective Spiritual Mission"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual identity shifted?",
+        "options": [
+          "I see myself more as part of a larger spiritual community",
+          "My personal growth feels more intentional and purposeful",
+          "I understand my role in God's redemptive narrative differently",
+          "I'm more aware of spiritual 'nutrition' and growth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Growth and Transformation",
+          "summary": "Believers are called to intentional spiritual development through pure scriptural nourishment. The transformative process involves continually removing sinful attitudes and embracing spiritual maturity through Christ's grace.",
+          "cross_references": [
+            "Ephesians 4:22-24",
+            "2 Corinthians 5:17",
+            "Romans 12:2",
+            "Galatians 2:20"
+          ]
+        },
+        {
+          "title": "Living Stones in God's Spiritual House",
+          "summary": "Christians are metaphorically described as living stones being constructed into a spiritual temple, with Christ as the cornerstone. This imagery emphasizes corporate spiritual identity and collective purpose in God's redemptive plan.",
+          "cross_references": [
+            "Ephesians 2:19-22",
+            "1 Corinthians 3:16",
+            "Isaiah 28:16",
+            "Psalm 118:22"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand their spiritual identity and purpose within God's redemptive framework?",
+        "options": [
+          "As passive recipients of grace",
+          "As active participants in spiritual construction",
+          "As independent spiritual entities",
+          "As interconnected members of Christ's body"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Esther",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize a moment of unexpected reversal - where what was meant for harm is transformed into good",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I transform a challenging situation in my life from potential harm to unexpected blessing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Seek wise counsel",
+            "response": "Identify someone trusted who can offer perspective and guidance"
+          },
+          {
+            "id": "b",
+            "text": "Pray for divine intervention",
+            "response": "Spend time in prayer asking for God's strategic redirection"
+          },
+          {
+            "id": "c",
+            "text": "Stay courageous and persistent",
+            "response": "Continue taking positive steps even when circumstances seem difficult"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing something dark being transformed into something beautiful and hopeful",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of God's providence?",
+        "options": [
+          "God can turn situations around unexpectedly",
+          "Faithfulness matters more than circumstances",
+          "Divine timing is perfect",
+          "Courage can change entire community outcomes"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which reversal of fortune most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Mordecai's elevation from exile to royal advisor",
+            "expansion": "Divine intervention can transform personal circumstances overnight."
+          },
+          {
+            "id": 2,
+            "text": "The Jews' sudden shift from threatened to protected",
+            "expansion": "Systemic oppression can be dismantled through courageous advocacy."
+          },
+          {
+            "id": 3,
+            "text": "Esther's continued diplomatic courage",
+            "expansion": "True leadership persists beyond initial victories."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might personal relationships intersect with systemic justice, and when does individual action become transformative?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between seeking personal safety and collective liberation?",
+        "left_label": "Individual Survival",
+        "right_label": "Community Preservation"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on advocacy and intervention shifted?",
+        "options": [
+          "I now see power structures as more malleable",
+          "Personal courage can create systemic change",
+          "Relationships are critical in navigating complex conflicts",
+          "Divine providence works through human agency"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Reversal and Redemption",
+          "summary": "God orchestrates a complete reversal of fortune for His people, transforming potential destruction into preservation and honor. The chapter demonstrates how divine providence can dramatically shift seemingly hopeless circumstances.",
+          "cross_references": [
+            "Genesis 50:20",
+            "Romans 8:28",
+            "Isaiah 54:17",
+            "Psalm 124:2-3"
+          ]
+        },
+        {
+          "title": "Restoration of Authority",
+          "summary": "Mordecai's elevation from potential victim to second-in-command represents God's ability to restore and promote those who remain faithful. This narrative highlights how divine intervention can completely reshape individual destinies.",
+          "cross_references": [
+            "1 Samuel 2:8",
+            "Daniel 2:48",
+            "Luke 1:52",
+            "Job 5:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's sovereign intervention manifest in seemingly impossible situations?",
+        "options": [
+          "Through unexpected human agents",
+          "By reversing intended evil plans",
+          "By elevating faithful individuals",
+          "Through miraculous direct intervention"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 37,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and silently affirm: 'Trust in the Lord and do good'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where are you currently experiencing anxiety about your circumstances?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Work challenges",
+            "response": "Practice surrendering your worries to God through prayer"
+          },
+          {
+            "id": 2,
+            "text": "Financial uncertainty",
+            "response": "List three ways God has provided for you in the past"
+          },
+          {
+            "id": 3,
+            "text": "Relational conflict",
+            "response": "Choose patience and trust God's timing for resolution"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with obstacles, but mark safe zones representing God's protection and guidance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm shifted your perspective on waiting and trusting?",
+        "options": [
+          "I feel more peaceful about uncertain situations",
+          "I recognize God's sovereignty more clearly",
+          "I'm less focused on comparing myself to others",
+          "I understand the importance of patient faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core spiritual truth resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Trust in God's ultimate justice",
+            "expansion": "Believing that righteousness will ultimately triumph over wickedness, even when current circumstances seem challenging."
+          },
+          {
+            "id": 2,
+            "text": "Patient waiting as a spiritual discipline",
+            "expansion": "Understanding that spiritual growth requires restraint, humility, and trust in divine timing."
+          },
+          {
+            "id": 3,
+            "text": "Inner peace through spiritual alignment",
+            "expansion": "Finding tranquility by surrendering personal anxieties and aligning one's heart with divine principles."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If true justice is guaranteed by divine intervention, how does this understanding transform your approach to personal conflicts and perceived injustices?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human agency with divine providence?",
+        "left_label": "Personal Effort",
+        "right_label": "Divine Intervention"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on patience and spiritual resilience evolved?",
+        "options": [
+          "I now see waiting as strength, not weakness",
+          "I understand that righteousness isn't about immediate results",
+          "I recognize the futility of anger and revenge",
+          "I'm more attuned to long-term spiritual growth"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Trust in Divine Providence",
+          "summary": "This psalm emphasizes trusting God's ultimate justice and timing, even when wicked people seem to prosper temporarily. It encourages believers to remain faithful and patient, knowing that God will ultimately vindicate the righteous.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "Romans 12:19",
+            "James 1:2-4",
+            "Matthew 5:5"
+          ]
+        },
+        {
+          "title": "Righteousness and Inheritance",
+          "summary": "The psalm reveals God's promise of inheritance and blessing for those who remain committed to His path. It contrasts the temporary success of the wicked with the enduring reward of the godly.",
+          "cross_references": [
+            "Matthew 5:44",
+            "Galatians 6:7-8",
+            "1 Peter 3:9",
+            "Hebrews 12:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine justice intersect with human patience and faithfulness?",
+        "options": [
+          "God's timing is always perfect, even when it's not immediately apparent",
+          "Righteousness requires active waiting and trust, not passive resignation",
+          "Spiritual inheritance is secured through consistent faith, not circumstantial success",
+          "Moral character matters more than temporary worldly outcomes"
+        ]
+      }
+    }
+  }
+}

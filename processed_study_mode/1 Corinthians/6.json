@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize resolving conflicts within your faith community through grace and wisdom, not legal battles",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do I currently handle disputes with fellow believers?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Immediately seek legal resolution",
+            "response": "Pray about reconciliation and seek church mediation first"
+          },
+          {
+            "id": 2,
+            "text": "Ignore the conflict",
+            "response": "Engage directly with biblical principles of forgiveness and restoration"
+          },
+          {
+            "id": 3,
+            "text": "Gossip about the issue",
+            "response": "Speak directly to the person with love and seek understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a bridge connecting two people in conflict, with scripture verses of reconciliation written on the bridge",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of conflict resolution?",
+        "options": [
+          "I see conflict as an opportunity for spiritual growth",
+          "I recognize the importance of handling disputes within the faith community",
+          "I understand that legal battles can damage Christian witness",
+          "I'm more aware of seeking wisdom and grace in disagreements"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual principle resonates most powerfully in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Christians should resolve conflicts internally",
+            "expansion": "The church community has the spiritual maturity to mediate disputes more effectively than secular courts."
+          },
+          {
+            "id": 2,
+            "text": "Our bodies are temples of the Holy Spirit",
+            "expansion": "Personal holiness and bodily integrity are profound spiritual responsibilities."
+          },
+          {
+            "id": 3,
+            "text": "Believers will ultimately judge spiritual realms",
+            "expansion": "Our current spiritual development prepares us for cosmic judicial responsibilities."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If Christians are called to judge spiritual matters, what qualifies us beyond our own imperfections?"
+      },
+      "moral_slider": {
+        "question": "How do personal freedom and spiritual accountability balance?",
+        "left_label": "Individual Liberty",
+        "right_label": "Communal Accountability"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community and personal conduct shifted?",
+        "options": [
+          "More aware of spiritual responsibility",
+          "Recognize deeper interconnectedness",
+          "Value internal conflict resolution",
+          "Understand bodily holiness differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Conflict Resolution",
+          "summary": "Paul challenges believers to resolve internal disputes within the church community rather than seeking secular legal judgments. This demonstrates the spiritual maturity and unity expected among Christians.",
+          "cross_references": [
+            "Matthew 18:15-17",
+            "Romans 12:18",
+            "Galatians 6:1",
+            "James 4:1-2"
+          ]
+        },
+        {
+          "title": "Spiritual Authority and Judgment",
+          "summary": "Christians are called to exercise spiritual discernment and judgment within the community of believers, recognizing their future role in divine judgment. This implies a higher spiritual responsibility and accountability.",
+          "cross_references": [
+            "Daniel 7:22",
+            "Matthew 19:28",
+            "Revelation 20:4",
+            "2 Corinthians 6:2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers approach internal conflicts and legal disputes?",
+        "options": [
+          "Prioritize reconciliation within the church community",
+          "Seek external legal resolution as a first option",
+          "Mediate conflicts through spiritually mature church leadership",
+          "Avoid confrontation and ignore interpersonal challenges"
+        ]
+      }
+    }
+  }
+}

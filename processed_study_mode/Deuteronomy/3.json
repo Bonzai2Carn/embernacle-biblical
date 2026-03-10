@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Visualize God saying 'Do not fear' and feel His reassurance of victory in challenging situations.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing seemingly insurmountable challenges in your life?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I get anxious and overwhelmed",
+            "response": "Practice trusting God's promises and remembering past victories"
+          },
+          {
+            "id": "B",
+            "text": "I try to handle everything alone",
+            "response": "Seek God's guidance and strength before acting"
+          },
+          {
+            "id": "C",
+            "text": "I look for God's guidance first",
+            "response": "Continue cultivating a posture of faith and listening"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself standing confidently with God's hand of protection over you, representing triumph over challenges",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of God's role in your personal battles?",
+        "options": [
+          "God is always present in my struggles",
+          "Victory comes through faith, not just personal strength",
+          "God prepares the way before I even act",
+          "Challenges are opportunities for spiritual growth"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine intervention most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's direct assurance of victory",
+            "expansion": "Divine promise transforms human fear into courageous action."
+          },
+          {
+            "id": 2,
+            "text": "Complete deliverance of enemies",
+            "expansion": "Theological understanding of comprehensive redemption through divine power."
+          },
+          {
+            "id": 3,
+            "text": "Strategic military guidance",
+            "expansion": "Providence manifests through practical, tactical spiritual leadership."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do you reconcile the apparent contradiction between divine love and the seemingly violent conquest narratives?"
+      },
+      "moral_slider": {
+        "question": "To what extent does divine mandate justify military action?",
+        "left_label": "Pacifism",
+        "right_label": "Righteous Warfare"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine intervention evolved?",
+        "options": [
+          "More nuanced view of biblical narrative",
+          "Greater appreciation for historical context",
+          "Deeper understanding of spiritual warfare",
+          "Increased complexity in theological interpretation"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Conquest and Promises",
+          "summary": "God demonstrates His sovereign power by delivering enemy kings into Israel's hands. The conquest of Og and Sihon represents divine promise fulfillment and Israel's obedient military action.",
+          "cross_references": [
+            "Joshua 24:8",
+            "Psalm 136:19-20",
+            "Numbers 21:21-35",
+            "Amos 2:9-10"
+          ]
+        },
+        {
+          "title": "Territorial Inheritance",
+          "summary": "God orchestrates territorial allocation as part of His covenant promise to Israel. The lands east of the Jordan represent an initial fulfillment of generational promises made to Abraham.",
+          "cross_references": [
+            "Genesis 15:18-21",
+            "Numbers 32:1-5",
+            "Deuteronomy 1:8",
+            "Joshua 13:8-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's intervention in military conquest reflect His relationship with Israel?",
+        "options": [
+          "God directly participates in fulfilling covenant promises",
+          "Military success demonstrates divine election and favor",
+          "Conquests represent judgement against pagan nations",
+          "Israel's obedience determines divine intervention"
+        ]
+      }
+    }
+  }
+}

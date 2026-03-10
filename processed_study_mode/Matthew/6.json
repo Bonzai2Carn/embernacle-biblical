@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine giving anonymously, with no desire for human recognition or praise",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How often do I perform good deeds seeking public acknowledgment?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Always seek recognition",
+            "response": "Practice secret giving this week"
+          },
+          {
+            "id": 2,
+            "text": "Sometimes want credit",
+            "response": "Give at least one gift anonymously"
+          },
+          {
+            "id": 3,
+            "text": "Never seek attention",
+            "response": "Continue cultivating humble service"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself doing a kind act where no one else can see you",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has my understanding of genuine generosity changed?",
+        "options": [
+          "I now value internal motivation over external praise",
+          "I recognize the spiritual importance of humility",
+          "I want to practice more secret, selfless giving",
+          "I understand God sees my heart's true intentions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual authenticity resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Private devotion over public performance",
+            "expansion": "True spiritual growth happens in intimate moments unseen by others."
+          },
+          {
+            "id": 2,
+            "text": "Humility in charitable acts",
+            "expansion": "Genuine giving seeks no recognition or personal acclaim."
+          },
+          {
+            "id": 3,
+            "text": "Inner transformation versus external validation",
+            "expansion": "The heart's true motivation matters more than societal perception."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If no one would ever know about your good deeds, would you still perform them with the same passion?"
+      },
+      "moral_slider": {
+        "question": "Where do you balance personal spiritual integrity with communal recognition?",
+        "left_label": "Complete Anonymity",
+        "right_label": "Community Acknowledgment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual authenticity evolved?",
+        "options": [
+          "I now value internal motivation more",
+          "Public recognition seems less important",
+          "Genuine compassion transcends visibility",
+          "Spiritual growth is a deeply personal journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Authentic Spirituality",
+          "summary": "True spiritual practice is about internal motivation and genuine devotion, not public performance. External religious displays often reveal a heart seeking human validation rather than divine approval.",
+          "cross_references": [
+            "1 Samuel 16:7",
+            "Proverbs 21:2",
+            "1 Corinthians 4:5",
+            "Jeremiah 17:10"
+          ]
+        },
+        {
+          "title": "Spiritual Integrity",
+          "summary": "Genuine worship and charitable acts are intrinsically motivated by love for God and compassion for others, not by seeking social recognition or personal acclaim. True righteousness emerges from a sincere heart.",
+          "cross_references": [
+            "Micah 6:8",
+            "James 1:27",
+            "Romans 12:10",
+            "Galatians 1:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal motivation transform the spiritual significance of religious practices?",
+        "options": [
+          "External actions are less important than internal heart condition",
+          "Divine recognition supersedes human acknowledgment",
+          "Spiritual authenticity requires consistent private and public alignment",
+          "Motivation determines the spiritual value of religious deeds"
+        ]
+      }
+    }
+  }
+}

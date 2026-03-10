@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently ask God to guide your paths, just as David seeks divine direction in this psalm",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "In what areas of your life do you need God's guidance and trust?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Personal Decision Making",
+            "response": "Spend time in prayer, surrendering specific choices to God's wisdom"
+          },
+          {
+            "id": 2,
+            "text": "Career/Life Direction",
+            "response": "Create a journal entry listing areas where you seek clearer spiritual guidance"
+          },
+          {
+            "id": 3,
+            "text": "Relational Challenges",
+            "response": "Pray for humility and God's perspective in difficult relationships"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with twists and turns, then mark points where God's guidance helps navigate life's complexities",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 25 shifted your understanding of trust and guidance?",
+        "options": [
+          "I see trust as more active than passive",
+          "I recognize my need for divine direction more clearly",
+          "I feel more open to God's correction",
+          "I understand humility differently now"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theme resonates most deeply in this psalm?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Divine Guidance",
+            "expansion": "The psalmist's profound trust in God's directional wisdom for life's complex pathways."
+          },
+          {
+            "id": "b",
+            "text": "Humble Confession",
+            "expansion": "A vulnerable acknowledgment of personal sin and need for divine mercy."
+          },
+          {
+            "id": "c",
+            "text": "Expectant Hope",
+            "expansion": "Unwavering confidence in God's redemptive plan despite current challenges."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God's paths are always loving and true, why do we often experience confusion and uncertainty?"
+      },
+      "moral_slider": {
+        "question": "How do personal guilt and divine grace intersect?",
+        "left_label": "Personal Shame",
+        "right_label": "Unconditional Mercy"
+      },
+      "reevaluation": {
+        "question": "How might this psalm transform your understanding of spiritual vulnerability?",
+        "options": [
+          "Recognizing weakness as strength",
+          "Understanding suffering differently",
+          "Embracing divine guidance more openly",
+          "Seeing confession as a path to healing"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Guidance and Humility",
+          "summary": "David seeks God's guidance and instruction through profound humility and acknowledgment of human weakness. He recognizes that true wisdom and direction come exclusively from God's path and understanding.",
+          "cross_references": [
+            "Proverbs 3:5-6",
+            "James 1:5",
+            "Isaiah 30:21",
+            "Psalm 32:8"
+          ]
+        },
+        {
+          "title": "Redemption and Mercy",
+          "summary": "The psalm explores God's redemptive nature and abundant mercy towards those who genuinely seek Him. David emphasizes personal and collective spiritual restoration through divine compassion.",
+          "cross_references": [
+            "Ephesians 2:4-5",
+            "Psalm 86:5",
+            "1 John 1:9",
+            "Romans 8:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does personal vulnerability intersect with divine guidance in spiritual transformation?",
+        "options": [
+          "Acknowledging personal limitations opens pathways for divine intervention",
+          "Spiritual maturity requires complete self-sufficiency",
+          "Humble transparency enables deeper spiritual understanding",
+          "Divine guidance is predetermined, independent of human response"
+        ]
+      }
+    }
+  }
+}

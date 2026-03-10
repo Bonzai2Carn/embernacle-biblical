@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 28,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize searching deep underground, representing the human quest for wisdom beyond material treasures",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "Where do you currently seek true understanding in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "External achievements",
+            "response": "Pause and consider what internal wisdom might be more valuable"
+          },
+          {
+            "id": 2,
+            "text": "Personal relationships",
+            "response": "Reflect on listening more deeply to others' experiences"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual/Divine sources",
+            "response": "Spend time in quiet meditation or prayer seeking deeper insights"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map of your personal 'wisdom journey', showing places where you've discovered profound understanding",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 28 shifted your understanding of wisdom?",
+        "options": [
+          "Wisdom is more valuable than material wealth",
+          "True understanding comes from reverence for God",
+          "Human exploration has limits in comprehending deep truths",
+          "Wisdom cannot be manufactured, only discovered"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What profound insight strikes you about human endeavor and wisdom?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Human technological mastery",
+            "expansion": "Humans can penetrate darkness, extract hidden resources, and transform raw materials through ingenuity."
+          },
+          {
+            "id": "B",
+            "text": "Limits of human knowledge",
+            "expansion": "Despite incredible capabilities, true wisdom remains elusive and transcendent beyond human comprehension."
+          },
+          {
+            "id": "C",
+            "text": "Hidden mysteries of creation",
+            "expansion": "The earth contains profound secrets that humans can partially uncover but never fully understand."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If humans can mine the deepest earth and transform raw materials, why do we struggle to understand life's fundamental spiritual mysteries?"
+      },
+      "moral_slider": {
+        "question": "How do human technological achievements relate to spiritual wisdom?",
+        "left_label": "Technical Capability",
+        "right_label": "Spiritual Understanding"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of human knowledge?",
+        "options": [
+          "I see human capabilities as more limited",
+          "I'm more aware of wisdom beyond technical skills",
+          "I recognize the profound complexity of creation",
+          "I'm humbled by the mysteries surrounding human understanding"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Wisdom Beyond Human Discovery",
+          "summary": "Humanity's technological prowess in mining and exploration demonstrates incredible resourcefulness, yet ultimate wisdom remains elusive. Despite sophisticated capabilities to extract precious resources from the earth, true understanding of divine wisdom transcends human comprehension.",
+          "cross_references": [
+            "Proverbs 2:6",
+            "James 1:5",
+            "1 Corinthians 2:16",
+            "Ecclesiastes 7:23-24"
+          ]
+        },
+        {
+          "title": "The Incomparable Value of Wisdom",
+          "summary": "Job recognizes that spiritual wisdom cannot be purchased, mined, or extracted through human effort alone. The pursuit of divine understanding requires reverence, humility, and acknowledgment of God's supreme knowledge.",
+          "cross_references": [
+            "Proverbs 9:10",
+            "Colossians 2:3",
+            "Romans 11:33-34",
+            "Psalm 111:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human technological achievement relate to spiritual understanding?",
+        "options": [
+          "Technological advancement demonstrates human potential for divine-like discovery",
+          "Human knowledge is ultimately limited compared to God's wisdom",
+          "Scientific exploration can complement spiritual understanding",
+          "Material achievements are irrelevant to spiritual growth"
+        ]
+      }
+    }
+  }
+}

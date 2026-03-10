@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine building something beautiful and purposeful, dedicating your finest skills and resources to honor God",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you investing your talents and resources into creating something meaningful?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Professional skill development",
+            "response": "Set specific learning goals that could serve others"
+          },
+          {
+            "id": 2,
+            "text": "Creative project with purpose",
+            "response": "Start outlining a project that could benefit your community"
+          },
+          {
+            "id": 3,
+            "text": "Spiritual craftsmanship",
+            "response": "Reflect on how your daily work can be an act of worship"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or imagine a blueprint of a building that represents your life's purpose, including spaces for serving others and honoring God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Solomon's architectural dedication changed your view of work and purpose?",
+        "options": [
+          "Work is more than just a job—it's an opportunity to create beauty",
+          "Excellence requires patience and intentional effort",
+          "Everything can be done as an act of worship",
+          "Skill and creativity are gifts from God to be developed"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which architectural detail reveals something deeper about Solomon's leadership?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "The intricate cedar columns",
+            "expansion": "Craftsmanship symbolizes how detailed leadership requires both vision and meticulous execution"
+          },
+          {
+            "id": "B",
+            "text": "The high windows facing each other",
+            "expansion": "Strategic positioning suggests transparency and mutual observation in governance"
+          },
+          {
+            "id": "C",
+            "text": "The thirteen-year construction timeline",
+            "expansion": "Patience and deliberation are as important as grand achievements"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If architectural design reflects a leader's inner landscape, what does Solomon's elaborate palace reveal about his soul's true priorities?"
+      },
+      "moral_slider": {
+        "question": "To what extent does impressive infrastructure represent genuine spiritual depth?",
+        "left_label": "External Grandeur",
+        "right_label": "Internal Transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership evolved after examining Solomon's construction project?",
+        "options": [
+          "Leadership is about symbolic representation",
+          "True leadership transcends physical monuments",
+          "Complexity and detail matter more than scale",
+          "Patience in execution is a leadership virtue"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Craftsmanship and Human Skill",
+          "summary": "Solomon's elaborate palace construction demonstrates the intersection of divine inspiration and human architectural expertise. The meticulous architectural details reveal God's endorsement of human creativity and precision in design.",
+          "cross_references": [
+            "Exodus 31:1-5",
+            "Proverbs 8:30-31",
+            "Ephesians 2:10",
+            "Colossians 3:23"
+          ]
+        },
+        {
+          "title": "Royal Sovereignty and Divine Provision",
+          "summary": "The extensive palace complex symbolizes Solomon's God-granted authority and national prosperity. The architectural magnificence reflects not just human achievement, but divine blessing and covenant favor.",
+          "cross_references": [
+            "2 Chronicles 1:1",
+            "Psalm 89:27-29",
+            "Daniel 2:21",
+            "Romans 13:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret extensive architectural investment by spiritual leaders?",
+        "options": [
+          "Represents divine glory and excellence",
+          "Potentially demonstrates misplaced priorities",
+          "Symbolizes cultural influence and kingdom representation",
+          "Reflects wisdom's tangible manifestation"
+        ]
+      }
+    }
+  }
+}

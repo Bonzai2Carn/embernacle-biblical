@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 36,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on God's understanding being infinitely deeper than human comprehension",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might God be working in a challenging situation in your life that you don't currently understand?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trust and wait patiently",
+            "response": "Journal about surrendering your timeline and expectations to God's wisdom"
+          },
+          {
+            "id": "b",
+            "text": "Seek understanding through prayer",
+            "response": "Spend 15 minutes in quiet listening prayer"
+          },
+          {
+            "id": "c",
+            "text": "Recognize my limited perspective",
+            "response": "List three ways God's view might differ from your current understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing God's vast understanding compared to your current view of a problem",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on suffering and God's sovereignty shifted after reading this chapter?",
+        "options": [
+          "I see suffering as more purposeful",
+          "I recognize God's perspective is bigger than mine",
+          "I'm more comfortable with mystery",
+          "I feel more humble about my own understanding"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which theological perspective about God's nature resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "God's omnipotence includes compassionate understanding",
+            "expansion": "Divine power is not just about strength, but nuanced comprehension of human complexity."
+          },
+          {
+            "id": "B",
+            "text": "Righteousness emerges from divine perspective, not human judgment",
+            "expansion": "True understanding requires transcending limited human perceptions."
+          },
+          {
+            "id": "C",
+            "text": "Suffering can be instructional rather than punitive",
+            "expansion": "Divine correction aims at redemption and growth, not mere condemnation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine knowledge is perfect, how do human limitations shape our perception of suffering?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile God's power with human vulnerability?",
+        "left_label": "Divine Inscrutability",
+        "right_label": "Intimate Divine Relationship"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of divine justice?",
+        "options": [
+          "Recognized complexity of theological interpretation",
+          "Questioned previous assumptions about suffering",
+          "Appreciated nuanced divine perspective",
+          "Felt more comfortable with theological uncertainty"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Justice",
+          "summary": "Elihu emphasizes God's supreme authority and perfect understanding of human circumstances. He argues that God's judgments are always righteous and purposeful, even when humans cannot comprehend the full scope of divine wisdom.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "Romans 11:33-34",
+            "Psalm 103:19",
+            "Proverbs 3:5-6"
+          ]
+        },
+        {
+          "title": "Suffering as Divine Instruction",
+          "summary": "Elihu presents suffering as a potential mechanism of divine pedagogy, suggesting that God uses challenging experiences to refine and instruct individuals. The purpose of affliction is not punitive, but transformative and redemptive.",
+          "cross_references": [
+            "Hebrews 12:6",
+            "James 1:2-4",
+            "1 Peter 1:6-7",
+            "Proverbs 3:11-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How might divine correction and discipline be understood in the context of God's larger redemptive plan?",
+        "options": [
+          "Suffering is always a direct punishment for sin",
+          "God uses trials to develop spiritual maturity and character",
+          "Divine discipline represents God's love and commitment to human transformation",
+          "Suffering is random and has no spiritual significance"
+        ]
+      }
+    }
+  }
+}

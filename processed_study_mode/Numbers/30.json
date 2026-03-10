@@ -1,0 +1,117 @@
+{
+  "book": "Numbers",
+  "chapter": 30,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a deep breath and reflect on the power of your personal commitments. What promises have you made that reflect your integrity?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do your personal vows and commitments demonstrate your spiritual maturity?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Review my current promises to God",
+            "response": "Create a written inventory of personal commitments and evaluate their status"
+          },
+          {
+            "id": 2,
+            "text": "Consider accountability in my promises",
+            "response": "Seek spiritual counsel about maintaining integrity in commitments"
+          },
+          {
+            "id": 3,
+            "text": "Understand the weightiness of spoken agreements",
+            "response": "Practice thoughtful, intentional promise-making"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a visual representation of a promise: Use symbols or images that show commitment, reliability, and spiritual trust",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal vows and spiritual commitments changed?",
+        "options": [
+          "I now see promises as more sacred",
+          "I recognize the importance of careful commitment",
+          "I understand accountability differently",
+          "I want to be more intentional about my word"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on vows and promises resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Accountability",
+            "expansion": "Individual responsibility for commitments transcends immediate circumstances."
+          },
+          {
+            "id": 2,
+            "text": "Familial Authority",
+            "expansion": "Family structures can validate or nullify personal commitments."
+          },
+          {
+            "id": 3,
+            "text": "Divine Expectation",
+            "expansion": "Vows made to God carry profound spiritual and ethical weight."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If personal promises are sacred, how do we reconcile contexts where those promises might cause harm or cannot be ethically fulfilled?"
+      },
+      "moral_slider": {
+        "question": "How do individual autonomy and communal/familial oversight balance in making spiritual commitments?",
+        "left_label": "Personal Freedom",
+        "right_label": "Communal Governance"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of promises and spiritual commitments shifted?",
+        "options": [
+          "I see vows as more nuanced",
+          "Family plays a critical role in personal commitments",
+          "Spiritual promises require deeper consideration",
+          "Individual integrity matters more than I previously understood"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Authority in Personal Vows",
+          "summary": "Numbers 30 emphasizes the sacred nature of verbal commitments made before God. The chapter highlights how personal vows create spiritual and legal obligations that transcend casual promises.",
+          "cross_references": [
+            "Ecclesiastes 5:4-5",
+            "Matthew 5:33-37",
+            "James 5:12",
+            "Deuteronomy 23:21-23"
+          ]
+        },
+        {
+          "title": "Familial Spiritual Accountability",
+          "summary": "The text reveals complex dynamics of spiritual authority within familial structures, particularly regarding women's vows and the potential for parental/spousal intervention. This demonstrates the interconnected nature of individual and communal spiritual responsibilities.",
+          "cross_references": [
+            "Ephesians 5:22-24",
+            "Colossians 3:18",
+            "1 Corinthians 7:36-38",
+            "1 Peter 3:1-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should modern believers understand the theological implications of binding spiritual commitments?",
+        "options": [
+          "Vows represent absolute spiritual contracts that cannot be modified",
+          "Contextual understanding and spiritual wisdom should guide vow interpretation",
+          "Personal autonomy supersedes communal spiritual accountability",
+          "Divine grace provides redemptive pathways for challenging vows"
+        ]
+      }
+    }
+  }
+}

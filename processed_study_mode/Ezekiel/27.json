@@ -1,0 +1,117 @@
+{
+  "book": "Ezekiel",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a grand merchant ship, reflecting on how pride can blind us to our true spiritual condition",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might worldly success and reputation distract me from genuine spiritual growth?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Evaluate my sources of pride",
+            "response": "Spend time journaling about achievements and motivations"
+          },
+          {
+            "id": "B",
+            "text": "Recognize temporal vs eternal value",
+            "response": "List personal accomplishments and mark which have lasting spiritual significance"
+          },
+          {
+            "id": "C",
+            "text": "Seek humility",
+            "response": "Pray for a heart that values God's perspective over human acclaim"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a tall ship with beautiful craftsmanship, but add invisible cracks representing hidden spiritual vulnerabilities",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of success and pride?",
+        "options": [
+          "I now see worldly achievements as potentially dangerous",
+          "I recognize the importance of spiritual integrity",
+          "I understand how pride precedes destruction",
+          "I want to focus more on eternal values"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of human achievement most resonates with this passage?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Maritime Commercial Prowess",
+            "expansion": "Tyre represents the pinnacle of mercantile sophistication and global trade networks."
+          },
+          {
+            "id": 2,
+            "text": "Architectural Magnificence",
+            "expansion": "The detailed descriptions of shipbuilding reveal human craftsmanship as a form of divine reflection."
+          },
+          {
+            "id": 3,
+            "text": "Hubris and Fragility",
+            "expansion": "Despite extraordinary achievements, human civilizations remain vulnerable to divine judgment."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If material prosperity is ultimately transient, what enduring qualities truly define a civilization's greatness?"
+      },
+      "moral_slider": {
+        "question": "How do human achievements relate to divine purpose?",
+        "left_label": "Human Autonomy",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of power and legacy shifted after studying this passage?",
+        "options": [
+          "Recognize the impermanence of worldly achievements",
+          "Appreciate complexity of divine judgment",
+          "Understand interconnectedness of global systems",
+          "See human creativity as potentially meaningful yet limited"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Maritime Pride and Divine Judgment",
+          "summary": "Tyre represents the pinnacle of human commercial achievement and arrogance. The chapter illustrates how worldly success and self-proclaimed perfection are transient when measured against divine perspective.",
+          "cross_references": [
+            "Proverbs 16:18",
+            "1 John 2:15-17",
+            "James 4:6",
+            "Isaiah 23:1-14"
+          ]
+        },
+        {
+          "title": "Economic Interconnectedness and Divine Sovereignty",
+          "summary": "The detailed description of Tyre's trade networks demonstrates how God sees and understands complex human economic systems. The passage reveals that global commerce occurs within God's ultimate governance.",
+          "cross_references": [
+            "Revelation 18:11-19",
+            "Psalm 24:1",
+            "Haggai 2:8",
+            "Colossians 1:16-17"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers understand the relationship between economic success and spiritual integrity?",
+        "options": [
+          "Economic prosperity is always a sign of divine blessing",
+          "Spiritual health is independent of material wealth",
+          "Stewardship and humility are more important than accumulation",
+          "Commercial success can be a platform for kingdom purposes"
+        ]
+      }
+    }
+  }
+}

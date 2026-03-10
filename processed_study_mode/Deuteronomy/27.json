@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 27,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine setting up stones as a memorial of God's commandments, symbolizing your commitment to follow His path",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you create visible reminders of God's moral standards in your daily life?",
+        "options": [
+          {
+            "id": "1",
+            "text": "Write scripture verses in visible places",
+            "response": "Place meaningful Bible verses in your workspace or home"
+          },
+          {
+            "id": "2",
+            "text": "Create accountability with spiritual markers",
+            "response": "Share your spiritual goals with a trusted friend or mentor"
+          },
+          {
+            "id": "3",
+            "text": "Develop personal spiritual rituals",
+            "response": "Establish a consistent time for prayer and reflection"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a large stone with God's commandments written on it, representing your personal commitment to following His path",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter challenged your understanding of spiritual commitment?",
+        "options": [
+          "I see the importance of intentional spiritual remembrance",
+          "I recognize the need for public declarations of faith",
+          "I understand God values both internal belief and external obedience",
+          "I'm more aware of the significance of moral boundaries"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of covenant renewal most resonates with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Public declaration of law",
+            "expansion": "Symbols and public commitments create collective accountability."
+          },
+          {
+            "id": 2,
+            "text": "Ritual of stones and writing",
+            "expansion": "Physical monuments preserve spiritual memory and intent."
+          },
+          {
+            "id": 3,
+            "text": "Communal responsibility",
+            "expansion": "Individual actions impact the entire community's spiritual trajectory."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do external markers of commitment transform internal spiritual landscapes?"
+      },
+      "moral_slider": {
+        "question": "To what extent does collective accountability shape individual moral choices?",
+        "left_label": "Personal Freedom",
+        "right_label": "Community Obligation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of covenant and commitment evolved?",
+        "options": [
+          "More appreciation for communal spiritual practices",
+          "Greater awareness of symbolic actions",
+          "Deeper understanding of accountability",
+          "Recognition of law's transformative potential"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Commemoration",
+          "summary": "The chapter emphasizes the importance of publicly recording God's commandments as a perpetual reminder of the divine covenant. These stones serve as a tangible witness to Israel's commitment to following God's law in the promised land.",
+          "cross_references": [
+            "Joshua 4:20-24",
+            "Exodus 23:32-33",
+            "Psalm 78:5-8",
+            "Galatians 3:19-24"
+          ]
+        },
+        {
+          "title": "Communal Accountability",
+          "summary": "Deuteronomy 27 highlights the collective responsibility of the Israelite community in maintaining spiritual faithfulness. The public proclamation of blessings and curses underscores the communal nature of covenant obedience.",
+          "cross_references": [
+            "Nehemiah 8:1-3",
+            "James 2:10",
+            "Matthew 18:15-17",
+            "1 Corinthians 5:11-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the public recording of divine law reflect theological understanding of God's relationship with His people?",
+        "options": [
+          "Demonstrates God's desire for transparent and clear communication",
+          "Emphasizes communal accountability over individual interpretation",
+          "Highlights the permanence and unchanging nature of divine commandments",
+          "Reveals God's pedagogical approach to spiritual formation"
+        ]
+      }
+    }
+  }
+}

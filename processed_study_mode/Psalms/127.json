@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 127,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, visualizing God as the foundation of your daily efforts and family life",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I trying to build my life or home without truly trusting God's guidance?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm relying too much on my own strength",
+            "response": "Pause and pray, surrendering your plans to God's wisdom"
+          },
+          {
+            "id": 2,
+            "text": "I'm anxious about my family's future",
+            "response": "Meditate on God's promise of protection and provision"
+          },
+          {
+            "id": 3,
+            "text": "I'm working without spiritual purpose",
+            "response": "Realign daily tasks with God's greater purpose for your life"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a house with God's name written as its foundation, representing how He supports and sustains your family",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed my understanding of work and family?",
+        "options": [
+          "I now see work as a partnership with God",
+          "I understand family is a blessing, not just my achievement",
+          "I recognize the importance of spiritual foundation",
+          "I feel more peaceful about my daily efforts"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which central truth resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine sovereignty in human endeavors",
+            "expansion": "Apart from God's blessing, human effort is ultimately futile and meaningless."
+          },
+          {
+            "id": 2,
+            "text": "Children as divine inheritance",
+            "expansion": "Offspring are not mere biological outcomes but spiritual gifts and blessings from God."
+          },
+          {
+            "id": 3,
+            "text": "Labor and rest in divine perspective",
+            "expansion": "Human work gains significance only when aligned with God's providential purposes."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human achievements are truly dependent on divine blessing, what does this reveal about the nature of human autonomy and spiritual humility?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile personal effort with divine providence?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of work, success, and divine blessing shifted?",
+        "options": [
+          "I see my efforts as more collaborative with God",
+          "I recognize the futility of self-centered striving",
+          "I value spiritual inheritance over material achievement",
+          "I understand rest as a spiritual discipline"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Providence in Human Endeavors",
+          "summary": "Human efforts are ultimately futile without God's guidance and blessing. True success and productivity come from divine intervention and spiritual alignment rather than human strength alone.",
+          "cross_references": [
+            "Proverbs 16:3",
+            "1 Corinthians 3:7",
+            "Zechariah 4:6",
+            "Ephesians 2:8-9"
+          ]
+        },
+        {
+          "title": "Children as Divine Inheritance",
+          "summary": "Children are a precious gift from God and represent spiritual legacy and generational blessing. They are viewed as rewards and sources of future protection and continuity.",
+          "cross_references": [
+            "Genesis 1:28",
+            "Deuteronomy 6:6-7",
+            "Proverbs 17:6",
+            "Psalm 128:3-4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human agency in achieving life's objectives?",
+        "options": [
+          "God's sovereignty completely supersedes human effort",
+          "Human effort and divine blessing are collaborative",
+          "Individual initiative determines outcomes independently",
+          "Spiritual alignment precedes and empowers human work"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, imagining Jesus' resolve and surrender in the Garden of Gethsemane despite overwhelming emotional struggle",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing intense spiritual challenges or personal trials?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Retreat and avoid confrontation",
+            "response": "Practice intentional prayer and seek God's strength before difficult moments"
+          },
+          {
+            "id": 2,
+            "text": "Fight defensively",
+            "response": "Learn to submit your will to God's greater purpose, like Jesus did"
+          },
+          {
+            "id": 3,
+            "text": "Become overwhelmed by circumstances",
+            "response": "Develop consistent spiritual disciplines to build resilience"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw Jesus praying in the garden, showing His emotions through the way you sketch His posture and facial expression",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 22 shifted your understanding of Jesus' humanity and divinity?",
+        "options": [
+          "I see Jesus' emotional vulnerability more clearly",
+          "I understand the depth of His sacrificial love",
+          "I recognize His strength in facing betrayal",
+          "I'm more aware of His commitment to God's plan"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which moment reveals the deepest human struggle in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Judas's betrayal",
+            "expansion": "The complexity of human weakness and moral compromise emerges through a calculated act of treachery."
+          },
+          {
+            "id": 2,
+            "text": "Peter's denial",
+            "expansion": "The fragility of human courage confronts us when personal safety conflicts with loyalty."
+          },
+          {
+            "id": 3,
+            "text": "Jesus's prayer in Gethsemane",
+            "expansion": "The profound internal conflict between divine mission and human vulnerability becomes starkly visible."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine foreknowledge exists, does human agency truly matter in moments of critical moral choice?"
+      },
+      "moral_slider": {
+        "question": "How do personal loyalty and spiritual commitment balance in moments of extreme pressure?",
+        "left_label": "Individual Survival",
+        "right_label": "Spiritual Integrity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of sacrifice and commitment shifted?",
+        "options": [
+          "Recognized the complexity of human weakness",
+          "Understood spiritual strength requires vulnerability",
+          "Saw how personal fear can override moral conviction",
+          "Appreciated the depth of Jesus's compassion"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Betrayal and Covenant",
+          "summary": "Luke 22 reveals the profound tension between divine sovereignty and human betrayal. Judas' betrayal of Jesus represents a critical moment of spiritual conflict, demonstrating how human weakness intersects with God's redemptive plan.",
+          "cross_references": [
+            "Matthew 26:14-16",
+            "John 13:27",
+            "Zechariah 11:12-13",
+            "Acts 1:16-20"
+          ]
+        },
+        {
+          "title": "The New Covenant in Christ's Blood",
+          "summary": "Jesus establishes the New Covenant through the Last Supper, symbolically connecting His sacrificial death with the forgiveness of sins. This moment represents the theological transition from Old Testament sacrificial system to a new relationship with God through Christ's atonement.",
+          "cross_references": [
+            "1 Corinthians 11:25",
+            "Jeremiah 31:31-34",
+            "Hebrews 9:15",
+            "Exodus 24:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' anticipation of suffering in Gethsemane reveal the complexity of divine will and human experience?",
+        "options": [
+          "Jesus demonstrates complete submission to the Father's plan",
+          "Human emotional vulnerability coexists with divine purpose",
+          "Spiritual warfare is manifested through Christ's internal struggle",
+          "Divine foreknowledge does not eliminate genuine human experience of pain"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 120,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and take three deep breaths, silently asking God to help you recognize deceptive speech in your life",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond to people who speak falsely or maliciously against you?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Retaliate with similar harsh words",
+            "response": "Practice prayer and peaceful communication instead"
+          },
+          {
+            "id": 2,
+            "text": "Ignore the situation completely",
+            "response": "Seek wise counsel and address conflicts constructively"
+          },
+          {
+            "id": 3,
+            "text": "Become defensive and argumentative",
+            "response": "Choose humility and seek understanding"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture showing what 'peaceful words' look like compared to 'sharp arrows of lies'",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed your perspective on handling conflict?",
+        "options": [
+          "I need to be more careful with my words",
+          "I want to respond with grace, not anger",
+          "Truthful communication is vital",
+          "Prayer can help me navigate difficult relationships"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of distress and deliverance resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Crying out to God in personal anguish",
+            "expansion": "The psalmist demonstrates raw, unfiltered communication with the divine during moments of profound emotional struggle."
+          },
+          {
+            "id": 2,
+            "text": "Experiencing deception from surrounding cultures",
+            "expansion": "The psalm reveals the psychological toll of living among people who speak falsely and promote conflict."
+          },
+          {
+            "id": 3,
+            "text": "Longing for peace in a hostile environment",
+            "expansion": "The deep human desire for tranquility emerges as a fundamental spiritual and emotional need."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do your personal struggles reveal your deepest spiritual vulnerabilities?"
+      },
+      "moral_slider": {
+        "question": "To what extent do external conflicts shape your inner spiritual landscape?",
+        "left_label": "Victim of Circumstances",
+        "right_label": "Master of Inner Peace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience evolved?",
+        "options": [
+          "Recognized the power of honest lament",
+          "Understood suffering as a pathway to deeper connection",
+          "Learned that divine comfort transcends external circumstances",
+          "Embraced vulnerability as spiritual strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Distress and Divine Deliverance",
+          "summary": "The Psalmist cries out to God from a place of deep personal persecution and deceit. He experiences profound spiritual and emotional anguish caused by dishonest and malicious opponents.",
+          "cross_references": [
+            "Psalm 34:17",
+            "James 5:16",
+            "1 Peter 5:7",
+            "Proverbs 6:16-19"
+          ]
+        },
+        {
+          "title": "Truth versus Deception",
+          "summary": "The Psalm highlights the spiritual struggle between truthful communication and manipulative speech. It reveals the psychological and spiritual toll of constant exposure to dishonest and destructive rhetoric.",
+          "cross_references": [
+            "Proverbs 12:22",
+            "Ephesians 4:25",
+            "Colossians 3:9",
+            "Zechariah 8:16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine intervention address personal persecution and spiritual warfare?",
+        "options": [
+          "God provides direct protection against malicious actors",
+          "Spiritual resilience comes through persistent prayer",
+          "Moral integrity serves as a shield against spiritual attacks",
+          "Transformation occurs through understanding divine perspective"
+        ]
+      }
+    }
+  }
+}

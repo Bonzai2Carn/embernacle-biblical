@@ -1,0 +1,117 @@
+{
+  "book": "Ezra",
+  "chapter": 3,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, imagining rebuilding something important that was once lost in your spiritual journey",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What obstacles are preventing you from restoring your spiritual foundations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Fear of criticism",
+            "response": "Write down specific fears and pray over each one"
+          },
+          {
+            "id": 2,
+            "text": "Lack of resources",
+            "response": "List three small steps you can take with what you currently have"
+          },
+          {
+            "id": 3,
+            "text": "Overwhelming challenges",
+            "response": "Break down your spiritual restoration into manageable weekly goals"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw an altar representing the restoration of something sacred in your life, using symbols of renewal and hope",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your perspective on spiritual restoration?",
+        "options": [
+          "I see the importance of community in rebuilding",
+          "I understand that starting small is still meaningful",
+          "I recognize courage is essential in spiritual renewal",
+          "I feel more hopeful about overcoming past losses"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual restoration dynamic resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Communal Unity",
+            "expansion": "The people gathered 'as one man', demonstrating collective spiritual commitment transcends individual hesitation."
+          },
+          {
+            "id": 2,
+            "text": "Rebuilding Despite Fear",
+            "expansion": "They constructed the altar courageously, even while experiencing surrounding cultural intimidation."
+          },
+          {
+            "id": 3,
+            "text": "Scriptural Fidelity",
+            "expansion": "Their restoration precisely followed Moses' original divine instructions, showing reverence for established spiritual precedent."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When external circumstances seem overwhelming, what internal resources determine whether a community rebuilds or retreats?"
+      },
+      "moral_slider": {
+        "question": "How do cultural pressures influence spiritual authenticity?",
+        "left_label": "Compromise",
+        "right_label": "Uncompromising Conviction"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of communal spiritual renewal shifted?",
+        "options": [
+          "Recognizing collective courage",
+          "Understanding historical spiritual patterns",
+          "Appreciating incremental restoration",
+          "Seeing faith as a collaborative journey"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Restoration of Worship",
+          "summary": "The returning exiles prioritized spiritual restoration by rebuilding the altar and reinstituting sacrificial worship. Their actions demonstrated a collective commitment to reconnecting with God's covenant and reestablishing religious practices according to Mosaic law.",
+          "cross_references": [
+            "Psalm 51:17",
+            "Hebrews 10:1-10",
+            "2 Chronicles 7:14",
+            "Isaiah 56:7"
+          ]
+        },
+        {
+          "title": "Unity in Spiritual Reconstruction",
+          "summary": "The people gathered 'as one man' to Jerusalem, symbolizing spiritual unity and collective commitment to national restoration. Their shared purpose transcended individual differences, highlighting communal worship and national spiritual renewal.",
+          "cross_references": [
+            "Acts 2:1",
+            "Psalm 133:1",
+            "Ephesians 4:3-6",
+            "1 Corinthians 12:12-14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does spiritual reconstruction relate to community restoration?",
+        "options": [
+          "Spiritual renewal precedes and enables social transformation",
+          "Individual faith is sufficient for community healing",
+          "Collective worship creates communal resilience and identity",
+          "External religious structures determine spiritual vitality"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Mark",
+  "chapter": 11,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and imagine Jesus entering Jerusalem with purpose and humility, riding on a colt - reflect on how God can use unexpected paths and ordinary tools for His divine plan.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might God be asking you to step out in faith, even when the next step seems uncertain?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Trust and obey without full understanding",
+            "response": "Pray for courage to follow God's guidance without demanding complete clarity"
+          },
+          {
+            "id": 2,
+            "text": "Wait for more confirmation",
+            "response": "Seek wisdom through prayer and counsel before moving forward"
+          },
+          {
+            "id": 3,
+            "text": "Request a specific sign from God",
+            "response": "Journal your request and be attentive to God's leading"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or imagine Jesus clearing the temple - use colors and symbols that represent righteousness, justice, and passionate worship",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of Jesus' mission?",
+        "options": [
+          "Jesus is more intentional and bold than I previously thought",
+          "God uses ordinary people and circumstances for extraordinary purposes",
+          "Worship and spiritual authenticity are deeply important to Jesus",
+          "Faith often requires action, not just passive belief"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which moment in this chapter most reveals Jesus' nature?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "The Triumphal Entry",
+            "expansion": "Jesus intentionally fulfills messianic prophecy through symbolic, humble kingship"
+          },
+          {
+            "id": 2,
+            "text": "Cleansing the Temple",
+            "expansion": "Divine anger against religious corruption reveals Christ's passion for authentic worship"
+          },
+          {
+            "id": 3,
+            "text": "The Cursed Fig Tree",
+            "expansion": "A provocative lesson about spiritual fruitfulness and the dangers of performative religion"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If Jesus knew the temple would be destroyed, why did he still confront its systems so directly?"
+      },
+      "moral_slider": {
+        "question": "How do you balance righteous anger with compassionate understanding?",
+        "left_label": "Confrontation",
+        "right_label": "Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual authority shifted?",
+        "options": [
+          "I see leadership differently",
+          "I recognize systemic corruption more clearly",
+          "I understand symbolic actions better",
+          "I'm more aware of prophetic messaging"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Preparation",
+          "summary": "Jesus demonstrates supernatural foreknowledge and divine authority by pre-arranging the colt's availability. This event reveals Christ's intentional fulfillment of messianic prophecy and His complete control over circumstances.",
+          "cross_references": [
+            "Zechariah 9:9",
+            "Isaiah 62:11",
+            "Matthew 21:1-5",
+            "Luke 19:28-40"
+          ]
+        },
+        {
+          "title": "Prophetic Symbolism of the Triumphal Entry",
+          "summary": "Christ's entry into Jerusalem represents His messianic mission and ultimate kingship, challenging expectations of a political liberator. The humble donkey symbolizes peace and humility in contrast to militaristic conquest.",
+          "cross_references": [
+            "Daniel 9:25",
+            "Psalm 118:26",
+            "Revelation 19:11-16",
+            "Philippians 2:5-8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's triumphal entry challenge contemporary understandings of leadership and messianic expectations?",
+        "options": [
+          "Demonstrates servant leadership over political power",
+          "Reveals prophetic fulfillment through unexpected means",
+          "Challenges religious and political power structures",
+          "Emphasizes spiritual transformation over external liberation"
+        ]
+      }
+    }
+  }
+}

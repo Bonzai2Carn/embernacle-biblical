@@ -1,0 +1,117 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently count your personal 'generations' - reflecting on how your family's legacy and faith have been passed down",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you intentionally preserve and honor your family's spiritual heritage?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Document family stories and spiritual milestones",
+            "response": "Start a family journal or digital archive"
+          },
+          {
+            "id": 2,
+            "text": "Teach younger generations about family history",
+            "response": "Plan intentional storytelling moments with children/grandchildren"
+          },
+          {
+            "id": 3,
+            "text": "Reconnect with elder family members",
+            "response": "Schedule conversations to learn family spiritual stories"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing not just names, but spiritual influences and moments of faith in each generation",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about genealogies changed your perspective on personal legacy?",
+        "options": [
+          "I see my life as part of a larger spiritual narrative",
+          "Family history feels more meaningful now",
+          "I'm inspired to know more about my ancestors",
+          "I understand God's faithfulness across generations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which genealogical theme resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Family Legacy",
+            "expansion": "Generations carry forward not just bloodlines, but potential and purpose."
+          },
+          {
+            "id": 2,
+            "text": "Individual Valor",
+            "expansion": "Each person contributes uniquely to their collective narrative."
+          },
+          {
+            "id": 3,
+            "text": "Historical Continuity",
+            "expansion": "Detailed records preserve identity and divine covenant through time."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do ancestral records reveal more about human potential than mere names?"
+      },
+      "moral_slider": {
+        "question": "To what extent do inherited traits determine personal destiny?",
+        "left_label": "Individual Agency",
+        "right_label": "Genetic Predetermination"
+      },
+      "reevaluation": {
+        "question": "How has this genealogical passage shifted your understanding of personal identity?",
+        "options": [
+          "I see myself as part of a larger narrative",
+          "Individual achievement matters more than lineage",
+          "Historical context deeply shapes personal potential",
+          "Genealogy is less important than personal character"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Genealogical Significance",
+          "summary": "The detailed tribal genealogies demonstrate God's meticulous record-keeping and covenant faithfulness. These historical lineages reveal how God preserves and tracks His chosen people through generations.",
+          "cross_references": [
+            "Genesis 12:2-3",
+            "Exodus 1:7",
+            "Numbers 1:18",
+            "Luke 3:23-38"
+          ]
+        },
+        {
+          "title": "Tribal Identity and Divine Purpose",
+          "summary": "Each tribal genealogy represents God's intentional design for Israel's structure and purpose. The specific details about family lines and military capabilities illustrate how divine providence works through human generations.",
+          "cross_references": [
+            "Deuteronomy 7:6-8",
+            "Joshua 13:1-7",
+            "Romans 9:4-5",
+            "Ephesians 1:11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we understand the theological significance of extensive genealogical records in biblical narrative?",
+        "options": [
+          "They demonstrate God's sovereignty in human history",
+          "They validate covenant promises through traceable lineages",
+          "They provide historical and cultural context for understanding scripture",
+          "They reveal divine precision in preserving spiritual inheritance"
+        ]
+      }
+    }
+  }
+}

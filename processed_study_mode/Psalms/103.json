@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 103,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, silently repeating 'God renews my soul like an eagle'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you personally experienced God's healing and redemptive love?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through personal restoration",
+            "response": "Journal a specific story of personal healing"
+          },
+          {
+            "id": 2,
+            "text": "During a difficult season",
+            "response": "Write a prayer of thanksgiving for God's faithfulness"
+          },
+          {
+            "id": 3,
+            "text": "Through community support",
+            "response": "Reach out and encourage someone who needs hope"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of an eagle soaring, representing how God renews your strength",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 103 shifted your understanding of God's character?",
+        "options": [
+          "More aware of God's compassion",
+          "Recognized God's patience with human weakness",
+          "Felt deeper appreciation for divine mercy",
+          "Understood God's love as more personal"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of God's nature resonates most deeply?",
+        "choices": [
+          {
+            "id": "compassion",
+            "text": "God's Compassion",
+            "expansion": "Divine mercy transcends human limitations and embraces our deepest vulnerabilities."
+          },
+          {
+            "id": "healing",
+            "text": "God's Healing Power",
+            "expansion": "Restoration is fundamental to God's character, renewing what human brokenness has damaged."
+          },
+          {
+            "id": "justice",
+            "text": "God's Redemptive Justice",
+            "expansion": "Divine justice is not punitive, but transformative and ultimately restorative."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God 'remembers that we are dust', how might this perspective change our understanding of human frailty and divine grace?"
+      },
+      "moral_slider": {
+        "question": "How do divine mercy and personal accountability intersect?",
+        "left_label": "Unconditional Grace",
+        "right_label": "Personal Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your previous understanding of divine relationship?",
+        "options": [
+          "Recognized God's deeper compassion",
+          "Understood personal limitations more clearly",
+          "Saw divine love as more comprehensive",
+          "Challenged previous transactional view of faith"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Mercy and Compassion",
+          "summary": "Psalm 103 reveals God's profound compassion and mercy towards humanity, emphasizing His willingness to forgive sins and heal brokenness. The psalm portrays God's love as transformative and unconditional, highlighting His patient and gracious nature.",
+          "cross_references": [
+            "Exodus 34:6-7",
+            "Ephesians 2:4-5",
+            "1 John 4:8",
+            "Romans 8:38-39"
+          ]
+        },
+        {
+          "title": "Covenant Faithfulness",
+          "summary": "David celebrates God's enduring covenant love and faithfulness, demonstrating how divine mercy extends across generations. The psalm underscores God's consistent character and commitment to His people, transcending human limitations.",
+          "cross_references": [
+            "Deuteronomy 7:9",
+            "Lamentations 3:22-23",
+            "Hebrews 13:8",
+            "2 Timothy 2:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Psalm 103 challenge traditional understandings of divine judgment and mercy?",
+        "options": [
+          "God's mercy supersedes strict judicial punishment",
+          "Divine compassion is conditional upon human performance",
+          "Mercy is universally available, not restricted to specific groups",
+          "Forgiveness requires complete human transformation before acceptance"
+        ]
+      }
+    }
+  }
+}

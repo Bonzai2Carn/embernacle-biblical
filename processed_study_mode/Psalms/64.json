@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 64,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently breathe and visualize God's protective shield against hidden threats and secret plans of those who might harm you",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you respond to potential enemies or critics with wisdom and trust in God's ultimate justice?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Pray for their transformation",
+            "response": "Develop a prayer strategy for those who oppose or misunderstand you"
+          },
+          {
+            "id": 2,
+            "text": "Remain silent and trust God",
+            "response": "Practice non-reactive listening and seek God's guidance before responding"
+          },
+          {
+            "id": 3,
+            "text": "Seek peaceful resolution",
+            "response": "Proactively seek understanding and communication"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing God's protection, with arrows bouncing off representing unsuccessful attacks",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm changed your perspective on dealing with adversity?",
+        "options": [
+          "I feel more confident in God's protection",
+          "I understand the importance of trusting God's justice",
+          "I realize revenge is not my responsibility",
+          "I see the power of prayer in challenging situations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which core emotional response resonates most in this Psalm of David?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Fear of Enemies' Hidden Plots",
+            "expansion": "The visceral human experience of feeling threatened by unseen malevolence."
+          },
+          {
+            "id": 2,
+            "text": "Trust in Divine Justice",
+            "expansion": "Believing God ultimately protects the righteous from destructive schemes."
+          },
+          {
+            "id": 3,
+            "text": "Prophetic Vision of Retribution",
+            "expansion": "Anticipating spiritual consequences for those who design harm against the innocent."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do we distinguish between legitimate self-protection and vengeful thinking when confronted with genuine threats?"
+      },
+      "moral_slider": {
+        "question": "How does one balance personal vulnerability with spiritual resilience?",
+        "left_label": "Victimhood",
+        "right_label": "Empowerment"
+      },
+      "reevaluation": {
+        "question": "How might your perspective on conflict change after reflecting on this Psalm?",
+        "options": [
+          "Recognize spiritual warfare dynamics",
+          "Develop more nuanced understanding of justice",
+          "Prioritize inner peace over external conflict",
+          "See divine perspective beyond immediate circumstances"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection Against Wicked Schemes",
+          "summary": "David seeks God's protection from hidden plots and malicious intentions of enemies. He recognizes that ultimate justice belongs to God, who will expose and defeat those who conspire against the righteous.",
+          "cross_references": [
+            "Proverbs 10:24",
+            "Isaiah 54:17",
+            "Romans 8:31",
+            "2 Thessalonians 1:6-7"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare through Prayer",
+          "summary": "The psalm demonstrates how prayer serves as a powerful weapon against spiritual and personal adversaries. David models transforming personal vulnerability into spiritual strength through confident trust in God's intervention.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "James 5:16",
+            "1 Peter 5:7",
+            "2 Corinthians 10:4-5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does David's perspective on divine justice challenge contemporary understandings of conflict resolution?",
+        "options": [
+          "God's justice transcends human legal systems",
+          "Personal vengeance is replaced by spiritual trust",
+          "Suffering can be a pathway to spiritual transformation",
+          "Divine intervention is more comprehensive than human strategies"
+        ]
+      }
+    }
+  }
+}

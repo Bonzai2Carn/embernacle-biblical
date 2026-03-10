@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 37,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a family environment where favoritism is causing tension. Take three deep breaths and ask God for wisdom in relationships.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might your own family dynamics or workplace relationships be impacted by showing favoritism?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Recognize and address unequal treatment",
+            "response": "Make a deliberate effort to treat all people with equal respect"
+          },
+          {
+            "id": 2,
+            "text": "Seek to understand the root of relational conflicts",
+            "response": "Have an honest conversation with family members about feelings"
+          },
+          {
+            "id": 3,
+            "text": "Practice empathy towards those who feel marginalized",
+            "response": "Listen actively and validate others' perspectives"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a coat with multiple colors, representing how special treatment can create jealousy and division",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Joseph's family dynamics changed your understanding of sibling relationships?",
+        "options": [
+          "Recognized the destructive power of favoritism",
+          "Understood the importance of family unity",
+          "Saw how jealousy can lead to harmful actions",
+          "Learned about forgiveness and redemption"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dynamic in family relationships strikes you most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Favoritism's destructive power",
+            "expansion": "Parental preferential treatment can seed profound relational trauma and sibling resentment."
+          },
+          {
+            "id": 2,
+            "text": "The vulnerability of youth",
+            "expansion": "Young people are often subject to complex family dynamics beyond their control or understanding."
+          },
+          {
+            "id": 3,
+            "text": "Envy's transformative potential",
+            "expansion": "Unchecked jealousy can lead humans to profound moral compromise."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might Joseph's dreams of superiority contribute to his brothers' eventual betrayal, and what responsibility does the dreamer bear for provoking others' reactions?"
+      },
+      "moral_slider": {
+        "question": "To what extent is familial loyalty conditional?",
+        "left_label": "Unconditional Love",
+        "right_label": "Transactional Relationships"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of family dynamics shifted?",
+        "options": [
+          "I recognize complexity in sibling relationships",
+          "Parental favoritism has deeper psychological impacts than I realized",
+          "Individual narratives are more nuanced than simple good/bad binaries",
+          "Family conflicts often emerge from unresolved emotional patterns"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Family Dynamics",
+          "summary": "God's providential plan emerges through familial conflict and human imperfection. Joseph's story demonstrates how divine purpose can transcend human jealousy and dysfunction.",
+          "cross_references": [
+            "Romans 8:28",
+            "Ephesians 1:11",
+            "Proverbs 16:9",
+            "Acts 7:9-10"
+          ]
+        },
+        {
+          "title": "Consequences of Favoritism",
+          "summary": "Jacob's preferential treatment of Joseph creates destructive family tension and reveals the spiritual danger of unequal parental love. The narrative illustrates how favoritism can breed resentment and potentially derail familial relationships.",
+          "cross_references": [
+            "1 Samuel 1:5-6",
+            "Proverbs 22:8",
+            "Galatians 6:7",
+            "James 3:16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine providence interact with human free will in Joseph's early narrative?",
+        "options": [
+          "God orchestrates events without negating human moral responsibility",
+          "Human actions are predetermined without genuine choice",
+          "Divine plans emerge through human decisions, not despite them",
+          "Individuals are mere instruments without personal agency"
+        ]
+      }
+    }
+  }
+}

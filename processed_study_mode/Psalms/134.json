@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 134,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Stand quietly and lift your hands in silent praise, mimicking the call of night watchmen in the temple praising God",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I honor God even in small, seemingly insignificant moments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Praise during mundane tasks",
+            "response": "Practice singing or speaking worship during routine work"
+          },
+          {
+            "id": 2,
+            "text": "Night watch prayer commitment",
+            "response": "Set an alarm for midnight or early morning to spend 5-10 minutes in prayer"
+          },
+          {
+            "id": 3,
+            "text": "Serve without recognition",
+            "response": "Do an anonymous act of kindness this week"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of hands raised toward heaven, representing continuous worship",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm changed my understanding of worship?",
+        "options": [
+          "Worship is not limited to specific times or places",
+          "Even small acts can be meaningful to God",
+          "Continuous praise is a lifestyle, not just a Sunday activity",
+          "God values heart posture more than elaborate rituals"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of worship resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Night-time service",
+            "expansion": "The dedication of serving God even when others are resting reveals profound spiritual commitment."
+          },
+          {
+            "id": 2,
+            "text": "Lifting holy hands",
+            "expansion": "Physical posture can be a genuine expression of spiritual surrender and reverence."
+          },
+          {
+            "id": 3,
+            "text": "Blessing from God",
+            "expansion": "Worship is not just human effort, but an invitation for divine reciprocal blessing."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If worship is a continuous state of heart rather than a periodic activity, how might your understanding of 'serving' fundamentally transform?"
+      },
+      "moral_slider": {
+        "question": "What motivates your spiritual devotion?",
+        "left_label": "Obligation",
+        "right_label": "Love"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on spiritual service shifted?",
+        "options": [
+          "I now see worship as more continuous",
+          "I recognize the importance of intentional praise",
+          "I understand service transcends formal religious settings",
+          "I appreciate the potential for divine reciprocal blessing"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Worship in the Night",
+          "summary": "This psalm emphasizes the devotion of temple servants who maintain continuous worship, particularly during nighttime hours. It highlights the spiritual discipline of perpetual praise and dedication to divine service.",
+          "cross_references": [
+            "Luke 2:37",
+            "Acts 16:25",
+            "Revelation 4:8",
+            "1 Thessalonians 5:17"
+          ]
+        },
+        {
+          "title": "Divine Blessing through Worship",
+          "summary": "The psalm reveals that genuine worship creates a conduit for God's blessing, demonstrating that praising God is not just an act of reverence but also a means of receiving divine favor. It underscores the reciprocal nature of spiritual devotion.",
+          "cross_references": [
+            "Malachi 3:10",
+            "Psalm 133:3",
+            "Ephesians 1:3",
+            "2 Chronicles 7:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What theological implications emerge from continuous worship?",
+        "options": [
+          "Worship transcends time and human limitations",
+          "Spiritual persistence demonstrates authentic faith commitment",
+          "Divine presence is activated through consistent praise",
+          "Nighttime worship represents spiritual warfare and intercession"
+        ]
+      }
+    }
+  }
+}

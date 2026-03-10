@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine receiving a long-promised inheritance. Breathe deeply and reflect on patience and God's faithfulness.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you remained faithful to God's promises in your own life journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Consistently pursuing God's vision",
+            "response": "Continue setting spiritual goals aligned with God's direction"
+          },
+          {
+            "id": 2,
+            "text": "Waiting patiently through challenges",
+            "response": "Practice prayer and trust during uncertain seasons"
+          },
+          {
+            "id": 3,
+            "text": "Claiming promises with bold faith",
+            "response": "Study scripture to understand and claim God's promises"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map of your personal 'promised land' - representing your spiritual goals and God-given inheritance",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your perspective on waiting and trusting God?",
+        "options": [
+          "I understand patience better now",
+          "God's timing is different from my timeline",
+          "Faithfulness requires persistent trust",
+          "Promises are worth waiting for"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of inheritance and promise resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Divine Promises Endure",
+            "expansion": "God's commitments transcend generations and personal challenges."
+          },
+          {
+            "id": "B",
+            "text": "Individual Faithfulness Matters",
+            "expansion": "Personal integrity can distinguish one's spiritual journey amidst collective experiences."
+          },
+          {
+            "id": "C",
+            "text": "Land as Spiritual Inheritance",
+            "expansion": "Territorial promises symbolize deeper covenantal relationships between God and His people."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal convictions sustain hope when collective promises seem distant or uncertain?"
+      },
+      "moral_slider": {
+        "question": "How does one balance patience with proactive pursuit of divine promises?",
+        "left_label": "Passive Waiting",
+        "right_label": "Aggressive Claiming"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual inheritance evolved?",
+        "options": [
+          "More appreciative of generational promises",
+          "Recognize individual agency within collective narratives",
+          "See territorial promises as metaphorical spiritual journeys",
+          "Understand persistence as a spiritual discipline"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Inheritance and Promise",
+          "summary": "God's covenant promises remain steadfast across generations, demonstrating His faithfulness to His people. The land distribution reveals God's intentional allocation of blessings according to His sovereign plan.",
+          "cross_references": [
+            "Genesis 12:7",
+            "Exodus 23:30-31",
+            "Psalm 105:44-45",
+            "Hebrews 11:9"
+          ]
+        },
+        {
+          "title": "Faithful Persistence: Caleb's Example",
+          "summary": "Caleb's unwavering faith and courage in claiming his inheritance illustrates spiritual tenacity and trust in God's promises. His testimony demonstrates that divine promises are claimed through active faith, not passive waiting.",
+          "cross_references": [
+            "Numbers 14:24",
+            "Deuteronomy 1:36",
+            "Joshua 15:13-14",
+            "1 Corinthians 15:58"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Caleb's inheritance narrative challenge contemporary perspectives on divine promises and generational blessing?",
+        "options": [
+          "Promises are unconditional and automatically fulfilled",
+          "Personal faith and active participation are essential in receiving divine inheritance",
+          "Generational blessings are dependent solely on ancestral righteousness",
+          "God's promises transcend age, physical limitations, and historical circumstances"
+        ]
+      }
+    }
+  }
+}

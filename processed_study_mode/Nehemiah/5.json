@@ -1,0 +1,117 @@
+{
+  "book": "Nehemiah",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe deeply and reflect on how you can practice compassion and fairness in your daily financial interactions",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I treating those in financial difficulty around me?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I might be exploiting others' vulnerabilities",
+            "response": "Pause and review your financial relationships with empathy and grace"
+          },
+          {
+            "id": 2,
+            "text": "I want to help but don't know how",
+            "response": "Seek ways to provide practical support, even if small"
+          },
+          {
+            "id": 3,
+            "text": "I'm committed to ethical financial practices",
+            "response": "Continue modeling integrity and generosity"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of hands helping each other, representing community support during financial hardship",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "What new insights did you gain about community responsibility?",
+        "options": [
+          "Financial struggles are complex",
+          "Community support matters more than individual gain",
+          "Leadership should protect the vulnerable",
+          "Empathy transforms economic interactions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of community hardship resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Economic Vulnerability",
+            "expansion": "The systemic pressures that force families into desperate financial circumstances"
+          },
+          {
+            "id": 2,
+            "text": "Communal Suffering",
+            "expansion": "How economic challenges create fractures within what should be supportive relationships"
+          },
+          {
+            "id": 3,
+            "text": "Leadership's Moral Responsibility",
+            "expansion": "The critical role of leaders in preventing exploitation and maintaining social justice"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When resources become scarce, do our fundamental human values transform, or are they merely revealed?"
+      },
+      "moral_slider": {
+        "question": "How do personal survival needs balance against communal solidarity?",
+        "left_label": "Individual Self-Preservation",
+        "right_label": "Collective Compassion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of community resilience shifted?",
+        "options": [
+          "Recognized deeper systemic challenges",
+          "Understood leadership's ethical obligations",
+          "Appreciated the complexity of economic interdependence",
+          "Saw the importance of mutual accountability"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Economic Injustice and Community Solidarity",
+          "summary": "Nehemiah confronts systemic economic oppression within the Jewish community during rebuilding. The chapter reveals how economic hardship can lead to exploitation of vulnerable community members, and demonstrates the importance of compassionate leadership.",
+          "cross_references": [
+            "Exodus 22:25-27",
+            "Leviticus 25:35-37",
+            "James 2:14-17",
+            "1 John 3:17-18"
+          ]
+        },
+        {
+          "title": "Ethical Leadership and Accountability",
+          "summary": "Nehemiah models principled leadership by challenging economic inequities and demanding restoration of rights for oppressed community members. He emphasizes personal and communal responsibility in maintaining social justice.",
+          "cross_references": [
+            "Proverbs 22:16",
+            "Micah 6:8",
+            "Luke 3:10-14",
+            "1 Timothy 6:17-19"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should biblical principles inform economic relationships within faith communities?",
+        "options": [
+          "Prioritize individual economic survival over community welfare",
+          "Implement systemic mechanisms for economic equity and mutual support",
+          "Allow market forces to determine economic interactions",
+          "Establish communal accountability for economic justice"
+        ]
+      }
+    }
+  }
+}

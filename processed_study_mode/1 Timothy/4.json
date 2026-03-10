@@ -1,0 +1,117 @@
+{
+  "book": "1 Timothy",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Reflect on spiritual discernment: What false teachings might subtly distract you from genuine faith?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you strengthen your spiritual immunity against deceptive doctrines?",
+        "options": [
+          {
+            "id": "study",
+            "text": "Regular Scripture study",
+            "response": "Develop a consistent daily Bible reading plan"
+          },
+          {
+            "id": "community",
+            "text": "Stay connected with mature believers",
+            "response": "Join a discipleship group or accountability partnership"
+          },
+          {
+            "id": "prayer",
+            "text": "Cultivate spiritual discernment through prayer",
+            "response": "Spend dedicated time asking God for wisdom and clarity"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing spiritual protection against false teachings. Include symbols of truth, prayer, and biblical knowledge.",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual health?",
+        "options": [
+          "I recognize the importance of discernment",
+          "I see how subtle deceptions can enter my faith",
+          "I want to be more intentional about spiritual growth",
+          "I understand the value of sound doctrine"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which warning about spiritual deception resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "False doctrines emerge from deceiving spirits",
+            "expansion": "Spiritual deception often masquerades as truth, requiring discernment and spiritual wisdom."
+          },
+          {
+            "id": 2,
+            "text": "Conscience can become 'seared' and unresponsive",
+            "expansion": "Repeated rejection of truth can gradually desensitize one's moral and spiritual perception."
+          },
+          {
+            "id": 3,
+            "text": "Legalistic restrictions misrepresent God's grace",
+            "expansion": "Arbitrary religious rules can obscure the genuine freedom found in authentic faith."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do you distinguish between genuine spiritual guidance and manipulative religious rhetoric?"
+      },
+      "moral_slider": {
+        "question": "What determines the authenticity of spiritual teaching?",
+        "left_label": "Human Tradition",
+        "right_label": "Divine Revelation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual discernment evolved?",
+        "options": [
+          "I now recognize subtle spiritual deceptions",
+          "I'm more cautious about legalistic interpretations",
+          "I value personal spiritual growth over external rules",
+          "I seek deeper understanding of scriptural context"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "False Doctrines and Apostasy",
+          "summary": "Paul warns about future spiritual deception where some believers will abandon authentic faith, influenced by demonic teachings. These false teachings will manifest through hypocritical leadership that distorts biblical truth and imposes unbiblical restrictions.",
+          "cross_references": [
+            "2 Thessalonians 2:3-4",
+            "1 John 2:18-19",
+            "2 Peter 2:1-3",
+            "Jude 1:4"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment",
+          "summary": "Believers must develop spiritual maturity to recognize and reject false teachings, maintaining biblical orthodoxy through consistent scriptural understanding and prayer. Discernment involves distinguishing between divine truth and deceptive spiritual manipulations.",
+          "cross_references": [
+            "Hebrews 5:14",
+            "1 Corinthians 12:10",
+            "1 John 4:1",
+            "Ephesians 4:14"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers approach potential spiritual deception in contemporary contexts?",
+        "options": [
+          "Develop deep biblical literacy and consistent scriptural study",
+          "Maintain healthy skepticism toward new spiritual teachings",
+          "Practice communal accountability within church leadership",
+          "Prioritize personal prayer and spiritual discernment"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 35,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize clouds towering above you, reminding you of God's transcendence and perspective beyond human understanding",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might your perspective on personal righteousness need adjustment?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I tend to compare my goodness to others",
+            "response": "Practice humility by acknowledging God's standard of righteousness"
+          },
+          {
+            "id": 2,
+            "text": "I feel entitled to God's blessing",
+            "response": "Cultivate gratitude and recognize grace as unmerited"
+          },
+          {
+            "id": 3,
+            "text": "I judge my spiritual worth by external actions",
+            "response": "Examine heart motives and inner transformation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a small stick figure at the bottom of the page, with vast clouds and sky above, symbolizing human limitations compared to God's infinite perspective",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of personal righteousness?",
+        "options": [
+          "Recognized my tendency to self-justify",
+          "Understood God's perspective is higher",
+          "Realized righteousness isn't about comparison",
+          "Saw my need for humility"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human righteousness resonates most?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Our actions do not fundamentally change God's nature",
+            "expansion": "Human moral performance is ultimately insignificant compared to divine sovereignty"
+          },
+          {
+            "id": "B",
+            "text": "Righteousness is about relationship, not transactional merit",
+            "expansion": "Spiritual integrity matters more than performative religious gestures"
+          },
+          {
+            "id": "C",
+            "text": "Divine justice transcends human understanding",
+            "expansion": "Our limited perspective cannot fully comprehend God's complex moral calculus"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your righteousness does not 'profit' God, what truly motivates genuine spiritual pursuit?"
+      },
+      "moral_slider": {
+        "question": "How do personal suffering and divine justice intersect?",
+        "left_label": "Individual Victimhood",
+        "right_label": "Universal Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual accountability shifted?",
+        "options": [
+          "I see my actions as less transactional",
+          "I recognize human limitations more clearly",
+          "I'm more humble about my moral standing",
+          "I understand divine perspective differently"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Righteousness vs Divine Sovereignty",
+          "summary": "Elihu challenges the human tendency to believe personal righteousness supersedes God's perfect judgment. He emphasizes that human moral performance does not obligate or limit God's divine perspective.",
+          "cross_references": [
+            "Romans 3:23",
+            "Isaiah 64:6",
+            "Galatians 2:16",
+            "Psalm 143:2"
+          ]
+        },
+        {
+          "title": "Theological Perspective on Divine Justice",
+          "summary": "The chapter explores the profound distance between human understanding and divine wisdom. Elihu argues that God's justice transcends human perception and measurement.",
+          "cross_references": [
+            "Isaiah 55:8-9",
+            "Job 11:7-9",
+            "Romans 11:33-34",
+            "Psalm 103:11-12"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human righteousness relate to divine judgment?",
+        "options": [
+          "Personal moral achievements do not earn divine favor",
+          "God's justice operates independently of human performance",
+          "Righteousness is measured by divine standards, not human perception",
+          "Human beings cannot fully comprehend divine moral calculations"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 59,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, visualizing God's protection against those who seek to harm or deceive you",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing threats or opposition?",
+        "options": [
+          {
+            "id": 1,
+            "text": "React with anger and retaliation",
+            "response": "Practice prayer and seeking God's guidance instead of personal revenge"
+          },
+          {
+            "id": 2,
+            "text": "Retreat and hide from challenges",
+            "response": "Build spiritual courage through scripture and faith"
+          },
+          {
+            "id": 3,
+            "text": "Trust in God's protection and justice",
+            "response": "Develop a daily prayer practice of surrendering conflicts to God"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing God's protection, with symbols of strength surrounding it",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this psalm shifted your understanding of facing adversity?",
+        "options": [
+          "I now see challenges as opportunities for faith",
+          "I understand the importance of trusting God's timing",
+          "I recognize my need to release anger and seek divine guidance",
+          "I feel more empowered by spiritual strength over physical strength"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional response to persecution resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Seeking Divine Protection",
+            "expansion": "Recognizing God as ultimate refuge amidst human threats and violence."
+          },
+          {
+            "id": "B",
+            "text": "Expressing Raw Emotional Honesty",
+            "expansion": "David's unfiltered cry reveals the authenticity of spiritual wrestling with danger."
+          },
+          {
+            "id": "C",
+            "text": "Trusting in God's Ultimate Justice",
+            "expansion": "Believing that divine judgment will ultimately vindicate the righteous and punish the wicked."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal experiences of threat and vulnerability reveal deeper spiritual truths about human dependency?"
+      },
+      "moral_slider": {
+        "question": "How do we balance personal self-defense with spiritual non-violence?",
+        "left_label": "Human Vengeance",
+        "right_label": "Divine Mercy"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of suffering and divine protection evolved?",
+        "options": [
+          "I see suffering as more complex than simple punishment",
+          "Divine protection doesn't mean absence of conflict",
+          "Personal resilience and spiritual trust are interconnected",
+          "Emotional honesty is a form of spiritual strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Protection from Enemies",
+          "summary": "David seeks God's protection from violent and deceitful adversaries who are plotting against him. The psalm reveals the tension between human vulnerability and divine intervention, emphasizing God's role as a sovereign defender of the righteous.",
+          "cross_references": [
+            "2 Samuel 15:13-14",
+            "Romans 8:31",
+            "Psalm 18:48-49",
+            "1 Samuel 19:11-12"
+          ]
+        },
+        {
+          "title": "God's Judgment and Sovereignty",
+          "summary": "The psalm portrays God as the ultimate judge who defeats and humiliates those who oppose His chosen servants. It demonstrates that divine justice is not merely punitive but reveals God's comprehensive control over human schemes.",
+          "cross_references": [
+            "Psalm 2:4-5",
+            "Romans 12:19",
+            "Isaiah 54:17",
+            "Proverbs 21:30"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does David's perspective on divine intervention challenge contemporary understandings of spiritual warfare?",
+        "options": [
+          "God actively intervenes to protect His faithful servants",
+          "Spiritual battles are primarily internal and psychological",
+          "Divine protection manifests through supernatural and natural means",
+          "Believers should passively wait for God's intervention"
+        ]
+      }
+    }
+  }
+}

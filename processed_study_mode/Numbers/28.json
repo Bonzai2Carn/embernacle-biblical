@@ -1,0 +1,117 @@
+{
+  "book": "Numbers",
+  "chapter": 28,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and visualize presenting a pure, unblemished offering to God, symbolizing your daily commitment and devotion",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How consistent are you in making daily spiritual offerings to God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I struggle with daily spiritual disciplines",
+            "response": "Create a simple, achievable morning and evening prayer routine"
+          },
+          {
+            "id": 2,
+            "text": "I'm somewhat consistent",
+            "response": "Establish specific times for intentional worship and reflection"
+          },
+          {
+            "id": 3,
+            "text": "I'm very disciplined in my spiritual practices",
+            "response": "Help mentor others in developing consistent spiritual rhythms"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a daily altar with morning and evening sacrifices, representing your commitment to God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has understanding the importance of regular, consistent offerings changed your perspective on worship?",
+        "options": [
+          "I see worship as more than just Sunday service",
+          "I recognize the value of daily spiritual discipline",
+          "I understand God desires consistent, pure devotion",
+          "I feel challenged to be more intentional in my spiritual life"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of ritual and devotion resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Consistency of Daily Offerings",
+            "expansion": "Regularity in spiritual practice demonstrates commitment beyond momentary inspiration."
+          },
+          {
+            "id": 2,
+            "text": "Precise Ceremonial Instructions",
+            "expansion": "Detailed guidelines reveal divine care for intentional, structured worship."
+          },
+          {
+            "id": 3,
+            "text": "Symbolic Nature of Sacrificial System",
+            "expansion": "Each offering represents a profound spiritual transaction between humanity and the divine."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If ritual without inner transformation is meaningless, what truly constitutes authentic spiritual devotion?"
+      },
+      "moral_slider": {
+        "question": "How do prescribed religious practices relate to genuine spiritual connection?",
+        "left_label": "External Ritualism",
+        "right_label": "Internal Transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of worship and offering evolved?",
+        "options": [
+          "I now see ritual as more meaningful",
+          "I recognize the importance of spiritual discipline",
+          "I understand symbolic representation differently",
+          "I appreciate divine instruction more deeply"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Ritual Precision",
+          "summary": "God's instructions for daily offerings demonstrate His desire for structured, intentional worship. The meticulous details reveal God's preference for order and consistency in approaching Him.",
+          "cross_references": [
+            "Exodus 29:38-42",
+            "Leviticus 1:1-17",
+            "1 Chronicles 23:29-31",
+            "Ezekiel 46:13-15"
+          ]
+        },
+        {
+          "title": "Continuous Atonement",
+          "summary": "The daily lamb offerings symbolize ongoing spiritual reconciliation between God and His people. These sacrifices represent the perpetual need for grace and redemption.",
+          "cross_references": [
+            "Hebrews 10:1-4",
+            "Romans 12:1",
+            "Isaiah 53:7",
+            "John 1:29"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do the precise sacrificial instructions reflect God's nature and relationship with His people?",
+        "options": [
+          "God values systematic, intentional worship",
+          "Ritualistic precision demonstrates spiritual discipline",
+          "Sacrificial system prefigures Christ's ultimate atonement",
+          "Divine instructions reveal God's desire for intimate relationship"
+        ]
+      }
+    }
+  }
+}

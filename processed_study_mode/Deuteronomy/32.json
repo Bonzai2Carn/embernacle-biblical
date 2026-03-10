@@ -1,0 +1,117 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine God as an unshakable rock - steady, strong, and completely reliable in every season of life",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have you potentially forgotten God's faithfulness in your current life challenges?",
+        "options": [
+          {
+            "id": "1",
+            "text": "Acknowledge past blessings",
+            "response": "Write down 3 specific ways God has been faithful to you previously"
+          },
+          {
+            "id": "2",
+            "text": "Confess areas of spiritual drift",
+            "response": "Spend time in honest prayer about your wandering heart"
+          },
+          {
+            "id": "3",
+            "text": "Recommit to trust",
+            "response": "Create a visual reminder of God's unchanging nature"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a solid rock with streams of water flowing around it, representing God's unchanging nature amidst life's changes",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of God's character?",
+        "options": [
+          "God is more just than I previously understood",
+          "God's patience with human weakness is profound",
+          "God's love includes both mercy and discipline",
+          "My personal relationship with God needs deeper reflection"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which divine characteristic in this passage resonates most deeply with you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God as the perfect, unchanging Rock",
+            "expansion": "Divine stability represents an anchor amidst human uncertainty and moral flux."
+          },
+          {
+            "id": 2,
+            "text": "God's absolute justice",
+            "expansion": "The theological concept that divine judgment emerges from perfect, unbiased moral assessment."
+          },
+          {
+            "id": 3,
+            "text": "God's generative teaching method",
+            "expansion": "The metaphor of divine instruction as nurturing rain suggests organic, life-giving spiritual knowledge."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine perfection exists, how do you reconcile human imperfection within a covenantal relationship?"
+      },
+      "moral_slider": {
+        "question": "To what extent can human frailty coexist with divine expectation?",
+        "left_label": "Total Human Weakness",
+        "right_label": "Divine Transformative Power"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of divine relationship shifted?",
+        "options": [
+          "I see more complexity in spiritual accountability",
+          "I recognize divine patience more deeply",
+          "I understand covenant as a dynamic, evolving process",
+          "I perceive human fallibility with greater compassion"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty and Human Rebellion",
+          "summary": "Moses reveals God's comprehensive sovereignty contrasted against Israel's persistent unfaithfulness. The chapter demonstrates God's unwavering commitment to His covenant despite human weakness and repeated transgressions.",
+          "cross_references": [
+            "Romans 9:14-24",
+            "Ephesians 2:1-10",
+            "Isaiah 40:27-31",
+            "Jeremiah 31:3"
+          ]
+        },
+        {
+          "title": "God's Redemptive Justice",
+          "summary": "The song emphasizes God's perfect justice and ultimate restoration of His people. Despite temporary judgment, God's covenant promises remain foundational to His redemptive plan.",
+          "cross_references": [
+            "Romans 11:25-32",
+            "Hosea 14:4-7",
+            "Zechariah 10:6-12",
+            "1 John 1:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine judgment intersect with divine mercy in God's relationship with His people?",
+        "options": [
+          "Judgment is purely punitive and demonstrates God's wrath",
+          "Judgment serves redemptive purposes and leads to restoration",
+          "God's mercy completely negates the need for judgment",
+          "Judgment and mercy are complementary aspects of God's character"
+        ]
+      }
+    }
+  }
+}

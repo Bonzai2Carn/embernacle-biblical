@@ -1,0 +1,117 @@
+{
+  "book": "1 John",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently ask God to help you discern truth from falsehood in your current life circumstances",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I better recognize genuine spiritual guidance versus deceptive influences?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Study Scripture more deeply",
+            "response": "Commit to daily Bible reading and cross-referencing teachings"
+          },
+          {
+            "id": 2,
+            "text": "Seek wise counsel from mature believers",
+            "response": "Schedule meetings with trusted spiritual mentors"
+          },
+          {
+            "id": 3,
+            "text": "Practice prayer and spiritual discernment",
+            "response": "Develop a consistent prayer routine focusing on asking for wisdom"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing God's protective love against spiritual deception",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual truth?",
+        "options": [
+          "I now see the importance of testing spiritual messages",
+          "I realize love is central to understanding God's spirit",
+          "I recognize the need for discernment in my faith journey",
+          "I feel more aware of potential spiritual counterfeits"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight most challenges your current understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Testing spiritual claims",
+            "expansion": "Discernment requires active investigation, not passive acceptance of spiritual messages."
+          },
+          {
+            "id": 2,
+            "text": "God's love transforms human relationships",
+            "expansion": "Divine love transcends human limitations and becomes the fundamental relational paradigm."
+          },
+          {
+            "id": 3,
+            "text": "Perfect love casts out fear",
+            "expansion": "Authentic spiritual maturity is marked by confidence rather than anxiety."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If genuine spiritual truth can be tested, what criteria would you use to distinguish authentic spiritual revelation from mere human opinion?"
+      },
+      "moral_slider": {
+        "question": "How do you balance skepticism and openness in spiritual discernment?",
+        "left_label": "Skeptical Rejection",
+        "right_label": "Naive Acceptance"
+      },
+      "reevaluation": {
+        "question": "How might this chapter reshape your understanding of spiritual authenticity?",
+        "options": [
+          "I now see the importance of critical spiritual discernment",
+          "Love seems more central to spiritual truth than I previously understood",
+          "Fear is less compatible with genuine spiritual experience",
+          "Community verification matters in spiritual claims"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Discernment",
+          "summary": "Christians are called to critically evaluate spiritual teachings and prophetic claims by testing them against core doctrinal truths. The primary test is the confession of Jesus Christ's incarnation and divine nature.",
+          "cross_references": [
+            "Matthew 7:15-20",
+            "2 Peter 2:1-3",
+            "Galatians 1:8-9",
+            "1 Thessalonians 5:21"
+          ]
+        },
+        {
+          "title": "God's Love Demonstrated",
+          "summary": "Divine love is fundamentally revealed through God's redemptive action in sending His Son as an atoning sacrifice. This love transforms believers and enables them to love others sacrificially and authentically.",
+          "cross_references": [
+            "John 3:16",
+            "Romans 5:8",
+            "Ephesians 2:4-5",
+            "1 John 4:9-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers navigate potential theological innovations or novel spiritual interpretations?",
+        "options": [
+          "Rigorously test all teachings against Scripture's core doctrines",
+          "Remain open to any new spiritual revelation without critical examination",
+          "Prioritize personal spiritual experience over doctrinal consistency",
+          "Consult trusted theological authorities and church traditions"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 19,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Jesus standing before the crowd, wearing the crown of thorns, silently bearing humanity's rejection. Breathe deeply and receive His undeserved love.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when you're falsely accused or misunderstood?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Defend myself immediately",
+            "response": "Practice silent strength like Jesus, trusting God's ultimate vindication"
+          },
+          {
+            "id": 2,
+            "text": "Get angry and retaliate",
+            "response": "Choose forgiveness and pray for those who mistreat you"
+          },
+          {
+            "id": 3,
+            "text": "Withdraw and isolate",
+            "response": "Seek wise counsel and maintain spiritual perspective"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw Jesus wearing the purple robe and crown of thorns, but surround Him with symbols of His true royal identity and sacrificial love",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter shifted your understanding of Jesus' suffering?",
+        "options": [
+          "I see His suffering as more personal",
+          "I understand His love more deeply",
+          "I recognize the spiritual warfare behind His crucifixion",
+          "I'm struck by His intentional surrender"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound moment resonates most deeply in this scene of Jesus's suffering?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Pilate's declaration of innocence",
+            "expansion": "Even a political leader recognizes Jesus's fundamental blamelessness amidst systemic injustice."
+          },
+          {
+            "id": 2,
+            "text": "Jesus's silent endurance",
+            "expansion": "Christ absorbs profound humiliation without retaliating, revealing supernatural strength through vulnerability."
+          },
+          {
+            "id": 3,
+            "text": "The mockery of 'King of the Jews'",
+            "expansion": "Unintended prophecy emerges through the soldiers' cruel irony, revealing Jesus's true royal identity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does human power reveal its fundamental weakness when confronted with divine purpose?"
+      },
+      "moral_slider": {
+        "question": "Where does true authority originate: through force or through sacrifice?",
+        "left_label": "Coercion",
+        "right_label": "Surrender"
+      },
+      "reevaluation": {
+        "question": "How has this passage challenged your understanding of strength and weakness?",
+        "options": [
+          "I see vulnerability differently now",
+          "Leadership looks more complex",
+          "Suffering can have deeper meaning",
+          "Political systems are fundamentally limited"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Suffering and Sovereignty of Christ",
+          "summary": "Jesus endures profound humiliation and physical abuse while maintaining divine dignity. His suffering is deliberate and purposeful, revealing God's redemptive plan through apparent weakness.",
+          "cross_references": [
+            "Isaiah 53:3-5",
+            "Philippians 2:7-8",
+            "1 Peter 2:24",
+            "Hebrews 12:2-3"
+          ]
+        },
+        {
+          "title": "Divine Kingship Paradox",
+          "summary": "Though mocked as a king through the crown of thorns and purple robe, Jesus demonstrates true royal authority through His sacrificial submission. His kingship transcends earthly political power.",
+          "cross_references": [
+            "Revelation 19:16",
+            "Colossians 1:13-14",
+            "Matthew 27:29",
+            "John 18:36"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' response to suffering reveal theological significance?",
+        "options": [
+          "Demonstrates passive acceptance of divine will",
+          "Reveals redemptive suffering as a pathway to salvation",
+          "Exposes human injustice while maintaining divine sovereignty",
+          "Provides a model of spiritual resilience under persecution"
+        ]
+      }
+    }
+  }
+}

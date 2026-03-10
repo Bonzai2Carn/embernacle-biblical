@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 12,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on the victories God has given you, acknowledging that every triumph comes from His strength, not yours.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you recognize and celebrate God's victories in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Keep a victory journal",
+            "response": "Start documenting moments where God has helped you overcome challenges"
+          },
+          {
+            "id": 2,
+            "text": "Share testimonies with others",
+            "response": "Intentionally tell stories of God's faithfulness to encourage fellow believers"
+          },
+          {
+            "id": 3,
+            "text": "Create a gratitude practice",
+            "response": "Develop a daily habit of thanking God for specific wins and blessings"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing the territories conquered by Israel, using symbols to represent each defeated king",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Israel's conquests changed your understanding of God's promises?",
+        "options": [
+          "God is faithful to His promises",
+          "Conquests require obedience and courage",
+          "God fights for His people",
+          "Victory is always possible with divine help"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of territorial conquest resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Promise Fulfilled",
+            "expansion": "God's covenant with Israel transcends mere geographic boundaries."
+          },
+          {
+            "id": 2,
+            "text": "Historical Documentation",
+            "expansion": "Precise recording of conquered territories reveals the meticulous nature of biblical narrative."
+          },
+          {
+            "id": 3,
+            "text": "Generational Legacy",
+            "expansion": "Each conquered land represents a chapter in Israel's ongoing spiritual transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine mandate justifies territorial conquest, what distinguishes sacred intervention from human aggression?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile divine instruction with territorial displacement?",
+        "left_label": "Human Compassion",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical conquest evolved?",
+        "options": [
+          "More nuanced historical perspective",
+          "Deeper appreciation for divine providence",
+          "Increased complexity in interpreting sacred texts",
+          "Greater empathy for displaced peoples"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Conquest and Covenant Fulfillment",
+          "summary": "Joshua 12 represents a comprehensive record of Israel's territorial victories, demonstrating God's faithfulness in delivering promised lands to His chosen people. This chapter serves as a historical testament to divine intervention and the literal manifestation of God's covenant promises.",
+          "cross_references": [
+            "Deuteronomy 7:1-2",
+            "Genesis 15:18-21",
+            "Numbers 34:1-15",
+            "Psalm 44:1-3"
+          ]
+        },
+        {
+          "title": "Systematic Documentation of Divine Judgment",
+          "summary": "The detailed listing of defeated kings reveals God's systematic approach to judgment against nations practicing idolatry and opposing His people. Each defeated king represents divine justice and the consequences of resistance to God's redemptive plan.",
+          "cross_references": [
+            "Exodus 23:31-33",
+            "Deuteronomy 9:4-6",
+            "Psalm 110:5-6",
+            "Romans 2:5-6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should we theologically interpret divine displacement of indigenous populations in biblical conquest narratives?",
+        "options": [
+          "Reflect divine sovereign judgment against systemic wickedness",
+          "Understand as literal territorial promises fulfilling covenant",
+          "Recognize complex historical-redemptive theological contexts",
+          "Examine moral implications of divine directives regarding territorial acquisition"
+        ]
+      }
+    }
+  }
+}

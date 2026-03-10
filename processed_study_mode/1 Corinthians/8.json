@@ -1,0 +1,117 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 8,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize releasing any pride about spiritual knowledge, replacing it with genuine love for others",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How might my spiritual knowledge be potentially harming someone else's faith journey?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I might be using knowledge to feel superior",
+            "response": "Practice humility and seek to understand others' perspectives"
+          },
+          {
+            "id": 2,
+            "text": "My actions could be causing a weaker believer to stumble",
+            "response": "Intentionally limit personal freedoms to protect another's spiritual growth"
+          },
+          {
+            "id": 3,
+            "text": "I'm not considering how my choices impact community",
+            "response": "Prioritize love and unity over personal rights"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a balance scale with 'Knowledge' on one side and 'Love' on the other, showing which side weighs more",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual maturity?",
+        "options": [
+          "Knowledge is less important than love",
+          "Community matters more than individual rights",
+          "Spiritual growth requires consideration of others",
+          "Pride can damage fellow believers' faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual knowledge resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Knowledge without love is empty",
+            "expansion": "Understanding spiritual truths requires compassionate application, not mere intellectual superiority."
+          },
+          {
+            "id": 2,
+            "text": "Individual conscience matters",
+            "expansion": "Personal spiritual growth involves respecting others' developmental stages and sensitivities."
+          },
+          {
+            "id": 3,
+            "text": "Idols have no ultimate power",
+            "expansion": "True spiritual freedom comes from recognizing the supremacy of God over cultural constructs."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If knowledge can potentially harm relationships, what transforms information into wisdom?"
+      },
+      "moral_slider": {
+        "question": "How do personal spiritual freedoms intersect with communal spiritual responsibility?",
+        "left_label": "Individual Liberty",
+        "right_label": "Communal Consideration"
+      },
+      "reevaluation": {
+        "question": "How might this chapter challenge your previous understanding of spiritual knowledge?",
+        "options": [
+          "I now see knowledge requires love",
+          "I'm more aware of potential spiritual stumbling blocks",
+          "I recognize the importance of considering others' spiritual journeys",
+          "I understand spiritual maturity is relational, not just intellectual"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Christian Liberty and Spiritual Responsibility",
+          "summary": "Paul addresses the tension between theological knowledge and spiritual sensitivity. He emphasizes that while believers may have doctrinal understanding about food sacrificed to idols, love and consideration for weaker believers' consciences should take precedence.",
+          "cross_references": [
+            "Romans 14:13-23",
+            "Galatians 5:13-14",
+            "1 Corinthians 10:23-33",
+            "Romans 15:1-2"
+          ]
+        },
+        {
+          "title": "Knowledge vs. Love in Christian Practice",
+          "summary": "The chapter reveals that intellectual knowledge alone can lead to spiritual pride, whereas love builds up the community of faith. Christian maturity is demonstrated through compassionate understanding rather than rigid doctrinal assertion.",
+          "cross_references": [
+            "1 Corinthians 13:1-3",
+            "Ephesians 4:15-16",
+            "Colossians 2:2-3",
+            "James 3:13-18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christian liberty be exercised in potentially controversial cultural contexts?",
+        "options": [
+          "Prioritize personal rights and theological understanding",
+          "Carefully consider potential impact on others' spiritual journey",
+          "Seek comprehensive understanding before making decisions",
+          "Defer to community leadership's guidance"
+        ]
+      }
+    }
+  }
+}

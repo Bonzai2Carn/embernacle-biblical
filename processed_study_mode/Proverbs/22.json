@@ -1,0 +1,117 @@
+{
+  "book": "Proverbs",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and take three deep breaths, reflecting on how your personal character matters more than material wealth",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I currently building or protecting my reputation?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Through consistent integrity",
+            "response": "Continue practicing honesty in small and large matters"
+          },
+          {
+            "id": 2,
+            "text": "By avoiding negative influences",
+            "response": "Review current relationships and distance from toxic connections"
+          },
+          {
+            "id": 3,
+            "text": "By developing wisdom",
+            "response": "Commit to daily learning and spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a path with two routes: one with thorns (representing perverse choices) and another clear path (representing wise choices)",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your view of success?",
+        "options": [
+          "Wealth is less important than character",
+          "Wisdom matters more than money",
+          "Reputation takes years to build",
+          "Humility is a key to true prosperity"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of wisdom resonates most deeply with you?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "A good name matters more than wealth",
+            "expansion": "Character and reputation provide deeper fulfillment than monetary accumulation."
+          },
+          {
+            "id": "b",
+            "text": "Divine perspective transcends economic divisions",
+            "expansion": "God views human worth beyond social stratification and material circumstances."
+          },
+          {
+            "id": "c",
+            "text": "Prudence protects against potential harm",
+            "expansion": "Wisdom involves anticipating consequences and strategically avoiding dangerous paths."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If reputation is truly more valuable than riches, what investments are you making in your character that cannot be measured monetarily?"
+      },
+      "moral_slider": {
+        "question": "How do humility and divine reverence interact with personal achievement?",
+        "left_label": "Personal Ambition",
+        "right_label": "Spiritual Submission"
+      },
+      "reevaluation": {
+        "question": "How might this chapter challenge your current understanding of success?",
+        "options": [
+          "I now see wealth differently",
+          "Character matters more than I previously thought",
+          "Divine perspective offers deeper insight",
+          "Prudence requires more intentional reflection"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Equality and Human Worth",
+          "summary": "God views all individuals equally, regardless of economic status. The Creator establishes inherent value beyond material wealth and social standing. Human dignity transcends financial circumstances.",
+          "cross_references": [
+            "James 2:1-5",
+            "1 Samuel 16:7",
+            "Acts 10:34-35",
+            "Galatians 3:28"
+          ]
+        },
+        {
+          "title": "Wisdom and Spiritual Discernment",
+          "summary": "True wisdom emerges from humility and reverence toward God. Spiritual perception allows believers to anticipate potential dangers and navigate life's challenges strategically. Prudence is a divine gift enabling spiritual protection.",
+          "cross_references": [
+            "Proverbs 9:10",
+            "James 1:5",
+            "Ephesians 1:17-18",
+            "1 Corinthians 2:14-16"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine sovereignty interact with human economic diversity?",
+        "options": [
+          "God orchestrates economic circumstances as part of spiritual refinement",
+          "Economic status reflects individual merit and spiritual faithfulness",
+          "Wealth distribution demonstrates God's complex redemptive purposes",
+          "Economic differences are primarily result of systemic social structures"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 102,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Silently breathe and remember that God sees your deepest pain and hears your most vulnerable prayers, even when you feel completely overwhelmed",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you processing seasons of intense personal suffering or emotional exhaustion?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm struggling to see hope",
+            "response": "Take time to journal your raw emotions, bringing them honestly before God"
+          },
+          {
+            "id": 2,
+            "text": "I feel temporarily forgotten",
+            "response": "Meditate on God's eternal nature and unchanging love"
+          },
+          {
+            "id": 3,
+            "text": "I need healing and restoration",
+            "response": "Pray specifically for God's redemptive power in your current situation"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing your emotional landscape right now, using colors and shapes that express your inner state, remembering God sees and understands",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this psalm shifted your understanding of suffering and God's presence?",
+        "options": [
+          "I see suffering as a pathway to deeper connection with God",
+          "God is present even when I feel most alone",
+          "My emotions are valid and can be brought honestly to God",
+          "Healing and restoration are possible, even in dark seasons"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional dimension of suffering speaks most powerfully?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Anguish",
+            "expansion": "The raw vulnerability of crying out to God during intense personal pain and isolation."
+          },
+          {
+            "id": 2,
+            "text": "Cosmic Perspective",
+            "expansion": "Understanding individual suffering within the larger narrative of God's eternal nature and compassion."
+          },
+          {
+            "id": 3,
+            "text": "Hope Beyond Circumstances",
+            "expansion": "Maintaining faith and expectation of restoration despite current overwhelming challenges."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of suffering transform if you viewed it as a temporary state within an infinite divine narrative?"
+      },
+      "moral_slider": {
+        "question": "To what extent does human vulnerability reveal divine strength?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer and lament evolved?",
+        "options": [
+          "Recognize suffering as a valid spiritual experience",
+          "Understand God's compassion more deeply",
+          "See vulnerability as spiritual strength",
+          "Appreciate the transformative power of honest prayer"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Suffering and Divine Eternity",
+          "summary": "The psalm portrays profound human vulnerability and transient existence contrasted against God's eternal, unchanging nature. It demonstrates how personal anguish can be transformed into theological reflection on divine permanence.",
+          "cross_references": [
+            "Isaiah 40:8",
+            "James 1:10-11",
+            "1 Peter 1:24-25",
+            "Hebrews 1:10-12"
+          ]
+        },
+        {
+          "title": "Redemptive Lament and Hope",
+          "summary": "This psalm represents a deeply personal prayer of someone experiencing intense emotional and physical distress, yet maintaining hope in God's ultimate restoration and compassion. The text transitions from individual suffering to universal redemption.",
+          "cross_references": [
+            "Lamentations 3:22-23",
+            "Romans 8:28",
+            "2 Corinthians 4:16-18",
+            "Revelation 21:4"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does human suffering relate to God's eternal purposes?",
+        "options": [
+          "Suffering is purely punitive and disconnected from divine plan",
+          "Suffering can be a transformative pathway to deeper spiritual understanding",
+          "God's eternal nature guarantees ultimate redemption through challenging experiences",
+          "Individual pain is insignificant compared to cosmic divine providence"
+        ]
+      }
+    }
+  }
+}

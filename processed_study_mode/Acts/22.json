@@ -1,0 +1,117 @@
+{
+  "book": "Acts",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine Paul boldly sharing his testimony, remembering that your personal story of transformation can be a powerful witness",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How has your past experience prepared you for your current spiritual mission?",
+        "options": [
+          {
+            "id": 1,
+            "text": "My past mistakes are barriers",
+            "response": "Spend time in prayer surrendering past experiences to God's redemptive purpose"
+          },
+          {
+            "id": 2,
+            "text": "My past experiences are valuable lessons",
+            "response": "Journal how previous challenges have shaped your spiritual understanding"
+          },
+          {
+            "id": 3,
+            "text": "My past is neutral to my calling",
+            "response": "Seek mentorship to help interpret your life's journey through a spiritual lens"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of Paul's transformation from persecutor to passionate missionary, showing key moments of change",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Paul's testimony challenged your understanding of personal spiritual transformation?",
+        "options": [
+          "God can use anyone, regardless of past mistakes",
+          "Personal testimony is a powerful evangelism tool",
+          "Spiritual transformation is often dramatic and unexpected",
+          "Cultural background doesn't limit God's calling"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Paul's testimony resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Transformation from persecutor to believer",
+            "expansion": "The radical journey of personal conversion demonstrates the potential for profound spiritual metamorphosis."
+          },
+          {
+            "id": "2",
+            "text": "Cultural and religious identity",
+            "expansion": "Paul's understanding of his Jewish roots provides a complex framework for understanding his missionary work."
+          },
+          {
+            "id": "3",
+            "text": "Courage in personal testimony",
+            "expansion": "Speaking truth in a potentially hostile environment reveals extraordinary spiritual conviction."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do deeply held beliefs transform when confronted with unexpected spiritual experiences?"
+      },
+      "moral_slider": {
+        "question": "What is the tension between religious zeal and spiritual humility?",
+        "left_label": "Zealotry",
+        "right_label": "Grace"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of personal testimony changed?",
+        "options": [
+          "More aware of individual spiritual journeys",
+          "Recognize complexity of religious transformation",
+          "Appreciate vulnerability in sharing faith",
+          "Understand cultural context matters"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Transformation",
+          "summary": "Paul demonstrates how radical spiritual transformation can occur through divine intervention. His personal testimony reveals how someone deeply entrenched in religious persecution can become a passionate messenger of grace.",
+          "cross_references": [
+            "1 Timothy 1:12-14",
+            "Galatians 1:13-16",
+            "Romans 9:1-5",
+            "2 Corinthians 11:22"
+          ]
+        },
+        {
+          "title": "Testimony as Evangelism",
+          "summary": "Paul strategically uses his personal conversion story as a powerful evangelistic tool, connecting his Jewish heritage with his Christian mission. His narrative demonstrates how personal experiences can bridge cultural and religious divides.",
+          "cross_references": [
+            "Revelation 12:11",
+            "1 Peter 3:15",
+            "Romans 10:1-4",
+            "Philippians 3:4-7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Paul's transformation challenge traditional understandings of religious zeal and spiritual conversion?",
+        "options": [
+          "Divine calling can transcend human-constructed religious boundaries",
+          "Personal testimony is a powerful mechanism for spiritual understanding",
+          "Genuine spiritual transformation often requires confronting personal biases",
+          "God's redemptive work can transform the most ardent opponents into passionate advocates"
+        ]
+      }
+    }
+  }
+}

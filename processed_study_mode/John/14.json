@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and visualize a peaceful room being prepared just for you by Jesus, breathing slowly with each exhale",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "What personal comfort do you need from Jesus right now about your future?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Reassurance about my path",
+            "response": "Spend 10 minutes journaling your uncertainties and surrendering them to God"
+          },
+          {
+            "id": 2,
+            "text": "Peace about relationships",
+            "response": "Pray specifically for guidance and healing in challenging relationships"
+          },
+          {
+            "id": 3,
+            "text": "Clarity about direction",
+            "response": "Create a simple prayer list of areas where you need divine direction"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing Jesus preparing a special place for you, with symbols representing His promise of comfort",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of God's personal care?",
+        "options": [
+          "I feel more assured of God's love",
+          "I understand God's plans differently now",
+          "I'm less anxious about my future",
+          "I see Jesus as more intimate and personal"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which idea resonates most profoundly about Jesus' promise?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Preparing a place for believers",
+            "expansion": "Divine intentionality suggests our eternal significance transcends temporal understanding."
+          },
+          {
+            "id": 2,
+            "text": "'Do not let your heart be troubled'",
+            "expansion": "Spiritual peace emerges from trust beyond immediate circumstances."
+          },
+          {
+            "id": 3,
+            "text": "Knowing the way through Christ",
+            "expansion": "Personal relationship with Jesus provides navigational clarity for life's deepest journey."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If Jesus promises a prepared place, what might that reveal about the nature of divine relationship versus transactional spirituality?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human uncertainty with spiritual confidence?",
+        "left_label": "Doubt",
+        "right_label": "Absolute Trust"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual journey evolved?",
+        "options": [
+          "More aware of divine intentionality",
+          "Recognizing peace beyond circumstances",
+          "Understanding relationship over ritual",
+          "Embracing mystery of faith"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Comfort and Promise",
+          "summary": "Jesus provides profound spiritual reassurance to His disciples during a moment of impending separation. He offers hope through the promise of eternal dwelling and intimate connection with God the Father.",
+          "cross_references": [
+            "Psalm 23:4",
+            "Isaiah 41:10",
+            "Philippians 4:6-7",
+            "1 Peter 5:7"
+          ]
+        },
+        {
+          "title": "The Way, Truth, and Life",
+          "summary": "Christ reveals Himself as the exclusive pathway to God, emphasizing that salvation and eternal relationship are exclusively accessed through Him. This declaration challenges pluralistic spiritual perspectives.",
+          "cross_references": [
+            "Acts 4:12",
+            "Romans 10:9-10",
+            "1 Timothy 2:5",
+            "Hebrews 10:20"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' declaration of being 'the Way' impact our understanding of salvation and spiritual journey?",
+        "options": [
+          "Salvation is universally accessible through multiple spiritual paths",
+          "Christ provides the singular, exclusive path to reconciliation with God",
+          "Individual interpretation of spiritual truth supersedes Christ's claims",
+          "Salvation is fundamentally about personal moral achievement"
+        ]
+      }
+    }
+  }
+}

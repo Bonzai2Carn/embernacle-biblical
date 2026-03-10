@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 25,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take a moment to reflect on family legacy: What inheritance of values or faith do you want to pass down?",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you ensure that your family's spiritual inheritance remains meaningful across generations?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Intentionally share family stories of faith",
+            "response": "Create a family journal or storytelling tradition"
+          },
+          {
+            "id": 2,
+            "text": "Teach spiritual principles consistently",
+            "response": "Schedule regular family devotional times"
+          },
+          {
+            "id": 3,
+            "text": "Model authentic faith personally",
+            "response": "Live out your beliefs authentically each day"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing how faith and values can be passed down through generations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about Abraham's family legacy changed your perspective on inheritance?",
+        "options": [
+          "Inheritance is more than material wealth",
+          "Spiritual legacy matters deeply",
+          "Family relationships are complex",
+          "God's promises transcend generations"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What significance emerges from Abraham's later family life?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Legacy beyond Isaac",
+            "expansion": "Abraham's descendants through other wives demonstrate divine providence extends beyond primary inheritance lines."
+          },
+          {
+            "id": 2,
+            "text": "Intentional Distribution",
+            "expansion": "Abraham's deliberate allocation of resources reveals strategic spiritual inheritance planning."
+          },
+          {
+            "id": 3,
+            "text": "Generational Complexity",
+            "expansion": "Multiple wives and children illustrate the nuanced human dynamics underlying biblical genealogies."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might Abraham's choices with multiple wives reflect broader spiritual principles about divine promise and human agency?"
+      },
+      "moral_slider": {
+        "question": "To what extent does biological lineage determine spiritual inheritance?",
+        "left_label": "Blood Connection",
+        "right_label": "Spiritual Covenant"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of biblical family dynamics evolved?",
+        "options": [
+          "More appreciative of complex genealogical narratives",
+          "Recognized divine plan transcends linear inheritance",
+          "Understood patriarchal relationships more nuancedly",
+          "Saw human imperfection within spiritual journeys"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Inheritance and Covenant Continuity",
+          "summary": "Abraham's choice to give inheritance primarily to Isaac demonstrates God's sovereign selection of covenant lineage. This reflects God's predetermined plan of redemption through specific familial lines.",
+          "cross_references": [
+            "Romans 9:6-8",
+            "Hebrews 11:17-19",
+            "Galatians 4:28-31",
+            "Ephesians 1:11"
+          ]
+        },
+        {
+          "title": "Generational Expansion of Abraham's Legacy",
+          "summary": "Abraham's multiple children through Keturah illustrate God's promise of abundant descendants beyond the initial covenant with Isaac. This highlights God's broader redemptive purposes beyond a single bloodline.",
+          "cross_references": [
+            "Genesis 12:2-3",
+            "Genesis 17:4-6",
+            "Acts 17:26",
+            "Revelation 7:9-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Abraham's provision for multiple descendants reveal God's expansive redemptive strategy?",
+        "options": [
+          "God's covenant is exclusively through one lineage",
+          "God's plan includes diverse familial and cultural expressions",
+          "Inheritance is determined solely by biological descent",
+          "Divine promises transcend narrow ethnic boundaries"
+        ]
+      }
+    }
+  }
+}

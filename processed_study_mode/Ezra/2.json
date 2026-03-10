@@ -1,0 +1,117 @@
+{
+  "book": "Ezra",
+  "chapter": 2,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Quietly reflect on your personal 'returning home' journey with God, tracing how He has guided you back to His purpose",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How committed are you to rebuilding what might feel broken in your spiritual life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm hesitant and uncertain",
+            "response": "Start with small, consistent prayer and study commitments"
+          },
+          {
+            "id": 2,
+            "text": "I'm ready but overwhelmed",
+            "response": "Create a simple, structured spiritual restoration plan"
+          },
+          {
+            "id": 3,
+            "text": "I'm fully motivated",
+            "response": "Seek accountability and support from spiritual mentors"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a map showing your personal journey back to God, marking significant spiritual 'return points'",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about the Israelites' restoration changed your view of personal spiritual renewal?",
+        "options": [
+          "I see restoration as more challenging",
+          "I'm more hopeful about healing",
+          "I understand collective spiritual journeys better",
+          "I recognize God's faithfulness more deeply"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of community restoration resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Precise genealogical records",
+            "expansion": "Documenting identity reveals how individual stories matter within collective memory."
+          },
+          {
+            "id": 2,
+            "text": "Voluntary return from exile",
+            "expansion": "Personal commitment to communal restoration demonstrates profound spiritual resilience."
+          },
+          {
+            "id": 3,
+            "text": "Leadership's organizational capacity",
+            "expansion": "Systematic planning enables complex social transformation through intentional coordination."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might meticulous historical recordkeeping reveal deeper spiritual truths about human belonging and divine purpose?"
+      },
+      "moral_slider": {
+        "question": "What matters more: individual preservation or collective restoration?",
+        "left_label": "Personal Survival",
+        "right_label": "Community Renewal"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of community changed after exploring this text?",
+        "options": [
+          "Recognized importance of shared heritage",
+          "Appreciated collective sacrifice",
+          "Understood organizational complexity",
+          "Valued individual contributions to larger goals"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Restoration of Covenant Identity",
+          "summary": "Ezra 2 demonstrates God's preservation of Israel's genealogical and spiritual heritage during exile. The detailed census reveals meticulous divine attention to maintaining tribal and priestly lineages, ensuring cultural and religious continuity.",
+          "cross_references": [
+            "Nehemiah 7:6-7",
+            "Jeremiah 29:10-14",
+            "Revelation 3:5",
+            "Isaiah 43:1-7"
+          ]
+        },
+        {
+          "title": "Divine Faithfulness in Restoration",
+          "summary": "The chapter illustrates God's commitment to His covenant promises by orchestrating the return of Jewish exiles to their homeland. Despite generational displacement, God systematically reconnects His people with their ancestral inheritance.",
+          "cross_references": [
+            "Deuteronomy 30:3-5",
+            "Psalm 106:45-47",
+            "Zechariah 8:7-8",
+            "Romans 11:1-2"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's preservation of genealogical records in Ezra 2 reflect theological principles of divine remembrance and covenant faithfulness?",
+        "options": [
+          "God meticulously tracks individual human histories",
+          "Lineage represents spiritual inheritance beyond biological descent",
+          "Divine recordkeeping demonstrates unconditional love",
+          "Genealogical precision validates prophetic promises"
+        ]
+      }
+    }
+  }
+}

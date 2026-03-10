@@ -1,0 +1,117 @@
+{
+  "book": "Lamentations",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine a city once full of life, now empty and grieving. Breathe slowly and feel the weight of loss.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when everything you've known falls apart?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Surrender and seek God's comfort",
+            "response": "Spend time in prayer acknowledging your pain"
+          },
+          {
+            "id": 2,
+            "text": "Try to fix everything myself",
+            "response": "Recognize personal limitations and seek community support"
+          },
+          {
+            "id": 3,
+            "text": "Become bitter and isolated",
+            "response": "Journal about your emotions and share with a trusted friend"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of a strong city that has become empty, showing both its past glory and current brokenness",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of suffering?",
+        "options": [
+          "I see suffering as more complex and emotional",
+          "I recognize the importance of community during hard times",
+          "I understand that pain can be a pathway to spiritual growth",
+          "I feel more compassionate towards those experiencing deep loss"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotional experience resonates most deeply in this chapter?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Profound Loneliness",
+            "expansion": "The city's isolation represents a spiritual abandonment that transcends physical separation."
+          },
+          {
+            "id": 2,
+            "text": "Collective Suffering",
+            "expansion": "The communal pain reflects how individual and national trauma are interconnected."
+          },
+          {
+            "id": 3,
+            "text": "Undeserved Punishment",
+            "expansion": "The sense of divine correction versus arbitrary destruction creates existential tension."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If suffering reveals character, what does Jerusalem's response to devastation teach us about human resilience and spiritual depth?"
+      },
+      "moral_slider": {
+        "question": "How do we balance divine judgment with compassionate understanding?",
+        "left_label": "Strict Divine Accountability",
+        "right_label": "Merciful Redemptive Perspective"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of communal trauma evolved?",
+        "options": [
+          "Recognized deeper spiritual dimensions",
+          "Understood collective psychological impact",
+          "Appreciated complexity of historical suffering",
+          "Gained empathy for generational pain"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Judgment and Consequence",
+          "summary": "Lamentations 1 portrays the devastating aftermath of Israel's covenant disobedience. The city of Jerusalem represents the profound spiritual and physical devastation resulting from turning away from God's commandments.",
+          "cross_references": [
+            "Deuteronomy 28:15-68",
+            "2 Chronicles 36:15-21",
+            "Jeremiah 52:4-16",
+            "Psalm 137:1-4"
+          ]
+        },
+        {
+          "title": "Suffering and Spiritual Restoration",
+          "summary": "The chapter reveals the profound emotional and spiritual anguish of a nation experiencing divine discipline. This suffering serves as a pathway for potential spiritual renewal and reconnection with God's redemptive purposes.",
+          "cross_references": [
+            "Hosea 5:15",
+            "Isaiah 40:1-2",
+            "Zechariah 1:3",
+            "James 4:8-10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine discipline intersect with God's ultimate redemptive plan?",
+        "options": [
+          "Punishment is solely punitive and demonstrates God's wrath",
+          "Discipline represents a redemptive process designed for spiritual transformation",
+          "Suffering is a random consequence of human actions without deeper spiritual meaning",
+          "Divine correction reflects God's parental love and desire for restoration"
+        ]
+      }
+    }
+  }
+}

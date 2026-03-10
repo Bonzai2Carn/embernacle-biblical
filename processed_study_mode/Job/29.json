@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 29,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and remember a time when you felt God's presence strongly. Breathe deeply and recall His past faithfulness.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have past seasons of God's blessing shaped your current perspective on challenges?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Acknowledge past blessings",
+            "response": "Write down 3 specific ways God has been faithful in your life"
+          },
+          {
+            "id": 2,
+            "text": "Learn from past seasons",
+            "response": "Journal about lessons learned during times of spiritual closeness"
+          },
+          {
+            "id": 3,
+            "text": "Seek renewed connection",
+            "response": "Pray for renewed intimacy with God like in previous seasons"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline of your spiritual journey, marking moments when God's presence was most vivid",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Job 29 changed your understanding of spiritual seasons?",
+        "options": [
+          "I see suffering differently now",
+          "I appreciate past blessings more",
+          "I understand God's presence is constant",
+          "I'm more aware of spiritual transitions"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective of remembered blessing resonates most?",
+        "choices": [
+          {
+            "id": "divine_protection",
+            "text": "God's intimate guardianship",
+            "expansion": "Recognizing divine oversight as a profound personal relationship beyond institutional religion."
+          },
+          {
+            "id": "community_respect",
+            "text": "Social standing and honor",
+            "expansion": "Understanding personal reputation as a complex interplay of character and communal perception."
+          },
+          {
+            "id": "nostalgic_longing",
+            "text": "Mourning past prosperity",
+            "expansion": "Exploring how memory constructs emotional landscapes of loss and transformation."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If divine favor is not guaranteed, what truly defines human worth?"
+      },
+      "moral_slider": {
+        "question": "How do personal suffering and divine relationship intersect?",
+        "left_label": "Abandonment",
+        "right_label": "Continuous Providence"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual seasons evolved?",
+        "options": [
+          "Recognizing impermanence of worldly status",
+          "Understanding suffering as potential transformation",
+          "Seeing challenge as opportunity for deeper faith",
+          "Accepting mystery in divine interactions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Intimacy and Temporal Blessing",
+          "summary": "Job reflects on a past period of profound spiritual closeness with God, characterized by divine protection and apparent favor. He remembers a time of significant personal prosperity and spiritual guidance, contrasting sharply with his current suffering.",
+          "cross_references": [
+            "Psalm 91:1-2",
+            "Deuteronomy 28:1-14",
+            "James 4:8",
+            "Proverbs 3:32-33"
+          ]
+        },
+        {
+          "title": "Spiritual Memory and Theological Reflection",
+          "summary": "Job's recollection demonstrates the human tendency to romanticize past spiritual experiences during times of profound testing. His narrative reveals a deep theological wrestling with understanding God's providence and personal relationship during seasons of extreme trial.",
+          "cross_references": [
+            "Lamentations 3:17-23",
+            "Psalm 77:7-9",
+            "Hebrews 11:1",
+            "2 Corinthians 5:7"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers interpret periods of apparent divine favor versus seasons of apparent divine absence?",
+        "options": [
+          "God's love remains constant regardless of external circumstances",
+          "Spiritual maturity requires accepting both prosperity and suffering",
+          "Personal righteousness does not guarantee temporal blessing",
+          "Divine relationship transcends momentary experiences of comfort or discomfort"
+        ]
+      }
+    }
+  }
+}

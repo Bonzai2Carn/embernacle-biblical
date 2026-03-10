@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 30 seconds to silently reflect on the signs God might be showing you in your current life season, beyond physical circumstances",
+        "timer": 30
+      },
+      "two_step": {
+        "reflect_question": "How am I discerning spiritual truth versus worldly distractions?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I'm easily swayed by external signs",
+            "response": "Spend time in prayer asking God to sharpen your spiritual discernment"
+          },
+          {
+            "id": 2,
+            "text": "I struggle to recognize God's voice",
+            "response": "Study Scripture daily and journal potential spiritual insights"
+          },
+          {
+            "id": 3,
+            "text": "I want deeper spiritual understanding",
+            "response": "Meet with a mature Christian mentor for guidance"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing the difference between physical signs and spiritual understanding, using symbols or metaphors",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your previous understanding of spiritual perception?",
+        "options": [
+          "I see how easily I can miss spiritual truths",
+          "I realize worldly wisdom is limited",
+          "I want to develop deeper spiritual discernment",
+          "I'm challenged to look beyond surface-level signs"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual insight resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Discerning spiritual signs",
+            "expansion": "Recognizing divine movements requires spiritual sensitivity beyond literal observation."
+          },
+          {
+            "id": 2,
+            "text": "The nature of true discipleship",
+            "expansion": "Following Christ demands radical self-denial and profound commitment beyond superficial religious practices."
+          },
+          {
+            "id": 3,
+            "text": "Understanding spiritual authority",
+            "expansion": "Authentic spiritual leadership emerges from divine revelation, not human institutional power."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your current understanding of spiritual truth be limiting your perception of deeper revelations?"
+      },
+      "moral_slider": {
+        "question": "To what extent do religious traditions enhance or obstruct genuine spiritual perception?",
+        "left_label": "Institutional Constraint",
+        "right_label": "Spiritual Freedom"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual discernment shifted?",
+        "options": [
+          "More skeptical of surface-level religious performances",
+          "Recognizing deeper spiritual intuition",
+          "Understanding the complexity of divine communication",
+          "Valuing personal spiritual sensitivity over institutional pronouncements"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Spiritual Discernment",
+          "summary": "Jesus challenges religious leaders about their inability to recognize spiritual signs and divine manifestations. He criticizes their superficial understanding and highlights the importance of spiritual perception beyond literal interpretations.",
+          "cross_references": [
+            "1 Corinthians 2:14",
+            "Hebrews 5:14",
+            "John 3:3",
+            "Romans 8:5-6"
+          ]
+        },
+        {
+          "title": "Divine Authentication",
+          "summary": "The chapter reveals the tension between human expectations of miraculous signs and God's sovereign revelation. Jesus demonstrates that true spiritual understanding comes through faith and revelation, not merely empirical evidence.",
+          "cross_references": [
+            "1 Corinthians 1:22-24",
+            "John 20:29",
+            "2 Corinthians 5:7",
+            "Hebrews 11:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do we understand divine confirmation and spiritual truth in contemporary religious contexts?",
+        "options": [
+          "Empirical evidence and miraculous signs are essential for spiritual validation",
+          "Personal spiritual discernment and faith transcend external proofs",
+          "Theological understanding requires a combination of rational analysis and spiritual perception",
+          "Direct supernatural interventions are the primary means of confirming spiritual truth"
+        ]
+      }
+    }
+  }
+}

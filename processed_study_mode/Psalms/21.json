@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and breathe deeply, reflecting on God's strength and victory in your life, just as the psalm celebrates the king's triumph through divine power.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How does recognizing God's ultimate power change the way you approach personal challenges?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Surrender my fears and struggles to God's sovereignty",
+            "response": "Write a prayer of surrender, listing specific concerns"
+          },
+          {
+            "id": 2,
+            "text": "Trust in God's plan even when outcomes seem uncertain",
+            "response": "Journal about a current situation where you need increased faith"
+          },
+          {
+            "id": 3,
+            "text": "Celebrate God's past victories in my life",
+            "response": "Create a gratitude list of times God has intervened"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a crown representing God's ultimate authority, and around it, illustrate moments of personal victory where you've experienced divine support",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 21 shifted your understanding of God's role in leadership and personal triumph?",
+        "options": [
+          "I see God as more actively involved in my life's challenges",
+          "I recognize divine power works differently than human power",
+          "I'm more aware of God's sovereignty over personal and national struggles",
+          "I feel more hopeful about overcoming obstacles"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of divine relationship resonates most deeply?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Divine Empowerment",
+            "expansion": "God provides strength beyond human limitations, transforming weakness into victory."
+          },
+          {
+            "id": "B",
+            "text": "Royal Blessing",
+            "expansion": "Divine favor elevates human leadership through supernatural intervention."
+          },
+          {
+            "id": "C",
+            "text": "Triumph over Adversity",
+            "expansion": "Faithful trust leads to ultimate conquest against seemingly insurmountable challenges."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How does acknowledging divine sovereignty reshape our understanding of personal agency and responsibility?"
+      },
+      "moral_slider": {
+        "question": "What is the balance between divine intervention and human effort?",
+        "left_label": "Human Striving",
+        "right_label": "Divine Providence"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on divine relationship evolved?",
+        "options": [
+          "Deepened appreciation of God's strategic involvement",
+          "Recognized personal limitations more clearly",
+          "Understood leadership as spiritual stewardship",
+          "Embraced vulnerability as strength"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Sovereignty in Royal Triumph",
+          "summary": "This psalm celebrates God's empowerment of the king and His supreme authority in granting victory. It demonstrates how divine favor transforms human leadership through spiritual strength and covenant relationship.",
+          "cross_references": [
+            "2 Samuel 7:12-16",
+            "Romans 8:28",
+            "1 Chronicles 17:11-14",
+            "Revelation 19:16"
+          ]
+        },
+        {
+          "title": "God's Protective Power",
+          "summary": "The psalm reveals God's comprehensive protection over His chosen leaders, illustrating how divine intervention secures and preserves those aligned with His purposes. It highlights the spiritual dynamic between faithfulness and supernatural intervention.",
+          "cross_references": [
+            "Psalm 18:35",
+            "Isaiah 54:17",
+            "Zechariah 4:6",
+            "Ephesians 6:10-11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine election and human responsibility intersect in spiritual leadership?",
+        "options": [
+          "Divine sovereignty completely determines leadership outcomes",
+          "Human faithfulness is the primary mechanism for divine blessing",
+          "Collaborative partnership between divine grace and human obedience",
+          "Leadership success is independent of spiritual alignment"
+        ]
+      }
+    }
+  }
+}

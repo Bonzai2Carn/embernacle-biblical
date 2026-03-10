@@ -1,0 +1,117 @@
+{
+  "book": "Job",
+  "chapter": 14,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe slowly and acknowledge your mortality, remembering that each moment is precious and transient",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you view the brevity and fragility of human life after reading this chapter?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel anxious about life's uncertainty",
+            "response": "Practice gratitude for each day and focus on meaningful connections"
+          },
+          {
+            "id": 2,
+            "text": "I'm curious about God's perspective on human limitations",
+            "response": "Study scripture passages about God's eternal nature and human dependence"
+          },
+          {
+            "id": 3,
+            "text": "I want to make my limited time count",
+            "response": "Create a intentional life plan that aligns with your deepest values"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a flower that blooms briefly but beautifully, representing human life's temporary nature",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on life's duration and meaning shifted?",
+        "options": [
+          "I'm more aware of life's fragility",
+          "I feel more compassionate toward human struggles",
+          "I'm motivated to live more intentionally",
+          "I'm curious about spiritual perspectives on mortality"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on human mortality resonates most deeply?",
+        "choices": [
+          {
+            "id": "1",
+            "text": "Humans are transient like flowers",
+            "expansion": "Our brief existence is ephemeral and fragile, quickly passing like a momentary bloom."
+          },
+          {
+            "id": "2",
+            "text": "Divine limits constrain human life",
+            "expansion": "God predetermined the boundaries of human existence with precise, predetermined parameters."
+          },
+          {
+            "id": "3",
+            "text": "Life is characterized by inherent trouble",
+            "expansion": "Human experience is fundamentally marked by struggle, limitation, and imperfection."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human life is so brief and troubled, what gives meaning to our existence?"
+      },
+      "moral_slider": {
+        "question": "How do you reconcile human brevity with divine awareness?",
+        "left_label": "Insignificance",
+        "right_label": "Sacred Purpose"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of mortality shifted?",
+        "options": [
+          "I now see life as more precious",
+          "I'm more aware of existential limitations",
+          "I recognize human vulnerability",
+          "I'm more curious about divine perspectives"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Mortality and Divine Sovereignty",
+          "summary": "Job reflects on the brevity and fragility of human life, acknowledging God's ultimate control over human existence. He emphasizes the transient nature of human experience compared to God's eternal perspective.",
+          "cross_references": [
+            "Psalm 90:10",
+            "James 4:14",
+            "Genesis 3:19",
+            "Ecclesiastes 3:2"
+          ]
+        },
+        {
+          "title": "Human Limitation and Divine Judgment",
+          "summary": "Job wrestles with the concept of divine judgment, questioning how a finite, imperfect being can stand before an infinite, perfect God. He recognizes human inherent weakness and the challenge of achieving righteousness.",
+          "cross_references": [
+            "Romans 3:23",
+            "Isaiah 64:6",
+            "Psalm 103:14",
+            "1 John 1:8"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Job's perspective on human mortality relate to understanding God's justice and mercy?",
+        "options": [
+          "Human life is too brief to fully comprehend divine plans",
+          "God's judgment must be tempered by understanding human frailty",
+          "Divine sovereignty does not negate human responsibility",
+          "Suffering reveals the complex relationship between human weakness and spiritual growth"
+        ]
+      }
+    }
+  }
+}

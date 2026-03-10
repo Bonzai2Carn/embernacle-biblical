@@ -1,0 +1,117 @@
+{
+  "book": "Jude",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently affirm: 'I am called, sanctified, and preserved in Christ'",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you actively 'contend earnestly for the faith' in your daily life?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Study Scripture more deeply",
+            "response": "Commit to a daily Bible reading plan"
+          },
+          {
+            "id": "B",
+            "text": "Protect spiritual community from false teachings",
+            "response": "Learn to discern biblical truth from cultural distortions"
+          },
+          {
+            "id": "C",
+            "text": "Share your faith confidently",
+            "response": "Practice explaining your beliefs respectfully to others"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a shield representing your spiritual defense against false teachings",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this passage changed your understanding of spiritual vigilance?",
+        "options": [
+          "I now see the importance of knowing sound doctrine",
+          "I recognize potential spiritual threats more clearly",
+          "I feel more responsible for protecting my faith community",
+          "I understand the need for spiritual discernment"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of spiritual vigilance most resonates with you?",
+        "choices": [
+          {
+            "id": "a",
+            "text": "Contending for the faith",
+            "expansion": "Defending spiritual truth requires active commitment and discernment."
+          },
+          {
+            "id": "b",
+            "text": "Recognizing false teachers",
+            "expansion": "Spiritual maturity involves distinguishing authentic from counterfeit spiritual leadership."
+          },
+          {
+            "id": "c",
+            "text": "Being 'preserved in Christ'",
+            "expansion": "Divine protection is a profound promise of grace and security."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do subtle compromises in doctrine potentially erode the foundations of genuine faith?"
+      },
+      "moral_slider": {
+        "question": "Where do you position yourself between passive acceptance and active spiritual discernment?",
+        "left_label": "Passive Acceptance",
+        "right_label": "Active Discernment"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual authenticity evolved?",
+        "options": [
+          "More aware of spiritual deception",
+          "More committed to scriptural truth",
+          "More compassionate toward spiritual seekers",
+          "More cautious about religious leadership"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Contending for the Faith",
+          "summary": "Jude emphasizes the critical importance of defending authentic Christian doctrine against false teachers. He calls believers to actively protect and preserve the foundational truths of the gospel.",
+          "cross_references": [
+            "2 Peter 2:1-3",
+            "Galatians 1:8-9",
+            "1 Timothy 4:1-2",
+            "2 John 1:7-11"
+          ]
+        },
+        {
+          "title": "Divine Preservation of Believers",
+          "summary": "The introduction highlights God's sovereign work in calling, sanctifying, and preserving believers through Jesus Christ. This underscores the security and divine protection available to true followers.",
+          "cross_references": [
+            "John 10:28-29",
+            "Romans 8:38-39",
+            "Philippians 1:6",
+            "1 Peter 1:3-5"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should believers discern and respond to potentially false teachings within the church?",
+        "options": [
+          "Rely solely on pastoral leadership for doctrinal guidance",
+          "Personally study Scripture and compare teachings critically",
+          "Prioritize unity over theological precision",
+          "Develop a comprehensive understanding of core Christian doctrines"
+        ]
+      }
+    }
+  }
+}

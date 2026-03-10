@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 143,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe slowly and imagine God's mercy washing over your current struggles, just as David sought divine comfort in his distress",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How are you currently experiencing a season of spiritual battle or emotional exhaustion?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I feel overwhelmed by external challenges",
+            "response": "Pause and pray specifically about each challenge, asking God for guidance"
+          },
+          {
+            "id": 2,
+            "text": "I'm experiencing inner spiritual dryness",
+            "response": "Spend time listening to worship music and journaling your honest feelings to God"
+          },
+          {
+            "id": 3,
+            "text": "I'm seeking direction in a difficult decision",
+            "response": "Request divine wisdom, noting David's plea for God's clear leading in this Psalm"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape with a dark, cloudy side representing your struggles and a light, open side representing God's rescue and hope",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Psalm 143 shifted your perspective on facing life's challenges?",
+        "options": [
+          "I feel more hopeful about my current struggles",
+          "I understand the importance of honest prayer",
+          "I recognize God's faithfulness even in darkness",
+          "I'm more willing to be vulnerable with God"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual struggle resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Spiritual Darkness",
+            "expansion": "The psalmist's profound sense of being overwhelmed by enemies and spiritual oppression"
+          },
+          {
+            "id": 2,
+            "text": "Desperate Plea for Divine Guidance",
+            "expansion": "The raw, vulnerable request for God's immediate intervention and direction"
+          },
+          {
+            "id": 3,
+            "text": "Seeking Spiritual Restoration",
+            "expansion": "The urgent desire to be renewed and aligned with God's will despite personal challenges"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might your perception of divine assistance change if you viewed challenges as opportunities for spiritual transformation rather than obstacles?"
+      },
+      "moral_slider": {
+        "question": "How do you balance human vulnerability with spiritual resilience?",
+        "left_label": "Human Weakness",
+        "right_label": "Divine Strength"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of prayer and divine relationship evolved?",
+        "options": [
+          "Recognize prayer as dialogue, not demand",
+          "Understand spiritual struggles as growth opportunities",
+          "Embrace vulnerability in spiritual communication",
+          "View challenges as potential pathways to deeper understanding"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Mercy and Human Humility",
+          "summary": "David acknowledges his complete dependence on God's mercy and righteousness in the midst of overwhelming personal challenges. He demonstrates profound spiritual vulnerability, recognizing human frailty against divine perfection.",
+          "cross_references": [
+            "Romans 3:23",
+            "Ephesians 2:8-9",
+            "James 4:6",
+            "Psalm 86:5"
+          ]
+        },
+        {
+          "title": "Spiritual Warfare and Deliverance",
+          "summary": "The psalm reveals an intense spiritual struggle where David seeks divine intervention against oppressive circumstances and enemies. He appeals to God's faithfulness as his ultimate source of protection and restoration.",
+          "cross_references": [
+            "Ephesians 6:12",
+            "2 Corinthians 10:4-5",
+            "1 John 4:4",
+            "Psalm 18:48"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does David's theological perspective on personal struggle and divine intervention challenge contemporary Christian understanding of spiritual challenges?",
+        "options": [
+          "Personal righteousness is less important than divine grace",
+          "Spiritual warfare is primarily an internal psychological battle",
+          "God's responsiveness is directly proportional to human humility",
+          "Persistent prayer transforms external circumstances"
+        ]
+      }
+    }
+  }
+}

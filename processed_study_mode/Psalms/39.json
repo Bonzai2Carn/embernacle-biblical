@@ -1,0 +1,117 @@
+{
+  "book": "Psalms",
+  "chapter": 39,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Breathe slowly and silently, acknowledging the brevity of human life and God's eternal perspective",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How am I managing my speech and emotions in challenging moments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I tend to speak impulsively when frustrated",
+            "response": "Practice pausing and praying before responding to difficult situations"
+          },
+          {
+            "id": 2,
+            "text": "I often suppress my emotions",
+            "response": "Journal your feelings and seek healthy ways to process them before God"
+          },
+          {
+            "id": 3,
+            "text": "I struggle with maintaining perspective during trials",
+            "response": "Develop a habit of remembering life's temporary nature and God's eternal care"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a timeline showing your life as a small line, with God's eternity as an infinite space surrounding it",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this Psalm shifted your understanding of life's fragility?",
+        "options": [
+          "I feel more aware of life's brevity",
+          "I'm more focused on eternal perspectives",
+          "I want to be more intentional with my time",
+          "I'm more sensitive to God's view of my life"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which profound theme resonates most from David's meditation on human frailty?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Transient Nature of Human Life",
+            "expansion": "Recognizing our mortality and brevity highlights the importance of seeking deeper spiritual understanding."
+          },
+          {
+            "id": 2,
+            "text": "Self-Restraint in Suffering",
+            "expansion": "Choosing silence and patient endurance during painful moments demonstrates spiritual maturity."
+          },
+          {
+            "id": 3,
+            "text": "Divine Perspective on Human Struggles",
+            "expansion": "Understanding that God sees beyond our temporal challenges provides ultimate comfort and context."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If human life is truly as fleeting as a 'mere handbreadth', what measurements of significance transcend our brief existence?"
+      },
+      "moral_slider": {
+        "question": "How do we balance acknowledging human weakness with maintaining spiritual hope?",
+        "left_label": "Human Limitation",
+        "right_label": "Divine Possibility"
+      },
+      "reevaluation": {
+        "question": "How has this psalm challenged your understanding of suffering and temporality?",
+        "options": [
+          "I now see suffering as a pathway to deeper spiritual insight",
+          "My perspective on human mortality has become more nuanced",
+          "I recognize the importance of patient endurance",
+          "I feel more aware of life's transient nature"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Human Mortality and Divine Perspective",
+          "summary": "David reflects deeply on the transient nature of human life, acknowledging the brevity of human existence and the importance of understanding God's eternal perspective. The psalm explores the tension between human frailty and divine sovereignty.",
+          "cross_references": [
+            "James 4:14",
+            "Ecclesiastes 3:20",
+            "Isaiah 40:6-8",
+            "1 Peter 1:24-25"
+          ]
+        },
+        {
+          "title": "Self-Restraint and Spiritual Discipline",
+          "summary": "The psalm demonstrates a conscious effort to control speech and emotional responses during challenging times, recognizing the potential destructiveness of unguarded words. David seeks spiritual maturity through intentional restraint and reflection.",
+          "cross_references": [
+            "Proverbs 10:19",
+            "James 3:2-5",
+            "Ephesians 4:29",
+            "Colossians 4:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does understanding human mortality transform spiritual perspective and lived faith?",
+        "options": [
+          "Recognizing life's brevity leads to more intentional spiritual pursuits",
+          "Acknowledging human limitations increases dependence on divine grace",
+          "Understanding mortality reduces anxiety and promotes present-moment living",
+          "Embracing human fragility deepens appreciation for God's eternal nature"
+        ]
+      }
+    }
+  }
+}

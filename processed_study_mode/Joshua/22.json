@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 22,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply, reflecting on promises kept and commitments honored in your own life, just as the tribes remained faithful to their covenant.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you demonstrate loyalty and follow-through in your current commitments?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Review and recommit to existing promises",
+            "response": "Make a list of current commitments and assess your progress"
+          },
+          {
+            "id": 2,
+            "text": "Communicate openly about potential challenges",
+            "response": "Have honest conversations with those depending on you"
+          },
+          {
+            "id": 3,
+            "text": "Seek accountability from trusted friends",
+            "response": "Share your goals and ask for support in maintaining them"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw an image representing unity and cooperation, showing two different groups working together toward a common goal",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of commitment and community?",
+        "options": [
+          "I better understand the importance of keeping promises",
+          "I see how communication prevents misunderstandings",
+          "I recognize the value of staying connected to a larger community",
+          "I learned about resolving potential conflicts peacefully"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of covenant commitment resonates most?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Tribal Unity Despite Geographic Separation",
+            "expansion": "Maintaining spiritual connection transcends physical distance"
+          },
+          {
+            "id": 2,
+            "text": "Proactive Communication to Prevent Misunderstandings",
+            "expansion": "Dialogue can prevent potential conflict before it escalates"
+          },
+          {
+            "id": 3,
+            "text": "Honoring Promises Made to Leadership",
+            "expansion": "Integrity in fulfilling commitments builds communal trust"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might misinterpreted intentions create division where unity could exist?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between individual tribal identity and collective national purpose?",
+        "left_label": "Tribal Autonomy",
+        "right_label": "National Cohesion"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of covenant commitment evolved?",
+        "options": [
+          "Recognize complexity of inter-tribal relationships",
+          "Appreciate nuanced communication",
+          "Understand importance of shared spiritual heritage",
+          "Value proactive conflict resolution"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Covenant Loyalty",
+          "summary": "The tribes east of the Jordan demonstrate unwavering commitment to their covenant with God and their fellow Israelites. Their faithfulness in supporting the conquest of Canaan reflects deep spiritual dedication and unity.",
+          "cross_references": [
+            "Deuteronomy 3:18-20",
+            "Numbers 32:20-22",
+            "1 Chronicles 5:25-26",
+            "Galatians 6:2"
+          ]
+        },
+        {
+          "title": "Theological Misunderstandings",
+          "summary": "The potential altar construction highlights how theological differences can create conflict, and demonstrates the importance of communication and understanding in resolving spiritual disputes. The tribes proactively explain their intentions to prevent potential division.",
+          "cross_references": [
+            "Ephesians 4:3",
+            "Proverbs 15:1",
+            "Romans 14:19",
+            "1 Corinthians 1:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do cultural and geographical differences impact spiritual unity among believers?",
+        "options": [
+          "Geographical separation can create theological divergence",
+          "Shared covenant transcends physical boundaries",
+          "Communication and mutual understanding prevent spiritual fragmentation",
+          "Local contexts require contextual theological interpretations"
+        ]
+      }
+    }
+  }
+}

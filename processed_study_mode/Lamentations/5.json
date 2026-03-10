@@ -1,0 +1,117 @@
+{
+  "book": "Lamentations",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and breathe deeply. Imagine carrying a heavy burden of loss, then visualize releasing it to God's compassionate care.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How have unexpected hardships challenged your understanding of God's faithfulness?",
+        "options": [
+          {
+            "id": "A",
+            "text": "I feel distant from God during struggles",
+            "response": "Journal a prayer of raw honesty about your current emotional state"
+          },
+          {
+            "id": "B",
+            "text": "I see God's resilience through difficulty",
+            "response": "List three ways God has sustained you during challenging seasons"
+          },
+          {
+            "id": "C",
+            "text": "I'm uncertain about God's plan",
+            "response": "Seek counsel from a spiritual mentor about processing grief"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a landscape showing a path from darkness into light, representing hope emerging from lament",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Lamentations 5 shifted your perspective on suffering?",
+        "options": [
+          "I understand lament as a valid spiritual response",
+          "I see suffering can coexist with faith",
+          "I recognize the importance of communal healing",
+          "I'm more compassionate toward others' pain"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which emotion resonates most from the community's suffering?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Abandonment",
+            "expansion": "The profound sense of being forgotten by both human and divine protection"
+          },
+          {
+            "id": 2,
+            "text": "Exhaustion",
+            "expansion": "The crushing weight of continuous oppression without relief or hope"
+          },
+          {
+            "id": 3,
+            "text": "Displacement",
+            "expansion": "The traumatic loss of homeland, identity, and generational inheritance"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When systemic suffering occurs, who bears ultimate responsibility: the oppressors, the oppressed, or the silent witnesses?"
+      },
+      "moral_slider": {
+        "question": "How does communal suffering test the boundaries of theological understanding?",
+        "left_label": "Divine Abandonment",
+        "right_label": "Redemptive Purpose"
+      },
+      "reevaluation": {
+        "question": "How has this text transformed your understanding of collective trauma?",
+        "options": [
+          "Deepened empathy for marginalized communities",
+          "Recognized complexity of historical suffering",
+          "Questioned simplistic theological explanations",
+          "Seen resilience in communal lament"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Discipline and National Suffering",
+          "summary": "The chapter reveals the profound consequences of collective national disobedience. Israel experiences divine correction through profound social and economic displacement, demonstrating God's commitment to covenant accountability.",
+          "cross_references": [
+            "Deuteronomy 28:15-68",
+            "Jeremiah 29:11-14",
+            "Psalm 79:8-9",
+            "2 Chronicles 7:14"
+          ]
+        },
+        {
+          "title": "Communal Lament and Spiritual Restoration",
+          "summary": "Despite overwhelming despair, the people maintain theological hope through honest confession and petition to God. Their vulnerability demonstrates spiritual resilience amid national catastrophe.",
+          "cross_references": [
+            "Psalm 137:1-4",
+            "Isaiah 40:31",
+            "Nehemiah 1:4-11",
+            "Joel 2:12-13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does divine discipline intersect with God's ultimate redemptive purposes?",
+        "options": [
+          "Punishment is primarily punitive and demonstrates God's wrath",
+          "Discipline functions as corrective transformation toward restoration",
+          "Suffering reveals human limitation and divine sovereignty",
+          "National trauma represents a pathway to spiritual renewal"
+        ]
+      }
+    }
+  }
+}

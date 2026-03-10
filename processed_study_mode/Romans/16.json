@@ -1,0 +1,117 @@
+{
+  "book": "Romans",
+  "chapter": 16,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently thank God for the often-unseen workers in your local church community who serve faithfully",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I better recognize and support the behind-the-scenes servants in my faith community?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Write personal thank you notes",
+            "response": "Identify 2-3 church volunteers and express genuine appreciation this week"
+          },
+          {
+            "id": 2,
+            "text": "Offer practical help",
+            "response": "Ask church leadership how you can support ongoing ministry work"
+          },
+          {
+            "id": 3,
+            "text": "Pray specifically",
+            "response": "Develop a weekly prayer list for church workers and ministers"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing different people serving together in your church, showing how each person contributes uniquely",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Romans 16 changed your view of church community?",
+        "options": [
+          "I see more value in behind-the-scenes servants",
+          "I recognize the importance of mutual support",
+          "I want to be more intentional about acknowledging others' contributions",
+          "I understand church work is a collaborative effort"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of early Christian community resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Recognition of Women's Leadership",
+            "expansion": "Phoebe's role demonstrates the inclusive nature of early Christian communities."
+          },
+          {
+            "id": 2,
+            "text": "Personal Risk for Faith",
+            "expansion": "Priscilla and Aquila's willingness to risk their lives reveals profound spiritual commitment."
+          },
+          {
+            "id": 3,
+            "text": "Interconnected Church Networks",
+            "expansion": "Paul's greetings show a deeply relational, globally connected spiritual movement."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal relationships transform theological understanding beyond doctrinal statements?"
+      },
+      "moral_slider": {
+        "question": "What determines spiritual credibility: Personal sacrifice or theological precision?",
+        "left_label": "Theological Precision",
+        "right_label": "Personal Sacrifice"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of Christian community evolved?",
+        "options": [
+          "More appreciative of diverse leadership roles",
+          "Recognize importance of personal relationships",
+          "Understanding church as a network, not just an institution",
+          "Valuing sacrificial commitment over formal credentials"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Church Leadership and Partnership",
+          "summary": "Paul highlights the collaborative nature of early Christian ministry, emphasizing the critical roles of both men and women in spreading the gospel. He recognizes numerous individuals who contributed to the mission of the church, demonstrating that effective ministry requires diverse contributions and mutual support.",
+          "cross_references": [
+            "Acts 18:26",
+            "1 Corinthians 16:19",
+            "Colossians 4:15",
+            "2 Timothy 4:19"
+          ]
+        },
+        {
+          "title": "Unity and Spiritual Discernment",
+          "summary": "Paul warns against divisive individuals who might disrupt church unity and encourages believers to be wise about good and innocent about evil. The chapter underscores the importance of maintaining spiritual harmony and protecting the community of faith from destructive influences.",
+          "cross_references": [
+            "1 Corinthians 1:10",
+            "Ephesians 4:3",
+            "Titus 3:10",
+            "2 John 1:10"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should the church understand and implement leadership roles based on Paul's descriptions in Romans 16?",
+        "options": [
+          "Leadership should be strictly hierarchical and gender-defined",
+          "Leadership roles should be based on spiritual gifting regardless of gender",
+          "Leadership is primarily about formal church positions",
+          "Leadership is fundamentally about servanthood and mutual support"
+        ]
+      }
+    }
+  }
+}

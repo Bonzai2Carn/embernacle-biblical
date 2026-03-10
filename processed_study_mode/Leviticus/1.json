@@ -1,0 +1,117 @@
+{
+  "book": "Leviticus",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and imagine presenting your most valuable possession as a voluntary offering to God, symbolizing complete surrender",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I demonstrate genuine, willing sacrifice in my current life circumstances?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Donate something meaningful",
+            "response": "Select an item of personal value to give away or donate"
+          },
+          {
+            "id": 2,
+            "text": "Offer my time sacrificially",
+            "response": "Commit to volunteering or serving without expectation of return"
+          },
+          {
+            "id": 3,
+            "text": "Surrender a personal desire",
+            "response": "Intentionally set aside a personal preference for spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture of yourself bringing your 'best' gift to God, representing total voluntary surrender",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading about sacrificial offerings changed my understanding of worship?",
+        "options": [
+          "Worship is more about attitude than ritual",
+          "God values the heart behind the offering",
+          "Sacrifice requires personal cost",
+          "Genuine worship involves complete surrender"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of sacrifice most resonates with your understanding of spiritual devotion?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Personal Cost of Offering",
+            "expansion": "Sacrifice requires giving something valuable and unblemished from one's own resources."
+          },
+          {
+            "id": 2,
+            "text": "Intentional Act of Worship",
+            "expansion": "The offering represents a deliberate, voluntary act of connection with the divine."
+          },
+          {
+            "id": 3,
+            "text": "Symbolic Cleansing/Atonement",
+            "expansion": "The ritual transforms personal imperfection through a structured spiritual transaction."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God is all-powerful, why would He require human beings to perform elaborate sacrificial rituals?"
+      },
+      "moral_slider": {
+        "question": "To what extent does ritual demonstrate genuine spiritual commitment?",
+        "left_label": "External Performance",
+        "right_label": "Internal Transformation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual offering changed?",
+        "options": [
+          "Ritual matters more than I previously thought",
+          "Personal intention is more important than technical compliance",
+          "Symbolic acts can have profound spiritual significance",
+          "I see sacrifice as a form of genuine relational communication with the divine"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Sacrificial Atonement",
+          "summary": "The burnt offering represents total consecration and atonement for sin through a voluntary sacrifice. It symbolizes complete surrender of the worshipper to God's divine purposes and judgment.",
+          "cross_references": [
+            "Romans 12:1",
+            "Hebrews 10:5-7",
+            "1 Peter 2:5",
+            "Ephesians 5:2"
+          ]
+        },
+        {
+          "title": "Divine Holiness and Approach",
+          "summary": "God establishes precise protocols for human approach to divine presence through sacrificial systems. The requirement of an unblemished animal represents the absolute perfection required to commune with a holy God.",
+          "cross_references": [
+            "Hebrews 9:22",
+            "Isaiah 6:3",
+            "1 Peter 1:16",
+            "Habakkuk 1:13"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the burnt offering concept illuminate understanding of Christ's sacrificial role?",
+        "options": [
+          "Christ as the perfect, unblemished sacrifice",
+          "Total surrender and complete dedication to God's will",
+          "Restoration of broken relationship between humanity and divine presence",
+          "Symbolic representation of spiritual transformation"
+        ]
+      }
+    }
+  }
+}

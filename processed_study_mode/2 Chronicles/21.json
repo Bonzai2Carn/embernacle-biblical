@@ -1,0 +1,117 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 21,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on how family leadership transitions can be complex and require wisdom",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you handle inherited responsibilities or leadership roles?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Seek guidance from mentors",
+            "response": "Schedule a meeting with a trusted advisor to discuss leadership challenges"
+          },
+          {
+            "id": "B",
+            "text": "Study past leaders' experiences",
+            "response": "Research and journal about successful leadership transitions"
+          },
+          {
+            "id": "C",
+            "text": "Pray for divine wisdom",
+            "response": "Develop a specific prayer routine focusing on leadership discernment"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing how leadership and character can be passed down through generations",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of family legacy?",
+        "options": [
+          "Leadership is more about character than birthright",
+          "Family dynamics deeply impact spiritual inheritance",
+          "Individual choices matter more than family reputation",
+          "Spiritual wisdom isn't automatically transferred"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "What resonates most about leadership succession and familial dynamics?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Inherited Power Dynamics",
+            "expansion": "Power transferred through birthright can create complex familial tensions and potential corruption."
+          },
+          {
+            "id": 2,
+            "text": "Parental Legacy Distribution",
+            "expansion": "How parents allocate resources and opportunities reveals profound relational priorities."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual Inheritance",
+            "expansion": "Leadership succession carries profound spiritual and moral responsibilities beyond mere bloodline."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "When power is inherited rather than earned, does legitimate authority emerge naturally, or must it be consciously cultivated?"
+      },
+      "moral_slider": {
+        "question": "How do familial obligations balance against individual moral accountability?",
+        "left_label": "Family Loyalty",
+        "right_label": "Personal Integrity"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of leadership succession evolved?",
+        "options": [
+          "Power is more complex than simple inheritance",
+          "Moral character matters more than birthright",
+          "Family dynamics profoundly shape leadership potential",
+          "Spiritual legacy transcends genetic lineage"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Succession and Divine Judgment",
+          "summary": "Jehoram's ascension to the throne demonstrates the complex dynamics of royal inheritance in ancient Israel. Despite receiving wealth and resources, his moral failings lead to divine punishment and spiritual decline.",
+          "cross_references": [
+            "1 Kings 22:51-53",
+            "2 Kings 8:16-19",
+            "Proverbs 14:34",
+            "Romans 6:23"
+          ]
+        },
+        {
+          "title": "Consequences of Ungodly Leadership",
+          "summary": "Jehoram's departure from God's covenant path reveals how leadership's spiritual condition impacts an entire nation. His idolatrous practices and rejection of God's guidance result in national vulnerability and suffering.",
+          "cross_references": [
+            "Deuteronomy 28:15-20",
+            "Psalm 1:4-6",
+            "Jeremiah 23:1-4",
+            "James 3:1"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How do inherited leadership positions influence spiritual accountability?",
+        "options": [
+          "Individual moral choices matter more than familial position",
+          "Spiritual legacy can both positively and negatively impact successors",
+          "Divine judgment transcends hereditary privileges",
+          "Leadership requires active spiritual commitment beyond birthright"
+        ]
+      }
+    }
+  }
+}

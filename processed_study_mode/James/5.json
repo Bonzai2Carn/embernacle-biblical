@@ -1,0 +1,117 @@
+{
+  "book": "James",
+  "chapter": 5,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Take 10 seconds to breathe deeply and reflect on the value of people over possessions",
+        "timer": 10
+      },
+      "two_step": {
+        "reflect_question": "How am I potentially exploiting or undervaluing the labor of others?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Review my workplace practices",
+            "response": "Schedule a meeting to ensure fair compensation and treatment"
+          },
+          {
+            "id": 2,
+            "text": "Examine my consumer habits",
+            "response": "Research ethical sourcing of products I regularly purchase"
+          },
+          {
+            "id": 3,
+            "text": "Check my personal financial decisions",
+            "response": "Audit personal spending to ensure alignment with biblical stewardship principles"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing wealth that can't be corrupted - what would that look like?",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed my understanding of wealth and justice?",
+        "options": [
+          "Wealth is temporary and not a true measure of worth",
+          "God deeply cares about fair treatment of workers",
+          "Material possessions can distract from spiritual growth",
+          "Personal character matters more than financial status"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which perspective on wealth most challenges your understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Wealth can become a moral trap",
+            "expansion": "Material accumulation without ethical consideration corrupts the soul's spiritual landscape."
+          },
+          {
+            "id": 2,
+            "text": "Divine justice sees economic oppression",
+            "expansion": "God hears the unspoken cries of the marginalized and exploited workers."
+          },
+          {
+            "id": 3,
+            "text": "Spiritual wealth transcends material possessions",
+            "expansion": "True richness emerges from character, compassion, and spiritual integrity."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If your current economic practices were publicly displayed, would they reflect justice or exploitation?"
+      },
+      "moral_slider": {
+        "question": "How do personal economic choices intersect with spiritual accountability?",
+        "left_label": "Individual Freedom",
+        "right_label": "Communal Responsibility"
+      },
+      "reevaluation": {
+        "question": "How has this chapter reshaped your understanding of wealth and ethics?",
+        "options": [
+          "I recognize economic actions have spiritual consequences",
+          "I'm more aware of systemic economic injustice",
+          "I feel challenged to examine my own economic behaviors",
+          "I see wealth as a potential spiritual test"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Justice and Economic Exploitation",
+          "summary": "James confronts systemic economic injustice where wealthy landowners oppress laborers through wage theft and manipulation. The passage emphasizes God's ultimate accountability for economic sins and the moral imperative of fair compensation.",
+          "cross_references": [
+            "Leviticus 19:13",
+            "Deuteronomy 24:14-15",
+            "Malachi 3:5",
+            "Proverbs 22:16"
+          ]
+        },
+        {
+          "title": "Judgment of Accumulated Wealth",
+          "summary": "The text presents a stark warning about material wealth that is accumulated through unrighteous means. Riches obtained through exploitation will ultimately decay and serve as testimony against those who acquired them unethically.",
+          "cross_references": [
+            "Matthew 6:19-20",
+            "Luke 12:33",
+            "1 Timothy 6:17-19",
+            "Ecclesiastes 5:10-11"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How should Christians understand material wealth in light of divine accountability?",
+        "options": [
+          "Wealth is inherently sinful and should be completely renounced",
+          "Wealth can be a blessing if obtained ethically and used generously",
+          "Economic success is a direct sign of God's favor",
+          "Wealth should be viewed as a temporary stewardship with ultimate spiritual responsibility"
+        ]
+      }
+    }
+  }
+}

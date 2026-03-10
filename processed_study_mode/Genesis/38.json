@@ -1,0 +1,117 @@
+{
+  "book": "Genesis",
+  "chapter": 38,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and reflect on family connections. Consider how your choices impact generations beyond yourself.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do your personal choices potentially influence your family's spiritual legacy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Prioritize moral integrity",
+            "response": "Commit to making decisions that honor God and set a positive example"
+          },
+          {
+            "id": "b",
+            "text": "Recognize generational patterns",
+            "response": "Identify and intentionally break negative family cycles"
+          },
+          {
+            "id": "c",
+            "text": "Seek redemptive paths",
+            "response": "Practice grace and restoration in family relationships"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a family tree showing how personal choices can branch into different paths of consequence and redemption",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter changed your understanding of family dynamics and personal responsibility?",
+        "options": [
+          "I see the importance of personal integrity",
+          "I recognize how individual choices impact generations",
+          "I understand God's grace works through imperfect people",
+          "I appreciate the complexity of family relationships"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which narrative element resonates most deeply with human complexity?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Judah's family formation",
+            "expansion": "The messy human process of building familial connections beyond tribal boundaries."
+          },
+          {
+            "id": 2,
+            "text": "Intermarriage dynamics",
+            "expansion": "Exploring cultural boundaries and identity through intimate relationships."
+          },
+          {
+            "id": 3,
+            "text": "Generational transmission of behavior",
+            "expansion": "How patterns of relationship and moral choice echo through family lineages."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "What unconscious motivations might drive Judah's choices in seeking connection outside his familial tribe?"
+      },
+      "moral_slider": {
+        "question": "How do cultural practices of marriage and inheritance create ethical tensions?",
+        "left_label": "Individual Autonomy",
+        "right_label": "Communal Obligation"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of familial complexity shifted?",
+        "options": [
+          "Recognize deeper human vulnerability",
+          "Understand cultural context matters",
+          "See beyond simplistic moral judgments",
+          "Appreciate narrative complexity"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Family Lineage and Divine Providence",
+          "summary": "Judah's separation from his brothers represents a critical moment in the genealogical narrative of Israel. This passage demonstrates how individual choices intersect with God's broader redemptive plan, even amidst human imperfection.",
+          "cross_references": [
+            "Matthew 1:3",
+            "Ruth 4:12",
+            "1 Chronicles 2:4",
+            "Hebrews 7:14"
+          ]
+        },
+        {
+          "title": "Covenant Challenges and Redemption",
+          "summary": "The narrative reveals the complex dynamics of inheritance, levirate marriage, and tribal continuation within the Israelite familial structure. God's sovereign design remains intact despite human moral failures and cultural complexities.",
+          "cross_references": [
+            "Deuteronomy 25:5-6",
+            "Ruth 3:12-13",
+            "Luke 20:27-33",
+            "Matthew 22:23-33"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does this passage demonstrate divine sovereignty in human genealogical progression?",
+        "options": [
+          "Individual moral failures cannot ultimately thwart God's redemptive plans",
+          "Covenant continuity transcends personal human shortcomings",
+          "Divine providence operates through imperfect human vessels",
+          "Redemptive history includes complex and sometimes morally ambiguous narratives"
+        ]
+      }
+    }
+  }
+}

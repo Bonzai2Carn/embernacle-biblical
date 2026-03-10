@@ -1,0 +1,117 @@
+{
+  "book": "1 Kings",
+  "chapter": 6,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine building something meaningful for God's purpose, carefully and precisely like Solomon crafted the temple",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can I dedicate my skills and resources to building something that honors God?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Use my professional talents for ministry",
+            "response": "Volunteer skills at church or nonprofit"
+          },
+          {
+            "id": 2,
+            "text": "Invest time in spiritual development",
+            "response": "Create a consistent daily devotional practice"
+          },
+          {
+            "id": 3,
+            "text": "Support kingdom-building projects",
+            "response": "Donate or fundraise for missional work"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a blueprint of a 'spiritual space' where you feel closest to God",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged my understanding of worship and dedication?",
+        "options": [
+          "I see dedication requires precision and intentionality",
+          "God values careful, thoughtful preparation",
+          "Building something meaningful takes time and commitment",
+          "Spiritual spaces reflect inner devotion"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of temple construction most resonates with spiritual dedication?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Divine Precision in Design",
+            "expansion": "God values intentional, meticulously planned spiritual spaces that reflect divine order."
+          },
+          {
+            "id": 2,
+            "text": "Solomon's Personal Investment",
+            "expansion": "True worship requires personal commitment and substantial personal resources."
+          },
+          {
+            "id": 3,
+            "text": "Symbolic Material Richness",
+            "expansion": "Sacred spaces reflect spiritual value through excellence of craftsmanship and materials."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If God doesn't dwell in human-made temples, why invest such extraordinary effort in constructing one?"
+      },
+      "moral_slider": {
+        "question": "How much human effort versus divine guidance shapes sacred spaces?",
+        "left_label": "Human Engineering",
+        "right_label": "Divine Inspiration"
+      },
+      "reevaluation": {
+        "question": "How has this chapter transformed your understanding of worship spaces?",
+        "options": [
+          "I see temples as more than physical structures",
+          "Precision in spiritual matters matters deeply",
+          "God values human creativity in worship",
+          "Sacred spaces reflect inner spiritual conditions"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Architecture and Spiritual Symbolism",
+          "summary": "Solomon's construction of the temple represents God's desire for a dwelling place among His people. The intricate design and precise measurements demonstrate divine order and the importance of worship spaces in connecting humanity with the divine presence.",
+          "cross_references": [
+            "Exodus 25:8-9",
+            "Hebrews 9:1-2",
+            "2 Chronicles 3:1-14",
+            "Ephesians 2:19-22"
+          ]
+        },
+        {
+          "title": "Obedience and Divine Covenant",
+          "summary": "Solomon's meticulous temple construction reflects Israel's commitment to God's covenant and the importance of following divine instructions precisely. The temple serves as a physical manifestation of God's promises and Israel's spiritual relationship with Yahweh.",
+          "cross_references": [
+            "1 Kings 8:22-53",
+            "Deuteronomy 12:5-6",
+            "Psalm 132:13-14",
+            "Acts 7:44-50"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does the temple's construction reveal God's relationship with His people?",
+        "options": [
+          "God desires intimate dwelling with humanity",
+          "Architectural precision reflects divine perfection",
+          "Worship spaces are symbolic representations of spiritual connection",
+          "Physical structures are temporary representations of eternal spiritual realities"
+        ]
+      }
+    }
+  }
+}

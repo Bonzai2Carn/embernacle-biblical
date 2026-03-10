@@ -1,0 +1,117 @@
+{
+  "book": "Matthew",
+  "chapter": 26,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and silently reflect on Jesus' surrender in the Garden of Gethsemane, breathing deeply and acknowledging His profound sacrifice",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing a challenging moment that requires personal surrender?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Resist and fight the challenge",
+            "response": "Practice sitting quietly and listening for God's guidance before reacting"
+          },
+          {
+            "id": 2,
+            "text": "Pray for strength like Jesus did",
+            "response": "Create a personal prayer journal documenting moments of struggle and seeking divine support"
+          },
+          {
+            "id": 3,
+            "text": "Avoid the difficult situation",
+            "response": "Develop courage by facing challenges with faith and humility"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a garden scene showing Jesus praying, with shadows representing His inner struggle and light representing His ultimate submission to God's will",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Matthew 26 shifted your understanding of Jesus' humanity and divine purpose?",
+        "options": [
+          "I see Jesus as more vulnerable and emotional",
+          "I understand the depth of His spiritual commitment",
+          "I recognize the complexity of His sacrifice",
+          "I feel more connected to His human experience"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which moment of spiritual tension resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Judas' Betrayal",
+            "expansion": "The intimate proximity between friendship and ultimate betrayal reveals profound human complexity."
+          },
+          {
+            "id": 2,
+            "text": "Peter's Denial",
+            "expansion": "Moments of human weakness expose our fragility when confronted with genuine spiritual challenge."
+          },
+          {
+            "id": 3,
+            "text": "Jesus' Gethsemane Prayer",
+            "expansion": "The wrestling between divine will and human vulnerability represents the deepest spiritual struggle."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If you knew betrayal was imminent, how would your response differ from Jesus' compassionate acceptance?"
+      },
+      "moral_slider": {
+        "question": "How do personal desires balance against larger spiritual purposes?",
+        "left_label": "Self-Preservation",
+        "right_label": "Sacrificial Purpose"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual resilience shifted?",
+        "options": [
+          "I recognize human weakness more compassionately",
+          "Divine purpose transcends individual comfort",
+          "Betrayal can exist even within intimate circles",
+          "Spiritual strength emerges through surrendering control"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "The Betrayal of Jesus",
+          "summary": "This theme explores the prophetic fulfillment of Christ's betrayal by Judas Iscariot, demonstrating the predetermined divine plan of redemption. The passage reveals human weakness contrasted with God's sovereign purpose in salvation.",
+          "cross_references": [
+            "Zechariah 11:12-13",
+            "Psalm 41:9",
+            "Acts 1:16-20",
+            "John 17:12"
+          ]
+        },
+        {
+          "title": "The Garden of Gethsemane",
+          "summary": "Christ's profound spiritual struggle in Gethsemane illustrates the internal conflict between human will and divine mission. This moment represents the ultimate submission of Jesus to the Father's redemptive plan, showcasing His complete obedience.",
+          "cross_references": [
+            "Isaiah 53:3-5",
+            "Hebrews 5:7-8",
+            "Luke 22:42-44",
+            "Romans 5:19"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Christ's submission in Gethsemane challenge traditional understandings of divine sovereignty and human free will?",
+        "options": [
+          "Jesus demonstrates complete voluntary surrender while simultaneously fulfilling prophetic destiny",
+          "The passage reveals tension between divine predestination and human choice",
+          "Christ's prayer shows emotional vulnerability within divine omnipotence",
+          "Gethsemane represents a pivotal moment of existential decision-making"
+        ]
+      }
+    }
+  }
+}

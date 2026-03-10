@@ -1,0 +1,117 @@
+{
+  "book": "John",
+  "chapter": 7,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and reflect on Jesus' declaration: 'My teaching is not my own, but comes from the One who sent me.' Breathe deeply and invite divine guidance into your understanding.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when people challenge your faith or understanding of Jesus?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Become defensive",
+            "response": "Practice active listening and responding with grace and humility"
+          },
+          {
+            "id": 2,
+            "text": "Withdraw from the conversation",
+            "response": "Learn to engage respectfully and share your perspective calmly"
+          },
+          {
+            "id": 3,
+            "text": "Study more to strengthen your understanding",
+            "response": "Continue seeking wisdom and be open to learning from others"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene where Jesus is teaching in the temple, showing the confusion and amazement of the people listening to him",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading John 7 shifted your understanding of Jesus' mission?",
+        "options": [
+          "Jesus faced significant resistance and misunderstanding",
+          "Jesus was confident in His divine purpose",
+          "Religious leaders were threatened by His teachings",
+          "Jesus prioritized God's will over human approval"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which spiritual dynamic in John 7 resonates most deeply?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Jesus' Tension with Religious Authorities",
+            "expansion": "Religious institutions can often resist transformative spiritual truth"
+          },
+          {
+            "id": 2,
+            "text": "Divine Timing and Human Impatience",
+            "expansion": "God's purposes unfold beyond human expectations and schedules"
+          },
+          {
+            "id": 3,
+            "text": "Public Perception vs. Authentic Faith",
+            "expansion": "True spiritual understanding transcends popular opinion and superficial judgment"
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do personal prejudices and cultural assumptions potentially blind us to recognizing genuine spiritual revelation?"
+      },
+      "moral_slider": {
+        "question": "Where do you position authentic spiritual discernment?",
+        "left_label": "External Religious Compliance",
+        "right_label": "Internal Spiritual Authenticity"
+      },
+      "reevaluation": {
+        "question": "How has this chapter challenged your understanding of spiritual leadership?",
+        "options": [
+          "Recognize complexity beyond simple religious categories",
+          "Understand the role of courage in spiritual truth-telling",
+          "Appreciate the tension between institutional authority and prophetic insight",
+          "Acknowledge the importance of patient, nuanced spiritual discernment"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Timing and Human Perception",
+          "summary": "Jesus operates on God's sovereign timeline, not human expectations. His brothers and cultural contemporaries misunderstood His mission and moment of revelation.",
+          "cross_references": [
+            "Galatians 4:4",
+            "Ecclesiastes 3:1",
+            "Romans 5:6",
+            "Acts 1:7"
+          ]
+        },
+        {
+          "title": "Spiritual Discernment vs Religious Tradition",
+          "summary": "True understanding of Jesus comes through spiritual revelation, not merely institutional religious knowledge. The religious leaders judged by appearance, while Jesus called for deeper spiritual perception.",
+          "cross_references": [
+            "1 Corinthians 2:14",
+            "Matthew 16:17",
+            "John 6:44",
+            "Hebrews 11:6"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus challenge traditional religious understanding in this chapter?",
+        "options": [
+          "By revealing divine authority beyond institutional structures",
+          "Through demonstrating that spiritual truth transcends cultural expectations",
+          "By exposing the limitations of legalistic religious interpretation",
+          "Highlighting personal relationship with God over ritualistic observance"
+        ]
+      }
+    }
+  }
+}

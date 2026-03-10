@@ -1,0 +1,117 @@
+{
+  "book": "Luke",
+  "chapter": 23,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Pause and silently reflect on Christ's sacrificial love while breathing deeply, remembering His willingness to suffer for humanity's redemption",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How do you respond when facing unjust treatment or criticism?",
+        "options": [
+          {
+            "id": 1,
+            "text": "React defensively",
+            "response": "Practice humility and grace, following Jesus' example of remaining calm under false accusation"
+          },
+          {
+            "id": 2,
+            "text": "Seek revenge",
+            "response": "Choose forgiveness and pray for those who mistreat you, modeling Christ's radical love"
+          },
+          {
+            "id": 3,
+            "text": "Withdraw completely",
+            "response": "Stand firm in your convictions while maintaining compassion, just as Jesus did during His trial"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a scene representing Jesus' compassion - perhaps showing Him speaking to one of the criminals on the cross, demonstrating mercy even in His most painful moment",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading Luke 23 transformed your understanding of suffering and redemption?",
+        "options": [
+          "I see suffering as an opportunity for spiritual growth",
+          "I recognize Jesus' incredible love more deeply",
+          "I understand the power of forgiveness in difficult circumstances",
+          "I'm challenged to respond to injustice with grace"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which aspect of Jesus' crucifixion most challenges your understanding?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "Jesus' silence before accusers",
+            "expansion": "Profound strength emerges through dignified non-resistance."
+          },
+          {
+            "id": 2,
+            "text": "The criminal's redemption",
+            "expansion": "Grace transcends human judgment and timing."
+          },
+          {
+            "id": 3,
+            "text": "The supernatural darkness",
+            "expansion": "Divine suffering manifests through cosmic and spiritual upheaval."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How might Jesus' response to suffering reveal more about power than weakness?"
+      },
+      "moral_slider": {
+        "question": "Where do divine justice and human mercy intersect?",
+        "left_label": "Strict Judgment",
+        "right_label": "Radical Compassion"
+      },
+      "reevaluation": {
+        "question": "How has your perspective on sacrifice and redemption shifted?",
+        "options": [
+          "I see suffering differently",
+          "Forgiveness seems more profound",
+          "Divine love appears more complex",
+          "Human nature feels more nuanced"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Divine Suffering and Judicial Injustice",
+          "summary": "Jesus endures a profoundly unjust legal process, demonstrating divine submission to human systems while revealing God's redemptive plan. His innocence is repeatedly affirmed, yet He is condemned to crucifixion.",
+          "cross_references": [
+            "Isaiah 53:7",
+            "Matthew 27:11-26",
+            "1 Peter 2:23",
+            "Romans 5:8"
+          ]
+        },
+        {
+          "title": "Mercy at the Moment of Judgment",
+          "summary": "Even during extreme physical and spiritual trauma, Jesus exhibits remarkable compassion, forgiving His executioners and offering salvation to a repentant criminal. This reveals God's grace transcends human sin and suffering.",
+          "cross_references": [
+            "Romans 10:13",
+            "Ephesians 2:8-9",
+            "Titus 3:5",
+            "1 John 1:9"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does Jesus' response to injustice challenge conventional understandings of divine power and human redemption?",
+        "options": [
+          "Power is demonstrated through vulnerability and sacrificial love",
+          "Divine justice operates outside human legal frameworks",
+          "Salvation is accessible to all, regardless of past actions",
+          "Suffering can be a transformative pathway to spiritual understanding"
+        ]
+      }
+    }
+  }
+}

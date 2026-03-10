@@ -1,0 +1,117 @@
+{
+  "book": "Joshua",
+  "chapter": 4,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine stepping onto dry ground after a seemingly impossible crossing, feeling God's miraculous power surrounding you.",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How can you create a personal 'memorial stone' to remember God's faithfulness in your life?",
+        "options": [
+          {
+            "id": 1,
+            "text": "Journal about a significant spiritual breakthrough",
+            "response": "Write down a detailed account of how God moved in your life"
+          },
+          {
+            "id": 2,
+            "text": "Share your testimony with a friend or family member",
+            "response": "Prepare a vulnerable narrative about God's intervention"
+          },
+          {
+            "id": 3,
+            "text": "Create a physical reminder of God's promise",
+            "response": "Select an object that symbolizes your spiritual journey"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw or craft a 'memorial stone' representing a moment when God demonstrated His power in your life",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has this chapter changed your understanding of remembering God's miracles?",
+        "options": [
+          "I now see the importance of telling future generations about God's works",
+          "I understand memorials are not just objects, but living testimonies",
+          "I recognize God wants us to actively remember His interventions",
+          "I see how personal stories can strengthen community faith"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which memorial moment speaks most powerfully to you?",
+        "choices": [
+          {
+            "id": 1,
+            "text": "God's Power in Crossing the Jordan",
+            "expansion": "Divine intervention transcends natural limitations and demonstrates supernatural guidance."
+          },
+          {
+            "id": 2,
+            "text": "Generational Storytelling",
+            "expansion": "Intentional remembrance ensures spiritual heritage continues through collective memory."
+          },
+          {
+            "id": 3,
+            "text": "Collective Obedience",
+            "expansion": "Community alignment with divine instruction creates transformative spiritual momentum."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "How do physical memorials transform into living memories within a community's spiritual consciousness?"
+      },
+      "moral_slider": {
+        "question": "What balance exists between miraculous divine intervention and human responsibility?",
+        "left_label": "Human Agency",
+        "right_label": "Divine Sovereignty"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual remembrance shifted?",
+        "options": [
+          "I now see memory as an active spiritual discipline",
+          "Collective storytelling matters more than individual experience",
+          "Physical symbols can powerfully represent spiritual truths",
+          "Generational transmission of faith requires intentional effort"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Memorial of Divine Intervention",
+          "summary": "God commands the Israelites to create a physical memorial using twelve stones from the Jordan River to commemorate His miraculous intervention. These stones serve as a tangible reminder of God's supernatural power and faithfulness in guiding His people across the Jordan.",
+          "cross_references": [
+            "Deuteronomy 27:2-3",
+            "1 Samuel 7:12",
+            "Psalm 78:4-7",
+            "Ephesians 2:8-9"
+          ]
+        },
+        {
+          "title": "Generational Testimony",
+          "summary": "The memorial stones are strategically designed to spark curiosity and conversation among future generations, ensuring that the story of God's miraculous deliverance is continuously retold. This practice preserves spiritual heritage and reinforces God's covenant with Israel.",
+          "cross_references": [
+            "Exodus 12:26-27",
+            "Deuteronomy 6:20-25",
+            "Psalm 145:4",
+            "Joel 1:3"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "How does God's instruction to create a memorial demonstrate His understanding of human spiritual memory?",
+        "options": [
+          "Humans require physical reminders to sustain spiritual narratives",
+          "Divine interventions must be documented for historical accountability",
+          "Symbolic acts reinforce collective spiritual identity",
+          "Tangible memorials bridge generational spiritual understanding"
+        ]
+      }
+    }
+  }
+}

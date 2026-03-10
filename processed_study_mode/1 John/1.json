@@ -1,0 +1,117 @@
+{
+  "book": "1 John",
+  "chapter": 1,
+  "modes": {
+    "devotional": {
+      "tiny_practice": {
+        "action": "Close your eyes and imagine witnessing Jesus physically - hearing His voice, seeing His hands, experiencing His presence",
+        "timer": 20
+      },
+      "two_step": {
+        "reflect_question": "How transparent am I about my spiritual journey with others?",
+        "options": [
+          {
+            "id": 1,
+            "text": "I rarely share my struggles",
+            "response": "Practice vulnerability with a trusted friend this week"
+          },
+          {
+            "id": 2,
+            "text": "I sometimes share surface-level experiences",
+            "response": "Journal one deeper spiritual insight this week"
+          },
+          {
+            "id": 3,
+            "text": "I'm open about my faith journey",
+            "response": "Mentor someone in their spiritual growth"
+          }
+        ]
+      },
+      "creative_prompt": {
+        "instruction": "Draw a picture representing 'light' and 'darkness' from your personal spiritual experience",
+        "type": "draw"
+      },
+      "reevaluation": {
+        "question": "How has reading this chapter shifted your understanding of fellowship with God?",
+        "options": [
+          "God wants authentic relationship, not performance",
+          "Confession is a pathway to connection",
+          "Transparency leads to spiritual growth",
+          "Jesus bridges the gap between humanity and divinity"
+        ]
+      }
+    },
+    "socratic": {
+      "three_choice": {
+        "question": "Which dimension of Christ's manifestation resonates most deeply with you?",
+        "choices": [
+          {
+            "id": "heard",
+            "text": "That Which Was Heard",
+            "expansion": "The apostolic testimony represents the auditory transmission of divine truth through personal witness."
+          },
+          {
+            "id": "seen",
+            "text": "That Which Was Seen",
+            "expansion": "Direct visual encounter with the eternal Word transforms abstract theology into tangible reality."
+          },
+          {
+            "id": "touched",
+            "text": "That Which Was Handled",
+            "expansion": "Physical proximity to Christ signifies the profound incarnational reality of divine presence."
+          }
+        ]
+      },
+      "socratic_nudge": {
+        "question": "If eternal life is already manifest, how do we simultaneously experience its present reality and future promise?"
+      },
+      "moral_slider": {
+        "question": "How do you navigate the tension between divine perfection and human limitation?",
+        "left_label": "Human Brokenness",
+        "right_label": "Divine Holiness"
+      },
+      "reevaluation": {
+        "question": "How has your understanding of spiritual fellowship evolved?",
+        "options": [
+          "Recognized fellowship as relational, not institutional",
+          "Understood communion as vertical (with God) and horizontal (with believers)",
+          "Saw transparency about sin as essential to authentic connection",
+          "Realized fellowship transcends personal experience"
+        ]
+      }
+    },
+    "theological": {
+      "thematic_summaries": [
+        {
+          "title": "Eternal Life Incarnate",
+          "summary": "John testifies to the physical manifestation of Christ, emphasizing the tangible reality of Jesus as the Word of Life. He highlights the divine eternal nature of Christ that became accessible to humanity through direct sensory experience.",
+          "cross_references": [
+            "John 1:1-14",
+            "Colossians 1:15-17",
+            "Hebrews 1:1-3",
+            "Philippians 2:5-8"
+          ]
+        },
+        {
+          "title": "Fellowship through Divine Revelation",
+          "summary": "The chapter emphasizes spiritual communion with God through Christ's revelation. John presents fellowship as a transformative spiritual connection that bridges human limitation with divine intimacy.",
+          "cross_references": [
+            "John 17:3",
+            "2 Peter 1:4",
+            "1 Corinthians 1:9",
+            "Ephesians 2:18"
+          ]
+        }
+      ],
+      "reevaluation": {
+        "question": "What is the fundamental nature of Christ's manifestation in human experience?",
+        "options": [
+          "Purely spiritual, transcending physical reality",
+          "Literally physical, with verifiable sensory evidence",
+          "Metaphorical representation of divine principle",
+          "Simultaneously divine and human, bridging supernatural and natural realms"
+        ]
+      }
+    }
+  }
+}
