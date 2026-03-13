@@ -116,15 +116,27 @@ Each chapter in `processed_study_mode/` has three reading modes:
 
 The `verses` array interleaves **heading objects** and **verse objects** in reading order.
 
-**Segment types:**
+**Segment types — Speeches:**
 
 | `type` | Description | Has `speaker`? |
 |--------|-------------|----------------|
-| `narrative` | Standard prose | No |
-| `divine` | Words of God or Jesus | Yes (`"God"` / `"Jesus"`) |
-| `speech` | Words of a human character | Yes (name or `"Unknown"`) |
-| `dialogue` | Conversational reply | Yes |
-| `question` | A question in the text | Sometimes |
+| `divine` | God, Jesus, Holy Spirit, or Angels speaking | Yes (`"God"`, `"Jesus"`, `"Angel"`) |
+| `prayer` | Human addressing or praying to God | Yes (person praying) |
+| `prophetic` | Prophet quoting God or predicting the future | Yes (prophet's name) |
+| `speech` | General human dialogue | Yes (name or `"Unknown"`) |
+| `sermon` | Extended discourse or teaching (e.g. Sermon on the Mount) | Yes (speaker's name) |
+
+**Segment types — Narratives:**
+
+| `type` | Description | Has `speaker`? |
+|--------|-------------|----------------|
+| `narrative` | Standard prose storytelling | No |
+| `hymnal` | Praises, poetry, psalms, or songs | No |
+| `law` | Covenant instructions — legal or moral codes | No |
+| `letters` | Epistles or written communications | No |
+| `genealogy` | Lists of lineages (e.g. Genesis 5, Matthew 1) | No |
+| `census` | Lists of names, tribes, or quantities (Numbers, Ezra, Nehemiah) | No |
+| `instructional` | Technical descriptions: Tabernacle architecture, ritual procedures (Exodus, Leviticus) | No |
 
 ---
 
