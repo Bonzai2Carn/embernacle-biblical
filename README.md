@@ -46,8 +46,6 @@ embernacle-biblical/
 │
 ├── processed_bible_BSB/        # Berean Standard Bible
 ├── processed_bible_KJV/        # King James Version
-├── processed_bible_NKJV/       # New King James Version
-├── processed_bible_NIV/        # New International Version
 ├── processed_bible_WEB/        # World English Bible
 ├── processed_bible_FBV/        # Free Bible Version
 ├── eng_asv/                    # American Standard Version
@@ -66,8 +64,6 @@ embernacle-biblical/
 |-------------|-----------|----------|
 | BSB | Berean Standard Bible | Full OT + NT |
 | KJV | King James Version | Full OT + NT |
-| NKJV | New King James Version | Full OT + NT |
-| NIV | New International Version | Full OT + NT |
 | WEB | World English Bible | Full OT + NT + Deuterocanon |
 | FBV | Free Bible Version | Full OT + NT |
 | ASV | American Standard Version | Full OT + NT |
@@ -196,7 +192,7 @@ The app compares this against its locally cached version to know when to refresh
 
 This data is available for **personal, non-commercial use** to support Bible study, software development, and non-profit educational purposes. Commercial redistribution requires written consent.
 
-Individual translations may carry their own copyright restrictions (NIV, NKJV). BSB, WEB, ASV, and FBV are in the public domain or permissively licensed for broad use.
+BSB, WEB, KJV and ASV are public domain. FBV is licensed CC BY-SA 4.0 (credit: Free Bible Version, freebible.org); our reshaped FBV JSON is shared under the same licence.
 
 - [Terms & Conditions](https://embernacle.com/terms)
 - [Privacy Policy](https://embernacle.com/privacy)
