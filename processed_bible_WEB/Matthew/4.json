@@ -46,9 +46,18 @@
           "text": "But he answered,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "text": "It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’”",
-          "speaker": "The tempter came and"
+          "speaker": "Jesus",
+          "source": {
+            "name": "The tempter",
+            "spans": [
+              [
+                15,
+                103
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -75,7 +84,7 @@
         {
           "type": "speech",
           "text": "If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’”",
-          "speaker": "Devil"
+          "speaker": "The devil"
         }
       ],
       "footnotes": [],
@@ -116,9 +125,9 @@
           "text": "He said to him,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "I will give you all of these things, if you will fall down and worship me.",
-          "speaker": "Devil"
+          "speaker": "The devil"
         }
       ],
       "footnotes": [],
@@ -194,7 +203,7 @@
       "verse_num": "15",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles,",
           "speaker": "Isaiah"
         }
@@ -206,7 +215,7 @@
       "verse_num": "16",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "the people who sat in darkness saw a great light; to those who sat in the region and shadow of death, to them light has dawned.",
           "speaker": "Isaiah"
         }

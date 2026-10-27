@@ -8,7 +8,7 @@
           "text": "Then Samuel took a flask of olive oil and poured it over Saul's head, and kissed him, saying,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "The Lord has anointed you as ruler of his chosen people.",
           "speaker": "Samuel"
         }
@@ -80,7 +80,7 @@
       "verse_num": "6",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "The Spirit of the Lord will come on you with power. You will prophesy with them, and you will become a different man.",
           "speaker": "Samuel"
         }
@@ -94,7 +94,7 @@
         {
           "type": "prophetic",
           "text": "After these signs have happened, do what you need to do, for God is with you.",
-          "speaker": "God"
+          "speaker": "Samuel"
         }
       ],
       "footnotes": [],
@@ -150,7 +150,7 @@
         {
           "type": "speech",
           "text": "What's going on with the son of Kish? Is Saul one of the prophets too?",
-          "speaker": "People"
+          "speaker": "The prophets"
         }
       ],
       "footnotes": [],
@@ -166,7 +166,7 @@
         {
           "type": "speech",
           "text": "But who is their father?",
-          "speaker": "A man living there"
+          "speaker": "A man"
         },
         {
           "type": "narrative",
@@ -175,7 +175,7 @@
         {
           "type": "speech",
           "text": "Is Saul one of the prophets too?",
-          "speaker": "A man living there"
+          "speaker": "A man"
         }
       ],
       "footnotes": [
@@ -208,7 +208,7 @@
         {
           "type": "speech",
           "text": "Where have you been?",
-          "speaker": "Saul"
+          "speaker": "Saul’s uncle"
         },
         {
           "type": "speech",
@@ -281,7 +281,7 @@
         {
           "type": "speech",
           "text": "This is what the Lord, the God of Israel, says: I led Israel out of Egypt, and I saved you from the Egyptians and from all the kingdoms that were oppressing you.",
-          "speaker": "He"
+          "speaker": "Samuel"
         }
       ],
       "footnotes": [],
@@ -291,9 +291,18 @@
       "verse_num": "19",
       "segments": [
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "But now you have rejected your God, the one who saves you from all your troubles and disasters. You told him, ‘You must appoint a king to rule us.’ So now present yourselves before the Lord by your tribes and family groups.",
-          "speaker": "God"
+          "speaker": "Samuel",
+          "source": {
+            "name": "The Lord",
+            "spans": [
+              [
+                110,
+                147
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -331,7 +340,7 @@
         {
           "type": "divine",
           "text": "Has he arrived here yet?",
-          "speaker": "the Lord"
+          "speaker": "The Lord"
         },
         {
           "type": "narrative",
@@ -340,7 +349,7 @@
         {
           "type": "divine",
           "text": "Go and look—he's hiding among the baggage.",
-          "speaker": "the Lord"
+          "speaker": "The Lord"
         }
       ],
       "footnotes": [],
@@ -367,7 +376,7 @@
         {
           "type": "speech",
           "text": "Can you see the one the Lord has chosen? There's no one like him anywhere!",
-          "speaker": "People"
+          "speaker": "Samuel"
         },
         {
           "type": "narrative",
@@ -376,7 +385,7 @@
         {
           "type": "speech",
           "text": "Long live the king!",
-          "speaker": "All the people"
+          "speaker": "The people"
         }
       ],
       "footnotes": [],
@@ -414,7 +423,7 @@
         {
           "type": "speech",
           "text": "How could this man save us?",
-          "speaker": "All the people"
+          "speaker": "Some worthless men"
         },
         {
           "type": "narrative",

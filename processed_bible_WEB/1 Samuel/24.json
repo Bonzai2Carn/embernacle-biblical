@@ -46,9 +46,18 @@
           "text": "David’s men said to him,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "Behold, the day of which Yahweh said to you, ‘Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you.’”",
-          "speaker": "David’s men"
+          "speaker": "David’s men",
+          "source": {
+            "name": "Yahweh",
+            "spans": [
+              [
+                45,
+                150
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -79,7 +88,7 @@
         {
           "type": "speech",
           "text": "Yahweh forbid that I should do this thing to my lord, Yahweh’s anointed, to stretch out my hand against him, since he is Yahweh’s anointed.",
-          "speaker": "David’s men"
+          "speaker": "David"
         }
       ],
       "footnotes": [],
@@ -106,7 +115,7 @@
         {
           "type": "speech",
           "text": "My lord the king!",
-          "speaker": "David’s men"
+          "speaker": "David"
         },
         {
           "type": "narrative",
@@ -234,7 +243,7 @@
         {
           "type": "speech",
           "text": "You are more righteous than I; for you have done good to me, whereas I have done evil to you.",
-          "speaker": "Saul lifted up his voice and"
+          "speaker": "Saul"
         }
       ],
       "footnotes": [],

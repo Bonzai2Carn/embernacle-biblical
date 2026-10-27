@@ -109,7 +109,7 @@
         {
           "type": "speech",
           "text": "Hosanna! Bless the one coming in the name of the Lord.",
-          "speaker": "Some of the people standing around"
+          "speaker": "The ones"
         }
       ],
       "footnotes": [
@@ -127,7 +127,7 @@
         {
           "type": "prayer",
           "text": "Bless the kingdom of our father David that is coming! Hosanna in the highest!",
-          "speaker": "Crowd"
+          "speaker": "The ones"
         }
       ],
       "footnotes": [
@@ -180,9 +180,9 @@
           "text": "He said to the tree,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "text": "May no one eat fruit from you ever again.",
-          "speaker": "Some of the people standing around"
+          "speaker": "Jesus"
         },
         {
           "type": "narrative",
@@ -222,9 +222,18 @@
           "text": "He explained to them,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "text": "Doesn't Scripture say, ‘My house will be called a house of prayer for all nations’? But you have turned it into a den of thieves!",
-          "speaker": "Some of the people standing around"
+          "speaker": "Jesus",
+          "source": {
+            "name": "Some of the people standing around",
+            "spans": [
+              [
+                23,
+                82
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -284,7 +293,7 @@
         {
           "type": "speech",
           "text": "Rabbi, look, the fig tree that you cursed has withered.",
-          "speaker": "Some of the people standing around"
+          "speaker": "Peter"
         }
       ],
       "footnotes": [],
@@ -374,18 +383,18 @@
       "verse_num": "28",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "By what authority are you doing all this?",
-          "speaker": "Chief priests, scribes, and elders"
+          "speaker": "The chief priests"
         },
         {
           "type": "narrative",
           "text": "they demanded."
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "Who gave you the right?",
-          "speaker": "Jesus"
+          "speaker": "The chief priests"
         }
       ],
       "footnotes": [],

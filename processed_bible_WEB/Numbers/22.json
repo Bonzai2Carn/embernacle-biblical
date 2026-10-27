@@ -102,7 +102,7 @@
         {
           "type": "speech",
           "text": "Lodge here this night, and I will bring you word again, as Yahweh shall speak to me.",
-          "speaker": "Moab"
+          "speaker": "Balaam"
         },
         {
           "type": "narrative",
@@ -180,9 +180,9 @@
           "text": "Balaam rose up in the morning, and said to the princes of Balak,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "Go to your land; for Yahweh refuses to permit me to go with you.",
-          "speaker": "God"
+          "speaker": "Balaam"
         }
       ],
       "footnotes": [],
@@ -196,9 +196,9 @@
           "text": "The princes of Moab rose up, and they went to Balak, and said,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "Balaam refuses to come with us.",
-          "speaker": "God"
+          "speaker": "The princes of Moab"
         }
       ],
       "footnotes": [],
@@ -223,9 +223,18 @@
           "text": "They came to Balaam, and said to him,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "Balak the son of Zippor says, ‘Please let nothing hinder you from coming to me,",
-          "speaker": "God"
+          "speaker": "The princes of Moab",
+          "source": {
+            "name": "Balak",
+            "spans": [
+              [
+                30,
+                79
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -235,9 +244,18 @@
       "verse_num": "17",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "for I will promote you to very great honor, and whatever you say to me I will do. Please come therefore, and curse this people for me.’”",
-          "speaker": "Balak"
+          "speaker": "The princes of Moab",
+          "source": {
+            "name": "Balak",
+            "spans": [
+              [
+                0,
+                135
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -372,9 +390,9 @@
           "text": "Yahweh opened the mouth of the donkey, and she said to Balaam,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "What have I done to you, that you have struck me these three times?",
-          "speaker": "Yahweh"
+          "speaker": "The donkey"
         }
       ],
       "footnotes": [],
@@ -406,7 +424,7 @@
         {
           "type": "speech",
           "text": "Am I not your donkey, on which you have ridden all your life long until today? Was I ever in the habit of doing so to you?",
-          "speaker": "Balaam"
+          "speaker": "The donkey"
         },
         {
           "type": "narrative",

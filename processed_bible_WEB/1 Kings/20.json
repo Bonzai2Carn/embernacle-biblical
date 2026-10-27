@@ -65,7 +65,16 @@
         {
           "type": "speech",
           "text": "Ben Hadad says, ‘I sent indeed to you, saying, “You shall deliver me your silver, your gold, your wives, and your children;",
-          "speaker": "The messengers came again and"
+          "speaker": "The messengers",
+          "source": {
+            "name": "Ben-hadad",
+            "spans": [
+              [
+                16,
+                123
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -77,7 +86,7 @@
         {
           "type": "speech",
           "text": "but I will send my servants to you tomorrow about this time, and they will search your house and the houses of your servants. Whatever is pleasant in your eyes, they will put it in their hand, and take it away.",
-          "speaker": "The messengers came again and"
+          "speaker": "The messengers"
         }
       ],
       "footnotes": [],
@@ -109,7 +118,7 @@
         {
           "type": "speech",
           "text": "Don’t listen, and don’t consent.",
-          "speaker": "The king of Israel"
+          "speaker": "All the people"
         }
       ],
       "footnotes": [],
@@ -125,7 +134,7 @@
         {
           "type": "speech",
           "text": "Tell my lord the king, ‘All that you sent for to your servant at the first I will do, but this thing I cannot do.’”",
-          "speaker": "The king of Israel"
+          "speaker": "Ahab"
         },
         {
           "type": "narrative",
@@ -145,7 +154,7 @@
         {
           "type": "speech",
           "text": "The gods do so to me, and more also, if the dust of Samaria will be enough for handfuls for all the people who follow me.",
-          "speaker": "Ben Hadad sent to him, and"
+          "speaker": "Ben-hadad"
         }
       ],
       "footnotes": [],
@@ -177,7 +186,7 @@
         {
           "type": "speech",
           "text": "Prepare to attack!",
-          "speaker": "The king of Israel"
+          "speaker": "Ben-hadad"
         },
         {
           "type": "narrative",
@@ -195,9 +204,18 @@
           "text": "Behold, a prophet came near to Ahab king of Israel, and said,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "Yahweh says, ‘Have you seen all this great multitude? Behold, I will deliver it into your hand today. Then you will know that I am Yahweh.’”",
-          "speaker": "God"
+          "speaker": "A prophet",
+          "source": {
+            "name": "Yahweh",
+            "spans": [
+              [
+                13,
+                139
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -220,9 +238,18 @@
           "text": "He said,"
         },
         {
-          "type": "divine",
+          "type": "prophetic",
           "text": "Yahweh says, ‘By the young men of the princes of the provinces.’”",
-          "speaker": "The LORD"
+          "speaker": "Ahab",
+          "source": {
+            "name": "Yahweh",
+            "spans": [
+              [
+                13,
+                64
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -231,7 +258,7 @@
         {
           "type": "speech",
           "text": "Who shall begin the battle?",
-          "speaker": "Unknown"
+          "speaker": "Ahab"
         },
         {
           "type": "narrative",
@@ -240,7 +267,7 @@
         {
           "type": "speech",
           "text": "You.",
-          "speaker": "Unknown"
+          "speaker": "Ahab"
         }
       ],
       "footnotes": [],
@@ -278,7 +305,7 @@
         {
           "type": "speech",
           "text": "Men are coming out from Samaria.",
-          "speaker": "Unknown"
+          "speaker": "Scouts"
         }
       ],
       "footnotes": [],
@@ -294,7 +321,7 @@
         {
           "type": "speech",
           "text": "If they have come out for peace, take them alive; or if they have come out for war, take them alive.",
-          "speaker": "Unknown"
+          "speaker": "Ben-hadad"
         }
       ],
       "footnotes": [],
@@ -343,7 +370,7 @@
         {
           "type": "speech",
           "text": "Go, strengthen yourself, and plan what you must do, for at the return of the year, the king of Syria will come up against you.",
-          "speaker": "Prophet"
+          "speaker": "The prophet"
         }
       ],
       "footnotes": [],
@@ -423,9 +450,18 @@
           "text": "A man of God came near and spoke to the king of Israel, and said,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "Yahweh says, ‘Because the Syrians have said, “Yahweh is a god of the hills, but he is not a god of the valleys,",
-          "speaker": "God"
+          "speaker": "The man of God",
+          "source": {
+            "name": "Yahweh",
+            "spans": [
+              [
+                13,
+                111
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -467,7 +503,7 @@
         {
           "type": "speech",
           "text": "See now, we have heard that the kings of the house of Israel are merciful kings. Please let us put sackcloth on our bodies and ropes on our heads, and go out to the king of Israel. Maybe he will save your life.",
-          "speaker": "man of God came near and"
+          "speaker": "The servants of Ben-hadad"
         }
       ],
       "footnotes": [],
@@ -483,7 +519,7 @@
         {
           "type": "speech",
           "text": "Your servant Ben Hadad says, ‘Please let me live.’”",
-          "speaker": "Ben Hadad"
+          "speaker": "The servants of Ben-hadad"
         },
         {
           "type": "narrative",
@@ -492,7 +528,7 @@
         {
           "type": "speech",
           "text": "Is he still alive? He is my brother.",
-          "speaker": "Ahab"
+          "speaker": "The servants of Ben-hadad"
         }
       ],
       "footnotes": [],
@@ -508,7 +544,7 @@
         {
           "type": "speech",
           "text": "Your brother Ben Hadad.",
-          "speaker": "Unknown"
+          "speaker": "The men"
         },
         {
           "type": "narrative",
@@ -517,7 +553,7 @@
         {
           "type": "speech",
           "text": "Go, bring him.",
-          "speaker": "Unknown"
+          "speaker": "The men"
         },
         {
           "type": "narrative",
@@ -571,7 +607,7 @@
         {
           "type": "speech",
           "text": "Please strike me!",
-          "speaker": "Unknown"
+          "speaker": "The prophets"
         },
         {
           "type": "narrative",
@@ -591,7 +627,7 @@
         {
           "type": "speech",
           "text": "Because you have not obeyed Yahweh’s voice, behold, as soon as you have departed from me, a lion will kill you.",
-          "speaker": "Unknown"
+          "speaker": "The prophet"
         },
         {
           "type": "narrative",
@@ -611,7 +647,7 @@
         {
           "type": "speech",
           "text": "Please strike me.",
-          "speaker": "Unknown"
+          "speaker": "Ahab"
         },
         {
           "type": "narrative",
@@ -642,7 +678,7 @@
         {
           "type": "speech",
           "text": "Your servant went out into the middle of the battle; and behold, a man came over and brought a man to me, and said, ‘Guard this man! If by any means he is missing, then your life shall be for his life, or else you shall pay a talent of silver.’",
-          "speaker": "Unknown"
+          "speaker": "Ahab"
         }
       ],
       "footnotes": [
@@ -660,7 +696,7 @@
         {
           "type": "speech",
           "text": "As your servant was busy here and there, he was gone.",
-          "speaker": "The king of Israel"
+          "speaker": "Ahab"
         },
         {
           "type": "narrative",
@@ -694,9 +730,18 @@
           "text": "He said to him,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "Yahweh says, ‘Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life will take the place of his life, and your people take the place of his people.’”",
-          "speaker": "The king of Israel"
+          "speaker": "The king of Israel",
+          "source": {
+            "name": "Yahweh",
+            "spans": [
+              [
+                13,
+                197
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],

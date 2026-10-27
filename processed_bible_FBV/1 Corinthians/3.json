@@ -47,18 +47,36 @@
           "text": "When one of you says,"
         },
         {
-          "type": "speech",
+          "type": "letters",
           "text": "I follow Paul,",
-          "speaker": "Unknown"
+          "speaker": "Paul",
+          "source": {
+            "name": "One of you",
+            "spans": [
+              [
+                0,
+                14
+              ]
+            ]
+          }
         },
         {
           "type": "letters",
           "text": "while another says,"
         },
         {
-          "type": "speech",
+          "type": "letters",
           "text": "I follow Apollos,",
-          "speaker": "Unknown"
+          "speaker": "Paul",
+          "source": {
+            "name": "One of you",
+            "spans": [
+              [
+                0,
+                17
+              ]
+            ]
+          }
         },
         {
           "type": "letters",
@@ -230,9 +248,18 @@
           "text": "This world's wisdom is plain foolishness to God. As Scripture says,"
         },
         {
-          "type": "speech",
+          "type": "letters",
           "text": "He uses the cleverness of the wise to catch them out,",
-          "speaker": "Scripture"
+          "speaker": "Paul",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                53
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -252,9 +279,18 @@
           "text": "and"
         },
         {
-          "type": "speech",
+          "type": "letters",
           "text": "The Lord knows the arguments of the wise are pointless.",
-          "speaker": "Scripture"
+          "speaker": "Paul",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                55
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [

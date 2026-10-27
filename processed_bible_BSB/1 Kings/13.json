@@ -148,9 +148,9 @@
           "text": "But the man of God replied,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "text": "If you were to give me half your possessions, I still would not go with you, nor would I eat bread or drink water in this place.",
-          "speaker": "God"
+          "speaker": "The man of God"
         }
       ],
       "footnotes": [],
@@ -160,9 +160,18 @@
       "verse_num": "9",
       "segments": [
         {
-          "type": "divine",
+          "type": "prophetic",
           "text": "For this is what I was commanded by the word of the LORD: ‘You must not eat bread or drink water or return by the way you came.’”",
-          "speaker": "God"
+          "speaker": "The man of God",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                58,
+                128
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -208,7 +217,7 @@
         {
           "type": "speech",
           "text": "Which way did he go?",
-          "speaker": "Old Prophet"
+          "speaker": "The old prophet"
         },
         {
           "type": "narrative",
@@ -254,12 +263,12 @@
         {
           "type": "speech",
           "text": "Are you the man of God who came from Judah?",
-          "speaker": "An oak"
+          "speaker": "The old prophet"
         },
         {
           "type": "speech",
           "text": "I am,",
-          "speaker": "Man of God"
+          "speaker": "The man of God"
         },
         {
           "type": "narrative",
@@ -371,7 +380,16 @@
         {
           "type": "prophetic",
           "text": "This is what the LORD says: ‘Because you have defied the word of the LORD and have not kept the commandment that the LORD your God gave you,",
-          "speaker": "The prophet"
+          "speaker": "The prophet",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                28,
+                140
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -383,7 +401,16 @@
         {
           "type": "prophetic",
           "text": "but you went back and ate bread and drank water in the place where He told you not to do so, your body shall never reach the tomb of your fathers.’”",
-          "speaker": "The prophet"
+          "speaker": "Old Prophet",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                147
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
