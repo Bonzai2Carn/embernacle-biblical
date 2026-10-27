@@ -56,9 +56,9 @@
           "text": "And as they were afraid, and bowed down their faces to the earth,"
         },
         {
-          "type": "speech",
-          "text": "Why seek ye the living among the dead?",
-          "speaker": "Two men in shining garments"
+          "type": "divine",
+          "speaker": "Two men in shining garments",
+          "text": "they said unto them, Why seek ye the living among the dead?"
         }
       ],
       "footnotes": [],
@@ -70,8 +70,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,",
-          "speaker": "Two men in shining garments"
+          "speaker": "Two men in shining garments",
+          "text": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
         }
       ],
       "footnotes": [],
@@ -82,9 +82,9 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "speech",
-          "text": "The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.",
-          "speaker": "Two men in shining garments"
+          "type": "divine",
+          "speaker": "Two men in shining garments",
+          "text": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
         }
       ],
       "footnotes": [],
@@ -156,7 +156,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
+          "text": "¶ And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs."
         }
       ],
       "footnotes": [],
@@ -207,6 +207,15 @@
         {
           "type": "narrative",
           "text": "And he said unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "What manner of communications are these that ye have one to another, as ye walk,"
+        },
+        {
+          "type": "narrative",
+          "text": "and are sad?"
         }
       ],
       "footnotes": [],
@@ -217,9 +226,13 @@
       "verse_num": 18,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And the one of them, whose name was Cleopas, answering said unto him,"
+        },
+        {
           "type": "speech",
-          "text": "Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?",
-          "speaker": "Cleopas"
+          "speaker": "One of them, named Cleopas,",
+          "text": "Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
         }
       ],
       "footnotes": [],
@@ -230,13 +243,27 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And he said unto them,"
         },
         {
+          "type": "narrative",
+          "text": "What things?"
+        },
+        {
           "type": "speech",
-          "text": "Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:",
-          "speaker": "Disciples"
+          "speaker": "Cleopas",
+          "text": "And they said unto him,"
+        },
+        {
+          "type": "narrative",
+          "text": "Concerning Jesus of Nazareth,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Cleopas",
+          "text": "which was a prophet mighty in deed and word before God and all the people:"
         }
       ],
       "footnotes": [],
@@ -248,8 +275,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.",
-          "speaker": "Disciples"
+          "speaker": "Disciples",
+          "text": "And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him."
         }
       ],
       "footnotes": [],
@@ -261,8 +288,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.",
-          "speaker": "Disciples"
+          "speaker": "Disciples",
+          "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
         }
       ],
       "footnotes": [],
@@ -274,8 +301,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;",
-          "speaker": "Disciples"
+          "speaker": "Disciples",
+          "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre;"
         }
       ],
       "footnotes": [],
@@ -287,8 +314,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.",
-          "speaker": "Disciples"
+          "speaker": "Disciples",
+          "text": "And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive."
         }
       ],
       "footnotes": [],
@@ -300,8 +327,8 @@
       "segments": [
         {
           "type": "speech",
-          "text": "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not.",
-          "speaker": "Disciples"
+          "speaker": "Disciples",
+          "text": "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
         }
       ],
       "footnotes": [],
@@ -314,6 +341,11 @@
         {
           "type": "narrative",
           "text": "Then he said unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "O fools, and slow of heart to believe all that the prophets have spoken:"
         }
       ],
       "footnotes": [],
@@ -322,7 +354,13 @@
     },
     {
       "verse_num": 26,
-      "segments": [],
+      "segments": [
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Ought not Christ to have suffered these things, and to enter into his glory?"
+        }
+      ],
       "footnotes": [],
       "references": [],
       "heading": []
@@ -355,9 +393,13 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "speech",
-          "text": "Abide with us: for it is toward evening, and the day is far spent.",
-          "speaker": "Disciples"
+          "type": "narrative",
+          "text": "But they constrained him, saying,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Abide with us: for it is toward evening, and the day is far spent."
         },
         {
           "type": "narrative",
@@ -396,9 +438,13 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "speech",
-          "text": "Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
-          "speaker": "Disciples"
+          "type": "narrative",
+          "text": "And they said one to another,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
         }
       ],
       "footnotes": [],
@@ -421,9 +467,13 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "speech",
-          "text": "The Lord is risen indeed, and hath appeared to Simon.",
-          "speaker": "Disciples"
+          "type": "narrative",
+          "text": "Saying,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "The Lord is risen indeed, and hath appeared to Simon."
         }
       ],
       "footnotes": [],
@@ -447,7 +497,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them,"
+          "text": "¶ And as they thus spake, Jesus himself stood in the midst of them, and saith unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Peace be unto you."
         }
       ],
       "footnotes": [],
@@ -472,8 +527,18 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And he said unto them,"
+        },
+        {
+          "type": "narrative",
+          "text": "Why are ye troubled?"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "and why do thoughts arise in your hearts?"
         }
       ],
       "footnotes": [],
@@ -482,7 +547,13 @@
     },
     {
       "verse_num": 39,
-      "segments": [],
+      "segments": [
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+        }
+      ],
       "footnotes": [],
       "references": [],
       "heading": []
@@ -505,6 +576,11 @@
         {
           "type": "narrative",
           "text": "And while they yet believed not for joy, and wondered, he said unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Have ye here any meat?"
         }
       ],
       "footnotes": [],
@@ -541,6 +617,11 @@
         {
           "type": "narrative",
           "text": "And he said unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."
         }
       ],
       "footnotes": [],
@@ -565,6 +646,11 @@
         {
           "type": "narrative",
           "text": "And said unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:"
         }
       ],
       "footnotes": [],
@@ -573,21 +659,39 @@
     },
     {
       "verse_num": 47,
-      "segments": [],
+      "segments": [
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."
+        }
+      ],
       "footnotes": [],
       "references": [],
       "heading": []
     },
     {
       "verse_num": 48,
-      "segments": [],
+      "segments": [
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "And ye are witnesses of these things."
+        }
+      ],
       "footnotes": [],
       "references": [],
       "heading": []
     },
     {
       "verse_num": 49,
-      "segments": [],
+      "segments": [
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "¶ And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+        }
+      ],
       "footnotes": [],
       "references": [],
       "heading": []
@@ -597,7 +701,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+          "text": "¶ And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
         }
       ],
       "footnotes": [],
