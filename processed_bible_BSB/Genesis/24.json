@@ -10,9 +10,8 @@
       "verse_num": "1",
       "segments": [
         {
-          "type": "divine",
-          "text": "By now Abraham was old and well along in years, and the LORD had blessed him in every way.",
-          "speaker": "The LORD"
+          "type": "narrative",
+          "text": "By now Abraham was old and well along in years, and the LORD had blessed him in every way."
         }
       ],
       "footnotes": [],
@@ -78,9 +77,8 @@
       "verse_num": "6",
       "segments": [
         {
-          "type": "speech",
-          "text": "Abraham replied,",
-          "speaker": "Sarah"
+          "type": "narrative",
+          "text": "Abraham replied,"
         },
         {
           "type": "speech",
@@ -95,9 +93,18 @@
       "verse_num": "7",
       "segments": [
         {
-          "type": "speech",
+          "type": "prophetic",
           "text": "The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there.",
-          "speaker": "The LORD God"
+          "speaker": "Abraham",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                136,
+                177
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -130,9 +137,8 @@
       "verse_num": "10",
       "segments": [
         {
-          "type": "speech",
-          "text": "Then the servant took ten of his master’s camels and departed with all manner of good things from his master in hand. And he set out for Nahor’s hometown in Aram-naharaim.",
-          "speaker": "Sarah"
+          "type": "narrative",
+          "text": "Then the servant took ten of his master’s camels and departed with all manner of good things from his master in hand. And he set out for Nahor’s hometown in Aram-naharaim."
         }
       ],
       "footnotes": [
@@ -159,9 +165,9 @@
       "verse_num": "12",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "O LORD, God of my master Abraham,",
-          "speaker": "Abraham's Servant"
+          "speaker": "The servant"
         },
         {
           "type": "narrative",
@@ -170,7 +176,7 @@
         {
           "type": "prayer",
           "text": "please grant me success today, and show kindness to my master Abraham.",
-          "speaker": "Unknown"
+          "speaker": "The servant of Abraham"
         }
       ],
       "footnotes": [],
@@ -192,9 +198,9 @@
       "verse_num": "14",
       "segments": [
         {
-          "type": "speech",
+          "type": "divine",
           "text": "Now may it happen that the girl to whom I say, ‘Please let down your jar that I may drink,’ and who responds, ‘Drink, and I will water your camels as well’—let her be the one You have appointed for Your servant Isaac. By this I will know that You have shown kindness to my master.",
-          "speaker": "Unknown"
+          "speaker": "God"
         }
       ],
       "footnotes": [],
@@ -221,9 +227,8 @@
       "verse_num": "16",
       "segments": [
         {
-          "type": "speech",
-          "text": "Now the girl was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again.",
-          "speaker": "Hagar"
+          "type": "narrative",
+          "text": "Now the girl was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again."
         }
       ],
       "footnotes": [],
@@ -233,14 +238,13 @@
       "verse_num": "17",
       "segments": [
         {
-          "type": "divine",
-          "text": "So the servant ran to meet her and said,",
-          "speaker": "The Angel of God"
+          "type": "narrative",
+          "text": "So the servant ran to meet her and said,"
         },
         {
           "type": "speech",
           "text": "Please let me have a little water from your jar.",
-          "speaker": "Unknown"
+          "speaker": "The servant"
         }
       ],
       "footnotes": [],
@@ -250,9 +254,9 @@
       "verse_num": "18",
       "segments": [
         {
-          "type": "divine",
+          "type": "speech",
           "text": "Drink, my lord,",
-          "speaker": "The Angel of God"
+          "speaker": "Rebekah"
         },
         {
           "type": "narrative",
@@ -272,7 +276,7 @@
         {
           "type": "speech",
           "text": "I will also draw water for your camels, until they have had enough to drink.",
-          "speaker": "Unknown"
+          "speaker": "The girl"
         }
       ],
       "footnotes": [],
@@ -304,9 +308,8 @@
       "verse_num": "22",
       "segments": [
         {
-          "type": "speech",
-          "text": "And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels.",
-          "speaker": "Abimelech"
+          "type": "narrative",
+          "text": "And after the camels had finished drinking, he took out a gold ring weighing a beka, and two gold bracelets for her wrists weighing ten shekels."
         }
       ],
       "footnotes": [
@@ -329,7 +332,7 @@
         {
           "type": "speech",
           "text": "Whose daughter are you?",
-          "speaker": "Unknown"
+          "speaker": "The man"
         },
         {
           "type": "narrative",
@@ -338,7 +341,7 @@
         {
           "type": "speech",
           "text": "Please tell me, is there room in your father’s house for us to spend the night?",
-          "speaker": "Unknown"
+          "speaker": "The man"
         }
       ],
       "footnotes": [],
@@ -348,9 +351,8 @@
       "verse_num": "24",
       "segments": [
         {
-          "type": "speech",
-          "text": "She replied,",
-          "speaker": "Abraham"
+          "type": "narrative",
+          "text": "She replied,"
         },
         {
           "type": "speech",
@@ -371,7 +373,7 @@
         {
           "type": "speech",
           "text": "We have plenty of straw and feed, as well as a place for you to spend the night.",
-          "speaker": "Unknown"
+          "speaker": "The woman"
         }
       ],
       "footnotes": [],
@@ -381,9 +383,8 @@
       "verse_num": "26",
       "segments": [
         {
-          "type": "speech",
-          "text": "Then the man bowed down and worshiped the LORD,",
-          "speaker": "Abimelech"
+          "type": "narrative",
+          "text": "Then the man bowed down and worshiped the LORD,"
         }
       ],
       "footnotes": [],
@@ -399,7 +400,7 @@
         {
           "type": "speech",
           "text": "Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.",
-          "speaker": "Unknown"
+          "speaker": "The man"
         }
       ],
       "footnotes": [],
@@ -420,9 +421,8 @@
       "verse_num": "29",
       "segments": [
         {
-          "type": "speech",
-          "text": "Now Rebekah had a brother named Laban, and he rushed out to the man at the spring.",
-          "speaker": "Abimelech"
+          "type": "narrative",
+          "text": "Now Rebekah had a brother named Laban, and he rushed out to the man at the spring."
         }
       ],
       "footnotes": [],
@@ -454,7 +454,7 @@
         {
           "type": "speech",
           "text": "Come, you who are blessed by the LORD,",
-          "speaker": "Unknown"
+          "speaker": "Laban"
         },
         {
           "type": "narrative",
@@ -463,7 +463,7 @@
         {
           "type": "speech",
           "text": "Why are you standing out here? I have prepared the house and a place for the camels.",
-          "speaker": "Unknown"
+          "speaker": "Laban"
         }
       ],
       "footnotes": [],
@@ -611,7 +611,7 @@
         {
           "type": "prayer",
           "text": "So when I came to the spring today, I prayed: O LORD, God of my master Abraham, if only You would make my journey a success!",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -623,7 +623,7 @@
         {
           "type": "speech",
           "text": "Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -635,7 +635,7 @@
         {
           "type": "speech",
           "text": "and she replies, ‘Drink, and I will draw water for your camels as well,’ may she be the woman the LORD has appointed for my master’s son.",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -647,7 +647,7 @@
         {
           "type": "speech",
           "text": "And before I had finished praying in my heart, there was Rebekah coming out with her jar on her shoulder, and she went down to the spring and drew water. So I said to her, ‘Please give me a drink.’",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -659,7 +659,7 @@
         {
           "type": "speech",
           "text": "She quickly lowered her jar from her shoulder and said, ‘Drink, and I will water your camels as well.’ So I drank, and she also watered the camels.",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -671,7 +671,7 @@
         {
           "type": "speech",
           "text": "Then I asked her, ‘Whose daughter are you?’\nShe replied, ‘The daughter of Bethuel son of Nahor, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her wrists.",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -683,7 +683,7 @@
         {
           "type": "speech",
           "text": "Then I bowed down and worshiped the LORD; and I blessed the LORD, the God of my master Abraham, who led me on the right road to take the granddaughter of my master’s brother for his son.",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -695,7 +695,7 @@
         {
           "type": "speech",
           "text": "Now if you will show kindness and faithfulness to my master, tell me; but if not, let me know, so that I may go elsewhere.",
-          "speaker": "Unknown"
+          "speaker": "Abraham"
         }
       ],
       "footnotes": [],
@@ -711,7 +711,7 @@
         {
           "type": "speech",
           "text": "This is from the LORD; we have no choice in the matter.",
-          "speaker": "Laban and Bethuel"
+          "speaker": "Bethuel"
         }
       ],
       "footnotes": [],
@@ -777,7 +777,7 @@
         {
           "type": "speech",
           "text": "Let the girl remain with us ten days or so. After that, she may go.",
-          "speaker": "Laban and Bethuel"
+          "speaker": "Her and mother"
         }
       ],
       "footnotes": [],
