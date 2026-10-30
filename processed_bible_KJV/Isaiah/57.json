@@ -65,7 +65,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "prophetic",
+          "type": "speech",
           "speaker": "Isaiah",
           "text": "Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,"
         }
@@ -78,7 +78,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people",
           "text": "Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?"
         }
       ],
@@ -96,7 +97,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people",
           "text": "Among the smooth stones of the stream is thy portion; they, they are thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?"
         }
       ],
@@ -108,7 +110,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people",
           "text": "Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice."
         }
       ],
@@ -120,7 +123,8 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people",
           "text": "Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it."
         }
       ],
@@ -143,7 +147,8 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people",
           "text": "And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase thyself even unto hell."
         }
       ],
@@ -161,8 +166,13 @@
       "verse_num": 10,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope:"
+        },
+        {
           "type": "narrative",
-          "text": "Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved."
+          "text": "thou hast found the life of thine hand; therefore thou wast not grieved."
         }
       ],
       "footnotes": [
@@ -179,8 +189,7 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Isaiah",
+          "type": "narrative",
           "text": "And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid it to thy heart? have not I held my peace even of old, and thou fearest me not?"
         }
       ],
@@ -192,8 +201,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "I will declare thy righteousness, and thy works; for they shall not profit thee."
         }
       ],
@@ -205,8 +213,7 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "¶ When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take them: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;"
         }
       ],
@@ -220,9 +227,13 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Isaiah",
-          "text": "And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people."
+          "type": "narrative",
+          "text": "And shall say,"
+        },
+        {
+          "type": "divine",
+          "speaker": "The LORD",
+          "text": "Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people."
         }
       ],
       "footnotes": [],
@@ -233,9 +244,14 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy;"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones."
         }
       ],
       "footnotes": [],
@@ -293,7 +309,16 @@
         {
           "type": "divine",
           "speaker": "God",
-          "text": "I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, saith the LORD; and I will heal him."
+          "text": "I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near,"
+        },
+        {
+          "type": "narrative",
+          "text": "saith the LORD;"
+        },
+        {
+          "type": "divine",
+          "speaker": "The LORD",
+          "text": "and I will heal him."
         }
       ],
       "footnotes": [],
@@ -318,7 +343,16 @@
         {
           "type": "divine",
           "speaker": "God",
-          "text": "There is no peace, saith my God, to the wicked."
+          "text": "There is no peace,"
+        },
+        {
+          "type": "narrative",
+          "text": "saith my God,"
+        },
+        {
+          "type": "speech",
+          "speaker": "My God",
+          "text": "to the wicked."
         }
       ],
       "footnotes": [],

@@ -5,7 +5,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it was told Joab, Behold, the king weepeth and mourneth for Absalom."
+          "text": "And it was told Joab, Behold,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "the king weepeth and mourneth for Absalom."
         }
       ],
       "footnotes": [],
@@ -50,7 +55,7 @@
           "text": "But the king covered his face, and the king cried with a loud voice,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "speaker": "David",
           "text": "O my son Absalom, O Absalom, my son, my son!"
         }
@@ -64,12 +69,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Joab came into the house to the king, and said,"
+          "text": "And Joab came into the house to the king,"
         },
         {
           "type": "speech",
           "speaker": "Joab",
-          "text": "Thou hast shamed this day the faces of all thy servants, which this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines;"
+          "text": "and said, Thou hast shamed this day the faces of all thy servants, which this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines;"
         }
       ],
       "footnotes": [],
@@ -80,7 +85,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joab",
           "text": "In that thou lovest thine enemies, and hatest thy friends. For thou hast declared this day, that thou regardest neither princes nor servants: for this day I perceive, that if Absalom had lived, and all we had died this day, then it had pleased thee well."
         }
       ],
@@ -103,13 +109,9 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
-          "text": "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD,"
-        },
-        {
-          "type": "divine",
+          "type": "speech",
           "speaker": "Joab",
-          "text": "if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now."
+          "text": "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now."
         }
       ],
       "footnotes": [
@@ -131,7 +133,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The people",
           "text": "Behold, the king doth sit in the gate."
         },
         {
@@ -152,7 +154,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The people throughout the tribes of Israel",
           "text": "The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom."
         }
       ],
@@ -164,7 +166,8 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The people throughout the tribes of Israel",
           "text": "And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?"
         }
       ],
@@ -201,7 +204,16 @@
         {
           "type": "speech",
           "speaker": "David",
-          "text": "Ye are my brethren, ye are my bones and my flesh: wherefore then are ye the last to bring back the king?"
+          "text": "Ye are my brethren, ye are my bones and my flesh: wherefore then are ye the last to bring back the king?",
+          "source": {
+            "name": "Zadok and Abiathar",
+            "spans": [
+              [
+                0,
+                104
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -214,7 +226,16 @@
         {
           "type": "speech",
           "speaker": "David",
-          "text": "And say ye to Amasa, Art thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab."
+          "text": "And say ye to Amasa, Art thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab.",
+          "source": {
+            "name": "Zadok and Abiathar",
+            "spans": [
+              [
+                21,
+                172
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -230,7 +251,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The men of Judah",
           "text": "Return thou, and all thy servants."
         }
       ],
@@ -279,11 +300,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And there went over a ferry boat to carry over the king’s household, and to do what he thought good."
-        },
-        {
-          "type": "narrative",
-          "text": "And Shimei the son of Gera fell down before the king, as he was come over Jordan;"
+          "text": "And there went over a ferry boat to carry over the king’s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;"
         }
       ],
       "footnotes": [
@@ -414,18 +431,13 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Mephibosheth",
+          "type": "narrative",
           "text": "And he answered,"
         },
         {
-          "type": "narrative",
-          "text": "My lord, O king, my servant deceived me:"
-        },
-        {
           "type": "speech",
           "speaker": "Mephibosheth",
-          "text": "for thy servant said, I will saddle me an ass, that I may ride thereon, and go to the king; because thy servant is lame."
+          "text": "My lord, O king, my servant deceived me: for thy servant said, I will saddle me an ass, that I may ride thereon, and go to the king; because thy servant is lame."
         }
       ],
       "footnotes": [],
@@ -468,13 +480,9 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the king said unto him,"
-        },
-        {
           "type": "speech",
           "speaker": "The king",
-          "text": "Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land."
+          "text": "And the king said unto him, Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land."
         }
       ],
       "footnotes": [],
@@ -490,7 +498,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king",
+          "speaker": "Mephibosheth",
           "text": "Yea, let him take all, forasmuch as my lord the king is come again in peace unto his own house."
         }
       ],
@@ -548,7 +556,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king",
+          "speaker": "Barzillai",
           "text": "How long have I to live, that I should go up with the king unto Jerusalem?"
         }
       ],
@@ -663,7 +671,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The men of Israel",
           "text": "Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David’s men with him, over Jordan?"
         }
       ],
@@ -680,7 +688,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "All the men of Judah",
           "text": "Because the king is near of kin to us: wherefore then be ye angry for this matter? have we eaten at all of the king’s cost? or hath he given us any gift?"
         }
       ],
@@ -697,8 +705,13 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king?"
+          "speaker": "The men",
+          "text": "We have ten parts in the king,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The men of Israel",
+          "text": "and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king?"
         },
         {
           "type": "narrative",

@@ -9,7 +9,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:"
         }
       ],
@@ -49,12 +49,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he commanded them, saying,"
+          "text": "And he commanded them,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
-          "text": "Behold, ye shall lie in wait against the city, even behind the city: go not very far from the city, but be ye all ready:"
+          "type": "speech",
+          "speaker": "Joshua",
+          "text": "saying, Behold, ye shall lie in wait against the city, even behind the city: go not very far from the city, but be ye all ready:"
         }
       ],
       "footnotes": [],
@@ -78,13 +78,18 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
-          "text": "(For they will come out after us)"
-        },
-        {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Joshua",
-          "text": "till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them."
+          "text": "(For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.",
+          "source": {
+            "name": "The Lord",
+            "spans": [
+              [
+                92,
+                139
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -101,8 +106,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "speech",
+          "speaker": "Joshua",
           "text": "Then ye shall rise up from the ambush, and seize upon the city: for the LORD your God will deliver it into your hand."
         }
       ],
@@ -114,8 +119,8 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "speech",
+          "speaker": "Joshua",
           "text": "And it shall be, when ye have taken the city, that ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you."
         }
       ],
@@ -256,7 +261,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Stretch out the spear that is in thy hand toward Ai; for I will give it into thine hand."
         },
         {
@@ -425,7 +430,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings."
+          "text": "As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Joshua",
+          "text": "an altar of whole stones, over which no man hath lift up any iron:"
+        },
+        {
+          "type": "narrative",
+          "text": "and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings."
         }
       ],
       "footnotes": [],

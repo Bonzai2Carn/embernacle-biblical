@@ -4,8 +4,7 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves."
         }
       ],
@@ -17,8 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Let every one of us please his neighbour for his good to edification."
         }
       ],
@@ -30,22 +28,22 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
-          "text": "For even Christ"
+          "type": "letters",
+          "text": "For even Christ pleased not himself; but, as it is written,"
         },
         {
-          "type": "divine",
-          "speaker": "Christ",
-          "text": "pleased not himself;"
-        },
-        {
-          "type": "narrative",
-          "text": "but, as it is written,"
-        },
-        {
-          "type": "divine",
-          "speaker": "Christ",
-          "text": "The reproaches of them that reproached thee fell on me."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "The reproaches of them that reproached thee fell on me.",
+          "source": {
+            "name": "Christ",
+            "spans": [
+              [
+                0,
+                55
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -58,8 +56,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
         }
       ],
@@ -71,8 +68,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
         }
       ],
@@ -84,8 +80,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ."
         }
       ],
@@ -97,8 +92,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Wherefore receive ye one another, as Christ also received us to the glory of God."
         }
       ],
@@ -110,8 +104,7 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
         }
       ],
@@ -123,9 +116,13 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
-          "text": "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name."
+          "type": "letters",
+          "text": "And that the Gentiles might glorify God for his mercy; as it is written,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "For this cause I will confess to thee among the Gentiles, and sing unto thy name."
         }
       ],
       "footnotes": [],
@@ -138,9 +135,22 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "sermon",
+          "type": "letters",
+          "text": "And again he saith,"
+        },
+        {
+          "type": "letters",
           "speaker": "Paul",
-          "text": "And again he saith, Rejoice, ye Gentiles, with his people."
+          "text": "Rejoice, ye Gentiles, with his people.",
+          "source": {
+            "name": "The people",
+            "spans": [
+              [
+                0,
+                38
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -153,9 +163,22 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "sermon",
+          "type": "letters",
+          "text": "And again,"
+        },
+        {
+          "type": "letters",
           "speaker": "Paul",
-          "text": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people."
+          "text": "Praise the Lord, all ye Gentiles; and laud him, all ye people.",
+          "source": {
+            "name": "The people",
+            "spans": [
+              [
+                0,
+                62
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -168,9 +191,22 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Isaiah",
-          "text": "And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust."
+          "type": "letters",
+          "text": "And again, Esaias saith,"
+        },
+        {
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.",
+          "source": {
+            "name": "Isaiah",
+            "spans": [
+              [
+                0,
+                115
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -183,8 +219,7 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
         }
       ],
@@ -196,8 +231,7 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another."
         }
       ],
@@ -209,8 +243,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,"
         }
       ],
@@ -222,8 +255,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost."
         }
       ],
@@ -235,8 +267,7 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God."
         }
       ],
@@ -248,8 +279,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,"
         }
       ],
@@ -261,8 +291,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ."
         }
       ],
@@ -274,8 +303,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:"
         }
       ],
@@ -287,9 +315,13 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "prophetic",
+          "type": "letters",
+          "text": "But as it is written,"
+        },
+        {
+          "type": "speech",
           "speaker": "Isaiah",
-          "text": "But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand."
+          "text": "To whom he was not spoken of, they shall see: and they that have not heard shall understand."
         }
       ],
       "footnotes": [],
@@ -302,7 +334,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "For which cause also I have been much hindered from coming to you."
         }
       ],
@@ -314,7 +346,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "But now having no more place in these parts, and having a great desire these many years to come unto you;"
         }
       ],
@@ -326,7 +358,7 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company."
         }
       ],
@@ -338,7 +370,7 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "But now I go unto Jerusalem to minister unto the saints."
         }
       ],
@@ -350,7 +382,7 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem."
         }
       ],
@@ -362,7 +394,7 @@
       "verse_num": 27,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things."
         }
       ],
@@ -374,7 +406,7 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain."
         }
       ],
@@ -386,7 +418,7 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ."
         }
       ],
@@ -398,8 +430,7 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;"
         }
       ],
@@ -411,8 +442,7 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;"
         }
       ],
@@ -424,8 +454,7 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "That I may come unto you with joy by the will of God, and may with you be refreshed."
         }
       ],
@@ -437,8 +466,7 @@
       "verse_num": 33,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Now the God of peace be with you all. Amen."
         }
       ],

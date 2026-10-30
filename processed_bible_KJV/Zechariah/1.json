@@ -4,7 +4,7 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
         }
       ],
@@ -17,7 +17,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "The LORD hath been sore displeased with your fathers."
         }
       ],
@@ -35,8 +35,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Zechariah",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts."
         }
       ],
@@ -48,8 +48,8 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "God",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the LORD."
         }
       ],
@@ -61,7 +61,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Your fathers, where are they? and the prophets, do they live for ever?"
         }
       ],
@@ -92,7 +93,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
         }
       ],
@@ -124,18 +125,22 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Zechariah",
+          "type": "narrative",
           "text": "Then said I,"
         },
         {
-          "type": "narrative",
-          "text": "O my lord,"
+          "type": "speech",
+          "speaker": "Zechariah",
+          "text": "O my lord, what are these?"
         },
         {
-          "type": "divine",
-          "speaker": "The Angel",
-          "text": "what are these? And the angel that talked with me said unto me, I will shew thee what these be."
+          "type": "narrative",
+          "text": "And the angel that talked with me said unto me,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The angel",
+          "text": "I will shew thee what these be."
         }
       ],
       "footnotes": [],
@@ -150,8 +155,8 @@
           "text": "And the man that stood among the myrtle trees answered and said,"
         },
         {
-          "type": "divine",
-          "speaker": "The Angel",
+          "type": "speech",
+          "speaker": "The man standing among the myrtle trees",
           "text": "These are they whom the LORD hath sent to walk to and fro through the earth."
         }
       ],
@@ -185,7 +190,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Angel of the Lord",
+          "speaker": "The LORD",
           "text": "O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?"
         }
       ],
@@ -210,12 +215,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "So the angel that communed with me said unto me,"
+          "text": "So the angel that communed with me said unto me, Cry thou, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy."
+          "type": "prophetic",
+          "speaker": "The angel",
+          "text": "Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.",
+          "source": {
+            "name": "The LORD of Hosts",
+            "spans": [
+              [
+                0,
+                92
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -226,9 +240,18 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction."
+          "type": "prophetic",
+          "speaker": "The angel",
+          "text": "And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.",
+          "source": {
+            "name": "The LORD of Hosts",
+            "spans": [
+              [
+                0,
+                139
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -239,9 +262,18 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem."
+          "type": "prophetic",
+          "speaker": "The angel",
+          "text": "Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                31,
+                179
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -252,9 +284,18 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "the Angel",
-          "text": "Cry yet, saying, Thus saith the LORD of hosts; My cities through prosperity shall yet be spread abroad; and the LORD shall yet comfort Zion, and shall yet choose Jerusalem."
+          "type": "prophetic",
+          "speaker": "The Angel",
+          "text": "Cry yet, saying, Thus saith the LORD of hosts; My cities through prosperity shall yet be spread abroad; and the LORD shall yet comfort Zion, and shall yet choose Jerusalem.",
+          "source": {
+            "name": "The LORD of Hosts",
+            "spans": [
+              [
+                47,
+                172
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -298,7 +339,7 @@
           "text": "And he answered me,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "speaker": "The Angel",
           "text": "These are the horns which have scattered Judah, Israel, and Jerusalem."
         }
@@ -323,18 +364,22 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Zechariah",
+          "type": "narrative",
           "text": "Then said I,"
         },
         {
-          "type": "narrative",
-          "text": "What come these to do? And he spake, saying, These are the horns which have scattered Judah, so that no man did lift up his head:"
+          "type": "speech",
+          "speaker": "Zechariah",
+          "text": "What come these to do?"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it."
+          "type": "narrative",
+          "text": "And he spake, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The angel",
+          "text": "These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it."
         }
       ],
       "footnotes": [],

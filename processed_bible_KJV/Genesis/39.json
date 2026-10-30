@@ -81,7 +81,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Potiphar's Wife",
+          "speaker": "His master’s wife",
           "text": "Lie with me."
         }
       ],
@@ -205,7 +205,8 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Potiphar's Wife",
           "text": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out."
         }
       ],
@@ -246,7 +247,8 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Potiphar's Wife",
           "text": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out."
         }
       ],
@@ -259,7 +261,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
+          "text": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "His wife",
+          "text": "After this manner did thy servant to me;"
+        },
+        {
+          "type": "narrative",
+          "text": "that his wrath was kindled."
         }
       ],
       "footnotes": [],

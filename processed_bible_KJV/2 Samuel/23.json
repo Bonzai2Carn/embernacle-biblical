@@ -5,7 +5,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,"
+          "text": "Now these be the last words of David."
+        },
+        {
+          "type": "speech",
+          "speaker": "David",
+          "text": "David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,"
         }
       ],
       "footnotes": [],
@@ -16,7 +21,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "divine",
+          "type": "prophetic",
           "speaker": "David",
           "text": "The Spirit of the LORD spake by me, and his word was in my tongue."
         }
@@ -29,9 +34,18 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God."
+          "type": "prophetic",
+          "speaker": "David",
+          "text": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                56,
+                120
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -48,8 +62,18 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain."
+          "type": "prophetic",
+          "speaker": "David",
+          "text": "And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                172
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -60,7 +84,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "David",
           "text": "Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow."
         }
       ],
@@ -72,7 +97,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "David",
           "text": "¶ But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:"
         }
       ],
@@ -84,7 +110,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "David",
           "text": "But the man that shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the same place."
         }
       ],
@@ -215,7 +242,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, which is by the gate!"
+          "text": "And David longed, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "David",
+          "text": "Oh that one would give me drink of the water of the well of Beth-lehem, which is by the gate!"
         }
       ],
       "footnotes": [],
@@ -238,9 +270,17 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "divine",
+          "type": "narrative",
+          "text": "And he said,"
+        },
+        {
+          "type": "prayer",
           "speaker": "David",
-          "text": "And he said, Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men."
+          "text": "Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives?"
+        },
+        {
+          "type": "narrative",
+          "text": "therefore he would not drink it. These things did these three mighty men."
         }
       ],
       "footnotes": [],
@@ -417,7 +457,7 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,"
         }
       ],
@@ -471,7 +511,7 @@
       "verse_num": 33,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "Shammah the Hararite, Ahiam the son of Sharar the Hararite,"
         }
       ],
@@ -483,7 +523,7 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite,"
         }
       ],

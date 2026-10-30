@@ -105,18 +105,13 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samaritan Woman",
+          "type": "narrative",
           "text": "Then saith the woman of Samaria unto him,"
         },
         {
-          "type": "narrative",
-          "text": "How is it that thou, being a Jew, askest drink of me,"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "which am a woman of Samaria?"
+          "speaker": "The woman",
+          "text": "How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria?"
         },
         {
           "type": "narrative",
@@ -148,12 +143,12 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samaritan Woman",
+          "type": "narrative",
           "text": "The woman saith unto him,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Samaritan Woman",
           "text": "Sir,"
         },
         {
@@ -170,7 +165,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "speech",
+          "type": "prayer",
           "speaker": "Samaritan Woman",
           "text": "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?"
         }
@@ -247,17 +242,21 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samaritan Woman",
+          "type": "narrative",
           "text": "The woman answered and said,"
         },
         {
-          "type": "narrative",
-          "text": "I have no husband. Jesus said unto her,"
+          "type": "speech",
+          "speaker": "Samaritan Woman",
+          "text": "I have no husband."
         },
         {
-          "type": "speech",
-          "speaker": "The woman",
+          "type": "narrative",
+          "text": "Jesus said unto her,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "Thou hast well said, I have no husband:"
         }
       ],
@@ -269,8 +268,8 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The woman",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly."
         }
       ],
@@ -282,12 +281,12 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samaritan Woman",
+          "type": "narrative",
           "text": "The woman saith unto him,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Samaritan Woman",
           "text": "Sir,"
         },
         {
@@ -317,18 +316,13 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "Jesus saith unto her,"
         },
         {
-          "type": "narrative",
-          "text": "Woman, believe me,"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
+          "text": "Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
         }
       ],
       "footnotes": [],
@@ -422,7 +416,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?"
+          "text": "¶ And upon this came his disciples, and marvelled that he talked with the woman: yet no man said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The disciples",
+          "text": "What seekest thou?"
+        },
+        {
+          "type": "narrative",
+          "text": "or,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The disciples",
+          "text": "Why talkest thou with her?"
         }
       ],
       "footnotes": [],
@@ -473,12 +481,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ In the mean while his disciples prayed him, saying,"
+          "text": "¶ In the mean while his disciples prayed him,"
         },
         {
           "type": "speech",
-          "speaker": "Disciples",
-          "text": "Master, eat."
+          "speaker": "The disciples",
+          "text": "saying, Master, eat."
         }
       ],
       "footnotes": [],
@@ -493,8 +501,8 @@
           "text": "But he said unto them,"
         },
         {
-          "type": "speech",
-          "speaker": "Meanwhile the disciples",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "I have meat to eat that ye know not of."
         }
       ],
@@ -527,8 +535,8 @@
           "text": "Jesus saith unto them,"
         },
         {
-          "type": "speech",
-          "speaker": "The disciples",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "My meat is to do the will of him that sent me, and to finish his work."
         }
       ],
@@ -540,9 +548,18 @@
       "verse_num": 35,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The disciples",
-          "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.",
+          "source": {
+            "name": "The disciples",
+            "spans": [
+              [
+                12,
+                63
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -553,8 +570,8 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The disciples",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together."
         }
       ],
@@ -566,9 +583,18 @@
       "verse_num": 37,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The disciples",
-          "text": "And herein is that saying true, One soweth, and another reapeth."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "And herein is that saying true, One soweth, and another reapeth.",
+          "source": {
+            "name": "The disciples",
+            "spans": [
+              [
+                32,
+                64
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -579,8 +605,8 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The disciples",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours."
         }
       ],
@@ -593,7 +619,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did."
+          "text": "¶ And many of the Samaritans of that city believed on him for the saying of the woman, which testified,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The disciples",
+          "text": "He told me all that ever I did."
         }
       ],
       "footnotes": [],
@@ -722,18 +753,13 @@
       "verse_num": 49,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Nobleman",
-          "text": "The nobleman saith unto him,"
-        },
-        {
           "type": "narrative",
-          "text": "Sir,"
+          "text": "The nobleman saith unto him,"
         },
         {
           "type": "speech",
           "speaker": "The official",
-          "text": "come down ere my child die."
+          "text": "Sir, come down ere my child die."
         }
       ],
       "footnotes": [],
@@ -744,18 +770,13 @@
       "verse_num": 50,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "Jesus saith unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Go thy way;"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "thy son liveth."
+          "text": "Go thy way; thy son liveth."
         },
         {
           "type": "narrative",
@@ -783,12 +804,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then enquired he of them the hour when he began to amend."
+          "text": "Then enquired he of them the hour when he began to amend. And they said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "And they said unto him, Yesterday at the seventh hour the fever left him."
+          "type": "speech",
+          "speaker": "The father",
+          "text": "Yesterday at the seventh hour the fever left him."
         }
       ],
       "footnotes": [],
@@ -803,8 +824,8 @@
           "text": "So the father knew that it was at the same hour, in the which Jesus said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "the Father",
+          "type": "speech",
+          "speaker": "The father",
           "text": "Thy son liveth:"
         },
         {

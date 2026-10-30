@@ -16,8 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "It is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
         }
       ],
@@ -90,7 +89,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+          "text": "For better it is that it be said unto thee,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Come up hither;"
+        },
+        {
+          "type": "narrative",
+          "text": "than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
         }
       ],
       "footnotes": [],
@@ -298,8 +306,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "narrative",
           "text": "For thou shalt heap coals of fire upon his head, and the LORD shall reward thee."
         }
       ],

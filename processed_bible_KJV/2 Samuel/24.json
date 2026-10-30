@@ -26,7 +26,7 @@
         },
         {
           "type": "speech",
-          "speaker": "David",
+          "speaker": "The king",
           "text": "Go now through all the tribes of Israel, from Dan even to Beer-sheba, and number ye the people, that I may know the number of the people."
         }
       ],
@@ -178,9 +178,18 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee."
+          "type": "prophetic",
+          "speaker": "Gad",
+          "text": "Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                44,
+                123
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -249,7 +258,7 @@
           "text": "And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "speaker": "The LORD",
           "text": "It is enough: stay now thine hand."
         },
@@ -272,13 +281,9 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And David spake unto the LORD when he saw the angel that smote the people, and said,"
-        },
-        {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "David",
-          "text": "Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house."
+          "text": "And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house."
         }
       ],
       "footnotes": [],
@@ -338,27 +343,27 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Araunah",
+          "type": "narrative",
           "text": "And Araunah said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Araunah",
           "text": "Wherefore is my lord the king come to his servant?"
+        },
+        {
+          "type": "narrative",
+          "text": "And David said,"
         },
         {
           "type": "speech",
           "speaker": "Araunah",
-          "text": "And David said,"
-        },
-        {
-          "type": "narrative",
-          "text": "To buy the threshingfloor of thee, to build an altar unto the LORD,"
+          "text": "To buy the threshingfloor of thee,"
         },
         {
           "type": "speech",
           "speaker": "David",
-          "text": "that the plague may be stayed from the people."
+          "text": "to build an altar unto the LORD, that the plague may be stayed from the people."
         }
       ],
       "footnotes": [],
@@ -408,18 +413,18 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "David",
+          "type": "narrative",
           "text": "And the king said unto Araunah,"
         },
         {
-          "type": "narrative",
-          "text": "Nay; but I"
+          "type": "speech",
+          "speaker": "The king",
+          "text": "Nay;"
         },
         {
           "type": "speech",
           "speaker": "David",
-          "text": "will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing."
+          "text": "but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing."
         },
         {
           "type": "narrative",

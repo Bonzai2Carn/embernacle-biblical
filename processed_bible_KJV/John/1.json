@@ -230,7 +230,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
+          "text": "¶ And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "John",
+          "text": "Who art thou?"
         }
       ],
       "footnotes": [],
@@ -260,32 +265,27 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "narrative",
           "text": "And they asked him,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Unknown",
           "text": "What then?"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "Art thou Elias? And he saith,"
+          "speaker": "The people",
+          "text": "Art thou Elias?"
         },
         {
           "type": "narrative",
-          "text": "I am not."
+          "text": "And he saith,"
         },
         {
           "type": "speech",
           "speaker": "John",
-          "text": "Art thou"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "that prophet?"
+          "text": "I am not. Art thou that prophet?"
         },
         {
           "type": "narrative",
@@ -306,7 +306,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
+          "text": "Then said they unto him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The Jews of Jerusalem",
+          "text": "Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
         }
       ],
       "footnotes": [],
@@ -323,7 +328,11 @@
         {
           "type": "speech",
           "speaker": "John",
-          "text": "I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias."
+          "text": "I am the voice of one crying in the wilderness, Make straight the way of the Lord,"
+        },
+        {
+          "type": "narrative",
+          "text": "as said the prophet Esaias."
         }
       ],
       "footnotes": [],
@@ -353,7 +362,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Pharisees",
+          "speaker": "The Pharisees",
           "text": "Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
         }
       ],
@@ -382,7 +391,8 @@
       "verse_num": 27,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "John",
           "text": "He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose."
         }
       ],
@@ -425,7 +435,8 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "John",
           "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me."
         }
       ],
@@ -437,7 +448,8 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "John",
           "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
         }
       ],
@@ -466,13 +478,9 @@
       "verse_num": 33,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me,"
-        },
-        {
           "type": "speech",
-          "speaker": "God",
-          "text": "Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
+          "speaker": "John",
+          "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
         }
       ],
       "footnotes": [],
@@ -483,7 +491,8 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "John",
           "text": "And I saw, and bare record that this is the Son of God."
         }
       ],
@@ -539,29 +548,29 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then Jesus turned, and saw them following,"
+          "text": "Then Jesus turned, and saw them following, and saith unto them,"
         },
         {
           "type": "divine",
-          "speaker": "Disciples",
-          "text": "and saith unto them, What seek ye?"
+          "speaker": "Jesus",
+          "text": "What seek ye?"
         },
         {
           "type": "narrative",
           "text": "They said unto him,"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "Rabbi, ("
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Rabbi,"
         },
         {
           "type": "narrative",
-          "text": "which is to say, being interpreted, Master,)"
+          "text": "( which is to say, being interpreted, Master,)"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The two disciples",
           "text": "where dwellest thou?"
         }
       ],
@@ -573,9 +582,13 @@
       "verse_num": 39,
       "segments": [
         {
+          "type": "narrative",
+          "text": "He saith unto them,"
+        },
+        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "He saith unto them, Come and see."
+          "text": "Come and see."
         },
         {
           "type": "narrative",
@@ -608,7 +621,11 @@
         {
           "type": "speech",
           "speaker": "Andrew",
-          "text": "We have found the Messias, which is, being interpreted, the Christ."
+          "text": "We have found the Messias,"
+        },
+        {
+          "type": "narrative",
+          "text": "which is, being interpreted, the Christ."
         }
       ],
       "footnotes": [],
@@ -731,18 +748,22 @@
       "verse_num": 48,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Nathanael",
+          "type": "narrative",
           "text": "Nathanael saith unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee,"
-        },
-        {
           "type": "speech",
           "speaker": "Nathanael",
-          "text": "when thou wast under the fig tree, I saw thee."
+          "text": "Whence knowest thou me?"
+        },
+        {
+          "type": "narrative",
+          "text": "Jesus answered and said unto him,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Before that Philip called thee, when thou wast under the fig tree, I saw thee."
         }
       ],
       "footnotes": [],

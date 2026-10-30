@@ -58,8 +58,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Prophet",
+          "type": "speech",
+          "speaker": "The prophet",
           "text": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
         }
       ],
@@ -113,17 +113,7 @@
         {
           "type": "speech",
           "speaker": "The crowds",
-          "text": "Hosanna to the Son of David:"
-        },
-        {
-          "type": "speech",
-          "speaker": "The crowds",
-          "text": "Blessed is he that cometh in the name of the Lord;"
-        },
-        {
-          "type": "speech",
-          "speaker": "The crowds",
-          "text": "Hosanna in the highest."
+          "text": "Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest."
         }
       ],
       "footnotes": [],
@@ -138,8 +128,8 @@
           "text": "And when he was come into Jerusalem, all the city was moved, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "The crowds",
           "text": "Who is this?"
         }
       ],
@@ -186,9 +176,18 @@
           "text": "And said unto them,"
         },
         {
-          "type": "speech",
-          "speaker": "The crowds",
-          "text": "It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.",
+          "source": {
+            "name": "The crowds",
+            "spans": [
+              [
+                15,
+                98
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -212,7 +211,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,"
+          "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The children",
+          "text": "Hosanna to the Son of David;"
+        },
+        {
+          "type": "narrative",
+          "text": "they were sore displeased,"
         }
       ],
       "footnotes": [],
@@ -223,27 +231,22 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Chief Priests and Scribes",
+          "type": "narrative",
           "text": "And said unto him,"
         },
         {
+          "type": "speech",
+          "speaker": "Chief Priests and Scribes",
+          "text": "Hearest thou what these say?"
+        },
+        {
           "type": "narrative",
-          "text": "Hearest thou what these say? And Jesus saith unto them,"
+          "text": "And Jesus saith unto them,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "Yea; have ye never read,"
-        },
-        {
-          "type": "narrative",
-          "text": "Out of the mouth of babes and sucklings"
-        },
-        {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "thou hast perfected praise?"
+          "text": "Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
         }
       ],
       "footnotes": [],
@@ -279,12 +282,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and"
+          "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "said unto it, Let no fruit grow on thee henceforward for ever."
+          "text": "Let no fruit grow on thee henceforward for ever."
         },
         {
           "type": "narrative",
@@ -304,7 +307,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The disciples",
           "text": "How soon is the fig tree withered away!"
         }
       ],
@@ -316,18 +319,13 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "Jesus answered and said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "Verily I say unto you,"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
+          "text": "Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
         }
       ],
       "footnotes": [],
@@ -352,7 +350,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?"
+          "text": "¶ And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The chief priests and elders of the people",
+          "text": "By what authority doest thou these things? and who gave thee this authority?"
         }
       ],
       "footnotes": [],
@@ -365,9 +368,13 @@
       "verse_num": 24,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And Jesus answered and said unto them,"
+        },
+        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
+          "text": "I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things."
         }
       ],
       "footnotes": [],
@@ -378,18 +385,18 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "The baptism of John, whence was it? from heaven, or of men?"
         },
         {
           "type": "narrative",
-          "text": "And they reasoned with themselves, saying, If we shall say, From heaven;"
+          "text": "And they reasoned with themselves, saying,"
         },
         {
           "type": "speech",
           "speaker": "Unknown",
-          "text": "he will say unto us, Why did ye not then believe him?"
+          "text": "If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
         }
       ],
       "footnotes": [],
@@ -414,12 +421,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And they answered Jesus, and said,"
+          "text": "And they answered Jesus,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "We cannot tell."
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "and said, We cannot tell."
         },
         {
           "type": "narrative",
@@ -480,7 +487,25 @@
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+          "text": "Whether of them twain did the will of his father?"
+        },
+        {
+          "type": "narrative",
+          "text": "They say unto him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "The first."
+        },
+        {
+          "type": "narrative",
+          "text": "Jesus saith unto them,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
         }
       ],
       "footnotes": [],
@@ -504,8 +529,8 @@
       "verse_num": 33,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "¶ Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:"
         }
       ],
@@ -517,8 +542,8 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it."
         }
       ],
@@ -530,8 +555,8 @@
       "verse_num": 35,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And the husbandmen took his servants, and beat one, and killed another, and stoned another."
         }
       ],
@@ -543,8 +568,8 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "Again, he sent other servants more than the first: and they did unto them likewise."
         }
       ],
@@ -556,8 +581,8 @@
       "verse_num": 37,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "But last of all he sent unto them his son, saying, They will reverence my son."
         }
       ],
@@ -569,8 +594,8 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance."
         }
       ],
@@ -582,8 +607,8 @@
       "verse_num": 39,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "And they caught him, and cast him out of the vineyard, and slew him."
         }
       ],
@@ -595,8 +620,8 @@
       "verse_num": 40,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?"
         }
       ],
@@ -608,18 +633,13 @@
       "verse_num": 41,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unnamed",
+          "type": "narrative",
           "text": "They say unto him,"
         },
         {
-          "type": "narrative",
-          "text": "He will miserably destroy those wicked men,"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons."
+          "speaker": "The chief priests and elders of the people",
+          "text": "He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons."
         }
       ],
       "footnotes": [],
@@ -631,12 +651,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Jesus saith unto them, Did ye never read in the scriptures,"
+          "text": "Jesus saith unto them,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?"
+          "text": "Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?"
         }
       ],
       "footnotes": [],

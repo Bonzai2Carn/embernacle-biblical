@@ -94,9 +94,22 @@
       "verse_num": 8,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And Peter answered unto her,"
+        },
+        {
           "type": "speech",
           "speaker": "Sapphira",
-          "text": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much."
+          "text": "Tell me whether ye sold the land for so much?"
+        },
+        {
+          "type": "narrative",
+          "text": "And she said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Sapphira",
+          "text": "Yea, for so much."
         }
       ],
       "footnotes": [],
@@ -198,7 +211,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one."
         }
       ],
@@ -248,8 +261,8 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Angel of the Lord",
+          "type": "speech",
+          "speaker": "An angel of the Lord",
           "text": "Go, stand and speak in the temple to the people all the words of this life."
         }
       ],
@@ -286,7 +299,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Officers",
+          "speaker": "The officers",
           "text": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within."
         }
       ],
@@ -351,9 +364,18 @@
       "verse_num": 28,
       "segments": [
         {
+          "type": "narrative",
+          "text": "Saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The high priest",
+          "text": "Did not we straitly command you that ye should not teach in this name?"
+        },
+        {
           "type": "speech",
           "speaker": "High Priest",
-          "text": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us."
+          "text": "and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us."
         }
       ],
       "footnotes": [],
@@ -369,7 +391,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Peter",
+          "speaker": "The other apostles",
           "text": "We ought to obey God rather than men."
         }
       ],
@@ -384,7 +406,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Peter and the Apostles",
+          "speaker": "The other apostles",
           "text": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree."
         }
       ],
@@ -397,7 +419,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Peter and the Apostles",
+          "speaker": "The other apostles",
           "text": "Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins."
         }
       ],
@@ -410,7 +432,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Peter and the Apostles",
+          "speaker": "The other apostles",
           "text": "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him."
         }
       ],
@@ -448,18 +470,13 @@
       "verse_num": 35,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Gamaliel",
+          "type": "narrative",
           "text": "And said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "Ye men of Israel,"
-        },
-        {
           "type": "speech",
           "speaker": "Gamaliel",
-          "text": "take heed to yourselves what ye intend to do as touching these men."
+          "text": "Ye men of Israel, take heed to yourselves what ye intend to do as touching these men."
         }
       ],
       "footnotes": [],
@@ -534,7 +551,7 @@
       "verse_num": 41,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "¶ And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name."
         }
       ],

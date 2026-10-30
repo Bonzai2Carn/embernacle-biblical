@@ -31,7 +31,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which is in Migron: and the people that were with him were about six hundred men;"
         }
       ],
@@ -43,12 +43,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And Ahiah, the son of Ahitub, I-chabod’s brother, the son of Phinehas, the son of Eli, the LORD’s priest in Shiloh, wearing an ephod."
-        },
-        {
-          "type": "narrative",
-          "text": "And the people knew not that Jonathan was gone."
+          "type": "genealogy",
+          "text": "And Ahiah, the son of Ahitub, I-chabod’s brother, the son of Phinehas, the son of Eli, the LORD’s priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone."
         }
       ],
       "footnotes": [
@@ -129,18 +125,13 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jonathan",
-          "text": "Then said Jonathan,"
-        },
-        {
           "type": "narrative",
-          "text": "Behold, we will pass over unto these men,"
+          "text": "Then said Jonathan, Behold,"
         },
         {
           "type": "speech",
           "speaker": "Jonathan",
-          "text": "and we will discover ourselves unto them."
+          "text": "we will pass over unto these men, and we will discover ourselves unto them."
         }
       ],
       "footnotes": [],
@@ -201,7 +192,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the men of the garrison answered Jonathan and his armourbearer, and said, Come up to us, and we will shew you a thing. And Jonathan said unto his armourbearer, Come up after me: for the LORD hath delivered them into the hand of Israel."
+          "text": "And the men of the garrison answered Jonathan and his armourbearer, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Come up to us, and we will shew you a thing."
+        },
+        {
+          "type": "narrative",
+          "text": "And Jonathan said unto his armourbearer,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Jonathan",
+          "text": "Come up after me: for the LORD hath delivered them into the hand of Israel."
         }
       ],
       "footnotes": [],
@@ -379,8 +384,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "So the LORD saved Israel that day: and the battle passed over unto Beth-aven."
         }
       ],
@@ -450,12 +454,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed be the man that eateth any food this day."
+          "text": "Then answered one of the people, and said,"
         },
         {
           "type": "speech",
-          "speaker": "Saul",
-          "text": "And the people were faint."
+          "speaker": "The soldiers",
+          "text": "Thy father straitly charged the people with an oath, saying, Cursed be the man that eateth any food this day. And the people were faint."
         }
       ],
       "footnotes": [
@@ -472,18 +476,13 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jonathan",
+          "type": "narrative",
           "text": "Then said Jonathan,"
         },
         {
-          "type": "narrative",
-          "text": "My father hath troubled the land:"
-        },
-        {
           "type": "speech",
           "speaker": "Jonathan",
-          "text": "see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey."
+          "text": "My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey."
         }
       ],
       "footnotes": [],
@@ -537,21 +536,16 @@
         {
           "type": "speech",
           "speaker": "Saul",
-          "text": "Behold, the people sin against the LORD, in that they eat with the blood. And he said,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "Ye have transgressed:"
+          "text": "Behold, the people sin against the LORD, in that they eat with the blood."
         },
         {
           "type": "narrative",
-          "text": "roll a great stone unto me"
+          "text": "And he said,"
         },
         {
           "type": "speech",
           "speaker": "Saul",
-          "text": "this day."
+          "text": "Ye have transgressed: roll a great stone unto me this day."
         }
       ],
       "footnotes": [
@@ -618,12 +612,16 @@
         },
         {
           "type": "speech",
-          "speaker": "People",
-          "text": "Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said,"
+          "speaker": "Saul",
+          "text": "Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them."
+        },
+        {
+          "type": "narrative",
+          "text": "And they said,"
         },
         {
           "type": "speech",
-          "speaker": "Priest",
+          "speaker": "The troops",
           "text": "Do whatsoever seemeth good unto thee."
         },
         {
@@ -632,7 +630,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The troops",
+          "speaker": "The priest",
           "text": "Let us draw near hither unto God."
         }
       ],
@@ -649,7 +647,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The troops",
+          "speaker": "Saul",
           "text": "Shall I go down after the Philistines? wilt thou deliver them into the hand of Israel?"
         },
         {
@@ -670,7 +668,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The troops",
+          "speaker": "Saul",
           "text": "Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day."
         }
       ],
@@ -710,16 +708,16 @@
         },
         {
           "type": "speech",
-          "speaker": "People",
+          "speaker": "Saul",
           "text": "Be ye on one side, and I and Jonathan my son will be on the other side."
+        },
+        {
+          "type": "narrative",
+          "text": "And the people said unto Saul,"
         },
         {
           "type": "speech",
           "speaker": "The troops",
-          "text": "And the people said unto Saul,"
-        },
-        {
-          "type": "narrative",
           "text": "Do what seemeth good unto thee."
         }
       ],
@@ -736,7 +734,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The troops",
+          "speaker": "Saul",
           "text": "Give a perfect lot."
         },
         {
@@ -768,7 +766,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The troops",
+          "speaker": "Saul",
           "text": "Cast lots between me and Jonathan my son."
         },
         {
@@ -784,17 +782,21 @@
       "verse_num": 43,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Saul",
+          "type": "narrative",
           "text": "Then Saul said to Jonathan,"
         },
         {
+          "type": "speech",
+          "speaker": "Saul",
+          "text": "Tell me what thou hast done."
+        },
+        {
           "type": "narrative",
-          "text": "Tell me what thou hast done. And Jonathan told him, and said,"
+          "text": "And Jonathan told him, and said,"
         },
         {
           "type": "speech",
-          "speaker": "Saul",
+          "speaker": "Jonathan",
           "text": "I did but taste a little honey with the end of the rod that was in mine hand, and, lo, I must die."
         }
       ],
@@ -828,7 +830,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Saul",
+          "speaker": "The people",
           "text": "Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: as the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day."
         },
         {
@@ -898,7 +900,7 @@
       "verse_num": 50,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And the name of Saul’s wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul’s uncle."
         }
       ],

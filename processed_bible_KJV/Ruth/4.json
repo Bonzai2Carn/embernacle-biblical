@@ -5,11 +5,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by;"
-        },
-        {
-          "type": "narrative",
-          "text": "unto whom he said,"
+          "text": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said,"
         },
         {
           "type": "speech",
@@ -72,12 +68,12 @@
           "text": "And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee."
         },
         {
-          "type": "speech",
-          "speaker": "Kinsman",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The kinsman-redeemer",
           "text": "I will redeem it."
         }
       ],
@@ -148,7 +144,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Kinsman",
+          "speaker": "The kinsman-redeemer",
           "text": "Buy it for thee."
         },
         {
@@ -194,18 +190,18 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "People and Elders",
-          "text": "And all the people that were in the gate, and the elders, said, We are witnesses."
-        },
-        {
           "type": "narrative",
-          "text": "The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel:"
+          "text": "And all the people that were in the gate, and the elders, said,"
         },
         {
           "type": "speech",
           "speaker": "The elders",
-          "text": "and do thou worthily in Ephratah, and be famous in Beth-lehem:"
+          "text": "We are witnesses."
+        },
+        {
+          "type": "speech",
+          "speaker": "The elders and all the people at the gate",
+          "text": "The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:"
         }
       ],
       "footnotes": [
@@ -228,7 +224,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "People and Elders",
+          "speaker": "The elders and all the people at the gate",
           "text": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman."
         }
       ],
@@ -283,7 +279,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Women",
+          "speaker": "The women",
           "text": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him."
         }
       ],
@@ -323,11 +319,11 @@
         },
         {
           "type": "speech",
-          "speaker": "Women",
+          "speaker": "The neighbor women",
           "text": "There is a son born to Naomi;"
         },
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "and they called his name Obed: he is the father of Jesse, the father of David."
         }
       ],
@@ -339,7 +335,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ Now these are the generations of Pharez: Pharez begat Hezron,"
         }
       ],
@@ -353,7 +349,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Hezron begat Ram, and Ram begat Amminadab,"
         }
       ],
@@ -365,7 +361,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Amminadab begat Nahshon, and Nahshon begat Salmon,"
         }
       ],
@@ -383,7 +379,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Salmon begat Boaz, and Boaz begat Obed,"
         }
       ],
@@ -395,7 +391,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Obed begat Jesse, and Jesse begat David."
         }
       ],

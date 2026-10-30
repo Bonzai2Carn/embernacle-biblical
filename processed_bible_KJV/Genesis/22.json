@@ -13,12 +13,12 @@
           "text": "Abraham:"
         },
         {
-          "type": "speech",
-          "speaker": "Abraham",
+          "type": "narrative",
           "text": "and he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Abraham",
           "text": "Behold, here I am."
         }
       ],
@@ -36,18 +36,13 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
-          "text": "Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah;"
-        },
-        {
           "type": "divine",
           "speaker": "God",
-          "text": "and offer him there for a burnt offering upon one of the mountains which I will tell thee of."
+          "text": "Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of."
         }
       ],
       "footnotes": [],
@@ -204,17 +199,12 @@
         },
         {
           "type": "divine",
-          "speaker": "Angel of the LORD",
+          "speaker": "The LORD",
           "text": "Abraham, Abraham:"
         },
         {
           "type": "narrative",
-          "text": "and he said,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Abraham",
-          "text": "Here am I."
+          "text": "and he said, Here am I."
         }
       ],
       "footnotes": [],
@@ -225,17 +215,17 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Angel of the LORD",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The angel",
           "text": "Lay not thine hand upon the lad, neither do thou any thing unto him:"
         },
         {
-          "type": "divine",
-          "speaker": "the Angel",
+          "type": "speech",
+          "speaker": "The Angel",
           "text": "for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me."
         }
       ],
@@ -260,7 +250,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen."
+          "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Abraham",
+          "text": "In the mount of the LORD it shall be seen."
         }
       ],
       "footnotes": [
@@ -296,7 +291,7 @@
         },
         {
           "type": "divine",
-          "speaker": "Abraham",
+          "speaker": "The LORD",
           "text": "By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:"
         }
       ],
@@ -309,7 +304,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;"
         }
       ],
@@ -328,7 +323,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
         }
       ],
@@ -353,7 +348,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;"
+          "text": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Abraham",
+          "text": "Milcah, she hath also born children unto thy brother Nahor;"
         }
       ],
       "footnotes": [],
@@ -366,7 +366,8 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Abraham",
           "text": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,"
         }
       ],
@@ -378,7 +379,8 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Abraham",
           "text": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."
         }
       ],

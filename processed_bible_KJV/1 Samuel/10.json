@@ -8,7 +8,7 @@
           "text": "Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Samuel",
           "text": "Is it not because the LORD hath anointed thee to be captain over his inheritance?"
         }
@@ -21,13 +21,18 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
-          "text": "When thou art departed from me to day,"
-        },
-        {
           "type": "prophetic",
           "speaker": "Samuel",
-          "text": "then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?"
+          "text": "When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                156,
+                315
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -44,8 +49,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Beth-el, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:"
         }
       ],
@@ -57,8 +61,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands."
         }
       ],
@@ -76,8 +79,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:"
         }
       ],
@@ -89,8 +91,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man."
         }
       ],
@@ -102,8 +103,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee."
         }
       ],
@@ -126,8 +126,7 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samuel",
+          "type": "law",
           "text": "And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do."
         }
       ],
@@ -165,11 +164,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when they came thither to the hill, behold, a company of prophets met him;"
-        },
-        {
-          "type": "narrative",
-          "text": "and the Spirit of God came upon him, and he prophesied among them."
+          "text": "And when they came thither to the hill, behold, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them."
         }
       ],
       "footnotes": [],
@@ -185,7 +180,7 @@
         },
         {
           "type": "speech",
-          "speaker": "People",
+          "speaker": "The prophets",
           "text": "What is this that is come unto the son of Kish? Is Saul also among the prophets?"
         }
       ],
@@ -208,7 +203,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "A man",
           "text": "But who is their father?"
         },
         {
@@ -217,7 +212,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "A man",
           "text": "Is Saul also among the prophets?"
         }
       ],
@@ -252,22 +247,17 @@
         },
         {
           "type": "speech",
-          "speaker": "Saul",
-          "text": "Whither went ye? And he said,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Saul",
-          "text": "To seek the asses:"
+          "speaker": "Saul’s uncle",
+          "text": "Whither went ye?"
         },
         {
           "type": "narrative",
-          "text": "and when we saw that they were no where,"
+          "text": "And he said,"
         },
         {
           "type": "speech",
           "speaker": "Saul",
-          "text": "we came to Samuel."
+          "text": "To seek the asses: and when we saw that they were no where, we came to Samuel."
         }
       ],
       "footnotes": [],
@@ -280,18 +270,13 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Saul's Uncle",
-          "text": "And Saul’s uncle said,"
-        },
-        {
           "type": "narrative",
-          "text": "Tell me,"
+          "text": "And Saul’s uncle said, Tell me, I pray thee,"
         },
         {
           "type": "speech",
           "speaker": "Saul’s uncle",
-          "text": "I pray thee, what Samuel said unto you."
+          "text": "what Samuel said unto you."
         }
       ],
       "footnotes": [],
@@ -307,7 +292,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Samuel",
+          "speaker": "Saul",
           "text": "He told us plainly that the asses were found."
         },
         {
@@ -341,9 +326,23 @@
           "text": "And said unto the children of Israel,"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Thus saith the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:"
+          "type": "prophetic",
+          "speaker": "Samuel",
+          "text": "Thus saith the LORD God of Israel,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Samuel",
+          "text": "I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                154
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -354,9 +353,18 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the LORD by your tribes, and by your thousands."
+          "type": "prophetic",
+          "speaker": "Samuel",
+          "text": "And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the LORD by your tribes, and by your thousands.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                140,
+                168
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -367,7 +375,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And when Samuel had caused all the tribes of Israel to come near, the tribe of Benjamin was taken."
         }
       ],
@@ -379,7 +387,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found."
         }
       ],
@@ -396,7 +404,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "if the man should yet come thither."
         },
         {
@@ -405,7 +413,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Behold, he hath hid himself among the stuff."
         }
       ],
@@ -434,17 +442,17 @@
         },
         {
           "type": "speech",
-          "speaker": "People",
+          "speaker": "Samuel",
           "text": "See ye him whom the LORD hath chosen, that there is none like him among all the people?"
         },
         {
           "type": "narrative",
-          "text": "And all the people shouted, and said,"
+          "text": "And all the people shouted,"
         },
         {
           "type": "speech",
-          "speaker": "all the people",
-          "text": "God save the king."
+          "speaker": "All the people",
+          "text": "and said, God save the king."
         }
       ],
       "footnotes": [
@@ -492,12 +500,12 @@
         },
         {
           "type": "speech",
-          "speaker": "all the people",
-          "text": "How shall this man save us? And they despised him, and brought him no presents."
+          "speaker": "Some worthless men",
+          "text": "How shall this man save us?"
         },
         {
           "type": "narrative",
-          "text": "But he held his peace."
+          "text": "And they despised him, and brought him no presents. But he held his peace."
         }
       ],
       "footnotes": [

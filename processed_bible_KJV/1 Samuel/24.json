@@ -5,7 +5,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En-gedi."
+          "text": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "David is in the wilderness of En-gedi."
         }
       ],
       "footnotes": [
@@ -50,9 +55,18 @@
           "text": "And the men of David said unto him,"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee."
+          "type": "prophetic",
+          "speaker": "David’s men",
+          "text": "Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                49,
+                160
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -121,7 +135,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David stooped with his face to the earth, and bowed himself."
+          "text": "David also arose afterward, and went out of the cave, and cried after Saul, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "David",
+          "text": "My lord the king."
+        },
+        {
+          "type": "narrative",
+          "text": "And when Saul looked behind him, David stooped with his face to the earth, and bowed himself."
         }
       ],
       "footnotes": [],
@@ -177,7 +200,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "David",
           "text": "The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee."
         }
@@ -216,7 +239,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "David",
           "text": "The LORD therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand."
         }

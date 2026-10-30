@@ -5,12 +5,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him,"
+          "text": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him,"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Thus saith the LORD, Set thine house in order; for thou shalt die, and not live."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                44,
+                99
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -80,9 +89,18 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The LORD",
-          "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                106,
+                241
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -93,9 +111,18 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                201
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -107,7 +134,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered."
+          "text": "And Isaiah said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Isaiah",
+          "text": "Take a lump of figs."
+        },
+        {
+          "type": "narrative",
+          "text": "And they took and laid it on the boil, and he recovered."
         }
       ],
       "footnotes": [],
@@ -142,7 +178,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Hezekiah",
+          "speaker": "Isaiah",
           "text": "This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
         }
       ],
@@ -154,18 +190,13 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "And Hezekiah answered,"
         },
         {
-          "type": "narrative",
-          "text": "It is a light thing for the shadow to go down ten degrees: nay,"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "but let the shadow return backward ten degrees."
+          "speaker": "Hezekiah",
+          "text": "It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees."
         }
       ],
       "footnotes": [],
@@ -246,18 +277,13 @@
           "text": "What said these men? and from whence came they unto thee?"
         },
         {
-          "type": "speech",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "And Hezekiah said,"
         },
         {
-          "type": "narrative",
-          "text": "They are come from a far country,"
-        },
-        {
           "type": "speech",
           "speaker": "Hezekiah",
-          "text": "even from Babylon."
+          "text": "They are come from a far country, even from Babylon."
         }
       ],
       "footnotes": [],
@@ -270,27 +296,22 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Isaiah",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Isaiah",
           "text": "What have they seen in thine house?"
         },
         {
-          "type": "speech",
-          "speaker": "Isaiah",
+          "type": "narrative",
           "text": "And Hezekiah answered,"
         },
         {
-          "type": "narrative",
-          "text": "All the things that are in mine house have they seen:"
-        },
-        {
           "type": "speech",
-          "speaker": "Isaiah",
-          "text": "there is nothing among my treasures that I have not shewed them."
+          "speaker": "Hezekiah",
+          "text": "All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them."
         }
       ],
       "footnotes": [],
@@ -318,8 +339,8 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "prophetic",
+          "speaker": "Isaiah",
           "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD."
         }
       ],
@@ -331,8 +352,8 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "speech",
+          "speaker": "Isaiah",
           "text": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
         }
       ],
@@ -349,7 +370,7 @@
         },
         {
           "type": "prophetic",
-          "speaker": "Isaiah",
+          "speaker": "Hezekiah",
           "text": "Good is the word of the LORD which thou hast spoken."
         },
         {
@@ -358,7 +379,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Isaiah",
+          "speaker": "Hezekiah",
           "text": "Is it not good, if peace and truth be in my days?"
         }
       ],

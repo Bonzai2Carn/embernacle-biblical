@@ -33,7 +33,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Pharisees",
+          "speaker": "Some Pharisees",
           "text": "Is it lawful for a man to put away his wife for every cause?"
         }
       ],
@@ -90,18 +90,13 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "narrative",
           "text": "They say unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Why did Moses"
-        },
-        {
           "type": "speech",
           "speaker": "Unknown",
-          "text": "then command to give a writing of divorcement, and to put her away?"
+          "text": "Why did Moses then command to give a writing of divorcement, and to put her away?"
         }
       ],
       "footnotes": [],
@@ -146,8 +141,8 @@
           "text": "¶ His disciples say unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "His disciples",
           "text": "If the case of the man be so with his wife, it is not good to marry."
         }
       ],
@@ -161,18 +156,13 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "But he said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "All men cannot receive this saying,"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "save they to whom it is given."
+          "text": "All men cannot receive this saying, save they to whom it is given."
         }
       ],
       "footnotes": [],
@@ -244,7 +234,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Young Man",
+          "speaker": "A man",
           "text": "Good Master, what good thing shall I do, that I may have eternal life?"
         }
       ],
@@ -258,18 +248,13 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And he said unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Why callest thou me good?"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments."
+          "text": "Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments."
         }
       ],
       "footnotes": [],
@@ -280,17 +265,21 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The man",
+          "type": "narrative",
           "text": "He saith unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Which? Jesus said,"
+          "type": "speech",
+          "speaker": "A man",
+          "text": "Which?"
         },
         {
-          "type": "speech",
-          "speaker": "The man",
+          "type": "narrative",
+          "text": "Jesus said,"
+        },
+        {
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,"
         }
       ],
@@ -302,9 +291,18 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The man",
-          "text": "Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself.",
+          "source": {
+            "name": "The man",
+            "spans": [
+              [
+                0,
+                80
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -315,18 +313,13 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "The young man",
+          "type": "narrative",
           "text": "The young man saith unto him,"
         },
         {
-          "type": "narrative",
-          "text": "All these things have I kept from my youth up:"
-        },
-        {
           "type": "speech",
           "speaker": "The young man",
-          "text": "what lack I yet?"
+          "text": "All these things have I kept from my youth up: what lack I yet?"
         }
       ],
       "footnotes": [],
@@ -402,8 +395,8 @@
           "text": "When his disciples heard it, they were exceedingly amazed, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "The disciples",
           "text": "Who then can be saved?"
         }
       ],
@@ -432,9 +425,13 @@
       "verse_num": 27,
       "segments": [
         {
+          "type": "narrative",
+          "text": "¶ Then answered Peter and said unto him, Behold,"
+        },
+        {
           "type": "speech",
           "speaker": "Peter",
-          "text": "¶ Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?"
+          "text": "we have forsaken all, and followed thee; what shall we have therefore?"
         }
       ],
       "footnotes": [],
@@ -477,7 +474,7 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "sermon",
+          "type": "divine",
           "speaker": "Jesus",
           "text": "But many that are first shall be last; and the last shall be first."
         }

@@ -20,8 +20,8 @@
           "text": "As it is written in the prophets,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prophetic",
+          "speaker": "Isaiah the prophet",
           "text": "Behold, I send my messenger before thy face, which shall prepare thy way before thee."
         }
       ],
@@ -33,13 +33,18 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
-          "text": "The voice of one crying in the wilderness,"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Prepare ye the way of the Lord, make his paths straight."
+          "type": "prophetic",
+          "speaker": "Isaiah the prophet",
+          "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                99
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -91,7 +96,7 @@
         },
         {
           "type": "speech",
-          "speaker": "John",
+          "speaker": "John the Baptist",
           "text": "There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."
         }
       ],
@@ -103,7 +108,8 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "John the Baptist",
           "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
         }
       ],
@@ -143,8 +149,8 @@
           "text": "And there came a voice from heaven, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "speech",
+          "speaker": "A voice from heaven",
           "text": "Thou art my beloved Son, in whom I am well pleased."
         }
       ],
@@ -192,18 +198,13 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And saying,"
         },
         {
-          "type": "narrative",
-          "text": "The time is fulfilled,"
-        },
-        {
-          "type": "sermon",
+          "type": "divine",
           "speaker": "Jesus",
-          "text": "and the kingdom of God is at hand: repent ye, and believe the gospel."
+          "text": "The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."
         }
       ],
       "footnotes": [],
@@ -227,12 +228,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Jesus said unto them,"
+          "text": "And Jesus said unto them, Come ye after me,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "Come ye after me, and I will make you to become fishers of men."
+          "text": "and I will make you to become fishers of men."
         }
       ],
       "footnotes": [],
@@ -279,7 +280,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
         }
       ],
@@ -303,7 +304,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
         }
       ],
@@ -315,8 +316,8 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Unclean Spirit",
+          "type": "speech",
+          "speaker": "The unclean spirit",
           "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
         }
       ],
@@ -345,7 +346,7 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
         }
       ],
@@ -487,7 +488,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Simon",
+          "speaker": "Simon and his companions",
           "text": "All men seek for thee."
         }
       ],
@@ -532,8 +533,8 @@
           "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "The leper",
           "text": "If thou wilt, thou canst make me clean."
         }
       ],
@@ -551,16 +552,7 @@
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "I will;"
-        },
-        {
-          "type": "narrative",
-          "text": "be thou"
-        },
-        {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "clean."
+          "text": "I will; be thou clean."
         }
       ],
       "footnotes": [],
@@ -595,7 +587,7 @@
       "verse_num": 44,
       "segments": [
         {
-          "type": "speech",
+          "type": "divine",
           "speaker": "Jesus",
           "text": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
         }

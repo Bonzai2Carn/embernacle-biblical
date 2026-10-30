@@ -53,12 +53,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city:"
-        },
-        {
-          "type": "prayer",
-          "speaker": "Paul and companions",
-          "text": "and we kneeled down on the shore, and prayed."
+          "text": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city: and we kneeled down on the shore, and prayed."
         }
       ],
       "footnotes": [],
@@ -133,9 +128,18 @@
           "text": "And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said,"
         },
         {
-          "type": "divine",
+          "type": "speech",
           "speaker": "Agabus",
-          "text": "Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles."
+          "text": "Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.",
+          "source": {
+            "name": "The Holy Spirit",
+            "spans": [
+              [
+                36,
+                149
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -147,12 +151,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when we heard these things, both we, and they of that place,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Companions",
-          "text": "besought him not to go up to Jerusalem."
+          "text": "And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem."
         }
       ],
       "footnotes": [],
@@ -368,7 +367,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Some Jews from the province of Asia",
           "text": "Men of Israel, help: This is the man, that teacheth all men every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place."
         }
       ],
@@ -465,7 +464,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "For the multitude of the people followed after, crying, Away with him."
+          "text": "For the multitude of the people followed after, crying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The crowd",
+          "text": "Away with him."
         }
       ],
       "footnotes": [],
@@ -477,21 +481,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And as Paul was to be led into the castle,"
+          "text": "And as Paul was to be led into the castle, he said unto the chief captain,"
         },
         {
           "type": "speech",
           "speaker": "Paul",
-          "text": "he said unto the chief captain,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Chief Captain",
           "text": "May I speak unto thee?"
         },
         {
           "type": "narrative",
-          "text": "Who said, Canst thou speak Greek?"
+          "text": "Who said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The commander",
+          "text": "Canst thou speak Greek?"
         }
       ],
       "footnotes": [],
@@ -516,12 +520,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and,"
+          "text": "But Paul said,"
         },
         {
           "type": "speech",
           "speaker": "Paul",
-          "text": "I beseech thee, suffer me to speak unto the people."
+          "text": "I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people."
         }
       ],
       "footnotes": [],

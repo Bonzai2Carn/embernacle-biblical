@@ -4,8 +4,7 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "What advantage then hath the Jew? or what profit is there of circumcision?"
         }
       ],
@@ -17,7 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Much every way: chiefly, because that unto them were committed the oracles of God."
         }
       ],
@@ -29,8 +28,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?"
         }
       ],
@@ -42,17 +40,12 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "God forbid: yea, let God be true, but every man a liar;"
+          "type": "letters",
+          "text": "God forbid: yea, let God be true, but every man a liar; as it is written,"
         },
         {
-          "type": "narrative",
-          "text": "as it is written,"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
+          "type": "speech",
+          "speaker": "Unknown",
           "text": "That thou mightest be justified in thy sayings, and mightest overcome when thou art judged."
         }
       ],
@@ -64,13 +57,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
-          "text": "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance?"
-        },
-        {
-          "type": "narrative",
-          "text": "(I speak as a man)"
+          "type": "letters",
+          "text": "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)"
         }
       ],
       "footnotes": [],
@@ -81,8 +69,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "letters",
           "text": "God forbid: for then how shall God judge the world?"
         }
       ],
@@ -94,8 +81,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?"
         }
       ],
@@ -107,20 +93,18 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And not rather,"
-        },
-        {
-          "type": "narrative",
-          "text": "(as we be slanderously reported, and as some affirm that we say,)"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "And not rather, (as we be slanderously reported, and as some affirm that we say,)"
         },
         {
           "type": "speech",
-          "speaker": "Opponents",
+          "speaker": "Unknown",
           "text": "Let us do evil, that good may come?"
         },
         {
-          "type": "narrative",
+          "type": "letters",
+          "speaker": "Paul",
           "text": "whose damnation is just."
         }
       ],
@@ -132,8 +116,7 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;"
         }
       ],
@@ -162,7 +145,7 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "prophetic",
+          "type": "speech",
           "speaker": "Scripture",
           "text": "There is none that understandeth, there is none that seeketh after God."
         }
@@ -175,9 +158,18 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                116
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -188,9 +180,32 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Their throat is an open sepulchre; with their tongues they have used deceit;",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                76
+              ]
+            ]
+          }
+        },
+        {
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "the poison of asps is under their lips:",
+          "source": {
+            "name": "The people",
+            "spans": [
+              [
+                0,
+                39
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -201,9 +216,18 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "Whose mouth is full of cursing and bitterness:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Whose mouth is full of cursing and bitterness:",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                46
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -214,9 +238,18 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "Their feet are swift to shed blood:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Their feet are swift to shed blood:",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                35
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -227,9 +260,18 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "Destruction and misery are in their ways:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Destruction and misery are in their ways:",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                41
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -240,9 +282,18 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "And the way of peace have they not known:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "And the way of peace have they not known:",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                41
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -253,9 +304,18 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Scripture",
-          "text": "There is no fear of God before their eyes."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "There is no fear of God before their eyes.",
+          "source": {
+            "name": "Scripture",
+            "spans": [
+              [
+                0,
+                42
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -266,7 +326,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God."
         }
       ],
@@ -278,7 +338,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin."
         }
       ],
@@ -290,7 +350,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;"
         }
       ],
@@ -302,7 +362,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:"
         }
       ],
@@ -314,7 +374,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "For all have sinned, and come short of the glory of God;"
         }
       ],
@@ -326,7 +386,7 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
         }
       ],
@@ -338,7 +398,7 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;"
         }
       ],
@@ -350,7 +410,7 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus."
         }
       ],
@@ -362,8 +422,7 @@
       "verse_num": 27,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith."
         }
       ],
@@ -375,7 +434,7 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Therefore we conclude that a man is justified by faith without the deeds of the law."
         }
       ],
@@ -387,8 +446,7 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:"
         }
       ],
@@ -400,7 +458,7 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith."
         }
       ],
@@ -412,8 +470,7 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Do we then make void the law through faith? God forbid: yea, we establish the law."
         }
       ],

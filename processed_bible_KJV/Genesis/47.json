@@ -33,27 +33,22 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Pharaoh",
+          "type": "narrative",
           "text": "And Pharaoh said unto his brethren,"
         },
         {
+          "type": "speech",
+          "speaker": "Pharaoh",
+          "text": "What is your occupation?"
+        },
+        {
           "type": "narrative",
-          "text": "What is your occupation? And"
+          "text": "And they said unto Pharaoh,"
         },
         {
           "type": "speech",
           "speaker": "Joseph's Brothers",
-          "text": "they said unto Pharaoh,"
-        },
-        {
-          "type": "narrative",
-          "text": "Thy servants are shepherds,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Pharaoh",
-          "text": "both we, and also our fathers."
+          "text": "Thy servants are shepherds, both we, and also our fathers."
         }
       ],
       "footnotes": [],
@@ -69,7 +64,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Pharaoh",
+          "speaker": "Joseph’s brothers",
           "text": "For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen."
         }
       ],
@@ -82,12 +77,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Pharaoh spake unto Joseph, saying,"
+          "text": "And Pharaoh spake unto Joseph,"
         },
         {
           "type": "speech",
           "speaker": "Pharaoh",
-          "text": "Thy father and thy brethren are come unto thee:"
+          "text": "saying, Thy father and thy brethren are come unto thee:"
         }
       ],
       "footnotes": [],
@@ -124,12 +119,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Pharaoh said unto Jacob,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Pharaoh",
-          "text": "How old art thou?"
+          "text": "And Pharaoh said unto Jacob, How old art thou?"
         }
       ],
       "footnotes": [
@@ -146,18 +136,13 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jacob",
+          "type": "narrative",
           "text": "And Jacob said unto Pharaoh,"
         },
         {
-          "type": "narrative",
-          "text": "The days of the years of my pilgrimage are an hundred and thirty years:"
-        },
-        {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
+          "text": "The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
         }
       ],
       "footnotes": [],
@@ -243,7 +228,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Egyptians",
+          "speaker": "The Egyptians",
           "text": "Give us bread: for why should we die in thy presence? for the money faileth."
         }
       ],
@@ -255,18 +240,13 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Joseph",
+          "type": "narrative",
           "text": "And Joseph said,"
         },
         {
-          "type": "narrative",
-          "text": "Give your cattle;"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "and I will give you for your cattle, if money fail."
+          "speaker": "Joseph",
+          "text": "Give your cattle; and I will give you for your cattle, if money fail."
         }
       ],
       "footnotes": [],
@@ -300,7 +280,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The people",
           "text": "We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
         }
       ],
@@ -397,17 +377,17 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Egyptians",
+          "type": "narrative",
           "text": "And they said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Egyptians",
           "text": "Thou hast saved our lives:"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The people",
           "text": "let us find grace in the sight of my lord, and we will be Pharaoh’s servants."
         }
       ],
@@ -474,7 +454,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Jacob",
+          "speaker": "Israel",
           "text": "If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:"
         }
       ],
@@ -487,8 +467,17 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Jacob",
-          "text": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said."
+          "speaker": "Israel",
+          "text": "But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace."
+        },
+        {
+          "type": "narrative",
+          "text": "And he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Joseph",
+          "text": "I will do as thou hast said."
         }
       ],
       "footnotes": [],
@@ -500,7 +489,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head."
+          "text": "And he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Jacob",
+          "text": "Swear unto me."
+        },
+        {
+          "type": "narrative",
+          "text": "And he sware unto him. And Israel bowed himself upon the bed’s head."
         }
       ],
       "footnotes": [],

@@ -28,7 +28,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,"
         }
       ],
@@ -43,7 +43,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "King Josiah",
+          "speaker": "Josiah",
           "text": "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:"
         }
       ],
@@ -61,7 +61,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Josiah",
           "text": "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which is in the house of the LORD, to repair the breaches of the house,"
         }
       ],
@@ -73,7 +74,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Josiah",
           "text": "Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house."
         }
       ],
@@ -85,7 +87,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Josiah",
           "text": "Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully."
         }
       ],
@@ -102,7 +105,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Hilkiah",
+          "speaker": "The high priest",
           "text": "I have found the book of the law in the house of the LORD."
         },
         {
@@ -125,7 +128,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Shaphan",
+          "speaker": "Shaphan the scribe",
           "text": "Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD."
         }
       ],
@@ -148,7 +151,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Shaphan",
+          "speaker": "The scribe",
           "text": "Hilkiah the priest hath delivered me a book."
         },
         {
@@ -176,7 +179,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,"
         }
       ],
@@ -200,7 +203,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "King Josiah",
+          "speaker": "Josiah",
           "text": "Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us."
         }
       ],
@@ -212,7 +215,7 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her."
         }
       ],
@@ -239,9 +242,23 @@
           "text": "¶ And she said unto them,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD God of Israel, Tell the man that sent you to me,"
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "Thus saith the LORD God of Israel,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "Tell the man that sent you to me,",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                33
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -255,8 +272,17 @@
       "segments": [
         {
           "type": "prophetic",
-          "speaker": "God",
-          "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:"
+          "speaker": "Huldah",
+          "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                163
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -267,9 +293,18 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched."
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                225
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -280,9 +315,18 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, As touching the words which thou hast heard;"
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, As touching the words which thou hast heard;",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                125,
+                169
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -293,9 +337,18 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the LORD."
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the LORD.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                288
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -306,9 +359,18 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place."
+          "type": "prophetic",
+          "speaker": "Huldah",
+          "text": "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                7,
+                184
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",

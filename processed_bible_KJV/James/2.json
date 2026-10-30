@@ -16,7 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
         }
       ],
@@ -29,7 +29,23 @@
       "segments": [
         {
           "type": "letters",
-          "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+          "speaker": "James",
+          "text": "And ye have respect to him that weareth the gay clothing, and say unto him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unnamed Person",
+          "text": "Sit thou here in a good place;"
+        },
+        {
+          "type": "letters",
+          "speaker": "James",
+          "text": "and say to the poor,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Stand thou there, or sit here under my footstool:"
         }
       ],
       "footnotes": [],
@@ -40,8 +56,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
         }
       ],
@@ -53,8 +68,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
         }
       ],
@@ -66,8 +80,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
         }
       ],
@@ -79,8 +92,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Do not they blaspheme that worthy name by the which ye are called?"
         }
       ],
@@ -92,9 +104,19 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "sermon",
+          "type": "letters",
           "speaker": "James",
-          "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+          "text": "If ye fulfil the royal law according to the scripture,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Thou shalt love thy neighbour as thyself,"
+        },
+        {
+          "type": "letters",
+          "speaker": "James",
+          "text": "ye do well:"
         }
       ],
       "footnotes": [],
@@ -107,8 +129,7 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
         }
       ],
@@ -120,8 +141,7 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
         }
       ],
@@ -133,9 +153,29 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "sermon",
+          "type": "letters",
           "speaker": "James",
-          "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+          "text": "For he that said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Do not commit adultery,"
+        },
+        {
+          "type": "letters",
+          "speaker": "James",
+          "text": "said also,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Do not kill."
+        },
+        {
+          "type": "letters",
+          "speaker": "James",
+          "text": "Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
         }
       ],
       "footnotes": [],
@@ -148,8 +188,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
         }
       ],
@@ -161,8 +200,7 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
         }
       ],
@@ -174,8 +212,7 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
         }
       ],
@@ -187,7 +224,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "If a brother or sister be naked, and destitute of daily food,"
         }
       ],
@@ -200,15 +237,26 @@
       "segments": [
         {
           "type": "letters",
+          "speaker": "James",
           "text": "And one of you say unto them,"
         },
         {
-          "type": "speech",
-          "speaker": "also",
-          "text": "Depart in peace, be ye warmed and filled;"
+          "type": "letters",
+          "speaker": "James",
+          "text": "Depart in peace, be ye warmed and filled;",
+          "source": {
+            "name": "One of you",
+            "spans": [
+              [
+                0,
+                41
+              ]
+            ]
+          }
         },
         {
           "type": "letters",
+          "speaker": "James",
           "text": "notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
         }
       ],
@@ -220,8 +268,7 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Even so faith, if it hath not works, is dead, being alone."
         }
       ],
@@ -234,16 +281,18 @@
       "segments": [
         {
           "type": "letters",
+          "speaker": "James",
           "text": "Yea, a man may say,"
         },
         {
           "type": "speech",
-          "speaker": "also",
-          "text": "Thou hast faith, and I have works: shew me thy faith without thy works,"
+          "speaker": "Unknown",
+          "text": "Thou hast faith, and I have works:"
         },
         {
           "type": "letters",
-          "text": "and I will shew thee my faith by my works."
+          "speaker": "James",
+          "text": "shew me thy faith without thy works, and I will shew thee my faith by my works."
         }
       ],
       "footnotes": [],
@@ -254,8 +303,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
         }
       ],
@@ -267,8 +315,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "But wilt thou know, O vain man, that faith without works is dead?"
         }
       ],
@@ -280,8 +327,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
         }
       ],
@@ -295,8 +341,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
         }
       ],
@@ -308,8 +353,26 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+          "type": "letters",
+          "text": "And the scripture was fulfilled which saith,"
+        },
+        {
+          "type": "letters",
+          "speaker": "James",
+          "text": "Abraham believed God, and it was imputed unto him for righteousness:",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                0,
+                68
+              ]
+            ]
+          }
+        },
+        {
+          "type": "letters",
+          "text": "and he was called the Friend of God."
         }
       ],
       "footnotes": [],
@@ -322,8 +385,7 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Ye see then how that by works a man is justified, and not by faith only."
         }
       ],
@@ -335,8 +397,7 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
         }
       ],
@@ -350,8 +411,7 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "sermon",
-          "speaker": "James",
+          "type": "letters",
           "text": "For as the body without the spirit is dead, so faith without works is dead also."
         }
       ],

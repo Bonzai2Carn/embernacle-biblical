@@ -34,7 +34,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "prophetic",
+          "type": "prayer",
           "speaker": "Hannah",
           "text": "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the LORD is a God of knowledge, and by him actions are weighed."
         }
@@ -53,7 +53,8 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "The bows of the mighty men are broken, and they that stumbled are girded with strength."
         }
       ],
@@ -65,7 +66,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble."
         }
       ],
@@ -77,8 +79,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up."
         }
       ],
@@ -90,8 +92,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up."
         }
       ],
@@ -103,8 +105,8 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the LORD’s, and he hath set the world upon them."
         }
       ],
@@ -116,8 +118,8 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail."
         }
       ],
@@ -129,8 +131,8 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "prayer",
+          "speaker": "Hannah",
           "text": "The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed."
         }
       ],
@@ -197,7 +199,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Priest's Servant",
+          "speaker": "The servant of the priest",
           "text": "Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw."
         }
       ],
@@ -223,7 +225,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The servant of the priest",
           "text": "Nay; but thou shalt give it me now: and if not, I will take it by force."
         }
       ],
@@ -338,18 +340,13 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Eli",
+          "type": "narrative",
           "text": "And he said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "Why do ye such things?"
-        },
-        {
           "type": "speech",
           "speaker": "Eli",
-          "text": "for I hear of your evil dealings by all this people."
+          "text": "Why do ye such things? for I hear of your evil dealings by all this people."
         }
       ],
       "footnotes": [
@@ -385,8 +382,13 @@
       "verse_num": 25,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "Eli",
+          "text": "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him?"
+        },
+        {
           "type": "narrative",
-          "text": "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them."
+          "text": "Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them."
         }
       ],
       "footnotes": [],
@@ -414,8 +416,17 @@
         },
         {
           "type": "prophetic",
-          "speaker": "God",
-          "text": "Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?"
+          "speaker": "A man of God",
+          "text": "Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh’s house?",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                21,
+                115
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -428,9 +439,18 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?"
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                242
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -441,9 +461,18 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?"
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                212
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -455,8 +484,22 @@
       "segments": [
         {
           "type": "prophetic",
-          "speaker": "God",
-          "text": "Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
+          "speaker": "A man of God",
+          "text": "Wherefore the LORD God of Israel saith,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                224
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -467,9 +510,18 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                139
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -480,9 +532,18 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                4,
+                151
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -499,9 +560,18 @@
       "verse_num": 33,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                196
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -518,9 +588,18 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                134
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -531,9 +610,18 @@
       "verse_num": 35,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                196
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -544,9 +632,18 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread."
+          "type": "prophetic",
+          "speaker": "A man of God",
+          "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests’ offices, that I may eat a piece of bread.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                246
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [

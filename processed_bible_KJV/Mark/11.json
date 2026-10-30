@@ -63,7 +63,7 @@
         },
         {
           "type": "speech",
-          "speaker": "some who were standing there",
+          "speaker": "Unknown",
           "text": "What do ye, loosing the colt?"
         }
       ],
@@ -116,13 +116,8 @@
         },
         {
           "type": "speech",
-          "speaker": "some who were standing there",
-          "text": "Hosanna;"
-        },
-        {
-          "type": "speech",
-          "speaker": "some who were standing there",
-          "text": "Blessed is he that cometh in the name of the Lord:"
+          "speaker": "The ones",
+          "text": "Hosanna; Blessed is he that cometh in the name of the Lord:"
         }
       ],
       "footnotes": [],
@@ -133,9 +128,14 @@
       "verse_num": 10,
       "segments": [
         {
+          "type": "prayer",
+          "speaker": "The crowd",
+          "text": "Blessed be the kingdom of our father David, that cometh in the name of the Lord:"
+        },
+        {
           "type": "speech",
-          "speaker": "Crowd",
-          "text": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest."
+          "speaker": "The crowd",
+          "text": "Hosanna in the highest."
         }
       ],
       "footnotes": [],
@@ -188,8 +188,8 @@
           "text": "And Jesus answered and said unto it,"
         },
         {
-          "type": "speech",
-          "speaker": "some who were standing there",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "No man eat fruit of thee hereafter for ever."
         },
         {
@@ -289,7 +289,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Peter remembered it and",
+          "speaker": "Peter",
           "text": "Master, behold, the fig tree which thou cursedst is withered away."
         }
       ],
@@ -301,12 +301,12 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And Jesus answering saith unto them,"
         },
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "Have faith in God."
         }
       ],
@@ -357,7 +357,8 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses."
         }
       ],
@@ -383,18 +384,13 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Chief priests, scribes, and elders",
+          "type": "narrative",
           "text": "And say unto him,"
         },
         {
-          "type": "narrative",
-          "text": "By what authority doest thou these things?"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "and who gave thee this authority to do these things?"
+          "speaker": "The chief priests",
+          "text": "By what authority doest thou these things? and who gave thee this authority to do these things?"
         }
       ],
       "footnotes": [],
@@ -405,18 +401,13 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And Jesus answered and said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "I will also ask of you one question,"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "and answer me, and I will tell you by what authority I do these things."
+          "text": "I will also ask of you one question, and answer me, and I will tell you by what authority I do these things."
         }
       ],
       "footnotes": [],
@@ -457,8 +448,13 @@
       "verse_num": 32,
       "segments": [
         {
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "But if we shall say, Of men;"
+        },
+        {
           "type": "narrative",
-          "text": "But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed."
+          "text": "they feared the people: for all men counted John, that he was a prophet indeed."
         }
       ],
       "footnotes": [],

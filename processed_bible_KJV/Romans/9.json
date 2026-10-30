@@ -4,8 +4,7 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
         }
       ],
@@ -17,8 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "That I have great heaviness and continual sorrow in my heart."
         }
       ],
@@ -30,8 +28,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:"
         }
       ],
@@ -43,7 +40,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;"
         }
       ],
@@ -55,7 +52,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
         }
       ],
@@ -67,7 +64,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:"
         }
       ],
@@ -79,8 +76,14 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
-          "text": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Neither, because they are the seed of Abraham, are they all children:"
+        },
+        {
+          "type": "divine",
+          "speaker": "The LORD",
+          "text": "but, In Isaac shall thy seed be called."
         }
       ],
       "footnotes": [],
@@ -93,7 +96,7 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed."
         }
       ],
@@ -105,8 +108,22 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
-          "text": "For this is the word of promise, At this time will I come, and Sara shall have a son."
+          "type": "letters",
+          "text": "For this is the word of promise,"
+        },
+        {
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "At this time will I come, and Sara shall have a son.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                52
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -119,7 +136,7 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;"
         }
       ],
@@ -131,7 +148,7 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
         }
       ],
@@ -143,8 +160,22 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "narrative",
-          "text": "It was said unto her, The elder shall serve the younger."
+          "type": "letters",
+          "text": "It was said unto her,"
+        },
+        {
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "The elder shall serve the younger.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                34
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -161,9 +192,18 @@
           "text": "As it is written,"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Jacob have I loved, but Esau have I hated."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Jacob have I loved, but Esau have I hated.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                42
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -176,8 +216,7 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "What shall we say then? Is there unrighteousness with God? God forbid."
         }
       ],
@@ -193,9 +232,18 @@
           "text": "For he saith to Moses,"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                103
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -208,7 +256,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy."
         }
       ],
@@ -220,13 +268,22 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "letters",
+          "type": "narrative",
           "text": "For the scripture saith unto Pharaoh,"
         },
         {
-          "type": "speech",
-          "speaker": "The Scripture",
-          "text": "Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                146
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -239,7 +296,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth."
         }
       ],
@@ -251,9 +308,22 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Hypothetical Objector",
-          "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?"
+          "type": "letters",
+          "text": "Thou wilt say then unto me,"
+        },
+        {
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Why doth he yet find fault? For who hath resisted his will?",
+          "source": {
+            "name": "One of you",
+            "spans": [
+              [
+                0,
+                59
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -264,9 +334,13 @@
       "verse_num": 20,
       "segments": [
         {
+          "type": "letters",
+          "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it,"
+        },
+        {
           "type": "speech",
-          "speaker": "Paul",
-          "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+          "speaker": "The Scripture",
+          "text": "Why hast thou made me thus?"
         }
       ],
       "footnotes": [],
@@ -277,8 +351,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?"
         }
       ],
@@ -290,7 +363,7 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:"
         }
       ],
@@ -302,7 +375,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,"
         }
       ],
@@ -314,7 +387,7 @@
       "verse_num": 24,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?"
         }
       ],
@@ -330,9 +403,18 @@
           "text": "As he saith also in Osee,"
         },
         {
-          "type": "speech",
-          "speaker": "The Scripture",
-          "text": "I will call them my people, which were not my people; and her beloved, which was not beloved."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "I will call them my people, which were not my people; and her beloved, which was not beloved.",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                17,
+                70
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -345,9 +427,18 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "God",
-          "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                74,
+                154
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -364,9 +455,18 @@
           "text": "Esaias also crieth concerning Israel,"
         },
         {
-          "type": "speech",
-          "speaker": "The Scripture",
-          "text": "Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                0,
+                96
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -379,8 +479,18 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "narrative",
-          "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                0,
+                119
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -391,13 +501,22 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "letters",
+          "type": "narrative",
           "text": "And as Esaias said before,"
         },
         {
-          "type": "speech",
-          "speaker": "The Scripture",
-          "text": "Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.",
+          "source": {
+            "name": "Isaiah",
+            "spans": [
+              [
+                0,
+                103
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -410,8 +529,7 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Paul",
+          "type": "letters",
           "text": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith."
         }
       ],
@@ -423,7 +541,7 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness."
         }
       ],
@@ -435,7 +553,7 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "narrative",
+          "type": "letters",
           "text": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;"
         }
       ],
@@ -451,9 +569,18 @@
           "text": "As it is written,"
         },
         {
-          "type": "speech",
-          "speaker": "The Scripture",
-          "text": "Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."
+          "type": "letters",
+          "speaker": "Paul",
+          "text": "Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.",
+          "source": {
+            "name": "The Scripture",
+            "spans": [
+              [
+                0,
+                112
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],

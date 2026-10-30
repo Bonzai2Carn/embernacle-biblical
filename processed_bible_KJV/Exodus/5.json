@@ -8,9 +8,18 @@
           "text": "And afterward Moses and Aaron went in, and told Pharaoh,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Moses and Aaron",
-          "text": "Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+          "text": "Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                35,
+                106
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -38,18 +47,13 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Moses and Aaron",
+          "type": "narrative",
           "text": "And they said,"
         },
         {
-          "type": "narrative",
-          "text": "The God of the Hebrews hath met with us:"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
+          "speaker": "Moses and Aaron",
+          "text": "The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
         }
       ],
       "footnotes": [],
@@ -61,12 +65,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the king of Egypt said unto them,"
+          "text": "And the king of Egypt said unto them, Wherefore do ye,"
         },
         {
           "type": "speech",
           "speaker": "The king of Egypt",
-          "text": "Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+          "text": "Moses and Aaron, let the people from their works? get you unto your burdens."
         }
       ],
       "footnotes": [],
@@ -82,7 +86,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Pharaoh also",
+          "speaker": "Pharaoh",
           "text": "Behold, the people of the land now are many, and ye make them rest from their burdens."
         }
       ],
@@ -156,7 +160,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Taskmasters and Officers",
+          "speaker": "The taskmasters and foremen of the people",
           "text": "Thus saith Pharaoh, I will not give you straw."
         }
       ],
@@ -171,7 +175,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Taskmasters and Officers",
+          "speaker": "The taskmasters and foremen of the people",
           "text": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
         }
       ],
@@ -200,7 +204,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Taskmasters",
+          "speaker": "The taskmasters",
           "text": "Fulfil your works, your daily tasks, as when there was straw."
         }
       ],
@@ -236,12 +240,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ Then the officers of the children of Israel came and cried unto Pharaoh, saying,"
+          "text": "¶ Then the officers of the children of Israel came and cried unto Pharaoh,"
         },
         {
           "type": "speech",
-          "speaker": "Officers of Israel",
-          "text": "Wherefore dealest thou thus with thy servants?"
+          "speaker": "The Israelite foremen",
+          "text": "saying, Wherefore dealest thou thus with thy servants?"
         }
       ],
       "footnotes": [],
@@ -255,7 +259,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Officers of Israel",
+          "speaker": "The Israelite foremen",
           "text": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people."
         }
       ],
@@ -267,18 +271,13 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Pharaoh",
-          "text": "But he said, Ye are idle, ye are idle:"
-        },
-        {
           "type": "narrative",
-          "text": "therefore ye say,"
+          "text": "But he said,"
         },
         {
           "type": "speech",
           "speaker": "Pharaoh",
-          "text": "Let us go and do sacrifice to the LORD."
+          "text": "Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD."
         }
       ],
       "footnotes": [],
@@ -303,7 +302,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task."
+          "text": "And the officers of the children of Israel did see that they were in evil case, after it was said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Pharaoh",
+          "text": "Ye shall not minish ought from your bricks of your daily task."
         }
       ],
       "footnotes": [],
@@ -328,18 +332,13 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Officers of Israel",
-          "text": "And they said unto them,"
-        },
-        {
           "type": "narrative",
-          "text": "The LORD look upon you, and judge;"
+          "text": "And they said unto them,"
         },
         {
           "type": "speech",
           "speaker": "The foremen",
-          "text": "because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+          "text": "The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
         }
       ],
       "footnotes": [
@@ -360,7 +359,7 @@
           "text": "And Moses returned unto the LORD, and said,"
         },
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Moses",
           "text": "Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?"
         }
@@ -373,7 +372,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Moses",
           "text": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
         }

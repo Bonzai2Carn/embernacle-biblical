@@ -16,27 +16,18 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Angel",
+          "type": "narrative",
           "text": "And said unto me,"
         },
         {
-          "type": "narrative",
-          "text": "What seest thou? And I said,"
+          "type": "speech",
+          "speaker": "The angel",
+          "text": "What seest thou?"
         },
         {
           "type": "speech",
           "speaker": "Unknown",
-          "text": "I have looked, and behold a candlestick all of gold, with a bowl upon the top of it,"
-        },
-        {
-          "type": "narrative",
-          "text": "and his seven lamps thereon, and seven pipes to the seven lamps,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "which are upon the top thereof:"
+          "text": "And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof:"
         }
       ],
       "footnotes": [
@@ -58,7 +49,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The one",
           "text": "And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof."
         }
       ],
@@ -75,7 +67,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Zechariah",
+          "speaker": "Unknown",
           "text": "What are these, my lord?"
         }
       ],
@@ -87,21 +79,21 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Angel",
+          "type": "narrative",
           "text": "Then the angel that talked with me answered and said unto me,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The angel",
           "text": "Knowest thou not what these be?"
         },
         {
-          "type": "divine",
-          "speaker": "the Angel",
+          "type": "narrative",
           "text": "And I said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Unknown",
           "text": "No, my lord."
         }
       ],
@@ -117,9 +109,18 @@
           "text": "Then he answered and spake unto me, saying,"
         },
         {
+          "type": "speech",
+          "speaker": "The angel",
+          "text": "This is the word of the LORD unto Zerubbabel,"
+        },
+        {
+          "type": "narrative",
+          "text": "saying,"
+        },
+        {
           "type": "divine",
-          "speaker": "the Angel",
-          "text": "This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts."
+          "speaker": "Unknown",
+          "text": "Not by might, nor by power, but by my spirit, saith the LORD of hosts."
         }
       ],
       "footnotes": [
@@ -137,8 +138,17 @@
       "segments": [
         {
           "type": "prophetic",
-          "speaker": "God",
-          "text": "Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it."
+          "speaker": "The angel",
+          "text": "Who art thou, O great mountain? before Zerubbabel thou shalt become a plain: and he shall bring forth the headstone thereof with shoutings, crying, Grace, grace unto it.",
+          "source": {
+            "name": "The LORD of Hosts",
+            "spans": [
+              [
+                148,
+                169
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -149,8 +159,7 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "narrative",
           "text": "Moreover the word of the LORD came unto me, saying,"
         }
       ],
@@ -162,8 +171,8 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "God",
+          "type": "divine",
+          "speaker": "The LORD of Hosts",
           "text": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the LORD of hosts hath sent me unto you."
         }
       ],
@@ -175,8 +184,8 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "God",
+          "type": "divine",
+          "speaker": "The LORD of Hosts",
           "text": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the LORD, which run to and fro through the whole earth."
         }
       ],
@@ -203,8 +212,8 @@
           "text": "¶ Then answered I, and said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "the Angel",
+          "type": "speech",
+          "speaker": "The Angel",
           "text": "What are these two olive trees upon the right side of the candlestick and upon the left side thereof?"
         }
       ],
@@ -223,7 +232,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Angel",
+          "speaker": "The Angel",
           "text": "What be these two olive branches which through the two golden pipes empty the golden oil out of themselves?"
         }
       ],
@@ -251,21 +260,21 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Angel",
+          "type": "narrative",
           "text": "And he answered me and said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The angel",
           "text": "Knowest thou not what these be?"
+        },
+        {
+          "type": "narrative",
+          "text": "And I said,"
         },
         {
           "type": "speech",
           "speaker": "Unknown",
-          "text": "And I said,"
-        },
-        {
-          "type": "narrative",
           "text": "No, my lord."
         }
       ],
@@ -282,7 +291,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The angel",
           "text": "These are the two anointed ones, that stand by the Lord of the whole earth."
         }
       ],

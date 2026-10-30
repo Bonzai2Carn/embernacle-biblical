@@ -69,7 +69,16 @@
         {
           "type": "speech",
           "speaker": "Balak",
-          "text": "Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:"
+          "text": "Behold, there is a people come out from Egypt:"
+        },
+        {
+          "type": "narrative",
+          "text": "behold,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Balak",
+          "text": "they cover the face of the earth, and they abide over against me:"
         }
       ],
       "footnotes": [
@@ -138,12 +147,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And God came unto Balaam, and said,"
+          "text": "And God came unto Balaam,"
         },
         {
           "type": "divine",
           "speaker": "God",
-          "text": "What men are these with thee?"
+          "text": "and said, What men are these with thee?"
         }
       ],
       "footnotes": [],
@@ -211,8 +220,8 @@
           "text": "And Balaam rose up in the morning, and said unto the princes of Balak,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "speech",
+          "speaker": "Balaam",
           "text": "Get you into your land: for the LORD refuseth to give me leave to go with you."
         }
       ],
@@ -225,7 +234,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+          "text": "And the princes of Moab rose up, and they went unto Balak, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The princes of Moab",
+          "text": "Balaam refuseth to come with us."
         }
       ],
       "footnotes": [],
@@ -254,9 +268,18 @@
           "text": "And they came to Balaam, and said to him,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:"
+          "type": "speech",
+          "speaker": "The princes of Moab",
+          "text": "Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:",
+          "source": {
+            "name": "Balak",
+            "spans": [
+              [
+                36,
+                94
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -274,8 +297,17 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Balak",
-          "text": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people."
+          "speaker": "The princes of Moab",
+          "text": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.",
+          "source": {
+            "name": "Balak",
+            "spans": [
+              [
+                0,
+                144
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -320,8 +352,8 @@
           "text": "And God came unto Balaam at night, and said unto him,"
         },
         {
-          "type": "speech",
-          "speaker": "Balaam",
+          "type": "divine",
+          "speaker": "God",
           "text": "If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do."
         }
       ],
@@ -423,8 +455,8 @@
           "text": "And the LORD opened the mouth of the ass, and she said unto Balaam,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "The donkey",
           "text": "What have I done unto thee, that thou hast smitten me these three times?"
         }
       ],
@@ -458,17 +490,17 @@
         },
         {
           "type": "speech",
-          "speaker": "Balaam",
-          "text": "Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day?"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "was I ever wont to do so unto thee?"
+          "speaker": "The donkey",
+          "text": "Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee?"
         },
         {
           "type": "narrative",
-          "text": "And he said, Nay."
+          "text": "And he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Balaam",
+          "text": "Nay."
         }
       ],
       "footnotes": [
@@ -513,7 +545,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Angel of the Lord",
+          "speaker": "The LORD",
           "text": "Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:"
         }
       ],
@@ -532,7 +564,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "the Angel of the Lord",
+          "speaker": "The LORD",
           "text": "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive."
         }
       ],
@@ -544,13 +576,8 @@
       "verse_num": 34,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Balaam",
-          "text": "And Balaam said unto the angel of the LORD,"
-        },
-        {
           "type": "narrative",
-          "text": "I have sinned;"
+          "text": "And Balaam said unto the angel of the LORD, I have sinned;"
         },
         {
           "type": "speech",
@@ -577,12 +604,12 @@
         },
         {
           "type": "divine",
-          "speaker": "the Angel of the Lord",
-          "text": "Go with the men: but only the word that I shall speak unto thee, that thou shalt speak."
+          "speaker": "The LORD",
+          "text": "Go with the men: but only the word that I shall speak unto thee,"
         },
         {
           "type": "narrative",
-          "text": "So Balaam went with the princes of Balak."
+          "text": "that thou shalt speak. So Balaam went with the princes of Balak."
         }
       ],
       "footnotes": [],
@@ -609,8 +636,8 @@
           "text": "And Balak said unto Balaam,"
         },
         {
-          "type": "divine",
-          "speaker": "the Angel of the Lord",
+          "type": "speech",
+          "speaker": "Balak",
           "text": "Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?"
         }
       ],
@@ -622,18 +649,13 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Balaam",
+          "type": "narrative",
           "text": "And Balaam said unto Balak,"
         },
         {
-          "type": "narrative",
-          "text": "Lo, I am come unto thee:"
-        },
-        {
           "type": "speech",
           "speaker": "Balaam",
-          "text": "have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak."
+          "text": "Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak."
         }
       ],
       "footnotes": [],

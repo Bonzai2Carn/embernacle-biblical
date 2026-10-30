@@ -120,9 +120,22 @@
       "verse_num": 7,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And the LORD said unto Satan,"
+        },
+        {
           "type": "divine",
-          "speaker": "the Lord",
-          "text": "And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it."
+          "speaker": "The LORD",
+          "text": "Whence comest thou?"
+        },
+        {
+          "type": "narrative",
+          "text": "Then Satan answered the LORD, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Satan",
+          "text": "From going to and fro in the earth, and from walking up and down in it."
         }
       ],
       "footnotes": [],
@@ -138,7 +151,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
         }
       ],
@@ -211,18 +224,13 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "narrative",
           "text": "And the LORD said unto Satan,"
         },
         {
-          "type": "narrative",
-          "text": "Behold, all that he hath is in thy power;"
-        },
-        {
           "type": "divine",
-          "speaker": "the Lord",
-          "text": "only upon himself put not forth thine hand."
+          "speaker": "The LORD",
+          "text": "Behold, all that he hath is in thy power; only upon himself put not forth thine hand."
         },
         {
           "type": "narrative",
@@ -258,7 +266,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:"
+          "text": "And there came a messenger unto Job,"
+        },
+        {
+          "type": "speech",
+          "speaker": "A messenger",
+          "text": "and said, The oxen were plowing, and the asses feeding beside them:"
         }
       ],
       "footnotes": [],
@@ -269,8 +282,8 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Messenger",
+          "type": "speech",
+          "speaker": "A messenger",
           "text": "And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
         }
       ],
@@ -286,8 +299,8 @@
           "text": "While he was yet speaking, there came also another, and said,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "Another messenger",
           "text": "The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee."
         }
       ],
@@ -309,8 +322,8 @@
           "text": "While he was yet speaking, there came also another, and said,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "Another messenger",
           "text": "The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
         }
       ],
@@ -332,8 +345,8 @@
           "text": "While he was yet speaking, there came also another, and said,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "Another messenger",
           "text": "Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house:"
         }
       ],
@@ -346,7 +359,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Messenger",
+          "speaker": "Another messenger",
           "text": "And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee."
         }
       ],
@@ -386,8 +399,8 @@
           "text": "And said,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "Job",
           "text": "Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD."
         }
       ],

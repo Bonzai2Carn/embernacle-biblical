@@ -198,7 +198,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And Moses numbered them according to the word of the LORD, as he was commanded."
         }
       ],
@@ -228,7 +228,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And these are the names of the sons of Gershon by their families; Libni, and Shimei."
         }
       ],
@@ -240,7 +240,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
         }
       ],
@@ -252,7 +252,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers."
         }
       ],
@@ -288,7 +288,7 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "The families of the Gershonites shall pitch behind the tabernacle westward."
         }
       ],
@@ -312,7 +312,7 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,"
         }
       ],
@@ -324,7 +324,7 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof."
         }
       ],
@@ -348,7 +348,7 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary."
         }
       ],
@@ -360,7 +360,7 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward."
         }
       ],
@@ -384,7 +384,7 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof."
         }
       ],
@@ -396,7 +396,7 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary."
         }
       ],
@@ -432,7 +432,7 @@
       "verse_num": 35,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward."
         }
       ],
@@ -444,7 +444,7 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,"
         }
       ],
@@ -474,7 +474,7 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "¶ But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death."
         }
       ],
@@ -486,7 +486,7 @@
       "verse_num": 39,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand."
         }
       ],
@@ -499,7 +499,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names."
+          "text": "¶ And the LORD said unto Moses,"
+        },
+        {
+          "type": "divine",
+          "speaker": "The LORD",
+          "text": "Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names."
         }
       ],
       "footnotes": [],
@@ -523,7 +528,7 @@
       "verse_num": 42,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel."
         }
       ],
@@ -572,7 +577,8 @@
       "verse_num": 46,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;"
         }
       ],
@@ -584,7 +590,8 @@
       "verse_num": 47,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)"
         }
       ],
@@ -596,7 +603,8 @@
       "verse_num": 48,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons."
         }
       ],
@@ -620,7 +628,7 @@
       "verse_num": 50,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:"
         }
       ],

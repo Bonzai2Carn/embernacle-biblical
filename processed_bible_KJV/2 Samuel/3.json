@@ -28,7 +28,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;"
         }
       ],
@@ -46,7 +46,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;"
         }
       ],
@@ -83,7 +83,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ish-bosheth said to Abner, Wherefore hast thou gone in unto my father’s concubine?"
+          "text": "And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ish-bosheth said to Abner,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Ish-bosheth",
+          "text": "Wherefore hast thou gone in unto my father’s concubine?"
         }
       ],
       "footnotes": [],
@@ -124,7 +129,8 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Abner",
           "text": "To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba."
         }
       ],
@@ -149,12 +155,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And Abner sent messengers to David on his behalf, saying,"
+          "text": "¶ And Abner sent messengers to David on his behalf,"
         },
         {
           "type": "speech",
           "speaker": "Abner",
-          "text": "Whose is the land? saying also, Make thy league with me, and, behold, my hand shall be with thee, to bring about all Israel unto thee."
+          "text": "saying, Whose is the land? saying also, Make thy league with me, and, behold, my hand shall be with thee, to bring about all Israel unto thee."
         }
       ],
       "footnotes": [],
@@ -189,12 +195,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And David sent messengers to Ish-bosheth Saul’s son, saying,"
+          "text": "And David sent messengers to Ish-bosheth Saul’s son,"
         },
         {
           "type": "speech",
           "speaker": "David",
-          "text": "Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines."
+          "text": "saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines."
         }
       ],
       "footnotes": [],
@@ -224,7 +230,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned."
+          "text": "And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Abner",
+          "text": "Go, return."
+        },
+        {
+          "type": "narrative",
+          "text": "And he returned."
         }
       ],
       "footnotes": [
@@ -264,13 +279,9 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
-          "text": "Now then do it: for the LORD hath spoken of David, saying,"
-        },
-        {
           "type": "speech",
-          "speaker": "God",
-          "text": "By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies."
+          "speaker": "Abner",
+          "text": "Now then do it: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies."
         }
       ],
       "footnotes": [],
@@ -343,7 +354,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Abner",
           "text": "Abner the son of Ner came to the king, and he hath sent him away, and he is gone in peace."
         }
       ],
@@ -509,12 +520,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the king lamented over Abner, and said,"
+          "text": "And the king lamented over Abner,"
         },
         {
           "type": "speech",
           "speaker": "David",
-          "text": "Died Abner as a fool dieth?"
+          "text": "and said, Died Abner as a fool dieth?"
         }
       ],
       "footnotes": [],
@@ -600,7 +611,7 @@
         },
         {
           "type": "speech",
-          "speaker": "David",
+          "speaker": "The king",
           "text": "Know ye not that there is a prince and a great man fallen this day in Israel?"
         }
       ],

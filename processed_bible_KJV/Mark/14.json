@@ -16,9 +16,13 @@
       "verse_num": 2,
       "segments": [
         {
+          "type": "narrative",
+          "text": "But they said,"
+        },
+        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "But they said, Not on the feast day, lest there be an uproar of the people."
+          "speaker": "The chief priests and scribes",
+          "text": "Not on the feast day, lest there be an uproar of the people."
         }
       ],
       "footnotes": [],
@@ -48,7 +52,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Some of those present",
           "text": "Why was this waste of the ointment made?"
         }
       ],
@@ -60,8 +64,13 @@
       "verse_num": 5,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "Some of those present",
+          "text": "For it might have been sold for more than three hundred pence, and have been given to the poor."
+        },
+        {
           "type": "narrative",
-          "text": "For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her."
+          "text": "And they murmured against her."
         }
       ],
       "footnotes": [],
@@ -158,8 +167,8 @@
           "text": "¶ And the first day of unleavened bread, when they killed the passover, his disciples said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "Jesus’ disciples",
           "text": "Where wilt thou that we go and prepare that thou mayest eat the passover?"
         }
       ],
@@ -261,9 +270,18 @@
           "text": "And they began to be sorrowful, and to say unto him one by one,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "Is it I? and another said, Is it I?"
+          "type": "speech",
+          "speaker": "The disciples",
+          "text": "Is it I?"
+        },
+        {
+          "type": "narrative",
+          "text": "and another said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The disciples",
+          "text": "Is it I?"
         }
       ],
       "footnotes": [],
@@ -378,12 +396,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Jesus saith unto them, All ye shall be offended because of me this night: for it is written,"
+          "text": "And Jesus saith unto them,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "I will smite the shepherd, and the sheep shall be scattered."
+          "text": "All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered."
         }
       ],
       "footnotes": [],
@@ -424,18 +442,13 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And Jesus saith unto him,"
         },
         {
-          "type": "narrative",
-          "text": "Verily I say unto thee, That this day, even in this night,"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "before the cock crow twice, thou shalt deny me thrice."
+          "text": "Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice."
         }
       ],
       "footnotes": [],
@@ -451,7 +464,7 @@
         },
         {
           "type": "speech",
-          "speaker": "all the others",
+          "speaker": "Peter",
           "text": "If I should die with thee, I will not deny thee in any wise."
         },
         {
@@ -471,8 +484,8 @@
           "text": "And they came to a place which was named Gethsemane: and he saith to his disciples,"
         },
         {
-          "type": "speech",
-          "speaker": "all the others",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "Sit ye here, while I shall pray."
         }
       ],
@@ -500,8 +513,8 @@
           "text": "And saith unto them,"
         },
         {
-          "type": "speech",
-          "speaker": "all the others",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "My soul is exceeding sorrowful unto death: tarry ye here, and watch."
         }
       ],
@@ -527,18 +540,13 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Jesus",
-          "text": "And he said,"
-        },
-        {
           "type": "narrative",
-          "text": "Abba, Father, all things are possible unto thee;"
+          "text": "And he said, Abba, Father,"
         },
         {
-          "type": "prayer",
+          "type": "divine",
           "speaker": "Jesus",
-          "text": "take away this cup from me: nevertheless not what I will, but what thou wilt."
+          "text": "all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt."
         }
       ],
       "footnotes": [],
@@ -553,18 +561,9 @@
           "text": "And he cometh, and findeth them sleeping, and saith unto Peter,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "speaker": "Jesus",
-          "text": "Simon, sleepest thou?"
-        },
-        {
-          "type": "narrative",
-          "text": "couldest not"
-        },
-        {
-          "type": "speech",
-          "speaker": "Jesus",
-          "text": "thou watch one hour?"
+          "text": "Simon, sleepest thou? couldest not thou watch one hour?"
         }
       ],
       "footnotes": [],
@@ -575,7 +574,7 @@
       "verse_num": 38,
       "segments": [
         {
-          "type": "speech",
+          "type": "divine",
           "speaker": "Jesus",
           "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak."
         }
@@ -613,12 +612,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he cometh the third time, and saith unto them,"
+          "text": "And he cometh the third time,"
         },
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners."
+          "text": "and saith unto them, Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners."
         }
       ],
       "footnotes": [],
@@ -657,12 +656,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he that betrayed him had given them a token, saying,"
+          "text": "And he that betrayed him had given them a token,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "Whomsoever I shall kiss, that same is he; take him, and lead him away safely."
+          "type": "speech",
+          "speaker": "The betrayer",
+          "text": "saying, Whomsoever I shall kiss, that same is he; take him, and lead him away safely."
         }
       ],
       "footnotes": [],
@@ -677,8 +676,8 @@
           "text": "And as soon as he was come, he goeth straightway to him, and saith,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "Judas",
           "text": "Master, master;"
         },
         {
@@ -846,8 +845,8 @@
       "verse_num": 58,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "Some men",
           "text": "We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands."
         }
       ],
@@ -872,12 +871,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the high priest stood up in the midst, and asked Jesus, saying,"
+          "text": "And the high priest stood up in the midst, and asked Jesus,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "Answerest thou nothing? what is it which these witness against thee?"
+          "type": "speech",
+          "speaker": "The high priest",
+          "text": "saying, Answerest thou nothing? what is it which these witness against thee?"
         }
       ],
       "footnotes": [],
@@ -893,7 +892,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Again the high priest",
+          "speaker": "The high priest",
           "text": "Art thou the Christ, the Son of the Blessed?"
         }
       ],
@@ -905,18 +904,13 @@
       "verse_num": 62,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And Jesus said,"
         },
         {
-          "type": "narrative",
-          "text": "I am:"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+          "text": "I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
         }
       ],
       "footnotes": [],
@@ -928,12 +922,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then the high priest rent his clothes, and saith,"
+          "text": "Then the high priest rent his clothes,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
-          "text": "What need we any further witnesses?"
+          "type": "speech",
+          "speaker": "The high priest",
+          "text": "and saith, What need we any further witnesses?"
         }
       ],
       "footnotes": [],
@@ -944,8 +938,8 @@
       "verse_num": 64,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "The high priest",
           "text": "Ye have heard the blasphemy: what think ye?"
         },
         {
@@ -965,8 +959,8 @@
           "text": "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "The officers",
           "text": "Prophesy:"
         },
         {
@@ -1000,8 +994,8 @@
           "text": "And when she saw Peter warming himself, she looked upon him, and said,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "One of the servant girls of the high priest",
           "text": "And thou also wast with Jesus of Nazareth."
         }
       ],
@@ -1039,7 +1033,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The servant",
           "text": "This is one of them."
         }
       ],
@@ -1052,12 +1046,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he denied it again."
+          "text": "And he denied it again. And a little after, they that stood by said again to Peter,"
         },
         {
           "type": "speech",
-          "speaker": "little while, those standing nearby",
-          "text": "And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilaean, and thy speech agreeth thereto."
+          "speaker": "Those standing",
+          "text": "Surely thou art one of them: for thou art a Galilaean, and thy speech agreeth thereto."
         }
       ],
       "footnotes": [],
@@ -1069,12 +1063,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "But he began to curse and to swear,"
+          "text": "But he began to curse and to swear, saying,"
         },
         {
           "type": "speech",
-          "speaker": "little while, those standing nearby",
-          "text": "saying, I know not this man of whom ye speak."
+          "speaker": "Peter",
+          "text": "I know not this man of whom ye speak."
         }
       ],
       "footnotes": [],
@@ -1090,7 +1084,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Jesus",
+          "speaker": "Peter",
           "text": "Before the cock crow twice, thou shalt deny me thrice."
         },
         {

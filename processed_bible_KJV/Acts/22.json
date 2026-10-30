@@ -42,7 +42,8 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "And I persecuted this way unto the death, binding and delivering into prisons both men and women."
         }
       ],
@@ -54,7 +55,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished."
         }
       ],
@@ -66,7 +68,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me."
         }
       ],
@@ -143,7 +146,8 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,"
         }
       ],
@@ -156,7 +160,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Ananias",
+          "speaker": "Paul",
           "text": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him."
         }
       ],
@@ -169,7 +173,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Ananias",
+          "speaker": "Paul",
           "text": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth."
         }
       ],
@@ -182,7 +186,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Ananias",
+          "speaker": "Paul",
           "text": "For thou shalt be his witness unto all men of what thou hast seen and heard."
         }
       ],
@@ -195,7 +199,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Ananias",
+          "speaker": "Paul",
           "text": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord."
         }
       ],
@@ -207,7 +211,8 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;"
         }
       ],
@@ -276,7 +281,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The crowd",
           "text": "Away with such a fellow from the earth: for it is not fit that he should live."
         }
       ],
@@ -317,7 +322,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Paul",
           "text": "Is it lawful for you to scourge a man that is a Roman, and uncondemned?"
         }
       ],
@@ -334,17 +339,13 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The commander",
           "text": "Take heed what thou doest:"
         },
         {
-          "type": "narrative",
-          "text": "for this man"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "is a Roman."
+          "speaker": "The centurion",
+          "text": "for this man is a Roman."
         }
       ],
       "footnotes": [],
@@ -360,16 +361,16 @@
         },
         {
           "type": "speech",
-          "speaker": "Paul",
+          "speaker": "The commander",
           "text": "Tell me, art thou a Roman?"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "narrative",
           "text": "He said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Paul",
           "text": "Yea."
         }
       ],
@@ -381,21 +382,21 @@
       "verse_num": 28,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Chief Captain",
+          "type": "narrative",
           "text": "And the chief captain answered,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The commander",
           "text": "With a great sum obtained I this freedom."
+        },
+        {
+          "type": "narrative",
+          "text": "And Paul said,"
         },
         {
           "type": "speech",
           "speaker": "Paul",
-          "text": "And Paul said,"
-        },
-        {
-          "type": "narrative",
           "text": "But I was free born."
         }
       ],

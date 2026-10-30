@@ -57,8 +57,13 @@
       "verse_num": 4,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines."
+        },
+        {
           "type": "narrative",
-          "text": "And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal."
+          "text": "And the people were called together after Saul to Gilgal."
         }
       ],
       "footnotes": [
@@ -138,7 +143,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Saul",
           "text": "Bring hither a burnt offering to me, and peace offerings."
         },
         {
@@ -172,18 +177,22 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "¶ And Samuel said,"
         },
         {
+          "type": "speech",
+          "speaker": "Samuel",
+          "text": "What hast thou done?"
+        },
+        {
           "type": "narrative",
-          "text": "What hast thou done? And Saul said, Because I saw that the people were scattered from me,"
+          "text": "And Saul said,"
         },
         {
           "type": "speech",
-          "speaker": "Samuel",
-          "text": "and that thou camest not within the days appointed, and that the Philistines gathered themselves together at Michmash;"
+          "speaker": "Saul",
+          "text": "Because I saw that the people were scattered from me, and that thou camest not within the days appointed, and that the Philistines gathered themselves together at Michmash;"
         }
       ],
       "footnotes": [],
@@ -213,18 +222,13 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Samuel",
+          "type": "narrative",
           "text": "And Samuel said to Saul,"
         },
         {
-          "type": "narrative",
-          "text": "Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee:"
-        },
-        {
           "type": "speech",
           "speaker": "Samuel",
-          "text": "for now would the LORD have established thy kingdom upon Israel for ever."
+          "text": "Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever."
         }
       ],
       "footnotes": [],
@@ -235,8 +239,8 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "speech",
+          "speaker": "Samuel",
           "text": "But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him to be captain over his people, because thou hast not kept that which the LORD commanded thee."
         }
       ],
@@ -248,7 +252,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people that were present with him, about six hundred men."
         }
       ],
@@ -316,7 +320,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make them swords or spears:"
+          "text": "¶ Now there was no smith found throughout all the land of Israel: for the Philistines said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The Philistines",
+          "text": "Lest the Hebrews make them swords or spears:"
         }
       ],
       "footnotes": [],

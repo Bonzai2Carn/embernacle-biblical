@@ -16,7 +16,8 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her."
         }
       ],
@@ -28,7 +29,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "And she conceived, and bare a son; and he called his name Er."
         }
       ],
@@ -77,12 +79,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Er, Judah’s firstborn, was wicked in the sight of the LORD;"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
-          "text": "and the LORD slew him."
+          "text": "And Er, Judah’s firstborn, was wicked in the sight of the LORD; and the LORD slew him."
         }
       ],
       "footnotes": [],
@@ -123,12 +120,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the thing which he did displeased the LORD:"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
-          "text": "wherefore he slew him also."
+          "text": "And the thing which he did displeased the LORD: wherefore he slew him also."
         }
       ],
       "footnotes": [
@@ -151,7 +143,16 @@
         {
           "type": "speech",
           "speaker": "Judah",
-          "text": "Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did."
+          "text": "Remain a widow at thy father’s house, till Shelah my son be grown:"
+        },
+        {
+          "type": "narrative",
+          "text": "for he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Judah",
+          "text": "Lest peradventure he die also, as his brethren did."
         },
         {
           "type": "narrative",
@@ -187,7 +188,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep."
+          "text": "And it was told Tamar, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Tamar",
+          "text": "Behold thy father in law goeth up to Timnath to shear his sheep."
         }
       ],
       "footnotes": [],
@@ -229,21 +235,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he turned unto her by the way, and said,"
+          "text": "And he turned unto her by the way,"
         },
         {
           "type": "speech",
           "speaker": "Judah",
-          "text": "Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.)"
+          "text": "and said, Go to, I pray thee, let me come in unto thee;"
         },
         {
           "type": "narrative",
-          "text": "And she said,"
+          "text": "(for he knew not that she was his daughter in law.)"
         },
         {
           "type": "speech",
           "speaker": "Tamar",
-          "text": "What wilt thou give me, that thou mayest come in unto me?"
+          "text": "And she said, What wilt thou give me, that thou mayest come in unto me?"
         }
       ],
       "footnotes": [],
@@ -268,7 +274,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Tamar",
+          "speaker": "Judah",
           "text": "Wilt thou give me a pledge, till thou send it?"
         }
       ],
@@ -354,7 +360,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Men of the place",
+          "speaker": "The men",
           "text": "There was no harlot in this place."
         }
       ],
@@ -417,7 +423,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "Judah",
           "text": "Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom."
         },
         {
@@ -444,7 +450,16 @@
         {
           "type": "speech",
           "speaker": "Tamar",
-          "text": "By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff."
+          "text": "By the man, whose these are, am I with child:"
+        },
+        {
+          "type": "narrative",
+          "text": "and she said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Tamar",
+          "text": "Discern, I pray thee, whose are these, the signet, and bracelets, and staff."
         }
       ],
       "footnotes": [],
@@ -493,7 +508,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Midwife",
+          "speaker": "The midwife",
           "text": "This came out first."
         }
       ],
@@ -510,8 +525,12 @@
         },
         {
           "type": "speech",
-          "speaker": "Midwife",
-          "text": "How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez."
+          "speaker": "Tamar",
+          "text": "How hast thou broken forth?"
+        },
+        {
+          "type": "narrative",
+          "text": "this breach be upon thee: therefore his name was called Pharez."
         }
       ],
       "footnotes": [

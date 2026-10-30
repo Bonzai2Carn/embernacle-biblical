@@ -53,7 +53,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant."
+          "text": "And he lifted up his eyes, and saw the women and the children; and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Esau",
+          "text": "Who are those with thee?"
+        },
+        {
+          "type": "narrative",
+          "text": "And he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Jacob",
+          "text": "The children which God hath graciously given thy servant."
         }
       ],
       "footnotes": [
@@ -94,21 +108,21 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Esau",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Esau",
           "text": "What meanest thou by all this drove which I met?"
+        },
+        {
+          "type": "narrative",
+          "text": "And he said,"
         },
         {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "And he said,"
-        },
-        {
-          "type": "narrative",
           "text": "These are to find grace in the sight of my lord."
         }
       ],
@@ -126,18 +140,13 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Esau",
+          "type": "narrative",
           "text": "And Esau said,"
         },
         {
-          "type": "narrative",
-          "text": "I have enough, my brother;"
-        },
-        {
           "type": "speech",
           "speaker": "Esau",
-          "text": "keep that thou hast unto thyself."
+          "text": "I have enough, my brother; keep that thou hast unto thyself."
         }
       ],
       "footnotes": [
@@ -247,9 +256,13 @@
       "verse_num": 15,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And Esau said,"
+        },
+        {
           "type": "speech",
           "speaker": "Esau",
-          "text": "And Esau said, Let me now leave with thee some of the folk that are with me."
+          "text": "Let me now leave with thee some of the folk that are with me."
         },
         {
           "type": "narrative",
@@ -257,7 +270,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Esau",
+          "speaker": "Jacob",
           "text": "What needeth it? let me find grace in the sight of my lord."
         }
       ],

@@ -17,12 +17,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "The children of Gad and the children of Reuben came and"
-        },
-        {
-          "type": "speech",
-          "speaker": "Children of Gad and Reuben",
-          "text": "spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
+          "text": "The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,"
         }
       ],
       "footnotes": [],
@@ -33,7 +28,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Gadites and Reubenites",
           "text": "Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,"
         }
       ],
@@ -61,7 +57,8 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Gadites and Reubenites",
           "text": "Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:"
         }
       ],
@@ -73,9 +70,13 @@
       "verse_num": 5,
       "segments": [
         {
+          "type": "narrative",
+          "text": "Wherefore, said they,"
+        },
+        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
+          "speaker": "Gadites and Reubenites",
+          "text": "if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
         }
       ],
       "footnotes": [],
@@ -124,7 +125,8 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Moses",
           "text": "Thus did your fathers, when I sent them from Kadesh-barnea to see the land."
         }
       ],
@@ -136,7 +138,8 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Moses",
           "text": "For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them."
         }
       ],
@@ -149,7 +152,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "God",
+          "speaker": "Moses",
           "text": "And the LORD’s anger was kindled the same time, and he sware, saying,"
         }
       ],
@@ -161,9 +164,18 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:"
+          "type": "prophetic",
+          "speaker": "Moses",
+          "text": "Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                200
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -180,9 +192,18 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Moses",
-          "text": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD."
+          "text": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                112
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -237,7 +258,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The Gadites and Reubenites",
           "text": "We will build sheepfolds here for our cattle, and cities for our little ones:"
         }
       ],
@@ -252,7 +273,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The Gadites and Reubenites",
           "text": "But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land."
         }
       ],
@@ -265,7 +286,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The Gadites and Reubenites",
           "text": "We will not return unto our houses, until the children of Israel have inherited every man his inheritance."
         }
       ],
@@ -278,7 +299,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The Gadites and Reubenites",
           "text": "For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward."
         }
       ],
@@ -364,7 +385,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The Gadites and Reubenites",
+          "speaker": "Reubenites",
           "text": "Thy servants will do as my lord commandeth."
         }
       ],
@@ -377,7 +398,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "The Gadites and Reubenites",
+          "speaker": "Reubenites",
           "text": "Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:"
         }
       ],
@@ -390,7 +411,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "The Gadites and Reubenites",
+          "speaker": "Reubenites",
           "text": "But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith."
         }
       ],
@@ -449,7 +470,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The Gadites and Reubenites",
+          "speaker": "Reubenites",
           "text": "As the LORD hath said unto thy servants, so will we do."
         }
       ],
@@ -462,7 +483,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "The Gadites and Reubenites",
+          "speaker": "Reubenites",
           "text": "We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours."
         }
       ],

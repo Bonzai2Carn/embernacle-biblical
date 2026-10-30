@@ -44,7 +44,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Return unto the land of thy fathers, and to thy kindred; and I will be with thee."
         }
       ],
@@ -137,7 +137,8 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ringstraked, speckled, and grisled."
         }
       ],
@@ -155,9 +156,18 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The angel of God",
-          "text": "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I."
+          "type": "prophetic",
+          "speaker": "Jacob",
+          "text": "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                84
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -168,9 +178,18 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The angel of God",
-          "text": "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee."
+          "type": "prophetic",
+          "speaker": "Jacob",
+          "text": "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                173
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -181,9 +200,18 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The God of Beth-el",
-          "text": "I am the God of Beth-el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred."
+          "type": "prophetic",
+          "speaker": "Jacob",
+          "text": "I am the God of Beth-el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                0,
+                177
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -198,8 +226,8 @@
           "text": "And Rachel and Leah answered and said unto him,"
         },
         {
-          "type": "speech",
-          "speaker": "Rachel and Leah",
+          "type": "prayer",
+          "speaker": "Leah",
           "text": "Is there yet any portion or inheritance for us in our father’s house?"
         }
       ],
@@ -212,7 +240,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Rachel and Leah",
+          "speaker": "Leah",
           "text": "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money."
         }
       ],
@@ -224,8 +252,8 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Rachel and Leah",
+          "type": "prayer",
+          "speaker": "Leah",
           "text": "For all the riches which God hath taken from our father, that is ours, and our children’s: now then, whatsoever God hath said unto thee, do."
         }
       ],
@@ -334,12 +362,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And God came to Laban the Syrian in a dream by night, and said unto him,"
+          "text": "And God came to Laban the Syrian in a dream by night,"
         },
         {
-          "type": "speech",
-          "speaker": "Rachel and Leah",
-          "text": "Take heed that thou speak not to Jacob either good or bad."
+          "type": "divine",
+          "speaker": "God",
+          "text": "and said unto him, Take heed that thou speak not to Jacob either good or bad."
         }
       ],
       "footnotes": [
@@ -443,18 +471,13 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jacob",
+          "type": "narrative",
           "text": "And Jacob answered and said to Laban,"
         },
         {
-          "type": "narrative",
-          "text": "Because I was afraid:"
-        },
-        {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "for I said, Peradventure thou wouldest take by force thy daughters from me."
+          "text": "Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me."
         }
       ],
       "footnotes": [],
@@ -467,7 +490,11 @@
         {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them."
+          "text": "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee."
+        },
+        {
+          "type": "narrative",
+          "text": "For Jacob knew not that Rachel had stolen them."
         }
       ],
       "footnotes": [],
@@ -529,9 +556,13 @@
       "verse_num": 36,
       "segments": [
         {
+          "type": "narrative",
+          "text": "¶ And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban,"
+        },
+        {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "¶ And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?"
+          "text": "What is my trespass? what is my sin, that thou hast so hotly pursued after me?"
         }
       ],
       "footnotes": [],
@@ -669,7 +700,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap."
+          "text": "And Jacob said unto his brethren,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Laban",
+          "text": "Gather stones;"
+        },
+        {
+          "type": "narrative",
+          "text": "and they took stones, and made an heap: and they did eat there upon the heap."
         }
       ],
       "footnotes": [],
@@ -765,7 +805,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Laban also",
+          "speaker": "Laban",
           "text": "Behold this heap, and behold this pillar, which I have cast betwixt me and thee;"
         }
       ],

@@ -45,7 +45,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "census/list",
           "text": "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David."
         }
       ],
@@ -110,8 +110,22 @@
       "segments": [
         {
           "type": "prophetic",
-          "speaker": "God",
-          "text": "But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight."
+          "speaker": "David",
+          "text": "But the word of the LORD came to me, saying,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "David",
+          "text": "Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                164
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -122,9 +136,18 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days."
+          "type": "prophetic",
+          "speaker": "David",
+          "text": "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                215
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -141,9 +164,18 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever."
+          "type": "prophetic",
+          "speaker": "David",
+          "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                155
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],

@@ -16,18 +16,13 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Chief Priests and Scribes",
+          "type": "narrative",
           "text": "And spake unto him, saying,"
         },
         {
-          "type": "narrative",
-          "text": "Tell us,"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "by what authority doest thou these things? or who is he that gave thee this authority?"
+          "speaker": "Chief Priests and Scribes",
+          "text": "Tell us, by what authority doest thou these things? or who is he that gave thee this authority?"
         }
       ],
       "footnotes": [],
@@ -38,18 +33,13 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "narrative",
           "text": "And he answered and said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "I will also ask you one thing;"
-        },
-        {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "and answer me:"
+          "text": "I will also ask you one thing; and answer me:"
         }
       ],
       "footnotes": [],
@@ -90,9 +80,18 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Chief Priests and Scribes",
-          "text": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.",
+          "source": {
+            "name": "Chief Priests and Scribes",
+            "spans": [
+              [
+                19,
+                26
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -227,8 +226,8 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "People",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "He shall come and destroy these husbandmen, and shall give the vineyard to others."
         },
         {
@@ -236,8 +235,8 @@
           "text": "And when they heard it, they said,"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "divine",
+          "speaker": "Jesus",
           "text": "God forbid."
         }
       ],
@@ -305,18 +304,13 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Spies",
-          "text": "And they asked him, saying,"
-        },
-        {
           "type": "narrative",
-          "text": "Master, we know"
+          "text": "And they asked him, saying, Master,"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+          "speaker": "The people",
+          "text": "we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
         }
       ],
       "footnotes": [],
@@ -354,7 +348,16 @@
         {
           "type": "speech",
           "speaker": "Spies",
-          "text": "Shew me a penny. Whose image and superscription hath it? They answered and said, Cæsar’s."
+          "text": "Shew me a penny. Whose image and superscription hath it?"
+        },
+        {
+          "type": "narrative",
+          "text": "They answered and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Cæsar’s."
         }
       ],
       "footnotes": [],
@@ -408,9 +411,13 @@
       "verse_num": 28,
       "segments": [
         {
+          "type": "narrative",
+          "text": "Saying,"
+        },
+        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother."
+          "speaker": "The Sadducees",
+          "text": "Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother."
         }
       ],
       "footnotes": [],
@@ -421,7 +428,8 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Sadducees",
           "text": "There were therefore seven brethren: and the first took a wife, and died without children."
         }
       ],
@@ -433,7 +441,8 @@
       "verse_num": 30,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Sadducees",
           "text": "And the second took her to wife, and he died childless."
         }
       ],
@@ -445,7 +454,8 @@
       "verse_num": 31,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Sadducees",
           "text": "And the third took her; and in like manner the seven also: and they left no children, and died."
         }
       ],
@@ -457,7 +467,8 @@
       "verse_num": 32,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The Sadducees",
           "text": "Last of all the woman died also."
         }
       ],
@@ -470,7 +481,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Sadducees",
+          "speaker": "The Sadducees",
           "text": "Therefore in the resurrection whose wife of them is she? for seven had her to wife."
         }
       ],
@@ -556,7 +567,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Some of the scribes",
+          "speaker": "The scribes",
           "text": "Master, thou hast well said."
         }
       ],

@@ -16,9 +16,13 @@
       "verse_num": 2,
       "segments": [
         {
+          "type": "narrative",
+          "text": "Thus saith the LORD to me;"
+        },
+        {
           "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,"
+          "speaker": "The LORD",
+          "text": "Make thee bonds and yokes, and put them upon thy neck,"
         }
       ],
       "footnotes": [
@@ -35,7 +39,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;"
         }
       ],
@@ -48,7 +53,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;"
         }
       ],
@@ -67,7 +72,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me."
         }
       ],
@@ -80,7 +85,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him."
         }
       ],
@@ -93,7 +98,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "And all nations shall serve him, and his son, and his son’s son, until the very time of his land come: and then many nations and great kings shall serve themselves of him."
         }
       ],
@@ -106,7 +111,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand."
         }
       ],
@@ -119,7 +124,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreamers, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon:"
         }
       ],
@@ -138,7 +143,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "For they prophesy a lie unto you, to remove you far from your land; and that I should drive you out, and ye should perish."
         }
       ],
@@ -151,7 +156,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the LORD; and they shall till it, and dwell therein."
         }
       ],
@@ -195,9 +200,18 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Jeremiah",
-          "text": "Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you."
+          "text": "Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                155
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -231,9 +245,23 @@
           "text": "Also I spake to the priests and to all this people, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD’s house shall now shortly be brought again from Babylon: for they prophesy a lie unto you."
+          "type": "prophetic",
+          "speaker": "Jeremiah",
+          "text": "Thus saith the LORD;"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Jeremiah",
+          "text": "Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD’s house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                196
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -245,7 +273,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Jeremiah",
+          "speaker": "The priests",
           "text": "Hearken not unto them; serve the king of Babylon, and live: wherefore should this city be laid waste?"
         }
       ],
@@ -258,7 +286,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Jeremiah",
+          "speaker": "The priests",
           "text": "But if they be prophets, and if the word of the LORD be with them, let them now make intercession to the LORD of hosts, that the vessels which are left in the house of the LORD, and in the house of the king of Judah, and at Jerusalem, go not to Babylon."
         }
       ],
@@ -283,7 +311,8 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "God",
           "text": "Which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeconiah the son of Jehoiakim king of Judah from Jerusalem to Babylon, and all the nobles of Judah and Jerusalem;"
         }
       ],

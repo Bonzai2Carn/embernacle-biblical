@@ -127,8 +127,7 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
+          "type": "narrative",
           "text": "¶ And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him twice,"
         }
       ],
@@ -159,7 +158,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant."
         }
       ],
@@ -178,7 +177,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Notwithstanding in thy days I will not do it for David thy father’s sake: but I will rend it out of the hand of thy son."
         }
       ],
@@ -191,7 +190,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen."
         }
       ],
@@ -293,8 +292,8 @@
           "text": "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
+          "type": "speech",
+          "speaker": "Hadad",
           "text": "Let me depart, that I may go to mine own country."
         }
       ],
@@ -316,23 +315,18 @@
           "text": "Then Pharaoh said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "the Lord",
-          "text": "But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered,"
-        },
-        {
           "type": "speech",
-          "speaker": "Hadad",
-          "text": "Nothing:"
+          "speaker": "Pharaoh",
+          "text": "But what hast thou lacked with me, that, behold, thou seekest to go to thine own country?"
         },
         {
           "type": "narrative",
-          "text": "howbeit let me go"
+          "text": "And he answered,"
         },
         {
           "type": "speech",
           "speaker": "Hadad",
-          "text": "in any wise."
+          "text": "Nothing: howbeit let me go in any wise."
         }
       ],
       "footnotes": [
@@ -468,9 +462,23 @@
           "text": "And he said to Jeroboam,"
         },
         {
-          "type": "speech",
-          "speaker": "Hadad",
-          "text": "Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:"
+          "type": "prophetic",
+          "speaker": "Ahijah",
+          "text": "Take thee ten pieces: for thus saith the LORD,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Ahijah",
+          "text": "the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                112
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -482,7 +490,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "(But he shall have one tribe for my servant David’s sake, and for Jerusalem’s sake, the city which I have chosen out of all the tribes of Israel:)"
         }
       ],
@@ -495,7 +503,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father."
         }
       ],
@@ -508,7 +516,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:"
         }
       ],
@@ -521,7 +529,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "But I will take the kingdom out of his son’s hand, and will give it unto thee, even ten tribes."
         }
       ],
@@ -534,7 +542,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there."
         }
       ],
@@ -553,7 +561,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel."
         }
       ],
@@ -566,7 +574,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee."
         }
       ],
@@ -579,7 +587,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Hadad",
+          "speaker": "Ahijah",
           "text": "And I will for this afflict the seed of David, but not for ever."
         }
       ],

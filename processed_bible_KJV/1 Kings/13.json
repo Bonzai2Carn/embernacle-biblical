@@ -4,12 +4,8 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el:"
-        },
-        {
-          "type": "narrative",
-          "text": "and Jeroboam stood by the altar to burn incense."
+          "type": "instructional/technical",
+          "text": "And, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el: and Jeroboam stood by the altar to burn incense."
         }
       ],
       "footnotes": [
@@ -31,8 +27,17 @@
         },
         {
           "type": "prophetic",
-          "speaker": "Unknown",
-          "text": "O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee."
+          "speaker": "The man of God",
+          "text": "O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                238
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -44,12 +49,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he gave a sign the same day, saying,"
+          "text": "And he gave a sign the same day, saying, This is the sign which the LORD hath spoken;"
         },
         {
           "type": "prophetic",
-          "speaker": "Unknown",
-          "text": "This is the sign which the LORD hath spoken; Behold, the altar shall be rent, and the ashes that are upon it shall be poured out."
+          "speaker": "The man of God",
+          "text": "Behold, the altar shall be rent, and the ashes that are upon it shall be poured out.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                8,
+                84
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -81,7 +95,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "instructional/technical",
           "text": "The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD."
         }
       ],
@@ -98,7 +112,7 @@
         },
         {
           "type": "prayer",
-          "speaker": "Unknown",
+          "speaker": "The king",
           "text": "Intreat now the face of the LORD thy God, and pray for me, that my hand may be restored me again."
         },
         {
@@ -125,7 +139,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The king",
           "text": "Come home with me, and refresh thyself, and I will give thee a reward."
         }
       ],
@@ -141,8 +155,8 @@
           "text": "And the man of God said unto the king,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
+          "type": "speech",
+          "speaker": "The man of God",
           "text": "If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:"
         }
       ],
@@ -154,8 +168,18 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
-          "text": "For so was it charged me by the word of the LORD, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest."
+          "type": "prophetic",
+          "speaker": "The man of God",
+          "text": "For so was it charged me by the word of the LORD, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                50,
+                137
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -192,13 +216,8 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Old Prophet",
-          "text": "And their father said unto them, What way went he?"
-        },
-        {
           "type": "narrative",
-          "text": "For his sons had seen what way the man of God went, which came from Judah."
+          "text": "And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah."
         }
       ],
       "footnotes": [],
@@ -214,7 +233,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "Saddle me the ass."
         },
         {
@@ -231,21 +250,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And went after the man of God, and found him sitting under an oak:"
+          "text": "And went after the man of God, and found him sitting under an oak: and he said unto him,"
         },
         {
           "type": "speech",
-          "speaker": "Old Prophet",
-          "text": "and he said unto him,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Man of God",
+          "speaker": "The old prophet",
           "text": "Art thou the man of God that camest from Judah?"
         },
         {
           "type": "narrative",
-          "text": "And he said, I am."
+          "text": "And he said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The man of God",
+          "text": "I am."
         }
       ],
       "footnotes": [],
@@ -261,7 +280,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "Come home with me, and eat bread."
         }
       ],
@@ -278,7 +297,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The man",
           "text": "I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:"
         }
       ],
@@ -290,7 +309,8 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "narrative",
+          "type": "prophetic",
+          "speaker": "The man",
           "text": "For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest."
         }
       ],
@@ -313,7 +333,7 @@
         },
         {
           "type": "prophetic",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "I am a prophet also as thou art; and an angel spake unto me by the word of the LORD, saying, Bring him back with thee into thine house, that he may eat bread and drink water."
         },
         {
@@ -354,12 +374,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he cried unto the man of God that came from Judah, saying,"
+          "text": "And he cried unto the man of God that came from Judah,"
         },
         {
           "type": "prophetic",
-          "speaker": "Unknown",
-          "text": "Thus saith the LORD, Forasmuch as thou hast disobeyed the mouth of the LORD, and hast not kept the commandment which the LORD thy God commanded thee,"
+          "speaker": "The prophet",
+          "text": "saying, Thus saith the LORD, Forasmuch as thou hast disobeyed the mouth of the LORD, and hast not kept the commandment which the LORD thy God commanded thee,",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                42,
+                157
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -372,7 +401,16 @@
         {
           "type": "prophetic",
           "speaker": "Old Prophet",
-          "text": "But camest back, and hast eaten bread and drunk water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers."
+          "text": "But camest back, and hast eaten bread and drunk water in the place, of the which the Lord did say to thee, Eat no bread, and drink no water; thy carcase shall not come unto the sepulchre of thy fathers.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                202
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -424,7 +462,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "It is the man of God, who was disobedient unto the word of the LORD: therefore the LORD hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the LORD, which he spake unto him."
         }
       ],
@@ -447,7 +485,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The old prophet",
           "text": "Saddle me the ass."
         },
         {
@@ -494,12 +532,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he laid his carcase in his own grave; and they mourned over him, saying,"
+          "text": "And he laid his carcase in his own grave; and they mourned over him,"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "Alas, my brother!"
+          "speaker": "The people",
+          "text": "saying, Alas, my brother!"
         }
       ],
       "footnotes": [],
@@ -515,7 +553,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones:"
         }
       ],
@@ -528,7 +566,7 @@
       "segments": [
         {
           "type": "prophetic",
-          "speaker": "Unknown",
+          "speaker": "The prophet",
           "text": "For the saying which he cried by the word of the LORD against the altar in Beth-el, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass."
         }
       ],

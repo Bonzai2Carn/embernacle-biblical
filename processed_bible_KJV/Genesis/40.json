@@ -16,7 +16,8 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joseph",
           "text": "And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers."
         }
       ],
@@ -28,7 +29,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joseph",
           "text": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
         }
       ],
@@ -40,7 +42,8 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joseph",
           "text": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."
         }
       ],
@@ -52,7 +55,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joseph",
           "text": "¶ And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."
         }
       ],
@@ -66,7 +70,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Joseph",
           "text": "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."
         }
       ],
@@ -97,9 +102,22 @@
       "verse_num": 8,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And they said unto him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Pharaoh's Officers",
+          "text": "We have dreamed a dream, and there is no interpreter of it."
+        },
+        {
+          "type": "narrative",
+          "text": "And Joseph said unto them,"
+        },
+        {
           "type": "speech",
           "speaker": "Joseph",
-          "text": "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."
+          "text": "Do not interpretations belong to God? tell me them, I pray you."
         }
       ],
       "footnotes": [],
@@ -217,13 +235,9 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "narrative",
-          "text": "When the chief baker saw that the interpretation was good, he said unto Joseph,"
-        },
-        {
           "type": "speech",
-          "speaker": "Chief Baker",
-          "text": "I also was in my dream, and, behold, I had three white baskets on my head:"
+          "speaker": "The chief baker",
+          "text": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"
         }
       ],
       "footnotes": [
@@ -241,7 +255,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Chief Baker",
+          "speaker": "The chief baker",
           "text": "And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head."
         }
       ],

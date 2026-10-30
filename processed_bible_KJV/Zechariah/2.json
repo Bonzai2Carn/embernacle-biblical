@@ -16,9 +16,13 @@
       "verse_num": 2,
       "segments": [
         {
+          "type": "narrative",
+          "text": "Then said I,"
+        },
+        {
           "type": "speech",
-          "speaker": "Narrator",
-          "text": "Then said I, Whither goest thou?"
+          "speaker": "Unknown",
+          "text": "Whither goest thou?"
         },
         {
           "type": "narrative",
@@ -26,17 +30,8 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "To measure Jerusalem, to see what is the breadth thereof,"
-        },
-        {
-          "type": "narrative",
-          "text": "and"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "what is the length thereof."
+          "speaker": "The angel",
+          "text": "To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof."
         }
       ],
       "footnotes": [],
@@ -63,9 +58,27 @@
           "text": "And said unto him,"
         },
         {
+          "type": "speech",
+          "speaker": "The angel",
+          "text": "Run, speak to this young man,"
+        },
+        {
+          "type": "narrative",
+          "text": "saying,"
+        },
+        {
           "type": "prophetic",
-          "speaker": "Unknown",
-          "text": "Run, speak to this young man, saying, Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:"
+          "speaker": "The angel",
+          "text": "Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                96
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -117,8 +130,8 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Prophet",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon."
         }
       ],
@@ -135,7 +148,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord of Hosts",
+          "speaker": "The LORD of Hosts",
           "text": "After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye."
         }
       ],
@@ -148,7 +161,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "The LORD of hosts",
+          "speaker": "The LORD of Hosts",
           "text": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me."
         }
       ],
@@ -192,7 +205,8 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again."
         }
       ],
@@ -204,8 +218,8 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Prophet",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation."
         }
       ],

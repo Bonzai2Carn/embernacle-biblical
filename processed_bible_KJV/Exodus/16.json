@@ -28,18 +28,18 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Children of Israel",
+          "type": "narrative",
           "text": "And the children of Israel said unto them,"
         },
         {
-          "type": "narrative",
-          "text": "Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full;"
+          "type": "speech",
+          "speaker": "Children of Israel",
+          "text": "Would to God we had died by the hand of the LORD in the land of Egypt,"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+          "speaker": "The people",
+          "text": "when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
         }
       ],
       "footnotes": [],
@@ -55,7 +55,7 @@
         },
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
         }
       ],
@@ -75,7 +75,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "divine",
+          "speaker": "The LORD",
           "text": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
         }
       ],
@@ -92,7 +93,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Moses and Aaron",
+          "speaker": "Aaron",
           "text": "At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
         }
       ],
@@ -105,7 +106,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Moses and Aaron",
+          "speaker": "Aaron",
           "text": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
         }
       ],
@@ -118,12 +119,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Moses said,"
+          "text": "And Moses said, This shall be,"
         },
         {
           "type": "speech",
           "speaker": "Moses",
-          "text": "This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
+          "text": "when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
         }
       ],
       "footnotes": [],
@@ -178,7 +179,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
         }
       ],
@@ -215,21 +216,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when the children of Israel saw it,"
+          "text": "And when the children of Israel saw it, they said one to another,"
         },
         {
           "type": "speech",
-          "speaker": "Moses",
-          "text": "they said one to another,"
+          "speaker": "The Israelites",
+          "text": "It is manna:"
         },
         {
           "type": "narrative",
-          "text": "It is manna: for they wist not what it was."
+          "text": "for they wist not what it was. And Moses said unto them,"
         },
         {
           "type": "speech",
           "speaker": "Moses",
-          "text": "And Moses said unto them, This is the bread which the LORD hath given you to eat."
+          "text": "This is the bread which the LORD hath given you to eat."
         }
       ],
       "footnotes": [
@@ -246,9 +247,18 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "¶ This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+          "type": "prophetic",
+          "speaker": "Moses",
+          "text": "¶ This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                51,
+                213
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -355,9 +365,18 @@
           "text": "And he said unto them,"
         },
         {
-          "type": "speech",
+          "type": "prophetic",
           "speaker": "Moses",
-          "text": "This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+          "text": "This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                39,
+                239
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -380,18 +399,13 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Moses",
+          "type": "narrative",
           "text": "And Moses said,"
         },
         {
-          "type": "narrative",
-          "text": "Eat that to day;"
-        },
-        {
           "type": "speech",
           "speaker": "Moses",
-          "text": "for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+          "text": "Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
         }
       ],
       "footnotes": [],
@@ -402,7 +416,8 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Moses",
           "text": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
         }
       ],
@@ -431,7 +446,7 @@
         },
         {
           "type": "divine",
-          "speaker": "the Lord",
+          "speaker": "The LORD",
           "text": "How long refuse ye to keep my commandments and my laws?"
         }
       ],
@@ -444,7 +459,7 @@
       "segments": [
         {
           "type": "divine",
-          "speaker": "God",
+          "speaker": "The LORD",
           "text": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
         }
       ],

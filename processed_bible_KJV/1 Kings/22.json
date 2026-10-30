@@ -81,7 +81,7 @@
           "text": "And Jehoshaphat said unto the king of Israel,"
         },
         {
-          "type": "prayer",
+          "type": "prophetic",
           "speaker": "Jehoshaphat",
           "text": "Enquire, I pray thee, at the word of the LORD to day."
         }
@@ -95,26 +95,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear?"
+          "text": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them,"
         },
         {
           "type": "speech",
           "speaker": "The king of Israel",
+          "text": "Shall I go against Ramoth-gilead to battle, or shall I forbear?"
+        },
+        {
+          "type": "narrative",
           "text": "And they said,"
         },
         {
           "type": "speech",
           "speaker": "The prophets",
-          "text": "Go up;"
-        },
-        {
-          "type": "narrative",
-          "text": "for the Lord"
-        },
-        {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "shall deliver it into the hand of the king."
+          "text": "Go up; for the Lord shall deliver it into the hand of the king."
         }
       ],
       "footnotes": [],
@@ -213,9 +208,23 @@
           "text": "And Zedekiah the son of Chenaanah made him horns of iron: and he said,"
         },
         {
-          "type": "divine",
+          "type": "prophetic",
           "speaker": "Zedekiah",
-          "text": "Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them."
+          "text": "Thus saith the LORD,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Zedekiah",
+          "text": "With these shalt thou push the Syrians, until thou have consumed them.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                70
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -230,8 +239,8 @@
           "text": "And all the prophets prophesied so, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "The prophets",
+          "type": "speech",
+          "speaker": "All the prophets",
           "text": "Go up to Ramoth-gilead, and prosper: for the LORD shall deliver it into the king’s hand."
         }
       ],
@@ -248,7 +257,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messenger",
+          "speaker": "Micaiah",
           "text": "Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good."
         }
       ],
@@ -282,7 +291,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king of Israel",
+          "speaker": "The king",
           "text": "Micaiah, shall we go against Ramoth-gilead to battle, or shall we forbear?"
         },
         {
@@ -308,7 +317,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king of Israel",
+          "speaker": "The king",
           "text": "How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the LORD?"
         }
       ],
@@ -358,7 +367,7 @@
           "text": "And he said,"
         },
         {
-          "type": "divine",
+          "type": "prophetic",
           "speaker": "Micaiah",
           "text": "Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left."
         }
@@ -371,13 +380,9 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the LORD said,"
-        },
-        {
           "type": "speech",
-          "speaker": "The LORD",
-          "text": "Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner."
+          "speaker": "Micaiah",
+          "text": "And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner, and another said on that manner."
         }
       ],
       "footnotes": [
@@ -394,13 +399,9 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And there came forth a spirit, and stood before the LORD, and said,"
-        },
-        {
           "type": "speech",
-          "speaker": "The spirit",
-          "text": "I will persuade him."
+          "speaker": "Micaiah",
+          "text": "And there came forth a spirit, and stood before the LORD, and said, I will persuade him."
         }
       ],
       "footnotes": [],
@@ -411,31 +412,9 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the LORD said unto him,"
-        },
-        {
           "type": "speech",
-          "speaker": "The LORD",
-          "text": "Wherewith?"
-        },
-        {
-          "type": "narrative",
-          "text": "And he said,"
-        },
-        {
-          "type": "speech",
-          "speaker": "The spirit",
-          "text": "I will go forth, and I will be a lying spirit in the mouth of all his prophets."
-        },
-        {
-          "type": "narrative",
-          "text": "And he said,"
-        },
-        {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Thou shalt persuade him, and prevail also: go forth, and do so."
+          "speaker": "Micaiah",
+          "text": "And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so."
         }
       ],
       "footnotes": [],
@@ -446,7 +425,8 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Micaiah",
           "text": "Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee."
         }
       ],
@@ -476,12 +456,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Micaiah said,"
+          "text": "And Micaiah said, Behold,"
         },
         {
           "type": "speech",
           "speaker": "Micaiah",
-          "text": "Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself."
+          "text": "thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself."
         }
       ],
       "footnotes": [
@@ -515,13 +495,9 @@
       "verse_num": 27,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And say,"
-        },
-        {
-          "type": "divine",
-          "speaker": "The king of Israel",
-          "text": "Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace."
+          "type": "speech",
+          "speaker": "Micaiah",
+          "text": "And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace."
         }
       ],
       "footnotes": [],
@@ -602,7 +578,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king of Syria",
+          "speaker": "The king of Aram",
           "text": "Fight neither with small nor great, save only with the king of Israel."
         }
       ],
@@ -619,7 +595,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The captains of the chariots",
+          "speaker": "The chariot commanders",
           "text": "Surely it is the king of Israel."
         },
         {
@@ -652,7 +628,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The king of Israel",
+          "speaker": "The king",
           "text": "Turn thine hand, and carry me out of the host; for I am wounded."
         }
       ],
@@ -708,7 +684,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The proclamation",
+          "speaker": "The army",
           "text": "Every man to his city, and every man to his own country."
         }
       ],

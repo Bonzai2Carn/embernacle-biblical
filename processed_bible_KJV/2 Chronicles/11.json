@@ -28,7 +28,8 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "prophetic",
+          "speaker": "Shemaiah the man of God",
           "text": "Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,"
         }
       ],
@@ -40,9 +41,18 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me."
+          "type": "prophetic",
+          "speaker": "Shemaiah the man of God",
+          "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                21,
+                134
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -223,7 +233,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, and Abihail the daughter of Eliab the son of Jesse;"
         }
       ],
@@ -267,7 +277,7 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)"
         }
       ],

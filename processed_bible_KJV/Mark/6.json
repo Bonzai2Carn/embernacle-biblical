@@ -21,7 +21,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The people",
           "text": "From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?"
         }
       ],
@@ -33,8 +33,13 @@
       "verse_num": 3,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us?"
+        },
+        {
           "type": "narrative",
-          "text": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him."
+          "text": "And they were offended at him."
         }
       ],
       "footnotes": [],
@@ -86,7 +91,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "¶ And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;"
         }
       ],
@@ -198,8 +203,17 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "That it is Elias. And others said, That it is a prophet, or as one of the prophets."
+          "speaker": "The people",
+          "text": "That it is Elias."
+        },
+        {
+          "type": "narrative",
+          "text": "And others said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "That it is a prophet, or as one of the prophets."
         }
       ],
       "footnotes": [],
@@ -211,12 +225,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "But when Herod heard thereof, he said,"
+          "text": "But when Herod heard thereof, he said, It is John,"
         },
         {
           "type": "speech",
           "speaker": "Herod",
-          "text": "It is John, whom I beheaded: he is risen from the dead."
+          "text": "whom I beheaded: he is risen from the dead."
         }
       ],
       "footnotes": [],
@@ -297,7 +311,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Herod",
+          "speaker": "The king",
           "text": "Ask of me whatsoever thou wilt, and I will give it thee."
         }
       ],
@@ -340,7 +354,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Herodias",
+          "speaker": "Her mother",
           "text": "The head of John the Baptist."
         }
       ],
@@ -435,11 +449,11 @@
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going,"
+          "text": "Come ye yourselves apart into a desert place, and rest a while:"
         },
         {
           "type": "narrative",
-          "text": "and they had no leisure so much as to eat."
+          "text": "for there were many coming and going, and they had no leisure so much as to eat."
         }
       ],
       "footnotes": [],
@@ -491,7 +505,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Disciples",
+          "speaker": "The disciples",
           "text": "This is a desert place, and now the time is far passed:"
         }
       ],
@@ -503,7 +517,8 @@
       "verse_num": 36,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The disciples",
           "text": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat."
         }
       ],
@@ -528,8 +543,8 @@
           "text": "And they say unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "Jesus",
+          "type": "speech",
+          "speaker": "Unknown",
           "text": "Shall we go and buy two hundred pennyworth of bread, and give them to eat?"
         }
       ],
@@ -543,16 +558,16 @@
         {
           "type": "divine",
           "speaker": "Jesus",
-          "text": "He saith unto them,"
+          "text": "He saith unto them, How many loaves have ye?"
         },
         {
           "type": "narrative",
-          "text": "How many loaves have ye? go and see."
+          "text": "go and see. And when they knew, they say,"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "And when they knew, they say, Five, and two fishes."
+          "type": "divine",
+          "speaker": "Jesus",
+          "text": "Five, and two fishes."
         }
       ],
       "footnotes": [],
@@ -699,7 +714,7 @@
           "text": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them,"
         },
         {
-          "type": "speech",
+          "type": "divine",
           "speaker": "Jesus",
           "text": "Be of good cheer: it is I; be not afraid."
         }

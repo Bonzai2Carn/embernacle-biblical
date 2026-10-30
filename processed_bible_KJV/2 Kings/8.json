@@ -50,7 +50,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King",
+          "speaker": "The king",
           "text": "Tell me, I pray thee, all the great things that Elisha hath done."
         }
       ],
@@ -63,12 +63,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land."
+          "text": "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said,"
         },
         {
           "type": "speech",
           "speaker": "Gehazi",
-          "text": "And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life."
+          "text": "My lord, O king, this is the woman, and this is her son, whom Elisha restored to life."
         }
       ],
       "footnotes": [],
@@ -84,7 +84,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King",
+          "speaker": "The king",
           "text": "Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now."
         }
       ],
@@ -103,7 +103,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And Elisha came to Damascus; and Ben-hadad the king of Syria was sick; and it was told him, saying, The man of God is come hither."
+          "text": "¶ And Elisha came to Damascus; and Ben-hadad the king of Syria was sick; and it was told him, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Gehazi",
+          "text": "The man of God is come hither."
         }
       ],
       "footnotes": [],
@@ -121,7 +126,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King of Syria",
+          "speaker": "The king",
           "text": "Take a present in thine hand, and go, meet the man of God, and enquire of the LORD by him, saying, Shall I recover of this disease?"
         }
       ],
@@ -139,7 +144,16 @@
         {
           "type": "speech",
           "speaker": "Hazael",
-          "text": "Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?"
+          "text": "Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?",
+          "source": {
+            "name": "Your son Ben-hadad king of Aram",
+            "spans": [
+              [
+                62,
+                94
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -191,27 +205,22 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Hazael",
+          "type": "narrative",
           "text": "And Hazael said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Hazael",
           "text": "Why weepeth my lord?"
         },
         {
-          "type": "speech",
-          "speaker": "Elisha",
+          "type": "narrative",
           "text": "And he answered,"
         },
         {
-          "type": "narrative",
-          "text": "Because I know the evil that thou wilt do unto the children of Israel:"
-        },
-        {
           "type": "speech",
           "speaker": "Elisha",
-          "text": "their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child."
+          "text": "Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child."
         }
       ],
       "footnotes": [],
@@ -222,18 +231,22 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Hazael",
+          "type": "narrative",
           "text": "And Hazael said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Hazael",
           "text": "But what, is thy servant a dog, that he should do this great thing?"
+        },
+        {
+          "type": "narrative",
+          "text": "And Elisha answered,"
         },
         {
           "type": "prophetic",
           "speaker": "Elisha",
-          "text": "And Elisha answered, The LORD hath shewed me that thou shalt be king over Syria."
+          "text": "The LORD hath shewed me that thou shalt be king over Syria."
         }
       ],
       "footnotes": [],
@@ -249,7 +262,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King",
+          "speaker": "The king",
           "text": "What said Elisha to thee?"
         },
         {
@@ -282,7 +295,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign."
         }
       ],
@@ -412,7 +425,7 @@
       "verse_num": 25,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "¶ In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign."
         }
       ],
@@ -470,7 +483,7 @@
       "verse_num": 29,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick."
         }
       ],

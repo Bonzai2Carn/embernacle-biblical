@@ -9,7 +9,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Elisha",
+          "speaker": "Elisha the prophet",
           "text": "Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth-gilead:"
         }
       ],
@@ -21,7 +21,8 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Elisha the prophet",
           "text": "And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;"
         }
       ],
@@ -39,17 +40,18 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
-          "text": "Then take the box of oil, and pour it on his head, and say,"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD, I have anointed thee king over Israel."
-        },
-        {
-          "type": "narrative",
-          "text": "Then open the door, and flee, and tarry not."
+          "type": "prophetic",
+          "speaker": "Elisha the prophet",
+          "text": "Then take the box of oil, and pour it on his head, and say, Thus saith the LORD, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                71,
+                119
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -73,33 +75,29 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when he came,"
+          "text": "And when he came, behold, the captains of the host were sitting; and he said,"
         },
         {
           "type": "speech",
-          "speaker": "Young man",
-          "text": "behold, the captains of the host were sitting; and he said,"
-        },
-        {
-          "type": "narrative",
+          "speaker": "The young prophet",
           "text": "I have an errand to thee, O captain."
         },
         {
-          "type": "speech",
-          "speaker": "Young man",
+          "type": "narrative",
           "text": "And Jehu said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jehu",
           "text": "Unto which of all us?"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "narrative",
           "text": "And he said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The young prophet",
           "text": "To thee, O captain."
         }
       ],
@@ -115,9 +113,23 @@
           "text": "And he arose, and went into the house; and he poured the oil on his head, and said unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD God of Israel, I have anointed thee king over the people of the LORD, even over Israel."
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "Thus saith the LORD God of Israel,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "I have anointed thee king over the people of the LORD, even over Israel.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                72
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -128,8 +140,18 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel."
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                178
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -140,8 +162,18 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
-          "text": "For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:"
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                4,
+                149
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -152,8 +184,18 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:"
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                4,
+                126
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -164,8 +206,18 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her."
+          "type": "prophetic",
+          "speaker": "The young prophet",
+          "text": "And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                94
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -185,16 +237,16 @@
         },
         {
           "type": "speech",
-          "speaker": "Servant",
+          "speaker": "The servants of his master",
           "text": "Is all well? wherefore came this mad fellow to thee?"
+        },
+        {
+          "type": "narrative",
+          "text": "And he said unto them,"
         },
         {
           "type": "speech",
           "speaker": "Jehu",
-          "text": "And he said unto them,"
-        },
-        {
-          "type": "narrative",
           "text": "Ye know the man, and his communication."
         }
       ],
@@ -206,12 +258,12 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Unknown",
+          "type": "narrative",
           "text": "And they said,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "The servants of Jehu's master",
           "text": "It is false;"
         },
         {
@@ -226,7 +278,21 @@
         {
           "type": "prophetic",
           "speaker": "Jehu",
-          "text": "Thus and thus spake he to me, saying, Thus saith the LORD, I have anointed thee king over Israel."
+          "text": "Thus and thus spake he to me, saying, Thus saith the LORD,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "Jehu",
+          "text": "I have anointed thee king over Israel.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                38
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -260,12 +326,8 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "narrative",
-          "text": "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram."
-        },
-        {
-          "type": "narrative",
-          "text": "(Now Joram had kept Ramoth-gilead, he and all Israel, because of Hazael king of Syria."
+          "type": "genealogy",
+          "text": "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramoth-gilead, he and all Israel, because of Hazael king of Syria."
         }
       ],
       "footnotes": [],
@@ -310,11 +372,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "So Jehu rode in a chariot, and went to Jezreel; for Joram lay there."
-        },
-        {
-          "type": "narrative",
-          "text": "And Ahaziah king of Judah was come down to see Joram."
+          "text": "So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram."
         }
       ],
       "footnotes": [],
@@ -326,26 +384,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company."
+          "text": "And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said,"
         },
         {
           "type": "speech",
-          "speaker": "Watchman",
+          "speaker": "The watchman standing on the tower in Jezreel",
+          "text": "I see a company."
+        },
+        {
+          "type": "narrative",
           "text": "And Joram said,"
         },
         {
           "type": "speech",
           "speaker": "Joram",
-          "text": "Take an horseman,"
-        },
-        {
-          "type": "narrative",
-          "text": "and send to meet them,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Joram",
-          "text": "and let him say, Is it peace?"
+          "text": "Take an horseman, and send to meet them, and let him say, Is it peace?"
         }
       ],
       "footnotes": [],
@@ -361,30 +414,25 @@
         },
         {
           "type": "speech",
-          "speaker": "King",
-          "text": "Thus saith the king, Is it peace? And Jehu said,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Jehu",
-          "text": "What hast thou to do with peace?"
+          "speaker": "The horseman",
+          "text": "Thus saith the king, Is it peace?"
         },
         {
           "type": "narrative",
-          "text": "turn thee behind me."
+          "text": "And Jehu said,"
         },
         {
           "type": "speech",
           "speaker": "Jehu",
-          "text": "And the watchman told,"
+          "text": "What hast thou to do with peace? turn thee behind me."
         },
         {
           "type": "narrative",
-          "text": "saying,"
+          "text": "And the watchman told, saying,"
         },
         {
           "type": "speech",
-          "speaker": "Jehu",
+          "speaker": "The watchman",
           "text": "The messenger came to them, but he cometh not again."
         }
       ],
@@ -397,7 +445,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then he sent out a second on horseback, which came to them, and said, Thus saith the king, Is it peace? And Jehu answered, What hast thou to do with peace? turn thee behind me."
+          "text": "Then he sent out a second on horseback, which came to them, and said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Unknown",
+          "text": "Thus saith the king, Is it peace?"
+        },
+        {
+          "type": "narrative",
+          "text": "And Jehu answered,"
+        },
+        {
+          "type": "speech",
+          "speaker": "Jehu",
+          "text": "What hast thou to do with peace? turn thee behind me."
         }
       ],
       "footnotes": [],
@@ -409,7 +471,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the watchman told, saying, He came even unto them, and cometh not again: and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously."
+          "text": "And the watchman told, saying,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The watchman",
+          "text": "He came even unto them, and cometh not again: and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously."
         }
       ],
       "footnotes": [
@@ -431,9 +498,13 @@
       "verse_num": 21,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And Joram said,"
+        },
+        {
           "type": "speech",
           "speaker": "Joram",
-          "text": "And Joram said, Make ready."
+          "text": "Make ready."
         },
         {
           "type": "narrative",
@@ -465,21 +536,16 @@
         {
           "type": "speech",
           "speaker": "Joram",
-          "text": "Is it peace, Jehu? And he answered,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Jehu",
-          "text": "What peace,"
+          "text": "Is it peace, Jehu?"
         },
         {
           "type": "narrative",
-          "text": "so long as"
+          "text": "And he answered,"
         },
         {
           "type": "speech",
           "speaker": "Jehu",
-          "text": "the whoredoms of thy mother Jezebel and her witchcrafts are so many?"
+          "text": "What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts are so many?"
         }
       ],
       "footnotes": [],
@@ -547,17 +613,18 @@
       "verse_num": 26,
       "segments": [
         {
-          "type": "narrative",
-          "text": "Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the LORD;"
-        },
-        {
-          "type": "divine",
-          "speaker": "God",
-          "text": "and I will requite thee in this plat, saith the LORD."
-        },
-        {
-          "type": "narrative",
-          "text": "Now therefore take and cast him into the plat of ground, according to the word of the LORD."
+          "type": "prophetic",
+          "speaker": "Jehu",
+          "text": "Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the LORD; and I will requite thee in this plat, saith the LORD. Now therefore take and cast him into the plat of ground, according to the word of the LORD.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                146
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -580,11 +647,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ But when Ahaziah the king of Judah saw this, he fled by the way of the garden house."
-        },
-        {
-          "type": "narrative",
-          "text": "And Jehu followed after him, and said,"
+          "text": "¶ But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said,"
         },
         {
           "type": "speech",
@@ -593,11 +656,7 @@
         },
         {
           "type": "narrative",
-          "text": "And they did so at the going up to Gur, which is by Ibleam."
-        },
-        {
-          "type": "narrative",
-          "text": "And he fled to Megiddo, and died there."
+          "text": "And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there."
         }
       ],
       "footnotes": [],
@@ -651,12 +710,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And as Jehu entered in at the gate, she said,"
+          "text": "And as Jehu entered in at the gate,"
         },
         {
           "type": "speech",
           "speaker": "Jezebel",
-          "text": "Had Zimri peace, who slew his master?"
+          "text": "she said, Had Zimri peace, who slew his master?"
         }
       ],
       "footnotes": [],
@@ -750,7 +809,16 @@
         {
           "type": "prophetic",
           "speaker": "Jehu",
-          "text": "This is the word of the LORD, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:"
+          "text": "This is the word of the LORD, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                81,
+                151
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -767,8 +835,18 @@
       "verse_num": 37,
       "segments": [
         {
-          "type": "narrative",
-          "text": "And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel."
+          "type": "prophetic",
+          "speaker": "Jehu",
+          "text": "And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                142
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],

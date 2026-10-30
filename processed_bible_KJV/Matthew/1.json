@@ -4,7 +4,7 @@
       "verse_num": 1,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
         }
       ],
@@ -16,7 +16,7 @@
       "verse_num": 2,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;"
         }
       ],
@@ -28,7 +28,7 @@
       "verse_num": 3,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;"
         }
       ],
@@ -40,7 +40,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
         }
       ],
@@ -52,7 +52,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
         }
       ],
@@ -64,7 +64,7 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;"
         }
       ],
@@ -76,7 +76,7 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;"
         }
       ],
@@ -88,7 +88,7 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;"
         }
       ],
@@ -100,7 +100,7 @@
       "verse_num": 9,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
         }
       ],
@@ -112,7 +112,7 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
         }
       ],
@@ -136,7 +136,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;"
         }
       ],
@@ -148,7 +148,7 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
         }
       ],
@@ -160,7 +160,7 @@
       "verse_num": 14,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;"
         }
       ],
@@ -172,7 +172,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "narrative",
+          "type": "genealogy",
           "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;"
         }
       ],
@@ -238,8 +238,8 @@
           "text": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "Angel of the Lord",
+          "type": "speech",
+          "speaker": "An angel of the Lord",
           "text": "Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost."
         }
       ],
@@ -251,8 +251,8 @@
       "verse_num": 21,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "Angel of the Lord",
+          "type": "speech",
+          "speaker": "An angel of the Lord",
           "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins."
         }
       ],
@@ -276,9 +276,18 @@
       "verse_num": 23,
       "segments": [
         {
-          "type": "prophetic",
-          "speaker": "Prophet",
-          "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us."
+          "type": "speech",
+          "speaker": "The prophet",
+          "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel,"
+        },
+        {
+          "type": "narrative",
+          "text": "which being interpreted is,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The prophet",
+          "text": "God with us."
         }
       ],
       "footnotes": [],

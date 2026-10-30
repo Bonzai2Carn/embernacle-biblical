@@ -63,9 +63,18 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "God",
-          "text": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession."
+          "type": "prophetic",
+          "speaker": "Jacob",
+          "text": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.",
+          "source": {
+            "name": "God",
+            "spans": [
+              [
+                18,
+                196
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -76,7 +85,8 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "¶ And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine."
         }
       ],
@@ -90,7 +100,8 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance."
         }
       ],
@@ -102,8 +113,13 @@
       "verse_num": 7,
       "segments": [
         {
+          "type": "speech",
+          "speaker": "Jacob",
+          "text": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath;"
+        },
+        {
           "type": "narrative",
-          "text": "And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Beth-lehem."
+          "text": "the same is Beth-lehem."
         }
       ],
       "footnotes": [],
@@ -145,7 +161,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Israel",
+          "speaker": "Jacob",
           "text": "Bring them, I pray thee, unto me, and I will bless them."
         }
       ],
@@ -232,7 +248,7 @@
           "text": "¶ And he blessed Joseph, and said,"
         },
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Israel",
           "text": "God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,"
         }
@@ -247,7 +263,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Israel",
           "text": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth."
         }
@@ -306,7 +322,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Israel",
+          "speaker": "Jacob",
           "text": "I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations."
         }
       ],
@@ -325,12 +341,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he blessed them that day, saying,"
+          "text": "And he blessed them that day,"
         },
         {
           "type": "speech",
-          "speaker": "Israel",
-          "text": "In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh."
+          "speaker": "Jacob",
+          "text": "saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh:"
+        },
+        {
+          "type": "narrative",
+          "text": "and he set Ephraim before Manasseh."
         }
       ],
       "footnotes": [],
@@ -358,7 +378,8 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Israel",
           "text": "Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow."
         }
       ],

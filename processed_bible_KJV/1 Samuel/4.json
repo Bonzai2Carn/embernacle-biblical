@@ -50,7 +50,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Elders of Israel",
+          "speaker": "The elders of Israel",
           "text": "Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies."
         }
       ],
@@ -70,7 +70,7 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God."
         }
       ],
@@ -82,7 +82,7 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "narrative",
+          "type": "law",
           "text": "And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again."
         }
       ],
@@ -95,12 +95,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And when the Philistines heard the noise of the shout,"
+          "text": "And when the Philistines heard the noise of the shout, they said,"
         },
         {
           "type": "speech",
           "speaker": "Philistines",
-          "text": "they said, What meaneth the noise of this great shout in the camp of the Hebrews?"
+          "text": "What meaneth the noise of this great shout in the camp of the Hebrews?"
         },
         {
           "type": "narrative",
@@ -116,21 +116,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the Philistines were afraid,"
+          "text": "And the Philistines were afraid, for they said,"
         },
         {
           "type": "speech",
-          "speaker": "Philistines",
-          "text": "for they said,"
-        },
-        {
-          "type": "narrative",
+          "speaker": "The Philistines",
           "text": "God is come into the camp."
         },
         {
+          "type": "narrative",
+          "text": "And they said,"
+        },
+        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "And they said, Woe unto us! for there hath not been such a thing heretofore."
+          "speaker": "The Philistines",
+          "text": "Woe unto us! for there hath not been such a thing heretofore."
         }
       ],
       "footnotes": [
@@ -148,7 +148,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Philistines",
+          "speaker": "The Philistines",
           "text": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness."
         }
       ],
@@ -161,7 +161,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "Philistines",
+          "speaker": "The Philistines",
           "text": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight."
         }
       ],
@@ -276,27 +276,27 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Messenger",
+          "type": "narrative",
           "text": "And the man said unto Eli,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Messenger",
           "text": "I am he that came out of the army,"
         },
         {
           "type": "speech",
           "speaker": "The man",
-          "text": "and I fled to day out of the army. And he said,"
+          "text": "and I fled to day out of the army."
+        },
+        {
+          "type": "narrative",
+          "text": "And he said,"
         },
         {
           "type": "speech",
           "speaker": "Eli",
-          "text": "What is there done,"
-        },
-        {
-          "type": "narrative",
-          "text": "my son?"
+          "text": "What is there done, my son?"
         }
       ],
       "footnotes": [
@@ -372,7 +372,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Women",
+          "speaker": "The women attending to her",
           "text": "Fear not; for thou hast born a son."
         },
         {
@@ -400,7 +400,11 @@
         {
           "type": "speech",
           "speaker": "Phinehas' Wife",
-          "text": "The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband."
+          "text": "The glory is departed from Israel:"
+        },
+        {
+          "type": "narrative",
+          "text": "because the ark of God was taken, and because of her father in law and her husband."
         }
       ],
       "footnotes": [
@@ -417,18 +421,13 @@
       "verse_num": 22,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Phinehas' Wife",
+          "type": "narrative",
           "text": "And she said,"
         },
         {
-          "type": "narrative",
-          "text": "The glory is departed from Israel:"
-        },
-        {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "for the ark of God is taken."
+          "speaker": "Phinehas' Wife",
+          "text": "The glory is departed from Israel: for the ark of God is taken."
         }
       ],
       "footnotes": [],

@@ -50,7 +50,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King Ahasuerus",
+          "speaker": "Ahasuerus",
           "text": "What honour and dignity hath been done to Mordecai for this?"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King's Servants",
+          "speaker": "Unknown",
           "text": "There is nothing done for him."
         }
       ],
@@ -72,7 +72,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "¶ And the king said, Who is in the court? Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him."
+          "text": "¶ And the king said,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The king",
+          "text": "Who is in the court?"
+        },
+        {
+          "type": "narrative",
+          "text": "Now Haman was come into the outward court of the king’s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him."
         }
       ],
       "footnotes": [],
@@ -90,7 +99,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King's Servants",
+          "speaker": "The king’s attendants",
           "text": "Behold, Haman standeth in the court."
         },
         {
@@ -99,7 +108,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King Ahasuerus",
+          "speaker": "The king",
           "text": "Let him come in."
         }
       ],
@@ -116,7 +125,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King Ahasuerus",
+          "speaker": "The king",
           "text": "What shall be done unto the man whom the king delighteth to honour?"
         },
         {
@@ -214,7 +223,7 @@
         },
         {
           "type": "speech",
-          "speaker": "King Ahasuerus",
+          "speaker": "The king",
           "text": "Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken."
         }
       ],
@@ -233,7 +242,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour."
+          "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The people",
+          "text": "Thus shall it be done unto the man whom the king delighteth to honour."
         }
       ],
       "footnotes": [],
@@ -259,15 +273,11 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And Haman told Zeresh his wife and all his friends every thing that had befallen him."
-        },
-        {
-          "type": "narrative",
-          "text": "Then said his wise men and Zeresh his wife unto him,"
+          "text": "And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him,"
         },
         {
           "type": "speech",
-          "speaker": "Zeresh and Wise Men",
+          "speaker": "Zeresh",
           "text": "If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him."
         }
       ],

@@ -5,12 +5,21 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him,"
+          "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him,"
         },
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Thus saith the LORD, Set thine house in order: for thou shalt die, and not live."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                44,
+                99
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -28,12 +37,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Then Hezekiah turned his face toward the wall,"
-        },
-        {
-          "type": "prayer",
-          "speaker": "Hezekiah",
-          "text": "and prayed unto the LORD,"
+          "text": "Then Hezekiah turned his face toward the wall, and prayed unto the LORD,"
         }
       ],
       "footnotes": [],
@@ -85,9 +89,18 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                75,
+                170
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -98,9 +111,18 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                106
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -111,9 +133,18 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "And this shall be a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;"
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "And this shall be a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                4,
+                103
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -124,9 +155,22 @@
       "verse_num": 8,
       "segments": [
         {
-          "type": "divine",
-          "speaker": "The LORD",
-          "text": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down."
+          "type": "prophetic",
+          "speaker": "Isaiah",
+          "text": "Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                8,
+                119
+              ]
+            ]
+          }
+        },
+        {
+          "type": "narrative",
+          "text": "So the sun returned ten degrees, by which degrees it was gone down."
         }
       ],
       "footnotes": [
@@ -157,7 +201,7 @@
       "verse_num": 10,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Hezekiah",
           "text": "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years."
         }
@@ -170,9 +214,13 @@
       "verse_num": 11,
       "segments": [
         {
-          "type": "prayer",
+          "type": "narrative",
+          "text": "I said,"
+        },
+        {
+          "type": "speech",
           "speaker": "Hezekiah",
-          "text": "I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world."
+          "text": "I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world."
         }
       ],
       "footnotes": [],
@@ -183,7 +231,7 @@
       "verse_num": 12,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Hezekiah",
           "text": "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me."
         }
@@ -202,7 +250,7 @@
       "verse_num": 13,
       "segments": [
         {
-          "type": "prayer",
+          "type": "speech",
           "speaker": "Hezekiah",
           "text": "I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt thou make an end of me."
         }
@@ -234,8 +282,7 @@
       "verse_num": 15,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul."
         }
       ],
@@ -247,8 +294,7 @@
       "verse_num": 16,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "O Lord, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live."
         }
       ],
@@ -260,8 +306,7 @@
       "verse_num": 17,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "Behold, for peace I had great bitterness: but thou hast in love to my soul delivered it from the pit of corruption: for thou hast cast all my sins behind thy back."
         }
       ],
@@ -284,8 +329,7 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth."
         }
       ],
@@ -297,8 +341,7 @@
       "verse_num": 19,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "The living, the living, he shall praise thee, as I do this day: the father to the children shall make known thy truth."
         }
       ],
@@ -310,8 +353,7 @@
       "verse_num": 20,
       "segments": [
         {
-          "type": "prayer",
-          "speaker": "Hezekiah",
+          "type": "narrative",
           "text": "The LORD was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the LORD."
         }
       ],
@@ -345,7 +387,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Hezekiah had",
+          "speaker": "Hezekiah",
           "text": "What is the sign that I shall go up to the house of the LORD?"
         }
       ],

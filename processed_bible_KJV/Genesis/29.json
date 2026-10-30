@@ -51,27 +51,22 @@
       "verse_num": 4,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jacob",
+          "type": "narrative",
           "text": "And Jacob said unto them,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "My brethren, whence be ye?"
         },
         {
-          "type": "speech",
-          "speaker": "Shepherds",
+          "type": "narrative",
           "text": "And they said,"
         },
         {
           "type": "speech",
           "speaker": "The shepherds",
-          "text": "Of Haran"
-        },
-        {
-          "type": "narrative",
-          "text": "are we."
+          "text": "Of Haran are we."
         }
       ],
       "footnotes": [],
@@ -82,21 +77,21 @@
       "verse_num": 5,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jacob",
+          "type": "narrative",
           "text": "And he said unto them,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "Know ye Laban the son of Nahor?"
+        },
+        {
+          "type": "narrative",
+          "text": "And they said,"
         },
         {
           "type": "speech",
           "speaker": "Shepherds",
-          "text": "And they said,"
-        },
-        {
-          "type": "narrative",
           "text": "We know him."
         }
       ],
@@ -108,27 +103,22 @@
       "verse_num": 6,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Jacob",
+          "type": "narrative",
           "text": "And he said unto them,"
         },
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "Is he well?"
+        },
+        {
+          "type": "narrative",
+          "text": "And they said,"
         },
         {
           "type": "speech",
           "speaker": "Shepherds",
-          "text": "And they said,"
-        },
-        {
-          "type": "narrative",
-          "text": "He is well:"
-        },
-        {
-          "type": "speech",
-          "speaker": "Jacob",
-          "text": "and, behold, Rachel his daughter cometh with the sheep."
+          "text": "He is well: and, behold, Rachel his daughter cometh with the sheep."
         }
       ],
       "footnotes": [
@@ -145,13 +135,18 @@
       "verse_num": 7,
       "segments": [
         {
-          "type": "narrative",
+          "type": "speech",
+          "speaker": "Jacob",
           "text": "And he said,"
+        },
+        {
+          "type": "narrative",
+          "text": "Lo,"
         },
         {
           "type": "speech",
           "speaker": "Jacob",
-          "text": "Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them."
+          "text": "it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them."
         }
       ],
       "footnotes": [
@@ -551,12 +546,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And she conceived again, and bare a son; and said,"
+          "text": "And she conceived again, and bare a son;"
         },
         {
           "type": "speech",
           "speaker": "Leah",
-          "text": "Because the LORD hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon."
+          "text": "and said, Because the LORD hath heard that I was hated, he hath therefore given me this son also:"
+        },
+        {
+          "type": "narrative",
+          "text": "and she called his name Simeon."
         }
       ],
       "footnotes": [
@@ -579,7 +578,11 @@
         {
           "type": "speech",
           "speaker": "Leah",
-          "text": "Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi."
+          "text": "Now this time will my husband be joined unto me, because I have born him three sons:"
+        },
+        {
+          "type": "narrative",
+          "text": "therefore was his name called Levi."
         }
       ],
       "footnotes": [
@@ -602,7 +605,11 @@
         {
           "type": "speech",
           "speaker": "Leah",
-          "text": "Now will I praise the LORD: therefore she called his name Judah; and left bearing."
+          "text": "Now will I praise the LORD:"
+        },
+        {
+          "type": "narrative",
+          "text": "therefore she called his name Judah; and left bearing."
         }
       ],
       "footnotes": [

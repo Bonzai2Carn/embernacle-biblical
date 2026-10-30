@@ -17,12 +17,7 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And he sent messengers to Ahab king of Israel into the city, and said unto him,"
-        },
-        {
-          "type": "speech",
-          "speaker": "Ben-hadad",
-          "text": "Thus saith Ben-hadad,"
+          "text": "And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Ben-hadad,"
         }
       ],
       "footnotes": [],
@@ -68,8 +63,17 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
-          "text": "Thus speaketh Ben-hadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;"
+          "speaker": "The messengers",
+          "text": "Thus speaketh Ben-hadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;",
+          "source": {
+            "name": "Ben-hadad",
+            "spans": [
+              [
+                42,
+                153
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -81,8 +85,17 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
-          "text": "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away."
+          "speaker": "The messengers",
+          "text": "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away.",
+          "source": {
+            "name": "Ben-hadad",
+            "spans": [
+              [
+                0,
+                242
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -104,7 +117,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
+          "speaker": "The king of Israel",
           "text": "Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not."
         }
       ],
@@ -127,7 +140,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
+          "speaker": "The people",
           "text": "Hearken not unto him, nor consent."
         }
       ],
@@ -144,7 +157,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
+          "speaker": "Ahab",
           "text": "Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do."
         },
         {
@@ -165,7 +178,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
+          "speaker": "Ben-hadad",
           "text": "The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me."
         }
       ],
@@ -188,7 +201,7 @@
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
+          "speaker": "The messengers",
           "text": "Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off."
         }
       ],
@@ -201,16 +214,16 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that"
+          "text": "And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants,"
         },
         {
           "type": "speech",
-          "speaker": "The messengers came back and",
-          "text": "he said unto his servants,"
+          "speaker": "Ben-hadad",
+          "text": "Set yourselves in array."
         },
         {
           "type": "narrative",
-          "text": "Set yourselves in array. And they set themselves in array against the city."
+          "text": "And they set themselves in array against the city."
         }
       ],
       "footnotes": [
@@ -241,9 +254,23 @@
           "text": "¶ And, behold, there came a prophet unto Ahab king of Israel, saying,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD."
+          "type": "prophetic",
+          "speaker": "A prophet",
+          "text": "Thus saith the LORD,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "A prophet",
+          "text": "Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                132
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [
@@ -262,9 +289,13 @@
       "verse_num": 14,
       "segments": [
         {
+          "type": "narrative",
+          "text": "And Ahab said,"
+        },
+        {
           "type": "speech",
           "speaker": "Ahab",
-          "text": "And Ahab said, By whom?"
+          "text": "By whom?"
         },
         {
           "type": "narrative",
@@ -272,13 +303,22 @@
         },
         {
           "type": "prophetic",
-          "speaker": "Ahab",
+          "speaker": "The prophet",
           "text": "Thus saith the LORD,"
         },
         {
-          "type": "speech",
-          "speaker": "Unknown",
-          "text": "Even by the young men of the princes of the provinces."
+          "type": "prophetic",
+          "speaker": "The prophet",
+          "text": "Even by the young men of the princes of the provinces.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                54
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
@@ -291,7 +331,12 @@
         },
         {
           "type": "narrative",
-          "text": "And he answered, Thou."
+          "text": "And he answered,"
+        },
+        {
+          "type": "speech",
+          "speaker": "The prophet",
+          "text": "Thou."
         }
       ],
       "footnotes": [
@@ -338,12 +383,12 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "And the young men of the princes of the provinces went out first; and Ben-hadad sent out, and they told him, saying,"
+          "text": "And the young men of the princes of the provinces went out first; and Ben-hadad sent out, and they told him,"
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
-          "text": "There are men come out of Samaria."
+          "speaker": "Scouts",
+          "text": "saying, There are men come out of Samaria."
         }
       ],
       "footnotes": [],
@@ -354,13 +399,8 @@
       "verse_num": 18,
       "segments": [
         {
-          "type": "speech",
-          "speaker": "Ben-hadad",
-          "text": "And he said,"
-        },
-        {
           "type": "narrative",
-          "text": "Whether they be come out for peace,"
+          "text": "And he said, Whether they be come out for peace,"
         },
         {
           "type": "speech",
@@ -417,7 +457,7 @@
         },
         {
           "type": "prophetic",
-          "speaker": "Prophet",
+          "speaker": "The prophet",
           "text": "Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee."
         }
       ],
@@ -524,9 +564,18 @@
           "text": "¶ And there came a man of God, and spake unto the king of Israel, and said,"
         },
         {
-          "type": "divine",
-          "speaker": "God",
-          "text": "Thus saith the LORD, Because the Syrians have said, The LORD is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD."
+          "type": "prophetic",
+          "speaker": "The man of God",
+          "text": "Thus saith the LORD, Because the Syrians have said, The LORD is God of the hills, but he is not God of the valleys, therefore will I deliver all this great multitude into thine hand, and ye shall know that I am the LORD.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                21,
+                220
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
@@ -574,7 +623,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Unknown",
+          "speaker": "The servants of Ben-hadad",
           "text": "Behold now, we have heard that the kings of the house of Israel are merciful kings: let us, I pray thee, put sackcloth on our loins, and ropes upon our heads, and go out to the king of Israel: peradventure he will save thy life."
         }
       ],
@@ -591,17 +640,26 @@
         },
         {
           "type": "speech",
-          "speaker": "The king",
-          "text": "Thy servant Ben-hadad saith,"
+          "speaker": "The servants of Ben-hadad",
+          "text": "Thy servant Ben-hadad saith, I pray thee, let me live.",
+          "source": {
+            "name": "Ben-hadad",
+            "spans": [
+              [
+                29,
+                54
+              ]
+            ]
+          }
         },
         {
           "type": "narrative",
-          "text": "I pray thee, let me live."
+          "text": "And he said,"
         },
         {
           "type": "speech",
           "speaker": "The king",
-          "text": "And he said, Is he yet alive? he is my brother."
+          "text": "Is he yet alive? he is my brother."
         }
       ],
       "footnotes": [],
@@ -613,16 +671,20 @@
       "segments": [
         {
           "type": "narrative",
-          "text": "Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Ben-hadad."
+          "text": "Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said,"
         },
         {
           "type": "speech",
-          "speaker": "The king",
+          "speaker": "The men",
+          "text": "Thy brother Ben-hadad."
+        },
+        {
+          "type": "narrative",
           "text": "Then he said,"
         },
         {
           "type": "speech",
-          "speaker": "Ahab",
+          "speaker": "The king",
           "text": "Go ye, bring him."
         },
         {
@@ -649,11 +711,11 @@
         {
           "type": "speech",
           "speaker": "Ahab",
-          "text": "Then said Ahab, I will send thee away with this covenant."
+          "text": "Then said Ahab,"
         },
         {
           "type": "instructional/technical",
-          "text": "So he made a covenant with him, and sent him away."
+          "text": "I will send thee away with this covenant. So he made a covenant with him, and sent him away."
         }
       ],
       "footnotes": [
@@ -675,7 +737,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Ahab",
+          "speaker": "The prophets",
           "text": "Smite me, I pray thee."
         },
         {
@@ -696,7 +758,7 @@
         },
         {
           "type": "speech",
-          "speaker": "Ahab",
+          "speaker": "The prophet",
           "text": "Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee."
         },
         {
@@ -717,12 +779,12 @@
         },
         {
           "type": "speech",
-          "speaker": "Ahab",
-          "text": "Smite me, I pray thee. And the man smote him,"
+          "speaker": "The prophet",
+          "text": "Smite me, I pray thee."
         },
         {
           "type": "narrative",
-          "text": "so that in smiting he wounded him."
+          "text": "And the man smote him, so that in smiting he wounded him."
         }
       ],
       "footnotes": [
@@ -775,7 +837,7 @@
       "segments": [
         {
           "type": "speech",
-          "speaker": "The king of Israel",
+          "speaker": "Ahab",
           "text": "And as thy servant was busy here and there, he was gone."
         },
         {
@@ -819,8 +881,22 @@
         },
         {
           "type": "prophetic",
-          "speaker": "The king of Israel",
-          "text": "Thus saith the LORD, Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people."
+          "speaker": "The prophet",
+          "text": "Thus saith the LORD,"
+        },
+        {
+          "type": "prophetic",
+          "speaker": "The prophet",
+          "text": "Because thou hast let go out of thy hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.",
+          "source": {
+            "name": "The LORD",
+            "spans": [
+              [
+                0,
+                158
+              ]
+            ]
+          }
         }
       ],
       "footnotes": [],
