@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about divine selection?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Leadership is divinely appointed",
-            "expansion": "True spiritual authority comes from God's explicit choosing, not human ambition."
-          },
-          {
-            "id": 2,
-            "text": "Miraculous confirmation validates leadership",
-            "expansion": "God can use extraordinary signs to demonstrate His chosen representatives."
-          },
-          {
-            "id": 3,
-            "text": "Challenging appointed leadership risks divine judgment",
-            "expansion": "Rebellion against God's established order carries profound spiritual consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine selection is so clear, why do humans still struggle with recognizing legitimate spiritual authority?"
-      },
-      "moral_slider": {
-        "question": "How do you balance respecting spiritual leadership with maintaining healthy spiritual discernment?",
-        "left_label": "Blind Submission",
-        "right_label": "Critical Examination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "More aware of divine sovereignty",
-          "More cautious about challenging leaders",
-          "More focused on fruit over formal position",
-          "More understanding of spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Genuine spiritual authority transcends institutional hierarchies",
           "God's choices often contradict human expectations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses saw",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites watching these staffs. You saw a promise of a sign to stop the grumbling, and then you saw the sign itself. What does this miracle change about how you view the chosen leader?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Hebrews 9:4",
+        "summary": "Aaron's staff sprouts, puts forth buds, blossoms, and produces almonds, and the LORD says to keep it before the Testimony as a sign for the rebellious (vv. 8, 10). Hebrews lists Aaron's staff that had budded among what was inside the ark of the covenant (Hebrews 9:4).",
+        "question": "How does Hebrews 9:4 help you understand why Aaron's staff was kept as a sign in Numbers 17?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "remembrance",
+        "because": "the staff is a sign for the rebellious to end their grumbling",
+        "feeling": "resentment, discontent",
+        "object": "my current circumstances",
+        "behavior": "complaining about my lot",
+        "step": "thank God for His provision",
+        "template": "from today I let go of my {feeling:resentment, discontent} over {object:my current circumstances} and instead of {behavior:complaining about my lot}, I will {step:thank God for His provision}."
       }
     }
   }

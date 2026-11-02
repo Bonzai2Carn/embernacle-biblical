@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Peter's miraculous prison escape",
-            "expansion": "God's supernatural power transcends human limitations and institutional barriers."
-          },
-          {
-            "id": 2,
-            "text": "James' martyrdom contrasted with Peter's deliverance",
-            "expansion": "Divine providence operates mysteriously, not always according to human expectations of fairness."
-          },
-          {
-            "id": 3,
-            "text": "Herod's sudden divine judgment",
-            "expansion": "Prideful human authority ultimately remains accountable to a higher spiritual order."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God can supernaturally release Peter from prison, why do some faithful believers still suffer persecution?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's intervention with human suffering?",
-        "left_label": "Divine Sovereignty",
-        "right_label": "Human Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and divine intervention shifted?",
-        "options": [
-          "Prayer is more powerful than I previously understood",
-          "God's methods are more complex than simple cause-and-effect",
-          "Spiritual battles have real, tangible manifestations",
-          "Suffering and deliverance are part of a larger, unseen narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine intervention occurs according to God's mysterious purposes",
           "Persecution is a direct result of individual spiritual weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Peter said",
+            "ref": "v. 11",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in Peter's place, freed from Herod's grasp. What would you understand about the Lord's rescue from everything the Jewish people were anticipating?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "James 5:16",
+        "summary": "The church prays fervently for Peter while he is in prison (v. 5). James describes the power of this specific kind of prayer.",
+        "question": "How does James 5:16 help you understand the result of the church's prayer in verse 5?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "remembrance",
+        "because": "the word of God continued to spread and multiply",
+        "feeling": "anxiety, fear",
+        "object": "a season of opposition",
+        "behavior": "focusing on the chaos",
+        "step": "trust the growth I cannot see",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a season of opposition} and instead of {behavior:focusing on the chaos}, I will {step:trust the growth I cannot see}."
       }
     }
   }

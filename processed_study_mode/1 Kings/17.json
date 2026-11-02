@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine provision speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ravens feeding Elijah",
-            "expansion": "God's provision can come through unexpected and miraculous channels"
-          },
-          {
-            "id": 2,
-            "text": "Endless flour and oil for widow",
-            "expansion": "Faith can transform scarcity into supernatural sustainability"
-          },
-          {
-            "id": 3,
-            "text": "Resurrection of widow's son",
-            "expansion": "Divine power transcends natural limitations of life and death"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When God commands something seemingly impossible, what inner barriers prevent your immediate obedience?"
-      },
-      "moral_slider": {
-        "question": "How do divine intervention and human agency interact during crisis?",
-        "left_label": "Human Powerlessness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine provision shifted?",
-        "options": [
-          "I see God's care as more creative",
-          "Obedience precedes understanding",
-          "Miracles emerge through radical trust",
-          "Providence operates beyond human logic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's supernatural care transcends human economic systems",
           "Spiritual resilience emerges through radical trust in God's word"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The widow replied",
+            "ref": "v. 12",
+            "speaker": "The widow"
+          },
+          {
+            "who": "Elijah said to her",
+            "ref": "v. 13",
+            "speaker": "Elijah"
+          }
+        ],
+        "question": "Put yourself in the widow's place, looking at your final meal. What does Elijah's command change about how you view your remaining flour and oil?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Philippians 4:19",
+        "summary": "The widow's jar of flour and jug of oil will not run dry (v. 14). Philippians 4:19 says God will supply all your needs according to His glorious riches in Christ Jesus.",
+        "question": "How does Philippians 4:19 help you understand the provision the widow received in Zarephath?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "remembrance",
+        "because": "the word of the LORD from Elijah's mouth is truth",
+        "feeling": "doubt, suspicion",
+        "object": "a difficult situation",
+        "behavior": "doubting God's promises",
+        "step": "trust what He has said",
+        "template": "from today I let go of my {feeling:doubt, suspicion} over {object:a difficult situation} and instead of {behavior:doubting God's promises}, I will {step:trust what He has said}."
       }
     }
   }

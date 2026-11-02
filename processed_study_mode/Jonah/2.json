@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional aspect of Jonah's prayer resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling abandoned by God",
-            "expansion": "The profound human experience of perceiving divine distance during personal crisis."
-          },
-          {
-            "id": 2,
-            "text": "Unexpected hope in suffering",
-            "expansion": "The transformative moment when despair transitions to potential redemption."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability and surrender",
-            "expansion": "The spiritual breakthrough of admitting complete powerlessness before divine sovereignty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might one's perception of divine intervention change when experiencing circumstances beyond personal control?"
-      },
-      "moral_slider": {
-        "question": "What determines the boundary between divine punishment and divine rescue?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and redemption shifted?",
-        "options": [
-          "I see suffering as more purposeful",
-          "Divine intervention seems more nuanced",
-          "Personal accountability matters more",
-          "Spiritual resilience is profound"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine mercy persistently pursues those who initially resist",
           "Spiritual transformation often requires profound personal brokenness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Jonah said",
+            "ref": "v. 6",
+            "speaker": "Jonah"
+          },
+          {
+            "who": "Jonah said",
+            "ref": "v. 7",
+            "speaker": "Jonah"
+          }
+        ],
+        "question": "Put yourself in Jonah's place. You are sinking into the roots of the mountains and the earth has barred you in. What changes when you remember the LORD?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 86:13",
+        "summary": "Jonah says that in his distress he called to the LORD from the belly of Sheol, and the LORD heard his voice (v. 2). The psalmist says the LORD's loving devotion is great and has delivered him from the depths of Sheol.",
+        "question": "How does Psalm 86:13 help you understand Jonah's cry from the belly of Sheol?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "salvation is from the LORD",
+        "feeling": "anxiety, fear",
+        "object": "a situation I cannot control",
+        "behavior": "trying to fix it myself",
+        "step": "offer a prayer of thanks",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a situation I cannot control} and instead of {behavior:trying to fix it myself}, I will {step:offer a prayer of thanks}."
       }
     }
   }

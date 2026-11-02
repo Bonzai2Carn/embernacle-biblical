@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacrifice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intentional Physical Offering",
-            "expansion": "The deliberate presentation of an unblemished animal represents profound spiritual intentionality."
-          },
-          {
-            "id": 2,
-            "text": "Communal Ritual of Reconciliation",
-            "expansion": "Peace offerings symbolize restoration and harmony between human and divine relationships."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Transfer of Responsibility",
-            "expansion": "Laying hands on the sacrifice suggests a metaphysical transmission of personal accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacrifice is about transformation, what within you truly needs to be transformed?"
-      },
-      "moral_slider": {
-        "question": "How do ritualistic practices relate to genuine spiritual connection?",
-        "left_label": "External Ritual",
-        "right_label": "Internal Authenticity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacrifice evolved?",
-        "options": [
-          "More symbolic than literal",
-          "Deeper appreciation for ancient spiritual technologies",
-          "Recognize profound psychological dimensions",
-          "See ritualistic practices as metaphorical journeys"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding worship as relational, not transactional",
           "Emphasizing spiritual wholeness through consecration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one bringing the peace offering. You lay your hand on the animal's head and it is slaughtered. What do you understand when its fat is burned as a pleasing aroma to the LORD?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Colossians 1:20",
+        "summary": "The priests sprinkle the blood of the peace offering on all sides of the altar (v. 2). Paul says God made peace through the blood of Christ's cross (Colossians 1:20).",
+        "question": "How does Colossians 1:20 help you understand the peace offering in Leviticus 3?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "all the fat is the LORD's",
+        "feeling": "greed, possessiveness",
+        "object": "my best portions",
+        "behavior": "keeping the best for myself",
+        "step": "give my best to Him",
+        "template": "from today I let go of my {feeling:greed, possessiveness} over {object:my best portions} and instead of {behavior:keeping the best for myself}, I will {step:give my best to Him}."
       }
     }
   }

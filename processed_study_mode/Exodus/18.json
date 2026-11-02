@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership wisdom most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Delegation of Responsibility",
-            "expansion": "True leadership involves empowering others and distributing complex tasks strategically."
-          },
-          {
-            "id": 2,
-            "text": "Listening to External Advice",
-            "expansion": "Wisdom often comes from unexpected sources, even from those outside our immediate circle."
-          },
-          {
-            "id": 3,
-            "text": "Family Support in Mission",
-            "expansion": "Personal relationships can provide critical perspective and spiritual reinforcement during challenging journeys."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of leadership change if you viewed it as service rather than power?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal autonomy with structured guidance?",
-        "left_label": "Individual Initiative",
-        "right_label": "Hierarchical Structure"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collaborative leadership evolved?",
-        "options": [
-          "I now see value in diverse perspectives",
-          "I recognize the importance of mentorship",
-          "I understand leadership as a shared responsibility",
-          "I appreciate external wisdom more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Effective leadership requires systematic delegation of responsibilities",
           "Interpersonal relationships are critical channels of divine guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Moses' father-in-law Jethro asked",
+            "ref": "v. 14",
+            "speaker": "Moses’ father-in-law Jethro"
+          },
+          {
+            "who": "Moses replied",
+            "ref": "v. 15",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in Moses's place. Jethro asks why you sit alone as judge while the people stand around you from morning till evening. You answer that they come to inquire of God. What do you understand about your answer, and what do you still wonder?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Acts 6:1-7",
+        "summary": "Jethro tells Moses to select capable, trustworthy men and appoint them as leaders over the people (v. 21). In Acts 6 the Twelve have the disciples select seven men to oversee the daily food, so the Twelve can give themselves to prayer and the word (vv. 2-4).",
+        "question": "How does the selection of the seven men in Acts 6 help you understand why Jethro tells Moses to appoint leaders over the people?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "Moses listened to his father-in-law and did everything he said",
+        "feeling": "pride, stubbornness",
+        "object": "advice from a family member",
+        "behavior": "insisting on my own way",
+        "step": "seek counsel and act on it",
+        "template": "from today I let go of my {feeling:pride, stubbornness} over {object:advice from a family member} and instead of {behavior:insisting on my own way}, I will {step:seek counsel and act on it}."
       }
     }
   }

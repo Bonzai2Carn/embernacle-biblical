@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual warning resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Complacency in Prosperity",
-            "expansion": "Wealth can blind us to spiritual decay and impending judgment."
-          },
-          {
-            "id": 2,
-            "text": "False Sense of Security",
-            "expansion": "Political and territorial power do not guarantee divine protection."
-          },
-          {
-            "id": 3,
-            "text": "Moral Indifference",
-            "expansion": "Comfort can desensitize us to systemic injustice and spiritual decline."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When your material comfort becomes a barrier to spiritual sensitivity, how will you recognize the moment of your own spiritual disconnection?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and prophetic critique balance in spiritual life?",
-        "left_label": "Personal Comfort",
-        "right_label": "Prophetic Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual privilege changed?",
-        "options": [
-          "Recognized systemic spiritual blindness",
-          "Understood the danger of unchecked prosperity",
-          "Saw the importance of prophetic critique",
-          "Challenged my assumptions about divine favor"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Privilege can blind believers to systemic injustice",
           "Material success may substitute for genuine spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The prophet describes the feasters",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet charges them",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those lying on ivory beds and drinking wine by the bowlful. You are told you fail to grieve over the ruin of Joseph. What do you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "James 5:1-5",
+        "summary": "The people in Amos rejoice and ask, Did we not take Karnaim by our own strength? (v. 13). James speaks to the rich, warning that their riches have rotted and the cries of the harvesters have reached the ears of the Lord of Hosts.",
+        "question": "How does James's warning about wealth help you understand the danger of the boasting in Amos?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the people have turned justice into poison and the fruit of righteousness into wormwood",
+        "feeling": "indifference, apathy",
+        "object": "the suffering of others",
+        "behavior": "ignoring the needs of my neighbors",
+        "step": "seek a way to act with justice",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the suffering of others} and instead of {behavior:ignoring the needs of my neighbors}, I will {step:seek a way to act with justice}."
       }
     }
   }

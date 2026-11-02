@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational spiritual concept most intrigues you from this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Maturity",
-            "expansion": "Growth requires moving beyond initial teachings to deeper understanding."
-          },
-          {
-            "id": 2,
-            "text": "Divine Persistence",
-            "expansion": "God's promise remains steadfast even when human commitment wavers."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Accountability",
-            "expansion": "Repeated rejection of truth carries profound spiritual consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual transformation is a journey, what prevents someone from truly progressing beyond initial encounters with divine truth?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine grace and personal responsibility?",
-        "left_label": "Human Weakness",
-        "right_label": "Spiritual Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual growth?",
-        "options": [
-          "I see spiritual development as more complex",
-          "I recognize the importance of consistent commitment",
-          "I'm more aware of potential spiritual stagnation",
-          "I feel challenged to go deeper in my faith journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "This refers to those who were never truly regenerate, but appeared to be",
           "The warning is primarily about temporary spiritual backsliding, not permanent rejection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "vv. 4-6",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "vv. 9-10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the beloved readers. The author first says it is impossible to restore those who fall away, and then says God will not forget your work and the love you have shown. What do you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "James 1:4",
+        "summary": "Abraham obtained the promise after waiting patiently (v. 15). James 1:4 says to allow perseverance to finish its work so that you may be mature and complete.",
+        "question": "How does James 1:4 help you understand the patient waiting Abraham did in Hebrews 6:15?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "trust",
+        "because": "we have this hope as an anchor for the soul, firm and secure",
+        "feeling": "anxiety, dread",
+        "object": "a changing circumstance",
+        "behavior": "trying to control the outcome",
+        "step": "hold fast to this hope",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a changing circumstance} to God and instead of {behavior:trying to control the outcome}, I will {step:hold fast to this hope}."
       }
     }
   }

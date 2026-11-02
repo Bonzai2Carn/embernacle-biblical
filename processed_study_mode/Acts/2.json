@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of the Holy Spirit's manifestation intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Supernatural Language Phenomenon",
-            "expansion": "The ability to speak in languages previously unknown represents divine empowerment beyond human limitation."
-          },
-          {
-            "id": 2,
-            "text": "Unified Community Experience",
-            "expansion": "The disciples' collective spiritual encounter demonstrates the transformative power of communal spiritual alignment."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Manifestation",
-            "expansion": "The dramatic signs of wind and fire symbolize God's dramatic, unpredictable method of divine communication."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of spiritual experience change if divine encounters don't always match your preconceived expectations?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual experiences relate to collective spiritual transformation?",
-        "left_label": "Individual Encounter",
-        "right_label": "Community Renewal"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual empowerment shifted?",
-        "options": [
-          "More open to supernatural possibilities",
-          "Recognize importance of community in spiritual growth",
-          "Understand spiritual gifts as transformative, not performative",
-          "Appreciate unexpected methods of divine communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual empowerment is contingent upon corporate unity and collective surrender",
           "Supernatural manifestations validate the transformative power of Christ's redemptive mission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The crowd asked",
+            "ref": "v. 7",
+            "speaker": "The crowd"
+          },
+          {
+            "who": "Others mocked them and said",
+            "ref": "v. 13",
+            "speaker": "Unknown"
+          }
+        ],
+        "question": "Put yourself in the place of the crowd. You see something incredible happening, but others are calling it mere drunkenness. How do you decide which voice to believe?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Joel 2:28-29",
+        "summary": "Peter explains what the crowd sees by saying God will pour out His Spirit on all people (vv. 16-17). Joel 2:28-29 says God will pour out His Spirit on all people, and on sons and daughters, old men and young men, menservants and maidservants.",
+        "question": "How does Joel 2:28-29 help you understand the Spirit coming on the people in vv. 16-17?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "practice",
+        "because": "the believers devoted themselves to the apostles' teaching and to the fellowship",
+        "feeling": "loneliness, isolation",
+        "object": "a new community",
+        "behavior": "withdrawing into myself",
+        "step": "reach out to a brother",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a new community} and instead of {behavior:withdrawing into myself}, I will {step:reach out to a brother}."
       }
     }
   }

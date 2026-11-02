@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which concept from the disciples' mission resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The spiritual harvest is abundant",
-            "expansion": "God's redemptive work is always greater than human perception or capacity"
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability as spiritual strategy",
-            "expansion": "Spiritual power emerges through deliberate dependence and humility"
-          },
-          {
-            "id": 3,
-            "text": "Peace as a spiritual currency",
-            "expansion": "Offering peace transcends transactional human interactions"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mission requires radical trust, what personal securities are you unwilling to surrender?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual preparedness with spiritual spontaneity?",
-        "left_label": "Careful Planning",
-        "right_label": "Radical Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian mission transformed?",
-        "options": [
-          "More aware of spiritual warfare",
-          "Recognize personal vulnerability as strength",
-          "Understand mission as relational, not transactional",
-          "See prayer as strategic deployment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ministerial effectiveness is primarily determined by individual talents",
           "Spiritual work is a collaborative effort between human initiative and divine power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "An expert in the law asked",
+            "ref": "v. 25",
+            "speaker": "An expert in the law"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 26",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the expert in the law. You ask what you must do to inherit eternal life, and Jesus turns the question back to you: What is written in the Law? How do you read it? What does His question make you examine about your own reading of the Law?"
+      },
+      "chain": {
+        "after": 37,
+        "ref": "James 2:13",
+        "summary": "The expert names the one who showed mercy, and Jesus tells him to go and do likewise (v. 37). James 2:13 says judgment without mercy will be shown to anyone who has not been merciful, and that mercy triumphs over judgment.",
+        "question": "How does James 2:13 help you understand the mercy Jesus tells the expert to do likewise in Luke 10:37?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "devotion",
+        "because": "only one thing is necessary",
+        "feeling": "anxiety, restlessness",
+        "object": "my many responsibilities",
+        "behavior": "rushing through my prayers",
+        "step": "sit quietly at His feet",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my many responsibilities} and instead of {behavior:rushing through my prayers}, I will {step:sit quietly at His feet}."
       }
     }
   }

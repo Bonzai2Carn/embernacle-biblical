@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine providence resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's presence transcends circumstances",
-            "expansion": "Joseph's success suggests divine favor operates independently of external conditions"
-          },
-          {
-            "id": 2,
-            "text": "Integrity matters more than immediate outcomes",
-            "expansion": "Joseph's moral stance demonstrates character is defined by choices, not consequences"
-          },
-          {
-            "id": 3,
-            "text": "Adversity can be a pathway to unexpected destiny",
-            "expansion": "Joseph's slavery becomes a strategic positioning for future leadership"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might one's spiritual resilience transform seemingly hopeless situations?"
-      },
-      "moral_slider": {
-        "question": "What determines personal integrity when facing powerful temptation?",
-        "left_label": "Survival/Compromise",
-        "right_label": "Principled Resistance"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of divine guidance?",
-        "options": [
-          "Providence is more complex than simple reward/punishment",
-          "Character is formed through trials, not avoided by them",
-          "Spiritual faithfulness doesn't guarantee immediate comfort",
-          "Success is not always measured by current circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithfulness attracts supernatural protection and guidance",
           "Spiritual integrity creates unexpected opportunities for influence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "His master’s wife asked Joseph",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Joseph said",
+            "ref": "v. 9",
+            "speaker": "Joseph"
+          }
+        ],
+        "question": "Put yourself in Joseph's place. Your master's wife asks you to sleep with her, and your master has held back nothing from you except her. What do you weigh before you answer?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "1 Corinthians 10:13",
+        "summary": "Joseph leaves his cloak in her hand and runs out of the house (v. 12). Paul says God will not let you be tempted beyond what you can bear, and He provides an escape so you can stand up under it (1 Corinthians 10:13).",
+        "question": "How does Paul's promise of an escape help you understand why Joseph ran from the house?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "surrender",
+        "because": "Joseph asked how he could do such a great evil and sin against God",
+        "feeling": "desire, temptation",
+        "object": "a tempting offer",
+        "behavior": "giving in to the pull",
+        "step": "walk away from the temptation",
+        "template": "from today I release my {feeling:desire, temptation} over {object:a tempting offer} and instead of {behavior:giving in to the pull}, I will {step:walk away from the temptation}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacrifice and redemption resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Imperfect Sacrificial System",
-            "expansion": "The repeated animal sacrifices reveal humanity's ongoing struggle with sin and inadequate atonement."
-          },
-          {
-            "id": 2,
-            "text": "Christ's Perfect Sacrifice",
-            "expansion": "Jesus' singular, complete offering transforms the entire transactional approach to relationship with God."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Transformation",
-            "expansion": "True redemption requires internal change, not merely external ritual."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If repeated sacrifices could never truly cleanse, what deeper spiritual mechanism must exist for genuine reconciliation with the divine?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between human effort and divine grace?",
-        "left_label": "Human Works",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption evolved?",
-        "options": [
-          "Recognized limitation of ritualistic approaches",
-          "Appreciated Christ's transformative sacrifice",
-          "Understood grace as relational, not transactional",
-          "Saw personal transformation as core spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Enables genuine internal transformation, not merely external ritual compliance",
           "Introduces a covenant of grace replacing legalistic performance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "The Lord adds",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those receiving this new covenant. What does it mean for your life that God promises to remember your sins and lawless acts no more?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Colossians 2:17",
+        "summary": "The author says the law is only a shadow of the good things to come, not the realities themselves (v. 1). Colossians 2:17 says these are a shadow of the things to come, but the body that casts it belongs to Christ.",
+        "question": "How does Colossians 2:17 help you see the relationship between the shadow and the reality in verse 1?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "devotion",
+        "because": "He who promised is faithful",
+        "feeling": "doubt, uncertainty",
+        "object": "the future of my family",
+        "behavior": "worrying about every outcome",
+        "step": "rest in His character",
+        "template": "from today I let go of my {feeling:doubt, uncertainty} over {object:the future of my family} and instead of {behavior:worrying about every outcome}, I will {step:rest in His character}."
       }
     }
   }

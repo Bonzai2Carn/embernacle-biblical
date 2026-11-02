@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine redemption most resonates with you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Unexpected Mercy",
-            "expansion": "God's willingness to transform an entire hostile city through one messenger reveals radical compassion."
-          },
-          {
-            "id": "2",
-            "text": "Collective Repentance",
-            "expansion": "The entire population of Nineveh responding simultaneously demonstrates how communal transformation can occur."
-          },
-          {
-            "id": "3",
-            "text": "Second Chances",
-            "expansion": "Jonah's own redemptive journey parallels Nineveh's, highlighting God's patience with human weakness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mercy can extend to a city known for its violence and cruelty, what limits might exist to genuine spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal prejudice and divine mission intersect?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on redemption shifted after reflecting on Jonah's experience?",
-        "options": [
-          "I see transformation as more possible",
-          "I recognize the complexity of divine intervention",
-          "I understand mercy differently",
-          "I'm more aware of my own spiritual blind spots"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Repentance is possible even for societies considered irredeemable",
           "Divine patience often precedes divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jonah proclaimed",
+            "ref": "v. 4",
+            "speaker": "Jonah"
+          },
+          {
+            "who": "The Ninevites believed God",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Ninevites. You hear that Nineveh will be overturned in forty more days. What would you weigh as you decide to believe God and proclaim a fast?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Joel 2:13",
+        "summary": "The king of Nineveh calls for everyone to call out earnestly to God and turn from their evil ways and the violence in their hands (v. 8). Joel says to rend your hearts and not your garments and return to the LORD, who is gracious and compassionate, slow to anger, abounding in loving devotion.",
+        "question": "How does Joel's call to rend the heart help you understand the king's command to turn from violence?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "everyone must call out earnestly to God and turn from his evil ways",
+        "feeling": "guilt, shame",
+        "object": "a recurring mistake",
+        "behavior": "hiding from others",
+        "step": "confess it to God",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recurring mistake} and instead of {behavior:hiding from others}, I will {step:confess it to God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mercy over Vengeance",
-            "expansion": "David chooses restraint when given an opportunity to harm Saul, demonstrating profound spiritual maturity."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence",
-            "expansion": "God strategically positions David to demonstrate character while protecting him from Saul's pursuit."
-          },
-          {
-            "id": 3,
-            "text": "Integrity under Pressure",
-            "expansion": "David maintains ethical boundaries even when facing persistent persecution and threat."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you had absolute power over an enemy who has wronged you, what would reveal more about your character: your capacity for revenge or your ability to show mercy?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival and ethical principles interact when facing mortal threat?",
-        "left_label": "Self-Preservation",
-        "right_label": "Moral Integrity"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of conflict resolution?",
-        "options": [
-          "Revenge is never justified",
-          "Mercy can be a strategic response",
-          "Leadership is demonstrated through restraint",
-          "Spiritual principles transcend immediate survival"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek legal or institutional protection",
           "Pray for the transformation of those who oppose you"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Abishai said to David",
+            "ref": "v. 8",
+            "speaker": "Abishai"
+          },
+          {
+            "who": "David said to Abishai",
+            "ref": "v. 9",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in Abishai's place. You say God has delivered your enemy into your hand and offer to strike him with one stroke. David answers, 'Do not destroy him, for who can lift a hand against the LORD's anointed and be guiltless?' What do you weigh in that answer?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Romans 12:19",
+        "summary": "Abishai sees an opportunity for immediate justice through violence (v. 8). Paul tells believers to leave vengeance to God (Romans 12:19).",
+        "question": "How does Paul's instruction help you understand why David refused to strike Saul himself?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "the LORD delivered Saul into my hand today, but I would not stretch out my hand against the LORD’s anointed",
+        "feeling": "bitterness, resentment",
+        "object": "someone who mistreated me",
+        "behavior": "seeking my own revenge",
+        "step": "trust God to repay",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:someone who mistreated me} and instead of {behavior:seeking my own revenge}, I will {step:trust God to repay}."
       }
     }
   }

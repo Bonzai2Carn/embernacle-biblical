@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative concept resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Imitating God's Love",
-            "expansion": "Understanding divine love as a radical, sacrificial model for human relationships."
-          },
-          {
-            "id": 2,
-            "text": "Walking in Light",
-            "expansion": "Recognizing personal spiritual transparency as a pathway to authentic transformation."
-          },
-          {
-            "id": 3,
-            "text": "Mutual Submission",
-            "expansion": "Embracing vulnerability and humility as spiritual strength, not weakness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If love is truly the highest spiritual practice, how might that fundamentally challenge your current relational paradigms?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires intersect with spiritual integrity?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual living shifted?",
-        "options": [
-          "More aware of intentional spiritual choices",
-          "Recognize deeper interconnectedness",
-          "See relationships as spiritual opportunities",
-          "Understanding grace more profoundly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Legalistic adherence to moral rules",
           "Mystical spiritual experiences disconnected from practical living"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Paul says you were once darkness",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "Paul names the fruit of the light",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone told you were once darkness but are now light in the Lord. What do you understand about the fruit the light is meant to bear?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Galatians 5:22-23",
+        "summary": "Paul tells the Ephesians not to get drunk but to be filled with the Spirit (v. 18). Galatians names what the Spirit produces: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
+        "question": "How does Galatians 5:22-23 help you understand what it means to be filled with the Spirit in Ephesians?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the wise pay careful attention to how they walk, not as the unwise",
+        "feeling": "anxiety, fear",
+        "object": "the chaos in the news",
+        "behavior": "scrolling through social media",
+        "step": "seek what pleases the Lord",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the chaos in the news} and instead of {behavior:scrolling through social media}, I will {step:seek what pleases the Lord}."
       }
     }
   }

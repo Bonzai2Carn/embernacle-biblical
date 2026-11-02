@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine revelation strikes you most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Burning Bush",
-            "expansion": "A metaphor for God's presence that transforms without destruction, signaling something supernatural and transcendent."
-          },
-          {
-            "id": 2,
-            "text": "Divine Calling of Moses",
-            "expansion": "The transformative moment when an ordinary shepherd becomes an instrument of divine liberation."
-          },
-          {
-            "id": 3,
-            "text": "God's Intimate Knowledge",
-            "expansion": "The revelation that God sees, knows, and remembers the suffering of His people intimately."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God were to speak to you through an extraordinary, impossible phenomenon, would you truly listen or rationalize the experience away?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations intersect with divine purpose?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of divine communication?",
-        "options": [
-          "I see divine encounters as more possible now",
-          "I recognize personal reluctance in responding to calling",
-          "I understand divine purposes transcend human perception",
-          "I'm more aware of spiritual metaphors in everyday experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal limitations do not restrict God's transformative power",
           "Spiritual calling requires personal humility and surrender"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Moses asked God",
+            "ref": "v. 11",
+            "speaker": "Moses"
+          },
+          {
+            "who": "God said",
+            "ref": "v. 12",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Moses's place, feeling small and unqualified for such a task. What does God's promise to be with you tell you about who carries the task?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Jeremiah 1:5-8",
+        "summary": "God reveals His eternal name to Moses (v. 14) and declares He knew Jeremiah before his birth (Jeremiah 1:5). Both men face a heavy calling and a sense of inadequacy.",
+        "question": "How does Jeremiah's experience with his own youth and lack of words help you understand Moses's doubt about his identity?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "the place where you are standing is holy ground",
+        "feeling": "distraction, carelessness",
+        "object": "my morning prayer",
+        "behavior": "rushing through the words",
+        "step": "pause and acknowledge His presence",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:my morning prayer} and instead of {behavior:rushing through the words}, I will {step:pause and acknowledge His presence}."
       }
     }
   }

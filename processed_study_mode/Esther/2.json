@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of personal transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mordecai's protective guidance",
-            "expansion": "True leadership sometimes means guiding from behind the scenes without direct authority."
-          },
-          {
-            "id": 2,
-            "text": "Esther's strategic adaptation",
-            "expansion": "Personal survival can require intelligent compromise without losing core identity."
-          },
-          {
-            "id": 3,
-            "text": "The complex royal selection process",
-            "expansion": "Systems of power often reduce human beings to objects of evaluation and selection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In a system that seems to objectify individuals, how do personal agency and human dignity emerge?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival and ethical integrity balance when confronting systemic oppression?",
-        "left_label": "Pragmatic Survival",
-        "right_label": "Moral Absolutism"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of resilience shifted after examining Esther's story?",
-        "options": [
-          "Resilience requires strategic adaptation",
-          "Integrity can coexist with compromise",
-          "Personal transformation happens within complex systems",
-          "Unseen guidance can be profoundly protective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty and human responsibility coexist mysteriously",
           "Circumstances are purely coincidental"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The king's attendants proposed",
+            "ref": "v. 2",
+            "speaker": "The king’s attendants"
+          },
+          {
+            "who": "The king's attendants add",
+            "ref": "v. 4",
+            "speaker": "The king’s attendants"
+          }
+        ],
+        "question": "Imagine you are one of the king's attendants. You propose a search for beautiful young virgins, and the young woman who pleases the king will become queen. What would you weigh before the king acts on it?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Proverbs 16:9",
+        "summary": "The king's search for a new queen ends with Esther taken to the king and made queen (vv. 16-17). Proverbs says a man's heart plans his course, but the LORD determines his steps.",
+        "question": "How does Proverbs 16:9 help you understand the king's search and the choice of Esther in this chapter?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "Esther did not reveal her people or her lineage as Mordecai had instructed her",
+        "feeling": "anxiety, fear",
+        "object": "my uncertain future",
+        "behavior": "trying to control the narrative",
+        "step": "follow the instructions I have been given",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:my uncertain future} and instead of {behavior:trying to control the narrative}, I will {step:follow the instructions I have been given}."
       }
     }
   }

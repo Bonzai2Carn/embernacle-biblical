@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of divine protection resonates most deeply?",
-        "choices": [
-          {
-            "id": "hope",
-            "text": "Hope in God's eternal faithfulness",
-            "expansion": "Divine reliability transcends human limitations and temporal challenges."
-          },
-          {
-            "id": "justice",
-            "text": "God's commitment to justice for the oppressed",
-            "expansion": "The Creator uniquely champions those marginalized by societal power structures."
-          },
-          {
-            "id": "dependency",
-            "text": "Human vulnerability without divine support",
-            "expansion": "Human agency is fundamentally contingent upon spiritual sustenance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is unconditional, what personal responsibility remains for human agency and ethical action?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human effort with divine providence?",
-        "left_label": "Individual Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual dependency evolved?",
-        "options": [
-          "Recognize personal limitations",
-          "Appreciate divine sovereignty",
-          "Understand interconnectedness",
-          "Embrace spiritual humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual trust supersedes material security",
           "Eternal hope is more significant than temporal circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist warns",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the psalmist. You commit to lifelong praise, yet you immediately warn against trusting in human leaders. How do these two impulses live together in your heart?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 68:5-6",
+        "summary": "The psalmist says the LORD sustains the fatherless and the widow (v. 9). Psalm 68:5-6 calls God a father of the fatherless and defender of widows, who settles the lonely in families.",
+        "question": "How does Psalm 68:5-6 help you understand the LORD who sustains the fatherless and the widow (v. 9)?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "mortal man cannot save",
+        "feeling": "anxiety, fear",
+        "object": "the decisions of leaders",
+        "behavior": "looking for human solutions",
+        "step": "rest in God's sovereignty",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the decisions of leaders} and instead of {behavior:looking for human solutions}, I will {step:rest in God's sovereignty}."
       }
     }
   }

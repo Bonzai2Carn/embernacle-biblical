@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Humility in social settings",
-            "expansion": "True greatness emerges from positioning oneself lower, not seeking highest honor."
-          },
-          {
-            "id": 2,
-            "text": "Cost of discipleship",
-            "expansion": "Following Christ requires radical commitment beyond comfortable social conventions."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected kingdom invitations",
-            "expansion": "God's grace extends beyond traditional social boundaries to marginalized individuals."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you extend hospitality, are you seeking reciprocation or genuine connection?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and spiritual commitment balance?",
-        "left_label": "Personal Convenience",
-        "right_label": "Radical Discipleship"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual priorities?",
-        "options": [
-          "I recognize my tendency to seek social status",
-          "I'm more aware of genuine hospitality's meaning",
-          "I see discipleship as costlier than before",
-          "I'm challenged to look beyond my immediate social circle"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenging systemic religious power structures",
           "Demonstrating God's inclusive love beyond cultural boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jesus asked the experts in the law and the Pharisees",
+            "ref": "v. 3",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "They remained silent",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one of the Pharisees watching Him. He asks whether it is lawful to heal on the Sabbath or not, and you say nothing. What do you weigh as He takes hold of the man and heals him?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Proverbs 25:6-7",
+        "summary": "Jesus notices how the guests chose the places of honor and tells them a parable (v. 7). Proverbs 25:6-7 says not to exalt yourself in the presence of the king, for it is better to be told 'Come up here!' than to be demoted.",
+        "question": "How does Proverbs 25:6-7 help you understand the parable Jesus tells the guests who chose places of honor in Luke 14:7?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "surrender",
+        "because": "any one of you who does not give up everything he has cannot be My disciple",
+        "feeling": "clinging, fear",
+        "object": "my personal comforts",
+        "behavior": "hoarding my resources",
+        "step": "use what I have to serve others",
+        "template": "from today I release my {feeling:clinging, fear} over {object:my personal comforts} and instead of {behavior:hoarding my resources}, I will {step:use what I have to serve others}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine guidance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Historical Demonstrations of Power",
-            "expansion": "Recognizing divine intervention through past miraculous events shapes current understanding of spiritual relationship."
-          },
-          {
-            "id": 2,
-            "text": "Covenant as Continuous Commitment",
-            "expansion": "The ongoing nature of God's relationship requires perpetual love and obedience, not just momentary compliance."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Transmission",
-            "expansion": "Theological understanding is not just personal but a communal legacy passed through generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine guidance is constant, why do individuals still experience uncertainty and struggle?"
-      },
-      "moral_slider": {
-        "question": "How do personal agency and divine predetermined path coexist?",
-        "left_label": "Human Free Will",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual inheritance transformed?",
-        "options": [
-          "Deeper appreciation of historical spiritual narratives",
-          "Increased understanding of personal responsibility",
-          "Recognition of interconnected spiritual experiences",
-          "Awareness of continuous divine engagement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational storytelling reinforces spiritual identity",
           "Individual experiences can supplement but not replace scriptural revelation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 28,
+        "exchange": [
+          {
+            "who": "Moses sets out",
+            "ref": "v. 27",
+            "speaker": ""
+          },
+          {
+            "who": "Moses warns",
+            "ref": "v. 28",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those standing before these two paths. What does the choice between these two outcomes force you to weigh?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Psalm 78:5-7",
+        "summary": "Moses tells the people to teach these words to their children at home, on the road, lying down and getting up (v. 19). Psalm 78 says the fathers were commanded to teach their children so the coming generation would know them and tell their own children (Psalm 78:5-6).",
+        "question": "How does Psalm 78:5-7 help you understand what the teaching in verse 19 is meant to pass on?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "these words are to be fixed in your hearts and minds",
+        "feeling": "distraction, apathy",
+        "object": "the noise of my day",
+        "behavior": "letting my mind wander",
+        "step": "repeat a truth aloud",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the noise of my day} and instead of {behavior:letting my mind wander}, I will {step:repeat a truth aloud}."
       }
     }
   }

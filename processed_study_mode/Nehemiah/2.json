@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional journey resonates most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Risk for Collective Purpose",
-            "expansion": "Nehemiah risks his position and safety to advocate for his people's restoration."
-          },
-          {
-            "id": 2,
-            "text": "Divine Timing and Providence",
-            "expansion": "Nehemiah's strategic moment emerges precisely when the king is receptive."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability as Strength",
-            "expansion": "Nehemiah's authentic emotional honesty opens unexpected opportunities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible barriers prevent individuals from pursuing transformative community healing?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and communal responsibility balance?",
-        "left_label": "Personal Safety",
-        "right_label": "Collective Mission"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of leadership?",
-        "options": [
-          "Leadership requires emotional vulnerability",
-          "Strategic planning matters more than dramatic gestures",
-          "Personal passion can transform systemic challenges",
-          "Divine timing trumps human strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation requires simultaneous divine and human cooperation",
           "Leadership emerges through strategic emotional intelligence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The king asked why Nehemiah looked sad",
+            "ref": "v. 2",
+            "speaker": "The king"
+          },
+          {
+            "who": "Nehemiah asked the king to send him to Judah",
+            "ref": "v. 5",
+            "speaker": "Nehemiah"
+          }
+        ],
+        "question": "Put yourself in Nehemiah's place. The king sees that your face is sad and asks you why. What would you weigh before you answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Proverbs 21:1",
+        "summary": "The king grants Nehemiah's requests because the gracious hand of God was upon him (v. 8). Proverbs says the king's heart is a waterway in the hand of the LORD, and He directs it where He pleases (Proverbs 21:1).",
+        "question": "How does Proverbs 21:1 help you understand why the king granted Nehemiah's requests?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "trust",
+        "because": "the God of heaven is the One who will grant us success",
+        "feeling": "anxiety, doubt",
+        "object": "the mockers around me",
+        "behavior": "shrinking from their ridicule",
+        "step": "keep building the wall with my hands",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:the mockers around me} to God and instead of {behavior:shrinking from their ridicule}, I will {step:keep building the wall with my hands}."
       }
     }
   }

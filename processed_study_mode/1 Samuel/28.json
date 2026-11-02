@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Abandonment",
-            "expansion": "When spiritual connection is severed, humans seek alternative guidance."
-          },
-          {
-            "id": 2,
-            "text": "Desperate Spiritual Searching",
-            "expansion": "In moments of crisis, people often turn to unconventional spiritual pathways."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Judgment",
-            "expansion": "Past actions inevitably converge with predetermined spiritual consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine communication seems silent, what determines the legitimacy of alternative spiritual inquiries?"
-      },
-      "moral_slider": {
-        "question": "How do desperation and spiritual integrity interact when facing existential threats?",
-        "left_label": "Pragmatic Survival",
-        "right_label": "Spiritual Principles"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual guidance shifted after examining this chapter?",
-        "options": [
-          "I recognize the dangers of seeking unauthorized spiritual connections",
-          "I understand the complexity of divine judgment more deeply",
-          "I see how fear can drive people to desperate spiritual measures",
-          "I appreciate the nuanced nature of prophetic communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Supernatural encounters must be rigorously tested against scriptural standards",
           "Personal spiritual discernment is crucial in evaluating supernatural experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Saul inquired of the LORD and got no answer",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Saul told his servants to find a medium",
+            "ref": "v. 7",
+            "speaker": "Saul"
+          }
+        ],
+        "question": "Put yourself in Saul's place. You inquire of the LORD, and He does not answer by dreams, Urim, or prophets. Then you ask your servants for a medium. What do you understand about where you turn next?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Isaiah 8:19-20",
+        "summary": "Saul turns to a medium at Endor after the LORD gives no answer (vv. 6-7). Isaiah asks why a people would consult the dead for the living instead of their God, and points them to the law and the testimony (Isaiah 8:19-20).",
+        "question": "How does Isaiah 8:19-20 help you understand the difference between Saul's turn to a medium and the LORD's word?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "surrender",
+        "because": "the LORD did not answer Saul by dreams, Urim, or prophets",
+        "feeling": "fear, dread",
+        "object": "the silence of God",
+        "behavior": "seeking answers from other sources",
+        "step": "search His word for an answer",
+        "template": "from today I release my {feeling:fear, dread} over {object:the silence of God} and instead of {behavior:seeking answers from other sources}, I will {step:search His word for an answer}."
       }
     }
   }

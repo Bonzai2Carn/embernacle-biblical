@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership quality most resonates with Hezekiah's example?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Courageous Reformation",
-            "expansion": "Removing idolatrous practices requires profound moral conviction and personal risk."
-          },
-          {
-            "id": 2,
-            "text": "Trusting in Divine Protection",
-            "expansion": "Hezekiah's faith manifests through confidence in God's intervention against overwhelming military threats."
-          },
-          {
-            "id": 3,
-            "text": "Systematic Spiritual Renewal",
-            "expansion": "Comprehensive religious restoration begins with intentional, systemic dismantling of corrupt spiritual infrastructures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine spiritual transformation differ from merely performing external religious rituals?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious leaders challenge existing cultural and political structures?",
-        "left_label": "Accommodation",
-        "right_label": "Radical Reformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved after examining Hezekiah's example?",
-        "options": [
-          "More appreciative of principled resistance",
-          "Recognize complexity of systemic change",
-          "Understand importance of personal integrity",
-          "See faith as an active, transformative force"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals the transformative potential of principled, faith-driven governance",
           "Highlights the importance of generational spiritual reformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Hezekiah sent word to the king of Assyria",
+            "ref": "v. 14",
+            "speaker": "Hezekiah king of Judah"
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. You send word that you have done wrong and will pay whatever is demanded. What would you weigh in choosing to pay, knowing the king of Assyria exacts three hundred talents of silver and thirty talents of gold?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "2 Chronicles 29:3-11",
+        "summary": "Hezekiah removes the high places, the sacred pillars and the Asherah poles (v. 4). 2 Chronicles 29:3-11 says that in the first month of his reign he opened and repaired the doors of the house of the LORD and called the Levites to consecrate it.",
+        "question": "How does Hezekiah's opening of the house of the LORD in Chronicles help you understand the king who removes the high places in verse 4?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "Hezekiah trusted in the LORD, the God of Israel",
+        "feeling": "anxiety, dread",
+        "object": "a looming threat",
+        "behavior": "looking for human exits",
+        "step": "rest in His proven faithfulness",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a looming threat} and instead of {behavior:looking for human exits}, I will {step:rest in His proven faithfulness}."
       }
     }
   }

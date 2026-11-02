@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine protection resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "God as an Impenetrable Fortress",
-            "expansion": "The psalm portrays God's city as fundamentally unassailable, symbolizing spiritual security beyond physical walls."
-          },
-          {
-            "id": "B",
-            "text": "Divine Reputation and Glory",
-            "expansion": "The psalm emphasizes how God's renown extends beyond immediate circumstances into eternal remembrance."
-          },
-          {
-            "id": "C",
-            "text": "Collective Spiritual Witness",
-            "expansion": "The communal perspective of praising God suggests spiritual strength emerges through shared testimony."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is so absolute, why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal reverence with communal worship?",
-        "left_label": "Individual Spirituality",
-        "right_label": "Collective Devotion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual security evolved?",
-        "options": [
-          "More aware of symbolic versus literal protection",
-          "Recognize communal strength in faith",
-          "Understand divine glory differently",
-          "Appreciate metaphorical spiritual landscapes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Territorial claims are secondary to spiritual realities",
           "Divine protection is metaphorical rather than literal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people of the city. You hear that the LORD is great and greatly to be praised (v. 1). What do you weigh when you find that what you heard is what you have seen, and that God will establish her forever (v. 8)?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 46:1-3",
+        "summary": "The psalmist says God will establish the city of the LORD forever (v. 8). Psalm 46:1-3 says God is a refuge and strength, and we will not fear though the earth is transformed and the mountains topple into the seas.",
+        "question": "How does Psalm 46:1-3 help you understand God establishing His city forever (v. 8)?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "He will be our guide even till death",
+        "feeling": "anxiety, dread",
+        "object": "the unknown future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His direction",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the unknown future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His direction}."
       }
     }
   }

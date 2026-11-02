@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine characteristic resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Patience",
-            "expansion": "God continues to extend mercy despite repeated human rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Transformative Promise",
-            "expansion": "God envisions a radical renewal beyond current human brokenness."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Judgment",
-            "expansion": "Divine accountability confronts systemic spiritual unfaithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine longing for relationship challenge your understanding of spiritual distance?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the tension between divine judgment and divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine restoration shifted?",
-        "options": [
-          "More aware of God's persistent love",
-          "Recognize complexity of spiritual reconciliation",
-          "Understand judgment as redemptive process",
-          "See hope beyond current circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation supersedes ritualistic religious practices",
           "Salvation is fundamentally about relationship, not rigid compliance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The Lord GOD says",
+            "ref": "v. 13",
+            "speaker": "The Lord GOD"
+          }
+        ],
+        "question": "Put yourself in the place of those who chose what does not delight God. How does the contrast between the hunger of the forsakers and the eating of the servants change how you view the consequences of your own choices?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Revelation 21:4-5",
+        "summary": "The LORD promises to create new heavens and a new earth, and the former things will not be remembered (v. 17). Revelation 21:4-5 says He will wipe away every tear, the former things have passed away, and the One on the throne says, 'Behold, I make all things new.'",
+        "question": "How does Revelation 21:4-5 help you understand the new heavens and new earth in Isaiah 65:17?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "devotion",
+        "because": "the LORD answers even before they call and hears while they are still speaking",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "waiting in silence",
+        "step": "speak my needs to Him",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:waiting in silence}, I will {step:speak my needs to Him}."
       }
     }
   }

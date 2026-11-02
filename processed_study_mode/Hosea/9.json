@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual concept resonates most deeply from Hosea's judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Betrayal",
-            "expansion": "Israel's unfaithfulness creates a profound rupture in covenant relationship"
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Prostitution",
-            "expansion": "Idolatry represents a systematic rejection of God's exclusive love"
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Apostasy",
-            "expansion": "Turning from God inevitably leads to spiritual and material devastation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is unconditional, how can judgment simultaneously exist as a legitimate expression of that love?"
-      },
-      "moral_slider": {
-        "question": "How do individual choices impact collective spiritual destiny?",
-        "left_label": "Personal Freedom",
-        "right_label": "Community Accountability"
-      },
-      "reevaluation": {
-        "question": "After reflecting on Hosea 9, how has your understanding of divine relationship shifted?",
-        "options": [
-          "I see God's judgment as more nuanced",
-          "I recognize collective spiritual responsibility",
-          "I understand covenant as deeply relational",
-          "I'm more aware of spiritual consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine correction serves as a prophetic warning to future generations",
           "Judgment reveals God's ultimate sovereignty over human rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The prophet declares",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. The days of punishment have come, and the prophet is called a fool and the inspired man insane. What do you weigh about the reason given, the greatness of your iniquity and hostility?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Jeremiah 3:8-10",
+        "summary": "Hosea says Israel has played the harlot against her God, so she must not rejoice like the nations (v. 1). Jeremiah tells how faithless Israel committed adultery and was sent away, while her sister Judah did the same (Jeremiah 3:8).",
+        "question": "How does Jeremiah's account of Israel's adultery help you understand why Hosea tells Israel not to rejoice?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "the greatness of my iniquity and hostility has brought the days of punishment",
+        "feeling": "guilt, dread",
+        "object": "a grudge I refuse to release",
+        "behavior": "hiding my grudge from others",
+        "step": "name the grudge to a trusted friend",
+        "template": "from today I bring my {feeling:guilt, dread} about {object:a grudge I refuse to release} into the light and instead of {behavior:hiding my grudge from others}, I will {step:name the grudge to a trusted friend}."
       }
     }
   }

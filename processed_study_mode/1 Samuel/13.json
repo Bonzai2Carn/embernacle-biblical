@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about leadership from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Saul's Impatience",
-            "expansion": "Leadership often requires restraint and trusting divine timing over personal urgency."
-          },
-          {
-            "id": 2,
-            "text": "Jonathan's Bold Initiative",
-            "expansion": "Courageous individual actions can spark broader transformational moments."
-          },
-          {
-            "id": 3,
-            "text": "Military Unpreparedness",
-            "expansion": "Strategic vulnerability can emerge from disorganized or fractured leadership structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does strategic waiting become passive weakness, and when does immediate action become reckless impetuousness?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and divine calling intersect in leadership?",
-        "left_label": "Human Strategy",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on leadership change after reflecting on this chapter?",
-        "options": [
-          "Leadership requires more patience",
-          "Individual courage matters more than institutional power",
-          "Spiritual discernment is crucial in decision-making",
-          "Military strength is less important than moral integrity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God values obedience over religious performance",
           "Leadership is a sacred trust that demands humility and submission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Saul explained",
+            "ref": "vv. 11-12",
+            "speaker": "Saul"
+          },
+          {
+            "who": "Samuel declared",
+            "ref": "v. 13",
+            "speaker": "Samuel"
+          }
+        ],
+        "question": "Put yourself in Saul's place. You saw the troops deserting and the Philistines gathering, so you felt compelled to offer the burnt offering. What do you understand about the difference between your reason and Samuel's verdict?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "1 Samuel 15:22",
+        "summary": "Saul says he felt compelled to offer the burnt offering (v. 12), and Samuel says he has not kept the LORD's command (v. 13). In 1 Samuel 15:22 Samuel asks whether the LORD delights in burnt offerings as much as in obedience to His voice, and says obedience is better than sacrifice.",
+        "question": "How does 1 Samuel 15:22 help you understand the gap between Saul's reason and Samuel's verdict?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "I felt compelled to offer the burnt offering",
+        "feeling": "anxiety, pressure",
+        "object": "a looming deadline",
+        "behavior": "cutting corners to finish",
+        "step": "wait for the Lord's timing",
+        "template": "from today I let go of my {feeling:anxiety, pressure} over {object:a looming deadline} and instead of {behavior:cutting corners to finish}, I will {step:wait for the Lord's timing}."
       }
     }
   }

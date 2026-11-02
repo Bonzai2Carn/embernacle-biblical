@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle most resonates with your current journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "True Contentment",
-            "expansion": "Discovering wealth is not material possession, but spiritual sufficiency in Christ."
-          },
-          {
-            "id": 2,
-            "text": "Servant Leadership",
-            "expansion": "Honoring authority creates a witness that glorifies God's transformative power."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Warfare Against Pride",
-            "expansion": "Combating theological arrogance requires humility and genuine scriptural understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If material wealth is not the measure of spiritual success, what truly defines a life of meaningful abundance?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and godly contentment coexist?",
-        "left_label": "Worldly Achievement",
-        "right_label": "Spiritual Satisfaction"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prosperity and purpose shifted?",
-        "options": [
-          "I now see wealth as a stewardship, not a destination",
-          "Servant heart matters more than personal status",
-          "Theological understanding requires continuous humility",
-          "Spiritual growth transcends economic measurements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize all work as a potential ministry opportunity",
           "Balance personal ambition with kingdom-focused perspectives"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Paul says those who want to be rich fall into temptation",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says the love of money is the root of all kinds of evil",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone craving more. You hear that those who want to be rich are ensnared by many foolish and harmful desires that plunge them into ruin, and that craving money has pierced some with many sorrows. What do you make of that?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Matthew 6:19-21",
+        "summary": "Paul teaches that having food and clothing is enough for contentment (v. 8). Jesus teaches that where you store your treasure determines where your heart is located.",
+        "question": "How does Jesus's teaching on treasure help you weigh your own satisfaction with what you have?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "godliness with contentment is great gain",
+        "feeling": "restlessness, greed",
+        "object": "my next purchase",
+        "behavior": "chasing more",
+        "step": "thank God for what I have",
+        "template": "from today I let go of my {feeling:restlessness, greed} over {object:my next purchase} and instead of {behavior:chasing more}, I will {step:thank God for what I have}."
       }
     }
   }

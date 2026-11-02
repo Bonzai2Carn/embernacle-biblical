@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual invitation resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Free grace without cost",
-            "expansion": "Divine provision transcends economic transactional models of spiritual exchange."
-          },
-          {
-            "id": 2,
-            "text": "Seeking God's transformative word",
-            "expansion": "God's communication has power to radically reshape human understanding and trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Universal spiritual abundance",
-            "expansion": "Redemption is offered comprehensively, beyond human-defined boundaries of worthiness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual nourishment cannot be purchased, how do you truly 'acquire' it?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human effort with divine grace?",
-        "left_label": "Personal Striving",
-        "right_label": "Pure Divine Gift"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual seeking shifted?",
-        "options": [
-          "I now see grace as more unconditional",
-          "I recognize my previous transactional spiritual mindset",
-          "I'm more open to unexpected divine invitations",
-          "I understand spiritual hunger differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine love transcends economic and social barriers",
           "Redemption is not contingent on human qualification"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of someone spending money on what does not satisfy. What does the promise of an everlasting covenant change about how you view what you have been buying?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "John 4:10",
+        "summary": "The LORD invites the thirsty to come to the waters and buy without money (v. 1). In John 4:10, Jesus answers that if you knew the gift of God and who is asking you for a drink, you would have asked Him and He would have given you living water.",
+        "question": "How does John 4:10 help you understand the LORD's invitation to come to the waters without cost?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "repair",
+        "because": "God will freely pardon",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from Him",
+        "step": "return to the LORD",
+        "template": "from today I turn from my {feeling:shame, guilt} toward {object:my past failures} and instead of {behavior:hiding from Him}, I will {step:return to the LORD}."
       }
     }
   }

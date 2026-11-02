@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theme resonates most in Jacob's final prophetic blessing?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Familial Legacy",
-            "expansion": "Each son carries generational consequences beyond their individual actions."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence",
-            "expansion": "God's predetermined trajectory overrides human weakness and individual failures."
-          },
-          {
-            "id": 3,
-            "text": "Moral Accountability",
-            "expansion": "Personal choices create lasting ripples through generations of consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a person's potential is predetermined, how much genuine agency does an individual truly possess?"
-      },
-      "moral_slider": {
-        "question": "To what extent do past family transgressions define future potential?",
-        "left_label": "Unchangeable Destiny",
-        "right_label": "Personal Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of generational dynamics shifted?",
-        "options": [
-          "I now see deeper patterns of inheritance",
-          "Individual choice matters more than inherited traits",
-          "Spiritual legacy transcends biological lineage",
-          "Family history is more complex than simple determinism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic declarations are conditional upon faithfulness",
           "Individual actions are integrated into God's larger redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "Jacob says of Joseph",
+            "ref": "v. 23",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "Jacob says",
+            "ref": "v. 24",
+            "speaker": "Jacob"
+          }
+        ],
+        "question": "Put yourself in Joseph's place as your father says this of you. The archers attacked with bitterness, yet your bow stayed steady. What do you understand about where your strength came from?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Numbers 24:17",
+        "summary": "Jacob says the scepter will not depart from Judah until Shiloh comes (v. 10). Numbers 24:17 says a star will come forth from Jacob and a scepter will arise from Israel.",
+        "question": "How does the scepter rising from Israel in Numbers 24:17 help you picture the scepter that stays in Judah in verse 10?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "Joseph's strong arms were tempered by the hands of the Mighty One",
+        "feeling": "exhaustion, inadequacy",
+        "object": "a difficult task",
+        "behavior": "trying to force my own strength",
+        "step": "rest in His strength",
+        "template": "from today I let go of my {feeling:exhaustion, inadequacy} over {object:a difficult task} and instead of {behavior:trying to force my own strength}, I will {step:rest in His strength}."
       }
     }
   }

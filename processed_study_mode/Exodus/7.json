@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological dynamic most intrigues you about divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over human resistance",
-            "expansion": "Divine plans transcend individual human will, using even stubborn hearts as instruments."
-          },
-          {
-            "id": 2,
-            "text": "Moses and Aaron as divine representatives",
-            "expansion": "Ordinary humans can be empowered to communicate extraordinary spiritual messages."
-          },
-          {
-            "id": 3,
-            "text": "Incremental demonstration of divine power",
-            "expansion": "God reveals strength gradually, allowing progressive understanding and potential transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention requires human cooperation, how does free will coexist with predestined outcomes?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine justice in confronting systemic oppression?",
-        "left_label": "Compassionate Restraint",
-        "right_label": "Decisive Intervention"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual leadership and divine communication?",
-        "options": [
-          "Recognizing human limitations",
-          "Understanding spiritual authority differently",
-          "Appreciating incremental transformational processes",
-          "Seeing conflict as potential spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God responds to persistent human resistance by confirming their chosen path",
           "The hardening is a metaphorical representation of spiritual blindness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD explains why",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Moses and Aaron. You hear that Pharaoh's heart will be hardened, yet the Egyptians will come to know that I am the LORD. What would you weigh about the signs you are sent to perform?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 9:17",
+        "summary": "The LORD says He will harden Pharaoh's heart to show His power and make His name known (v. 3-5). Paul later uses this same Pharaoh to show how God uses even the resistant to display His strength.",
+        "question": "How does Romans 9:17 help you understand why the LORD would use a hardened heart to bring judgment on Egypt?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "Pharaoh turned around, went into his palace, and did not take the signs to heart",
+        "feeling": "indifference, apathy",
+        "object": "a clear warning in my life",
+        "behavior": "ignoring the truth",
+        "step": "stop and listen to what is happening",
+        "template": "from today I bring my {feeling:indifference, apathy} about {object:a clear warning in my life} into the light and instead of {behavior:ignoring the truth}, I will {step:stop and listen to what is happening}."
       }
     }
   }

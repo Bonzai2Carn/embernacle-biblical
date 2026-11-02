@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply in Job's lament?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling abandoned by God",
-            "expansion": "The profound sense of divine distance and perceived rejection creates existential despair."
-          },
-          {
-            "id": 2,
-            "text": "Social isolation and mockery",
-            "expansion": "The experience of being ridiculed while suffering intensifies personal anguish."
-          },
-          {
-            "id": 3,
-            "text": "Anticipation of death's proximity",
-            "expansion": "Recognizing mortality becomes a lens through which all present suffering is interpreted."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of suffering transform if you viewed it as a pathway to deeper understanding rather than punishment?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate personal resilience in the face of seemingly overwhelming despair?",
-        "left_label": "Hopelessness",
-        "right_label": "Spiritual Endurance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human vulnerability shifted?",
-        "options": [
-          "Recognize the complexity of human emotional experience",
-          "Understand suffering as potentially transformative",
-          "Appreciate the depth of human spiritual struggle",
-          "Acknowledge the limits of human comprehension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment operates according to principles humans cannot fully understand",
           "Individual suffering reflects broader cosmic spiritual conflicts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Job cries",
+            "ref": "vv. 13-14",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job asks",
+            "ref": "v. 15",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place, calling the worm your mother and corruption your father. Where do you look for a reason to keep going when you feel your hope has vanished?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 22:6-8",
+        "summary": "Job feels the mockery of those around him (v. 6). The psalmist describes similar mockery: those who see him sneer and shake their heads (Ps 22:6-8).",
+        "question": "How does seeing the psalmist face similar mockery help you understand the weight of Job's isolation?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "the one with clean hands grows stronger",
+        "feeling": "exhaustion, defeat",
+        "object": "a season of loss",
+        "behavior": "withdrawing from others",
+        "step": "hold to my way",
+        "template": "from today I bring You my {feeling:exhaustion, defeat} about {object:a season of loss} and instead of {behavior:withdrawing from others}, I will {step:hold to my way}."
       }
     }
   }

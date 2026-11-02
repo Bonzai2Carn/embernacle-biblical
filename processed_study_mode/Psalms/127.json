@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central truth resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine sovereignty in human endeavors",
-            "expansion": "Apart from God's blessing, human effort is ultimately futile and meaningless."
-          },
-          {
-            "id": 2,
-            "text": "Children as divine inheritance",
-            "expansion": "Offspring are not mere biological outcomes but spiritual gifts and blessings from God."
-          },
-          {
-            "id": 3,
-            "text": "Labor and rest in divine perspective",
-            "expansion": "Human work gains significance only when aligned with God's providential purposes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human achievements are truly dependent on divine blessing, what does this reveal about the nature of human autonomy and spiritual humility?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile personal effort with divine providence?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of work, success, and divine blessing shifted?",
-        "options": [
-          "I see my efforts as more collaborative with God",
-          "I recognize the futility of self-centered striving",
-          "I value spiritual inheritance over material achievement",
-          "I understand rest as a spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual initiative determines outcomes independently",
           "Spiritual alignment precedes and empowers human work"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a worker or a guard. What is the difference between your hard work and the work that actually succeeds?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 128:3-4",
+        "summary": "The psalmist calls children a heritage and a reward from the LORD (v. 3). Psalm 128:3-4 pictures a wife like a fruitful vine and sons like olive shoots around the table, and says blessing comes this way to the man who fears the LORD.",
+        "question": "How does the family pictured in Psalm 128:3-4 help you understand the reward mentioned in verse 3?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "surrender",
+        "because": "unless the LORD builds the house, its builders labor in vain",
+        "feeling": "anxiety, exhaustion",
+        "object": "my future plans",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His provision",
+        "template": "from today I bring You my {feeling:anxiety, exhaustion} about {object:my future plans} and instead of {behavior:trying to control every outcome}, I will {step:rest in His provision}."
       }
     }
   }

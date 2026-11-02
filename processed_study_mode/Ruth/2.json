@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply in Ruth's journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Providence",
-            "expansion": "How seemingly random encounters might actually be orchestrated by God's unseen hand."
-          },
-          {
-            "id": 2,
-            "text": "Humble Service",
-            "expansion": "Ruth's willingness to work hard and serve without expectation of reward reveals profound character."
-          },
-          {
-            "id": 3,
-            "text": "Generational Redemption",
-            "expansion": "The way ancestral connections and kindness can bridge cultural and personal barriers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If vulnerability is strength, how might Ruth's apparent weakness actually represent her greatest power?"
-      },
-      "moral_slider": {
-        "question": "Where does true security originate?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Protection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of grace evolved?",
-        "options": [
-          "I see unexpected kindness differently",
-          "I recognize systemic compassion more clearly",
-          "I understand divine timing better",
-          "I appreciate marginal perspectives more"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithfulness is rewarded through unexpected means",
           "Cultural boundaries are transcended by covenant love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Ruth asked",
+            "ref": "v. 10",
+            "speaker": "Ruth"
+          },
+          {
+            "who": "Boaz replied",
+            "ref": "v. 11",
+            "speaker": "Boaz"
+          }
+        ],
+        "question": "Put yourself in Ruth's place, feeling like an outsider. What does Boaz's answer reveal about how your past actions are seen by others?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Romans 8:28",
+        "summary": "Naomi says the LORD has not withdrawn His kindness from the living or the dead (v. 20). Romans 8:28 says God works all things together for the good of those who love Him, who are called according to His purpose.",
+        "question": "How does Romans 8:28 help you understand Naomi's words that the LORD has not withdrawn His kindness?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "you have taken refuge under His wings",
+        "feeling": "anxiety, insecurity",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, insecurity} about {object:an uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His protection}."
       }
     }
   }

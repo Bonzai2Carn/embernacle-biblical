@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theological perspective resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention Beyond Human Understanding",
-            "expansion": "God's actions transcend human perception and predictability."
-          },
-          {
-            "id": 2,
-            "text": "Desperate Longing for Spiritual Breakthrough",
-            "expansion": "Authentic spiritual hunger emerges from recognizing human limitation."
-          },
-          {
-            "id": 3,
-            "text": "Radical Vulnerability Before Divine Majesty",
-            "expansion": "True spirituality requires complete openness and humility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention requires human brokenness, what parts of ourselves must we surrender to truly encounter transcendence?"
-      },
-      "moral_slider": {
-        "question": "How do human imperfection and divine sovereignty intersect?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Perfection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual encounter shifted?",
-        "options": [
-          "Recognize personal insufficiency",
-          "Appreciate mystery over certainty",
-          "Embrace radical dependence",
-          "Desire transformative encounter"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation requires mutual collaborative effort",
           "Human brokenness prevents direct divine engagement"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The prophet cries",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one who sees your own righteous acts as filthy rags. What changes when you shift your focus from your failures to the Potter, whose hand made you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 6:5",
+        "summary": "The people describe themselves as unclean, with righteous acts like filthy rags (v. 6). In Isaiah 6:5 Isaiah cries 'Woe is me' and calls himself a man of unclean lips after his eyes have seen the King, the LORD of Hosts.",
+        "question": "How does Isaiah 6:5 help you understand the uncleanness named in Isaiah 64:6?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "surrender",
+        "because": "You are our Father and we are the clay",
+        "feeling": "shame, inadequacy",
+        "object": "my past mistakes",
+        "behavior": "trying to fix myself",
+        "step": "let the Potter reshape me",
+        "template": "from today I release my {feeling:shame, inadequacy} over {object:my past mistakes} and instead of {behavior:trying to fix myself}, I will {step:let the Potter reshape me}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": "divine_restoration",
-            "text": "God's willingness to restore after human failure",
-            "expansion": "Even after Moses broke the first tablets, God recreates the covenant, demonstrating profound mercy."
-          },
-          {
-            "id": "obedience_path",
-            "text": "Obedience as a path of relationship with God",
-            "expansion": "Following divine instructions reveals intimacy more than rigid rule-following."
-          },
-          {
-            "id": "spiritual_humility",
-            "text": "The importance of spiritual humility",
-            "expansion": "Recognizing human limitations while embracing divine guidance creates transformative spiritual space."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine commandments represent relationship rather than mere regulation, how might your understanding of spiritual commitment fundamentally change?"
-      },
-      "moral_slider": {
-        "question": "How do human weakness and divine grace intersect in spiritual transformation?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Potential"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine covenant evolved?",
-        "options": [
-          "More appreciative of grace",
-          "Understand relationship over rules",
-          "Recognize divine patience",
-          "See spiritual journey as dynamic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Restoration is possible through genuine repentance",
           "God values relationship over rigid legalism"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Moses asks",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Moses gives the reason",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing what the LORD asks of you: to fear Him, walk in His ways, love Him and serve Him with all your heart and soul. You hear that He gives His commandments for your own good. What would you still wonder about how keeping them is for your good?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Jeremiah 31:33",
+        "summary": "The LORD commands the people to circumcise their hearts (v. 16). Jeremiah describes a time when the LORD will put His law in their minds and inscribe it on their hearts (Jeremiah 31:33).",
+        "question": "How does the promise of a law written on the heart help you understand the command to circumcise your own heart?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "you yourselves were foreigners in the land of Egypt",
+        "feeling": "indifference, contempt",
+        "object": "the stranger in my community",
+        "behavior": "ignoring their needs",
+        "step": "offer a meal or a kind word",
+        "template": "from today I let go of my {feeling:indifference, contempt} over {object:the stranger in my community} and instead of {behavior:ignoring their needs}, I will {step:offer a meal or a kind word}."
       }
     }
   }

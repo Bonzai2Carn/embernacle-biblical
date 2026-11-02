@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on prosperity and righteousness resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "The wicked seem to prosper without consequence",
-            "expansion": "Material success does not equate to spiritual or moral righteousness"
-          },
-          {
-            "id": "B",
-            "text": "God's ultimate justice transcends temporal circumstances",
-            "expansion": "Divine perspective requires patience and trust beyond immediate appearances"
-          },
-          {
-            "id": "C",
-            "text": "Personal relationship with God matters more than worldly outcomes",
-            "expansion": "Inner spiritual communion provides deeper fulfillment than external achievements"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prosperity is not a guaranteed sign of divine favor, how do we understand God's engagement with human suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile the apparent success of the unrighteous with belief in divine justice?",
-        "left_label": "Profound Doubt",
-        "right_label": "Unwavering Faith"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual prosperity evolved?",
-        "options": [
-          "Recognized material wealth is not spiritual measure",
-          "Understood divine timing differs from human expectations",
-          "Learned to trust inner spiritual journey over external markers",
-          "Developed deeper compassion for human struggle"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's perspective transcends human temporal understanding",
           "Intimate relationship with God provides deeper wisdom than superficial observations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The psalmist tried to understand",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist entered God's sanctuary",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You are looking at the world and seeing only injustice. What changes when you move from trying to figure it out on your own to standing in God's presence?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "2 Corinthians 4:18",
+        "summary": "The psalmist says that though his flesh and heart may fail, God is the strength of his heart and his portion forever (v. 26). 2 Corinthians 4:18 says to fix our eyes not on what is seen but on what is unseen, for what is seen is temporary and what is unseen is eternal.",
+        "question": "How does 2 Corinthians 4:18 help you understand the psalmist calling God his portion forever (v. 26)?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "it is good to draw near to God",
+        "feeling": "resentment, jealousy",
+        "object": "the success of others",
+        "behavior": "comparing my life to theirs",
+        "step": "make the Lord my refuge",
+        "template": "from today I bring You my {feeling:resentment, jealousy} about {object:the success of others} and instead of {behavior:comparing my life to theirs}, I will {step:make the Lord my refuge}."
       }
     }
   }

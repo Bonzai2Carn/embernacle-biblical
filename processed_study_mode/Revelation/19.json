@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's Ultimate Judgment",
-            "expansion": "Divine judgment represents a profound restoration of cosmic moral order."
-          },
-          {
-            "id": "2",
-            "text": "Worshipful Response",
-            "expansion": "Authentic worship emerges from recognizing God's ultimate sovereignty."
-          },
-          {
-            "id": "3",
-            "text": "The Fall of Corruption",
-            "expansion": "The complete dismantling of systemic evil reveals God's transformative power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is perfect, what role remains for human mercy?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's judgment with divine love?",
-        "left_label": "Retributive Justice",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare evolved?",
-        "options": [
-          "More nuanced view of good versus evil",
-          "Greater appreciation for spiritual dynamics",
-          "Deeper respect for divine sovereignty",
-          "Increased personal accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Apocalyptic narrative revealing ultimate spiritual triumph",
           "Symbolic communication of God's sovereign power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The angel tells John to write",
+            "ref": "v. 9",
+            "speaker": "The angel"
+          },
+          {
+            "who": "The angel corrects John",
+            "ref": "v. 10",
+            "speaker": "The Angel"
+          }
+        ],
+        "question": "Put yourself in John's place. You hear, 'Blessed are those invited to the marriage supper of the Lamb.' Then the angel stops you and says, 'Worship God!' What would you understand about where worship belongs?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 97:10",
+        "summary": "A great multitude in heaven cries out that the Lord our God the Almighty reigns (v. 6). The psalmist tells those who love the LORD to hate evil. He preserves the souls of His saints and delivers them from the hand of the wicked (Psalm 97:10).",
+        "question": "How does the LORD delivering His saints from the wicked in Psalm 97:10 help you understand why the multitude shouts that He reigns?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "the fine linen the bride wears is the righteous acts of the saints",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding my true self",
+        "step": "walk in obedience today",
+        "template": "from today I let go of my {feeling:shame, inadequacy} over {object:my past failures} and instead of {behavior:hiding my true self}, I will {step:walk in obedience today}."
       }
     }
   }

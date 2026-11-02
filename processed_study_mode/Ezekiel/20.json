@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine theme resonates most powerfully in Ezekiel's vision of Israel's history?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Persistent Divine Patience",
-            "expansion": "God repeatedly withholds complete judgment despite generations of rebellious behavior."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Accountability",
-            "expansion": "Israel's repeated violations demonstrate the serious consequences of breaking sacred promises."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Restoration",
-            "expansion": "Even in profound judgment, God maintains a trajectory of eventual reconciliation and hope."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mercy is boundless, at what point does repeated rebellion fundamentally alter the relationship between God and a chosen people?"
-      },
-      "moral_slider": {
-        "question": "How do national sins impact individual spiritual accountability?",
-        "left_label": "Collective Guilt",
-        "right_label": "Personal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved after exploring Ezekiel's prophetic narrative?",
-        "options": [
-          "More nuanced view of God's justice",
-          "Deeper appreciation for historical consequences",
-          "Recognizing patterns of human spiritual rebellion",
-          "Understanding mercy as a complex divine attribute"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The covenant remains intact through God's sovereign commitment, not human performance",
           "Generational patterns of sin demonstrate the complexity of spiritual inheritance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites in Egypt. You rebelled and kept the idols of Egypt, and He resolved to pour out His wrath. Then you hear that He acted for the sake of His name. What would you weigh about the reason He gives?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Exodus 20:5",
+        "summary": "The LORD says He made Himself known to Israel in Egypt and told them, 'I am the LORD your God' (v. 5). Exodus 20:5 adds that He is a jealous God who forbids bowing down to other gods.",
+        "question": "How does Exodus 20:5 help you understand why the idols of Egypt matter so much to the LORD in this chapter?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "remembrance",
+        "because": "the house of Israel will surely listen to the LORD and no longer defile His holy name with gifts and idols",
+        "feeling": "shame, regret",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "return to His presence",
+        "template": "from today I let go of my {feeling:shame, regret} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:return to His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which wisdom principle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Obedience to authority",
-            "expansion": "Understanding submission as a spiritual discipline requires humility and discernment."
-          },
-          {
-            "id": 2,
-            "text": "Recognizing human limitations",
-            "expansion": "Acknowledging that ultimate understanding transcends human comprehension creates spiritual peace."
-          },
-          {
-            "id": 3,
-            "text": "Navigating complex power structures",
-            "expansion": "Wisdom emerges not through rebellion, but through strategic and principled engagement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human power is ultimately transient, what enduring principles should guide our interactions with temporal authorities?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and governmental compliance interact?",
-        "left_label": "Individual Conscience",
-        "right_label": "Systemic Obedience"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of wisdom and power?",
-        "options": [
-          "Recognized complexity of human relationships",
-          "Understood limitations of personal control",
-          "Appreciated nuanced approach to authority",
-          "Saw wisdom as adaptable, not rigid"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Active resistance against perceived unjust systems",
           "Prayerful intercession and spiritual discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The teacher observes",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The teacher observes",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone watching a crime go unpunished. How does the promise of a good end for the reverent change how you view the delay of justice?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 55:8-9",
+        "summary": "The teacher admits that even the wise cannot comprehend the full work of God (v. 17). Isaiah says God's thoughts are not our thoughts and His ways are higher than our ways, as the heavens are higher than the earth.",
+        "question": "How does Isaiah's description of God's thoughts help you accept the limits of your own understanding in this chapter?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "a wise heart knows the right time and procedure",
+        "feeling": "impatience, anxiety",
+        "object": "a difficult situation at work",
+        "behavior": "rushing to a quick fix",
+        "step": "wait for the right moment",
+        "template": "from today I let go of my {feeling:impatience, anxiety} over {object:a difficult situation at work} and instead of {behavior:rushing to a quick fix}, I will {step:wait for the right moment}."
       }
     }
   }

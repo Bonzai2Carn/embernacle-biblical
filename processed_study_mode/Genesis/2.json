@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What profound insight emerges from God's creative process?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine intentionality in creation",
-            "expansion": "Every element seems purposefully crafted, not random or accidental."
-          },
-          {
-            "id": 2,
-            "text": "Intimate relationship between Creator and creation",
-            "expansion": "God personally forms humanity with direct, hands-on involvement."
-          },
-          {
-            "id": 3,
-            "text": "Complexity of human origin",
-            "expansion": "Humanity emerges from dust yet is breathed with divine life essence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine breath animates human existence, what distinguishes humanity's potential from mere biological function?"
-      },
-      "moral_slider": {
-        "question": "How does human autonomy balance with divine design?",
-        "left_label": "Complete Human Freedom",
-        "right_label": "Total Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human nature shifted?",
-        "options": [
-          "More aware of inherent spiritual dimension",
-          "Recognize complexity of human identity",
-          "Appreciate interconnectedness of creation",
-          "Understand human vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals relational dynamics between Creator and creation",
           "Provides model for human work-rest cycles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD God commanded him",
+            "ref": "v. 16",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD God warned",
+            "ref": "v. 17",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the man's place, told you may eat freely from every tree of the garden but not from the tree of the knowledge of good and evil. What would you weigh as you hear that in the day you eat of it you will surely die?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 20:8-11",
+        "summary": "God finishes His work and rests on the seventh day (v. 2), and blesses that day and sanctifies it (v. 3). Exodus 20:8-11 says six days you labor, but the seventh is a Sabbath, because the LORD rested on it and set it apart as holy.",
+        "question": "How does Exodus 20:8-11 help you understand why God blessed and sanctified the seventh day?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "exposure",
+        "because": "the man and his wife were both naked, and they were not ashamed",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding my true self",
+        "step": "walk in His light",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my past failures} into the light and instead of {behavior:hiding my true self}, I will {step:walk in His light}."
       }
     }
   }

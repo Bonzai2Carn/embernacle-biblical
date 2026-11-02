@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual rebellion resonates most deeply?",
-        "choices": [
-          {
-            "id": "generational",
-            "text": "Generational Pattern of Disobedience",
-            "expansion": "Manasseh perpetuated spiritual corruption learned from cultural influences."
-          },
-          {
-            "id": "personal_choice",
-            "text": "Individual Responsibility for Spiritual Direction",
-            "expansion": "Despite familial legacy, each person ultimately chooses their spiritual trajectory."
-          },
-          {
-            "id": "divine_judgment",
-            "text": "Consequences of Systematic Spiritual Rejection",
-            "expansion": "Persistent turning from God invites profound systemic consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal choices ripple through generations, and at what point does individual agency interrupt inherited patterns of spiritual dysfunction?"
-      },
-      "moral_slider": {
-        "question": "To what degree are personal spiritual decisions influenced by cultural context versus individual conviction?",
-        "left_label": "Cultural Determinism",
-        "right_label": "Personal Spiritual Autonomy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance and personal responsibility evolved?",
-        "options": [
-          "Recognize deeper complexity of spiritual formation",
-          "Understand systemic spiritual dynamics",
-          "Appreciate individual agency in spiritual transformation",
-          "See divine grace as more nuanced and patient"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National sins are ultimately resolved through generational transformation",
           "Individual faithfulness can mitigate collective spiritual decline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "But the people did not listen and Manasseh led them astray",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. The LORD promises to keep you in the land through obedience (v. 8). What do you weigh when you see your king lead the entire nation into even greater evil than the nations before you?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Jeremiah 32:18",
+        "summary": "The LORD announces that He will stretch the measuring line and plumb line over Jerusalem (v. 13). Jeremiah 32:18 says God lays the iniquity of the fathers into the laps of their children.",
+        "question": "How does Jeremiah 32:18's picture of iniquity falling on children help you understand the weight of the calamity the LORD announces here?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "exposure",
+        "because": "he abandoned the LORD, the God of his fathers",
+        "feeling": "distrust, suspicion",
+        "object": "a broken relationship",
+        "behavior": "trying to fix it myself",
+        "step": "return to His presence",
+        "template": "from today I bring my {feeling:distrust, suspicion} about {object:a broken relationship} into the light and instead of {behavior:trying to fix it myself}, I will {step:return to His presence}."
       }
     }
   }

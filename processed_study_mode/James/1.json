@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea from James 1 resonates most deeply with your current life journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Joy in Trials",
-            "expansion": "Recognizing suffering as a transformative pathway to spiritual maturity and resilience."
-          },
-          {
-            "id": 2,
-            "text": "Seeking Divine Wisdom",
-            "expansion": "Understanding wisdom as a humble, active pursuit of God's perspective beyond human understanding."
-          },
-          {
-            "id": 3,
-            "text": "Consistent Inner Integrity",
-            "expansion": "Aligning one's internal beliefs with external actions as a manifestation of authentic faith."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If trials are meant to produce patience and completeness, how might your current struggles be secretly constructing your character?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human emotional response with spiritual perspective during challenging times?",
-        "left_label": "Emotional Reaction",
-        "right_label": "Spiritual Composure"
-      },
-      "reevaluation": {
-        "question": "After reflecting on James 1, how has your understanding of personal growth shifted?",
-        "options": [
-          "More aware of spiritual development through challenges",
-          "Recognizing wisdom as an active, intentional pursuit",
-          "Understanding faith as a dynamic, responsive journey",
-          "Seeing trials as potential opportunities for transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Trials are random occurrences with no inherent spiritual significance",
           "Trials are opportunities to demonstrate personal spiritual strength"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "James says",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "James says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer facing many kinds of trials. How does knowing the purpose of the testing change how you view the hardship?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Romans 5:3-5",
+        "summary": "James says the testing of your faith develops perseverance (v. 3). Romans 5:3-5 says suffering produces perseverance, perseverance produces character, and character produces hope.",
+        "question": "How does Romans 5:3-5 help you understand where the testing in James 1 leads?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "you are deceiving yourselves if you are hearers only",
+        "feeling": "pride, complacency",
+        "object": "my spiritual knowledge",
+        "behavior": "reading without acting",
+        "step": "obey one specific command",
+        "template": "from today I let go of my {feeling:pride, complacency} over {object:my spiritual knowledge} and instead of {behavior:reading without acting}, I will {step:obey one specific command}."
       }
     }
   }

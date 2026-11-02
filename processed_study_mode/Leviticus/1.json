@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacrifice most resonates with your understanding of spiritual devotion?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Cost of Offering",
-            "expansion": "Sacrifice requires giving something valuable and unblemished from one's own resources."
-          },
-          {
-            "id": 2,
-            "text": "Intentional Act of Worship",
-            "expansion": "The offering represents a deliberate, voluntary act of connection with the divine."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Cleansing/Atonement",
-            "expansion": "The ritual transforms personal imperfection through a structured spiritual transaction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is all-powerful, why would He require human beings to perform elaborate sacrificial rituals?"
-      },
-      "moral_slider": {
-        "question": "To what extent does ritual demonstrate genuine spiritual commitment?",
-        "left_label": "External Performance",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual offering changed?",
-        "options": [
-          "Ritual matters more than I previously thought",
-          "Personal intention is more important than technical compliance",
-          "Symbolic acts can have profound spiritual significance",
-          "I see sacrifice as a form of genuine relational communication with the divine"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Restoration of broken relationship between humanity and divine presence",
           "Symbolic representation of spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD instructs",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one bringing the animal. What does laying your hand on its head accomplish for you?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Hebrews 10:5-7",
+        "summary": "Leviticus describes the priest burning all of the animal on the altar as a pleasing aroma to the LORD (v. 9). Hebrews says God took no delight in burnt offerings, and that Christ came to do His will (Hebrews 10:5-7).",
+        "question": "How does Hebrews 10:5-7 help you understand the weight of the smoke rising from the altar?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "he is to present an unblemished male",
+        "feeling": "guilt, shame",
+        "object": "my past failures",
+        "behavior": "hiding my true self",
+        "step": "bring my whole self to Him",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:my past failures} and instead of {behavior:hiding my true self}, I will {step:bring my whole self to Him}."
       }
     }
   }

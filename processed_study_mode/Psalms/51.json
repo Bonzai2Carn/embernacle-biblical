@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation theme resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Total Confession of Sin",
-            "expansion": "Acknowledging personal brokenness as the first step toward genuine spiritual healing."
-          },
-          {
-            "id": "2",
-            "text": "Divine Mercy's Renewal",
-            "expansion": "God's capacity to restore and reconstruct a completely shattered human spirit."
-          },
-          {
-            "id": "3",
-            "text": "Internal Transformation",
-            "expansion": "True repentance requires a fundamental reconstruction of one's inner motivations and character."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If genuine brokenness is prerequisite to spiritual restoration, what parts of yourself are you still protecting from authentic self-examination?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between human accountability and divine grace?",
-        "left_label": "Personal Culpability",
-        "right_label": "Divine Forgiveness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal redemption shifted?",
-        "options": [
-          "I now see confession as more vulnerable",
-          "Divine mercy feels more profound",
-          "Personal transformation seems more possible",
-          "Spiritual healing requires deeper honesty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Repentance is primarily about avoiding divine punishment",
           "Repentance represents a radical reorientation of one's entire spiritual trajectory"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist confesses",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You say your sin is always before you and you have sinned against God only. What do you understand when you then ask to be purified with hyssop and made whiter than snow?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Ezekiel 36:26",
+        "summary": "The psalmist asks God to create a clean heart and renew a right spirit within him (v. 10). Ezekiel 36:26 records God's promise to give a new heart and put a new spirit within His people.",
+        "question": "How does Ezekiel's promise of a new heart help you understand the psalmist's request for a new spirit?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "exposure",
+        "because": "the sacrifices of God are a broken spirit, a broken and a contrite heart",
+        "feeling": "shame, pride",
+        "object": "my failures",
+        "behavior": "hiding my mistakes",
+        "step": "bring my true self to Him",
+        "template": "from today I bring You my {feeling:shame, pride} about {object:my failures} and instead of {behavior:hiding my mistakes}, I will {step:bring my true self to Him}."
       }
     }
   }

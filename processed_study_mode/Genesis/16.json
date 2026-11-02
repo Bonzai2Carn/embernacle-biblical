@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most from this narrative of human intervention in divine promise?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human Impatience with Divine Timing",
-            "expansion": "Sarai's actions reveal the human tendency to accelerate God's promises through personal strategies."
-          },
-          {
-            "id": 2,
-            "text": "The Vulnerability of Marginalized Persons",
-            "expansion": "Hagar's treatment as a reproductive instrument highlights power dynamics and human objectification."
-          },
-          {
-            "id": 3,
-            "text": "Divine Awareness Despite Human Schemes",
-            "expansion": "God's recognition and care for Hagar demonstrates His omniscient compassion beyond human plans."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When we feel God's promise is delayed, do our interventions demonstrate faith or a fundamental distrust?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires intersect with divine providence?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of faith and human action?",
-        "options": [
-          "I recognize human limitations in fulfilling divine promises",
-          "I see the complexity of interpersonal relationships in spiritual journeys",
-          "I understand divine compassion extends beyond human intentions",
-          "I am more aware of power dynamics in biblical narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Continuously pray and trust in God's sovereign plan",
           "Interpret promises metaphorically rather than literally"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Sarai said to Abram",
+            "ref": "v. 2",
+            "speaker": "Sarai"
+          }
+        ],
+        "question": "Put yourself in Abram's place. Sarai tells you that the LORD has prevented her from bearing children, and asks you to go to her maidservant. What would you weigh before you go?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Psalm 34:18",
+        "summary": "Hagar discovers a God who hears her cry and sees her in the desert (vv. 11-13). The Psalmist describes how the LORD stays near to those who are broken in spirit.",
+        "question": "How does the Psalmist's description of God's closeness help you understand Hagar's encounter at the spring?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "exposure",
+        "because": "I have seen the One who sees me",
+        "feeling": "shame, loneliness",
+        "object": "my hidden failures",
+        "behavior": "hiding from others",
+        "step": "tell one trusted person the truth",
+        "template": "from today I bring my {feeling:shame, loneliness} about {object:my hidden failures} into the light and instead of {behavior:hiding from others}, I will {step:tell one trusted person the truth}."
       }
     }
   }

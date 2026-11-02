@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image most powerfully represents divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Nations being utterly destroyed",
-            "expansion": "The universality of divine accountability transcends geopolitical boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic dissolution of heavenly hosts",
-            "expansion": "God's judgment extends beyond earthly realms into spiritual dimensions."
-          },
-          {
-            "id": 3,
-            "text": "Mountains melting with blood",
-            "expansion": "The graphic imagery symbolizes the total comprehensiveness of divine retribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is universal, what distinguishes punishment from redemptive correction?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's love with His declared judgment?",
-        "left_label": "Divine Mercy",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved?",
-        "options": [
-          "More nuanced perspective",
-          "Greater appreciation for cosmic accountability",
-          "Increased understanding of spiritual consequences",
-          "Recognition of prophetic metaphorical language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As metaphorical language describing divine justice",
           "As a prophetic warning about spiritual consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD declares",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet describes Edom's land",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Zion's people hearing this news. The LORD declares a day of vengeance for the cause of Zion (v. 8), and then Edom's streams become tar (v. 9). How do these two descriptions of judgment work together?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 65:17-25",
+        "summary": "Isaiah 34 shows a land given to owls and ravens, with the LORD's measuring line of chaos over Edom (v. 11). Isaiah 65 says the LORD will create new heavens and a new earth, and the sounds of weeping and crying will no longer be heard (vv. 17-19).",
+        "question": "How does Isaiah 65:17-25 help you understand the ruin of Edom described in this chapter?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "trust",
+        "because": "not one thing the LORD has ordered by His mouth will go missing",
+        "feeling": "doubt, unease",
+        "object": "a promise that seems slow",
+        "behavior": "dismissing what He has said",
+        "step": "read His word and hold to it",
+        "template": "from today I entrust my {feeling:doubt, unease} about {object:a promise that seems slow} to God and instead of {behavior:dismissing what He has said}, I will {step:read His word and hold to it}."
       }
     }
   }

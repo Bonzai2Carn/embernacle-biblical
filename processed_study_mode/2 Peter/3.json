@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply about the day of the Lord?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's patience allows time for repentance",
-            "expansion": "Divine timing is fundamentally about redemptive opportunity, not delay."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic transformation is inevitable",
-            "expansion": "The current creation will be completely dissolved and renewed."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual vigilance matters more than prediction",
-            "expansion": "Anticipating Christ's return should produce holy living, not speculative calculation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If time is fluid for God and a thousand years are like a day, how might your perception of divine promises be fundamentally misunderstood?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's judgment with God's mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christ's return evolved?",
-        "options": [
-          "More patient toward God's timeline",
-          "More focused on personal holiness",
-          "Less concerned with precise predictions",
-          "More aware of cosmic spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Progressive revelation through historical epochs",
           "Mystical expectation transcending chronological constraints"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Scoffers ask",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Peter answers",
+            "ref": "vv. 5-7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those hearing these scoffers. What does Peter's reminder of the flood change about how you view their claim that nothing is coming?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Matthew 24:36",
+        "summary": "The scoffers in Peter's day ask where the promise of His coming is (v. 4). Jesus says that no one knows that day or hour, not even the Son (Matthew 24:36).",
+        "question": "How does Jesus' statement about the unknown timing help you understand why God's patience can look like slowness (v. 9)?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "everything will be destroyed in this way",
+        "feeling": "anxiety, fear",
+        "object": "the chaos in the world",
+        "behavior": "worrying about the future",
+        "step": "conduct myself in holiness and godliness",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the chaos in the world} and instead of {behavior:worrying about the future}, I will {step:conduct myself in holiness and godliness}."
       }
     }
   }

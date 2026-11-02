@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's testimony resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Transformation from persecutor to believer",
-            "expansion": "The radical journey of personal conversion demonstrates the potential for profound spiritual metamorphosis."
-          },
-          {
-            "id": "2",
-            "text": "Cultural and religious identity",
-            "expansion": "Paul's understanding of his Jewish roots provides a complex framework for understanding his missionary work."
-          },
-          {
-            "id": "3",
-            "text": "Courage in personal testimony",
-            "expansion": "Speaking truth in a potentially hostile environment reveals extraordinary spiritual conviction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do deeply held beliefs transform when confronted with unexpected spiritual experiences?"
-      },
-      "moral_slider": {
-        "question": "What is the tension between religious zeal and spiritual humility?",
-        "left_label": "Zealotry",
-        "right_label": "Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal testimony changed?",
-        "options": [
-          "More aware of individual spiritual journeys",
-          "Recognize complexity of religious transformation",
-          "Appreciate vulnerability in sharing faith",
-          "Understand cultural context matters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Genuine spiritual transformation often requires confronting personal biases",
           "God's redemptive work can transform the most ardent opponents into passionate advocates"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Paul asked",
+            "ref": "v. 8",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Paul's place. You ask who is speaking, and you hear: I am Jesus of Nazareth, whom you are persecuting. What does this answer reveal to you about the one you were persecuting?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Galatians 1:15-16",
+        "summary": "Ananias tells Paul that God has appointed him to know His will and see the Righteous One (v. 14). In Galatians Paul writes that God set him apart from his mother's womb and was pleased to reveal His Son in him so that he might preach Him among the Gentiles.",
+        "question": "How does Paul's own account in Galatians help you understand the purpose behind the appointment Ananias describes here?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "surrender",
+        "because": "the Lord said He would send Paul far away to the Gentiles",
+        "feeling": "fear, hesitation",
+        "object": "a difficult assignment",
+        "behavior": "clinging to my comfort",
+        "step": "obey the first command",
+        "template": "from today I release my {feeling:fear, hesitation} over {object:a difficult assignment} and instead of {behavior:clinging to my comfort}, I will {step:obey the first command}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply about justice and accountability?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Personal Privilege Blinds Moral Judgment",
-            "expansion": "David's royal status initially prevented him from recognizing his own moral failure until confronted directly."
-          },
-          {
-            "id": "2",
-            "text": "Consequences Follow Moral Transgressions",
-            "expansion": "Even those chosen by God are not exempt from experiencing the repercussions of their actions."
-          },
-          {
-            "id": "3",
-            "text": "Prophetic Confrontation Reveals Truth",
-            "expansion": "External perspective can penetrate self-deception and illuminate hidden moral compromises."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your own blind spots prevent you from seeing your most significant moral failings?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine grace coexist with divine accountability?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Strict Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal responsibility shifted?",
-        "options": [
-          "I now see accountability as more nuanced",
-          "Leadership requires higher moral standards",
-          "Repentance is a complex emotional journey",
-          "External perspectives are crucial for self-awareness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Repentance guarantees complete restoration",
           "Leaders are held to a higher standard of accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "David said to Nathan",
+            "ref": "v. 5",
+            "speaker": "David"
+          },
+          {
+            "who": "Nathan said to David",
+            "ref": "v. 7",
+            "speaker": "Nathan"
+          }
+        ],
+        "question": "Put yourself in David's place. You have just said the man who did this deserves to die, and now you hear, 'You are that man!' What would you weigh about your own verdict, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "2 Corinthians 7:10",
+        "summary": "David says, 'I have sinned against the LORD,' and Nathan replies that the LORD has taken away his sin (v. 13). 2 Corinthians 7:10 says godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death.",
+        "question": "How does 2 Corinthians 7:10 help you understand David's words in v. 13?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "exposure",
+        "because": "David has despised the command of the LORD by doing evil in His sight",
+        "feeling": "guilt, shame",
+        "object": "a hidden mistake",
+        "behavior": "hiding from others",
+        "step": "confess it to the Lord",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a hidden mistake} into the light and instead of {behavior:hiding from others}, I will {step:confess it to the Lord}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core insight about priesthood resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human priests understand human weakness",
-            "expansion": "Empathy emerges from shared human vulnerability and limitation"
-          },
-          {
-            "id": 2,
-            "text": "Divine calling supersedes personal ambition",
-            "expansion": "Authentic spiritual leadership requires external validation, not self-promotion"
-          },
-          {
-            "id": 3,
-            "text": "Priesthood involves sacrificial intercession",
-            "expansion": "True spiritual representation requires personal identification with human struggle"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If compassion emerges from personal weakness, how might your own limitations actually qualify you for deeper understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations relate to spiritual authority?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized the importance of empathy",
-          "Understood calling over personal ambition",
-          "Appreciated vulnerability as strength",
-          "Saw intercession as relational, not transactional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The priesthood transitions from ritualistic performance to relational redemption",
           "His calling transcends human institutional limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "the author says",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "the author says",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the readers. You are told that milk is for infants and solid food is for the mature. Where do you find yourself in this description?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 110:4",
+        "summary": "The author points to God's word to show Christ's appointment as priest (v. 6). The Psalmist says the same thing about an oath from the LORD (Psalm 110:4).",
+        "question": "How does the certainty of an oath help you understand why Christ's priesthood is permanent?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the mature train their senses to distinguish good from evil",
+        "feeling": "confusion, indecision",
+        "object": "a difficult moral choice",
+        "behavior": "ignoring my conscience",
+        "step": "test my motives against the Word",
+        "template": "from today I let go of my {feeling:confusion, indecision} over {object:a difficult moral choice} and instead of {behavior:ignoring my conscience}, I will {step:test my motives against the Word}."
       }
     }
   }

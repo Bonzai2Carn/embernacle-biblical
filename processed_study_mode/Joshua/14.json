@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of inheritance and promise resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Divine Promises Endure",
-            "expansion": "God's commitments transcend generations and personal challenges."
-          },
-          {
-            "id": "B",
-            "text": "Individual Faithfulness Matters",
-            "expansion": "Personal integrity can distinguish one's spiritual journey amidst collective experiences."
-          },
-          {
-            "id": "C",
-            "text": "Land as Spiritual Inheritance",
-            "expansion": "Territorial promises symbolize deeper covenantal relationships between God and His people."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal convictions sustain hope when collective promises seem distant or uncertain?"
-      },
-      "moral_slider": {
-        "question": "How does one balance patience with proactive pursuit of divine promises?",
-        "left_label": "Passive Waiting",
-        "right_label": "Aggressive Claiming"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance evolved?",
-        "options": [
-          "More appreciative of generational promises",
-          "Recognize individual agency within collective narratives",
-          "See territorial promises as metaphorical spiritual journeys",
-          "Understand persistence as a spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational blessings are dependent solely on ancestral righteousness",
           "God's promises transcend age, physical limitations, and historical circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Caleb said to Joshua",
+            "ref": "vv. 6-8",
+            "speaker": "Caleb"
+          },
+          {
+            "who": "Caleb said",
+            "ref": "v. 12",
+            "speaker": "Caleb"
+          }
+        ],
+        "question": "Put yourself in Caleb's place. You remember the promise made long ago about the hill country, where the Anakim live in great and fortified cities. What would you weigh before you ask for that land?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Numbers 14:24",
+        "summary": "Caleb recounts his honest report from Kadesh-barnea and says he remained loyal to the LORD (vv. 7-8). In Numbers 14:24 the LORD calls Caleb His servant, says he has a different spirit and followed Him wholeheartedly, and promises him the land.",
+        "question": "How does the description of Caleb's spirit in Numbers 14:24 help you understand why he was able to claim this inheritance in Joshua 14?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "Caleb wholly followed the LORD, the God of Israel",
+        "feeling": "distrust, doubt",
+        "object": "a difficult task",
+        "behavior": "looking for an easier way",
+        "step": "stay faithful to what He commanded",
+        "template": "from today I let go of my {feeling:distrust, doubt} over {object:a difficult task} and instead of {behavior:looking for an easier way}, I will {step:stay faithful to what He commanded}."
       }
     }
   }

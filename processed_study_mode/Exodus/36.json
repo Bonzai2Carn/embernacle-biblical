@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of crafting the sanctuary speaks most to your understanding of devotion?",
-        "choices": [
-          {
-            "id": "skill",
-            "text": "Divine-gifted craftsmanship",
-            "expansion": "Recognizing that true artistry emerges from spiritual inspiration, not mere human technique."
-          },
-          {
-            "id": "community",
-            "text": "Collaborative worship preparation",
-            "expansion": "Understanding how collective effort transforms individual contributions into sacred architecture."
-          },
-          {
-            "id": "precision",
-            "text": "Exact obedience to divine instructions",
-            "expansion": "Seeing spiritual maturity as careful alignment with God's detailed expectations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are so precise, what room remains for human creativity in spiritual expression?"
-      },
-      "moral_slider": {
-        "question": "How do individual talents serve collective spiritual purposes?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Community Submission"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on worship shifted after examining this chapter?",
-        "options": [
-          "I now see worship as more intentional",
-          "I understand spiritual gifts differently",
-          "I recognize the importance of detailed obedience",
-          "I appreciate collaborative spiritual work more"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Spiritual work requires both supernatural enablement and human collaboration",
           "Individual talents are sufficient without spiritual guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The skilled craftsmen said to Moses",
+            "ref": "v. 5",
+            "speaker": "Wise Men"
+          },
+          {
+            "who": "Moses gave an order",
+            "ref": "v. 6",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the craftsmen. You see the people bringing more than enough for the work. What does Moses's command to stop the offerings reveal about the nature of the work they are doing?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "1 Corinthians 12:4-7",
+        "summary": "Exodus 36 describes how the LORD gave skill and ability to those carrying out the work of the sanctuary (v. 1). Paul writes that the same Spirit gives different gifts for the common good (1 Corinthians 12:4-7).",
+        "question": "How does Paul's description of the Spirit's distribution help you understand why the LORD gave specific skills to Bezalel and Oholiab in the first verse?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the people continued to bring freewill offerings morning after morning",
+        "feeling": "selfishness, scarcity",
+        "object": "a need in my community",
+        "behavior": "withholding my resources",
+        "step": "give what I can",
+        "template": "from today I let go of my {feeling:selfishness, scarcity} over {object:a need in my community} and instead of {behavior:withholding my resources}, I will {step:give what I can}."
       }
     }
   }

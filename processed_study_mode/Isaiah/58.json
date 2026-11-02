@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic critique resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ritualistic worship without genuine transformation",
-            "expansion": "External religious practices are meaningless without internal spiritual metamorphosis."
-          },
-          {
-            "id": 2,
-            "text": "Social justice as true spiritual practice",
-            "expansion": "Authentic worship manifests through compassionate action towards the marginalized."
-          },
-          {
-            "id": 3,
-            "text": "The disconnect between religious performance and divine expectation",
-            "expansion": "God desires authentic relationship over mechanical religious observance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your spiritual practices do not transform your character or community, are they truly spiritual at all?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual disciplines relate to social responsibility?",
-        "left_label": "Personal Piety",
-        "right_label": "Communal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship changed?",
-        "options": [
-          "Worship is more than ritual",
-          "Social justice is a spiritual discipline",
-          "Internal transformation matters most",
-          "Religious performance can be spiritually empty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal spiritual experiences and emotional worship",
           "Theological knowledge and doctrinal precision"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The people of Israel asked",
+            "ref": "v. 3",
+            "speaker": "The people of Israel"
+          },
+          {
+            "who": "God answered",
+            "ref": "vv. 4-5",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of the people asking why God has not seen your fasting. You hear that you fast with contention and strife and that your voice cannot be heard on high. What would you understand about your fast, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "James 1:27",
+        "summary": "The LORD defines the chosen fast as breaking the chains of wickedness and setting the oppressed free (vv. 6-7). James 1:27 says pure and undefiled religion is to care for orphans and widows in their distress.",
+        "question": "How does James 1:27 help you understand what God calls a chosen fast in Isaiah 58?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the one who gives himself to the hungry and satisfies the afflicted soul will see his light go forth in the darkness",
+        "feeling": "indifference, apathy",
+        "object": "someone in need",
+        "behavior": "ignoring their struggle",
+        "step": "offer a tangible help",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:someone in need} and instead of {behavior:ignoring their struggle}, I will {step:offer a tangible help}."
       }
     }
   }

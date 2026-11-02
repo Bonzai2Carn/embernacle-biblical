@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unity in Christ",
-            "expansion": "True spiritual community requires intentional harmony and mutual understanding."
-          },
-          {
-            "id": 2,
-            "text": "Continuous Rejoicing",
-            "expansion": "Joy is a spiritual discipline that transcends circumstances and reflects inner peace."
-          },
-          {
-            "id": 3,
-            "text": "Gentleness as Strength",
-            "expansion": "Meekness is not weakness, but a profound spiritual power rooted in Christ's character."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal conflicts reveal more about your spiritual growth than your achievements?"
-      },
-      "moral_slider": {
-        "question": "Where do you currently stand between personal ambition and spiritual surrender?",
-        "left_label": "Self-Determination",
-        "right_label": "Divine Guidance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community evolved?",
-        "options": [
-          "I now see conflict as an opportunity for growth",
-          "Unity requires active listening and empathy",
-          "Spiritual partnerships transcend personal differences",
-          "Joy is a choice, not a feeling"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Allowing individual interpretations without communal accountability",
           "Requiring complete theological agreement before fellowship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul commands",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul promises",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who is anxious. You are told to bring your requests to God with thanksgiving. What do you understand the peace of God will do for your heart and mind?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "2 Corinthians 12:9",
+        "summary": "Paul says he can do all things through Christ who gives him strength (v. 13). In 2 Corinthians 12:9 he reports being told that grace is sufficient and that power is perfected in weakness.",
+        "question": "How does 2 Corinthians 12:9 help you understand what Paul means by having strength for every situation?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "whatever is true, honorable, right, pure, lovely, and admirable deserves my thought",
+        "feeling": "bitterness, resentment",
+        "object": "the news on my feed",
+        "behavior": "dwelling on the negative",
+        "step": "find one thing that is lovely",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:the news on my feed} and instead of {behavior:dwelling on the negative}, I will {step:find one thing that is lovely}."
       }
     }
   }

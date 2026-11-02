@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective about divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "God always punishes sin directly",
-            "expansion": "Bildad's perspective suggests a mechanical view of divine retribution"
-          },
-          {
-            "id": "b",
-            "text": "Suffering might be instructive, not punitive",
-            "expansion": "Implies a more nuanced understanding of divine interaction with human experience"
-          },
-          {
-            "id": "c",
-            "text": "Righteousness requires active seeking of God",
-            "expansion": "Emphasizes personal spiritual responsibility in relationship with the divine"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice were perfectly transparent, would human compassion still be necessary?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the relationship between personal suffering and divine judgment?",
-        "left_label": "Mechanical Punishment",
-        "right_label": "Transformative Experience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering evolved?",
-        "options": [
-          "Suffering is always a consequence of sin",
-          "Suffering can be redemptive",
-          "Divine purposes are ultimately mysterious",
-          "Personal spiritual growth matters more than explanation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness guarantees immediate earthly prosperity",
           "God's judgments are ultimately mysterious and transcend human understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Bildad the Shuhite replied",
+            "ref": "v. 3",
+            "speaker": "Bildad"
+          },
+          {
+            "who": "Bildad said",
+            "ref": "vv. 4-6",
+            "speaker": "Bildad"
+          }
+        ],
+        "question": "Put yourself in Job's place, hearing this logic. What does this claim imply about the reason for your current suffering?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Galatians 6:7-8",
+        "summary": "Bildad claims that those who forget God face a perishing hope (v. 13). Paul describes the same reality of a harvest following what a person sows (vv. 7-8).",
+        "question": "How does Paul's description of sowing and reaping help you weigh Bildad's claim about the destiny of the godless?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "trust",
+        "because": "God does not reject the blameless",
+        "feeling": "insecurity, fear",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His character",
+        "template": "from today I entrust my {feeling:insecurity, fear} about {object:my uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His character}."
       }
     }
   }

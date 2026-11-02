@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which fundamental human tendency emerges most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Desire for Human Leadership",
-            "expansion": "Humans often seek tangible, visible authority over spiritual or invisible guidance."
-          },
-          {
-            "id": "2",
-            "text": "Generational Disappointment",
-            "expansion": "The failures of leadership can provoke radical systemic changes."
-          },
-          {
-            "id": "3",
-            "text": "Rejection of Divine Design",
-            "expansion": "People frequently prefer worldly structures over divinely ordained arrangements."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you seek change, are you truly addressing root problems or merely replacing one imperfect system with another?"
-      },
-      "moral_slider": {
-        "question": "How do human desires intersect with divine providence?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and governance shifted?",
-        "options": [
-          "I now see leadership as more complex",
-          "Human systems are inherently flawed",
-          "Spiritual guidance matters more than institutional structures",
-          "Change often comes with unintended consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Represents a generational shift away from theocratic leadership",
           "Reveals human tendency to prefer visible, tangible authority over spiritual guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The people said",
+            "ref": "v. 5",
+            "speaker": "The people"
+          },
+          {
+            "who": "The LORD said to Samuel",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Samuel's place. The people say you are old and your sons do not walk in your ways, and they ask for a king. The LORD then tells you it is not you they have rejected, but Him. What do you understand about what they asked?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "1 Samuel 10:19",
+        "summary": "The people demand a king to fight their battles and lead them like other nations (v. 20). Later the text says they rejected their God, who saves them from all their troubles (1 Samuel 10:19).",
+        "question": "How does the later record of their rejection help you see the weight of the choice they made in chapter 8?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "the people have not rejected Samuel, but have rejected the LORD as their king",
+        "feeling": "indignation, hurt",
+        "object": "a person's dismissal of my advice",
+        "behavior": "trying to win them over",
+        "step": "trust the LORD with my reputation",
+        "template": "from today I bring my {feeling:indignation, hurt} about {object:a person's dismissal of my advice} into the light and instead of {behavior:trying to win them over}, I will {step:trust the LORD with my reputation}."
       }
     }
   }

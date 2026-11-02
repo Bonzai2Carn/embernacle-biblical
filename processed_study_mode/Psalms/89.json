@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from Psalm 89?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Eternal Covenant",
-            "expansion": "The psalm emphasizes God's unbreakable promise with David, highlighting divine commitment beyond human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Divine Sovereignty Through Suffering",
-            "expansion": "Even in apparent rejection, the psalm maintains God's ultimate control and faithfulness."
-          },
-          {
-            "id": 3,
-            "text": "The Tension Between Promise and Reality",
-            "expansion": "The psalm wrestles with the contrast between God's proclaimed promises and the current lived experience of difficulty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's covenant is eternal, how do we reconcile moments that seem to contradict that promise?"
-      },
-      "moral_slider": {
-        "question": "How do you understand God's faithfulness during periods of apparent abandonment?",
-        "left_label": "Divine Absence",
-        "right_label": "Persistent Covenant"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine promises shifted after reflecting on Psalm 89?",
-        "options": [
-          "More aware of complexity in spiritual experience",
-          "Recognize the depth of theological wrestling",
-          "Understand suffering as part of spiritual journey",
-          "See faith as a dialogue, not just acceptance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Promises are metaphorical and not literally binding",
           "Covenantal relationships require mutual commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist vows",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who sings of the LORD's loving devotion. You declare that loving devotion is built up forever and His faithfulness is established in the heavens. What would you weigh more: the length of His loving devotion or the place His faithfulness is set?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "2 Samuel 7:12-16",
+        "summary": "The psalmist says God swore a covenant to David his servant (vv. 3-4). 2 Samuel 7:12-16 has the LORD saying He will raise up David's descendant and establish the throne of his kingdom forever.",
+        "question": "How does 2 Samuel 7:12-16 help you understand the covenant with David in verses 3-4?"
+      },
+      "conviction": {
+        "verse": 52,
+        "frame": "devotion",
+        "because": "the LORD is blessed forever",
+        "feeling": "confusion, despair",
+        "object": "the broken promises of others",
+        "behavior": "withdrawing from prayer",
+        "step": "declare His goodness aloud",
+        "template": "from today I bring You my {feeling:confusion, despair} about {object:the broken promises of others} and instead of {behavior:withdrawing from prayer}, I will {step:declare His goodness aloud}."
       }
     }
   }

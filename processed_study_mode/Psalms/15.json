@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of moral character speaks most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Speaking truth without harm",
-            "expansion": "Integrity in communication reflects deeper spiritual authenticity"
-          },
-          {
-            "id": 2,
-            "text": "Treating neighbors with respect",
-            "expansion": "Relational kindness reveals one's true spiritual maturity"
-          },
-          {
-            "id": 3,
-            "text": "Maintaining personal ethical standards",
-            "expansion": "Consistency between internal conviction and external behavior demonstrates spiritual depth"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine dwelling requires moral perfection, how can any human truly qualify?"
-      },
-      "moral_slider": {
-        "question": "What matters more: ritual compliance or genuine heart transformation?",
-        "left_label": "External Religious Practices",
-        "right_label": "Internal Spiritual Authenticity"
-      },
-      "reevaluation": {
-        "question": "How might this psalm reshape your understanding of spiritual living?",
-        "options": [
-          "Recognizing character over ceremonial performance",
-          "Understanding holiness as relational integrity",
-          "Seeing righteousness as active, not passive",
-          "Embracing personal accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True spirituality requires consistent ethical standards",
           "Divine presence is contingent upon personal moral conduct"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "vv. 2-5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one seeking God's presence. You ask who is worthy to stand on His holy mountain. What does this list of behaviors reveal about the character required to stay there?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 24:3-4",
+        "summary": "The psalmist lists the marks of one who dwells with God (vv. 2-5). Psalm 24:3 asks a similar question, who may stand in His holy place, and answers with clean hands and a pure heart (Psalm 24:4).",
+        "question": "How does Psalm 24:3-4 help you understand the integrity this psalm describes?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the one who walks in integrity has no slander on his tongue",
+        "feeling": "anger, irritation",
+        "object": "a person who hurt me",
+        "behavior": "speaking ill of them",
+        "step": "speak only what is true and kind",
+        "template": "from today I bring You my {feeling:anger, irritation} about {object:a person who hurt me} and instead of {behavior:speaking ill of them}, I will {step:speak only what is true and kind}."
       }
     }
   }

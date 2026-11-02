@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core aspect of resurrection most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ's bodily resurrection",
-            "expansion": "The physical reality of Christ's triumph over death transforms our understanding of human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Theological implications of resurrection",
-            "expansion": "Resurrection reveals God's ultimate power to restore and redeem beyond human comprehension."
-          },
-          {
-            "id": 3,
-            "text": "Personal hope of resurrection",
-            "expansion": "The promise of resurrection offers profound comfort in facing human mortality and spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If resurrection is merely metaphorical, what fundamental meaning does Christian faith lose?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile the seeming impossibility of resurrection with belief?",
-        "left_label": "Rational Skepticism",
-        "right_label": "Spiritual Conviction"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your previous understanding of death and eternity?",
-        "options": [
-          "I see resurrection as more tangibly real",
-          "My view of spiritual transformation has deepened",
-          "I'm more aware of resurrection's theological complexity",
-          "I feel a greater sense of hope about life after death"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers receive transformed, immortal bodies",
           "Resurrection validates the entire Christian theological framework"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Paul asks about those who say there is no resurrection",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who say there is no resurrection of the dead. What do you understand about your faith when you hear that if Christ has not been raised, our preaching is worthless and so is your faith?"
+      },
+      "chain": {
+        "after": 57,
+        "ref": "Revelation 1:18",
+        "summary": "Paul celebrates the victory over death through Christ (v. 57). In Revelation, Jesus declares that He holds the keys to death and Hades.",
+        "question": "How does Jesus' claim to hold the keys of death help you understand the victory Paul describes here?"
+      },
+      "conviction": {
+        "verse": 58,
+        "frame": "practice",
+        "because": "your labor in the Lord is not in vain",
+        "feeling": "exhaustion, discouragement",
+        "object": "a repetitive task",
+        "behavior": "doing things half-heartedly",
+        "step": "work with excellence",
+        "template": "from today I let go of my {feeling:exhaustion, discouragement} over {object:a repetitive task} and instead of {behavior:doing things half-heartedly}, I will {step:work with excellence}."
       }
     }
   }

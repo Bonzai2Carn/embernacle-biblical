@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine sovereignty resonates most with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's power to humble human pride",
-            "expansion": "The transformation of Nebuchadnezzar reveals how divine intervention can radically reorient human perspective."
-          },
-          {
-            "id": 2,
-            "text": "The patience of divine correction",
-            "expansion": "God's measured approach demonstrates remarkable restraint and redemptive intent toward human weakness."
-          },
-          {
-            "id": 3,
-            "text": "The universal reign of the Most High",
-            "expansion": "Nebuchadnezzar's testimony affirms God's supremacy beyond cultural and political boundaries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What internal pride might be preventing you from recognizing your true dependence on divine grace?"
-      },
-      "moral_slider": {
-        "question": "How do personal achievement and spiritual humility coexist?",
-        "left_label": "Personal Achievement",
-        "right_label": "Spiritual Humility"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of personal sovereignty?",
-        "options": [
-          "I recognize my limitations more clearly",
-          "I see divine intervention differently",
-          "My perception of power has shifted",
-          "I'm more aware of spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's corrections demonstrate His love and desire for relationship",
           "Suffering is random and unconnected to spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "The king exclaimed",
+            "ref": "v. 30",
+            "speaker": "The king"
+          },
+          {
+            "who": "A voice came from heaven",
+            "ref": "v. 31",
+            "speaker": "A voice from heaven"
+          }
+        ],
+        "question": "Put yourself in the king's place, boasting of your own power and achievements. What does the sudden interruption from heaven reveal about the true source of your kingdom?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Proverbs 16:18",
+        "summary": "Nebuchadnezzar experiences the literal fulfillment of pride leading to a fall (v. 33). Proverbs warns that pride goes before destruction, and a haughty spirit before a fall.",
+        "question": "How does the warning in Proverbs help you recognize the danger in the king's words on the palace roof?"
+      },
+      "conviction": {
+        "verse": 37,
+        "frame": "practice",
+        "because": "God is able to humble those who walk in pride",
+        "feeling": "arrogance, self-importance",
+        "object": "my recent success",
+        "behavior": "taking all the credit",
+        "step": "give thanks to God first",
+        "template": "from today I let go of my {feeling:arrogance, self-importance} over {object:my recent success} and instead of {behavior:taking all the credit}, I will {step:give thanks to God first}."
       }
     }
   }

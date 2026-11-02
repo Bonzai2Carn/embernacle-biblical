@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most strikes you in this encounter between God and Satan?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Divine Permission of Suffering",
-            "expansion": "God allows Satan's challenge, suggesting a profound cosmic testing ground for human faith."
-          },
-          {
-            "id": "b",
-            "text": "Job's Integrity Under Extreme Trial",
-            "expansion": "Job maintains spiritual composure despite devastating personal loss and physical affliction."
-          },
-          {
-            "id": "c",
-            "text": "Satan's Limited Power",
-            "expansion": "Satan can only act within boundaries established by divine sovereignty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is not a direct punishment, what deeper purpose might it serve in human spiritual development?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal righteousness influence divine protection?",
-        "left_label": "Unconditional Divine Care",
-        "right_label": "Merit-Based Spiritual Protection"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of suffering and faith?",
-        "options": [
-          "Recognized divine perspective transcends human understanding",
-          "Saw suffering as potentially instructive rather than punitive",
-          "Understood faith as resilience, not absence of challenge",
-          "Perceived spiritual warfare as more complex than simplistic good vs. evil"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's sovereignty transcends human understanding of pain",
           "Spiritual refinement occurs through challenging experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD said to Satan",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Satan replied",
+            "ref": "vv. 4-5",
+            "speaker": "Satan"
+          }
+        ],
+        "question": "Put yourself in the place of the one being defended. You hear the LORD say that Job is blameless, and then you hear the claim that Job would curse Him once his flesh and bones are struck. What would you weigh between these two claims?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "James 1:2-4",
+        "summary": "Satan claims that physical suffering will force Job to curse God (v. 5). James tells believers to view the testing of their faith as a source of joy because it produces steadfastness.",
+        "question": "How does James's view of testing help you process the adversity that Job faces in this chapter?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "we should accept from God both good and adversity",
+        "feeling": "bitterness, resentment",
+        "object": "a sudden loss",
+        "behavior": "questioning God's goodness",
+        "step": "trust His character",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:a sudden loss} and instead of {behavior:questioning God's goodness}, I will {step:trust His character}."
       }
     }
   }

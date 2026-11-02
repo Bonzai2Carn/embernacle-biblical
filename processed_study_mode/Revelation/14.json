@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual image resonates most deeply with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Lamb standing on Mount Zion",
-            "expansion": "Christ's victorious and sovereign presence amid cosmic conflict represents ultimate spiritual triumph."
-          },
-          {
-            "id": 2,
-            "text": "The 144,000 marked with God's name",
-            "expansion": "Spiritual authenticity and dedication is marked by intimate divine relationship, not external performance."
-          },
-          {
-            "id": 3,
-            "text": "The angels proclaiming eternal gospel",
-            "expansion": "Divine message transcends historical moment, speaking to fundamental spiritual realities across time."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, how does one's current spiritual posture transform when viewed through the lens of eternal consequence?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and divine mercy intersect in moments of spiritual reckoning?",
-        "left_label": "Strict Justice",
-        "right_label": "Boundless Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare and divine purpose shifted?",
-        "options": [
-          "More aware of spiritual stakes",
-          "Recognize complexity of divine plans",
-          "See personal responsibility differently",
-          "Feel greater sense of cosmic perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical representation of church's ultimate spiritual purity",
           "Prophetic description of martyred saints"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "A voice from heaven tells me to write",
+            "ref": "v. 13",
+            "speaker": "A voice from heaven"
+          },
+          {
+            "who": "The Spirit says",
+            "ref": "v. 13",
+            "speaker": "The Spirit"
+          }
+        ],
+        "question": "Put yourself in the place of the one hearing this heavenly voice. What does the Spirit's addition reveal about the reality of those who die in the Lord?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Acts 17:30-31",
+        "summary": "An angel proclaims that the hour of His judgment has come and calls people to fear God and give Him glory (v. 7). Paul says God now commands all people everywhere to repent (Acts 17:30), and that He has set a day to judge the world with justice by the Man He appointed (Acts 17:31).",
+        "question": "How does the set day of judgment in Acts help you understand the angel's urgent call to fear God and give Him glory?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the saints keep the commandments of God and the faith of Jesus",
+        "feeling": "exhaustion, discouragement",
+        "object": "a season of waiting",
+        "behavior": "giving up on obedience",
+        "step": "hold fast to His promises",
+        "template": "from today I let go of my {feeling:exhaustion, discouragement} over {object:a season of waiting} and instead of {behavior:giving up on obedience}, I will {step:hold fast to His promises}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment resonates most deeply with you in this resurrection account?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The women's persistent devotion",
-            "expansion": "Their commitment transcends fear and social barriers, demonstrating radical love beyond typical expectations."
-          },
-          {
-            "id": 2,
-            "text": "The stone's supernatural removal",
-            "expansion": "An impossible obstacle effortlessly overcome, symbolizing divine power's capacity to transform seemingly insurmountable limitations."
-          },
-          {
-            "id": 3,
-            "text": "The angelic messenger's declaration",
-            "expansion": "Truth announced without ambiguity, challenging human understanding of death and revealing a cosmic narrative of redemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If resurrection represents transformation, what in your life requires rolling away stones of impossibility?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between empirical evidence and spiritual experience?",
-        "left_label": "Rational Skepticism",
-        "right_label": "Mystical Acceptance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of loss, hope, and renewal shifted?",
-        "options": [
-          "I now see suffering as potentially transformative",
-          "My perspective on mortality has expanded",
-          "I recognize the power of persistent faith",
-          "I'm more open to unexpected spiritual encounters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Provides hope for spiritual regeneration and eternal life",
           "Challenges materialistic worldviews about human existence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The young man told them",
+            "ref": "v. 6",
+            "speaker": "The young man"
+          },
+          {
+            "who": "The women ran away in fear",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the women at the tomb. A young man in a white robe tells you, He has risen! He is not here! You run away, trembling, and say nothing to anyone. What would you weigh in that choice, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Matthew 28:6",
+        "summary": "At the empty tomb a young man says Jesus has risen and is not here, and tells the women to see the place where they put Him (v. 6). Matthew 28:6 gives the same words and adds that He has risen just as He said.",
+        "question": "How does Matthew 28:6 help you understand the message the women hear at the tomb?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "exposure",
+        "because": "the women, in their fear, did not say a word to anyone",
+        "feeling": "fear, dread",
+        "object": "a chance to tell what I have seen",
+        "behavior": "staying silent to keep the peace",
+        "step": "tell one person what God has done",
+        "template": "from today I bring my {feeling:fear, dread} about {object:a chance to tell what I have seen} into the light and instead of {behavior:staying silent to keep the peace}, I will {step:tell one person what God has done}."
       }
     }
   }

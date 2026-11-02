@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "National Spiritual Decline",
-            "expansion": "The city's moral decay precedes its physical destruction"
-          },
-          {
-            "id": "2",
-            "text": "Leadership Failure",
-            "expansion": "Leaders who abandon their responsibilities invite collective catastrophe"
-          },
-          {
-            "id": "3",
-            "text": "False Security",
-            "expansion": "Misplaced confidence can blind communities to impending judgment"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When external security crumbles, what truly sustains human resilience?"
-      },
-      "moral_slider": {
-        "question": "How do communal sin and individual responsibility intersect?",
-        "left_label": "Individual Accountability",
-        "right_label": "Collective Judgment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine warning shifted?",
-        "options": [
-          "More aware of systemic spiritual vulnerability",
-          "Recognize the fragility of human institutions",
-          "See judgment as potential redemptive process",
-          "Understand prophetic critique as compassionate intervention"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual and collective repentance is more critical than external defense mechanisms",
           "God's judgment transcends human strategic calculations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The people said",
+            "ref": "v. 13",
+            "speaker": "The people"
+          },
+          {
+            "who": "The LORD of Hosts revealed",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people who say, Let us eat and drink. You hear that this sin of yours will never be atoned for until your dying day. What do you weigh about your celebration?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Proverbs 21:30",
+        "summary": "The people of Jerusalem prepared their walls and reservoirs with great effort (v. 10-11), but they ignored the One who planned them. Proverbs states that no human wisdom or planning can succeed against the Lord.",
+        "question": "How do the walls and reservoirs they built help you understand the danger of ignoring God's sovereignty?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "remembrance",
+        "because": "you did not look to the One who made it, or consider Him who planned it long ago",
+        "feeling": "anxiety, restlessness",
+        "object": "my future plans",
+        "behavior": "trying to control every detail",
+        "step": "acknowledge His hand in my life",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my future plans} and instead of {behavior:trying to control every detail}, I will {step:acknowledge His hand in my life}."
       }
     }
   }

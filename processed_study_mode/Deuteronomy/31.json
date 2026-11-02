@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Moses' acknowledgment of his mortality",
-            "expansion": "Recognizing human limitations while trusting divine continuity"
-          },
-          {
-            "id": 2,
-            "text": "Leadership transition to Joshua",
-            "expansion": "Graceful succession demonstrates institutional wisdom over personal ego"
-          },
-          {
-            "id": 3,
-            "text": "God's promise of continued guidance",
-            "expansion": "Divine commitment transcends individual human leaders"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does accepting one's limitations actually become a form of spiritual strength?"
-      },
-      "moral_slider": {
-        "question": "What determines true leadership: personal capability or divine selection?",
-        "left_label": "Individual Merit",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your thinking about leadership and succession changed?",
-        "options": [
-          "I now see leadership as a collaborative process",
-          "Spiritual succession matters more than individual achievement",
-          "Humility is a crucial leadership quality",
-          "Transition is a natural part of organizational growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Transitions occur randomly without divine intervention",
           "Leaders determine their own replacements independent of God's plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Moses said",
+            "ref": "v. 6",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people. Moses says the LORD will never leave you nor forsake you. Then the LORD says the time of Moses's death is near. What would you weigh most when your leader is about to be gone?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Joshua 1:1-9",
+        "summary": "Moses tells the people, and then Joshua, to be strong and courageous because the LORD goes before them and will never leave them (vv. 6-8). The LORD speaks the same words to Joshua after Moses's death (Joshua 1:5-9).",
+        "question": "How does hearing the LORD say these words to Joshua himself help you understand the courage Moses calls for?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "the LORD your God goes with you and will never leave you nor forsake you",
+        "feeling": "fear, dread",
+        "object": "a task bigger than me",
+        "behavior": "shrinking back",
+        "step": "take the next step forward",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a task bigger than me} to God and instead of {behavior:shrinking back}, I will {step:take the next step forward}."
       }
     }
   }

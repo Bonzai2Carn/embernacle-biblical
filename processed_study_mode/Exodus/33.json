@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine relationship most resonates?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's conditional presence",
-            "expansion": "Divine proximity requires human sanctification and readiness"
-          },
-          {
-            "id": 2,
-            "text": "Moses' intimate dialogue with God",
-            "expansion": "Authentic relationship emerges through persistent, vulnerable communication"
-          },
-          {
-            "id": 3,
-            "text": "The promise of divine guidance",
-            "expansion": "Spiritual journey requires trust beyond immediate understanding"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine withdrawal reveal more about human spiritual capacity than divine presence?"
-      },
-      "moral_slider": {
-        "question": "What determines the authenticity of spiritual relationship?",
-        "left_label": "External Compliance",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine-human interaction?",
-        "options": [
-          "Recognized complexity of spiritual intimacy",
-          "Understood conditional nature of divine presence",
-          "Appreciated vulnerability in spiritual dialogue",
-          "Recognized personal responsibility in relationship with divine"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Sin creates relational distance with God",
           "Intercession can restore divine proximity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses replied",
+            "ref": "v. 15",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in Moses's place. The LORD says He will not go with you but sends you up to a land flowing with milk and honey. What do you say back about going up without Him?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalm 139:7",
+        "summary": "The LORD tells Moses His Presence will go with him (v. 14). The psalmist asks where he can flee from God's Spirit or presence (Psalm 139:7).",
+        "question": "How does the psalmist's question about escaping God's presence help you understand Moses's plea for God to go with the people?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "Moses asked not to be led up from there unless the LORD's Presence goes with them",
+        "feeling": "restlessness, dissatisfaction",
+        "object": "a new opportunity",
+        "behavior": "rushing into it alone",
+        "step": "wait for His direction",
+        "template": "from today I let go of my {feeling:restlessness, dissatisfaction} over {object:a new opportunity} and instead of {behavior:rushing into it alone}, I will {step:wait for His direction}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most strikes you about community collaboration in rebuilding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Diverse People Working Together",
-            "expansion": "Each group and individual contributes uniquely to the collective restoration."
-          },
-          {
-            "id": 2,
-            "text": "Leadership by Example",
-            "expansion": "The high priest Eliashib leads first, demonstrating spiritual and practical commitment."
-          },
-          {
-            "id": 3,
-            "text": "Systematic, Organized Effort",
-            "expansion": "The wall's reconstruction follows a methodical, section-by-section approach."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal restoration reflect larger communal healing?"
-      },
-      "moral_slider": {
-        "question": "What matters more: Individual effort or collective progress?",
-        "left_label": "Individual Contribution",
-        "right_label": "Community Synergy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collaborative work shifted?",
-        "options": [
-          "I see complexity in coordinated efforts",
-          "Leadership requires more than commanding",
-          "Small contributions create massive change",
-          "Unity transcends individual differences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Unity transcends social, economic, and professional boundaries",
           "Restoration is a communal, not just individual, spiritual process"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The Tekoites repaired a section, but their nobles did not help",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a builder working next to the Tekoites. Their nobles do not put their shoulders to the work under their supervisors. What would you weigh about this, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Psalm 133:1",
+        "summary": "Each group repairs the section next to the one before it (vv. 1-8). Psalm 133 says how good and pleasant it is when brothers live together in harmony.",
+        "question": "How does the harmony of brothers in Psalm 133:1 help you understand why the builders worked side by side in Nehemiah 3?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "the Tekoite nobles did not put their shoulders to the work under their supervisors",
+        "feeling": "indifference, apathy",
+        "object": "the work my leaders assign",
+        "behavior": "standing back from the work",
+        "step": "put my shoulder to the next section",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the work my leaders assign} and instead of {behavior:standing back from the work}, I will {step:put my shoulder to the next section}."
       }
     }
   }

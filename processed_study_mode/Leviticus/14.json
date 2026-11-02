@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about ritual purification?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Communal Healing Process",
-            "expansion": "Purification involves collective restoration, not just individual cleansing."
-          },
-          {
-            "id": 2,
-            "text": "Divine Attention to Detail",
-            "expansion": "God's precise instructions reveal meticulous care for human wholeness."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Transformation",
-            "expansion": "Ritual represents deeper spiritual movement from impurity to sacred status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might external ritual cleansing reflect or transform internal spiritual conditions?"
-      },
-      "moral_slider": {
-        "question": "To what extent do religious rituals create genuine spiritual change?",
-        "left_label": "Mechanical Ritual",
-        "right_label": "Transformative Experience"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on religious ritual shifted?",
-        "options": [
-          "More appreciative of symbolic meanings",
-          "See deeper psychological significance",
-          "Recognize cultural complexity",
-          "Understand historical context better"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Community restoration is integral to individual healing",
           "Divine protocols demonstrate God's precise redemptive methodology"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The priest puts oil on the head of the one to be cleansed",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are the person being cleansed. You have just received the blood of the guilt offering on your ear, hand, and foot. What does the addition of the oil on your head change about how you see this atonement?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "1 Peter 2:24",
+        "summary": "The priest applies blood and oil to the person to make atonement for their uncleanness (v. 14, 18). Peter describes how Jesus bore our sins in his own body so that we might live.",
+        "question": "How does the physical application of blood to the person in Leviticus help you understand the purpose of what Jesus carried on the cross?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "the priest makes atonement for the one being cleansed, and he will be clean",
+        "feeling": "shame, guilt",
+        "object": "a past mistake",
+        "behavior": "hiding my failures",
+        "step": "ask for cleansing and receive it",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:a past mistake} and instead of {behavior:hiding my failures}, I will {step:ask for cleansing and receive it}."
       }
     }
   }

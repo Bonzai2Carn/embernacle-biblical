@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Justice for the vulnerable",
-            "expansion": "True leadership protects those without power or social standing."
-          },
-          {
-            "id": 2,
-            "text": "Accountability of rulers",
-            "expansion": "Political authority carries profound moral responsibility before God."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of ethical failure",
-            "expansion": "Systemic injustice inevitably leads to national collapse and divine judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a leader claims divine right, does that exempt them from moral accountability?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and national policy intersect?",
-        "left_label": "Individual Morality",
-        "right_label": "Systemic Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "Leadership is about serving, not being served",
-          "Moral character matters more than positional power",
-          "Societal health depends on protecting the marginalized",
-          "Divine judgment is real and consequential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National leaders serve as spiritual representatives of collective community",
           "Divine judgment operates independently of human political structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the king's officials. You hear that carrying out these commands means kings enter the palace gates on chariots and horses, and that disobeying them makes this house a pile of rubble. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "James 1:27",
+        "summary": "The LORD defines knowing Him by how a king treated the poor and needy (v. 16). James defines pure religion by how a person cares for orphans and widows in their distress.",
+        "question": "How does James 1:27 help you understand what the LORD calls true knowledge of Himself in verse 16?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "exposure",
+        "because": "the king's eyes and heart are set on nothing but his own dishonest gain",
+        "feeling": "greed, discontent",
+        "object": "a bigger paycheck",
+        "behavior": "cutting corners to get ahead",
+        "step": "act with integrity in small tasks",
+        "template": "from today I bring my {feeling:greed, discontent} about {object:a bigger paycheck} into the light and instead of {behavior:cutting corners to get ahead}, I will {step:act with integrity in small tasks}."
       }
     }
   }

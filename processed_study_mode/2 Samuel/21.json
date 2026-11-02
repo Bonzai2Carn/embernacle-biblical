@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Justice Requires Accountability",
-            "expansion": "God's judgment can extend beyond individual actions to impact entire communities and generations."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Promises Have Profound Consequences",
-            "expansion": "Breaking sacred oaths can trigger systemic repercussions that demand serious reconciliation."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Leaders Bear Extraordinary Responsibility",
-            "expansion": "The actions of national leaders can fundamentally alter a nation's spiritual and material prosperity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do unresolved historical injustices continue to shape present-day consequences, and who bears responsibility for healing?"
-      },
-      "moral_slider": {
-        "question": "To what extent should contemporary communities address historical wrongs?",
-        "left_label": "Individual Absolution",
-        "right_label": "Collective Reparation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine justice evolved?",
-        "options": [
-          "More nuanced view of communal accountability",
-          "Greater appreciation for long-term spiritual consequences",
-          "Deeper understanding of leadership's spiritual weight",
-          "Recognition of complex generational dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Implement systemic reforms",
           "Provide meaningful reparative actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "David asked",
+            "ref": "v. 3",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place. The LORD tells you the cause is the blood shed by Saul and his family. What would you weigh before you ask how to make amends?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalms 15:4",
+        "summary": "Israel had taken an oath concerning the Gibeonites, yet Saul sought to kill them (v. 2), and David asks how to make amends (v. 3). Psalm 15:4 describes the one who does not revise a costly oath.",
+        "question": "How does Psalm 15:4 help you understand why David asks how to make amends in v. 3?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "God answered the prayers for the land after everything the king commanded was done",
+        "feeling": "anxiety, dread",
+        "object": "a period of lack",
+        "behavior": "complaining about my needs",
+        "step": "remember how He has provided before",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a period of lack} and instead of {behavior:complaining about my needs}, I will {step:remember how He has provided before}."
       }
     }
   }

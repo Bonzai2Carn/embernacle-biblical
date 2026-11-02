@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ephraim's spiritual decay",
-            "expansion": "The incremental erosion of faith through idolatry represents a subtle but devastating spiritual collapse."
-          },
-          {
-            "id": 2,
-            "text": "God's passionate rejection of false worship",
-            "expansion": "Divine jealousy emerges as a profound commitment to authentic relationship over ritualistic performance."
-          },
-          {
-            "id": 3,
-            "text": "The transient nature of human pride",
-            "expansion": "Human achievements and self-exaltation are ultimately as fleeting as morning mist."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does passionate devotion become dangerous self-deception?"
-      },
-      "moral_slider": {
-        "question": "How do we balance divine judgment with divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Graceful Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual integrity shifted?",
-        "options": [
-          "Recognizing the subtlety of idolatry",
-          "Understanding divine perspective",
-          "Acknowledging human vulnerability",
-          "Appreciating transformative potential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic Warning: Illustrating consequences of spiritual unfaithfulness",
           "Covenant Faithfulness: Revealing God's unchanging nature despite human inconsistency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people who were satisfied and full. You hear that your proud hearts forgot Him, and then that He will pounce like a lion. What do you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Jeremiah 2:13",
+        "summary": "The LORD reminds Israel that He is their only Savior (v. 4). Jeremiah names two evils: the people forsook the fountain of living waters and dug cisterns that hold no water (Jeremiah 2:13).",
+        "question": "How does Jeremiah's description of broken cisterns help you understand why the LORD says there is no Savior besides Him in Hosea 13:4?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "remembrance",
+        "because": "when the people were satisfied, their hearts became proud, and they forgot the LORD",
+        "feeling": "self-sufficiency, pride",
+        "object": "a season of ease",
+        "behavior": "neglecting my prayer life",
+        "step": "thank Him for His provision",
+        "template": "from today I let go of my {feeling:self-sufficiency, pride} over {object:a season of ease} and instead of {behavior:neglecting my prayer life}, I will {step:thank Him for His provision}."
       }
     }
   }

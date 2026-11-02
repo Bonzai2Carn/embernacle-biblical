@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual discipline intrigues you most about Daniel's experience?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Extended Fasting",
-            "expansion": "Voluntary spiritual deprivation as a pathway to deeper revelation and sensitivity"
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Warfare Awareness",
-            "expansion": "Recognizing unseen spiritual conflicts beyond physical perception"
-          },
-          {
-            "id": 3,
-            "text": "Persistent Intercession",
-            "expansion": "Maintaining spiritual focus and prayer even when immediate answers are not apparent"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual encounters require profound preparation, what might you be neglecting in your current spiritual disciplines?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual sensitivity with pragmatic engagement?",
-        "left_label": "Mystical Withdrawal",
-        "right_label": "Active Worldly Participation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual reality shifted?",
-        "options": [
-          "I now see spiritual dynamics more holistically",
-          "I recognize my previous limited perspective",
-          "I'm more aware of unseen spiritual dimensions",
-          "I'm more humble about my spiritual understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Angelic beings actively participate in human affairs",
           "Spiritual warfare requires intentional spiritual disciplines"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "An Angel of the LORD said",
+            "ref": "v. 12",
+            "speaker": "An Angel of the LORD"
+          }
+        ],
+        "question": "Put yourself in Daniel's place. You are told that your words were heard from the first day you purposed to humble yourself before your God. What do you understand about the way God answers?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Ephesians 6:12",
+        "summary": "The messenger says the prince of the kingdom of Persia opposed him for twenty-one days until Michael came to help (v. 13). Paul writes that our struggle is against rulers, authorities, the powers of this world's darkness, and spiritual forces of evil.",
+        "question": "How does Paul's description of our struggle help you understand the conflict the messenger describes in Daniel?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "trust",
+        "because": "as the messenger spoke peace to Daniel, Daniel was strengthened",
+        "feeling": "anxiety, dread",
+        "object": "an upcoming trial",
+        "behavior": "withdrawing from others",
+        "step": "stand firm in His presence",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an upcoming trial} to God and instead of {behavior:withdrawing from others}, I will {step:stand firm in His presence}."
       }
     }
   }

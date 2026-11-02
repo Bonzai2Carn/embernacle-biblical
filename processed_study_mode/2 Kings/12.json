@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of leadership resonates most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Institutional Repair",
-            "expansion": "Jehoash's focused effort to restore the temple reveals leadership as systematic restoration."
-          },
-          {
-            "id": 2,
-            "text": "Guided Mentorship",
-            "expansion": "Jehoiada's spiritual guidance of Jehoash demonstrates the transformative power of wise counsel."
-          },
-          {
-            "id": 3,
-            "text": "Imperfect Obedience",
-            "expansion": "Even righteous kings have incomplete implementations of divine expectations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When institutional reform occurs, who truly changes: the system or the individual leaders?"
-      },
-      "moral_slider": {
-        "question": "How do spiritual intentions translate into practical governance?",
-        "left_label": "Ritualistic Compliance",
-        "right_label": "Transformative Leadership"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership requires sustained mentorship",
-          "Institutional change is complex and incremental",
-          "Personal righteousness doesn't guarantee systemic transformation",
-          "Spiritual guidance can transcend generational boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational transfer of spiritual wisdom is essential for sustained righteousness",
           "External spiritual counsel can moderate potential leadership corruptions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Joash said to the priests",
+            "ref": "v. 4",
+            "speaker": "Joash"
+          },
+          {
+            "who": "the priests had not yet repaired the damage to the temple",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Joash's place. You ordered the collection of funds for repairs, yet years pass without progress. What does this delay reveal about the gap between a command and its execution?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "2 Chronicles 24:2",
+        "summary": "Money for the temple repairs goes to workmen who act with integrity (v. 15). 2 Chronicles 24:2 says that Joash did what was right all the days of Jehoiada the priest.",
+        "question": "How does the detail in 2 Chronicles 24:2 change how you view the period of Joash's good reign?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the men who received the money acted with integrity",
+        "feeling": "suspicion, distrust",
+        "object": "a shared responsibility",
+        "behavior": "checking every small detail",
+        "step": "trust those who are faithful",
+        "template": "from today I let go of my {feeling:suspicion, distrust} over {object:a shared responsibility} and instead of {behavior:checking every small detail}, I will {step:trust those who are faithful}."
       }
     }
   }

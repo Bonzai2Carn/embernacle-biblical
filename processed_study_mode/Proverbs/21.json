@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound spiritual insight most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God guides leaders' hearts",
-            "expansion": "Divine sovereignty subtly shapes human decision-making beyond individual perception."
-          },
-          {
-            "id": 2,
-            "text": "Character matters more than ritual",
-            "expansion": "Authentic righteousness transcends mechanical religious performance."
-          },
-          {
-            "id": 3,
-            "text": "Diligence determines destiny",
-            "expansion": "Consistent, intentional effort creates long-term transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your deepest intentions were perfectly transparent, would you be comfortable with their complete revelation?"
-      },
-      "moral_slider": {
-        "question": "How much control do humans truly have over their life's trajectory?",
-        "left_label": "Personal Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal motivation evolved?",
-        "options": [
-          "I recognize external influences more",
-          "I see the importance of inner character",
-          "I understand divine guidance differently",
-          "I value intentional effort more"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Human choices are independent of divine influence",
           "Divine guidance is contingent upon human spiritual openness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone making plans. What do you understand about how diligence and haste lead to opposite results?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Micah 6:8",
+        "summary": "Proverbs 21 says doing righteousness and justice is more desirable to the LORD than sacrifice (v. 3). Micah says the LORD requires you to act justly, love mercy, and walk humbly with your God (6:8).",
+        "question": "How does Micah 6:8 help you understand why justice matters more to the LORD than sacrifice?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "haughty eyes and a proud heart are sin",
+        "feeling": "envy, pride",
+        "object": "a friend's promotion",
+        "behavior": "looking down on him",
+        "step": "congratulate him in person",
+        "template": "from today I bring my {feeling:envy, pride} about {object:a friend's promotion} into the light and instead of {behavior:looking down on him}, I will {step:congratulate him in person}."
       }
     }
   }

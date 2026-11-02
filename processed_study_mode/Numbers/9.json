@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Precision in Worship",
-            "expansion": "God's instructions demonstrate that spiritual practices require meticulous attention and reverence."
-          },
-          {
-            "id": 2,
-            "text": "Inclusive Community Participation",
-            "expansion": "Even those ritually impure or traveling can find a way to honor sacred traditions."
-          },
-          {
-            "id": 3,
-            "text": "Obedience as Spiritual Discipline",
-            "expansion": "Following divine instructions exactly reveals trust and alignment with God's larger purposes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might rigid adherence to ritual potentially obscure the deeper spiritual intention behind the practice?"
-      },
-      "moral_slider": {
-        "question": "What matters more: strict observance of tradition or compassionate adaptation?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Flexible Interpretation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline evolved?",
-        "options": [
-          "More appreciative of precise instructions",
-          "Recognize importance of community inclusivity",
-          "Understand spiritual practices as flexible",
-          "See divine guidance as contextual"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine instructions can be adapted based on personal circumstances",
           "Worship should always prioritize institutional rules over personal needs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Some men asked",
+            "ref": "v. 7",
+            "speaker": "Some men"
+          },
+          {
+            "who": "The LORD said to Moses",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those men. You are unclean because of a dead body, and you ask why you should be excluded from the LORD's offering at its appointed time. What would you weigh about the LORD's answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Romans 15:7",
+        "summary": "The LORD commands that the same Passover statute applies to both the native and the foreigner (v. 14). Paul writes that believers are to accept one another as Christ accepted them (Romans 15:7).",
+        "question": "How does the inclusion of the foreigner in the Passover statute help you understand Paul's command to accept one another?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "they carried out the LORD's charge according to His command",
+        "feeling": "impatience, frustration",
+        "object": "a delay in my plans",
+        "behavior": "trying to force my own timing",
+        "step": "wait for His clear direction",
+        "template": "from today I let go of my {feeling:impatience, frustration} over {object:a delay in my plans} and instead of {behavior:trying to force my own timing}, I will {step:wait for His clear direction}."
       }
     }
   }

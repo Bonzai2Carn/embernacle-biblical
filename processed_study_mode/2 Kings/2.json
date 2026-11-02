@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transition most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Elisha's persistent loyalty to Elijah",
-            "expansion": "True mentorship requires unwavering commitment and willingness to learn from a spiritual guide."
-          },
-          {
-            "id": 2,
-            "text": "The prophetic mantle being passed",
-            "expansion": "Spiritual leadership is a transferable inheritance that requires divine confirmation."
-          },
-          {
-            "id": 3,
-            "text": "Miraculous demonstration of spiritual power",
-            "expansion": "Divine authority can be manifested through bold, faith-filled actions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What transformative moments require you to remain present, even when others suggest you withdraw?"
-      },
-      "moral_slider": {
-        "question": "How do you balance respect for spiritual leadership with personal spiritual development?",
-        "left_label": "Deference",
-        "right_label": "Independence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual succession changed?",
-        "options": [
-          "Leadership is earned, not inherited",
-          "Divine calling supersedes human preparation",
-          "Mentorship requires total commitment",
-          "Miracles validate spiritual authority"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Continuous spiritual preparation and receptiveness",
           "Demonstrating faith through persistent pursuit of spiritual gifts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Elijah asked Elisha",
+            "ref": "v. 9",
+            "speaker": "Elijah"
+          }
+        ],
+        "question": "Put yourself in Elisha's place. Your master asks what he can do for you before he is taken away. What would you weigh in asking for a double portion of his spirit?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "2 Timothy 2:2",
+        "summary": "Elisha asks to inherit a double portion of Elijah's spirit and then carries on the work (vv. 9-14). 2 Timothy 2:2 says to entrust what you have heard to faithful men who will teach others as well.",
+        "question": "How does the call to entrust what was heard to faithful men help you understand Elisha's request for a double portion?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "the LORD says He has healed the spring water, so it will no longer cause death or unfruitfulness",
+        "feeling": "hopelessness, despair",
+        "object": "a broken situation",
+        "behavior": "accepting the decay",
+        "step": "apply His word to the source",
+        "template": "from today I let go of my {feeling:hopelessness, despair} over {object:a broken situation} and instead of {behavior:accepting the decay}, I will {step:apply His word to the source}."
       }
     }
   }

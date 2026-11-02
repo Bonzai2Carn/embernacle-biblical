@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most intrigues you in Paul's revelation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mystical Divine Encounter",
-            "expansion": "The transcendent experience of being caught up beyond human comprehension represents spiritual realms beyond ordinary perception."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability in Weakness",
-            "expansion": "Paul's acknowledgment of his 'thorn in the flesh' reveals profound spiritual strength emerging through human limitation."
-          },
-          {
-            "id": 3,
-            "text": "Divine Grace's Sufficiency",
-            "expansion": "God's grace becomes most powerful when human capability reaches its absolute boundary."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual revelations cannot be fully communicated, what transforms internal mystical experience into meaningful spiritual growth?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual experiences balance between private intimacy and communal edification?",
-        "left_label": "Personal Mysticism",
-        "right_label": "Collective Transformation"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your understanding of spiritual strength?",
-        "options": [
-          "Weakness can be a conduit for divine power",
-          "Spiritual experiences are not always meant to be fully explained",
-          "Humility precedes genuine spiritual insight",
-          "Personal limitations do not restrict divine potential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mystical encounters are secondary to scriptural understanding",
           "Divine experiences should always be communally discerned and tested"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Paul pleaded",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The Lord said",
+            "ref": "v. 9",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Paul's place: you asked for a specific relief, and you received a different promise. How does this answer change how you view your own struggle?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Romans 8:26",
+        "summary": "Paul finds strength in his weakness through the presence of Christ's power (vv. 9-10). Romans describes how the Spirit joins us in that same weakness by groaning on our behalf.",
+        "question": "How does the Spirit's help in weakness, described in Romans 8:26, help you understand where Christ's power rests in Paul's hardships?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "trust",
+        "because": "the Lord's grace is sufficient for me, for His power is perfected in weakness",
+        "feeling": "anxiety, inadequacy",
+        "object": "my current limitations",
+        "behavior": "trying to fix everything myself",
+        "step": "rely on His strength",
+        "template": "from today I entrust my {feeling:anxiety, inadequacy} about {object:my current limitations} to God and instead of {behavior:trying to fix everything myself}, I will {step:rely on His strength}."
       }
     }
   }

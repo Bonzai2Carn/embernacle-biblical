@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's prevention of unnecessary conflict",
-            "expansion": "Divine wisdom often restrains human impulses toward destructive confrontation."
-          },
-          {
-            "id": 2,
-            "text": "Rehoboam's acceptance of prophetic counsel",
-            "expansion": "Humility in leadership means being willing to hear and obey spiritual guidance."
-          },
-          {
-            "id": 3,
-            "text": "The preservation of the Levitical priesthood",
-            "expansion": "Spiritual infrastructure can transcend political fragmentation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine instruction contradicts our perceived self-interest, what truly defines courage?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and spiritual submission interact?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Alignment"
-      },
-      "reevaluation": {
-        "question": "How might this passage transform your understanding of conflict resolution?",
-        "options": [
-          "Seek spiritual counsel before acting",
-          "Recognize larger divine purposes",
-          "Value unity over personal victory",
-          "Understand conflict as potentially preventable"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty supersedes human political calculations",
           "Tribal and spiritual identity trumps political divisions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Rehoboam mobilizes 180,000 warriors",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Shemaiah the man of God said",
+            "ref": "vv. 2-4",
+            "speaker": "Shemaiah the man of God"
+          }
+        ],
+        "question": "Imagine you are Rehoboam, with 180,000 chosen warriors ready to restore your kingdom. The word comes that you are not to go up and fight your brothers, and each of you must return home. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Psalm 132:11-12",
+        "summary": "The text records people following the Levites to Jerusalem (v. 16) and strengthening Judah (v. 17). Psalm 132:11-12 states the condition: David's sons must keep God's covenant, and then their sons will sit on his throne forever.",
+        "question": "How does the condition in Psalm 132:11-12 help you understand why Judah was strengthened by those who walked in the way of David?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "the LORD said the Israelites must not go up and fight their brothers, but each must return home",
+        "feeling": "anger, hostility",
+        "object": "a person who opposes me",
+        "behavior": "seeking retaliation",
+        "step": "obey the direction I have received",
+        "template": "from today I let go of my {feeling:anger, hostility} over {object:a person who opposes me} and instead of {behavior:seeking retaliation}, I will {step:obey the direction I have received}."
       }
     }
   }

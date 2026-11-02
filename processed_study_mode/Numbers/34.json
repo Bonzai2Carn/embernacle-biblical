@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What does divine territorial allocation reveal about God's relationship with His people?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Boundaries",
-            "expansion": "God's meticulous geographical description suggests intentional, careful planning for His people's inheritance."
-          },
-          {
-            "id": 2,
-            "text": "Promised Land Fulfillment",
-            "expansion": "The detailed borders represent the tangible manifestation of generations-old covenantal promises."
-          },
-          {
-            "id": 3,
-            "text": "Community Identity",
-            "expansion": "Territorial delineation establishes tribal boundaries as a fundamental aspect of collective Jewish identity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine inheritance is so precisely mapped, what might this reveal about individual purpose and spiritual destiny?"
-      },
-      "moral_slider": {
-        "question": "How do territorial promises balance divine sovereignty with human responsibility?",
-        "left_label": "Determinism",
-        "right_label": "Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine promise evolved?",
-        "options": [
-          "More nuanced view of covenant",
-          "Deeper appreciation for historical specificity",
-          "Recognizing symbolic spiritual dimensions",
-          "Understanding God's methodical nature"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Validates Israel's historical land rights",
           "Symbolizes spiritual inheritance beyond physical boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses says",
+            "ref": "vv. 13-15",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Imagine you are an Israelite hearing these boundaries. What do you understand about your share of the land when Moses says two and a half tribes already have theirs across the Jordan?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Joshua 14:1-3",
+        "summary": "Moses says the land is to be apportioned by lot to the nine and a half tribes, since two and a half tribes already have their inheritance across the Jordan (vv. 13-15). Joshua 14 says the inheritance was assigned by lot to the nine and a half tribes, as the LORD had commanded through Moses.",
+        "question": "How does Joshua 14:1-3 help you understand the lot-drawing Moses describes in Numbers 34?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "remembrance",
+        "because": "the LORD commanded the men named here to apportion the inheritance to the Israelites",
+        "feeling": "anxiety, doubt",
+        "object": "my future needs",
+        "behavior": "worrying about what is coming",
+        "step": "trust the boundaries He has set",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:my future needs} and instead of {behavior:worrying about what is coming}, I will {step:trust the boundaries He has set}."
       }
     }
   }

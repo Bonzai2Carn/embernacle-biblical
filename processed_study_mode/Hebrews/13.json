@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most deeply with you from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unconditional Hospitality",
-            "expansion": "Welcoming strangers represents a radical trust in divine providence beyond personal comfort."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Community Solidarity",
-            "expansion": "Empathy with prisoners reflects a profound understanding of collective human vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "Divine Constancy",
-            "expansion": "God's promise of never abandoning believers offers ultimate spiritual security."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is unconditional, what boundaries, if any, should exist in human relationships?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against spiritual commitments?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community transformed?",
-        "options": [
-          "More empathetic towards strangers",
-          "Deeper understanding of interconnectedness",
-          "Recognizing divine presence in unexpected places",
-          "Embracing vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Conditional promise based on individual faithfulness",
           "Metaphorical encouragement during spiritual challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The Lord says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person tempted by greed. How does the promise of God's presence change your view of what you possess?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Matthew 25:35-40",
+        "summary": "The author instructs the readers to share with others and show hospitality to strangers (vv. 2, 16). Jesus describes the same care for the stranger and the hungry in His own words.",
+        "question": "How does Jesus' identification with the stranger change how you see the person in front of you?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "God has said: Never will I leave you, never will I forsake you",
+        "feeling": "anxiety, fear",
+        "object": "a lack of resources",
+        "behavior": "striving for more",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a lack of resources} and instead of {behavior:striving for more}, I will {step:rest in His presence}."
       }
     }
   }

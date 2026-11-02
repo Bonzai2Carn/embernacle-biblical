@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine sovereignty resonates most deeply?",
-        "choices": [
-          {
-            "id": "earth_ownership",
-            "text": "God owns the entire earth",
-            "expansion": "The cosmic perspective of divine ownership challenges human notions of territorial control."
-          },
-          {
-            "id": "pure_heart",
-            "text": "Moral purity matters to God",
-            "expansion": "Spiritual integrity matters more than ritual performance or external status."
-          },
-          {
-            "id": "king_of_glory",
-            "text": "God is the ultimate King of Glory",
-            "expansion": "True majesty transcends human power structures and earthly kingdoms."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God truly owns everything, what genuine claim can humans make about their possessions or achievements?"
-      },
-      "moral_slider": {
-        "question": "How do human righteousness and divine grace intersect?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine sovereignty shifted?",
-        "options": [
-          "I see God's ownership more comprehensively",
-          "I recognize the importance of inner moral character",
-          "I understand worship as acknowledging divine majesty",
-          "I feel more humble about human achievements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty negates human moral accountability",
           "Spiritual access is conditional upon personal holiness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalm calls out to the gates",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The psalm answers its own question",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself at the gates, hearing the call to lift up your heads. Who would you say this King of Glory is, based on what you hear?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Colossians 1:16-17",
+        "summary": "The psalmist says the earth and all who dwell in it belong to the LORD (v. 1). Colossians 1:16-17 says all things were created through Him and for Him, and in Him all things hold together.",
+        "question": "How does Colossians 1:16-17 help you understand why the earth belongs to the LORD in Psalm 24?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "the one with clean hands and a pure heart does not swear deceitfully",
+        "feeling": "fear, self-protection",
+        "object": "a missed deadline",
+        "behavior": "bending the truth to protect myself",
+        "step": "keep every promise I make this week",
+        "template": "from today I bring You my {feeling:fear, self-protection} about {object:a missed deadline} and instead of {behavior:bending the truth to protect myself}, I will {step:keep every promise I make this week}."
       }
     }
   }

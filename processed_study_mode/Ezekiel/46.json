@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply with you in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Rhythmic Spiritual Discipline",
-            "expansion": "The precise scheduling of gateway openings suggests intentional, structured spiritual practices."
-          },
-          {
-            "id": 2,
-            "text": "Leadership's Humble Worship",
-            "expansion": "The prince's prescribed worship demonstrates that even leaders are subject to divine protocol."
-          },
-          {
-            "id": 3,
-            "text": "Sacred Space and Access",
-            "expansion": "The carefully regulated entry points symbolize the sanctity and deliberateness of approaching the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual boundaries are so meticulously defined, what does this reveal about the nature of holiness and human limitation?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious practices be rigidly structured versus spiritually spontaneous?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Spiritual Freedom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and divine approach transformed?",
-        "options": [
-          "More appreciative of structured spiritual practices",
-          "Recognize complexity of sacred boundaries",
-          "Understand leadership's spiritual accountability",
-          "See deeper symbolic meaning in religious rituals"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Ceremonial details symbolize deeper spiritual truths about relationship with God",
           "Worship practices should balance individual freedom with communal order"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD GOD says",
+            "ref": "v. 9",
+            "speaker": "The LORD GOD"
+          }
+        ],
+        "question": "Imagine you are one of the people of the land who came in by the north gate to worship. You are told to go out by the south gate and not to return the way you came. What would you wonder as you walk through?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Leviticus 23:1-4",
+        "summary": "The LORD GOD gives instructions for the Sabbath and the New Moon (vv. 1-3). Leviticus 23 says six days of work may be done, but the seventh day is a Sabbath of complete rest and sacred assembly.",
+        "question": "How does Leviticus 23:1-4 help you understand why the Sabbath is set apart in Ezekiel's instructions?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "the prince must not take any of the inheritance of the people by evicting them from their property",
+        "feeling": "greed, selfishness",
+        "object": "my personal advantage",
+        "behavior": "taking what is not mine",
+        "step": "protect the needs of others",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:my personal advantage} and instead of {behavior:taking what is not mine}, I will {step:protect the needs of others}."
       }
     }
   }

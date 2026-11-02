@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic in John 7 resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus' Tension with Religious Authorities",
-            "expansion": "Religious institutions can often resist transformative spiritual truth"
-          },
-          {
-            "id": 2,
-            "text": "Divine Timing and Human Impatience",
-            "expansion": "God's purposes unfold beyond human expectations and schedules"
-          },
-          {
-            "id": 3,
-            "text": "Public Perception vs. Authentic Faith",
-            "expansion": "True spiritual understanding transcends popular opinion and superficial judgment"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal prejudices and cultural assumptions potentially blind us to recognizing genuine spiritual revelation?"
-      },
-      "moral_slider": {
-        "question": "Where do you position authentic spiritual discernment?",
-        "left_label": "External Religious Compliance",
-        "right_label": "Internal Spiritual Authenticity"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual leadership?",
-        "options": [
-          "Recognize complexity beyond simple religious categories",
-          "Understand the role of courage in spiritual truth-telling",
-          "Appreciate the tension between institutional authority and prophetic insight",
-          "Acknowledge the importance of patient, nuanced spiritual discernment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By exposing the limitations of legalistic religious interpretation",
           "Highlighting personal relationship with God over ritualistic observance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The Jews asked",
+            "ref": "v. 15",
+            "speaker": "The Jews"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 16",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of those amazed by His learning. What would you understand about His teaching once you know it comes from the One who sent Him?"
+      },
+      "chain": {
+        "after": 38,
+        "ref": "John 6:35",
+        "summary": "Jesus offers himself as the source of life to the thirsty (v. 37). In an earlier teaching, he identifies himself as the bread that satisfies hunger (v. 35).",
+        "question": "How does knowing Jesus is the bread of life help you understand his promise of living water?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "judging justly looks beyond outward appearances",
+        "feeling": "judgment, suspicion",
+        "object": "a person's first impression",
+        "behavior": "forming quick opinions",
+        "step": "seek the truth beneath the surface",
+        "template": "from today I let go of my {feeling:judgment, suspicion} over {object:a person's first impression} and instead of {behavior:forming quick opinions}, I will {step:seek the truth beneath the surface}."
       }
     }
   }

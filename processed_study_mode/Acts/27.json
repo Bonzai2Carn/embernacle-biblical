@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of Paul's journey most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Guidance in Uncertainty",
-            "expansion": "Paul's confidence amidst maritime chaos suggests supernatural direction transcends human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Leadership Through Crisis",
-            "expansion": "Paul's strategic counsel to sailors demonstrates spiritual leadership emerges from inner conviction."
-          },
-          {
-            "id": 3,
-            "text": "Providential Protection",
-            "expansion": "God's promise of preservation reveals that divine plans cannot be thwarted by external circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises exist alongside potential danger, how do we distinguish between faithful persistence and reckless presumption?"
-      },
-      "moral_slider": {
-        "question": "How do personal prophetic experiences balance against pragmatic risk assessment?",
-        "left_label": "Human Calculation",
-        "right_label": "Spiritual Revelation"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine guidance?",
-        "options": [
-          "Recognized God's sovereignty in unpredictable situations",
-          "Understood leadership requires spiritual and practical wisdom",
-          "Appreciated that faith doesn't eliminate challenges but provides perspective",
-          "Recognized personal peace can coexist with external uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's purposes are accomplished independent of human perception or understanding",
           "Trials serve as transformative experiences for spiritual growth and witness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Paul advised them",
+            "ref": "v. 10",
+            "speaker": "Paul"
+          },
+          {
+            "who": "The centurion was persuaded by the pilot and the owner of the ship",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the centurion's place. Paul warns of disaster and great loss, yet the pilot and the owner of the ship persuade you. What do you weigh as you decide?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Philippians 1:12-14",
+        "summary": "Paul tells the men that God has promised he must stand before Caesar and that the lives of all who sail with him are granted (vv. 24-25). In Philippians he writes that his circumstances in chains have served to advance the gospel.",
+        "question": "How does Philippians 1:12-14 help you understand how Paul can say take courage while he is still a prisoner heading to Caesar?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "trust",
+        "because": "what God told me will happen exactly as He said",
+        "feeling": "anxiety, dread",
+        "object": "a sudden change in plans",
+        "behavior": "assuming the worst",
+        "step": "rest in what God has promised",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a sudden change in plans} to God and instead of {behavior:assuming the worst}, I will {step:rest in what God has promised}."
       }
     }
   }

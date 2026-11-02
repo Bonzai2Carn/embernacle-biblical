@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine provision resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's forgiveness of sins",
-            "expansion": "The profound grace that cleanses human transgression and enables relationship with the divine."
-          },
-          {
-            "id": 2,
-            "text": "Natural abundance and seasonal cycles",
-            "expansion": "The theological understanding of creation as a continuous manifestation of divine generosity."
-          },
-          {
-            "id": 3,
-            "text": "Divine responsiveness to human prayer",
-            "expansion": "The intimate dialogue between human vulnerability and God's attentive listening."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's goodness is manifest in abundance, what constrains human perception of divine generosity?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations intersect with divine sovereignty?",
-        "left_label": "Human Insignificance",
-        "right_label": "Divine Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine provision evolved?",
-        "options": [
-          "Recognize systemic interconnectedness",
-          "Appreciate subtle spiritual dynamics",
-          "Embrace complexity of divine-human relationship",
-          "Develop deeper gratitude for existential provisions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Natural processes reflect God's underlying spiritual governance",
           "Human prayer fundamentally alters divine plans"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist admits",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist proclaims",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone overwhelmed by their own failures. How does the shift from transgressions to being chosen and brought near change your view of God's presence?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Genesis 1:31",
+        "summary": "The psalmist sees God crowning the year with bounty and paths overflowing with plenty (v. 11). Genesis describes the same God looking at all He had made and seeing that it was very good (Gen 1:31).",
+        "question": "How does seeing God's ongoing care for the earth help you understand the goodness of His original creation?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "You listen to prayer, and all people will come to You",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "trying to fix it alone",
+        "step": "bring my requests to Him",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:trying to fix it alone}, I will {step:bring my requests to Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of ritual purity most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Physical Manifestations of Spiritual Condition",
-            "expansion": "Skin diseases symbolize deeper spiritual states beyond mere physical symptoms."
-          },
-          {
-            "id": 2,
-            "text": "Community Protection through Isolation",
-            "expansion": "Quarantine represents a complex balance between compassion and collective well-being."
-          },
-          {
-            "id": 3,
-            "text": "Detailed Diagnostic Procedures",
-            "expansion": "Meticulous observation reflects a profound reverence for holistic human health."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might defining 'unclean' be more about maintaining communal integrity than personal judgment?"
-      },
-      "moral_slider": {
-        "question": "How do protective boundaries relate to genuine compassion?",
-        "left_label": "Strict Separation",
-        "right_label": "Inclusive Healing"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on ritual purity evolved?",
-        "options": [
-          "More aware of community health dynamics",
-          "Recognize symbolic meaning beyond literal interpretation",
-          "Appreciate complexity of ancient medical/spiritual practices",
-          "See deeper connections between physical and spiritual wellness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Bodily conditions serve as spiritual metaphors for inner condition",
           "Holiness requires systematic, intentional approaches to potential contamination"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The priest pronounces the infected person clean",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the person covered from head to foot. How does the priest's verdict change your understanding of what it means to be clean?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Luke 17:14",
+        "summary": "The priest examines the skin and pronounces the person clean once it has all turned white (v. 13). Jesus tells ten lepers to show themselves to the priests, and they are cleansed as they go (Luke 17:14).",
+        "question": "How does Jesus sending the lepers to the priests help you understand the priest's role in declaring someone clean in Leviticus 13?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "exposure",
+        "because": "a diseased person must wear torn clothes and let his hair hang loose",
+        "feeling": "shame, embarrassment",
+        "object": "my visible failures",
+        "behavior": "hiding my mistakes",
+        "step": "admit my need for help",
+        "template": "from today I bring my {feeling:shame, embarrassment} about {object:my visible failures} into the light and instead of {behavior:hiding my mistakes}, I will {step:admit my need for help}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine sovereignty in human plans",
-            "expansion": "Recognizing that ultimate purpose transcends individual human intentions."
-          },
-          {
-            "id": 2,
-            "text": "Inner motivations matter more than external actions",
-            "expansion": "God examines the heart's true orientation beyond superficial behaviors."
-          },
-          {
-            "id": 3,
-            "text": "Humility as a fundamental spiritual virtue",
-            "expansion": "Pride disrupts relationship with God and invites spiritual consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If all your ways seem pure to you, what mechanisms exist to challenge your own self-perception?"
-      },
-      "moral_slider": {
-        "question": "How do human free will and divine providence coexist?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Control"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal agency and divine guidance shifted?",
-        "options": [
-          "Recognize more limitations in my own perspective",
-          "Understand divine guidance as collaborative, not controlling",
-          "See pride as a significant spiritual obstacle",
-          "Appreciate the complexity of spiritual discernment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God guides human decisions while respecting human agency",
           "Divine plans override human intentions without exception"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person who thinks his own ways are pure. What do you understand about who weighs his motives?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Samuel 16:7",
+        "summary": "Proverbs 16 says every man's ways seem pure in his own eyes, but the LORD weighs his motives (v. 2). In 1 Samuel 16:7 the LORD says He does not see as man does: man sees the outward appearance, but the LORD sees the heart.",
+        "question": "How does 1 Samuel 16:7 help you understand why the LORD weighs the motives behind your ways?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "pride goes before destruction, and a haughty spirit before a fall",
+        "feeling": "pride, self-importance",
+        "object": "a compliment about my work",
+        "behavior": "claiming the credit",
+        "step": "thank the people who helped me",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:a compliment about my work} into the light and instead of {behavior:claiming the credit}, I will {step:thank the people who helped me}."
       }
     }
   }

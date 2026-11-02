@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative moment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The empty tomb",
-            "expansion": "A radical disruption of expected reality challenges everything we understand about life and death."
-          },
-          {
-            "id": 2,
-            "text": "Jesus appearing to disciples",
-            "expansion": "Resurrection manifests not just as theological concept, but intimate personal encounter."
-          },
-          {
-            "id": 3,
-            "text": "Opening of scripture understanding",
-            "expansion": "True comprehension comes through spiritual illumination, not merely intellectual analysis."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If resurrection is true, how must every subsequent moment of human understanding be fundamentally reinterpreted?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between witnessing and believing?",
-        "left_label": "Empirical Evidence",
-        "right_label": "Spiritual Intuition"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of transformation shifted?",
-        "options": [
-          "Death is not final",
-          "Personal encounters matter more than abstract theories",
-          "Scripture requires spiritual interpretation",
-          "Belief is a journey, not a destination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -110,6 +71,41 @@
           "Eyewitness testimony validates theological claims",
           "Miraculous events require suspension of naturalistic worldviews"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "Cleopas said",
+            "ref": "v. 21",
+            "speaker": "Cleopas"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "vv. 25-26",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Cleopas's place. You tell a stranger you were hoping Jesus was the One who would redeem Israel, and he answers that the Christ had to suffer these things and then enter His glory. What do you weigh as you hear that?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Matthew 28:6",
+        "summary": "The women are told, 'He is not here; He has risen' (v. 6). Matthew 28:6 says the same: 'He is not here; He has risen, just as He said! Come, see the place where He lay.'",
+        "question": "How does Matthew 28:6 help you understand what it means that He has risen, as the women are told in Luke 24:6?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "exposure",
+        "because": "Jesus asked why the disciples were troubled and why doubts arose in their hearts",
+        "feeling": "anxiety, confusion",
+        "object": "a sudden change in my life",
+        "behavior": "questioning God's goodness",
+        "step": "look at His hands and feet",
+        "template": "from today I bring my {feeling:anxiety, confusion} about {object:a sudden change in my life} into the light and instead of {behavior:questioning God's goodness}, I will {step:look at His hands and feet}."
       }
     }
   }

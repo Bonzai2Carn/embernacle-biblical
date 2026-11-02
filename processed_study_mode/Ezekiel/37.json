@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resurrection of Hope",
-            "expansion": "Even in the most desolate circumstances, divine restoration is possible."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Agency",
-            "expansion": "Human obedience can become a conduit for miraculous divine intervention."
-          },
-          {
-            "id": 3,
-            "text": "Collective Renewal",
-            "expansion": "Individual spiritual rebirth connects to a larger communal redemption narrative."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What parts of your inner life feel like a valley of dry bones waiting for divine breath?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between human limitation and divine possibility?",
-        "left_label": "Human Impossibility",
-        "right_label": "Divine Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual restoration shifted?",
-        "options": [
-          "I now see hope as more dynamic",
-          "I recognize divine power beyond human perception",
-          "Community healing matters more than individual transformation",
-          "Prophetic voice can catalyze profound change"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National and individual restoration depends on divine intervention",
           "Prophetic proclamation has transformative supernatural potential"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The house of Israel says",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the people who say their bones are dried up and their hope has perished. What changes for you when God says He will open your graves and bring you up from them?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Isaiah 43:18-19",
+        "summary": "The LORD promises to open graves and bring His people back to their land (vv. 12-13). Isaiah tells the people not to call to mind the former things, because God is about to do something new (Isa 43:18-19).",
+        "question": "How does Isaiah's focus on a new thing help you understand the scale of the restoration promised to the house of Israel?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "trust",
+        "because": "the house of Israel says its hope has perished and it is cut off",
+        "feeling": "despair, hopelessness",
+        "object": "a dead situation",
+        "behavior": "counting myself as lost",
+        "step": "speak the word of the LORD over it",
+        "template": "from today I entrust my {feeling:despair, hopelessness} about {object:a dead situation} to God and instead of {behavior:counting myself as lost}, I will {step:speak the word of the LORD over it}."
       }
     }
   }

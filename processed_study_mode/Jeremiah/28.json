@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic dynamic resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "False prophecy of easy restoration",
-            "expansion": "Hananiah's smooth message masks the deeper spiritual transformation required"
-          },
-          {
-            "id": 2,
-            "text": "Jeremiah's confrontational truth-telling",
-            "expansion": "Speaking uncomfortable realities requires courage and divine alignment"
-          },
-          {
-            "id": 3,
-            "text": "The public nature of prophetic discourse",
-            "expansion": "Spiritual messages are meant to challenge communal assumptions, not just individual perspectives"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What makes a prophet authentic: the comfort of their message or the alignment of their words with deeper spiritual truth?"
-      },
-      "moral_slider": {
-        "question": "How do we discern between hope and delusion in spiritual proclamations?",
-        "left_label": "Skepticism",
-        "right_label": "Trust"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of prophetic communication?",
-        "options": [
-          "Recognizing the seductiveness of comfortable narratives",
-          "Understanding the courage required to speak uncomfortable truths",
-          "Seeing how spiritual deception can emerge from well-intentioned messages",
-          "Appreciating the complexity of discerning divine communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek confirmation through mature spiritual leadership",
           "Observe whether prophetic predictions actually manifest"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Hananiah broke the yoke",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Jeremiah is told to speak",
+            "ref": "v. 13",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place. The yoke has just been taken off your neck and broken, and now you are told to say, 'You have broken a yoke of wood, but in its place you have fashioned a yoke of iron.' What would you weigh about what was broken?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Matthew 7:15-20",
+        "summary": "Jeremiah says the prophet who prophesies peace is recognized as sent by the LORD only if his word comes true (v. 9). Jesus warns of false prophets who come in sheep's clothing but are ravenous wolves, and says they are known by their fruit.",
+        "question": "How does Jesus' warning about fruit help you weigh the words of a prophet who promises peace (v. 9)?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "Hananiah, whom the LORD did not send, has persuaded this people to trust in a lie",
+        "feeling": "anxiety, fear",
+        "object": "a popular but false opinion",
+        "behavior": "agreeing just to keep the peace",
+        "step": "speak the truth even when it is unpopular",
+        "template": "from today I bring my {feeling:anxiety, fear} about {object:a popular but false opinion} into the light and instead of {behavior:agreeing just to keep the peace}, I will {step:speak the truth even when it is unpopular}."
       }
     }
   }

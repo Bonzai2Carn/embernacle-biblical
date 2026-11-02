@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human pride most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intellectual Hubris",
-            "expansion": "Believing one's wisdom surpasses human limitations and divine understanding."
-          },
-          {
-            "id": 2,
-            "text": "Material Achievement",
-            "expansion": "Accumulating wealth and power as a measure of personal significance."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Self-Deification",
-            "expansion": "Positioning oneself as autonomous and beyond moral accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does confidence become destructive delusion, and who determines the boundary between self-assurance and arrogance?"
-      },
-      "moral_slider": {
-        "question": "How do human achievement and divine sovereignty intersect?",
-        "left_label": "Human Potential",
-        "right_label": "Divine Limitation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal limitations shifted?",
-        "options": [
-          "I recognize my inherent human vulnerability",
-          "I see pride as a potential spiritual obstacle",
-          "I appreciate the importance of humility",
-          "I understand the difference between confidence and delusion"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Correction serves as a redemptive opportunity for spiritual realignment",
           "Consequences expose the inherent limitations of human wisdom"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD GOD says",
+            "ref": "v. 17",
+            "speaker": "The LORD GOD"
+          }
+        ],
+        "question": "Put yourself in the place of the king of Tyre. Your heart grew proud of your beauty, and your splendor corrupted your wisdom. What would you still have of your splendor once you are cast to the earth?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Proverbs 16:18",
+        "summary": "The ruler of Tyre has a proud heart and says, 'I am a god' (v. 2). Proverbs says pride goes before destruction and a haughty spirit before a fall.",
+        "question": "How does the warning in Proverbs 16:18 help you see where the ruler of Tyre's claim leads?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "exposure",
+        "because": "the ruler of Tyre's heart is proud, and he said, 'I am a god'",
+        "feeling": "self-importance, arrogance",
+        "object": "my own achievements",
+        "behavior": "taking all the credit",
+        "step": "acknowledge God's hand in my success",
+        "template": "from today I bring my {feeling:self-importance, arrogance} about {object:my own achievements} into the light and instead of {behavior:taking all the credit}, I will {step:acknowledge God's hand in my success}."
       }
     }
   }

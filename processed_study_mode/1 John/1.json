@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of Christ's manifestation resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "heard",
-            "text": "That Which Was Heard",
-            "expansion": "The apostolic testimony represents the auditory transmission of divine truth through personal witness."
-          },
-          {
-            "id": "seen",
-            "text": "That Which Was Seen",
-            "expansion": "Direct visual encounter with the eternal Word transforms abstract theology into tangible reality."
-          },
-          {
-            "id": "touched",
-            "text": "That Which Was Handled",
-            "expansion": "Physical proximity to Christ signifies the profound incarnational reality of divine presence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If eternal life is already manifest, how do we simultaneously experience its present reality and future promise?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine perfection and human limitation?",
-        "left_label": "Human Brokenness",
-        "right_label": "Divine Holiness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual fellowship evolved?",
-        "options": [
-          "Recognized fellowship as relational, not institutional",
-          "Understood communion as vertical (with God) and horizontal (with believers)",
-          "Saw transparency about sin as essential to authentic connection",
-          "Realized fellowship transcends personal experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical representation of divine principle",
           "Simultaneously divine and human, bridging supernatural and natural realms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The author warns",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The author promises",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those hearing this message. You hear a warning about walking in darkness, then a promise about walking in the light. What does the second part set against the first?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "John 1:1-4",
+        "summary": "The author says the Word of life was seen, heard, and touched (vv. 1-2), and that the message is God is light and in Him there is no darkness at all (v. 5). John 1:1-4 says the Word was with God, and that in Him was life, and that life was the light of men.",
+        "question": "How does John 1:1-4 help you understand the message that God is light in 1 John 1:5?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "God is faithful and just to forgive us our sins and to cleanse us from all unrighteousness",
+        "feeling": "shame, guilt",
+        "object": "a recent failure",
+        "behavior": "hiding my mistakes",
+        "step": "confess it to Him",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:a recent failure} and instead of {behavior:hiding my mistakes}, I will {step:confess it to Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of remembered blessing resonates most?",
-        "choices": [
-          {
-            "id": "divine_protection",
-            "text": "God's intimate guardianship",
-            "expansion": "Recognizing divine oversight as a profound personal relationship beyond institutional religion."
-          },
-          {
-            "id": "community_respect",
-            "text": "Social standing and honor",
-            "expansion": "Understanding personal reputation as a complex interplay of character and communal perception."
-          },
-          {
-            "id": "nostalgic_longing",
-            "text": "Mourning past prosperity",
-            "expansion": "Exploring how memory constructs emotional landscapes of loss and transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine favor is not guaranteed, what truly defines human worth?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine relationship intersect?",
-        "left_label": "Abandonment",
-        "right_label": "Continuous Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual seasons evolved?",
-        "options": [
-          "Recognizing impermanence of worldly status",
-          "Understanding suffering as potential transformation",
-          "Seeing challenge as opportunity for deeper faith",
-          "Accepting mystery in divine interactions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal righteousness does not guarantee temporal blessing",
           "Divine relationship transcends momentary experiences of comfort or discomfort"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Job cries",
+            "ref": "v. 2",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job remembers",
+            "ref": "v. 3",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place as he looks back on the days when God watched over him. What would you weigh about walking through the darkness when you remember His lamp shining above your head?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Deuteronomy 28:1-14",
+        "summary": "Job remembers a time when those who heard him called him blessed (v. 11) and he rescued the poor (v. 12). Deuteronomy lists the blessings the LORD promises to those who obey His commandments.",
+        "question": "How does the list of blessings in Deuteronomy 28:1-14 help you understand the days Job remembers?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "I served as eyes to the blind and as feet to the lame",
+        "feeling": "indifference, apathy",
+        "object": "someone in need",
+        "behavior": "walking past them",
+        "step": "stop and offer help",
+        "template": "from today I bring You my {feeling:indifference, apathy} about {object:someone in need} and instead of {behavior:walking past them}, I will {step:stop and offer help}."
       }
     }
   }

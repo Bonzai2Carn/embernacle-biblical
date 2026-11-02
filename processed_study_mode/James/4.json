@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central insight about human desire and conflict resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Internal desires create external conflicts",
-            "expansion": "Our unmet inner cravings generate relational and spiritual warfare."
-          },
-          {
-            "id": 2,
-            "text": "Worldly friendship opposes divine connection",
-            "expansion": "Aligning with temporal values inevitably distances us from spiritual intimacy."
-          },
-          {
-            "id": 3,
-            "text": "Prayer requires pure motivations",
-            "expansion": "Authentic communication with God demands genuine, selfless intentionality."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your deepest desires were transparently visible to everyone, what would they reveal about your true spiritual orientation?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambitions relate to spiritual submission?",
-        "left_label": "Self-Determination",
-        "right_label": "Divine Alignment"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on personal desires and spiritual growth shifted?",
-        "options": [
-          "I now see conflicts as spiritual symptoms",
-          "My prayer life needs motivational refinement",
-          "Worldly success seems less important",
-          "I'm more aware of internal spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Internal conflicts reflect deeper spiritual struggles",
           "Personal ambitions can become idolatrous substitutes for divine relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "James asks",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "James answers",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone choosing between the world and God. What does the promise of more grace change about the cost of that choice?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Galatians 5:16-17",
+        "summary": "James points to the passions at war within you (v. 1). Galatians 5:16-17 says the flesh craves what is contrary to the Spirit and the Spirit what is contrary to the flesh, so they are opposed to each other.",
+        "question": "How does Galatians 5:16-17 help you understand the war within described in James 4:1?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "anyone who knows the right thing to do, yet fails to do it, is guilty of sin",
+        "feeling": "guilt, shame",
+        "object": "a known responsibility",
+        "behavior": "ignoring the need",
+        "step": "act on it right now",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a known responsibility} and instead of {behavior:ignoring the need}, I will {step:act on it right now}."
       }
     }
   }

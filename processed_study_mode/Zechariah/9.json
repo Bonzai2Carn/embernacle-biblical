@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme most resonates with divine judgment in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over nations",
-            "expansion": "The Lord demonstrates ultimate control beyond human political machinations."
-          },
-          {
-            "id": 2,
-            "text": "Redemptive restoration of Israel",
-            "expansion": "Despite judgment, God promises ultimate restoration and blessing for His covenant people."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic anticipation of Messiah",
-            "expansion": "The chapter subtly points toward a future redemptive king who will bring peace."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine judgment simultaneously represent both destruction and potential spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent does God's judgment reflect justice versus mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic literature shifted after studying this chapter?",
-        "options": [
-          "Recognize more nuanced divine communication",
-          "Understand prophecy as multilayered",
-          "See judgment as part of redemptive history",
-          "Appreciate symbolic/metaphorical language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings provide opportunities for repentance",
           "Judgment serves as a redemptive process for ultimate restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The prophet proclaims",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Daughter of Zion, hearing this news of a King arriving. How does his humble arrival change what you expect from his rule over the nations?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Isaiah 42:2-4",
+        "summary": "Zechariah says the King comes humble, riding on a donkey, and will proclaim peace to the nations (vv. 9-10). Isaiah says of one that He will not cry out, will not break a bruised reed, and will faithfully bring forth justice (Isa 42:2-4).",
+        "question": "How does Isaiah 42:2-4 help you understand the kind of King who comes humble in Zechariah 9:9?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "remembrance",
+        "because": "the LORD will restore double to those in the stronghold",
+        "feeling": "despair, hopelessness",
+        "object": "a season of loss",
+        "behavior": "withdrawing from others",
+        "step": "return to my place of hope",
+        "template": "from today I let go of my {feeling:despair, hopelessness} over {object:a season of loss} and instead of {behavior:withdrawing from others}, I will {step:return to my place of hope}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of political conflict resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Manipulation",
-            "expansion": "Ahithophel's cunning plan reveals how political strategy can be coldly calculated and emotionally detached."
-          },
-          {
-            "id": 2,
-            "text": "Loyalty Under Pressure",
-            "expansion": "Hushai's strategic counter-counsel demonstrates how loyalty can be expressed through intellectual resistance."
-          },
-          {
-            "id": 3,
-            "text": "Family Betrayal",
-            "expansion": "Absalom's rebellion against his father David represents the deepest potential for human relational fracture."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal ambitions become more destructive than the principles they initially claim to serve?"
-      },
-      "moral_slider": {
-        "question": "Where does legitimate leadership succession become illegitimate rebellion?",
-        "left_label": "Personal Ambition",
-        "right_label": "Legitimate Authority"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership conflict evolved?",
-        "options": [
-          "Power is more complex than simple right and wrong",
-          "Family dynamics can catastrophically override loyalty",
-          "Strategic thinking can be both destructive and protective",
-          "Wisdom often emerges from unexpected sources"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine guidance operates through human counsel and decision-making",
           "Spiritual discernment trumps strategic human planning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Absalom and all the men of Israel said",
+            "ref": "v. 14",
+            "speaker": "All the men of Israel"
+          }
+        ],
+        "question": "Put yourself among the men of Israel weighing two plans. You say the advice of Hushai is better than that of Ahithophel. What would you understand about your choice, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Proverbs 16:9",
+        "summary": "Absalom and his men chose a plan that seemed better to them (v. 14), yet the Lord directed the outcome. This shows how human decisions and divine purposes meet.",
+        "question": "How does Proverbs 16:9 help you understand the choice made by Absalom and the men of Israel?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "David and all the people with him got up and crossed the Jordan",
+        "feeling": "anxiety, dread",
+        "object": "a sudden change in plans",
+        "behavior": "stalling or waiting for more information",
+        "step": "move forward in obedience",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a sudden change in plans} and instead of {behavior:stalling or waiting for more information}, I will {step:move forward in obedience}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of oppression resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Hidden Survival",
-            "expansion": "The Israelites' retreat into mountain caves reveals the psychological trauma of persistent oppression."
-          },
-          {
-            "id": 2,
-            "text": "Economic Destruction",
-            "expansion": "The Midianites' systematic destruction of agricultural resources represents a calculated strategy of cultural annihilation."
-          },
-          {
-            "id": 3,
-            "text": "Generational Suffering",
-            "expansion": "Seven years of continuous oppression suggests how systemic violence erodes community resilience and hope."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When systemic oppression becomes normalized, how do individuals maintain their sense of human dignity and agency?"
-      },
-      "moral_slider": {
-        "question": "How do divine interventions interact with human responsibility in times of collective struggle?",
-        "left_label": "Human Powerlessness",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of historical suffering and redemption?",
-        "options": [
-          "I see collective trauma more complexly",
-          "I recognize patterns of systemic oppression",
-          "I understand divine intervention differently",
-          "I appreciate historical resilience more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering serves as a catalyst for spiritual renewal and transformation",
           "God's mercy consistently precedes and follows His discipline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Gideon replied",
+            "ref": "v. 13",
+            "speaker": "Gideon"
+          },
+          {
+            "who": "The LORD turned to him and said",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Gideon's place, looking at the destruction around you and questioning God's presence. How does His command to go in your strength change the weight of your doubt?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "1 Samuel 16:7",
+        "summary": "The angel calls Gideon a mighty man of valor while he hides in a winepress (v. 12). Years later, God reveals that He does not look at outward appearance but at the heart (1 Samuel 16:7).",
+        "question": "How does knowing God looks at the heart help you understand why He calls a man hiding in a winepress 'mighty'?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "Gideon was too afraid of his father’s household and the men of the city",
+        "feeling": "fear, hesitation",
+        "object": "doing what is right",
+        "behavior": "acting only when no one is watching",
+        "step": "obey clearly in the light",
+        "template": "from today I let go of my {feeling:fear, hesitation} over {object:doing what is right} and instead of {behavior:acting only when no one is watching}, I will {step:obey clearly in the light}."
       }
     }
   }

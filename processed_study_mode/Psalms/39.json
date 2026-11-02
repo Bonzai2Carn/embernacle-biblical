@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theme resonates most from David's meditation on human frailty?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Transient Nature of Human Life",
-            "expansion": "Recognizing our mortality and brevity highlights the importance of seeking deeper spiritual understanding."
-          },
-          {
-            "id": 2,
-            "text": "Self-Restraint in Suffering",
-            "expansion": "Choosing silence and patient endurance during painful moments demonstrates spiritual maturity."
-          },
-          {
-            "id": 3,
-            "text": "Divine Perspective on Human Struggles",
-            "expansion": "Understanding that God sees beyond our temporal challenges provides ultimate comfort and context."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human life is truly as fleeting as a 'mere handbreadth', what measurements of significance transcend our brief existence?"
-      },
-      "moral_slider": {
-        "question": "How do we balance acknowledging human weakness with maintaining spiritual hope?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Possibility"
-      },
-      "reevaluation": {
-        "question": "How has this psalm challenged your understanding of suffering and temporality?",
-        "options": [
-          "I now see suffering as a pathway to deeper spiritual insight",
-          "My perspective on human mortality has become more nuanced",
-          "I recognize the importance of patient endurance",
-          "I feel more aware of life's transient nature"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding mortality reduces anxiety and promotes present-moment living",
           "Embracing human fragility deepens appreciation for God's eternal nature"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist cried",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "David declares",
+            "ref": "v. 7",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. Your heart grows hot as you muse, and the fire burns. What do you weigh when you ask, 'For what do I wait?' and answer, 'My hope is in You'?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "James 4:14",
+        "summary": "The psalmist says his days are as handbreadths and his life is as nothing, and every man at his best is but a breath (v. 5). James 4:14 says life is a mist that appears for a little while and then vanishes.",
+        "question": "How does James 4:14 help you understand the psalmist's words about his days being as handbreadths (v. 5)?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "my hope is in You",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to control outcomes",
+        "step": "rest in His faithfulness",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:an uncertain future} and instead of {behavior:trying to control outcomes}, I will {step:rest in His faithfulness}."
       }
     }
   }

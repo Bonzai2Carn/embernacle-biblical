@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of leadership resonates most from Nehemiah's approach?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Careful Record-Keeping",
-            "expansion": "Tracking genealogies demonstrates strategic organizational understanding beyond immediate construction"
-          },
-          {
-            "id": 2,
-            "text": "Delegating Responsibility",
-            "expansion": "Nehemiah wisely assigns roles based on trustworthiness and capability"
-          },
-          {
-            "id": 3,
-            "text": "Community Restoration",
-            "expansion": "Rebuilding isn't just about walls, but reconnecting people to their collective identity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If restoration requires meticulous documentation, what unrecorded stories might be lost in the margins of historical records?"
-      },
-      "moral_slider": {
-        "question": "How do administrative tasks relate to spiritual transformation?",
-        "left_label": "Bureaucratic Mechanism",
-        "right_label": "Divine Orchestration"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on community leadership shifted?",
-        "options": [
-          "Leadership requires more than vision",
-          "Details matter as much as grand gestures",
-          "Collective memory shapes communal identity",
-          "Administrative work can be a form of spiritual service"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual identity is significant within collective restoration",
           "Leadership selection requires divine wisdom beyond human metrics"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 65,
+        "exchange": [
+          {
+            "who": "The priests searched for their family records, but they could not find them",
+            "ref": "v. 64",
+            "speaker": ""
+          },
+          {
+            "who": "The governor ordered them not to eat the most holy things",
+            "ref": "v. 65",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of these priests. You search for your family record and cannot find it. What would you weigh about your place among the priests, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 64,
+        "ref": "Revelation 20:12",
+        "summary": "These priests search for their family records, cannot find them, and are excluded from the priesthood as unclean (v. 64). John sees the dead judged by what is recorded in the books (Revelation 20:12).",
+        "question": "How does the written record in Revelation 20:12 help you understand why the missing family records in Nehemiah 7 mattered?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "remembrance",
+        "because": "Hanani was a faithful man who feared God more than most",
+        "feeling": "insecurity, doubt",
+        "object": "my ability to lead",
+        "behavior": "seeking constant approval",
+        "step": "trust God with the role He gives me",
+        "template": "from today I let go of my {feeling:insecurity, doubt} over {object:my ability to lead} and instead of {behavior:seeking constant approval}, I will {step:trust God with the role He gives me}."
       }
     }
   }

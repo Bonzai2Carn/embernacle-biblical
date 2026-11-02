@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about David's final counsel to Solomon?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Legacy",
-            "expansion": "Passing wisdom between generations requires intentional spiritual mentorship."
-          },
-          {
-            "id": 2,
-            "text": "Personal Accountability",
-            "expansion": "Individual righteousness determines collective blessing and national trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Divine Covenant Continuity",
-            "expansion": "God's promises persist through faithful leadership succession."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal obedience create broader systemic transformation beyond individual spiritual practice?"
-      },
-      "moral_slider": {
-        "question": "Where do personal loyalty and divine justice intersect in leadership succession?",
-        "left_label": "Human Loyalty",
-        "right_label": "Divine Judgment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance changed?",
-        "options": [
-          "Leadership is more about character than position",
-          "Generational wisdom matters profoundly",
-          "Divine promises require human cooperation",
-          "Spiritual legacy transcends individual lifespans"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Avoid confrontation and seek compromise",
           "Rely solely on prophetic guidance for decision-making"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Adonijah said",
+            "ref": "v. 15",
+            "speaker": "Adonijah"
+          },
+          {
+            "who": "Solomon answered",
+            "ref": "v. 22",
+            "speaker": "Solomon"
+          }
+        ],
+        "question": "Put yourself in Solomon's place. Adonijah has said the kingship was his, though it came to you from the LORD. What do you see in his request for Abishag?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "2 Samuel 7:12-16",
+        "summary": "David charges Solomon to walk in God's ways so that his descendants will remain on the throne (v. 3-4). This instruction rests on the promise God already made to David's house.",
+        "question": "How does the promise in 2 Samuel 7:12-16 help you understand why David emphasizes walking in God's statutes to Solomon?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "keeping the charge of the LORD and walking in His ways leads you to prosper in all you do and wherever you turn",
+        "feeling": "anxiety, restlessness",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "keep one command I have put off",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:an uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:keep one command I have put off}."
       }
     }
   }

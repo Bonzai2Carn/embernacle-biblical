@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership transition most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inherited Expectations",
-            "expansion": "How predecessors' legacies create immediate pressures for new leaders"
-          },
-          {
-            "id": 2,
-            "text": "Counsel's Influence",
-            "expansion": "The critical role of advisors in shaping transformative decisions"
-          },
-          {
-            "id": 3,
-            "text": "Generational Conflict",
-            "expansion": "The tensions between elder wisdom and younger perspective's revolutionary potential"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When leadership demands compromise, at what point does adaptation become capitulation?"
-      },
-      "moral_slider": {
-        "question": "How do principles balance against pragmatic governance?",
-        "left_label": "Ideological Purity",
-        "right_label": "Practical Accommodation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership dynamics shifted?",
-        "options": [
-          "Power is more nuanced than simple authority",
-          "Listening matters more than dictating",
-          "Generational perspectives fundamentally reshape institutions",
-          "Wisdom often comes from unexpected sources"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Pray for divine guidance and remain humble",
           "Prioritize personal reputation over collective well-being"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The elders replied",
+            "ref": "v. 7",
+            "speaker": "The elders"
+          },
+          {
+            "who": "Rehoboam rejected the advice",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Rehoboam's place. The elders say that kind words will keep these people as your servants forever. What would you weigh in that advice, and what would you still wonder before you answer?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "1 Kings 11:29-39",
+        "summary": "The king does not listen to the people, and the text says this turn of events was from God to fulfill the word spoken through Ahijah to Jeroboam (v. 15). In 1 Kings 11:29-39 Ahijah tears a cloak into twelve pieces and tells Jeroboam the LORD will give him ten tribes.",
+        "question": "How does 1 Kings 11:29-39 help you understand the word spoken through Ahijah that this chapter says was fulfilled (v. 15)?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the king answered them harshly",
+        "feeling": "defensiveness, irritation",
+        "object": "a criticism of my work",
+        "behavior": "snapping back with sharp words",
+        "step": "listen to the underlying need",
+        "template": "from today I let go of my {feeling:defensiveness, irritation} over {object:a criticism of my work} and instead of {behavior:snapping back with sharp words}, I will {step:listen to the underlying need}."
       }
     }
   }

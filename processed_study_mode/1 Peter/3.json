@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inner Beauty Over External Appearance",
-            "expansion": "True transformation begins in the heart, not through cosmetic changes"
-          },
-          {
-            "id": 2,
-            "text": "Quiet Submission as Spiritual Strength",
-            "expansion": "Gentleness can be more powerful than confrontation in spiritual influence"
-          },
-          {
-            "id": 3,
-            "text": "Suffering with Purpose",
-            "expansion": "Trials can be redemptive pathways for spiritual growth and witness"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your deepest vulnerabilities actually be portals for divine grace and transformation?"
-      },
-      "moral_slider": {
-        "question": "Between personal autonomy and spiritual submission, where do you locate authentic freedom?",
-        "left_label": "Individual Rights",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual influence shifted?",
-        "options": [
-          "I see power differently now",
-          "Gentleness feels more strategic",
-          "Suffering can have redemptive meaning",
-          "Inner character matters more than external performance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritizing spiritual character over cultural expectations",
           "Emphasizing individual spiritual growth within partnership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Peter says",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Peter says",
+            "ref": "v. 10",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in the place of someone who has been insulted. How does the command to return a blessing change your view of the person who attacked you?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "1 Samuel 16:7",
+        "summary": "The unfading beauty of a gentle and quiet spirit is precious in God's sight (v. 4). In 1 Samuel 16:7 the LORD says people see the outward appearance, but He sees the heart.",
+        "question": "How does 1 Samuel 16:7 help you understand why the inner disposition of the heart is precious in God's sight?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "believers set apart Christ as Lord in their hearts",
+        "feeling": "anxiety, dread",
+        "object": "the criticism of others",
+        "behavior": "defending my reputation",
+        "step": "respond with gentleness and respect",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the criticism of others} and instead of {behavior:defending my reputation}, I will {step:respond with gentleness and respect}."
       }
     }
   }

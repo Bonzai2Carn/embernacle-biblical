@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jesus' teachings in this chapter most challenges societal norms?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Marriage and Divorce Standards",
-            "expansion": "Jesus redefines marriage as a sacred, permanent covenant beyond cultural expectations."
-          },
-          {
-            "id": 2,
-            "text": "Kingdom Accessibility for Children",
-            "expansion": "Divine acceptance transcends social hierarchies and adult preconceptions."
-          },
-          {
-            "id": 3,
-            "text": "Wealth and Spiritual Priorities",
-            "expansion": "Material possessions can become spiritual barriers to true discipleship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wealth does not guarantee spiritual fulfillment, what truly defines a person's richness in God's economy?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance with divine calling?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of discipleship shifted?",
-        "options": [
-          "Recognizing the cost of following Christ",
-          "Understanding God's inclusive love",
-          "Challenging cultural religious assumptions",
-          "Valuing spiritual relationships over material gain"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Biblical teachings about marriage and relationships transcend cultural shifts",
           "Spiritual calling can sometimes supersede traditional family expectations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Some Pharisees asked",
+            "ref": "v. 3",
+            "speaker": "Some Pharisees"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "vv. 4-6",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the Pharisees testing Him. How does Jesus' answer change the focus from what is permitted to what was intended from the start?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Matthew 16:26",
+        "summary": "Jesus says it is hard for a rich man to enter the kingdom of heaven (v. 23). In Matthew 16, He asks what profit a man gains if he gains the whole world yet forfeits his soul.",
+        "question": "How does Matthew 16:26 help you weigh what a rich man risks by holding on to his wealth?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "trust",
+        "because": "with God all things are possible",
+        "feeling": "anxiety, doubt",
+        "object": "a goal that seems impossible",
+        "behavior": "relying on my own strength",
+        "step": "rest in His power",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a goal that seems impossible} to God and instead of {behavior:relying on my own strength}, I will {step:rest in His power}."
       }
     }
   }

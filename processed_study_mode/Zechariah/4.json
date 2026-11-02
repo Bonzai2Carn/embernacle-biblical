@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element of the vision most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Golden Lampstand",
-            "expansion": "Represents divine illumination and constant spiritual sustenance through God's presence."
-          },
-          {
-            "id": 2,
-            "text": "The Two Olive Trees",
-            "expansion": "Symbolizes continuous divine empowerment and leadership through prophetic and priestly anointing."
-          },
-          {
-            "id": 3,
-            "text": "The Seven Lamps",
-            "expansion": "Signifies completeness, perfection, and the comprehensive nature of divine revelation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power flows not by human might but by God's Spirit, what assumptions about personal capability must you re-examine?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human effort with divine empowerment?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Enabling"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized the primacy of divine empowerment",
-          "Understood leadership as a spiritual, not just organizational function",
-          "Appreciated the role of continuous spiritual nourishment",
-          "Saw leadership as a collaborative, Spirit-led process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual work requires collaborative partnership between human willingness and divine strength",
           "Supernatural enablement eliminates the need for human responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The angel gives the LORD's word",
+            "ref": "v. 6",
+            "speaker": "The Angel"
+          },
+          {
+            "who": "The angel speaks to the mountain",
+            "ref": "v. 7",
+            "speaker": "The angel"
+          }
+        ],
+        "question": "Put yourself in the place of Zerubbabel. You hear that the work will not be done by might or by power. What would you still wonder about the great mountain that will become a plain before you?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Ezra 3:8-13",
+        "summary": "Zechariah says Zerubbabel's hands have laid the foundation of this house, and his hands will complete it (v. 9). Ezra says the builders laid the foundation of the LORD's temple, and the people shouted for joy (Ezra 3:10-11).",
+        "question": "How does Ezra 3:8-13 help you understand the foundation that Zerubbabel's hands laid in Zechariah 4:9?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "the work is done not by might nor by power, but by the LORD's Spirit",
+        "feeling": "pride, self-reliance",
+        "object": "a task too big for me",
+        "behavior": "pushing harder on my own strength",
+        "step": "pray before I start my work",
+        "template": "from today I entrust my {feeling:pride, self-reliance} about {object:a task too big for me} to God and instead of {behavior:pushing harder on my own strength}, I will {step:pray before I start my work}."
       }
     }
   }

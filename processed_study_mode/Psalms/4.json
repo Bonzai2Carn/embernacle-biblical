@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most resonates about David's emotional landscape in this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Seeking Divine Refuge",
-            "expansion": "David finds comfort in God's protective presence during times of personal struggle."
-          },
-          {
-            "id": 2,
-            "text": "Confronting Inner Turmoil",
-            "expansion": "The Psalm reveals an honest wrestling with emotional pain and spiritual uncertainty."
-          },
-          {
-            "id": 3,
-            "text": "Trusting Divine Justice",
-            "expansion": "David confidently asserts God's ultimate sovereignty and righteousness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine prayer transform personal distress from a place of victimhood to a space of empowerment?"
-      },
-      "moral_slider": {
-        "question": "To what extent can personal integrity withstand external pressures?",
-        "left_label": "Vulnerable to Compromise",
-        "right_label": "Unshakeable Moral Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "Recognize suffering as a pathway to deeper faith",
-          "Understand prayer as active spiritual engagement",
-          "View challenges as opportunities for character growth",
-          "Appreciate vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine perspective enables rational resilience during trials",
           "Confidence in God's character supersedes situational challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Many ask",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "the psalmist prays",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those searching for something good. What does the psalmist's joy in God's presence reveal about the answer to that search?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Philippians 4:6-7",
+        "summary": "The psalmist asks God to answer him, show him grace and hear his prayer (v. 1). Philippians 4:6-7 says to present requests to God with thanksgiving, and the peace of God will guard hearts and minds.",
+        "question": "How does Philippians 4:6-7 help you understand the psalmist asking God to hear his prayer?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "on your bed you can search your heart and be still",
+        "feeling": "anxiety, agitation",
+        "object": "a difficult situation",
+        "behavior": "rushing to fix things",
+        "step": "sit quietly before the Lord",
+        "template": "from today I bring You my {feeling:anxiety, agitation} about {object:a difficult situation} and instead of {behavior:rushing to fix things}, I will {step:sit quietly before the Lord}."
       }
     }
   }

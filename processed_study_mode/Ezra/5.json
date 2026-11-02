@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of spiritual renewal resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Prophetic Encouragement",
-            "expansion": "Divine guidance through prophets provides critical momentum for community transformation."
-          },
-          {
-            "id": 2,
-            "text": "Collective Restoration",
-            "expansion": "Rebuilding requires unified commitment despite external opposition."
-          },
-          {
-            "id": 3,
-            "text": "Persistent Faith",
-            "expansion": "Continued obedience emerges even when institutional memory and support seem fragile."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external challenges actually reveal the depth of internal conviction?"
-      },
-      "moral_slider": {
-        "question": "What determines spiritual legitimacy: institutional permission or divine calling?",
-        "left_label": "Human Authorization",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community restoration evolved?",
-        "options": [
-          "Recognized importance of spiritual leadership",
-          "Understood resilience requires collective effort",
-          "Appreciated prophetic encouragement's role",
-          "Saw faith as an active, not passive, process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual restoration requires synchronized divine and human effort",
           "Prophetic messages are primarily inspirational rather than directive"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Tattenai the governor and his associates asked",
+            "ref": "vv. 3-4",
+            "speaker": "Tattenai the governor of the region west of the Euphrates"
+          },
+          {
+            "who": "The Jews answered",
+            "ref": "v. 11",
+            "speaker": "The Jews"
+          }
+        ],
+        "question": "Imagine you are one of the elders facing this question. You are asked who authorized you, and you answer, 'We are servants of the God of heaven and earth.' What would you weigh in giving that answer?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Zechariah 4:6",
+        "summary": "Zerubbabel and Jeshua rise up and begin to rebuild the house of God, with the prophets helping them (v. 2). Zechariah 4:6 records a word of the LORD to Zerubbabel: not by might nor by power, but by My Spirit.",
+        "question": "How does the word to Zerubbabel in Zechariah 4:6 help you understand the rebuilding that begins in this chapter?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "remembrance",
+        "because": "the eye of their God was on the elders",
+        "feeling": "anxiety, dread",
+        "object": "an unfair accusation",
+        "behavior": "trying to defend myself",
+        "step": "rest in His watchful care",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:an unfair accusation} and instead of {behavior:trying to defend myself}, I will {step:rest in His watchful care}."
       }
     }
   }

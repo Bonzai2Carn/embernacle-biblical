@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual journey resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention in Conflict",
-            "expansion": "God's direct engagement in Israel's struggles reveals a partnership beyond human capability."
-          },
-          {
-            "id": 2,
-            "text": "Consequence of Rebellion",
-            "expansion": "The serpent plague demonstrates how spiritual disobedience can manifest destructive consequences."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Repentance",
-            "expansion": "Looking upon the bronze serpent symbolizes how acknowledging one's brokenness leads to healing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine intervention seems harsh, what deeper spiritual lessons might be concealed beneath apparent judgment?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and mercy coexist in moments of collective punishment?",
-        "left_label": "Strict Justice",
-        "right_label": "Compassionate Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Recognized complexity of divine-human interactions",
-          "Understood consequences of collective rebellion",
-          "Appreciated metaphorical healing processes",
-          "Questioned simplistic interpretations of spiritual narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Discipline reveals God's commitment to transforming His people's character",
           "Suffering serves as a mechanism for deeper spiritual understanding and dependence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The people spoke against God and against Moses",
+            "ref": "v. 5",
+            "speaker": "The people"
+          },
+          {
+            "who": "The people came to Moses and said",
+            "ref": "v. 7",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You complained about the bread, the water, and the wilderness, yet you went to the very leader you spoke against to ask for help. What does this reveal about your heart in that moment?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "John 3:14-15",
+        "summary": "Moses made a bronze snake and mounted it on a pole, so that anyone bitten who looked at it would live (v. 9). Jesus points to this same event to explain how He must be lifted up (John 3:14-15).",
+        "question": "How does Jesus' description of His own lifting up help you understand why the people had to look at the bronze snake to survive?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "remembrance",
+        "because": "the princes dug the well",
+        "feeling": "bitterness, discontent",
+        "object": "a difficult season",
+        "behavior": "complaining about my circumstances",
+        "step": "sing of what God has provided",
+        "template": "from today I let go of my {feeling:bitterness, discontent} over {object:a difficult season} and instead of {behavior:complaining about my circumstances}, I will {step:sing of what God has provided}."
       }
     }
   }

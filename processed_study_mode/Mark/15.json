@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of Jesus's response is most profound?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Silent Dignity",
-            "expansion": "Jesus's refusal to defend Himself reveals an extraordinary spiritual strength beyond human argumentation."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Fulfillment",
-            "expansion": "His passive acceptance demonstrates the predetermined divine plan of redemption."
-          },
-          {
-            "id": 3,
-            "text": "Sovereign Vulnerability",
-            "expansion": "Though seemingly powerless, Jesus maintains ultimate spiritual authority in His silence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true power is demonstrated through restraint, what does Jesus's silence reveal about authentic strength?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine justice in this moment of apparent injustice?",
-        "left_label": "Human Perspective",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and power shifted?",
-        "options": [
-          "Strength is not about defending oneself",
-          "Vulnerability can be a form of courage",
-          "Silence can be more powerful than speech",
-          "True authority transcends external circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Voluntary vulnerability manifests divine love",
           "Accepting unjust suffering accomplishes redemptive purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Pilate asked",
+            "ref": "v. 12",
+            "speaker": "Pilate"
+          },
+          {
+            "who": "they shouted back",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Pilate's place. You ask the crowd what you should do with the One they call the King of the Jews. They shout back, Crucify Him! What would you understand from that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 34,
+        "ref": "Psalm 22:1",
+        "summary": "Jesus cries out in agony, asking why God has forsaken Him (v. 34). The Psalmist begins his lament with these exact same words.",
+        "question": "How does knowing that Jesus spoke the opening of this Psalm help you understand the weight of His cry?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "exposure",
+        "because": "the centurion saw how He had breathed His last and declared Him the Son of God",
+        "feeling": "skepticism, doubt",
+        "object": "a difficult situation",
+        "behavior": "looking for a way out",
+        "step": "acknowledge what God is doing",
+        "template": "from today I bring my {feeling:skepticism, doubt} about {object:a difficult situation} into the light and instead of {behavior:looking for a way out}, I will {step:acknowledge what God is doing}."
       }
     }
   }

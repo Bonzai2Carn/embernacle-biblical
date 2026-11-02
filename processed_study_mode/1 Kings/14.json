@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Jeroboam's actions?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Deceptive Strategy",
-            "expansion": "Attempting to manipulate divine revelation through human cunning reveals profound spiritual weakness."
-          },
-          {
-            "id": 2,
-            "text": "Parental Anxiety",
-            "expansion": "A father's desperate desire to understand his child's fate reflects the universal human experience of vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Insight",
-            "expansion": "The prophet's ability to perceive truth beyond physical disguise demonstrates spiritual discernment's power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine knowledge cannot be deceived, what purpose do human attempts at concealment truly serve?"
-      },
-      "moral_slider": {
-        "question": "How do personal intentions interact with divine judgment?",
-        "left_label": "Human Intention",
-        "right_label": "Divine Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual transparency?",
-        "options": [
-          "I recognize the futility of hiding from divine perception",
-          "I'm more aware of the consequences of spiritual deception",
-          "I understand prophecy differently",
-          "I see the complexity of divine judgment more clearly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment reveals the depth of human spiritual rebellion",
           "Judgment coexists with God's ultimate redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Jeroboam said to his wife",
+            "ref": "v. 2",
+            "speaker": "Jeroboam"
+          },
+          {
+            "who": "Ahijah said",
+            "ref": "v. 6",
+            "speaker": "Ahijah"
+          }
+        ],
+        "question": "Put yourself in the wife's place, wearing a disguise to hide your identity. What do you understand when the prophet hears your feet at the door and says who you are?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Hebrews 4:13",
+        "summary": "The LORD told Ahijah the wife of Jeroboam would come disguised (v. 5), and Ahijah calls her by name at the door (v. 6). Hebrews 4:13 says nothing in all creation is hidden from God's sight.",
+        "question": "How does Hebrews 4:13 help you understand why the disguise failed in Shiloh?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "exposure",
+        "because": "Jeroboam made other gods and molten images and flung the LORD behind his back",
+        "feeling": "shame, guilt",
+        "object": "a secret habit",
+        "behavior": "pretending to be fine",
+        "step": "tell a trusted friend the truth",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a secret habit} into the light and instead of {behavior:pretending to be fine}, I will {step:tell a trusted friend the truth}."
       }
     }
   }

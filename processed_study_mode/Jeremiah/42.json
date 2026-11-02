@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of seeking divine guidance resonates most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Humility in requesting guidance",
-            "expansion": "Recognizing human limitations and genuinely seeking wisdom beyond personal understanding."
-          },
-          {
-            "id": 2,
-            "text": "Collective spiritual consultation",
-            "expansion": "The communal approach of seeking divine direction through a prophet represents spiritual unity."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability in uncertain times",
-            "expansion": "Acknowledging human fragility and dependence on higher wisdom during moments of profound transition."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you claim to want divine guidance, are you truly prepared to follow directions that might contradict your predetermined preferences?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires interact with authentic spiritual discernment?",
-        "left_label": "Personal Agenda",
-        "right_label": "Divine Will"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your understanding of seeking spiritual counsel?",
-        "options": [
-          "I recognize my own potential for selective hearing",
-          "I understand the importance of genuine, open-hearted listening",
-          "I see how preconceived plans can obstruct spiritual guidance",
-          "I appreciate the complexity of discerning divine direction"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True seeking requires complete surrender and openness to unexpected guidance",
           "Cultural trauma can create momentary spiritual desperation without lasting transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Captains and People said",
+            "ref": "v. 6",
+            "speaker": "Captains and People"
+          },
+          {
+            "who": "Jeremiah told them",
+            "ref": "vv. 13-14",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in the place of the people. You promised to obey the voice of the LORD whether it was pleasant or unpleasant. Now you hear that saying \"We will go to Egypt\" is disobeying that voice. What would you weigh about your promise?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Proverbs 3:5-6",
+        "summary": "The people ask the LORD for the way they should walk (v. 3) and promise to obey whatever He says (v. 6). Proverbs 3:5-6 says to trust in the LORD with all your heart, not lean on your own understanding, and He will make your paths straight.",
+        "question": "How does Proverbs 3:5-6 help you understand what is at stake in the choice the people face in verses 13-14?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "we will act upon every word that the LORD sends",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult instruction",
+        "behavior": "looking for an easier way",
+        "step": "obey the first thing I hear",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a difficult instruction} and instead of {behavior:looking for an easier way}, I will {step:obey the first thing I hear}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological idea resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Freedom from religious legalism",
-            "expansion": "Paul challenges external ritual as a pathway to spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Unity across cultural boundaries",
-            "expansion": "The gospel transcends ethnic and traditional tribal distinctions."
-          },
-          {
-            "id": 3,
-            "text": "Personal spiritual authenticity",
-            "expansion": "Genuine faith emerges from inner conviction, not external compliance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If religious traditions can become barriers to genuine spiritual connection, how do we discern authentic spiritual growth?"
-      },
-      "moral_slider": {
-        "question": "To what degree should cultural practices influence spiritual identity?",
-        "left_label": "Cultural Preservation",
-        "right_label": "Universal Spiritual Principle"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inclusion evolved?",
-        "options": [
-          "More open to diversity",
-          "Recognize limitations of traditional boundaries",
-          "Appreciate individual spiritual journeys",
-          "Value universal spiritual principles"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Cultural adaptation is necessary for gospel transmission",
           "Theological unity requires challenging restrictive interpretations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Paul asked Cephas",
+            "ref": "v. 14",
+            "speaker": "Paul"
+          },
+          {
+            "who": "Paul wrote",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Cephas. You hear Paul ask how he can compel the Gentiles to live like Jews. What would you weigh when you hear that a man is justified by faith in Jesus Christ, and not by works of the law?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Romans 3:29-30",
+        "summary": "Paul explains that a man is justified by faith in Jesus Christ, not by works of the law (v. 16). Romans confirms that this one God is the God of both Jews and Gentiles, justifying both by the same faith.",
+        "question": "How does Romans 3:29-30 help you understand why Paul insists that works of the law cannot justify anyone?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "I no longer live, but Christ lives in me",
+        "feeling": "self-reliance, pride",
+        "object": "my own reputation",
+        "behavior": "striving for approval",
+        "step": "rest in His finished work",
+        "template": "from today I let go of my {feeling:self-reliance, pride} over {object:my own reputation} and instead of {behavior:striving for approval}, I will {step:rest in His finished work}."
       }
     }
   }

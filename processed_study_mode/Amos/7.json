@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine judgment in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's potential for mercy",
-            "expansion": "Amos intercedes and God relents, showing divine compassion can interrupt predetermined judgment."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic intercession",
-            "expansion": "The prophet's role is to stand in the gap and plead for a people who cannot defend themselves."
-          },
-          {
-            "id": 3,
-            "text": "Divine sovereignty",
-            "expansion": "God demonstrates complete control over natural and supernatural forces as instruments of correction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If mercy interrupts judgment, does this suggest divine plans are negotiable or that prayer fundamentally alters spiritual realities?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist?",
-        "left_label": "Strict Justice",
-        "right_label": "Radical Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic intercession shifted?",
-        "options": [
-          "Prophets are more than messengers - they are spiritual mediators",
-          "Divine judgment is not always absolute",
-          "Prayer has transformative spiritual power",
-          "God invites human participation in divine processes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine plans are flexible and responsive to human prayer",
           "Prophetic mediation is primarily symbolic, not functionally transformative"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD asked, and Amos replied",
+            "ref": "vv. 8-9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Amos's place. The LORD asks what you see, and you answer, A plumb line. What does that answer tell you about what the LORD is doing among His people Israel?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Jeremiah 1:7-8",
+        "summary": "Amos says he was a herdsman and a tender of sycamore-fig trees, and the LORD told him to go and prophesy to His people Israel (vv. 14-15). In Jeremiah the LORD tells the one He sends not to say, I am only a child, but to go and speak all He commands.",
+        "question": "How does Jeremiah 1:7-8 help you understand what it meant for Amos to be sent by the LORD to speak?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "exposure",
+        "because": "Jacob is so small that Amos pleaded with the Lord GOD to forgive",
+        "feeling": "fear, helplessness",
+        "object": "a looming crisis",
+        "behavior": "pretending I can handle it alone",
+        "step": "plead with God for mercy",
+        "template": "from today I bring my {feeling:fear, helplessness} about {object:a looming crisis} into the light and instead of {behavior:pretending I can handle it alone}, I will {step:plead with God for mercy}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative element of the new creation most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The River of Life",
-            "expansion": "Symbolizes continuous spiritual renewal and divine presence flowing directly from God's throne."
-          },
-          {
-            "id": 2,
-            "text": "Healing of Nations",
-            "expansion": "Represents ultimate reconciliation and restoration beyond current human divisions."
-          },
-          {
-            "id": 3,
-            "text": "Direct Communion with God",
-            "expansion": "Signals the ultimate intimacy of seeing God's face and bearing His name."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If absolute perfection and divine presence eliminate all suffering, what becomes of human agency and personal growth?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine judgment and eternal grace?",
-        "left_label": "Strict Accountability",
-        "right_label": "Unconditional Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of eternity shifted?",
-        "options": [
-          "More hopeful about divine restoration",
-          "Challenged by concepts of eternal relationship",
-          "Intrigued by metaphysical transformation",
-          "Uncertain about literal versus symbolic interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Salvation is a transactional legal agreement with God",
           "Salvation culminates in direct, unmediated communion with the divine"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The angel said",
+            "ref": "v. 11",
+            "speaker": "The Angel"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one hearing these final words. The unrighteous continue as they are and the righteous continue in righteousness, and then you hear, 'I am coming soon, and My reward is with Me, to give to each one according to what he has done.' What would you weigh about what you have done?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Genesis 3:24",
+        "summary": "The angel shows John the river of the water of life and a tree of life on either side of it (vv. 1-2), and says there will no longer be any curse (v. 3). In Genesis, cherubim and a whirling sword of flame are stationed to guard the way to the tree of life (Genesis 3:24).",
+        "question": "How does Genesis 3:24 help you understand the tree of life standing beside the river in this chapter?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "those who wash their robes have the right to the tree of life and may enter the city by its gates",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "wash my robes in His grace",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:wash my robes in His grace}."
       }
     }
   }

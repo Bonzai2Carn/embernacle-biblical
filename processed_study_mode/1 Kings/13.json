@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic element most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine intervention through a specific prophet",
-            "expansion": "God uses unexpected messengers to challenge established religious power structures."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic judgment against false worship",
-            "expansion": "God's righteousness demands confrontation of systemic spiritual corruption."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of disobedience",
-            "expansion": "Even prophets are not exempt from accountability to divine instructions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a prophet speaks God's word, but later seems to contradict that word, what determines the ultimate truth?"
-      },
-      "moral_slider": {
-        "question": "How do divine commands balance with human interpretation?",
-        "left_label": "Human Discretion",
-        "right_label": "Absolute Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic ministry shifted?",
-        "options": [
-          "Prophets are more complex than simple messengers",
-          "Divine accountability applies to everyone",
-          "Spiritual authority requires absolute humility",
-          "Interpretation can be dangerous without pure motivation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal interpretation based on individual spiritual experience",
           "Collaborative theological dialogue and communal wisdom"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The man of God cries against the altar",
+            "ref": "v. 2",
+            "speaker": "The man of God"
+          },
+          {
+            "who": "Jeroboam reaches out to seize him",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jeroboam's place, standing beside the altar. You hear the word cried out against it, and you stretch out your hand to seize the man. What do you weigh when your hand withers and you cannot pull it back?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Deuteronomy 4:2",
+        "summary": "The man of God is told not to eat bread, drink water, or return the way he came (v. 9). Moses tells Israel not to add to or take away from the LORD's commands (Deuteronomy 4:2).",
+        "question": "How does Moses' warning against adding to or taking from God's word help you understand the command the man of God received?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "surrender",
+        "because": "the man of God disobeyed the command of the LORD",
+        "feeling": "comfort, complacency",
+        "object": "a friendly invitation",
+        "behavior": "accepting a meal I was told to refuse",
+        "step": "keep to the word the LORD gave me",
+        "template": "from today I release my {feeling:comfort, complacency} over {object:a friendly invitation} and instead of {behavior:accepting a meal I was told to refuse}, I will {step:keep to the word the LORD gave me}."
       }
     }
   }

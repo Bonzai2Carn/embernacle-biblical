@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What speaks most profoundly about Jesus' character in this moment of betrayal?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His foreknowledge",
-            "expansion": "Jesus already comprehended every detail of the unfolding betrayal."
-          },
-          {
-            "id": 2,
-            "text": "His voluntary surrender",
-            "expansion": "He willingly confronts his accusers without resistance."
-          },
-          {
-            "id": 3,
-            "text": "His protection of disciples",
-            "expansion": "Jesus ensures his followers' safety during his arrest."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine omniscience exists, how does human free will coexist with predetermined events?"
-      },
-      "moral_slider": {
-        "question": "How do personal loyalty and spiritual calling intersect in moments of profound testing?",
-        "left_label": "Individual Preservation",
-        "right_label": "Transcendent Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacrifice and courage evolved?",
-        "options": [
-          "I see vulnerability as strength",
-          "Predetermined paths can still involve genuine choice",
-          "Spiritual resilience matters more than physical resistance",
-          "Betrayal reveals character more than loyalty does"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizes spiritual authority over physical confrontation",
           "Fulfills prophetic scriptures through intentional submission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Peter drew his sword and struck the servant",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 11",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Imagine you are Peter, holding the sword you just used. How does Jesus' question about the cup the Father has given Him change what you would weigh in this moment?"
+      },
+      "chain": {
+        "after": 36,
+        "ref": "Matthew 26:53",
+        "summary": "Jesus tells Peter to put his sword back and asks whether He should not drink the cup the Father has given Him (v. 11). Matthew 26:53 records Jesus saying He could call on His Father, who would at once send more than twelve legions of angels.",
+        "question": "How does Matthew 26:53 help you understand why Jesus tells Peter to put the sword away?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "surrender",
+        "because": "My kingdom is not of this world",
+        "feeling": "anxiety, fear",
+        "object": "a loss of control",
+        "behavior": "fighting for my own way",
+        "step": "submit to His quiet authority",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:a loss of control} and instead of {behavior:fighting for my own way}, I will {step:submit to His quiet authority}."
       }
     }
   }

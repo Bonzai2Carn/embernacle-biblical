@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Joy of Return",
-            "expansion": "The sudden transformation from captivity to freedom creates spontaneous, overwhelming joy."
-          },
-          {
-            "id": "b",
-            "text": "Divine Intervention",
-            "expansion": "God's unexpected redemption demonstrates His power to reverse seemingly impossible circumstances."
-          },
-          {
-            "id": "c",
-            "text": "Seeds of Hope",
-            "expansion": "Suffering and planting are interconnected, with tears ultimately yielding profound spiritual harvest."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If restoration requires both divine action and human participation, what personal responsibility accompanies waiting for deliverance?"
-      },
-      "moral_slider": {
-        "question": "How do suffering and hope coexist in spiritual transformation?",
-        "left_label": "Despair",
-        "right_label": "Expectant Faith"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual seasons shifted?",
-        "options": [
-          "Recognized cycles of challenge and renewal",
-          "Understood suffering as potential growth",
-          "Appreciated unexpected divine intervention",
-          "Learned patience in waiting"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's restoration transcends historical and personal limitations",
           "Spiritual joy is independent of external circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The nations said",
+            "ref": "v. 2",
+            "speaker": "The people"
+          },
+          {
+            "who": "The people reply",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one who hears it said, 'The LORD has done great things for them,' and answers, 'The LORD has done great things for us; we are filled with joy.' What do you understand in the change from 'them' to 'us'?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 30:5",
+        "summary": "The psalmist says those who sow in tears will reap with shouts of joy (v. 5). Psalm 30:5 says weeping may stay the night, but joy comes in the morning.",
+        "question": "How does Psalm 30:5 help you understand the shouts of joy that follow sowing in tears (v. 5)?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "those who sow in tears will reap with shouts of joy",
+        "feeling": "despair, exhaustion",
+        "object": "a long season of loss",
+        "behavior": "giving up on the harvest",
+        "step": "keep planting my seeds",
+        "template": "from today I bring You my {feeling:despair, exhaustion} about {object:a long season of loss} and instead of {behavior:giving up on the harvest}, I will {step:keep planting my seeds}."
       }
     }
   }

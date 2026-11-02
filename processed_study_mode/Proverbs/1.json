@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational purpose of wisdom resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Gaining Understanding",
-            "expansion": "Wisdom begins with a humble desire to comprehend life's deeper patterns and principles."
-          },
-          {
-            "id": 2,
-            "text": "Developing Prudence",
-            "expansion": "True wisdom protects us by helping us anticipate consequences before making decisions."
-          },
-          {
-            "id": 3,
-            "text": "Pursuing Instruction",
-            "expansion": "Learning is a continuous journey of personal transformation and growth."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is freely available, why do so many people choose to remain ignorant?"
-      },
-      "moral_slider": {
-        "question": "How do personal experience and received wisdom interact in decision-making?",
-        "left_label": "Personal Experience",
-        "right_label": "Traditional Wisdom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom shifted after reflecting on this chapter?",
-        "options": [
-          "I see wisdom as more practical",
-          "I recognize wisdom's spiritual dimensions",
-          "I understand wisdom requires humility",
-          "I see wisdom as a lifelong pursuit"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Seeking wisdom is an active spiritual discipline, not a passive experience",
           "Divine wisdom confronts and transforms cultural and personal paradigms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a young person hearing this teaching. What do you understand about the difference between those who fear the LORD and the fools who despise wisdom and discipline?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Romans 1:22",
+        "summary": "Proverbs 1 says the fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline (v. 7). Romans 1:22 says that although they claimed to be wise, they became fools.",
+        "question": "How does Romans 1:22 help you understand the difference between claiming wisdom and having it?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "remembrance",
+        "because": "a son is to listen to his father's instruction and not forsake his mother's teaching",
+        "feeling": "resentment, rebellion",
+        "object": "advice from my parents",
+        "behavior": "ignoring their counsel",
+        "step": "ask a parent for advice this week",
+        "template": "from today I let go of my {feeling:resentment, rebellion} over {object:advice from my parents} and instead of {behavior:ignoring their counsel}, I will {step:ask a parent for advice this week}."
       }
     }
   }

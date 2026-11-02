@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which organizational principle of Solomon's leadership strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Meritocratic Leadership",
-            "expansion": "Solomon selected leaders based on competence and character, not just familial connections."
-          },
-          {
-            "id": 2,
-            "text": "Systematic Governance",
-            "expansion": "The detailed administrative structure reveals Solomon's commitment to ordered, intentional leadership."
-          },
-          {
-            "id": 3,
-            "text": "Collaborative Management",
-            "expansion": "Multiple officials with distinct roles suggest a distributed leadership model."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does true power manifest: through hierarchical control or through wisdom's distributed influence?"
-      },
-      "moral_slider": {
-        "question": "To what extent should leadership prioritize efficiency over personal relationships?",
-        "left_label": "Personal Connections",
-        "right_label": "Systemic Efficiency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "More appreciative of structural complexity",
-          "Recognize importance of role specialization",
-          "Understand leadership as collaborative",
-          "See wisdom as organizational strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reflects God's desire for orderly societal management",
           "Highlights the importance of wisdom in administrative roles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "The text turns to the people",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one of the people of Judah and Israel. You have just read lists of officials and their supplies. What do you notice when the text says your people are as numerous as the sand, eating, drinking, and rejoicing?"
+      },
+      "chain": {
+        "after": 29,
+        "ref": "Proverbs 8:15-16",
+        "summary": "God gave Solomon wisdom, insight, and understanding beyond measure (v. 29). In Proverbs 8, wisdom says that by her kings reign and rulers enact just laws.",
+        "question": "How does Proverbs 8:15-16 help you understand why wisdom mattered for a king like Solomon?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "practice",
+        "because": "each man dwelt securely under his own vine and his own fig tree",
+        "feeling": "anxiety, restlessness",
+        "object": "my current circumstances",
+        "behavior": "comparing my life to others",
+        "step": "find rest in what I have",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my current circumstances} and instead of {behavior:comparing my life to others}, I will {step:find rest in what I have}."
       }
     }
   }

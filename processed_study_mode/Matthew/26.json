@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of spiritual tension resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Judas' Betrayal",
-            "expansion": "The intimate proximity between friendship and ultimate betrayal reveals profound human complexity."
-          },
-          {
-            "id": 2,
-            "text": "Peter's Denial",
-            "expansion": "Moments of human weakness expose our fragility when confronted with genuine spiritual challenge."
-          },
-          {
-            "id": 3,
-            "text": "Jesus' Gethsemane Prayer",
-            "expansion": "The wrestling between divine will and human vulnerability represents the deepest spiritual struggle."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you knew betrayal was imminent, how would your response differ from Jesus' compassionate acceptance?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against larger spiritual purposes?",
-        "left_label": "Self-Preservation",
-        "right_label": "Sacrificial Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "I recognize human weakness more compassionately",
-          "Divine purpose transcends individual comfort",
-          "Betrayal can exist even within intimate circles",
-          "Spiritual strength emerges through surrendering control"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ's prayer shows emotional vulnerability within divine omnipotence",
           "Gethsemane represents a pivotal moment of existential decision-making"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 42,
+        "exchange": [
+          {
+            "who": "Jesus prayed",
+            "ref": "v. 39",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus prayed",
+            "ref": "v. 42",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Jesus' place, facing the cup ahead. What changes in your prayer when the second request is made?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Romans 5:19",
+        "summary": "Jesus says His blood of the covenant is poured out for many for the forgiveness of sins (v. 28). Paul says one man's disobedience made many sinners, and one man's obedience will make many righteous (Romans 5:19).",
+        "question": "How does Romans 5:19 help you understand the weight of the blood Jesus pours out for many?"
+      },
+      "conviction": {
+        "verse": 41,
+        "frame": "practice",
+        "because": "the spirit is willing, but the body is weak",
+        "feeling": "exhaustion, lethargy",
+        "object": "my daily prayer time",
+        "behavior": "skipping my devotion",
+        "step": "set a timer to stay alert",
+        "template": "from today I let go of my {feeling:exhaustion, lethargy} over {object:my daily prayer time} and instead of {behavior:skipping my devotion}, I will {step:set a timer to stay alert}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine promise resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Restoration of Israel and Judah",
-            "expansion": "God's commitment to rebuilding what was broken transcends historical trauma."
-          },
-          {
-            "id": 2,
-            "text": "Healing after punishment",
-            "expansion": "Divine discipline is ultimately redemptive, not destructive."
-          },
-          {
-            "id": 3,
-            "text": "Covenant renewal",
-            "expansion": "God's faithfulness persists despite human unfaithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is certain, what role does human agency play in spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive God's justice in cycles of judgment and mercy?",
-        "left_label": "Punitive Justice",
-        "right_label": "Restorative Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine promises shifted?",
-        "options": [
-          "More aware of long-term spiritual dynamics",
-          "Recognize complexity of historical redemption",
-          "Appreciate nuanced interpretation of suffering",
-          "See hope beyond immediate circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises transcend historical limitations",
           "Covenant faithfulness supersedes human failure"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 15",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD declares",
+            "ref": "vv. 16-17",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a person facing an incurable wound. When you hear that your pain has no cure, how does the sudden promise of healing change your view of the disaster?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Ezekiel 37:1-14",
+        "summary": "Jeremiah promises that the LORD will save Israel out of a distant place (v. 10). Ezekiel shows how the LORD brings dry bones to life with breath (Ezekiel 37:1-14).",
+        "question": "How does the image of the dry bones help you see the reality of the restoration promised in Jeremiah?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "devotion",
+        "because": "the LORD says to His people, you will be My people, and I will be your God",
+        "feeling": "loneliness, isolation",
+        "object": "a season of silence",
+        "behavior": "withdrawing from others",
+        "step": "remind myself of His presence",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a season of silence} and instead of {behavior:withdrawing from others}, I will {step:remind myself of His presence}."
       }
     }
   }

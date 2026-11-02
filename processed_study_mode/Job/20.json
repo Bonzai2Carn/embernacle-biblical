@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about the transient nature of wickedness?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The brevity of evil's triumph",
-            "expansion": "Wickedness may appear powerful momentarily, but ultimately lacks enduring substance."
-          },
-          {
-            "id": 2,
-            "text": "The inevitable consequence of unrighteousness",
-            "expansion": "Every unrighteous path eventually leads to spiritual and existential reckoning."
-          },
-          {
-            "id": 3,
-            "text": "The internal turmoil of witnessing injustice",
-            "expansion": "Observing seemingly unchecked wickedness creates profound spiritual and emotional distress."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is certain, why do the wicked appear to prosper in the immediate moment?"
-      },
-      "moral_slider": {
-        "question": "How do human perceptions of justice align with divine judgment?",
-        "left_label": "Temporal Perspective",
-        "right_label": "Eternal Perspective"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of suffering and righteousness?",
-        "options": [
-          "Recognize the complexity of divine timing",
-          "Understand suffering as a spiritual refinement process",
-          "Acknowledge the limitations of human understanding",
-          "Embrace patience in witnessing ultimate justice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Evidence of complex divine providence beyond human comprehension",
           "Opportunity for demonstrating faith during challenging circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Zophar said",
+            "ref": "v. 2",
+            "speaker": "Zophar"
+          },
+          {
+            "who": "Zophar said",
+            "ref": "vv. 4-5",
+            "speaker": "Zophar"
+          }
+        ],
+        "question": "Put yourself in the place of the one being rebuked. Zophar claims a universal truth about the end of the wicked. Does this claim make his insult easier to bear, or does it make his words harder to accept?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Psalm 37:10-11",
+        "summary": "Zophar says the wicked have no lasting prosperity (v. 21). Psalm 37:10-11 says the wicked will be no more and the meek will inherit the land and delight in abundant prosperity.",
+        "question": "How does Psalm 37:10-11 help you weigh Zophar's claim that the prosperity of the wicked will not endure?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "exposure",
+        "because": "the wicked man has oppressed and forsaken the poor",
+        "feeling": "greed, selfishness",
+        "object": "my personal gain",
+        "behavior": "ignoring those in need",
+        "step": "look for a way to serve",
+        "template": "from today I bring my {feeling:greed, selfishness} about {object:my personal gain} into the light and instead of {behavior:ignoring those in need}, I will {step:look for a way to serve}."
       }
     }
   }

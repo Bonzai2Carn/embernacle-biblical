@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Confrontation",
-            "expansion": "How God challenges systemic spiritual compromise through bold prophetic action."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Courage",
-            "expansion": "The remarkable personal risk Elijah takes in challenging the established religious power structure."
-          },
-          {
-            "id": 3,
-            "text": "Theological Demonstration",
-            "expansion": "The powerful public revelation of Yahweh's supremacy over Baal's supposed divine power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When spiritual truth requires confrontation, how do you distinguish between righteous challenge and mere personal aggression?"
-      },
-      "moral_slider": {
-        "question": "How do you balance prophetic judgment with divine compassion?",
-        "left_label": "Uncompromising Judgment",
-        "right_label": "Merciful Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual conflict evolved after reflecting on this narrative?",
-        "options": [
-          "Recognized the importance of standing for truth",
-          "Understood the role of dramatic demonstration in spiritual transformation",
-          "Appreciated the personal courage required in prophetic moments",
-          "Saw the complexity of confronting systemic spiritual corruption"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine revelation often occurs through unexpected means and radical confrontation",
           "True faith requires courage to challenge prevailing cultural and religious norms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Elijah approached all the people and said",
+            "ref": "v. 21",
+            "speaker": "Elijah"
+          }
+        ],
+        "question": "Put yourself in the place of the people standing before Elijah. You hear a demand for a choice between two gods, yet you remain silent. What prevents you from answering him?"
+      },
+      "chain": {
+        "after": 38,
+        "ref": "James 5:17-18",
+        "summary": "Elijah asks the LORD to answer him, so the people know that He is God and has turned their hearts back (v. 37). James says Elijah prayed that it would not rain, then prayed again and the heavens gave rain (James 5:17-18).",
+        "question": "How does James 5:17-18 help you understand the prayer Elijah makes in v. 37?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "devotion",
+        "because": "Elijah is the LORD's servant and has done all these things at the LORD's command",
+        "feeling": "pride, self-reliance",
+        "object": "my recent successes",
+        "behavior": "taking the credit",
+        "step": "point the glory back to Him",
+        "template": "from today I let go of my {feeling:pride, self-reliance} over {object:my recent successes} and instead of {behavior:taking the credit}, I will {step:point the glory back to Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most deeply about David's plea for divine justice?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Personal Innocence",
-            "expansion": "David's confident assertion of his moral integrity before God challenges simplistic notions of righteousness."
-          },
-          {
-            "id": "2",
-            "text": "Divine Judgment",
-            "expansion": "The belief that God ultimately evaluates human actions with perfect moral clarity represents a profound theological trust."
-          },
-          {
-            "id": "3",
-            "text": "Spiritual Warfare",
-            "expansion": "David's language suggests an unseen cosmic battle where spiritual principles of justice transcend immediate human perception."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is certain, what transforms the human experience of waiting and uncertainty?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine mercy intersect?",
-        "left_label": "Personal Merit",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of justice and spiritual conflict evolved?",
-        "options": [
-          "More aware of spiritual dimensions",
-          "Recognize complexity of moral judgment",
-          "Understand personal accountability differently",
-          "See divine perspective beyond human limitations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness is determined solely by external actions",
           "Spiritual integrity is demonstrated through trust in God's justice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You are hunted like prey and cry out for rescue, then you say your shield is with God, who saves the upright in heart. What changes between the cry and that statement?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Psalm 94:1-2",
+        "summary": "The psalmist asks God to arise and ordain judgment (v. 6). Psalm 94 opens with a similar plea: the God of vengeance is asked to shine forth and to rise up as Judge of the earth (Psalm 94:1-2).",
+        "question": "How does the shared plea in Psalm 94 help you understand the urgency of the psalmist's request?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "devotion",
+        "because": "I will thank the LORD for His righteousness",
+        "feeling": "bitterness, resentment",
+        "object": "an unfair accusation",
+        "behavior": "defending my own reputation",
+        "step": "sing praise to His name",
+        "template": "from today I bring You my {feeling:bitterness, resentment} about {object:an unfair accusation} and instead of {behavior:defending my own reputation}, I will {step:sing praise to His name}."
       }
     }
   }

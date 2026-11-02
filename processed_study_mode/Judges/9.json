@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most from Abimelech's tragic story?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Ambition's Destructive Power",
-            "expansion": "Abimelech's ruthless pursuit of power leads to complete familial and societal devastation."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Moral Compromise",
-            "expansion": "Gideon's earlier moral inconsistencies create a toxic legacy through his illegitimate son."
-          },
-          {
-            "id": 3,
-            "text": "Cyclical Nature of Violence",
-            "expansion": "Violence begets violence, with each act of brutality generating subsequent retribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal ambition masquerades as leadership, what truly distinguishes a servant from a tyrant?"
-      },
-      "moral_slider": {
-        "question": "How do familial loyalty and ethical integrity interact when leadership is at stake?",
-        "left_label": "Individual Survival",
-        "right_label": "Communal Integrity"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of leadership and moral responsibility?",
-        "options": [
-          "I see power as more complex and dangerous",
-          "Family dynamics deeply influence leadership trajectories",
-          "Ethical compromises have generational consequences",
-          "Individual actions can destabilize entire communities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Community cohesion is more important than individual power structures",
           "Spiritual discernment is critical in recognizing legitimate authority"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Abimelech asked the leaders of Shechem",
+            "ref": "v. 2",
+            "speaker": "Abimelech"
+          },
+          {
+            "who": "Their hearts were inclined to follow Abimelech",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the leaders of Shechem. Abimelech asks whether seventy sons of Jerubbaal or just one man should rule you, and reminds you that he is your flesh and blood. What would you weigh before you answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 56,
+        "ref": "Galatians 6:7",
+        "summary": "Abimelech's wickedness is repaid (v. 56), and God brings the men of Shechem's wickedness back on their own heads (v. 57). Paul writes that whatever a man sows, he will also reap (Galatians 6:7).",
+        "question": "How does Paul's teaching that a man reaps what he sows help you understand why God repaid the wickedness of Abimelech and the men of Shechem?"
+      },
+      "conviction": {
+        "verse": 57,
+        "frame": "repair",
+        "because": "God brought all the wickedness of the men of Shechem back upon their own heads",
+        "feeling": "bitterness, vindictiveness",
+        "object": "a wrong done to me",
+        "behavior": "plotting revenge",
+        "step": "forgive the one who wronged me",
+        "template": "from today I turn from my {feeling:bitterness, vindictiveness} toward {object:a wrong done to me} and instead of {behavior:plotting revenge}, I will {step:forgive the one who wronged me}."
       }
     }
   }

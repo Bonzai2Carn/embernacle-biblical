@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about God's sovereignty in national judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention",
-            "expansion": "God actively disrupts human political systems to demonstrate ultimate authority."
-          },
-          {
-            "id": 2,
-            "text": "Internal Conflict",
-            "expansion": "National self-destruction emerges when spiritual foundations crumble."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning",
-            "expansion": "Divine judgment serves as a redemptive opportunity for collective transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately restorative, how might our understanding of punishment shift from punitive to transformative?"
-      },
-      "moral_slider": {
-        "question": "How do national sins relate to individual spiritual accountability?",
-        "left_label": "Collective Guilt",
-        "right_label": "Personal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your perception of God's interaction with nations?",
-        "options": [
-          "More aware of spiritual dynamics behind political events",
-          "Recognize complexity of divine judgment",
-          "See God's sovereignty beyond personal experience",
-          "Understand prophetic messaging differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine interventions create opportunities for spiritual transformation",
           "Prophetic warnings demonstrate God's relational character with nations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The prophet declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The text explains",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Egyptian. You see that the LORD is coming, and that the idols of Egypt will tremble. What do you understand about the spirit of confusion He has poured into Egypt?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Galatians 3:28",
+        "summary": "In that day Israel joins Egypt and Assyria in a blessing upon the earth (v. 24-25). Paul writes that in Christ there is neither Jew nor Greek, slave nor free, male nor female, for all are one (Galatians 3:28).",
+        "question": "How does Paul's teaching that all are one in Christ help you understand the blessing shared by Egypt, Assyria, and Israel in Isaiah 19?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "surrender",
+        "because": "the LORD will frustrate the plans of the Egyptians",
+        "feeling": "panic, anxiety",
+        "object": "a plan that falls apart",
+        "behavior": "searching for quick fixes and false comforts",
+        "step": "bring my plans to the LORD in prayer",
+        "template": "from today I release my {feeling:panic, anxiety} over {object:a plan that falls apart} and instead of {behavior:searching for quick fixes and false comforts}, I will {step:bring my plans to the LORD in prayer}."
       }
     }
   }

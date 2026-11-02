@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership characteristic resonates most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Deborah's prophetic wisdom",
-            "expansion": "Female leadership emerging powerfully in a patriarchal context demonstrates divine authority transcends cultural norms."
-          },
-          {
-            "id": 2,
-            "text": "Barak's collaborative courage",
-            "expansion": "Seeking guidance and partnership reveals true strength is not solitary heroism but communal trust."
-          },
-          {
-            "id": 3,
-            "text": "Jael's unexpected decisive action",
-            "expansion": "Strategic intervention can come from unexpected sources when systemic oppression requires radical transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine deliverance emerge through human agency when systemic oppression seems insurmountable?"
-      },
-      "moral_slider": {
-        "question": "To what extent can violence be justified in resisting systematic oppression?",
-        "left_label": "Absolute Nonviolence",
-        "right_label": "Necessary Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine intervention shifted?",
-        "options": [
-          "Recognized complexity of spiritual warfare",
-          "Appreciated unexpected leadership models",
-          "Understood divine strategy transcends human expectations",
-          "Saw interconnectedness of individual and communal redemption"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God strategically uses marginalized individuals to demonstrate His power",
           "Spiritual authority is based on obedience and faith, not societal expectations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Barak said to her",
+            "ref": "v. 8",
+            "speaker": "Barak"
+          },
+          {
+            "who": "Deborah replied",
+            "ref": "v. 9",
+            "speaker": "Deborah"
+          }
+        ],
+        "question": "Put yourself in Barak's place. You demand a companion to ensure your success. What does Deborah's response reveal about the cost of your condition?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Psalm 83:9",
+        "summary": "The LORD routs Sisera's forces and subdues Jabin king of Canaan (vv. 15, 23). Psalm 83:9 asks God to do to the enemies what He did to Sisera and Jabin at the River Kishon.",
+        "question": "How does Psalm 83:9 help you understand the weight of what the LORD did to Sisera and Jabin in this chapter?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "Jael took a tent peg and drove it through his temple",
+        "feeling": "contempt, mockery",
+        "object": "an enemy's sudden downfall",
+        "behavior": "underestimating what God can do through others",
+        "step": "watch for God's hand in unexpected places",
+        "template": "from today I bring my {feeling:contempt, mockery} about {object:an enemy's sudden downfall} into the light and instead of {behavior:underestimating what God can do through others}, I will {step:watch for God's hand in unexpected places}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership emergence resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Selection of Leadership",
-            "expansion": "God's sovereign choice often transcends human political structures and traditional succession."
-          },
-          {
-            "id": 2,
-            "text": "Community Consensus and Unity",
-            "expansion": "Legitimate leadership requires both divine appointment and communal acknowledgment."
-          },
-          {
-            "id": 3,
-            "text": "Historical Proven Capability",
-            "expansion": "Past performance and demonstrated competence are critical markers of future leadership potential."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal merit and divine calling intersect in true leadership, and can one exist authentically without the other?"
-      },
-      "moral_slider": {
-        "question": "What determines the legitimacy of political transition?",
-        "left_label": "Institutional Procedure",
-        "right_label": "Spiritual Anointing"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of leadership have shifted?",
-        "options": [
-          "Leadership is more about spiritual alignment than political maneuvering",
-          "Community consensus matters as much as individual capability",
-          "Divine calling can override existing power structures",
-          "Historical track record is a critical leadership predictor"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine selection transcends human merit or familial lineage",
           "Spiritual leadership requires communal recognition and spiritual alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 17",
+            "speaker": "David"
+          },
+          {
+            "who": "The Three broke through the Philistine camp and brought the water back to David",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place, holding the water you wished for after the Three broke through the Philistine camp to get it. What do you weigh as you decide what to do with it?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 78:70-72",
+        "summary": "1 Chronicles 11 records how David became greater and greater because the LORD of Hosts was with him (v. 9). Psalm 78:70-72 says God took David from the sheepfolds to shepherd His people, and that David shepherded them with integrity of heart and skillful hands.",
+        "question": "How does Psalm 78:70-72 help you understand the man who became greater and greater in verse 9?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "devotion",
+        "because": "David refused to drink the blood of men who risked their lives",
+        "feeling": "selfishness, greed",
+        "object": "a personal comfort",
+        "behavior": "taking what is easy",
+        "step": "honor the sacrifice of others",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:a personal comfort} and instead of {behavior:taking what is easy}, I will {step:honor the sacrifice of others}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative idea from Romans 12 resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Living Sacrifice",
-            "expansion": "Surrendering personal autonomy as an act of spiritual worship and radical devotion."
-          },
-          {
-            "id": 2,
-            "text": "Mind Renewal",
-            "expansion": "Consciously rejecting worldly patterns to embrace divine perspective and spiritual consciousness."
-          },
-          {
-            "id": 3,
-            "text": "Humble Service",
-            "expansion": "Recognizing one's true identity and capacity within the diverse body of Christ."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true transformation requires surrendering your self-image, what aspects of your identity are you most afraid to release?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine guidance?",
-        "left_label": "Individual Determination",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual worship evolved?",
-        "options": [
-          "From ritual to genuine heart posture",
-          "From performance to authentic transformation",
-          "From individual practice to communal engagement",
-          "From external compliance to internal alignment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual renewal happens independently of human cooperation",
           "Believers actively participate in their spiritual metamorphosis"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Paul urges the brothers",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains the result",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer hearing this plea. You are told to offer your body as a living sacrifice and not to be conformed to this world. What would you weigh about a mind renewed so that you can test God's will?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "1 Peter 2:5",
+        "summary": "Paul urges believers to offer their bodies as living sacrifices, which is their spiritual service of worship (v. 1). Peter says believers are being built into a spiritual house to offer spiritual sacrifices acceptable to God through Jesus Christ (1 Peter 2:5).",
+        "question": "How does Peter's picture of a spiritual house offering sacrifices help you understand what it means to be a living sacrifice in this chapter?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "those whose minds are renewed are transformed and able to test and approve the good, pleasing, and perfect will of God",
+        "feeling": "pressure, anxiety",
+        "object": "the expectations of the people around me",
+        "behavior": "copying what everyone around me does",
+        "step": "read Scripture before checking my phone",
+        "template": "from today I let go of my {feeling:pressure, anxiety} over {object:the expectations of the people around me} and instead of {behavior:copying what everyone around me does}, I will {step:read Scripture before checking my phone}."
       }
     }
   }

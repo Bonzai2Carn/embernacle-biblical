@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which sacred principle of holiness most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ritual Purity",
-            "expansion": "The profound importance of maintaining spiritual integrity before approaching divine spaces."
-          },
-          {
-            "id": 2,
-            "text": "Reverence for Divine Boundaries",
-            "expansion": "Understanding that holiness requires deliberate separation and respect for sacred parameters."
-          },
-          {
-            "id": 3,
-            "text": "Accountability in Spiritual Leadership",
-            "expansion": "Recognizing that religious leaders bear heightened responsibility for maintaining communal spiritual standards."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If holiness is not merely about external compliance, but internal transformation, what genuine changes might ritual instructions actually be pointing towards?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine standards with human imperfection?",
-        "left_label": "Strict Adherence",
-        "right_label": "Compassionate Grace"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual integrity?",
-        "options": [
-          "I see ritual as more meaningful now",
-          "I recognize deeper layers of spiritual accountability",
-          "I understand divine standards differently",
-          "I'm more aware of personal spiritual boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Grace supersedes strict regulatory requirements",
           "Spiritual leaders are held to distinctly higher accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD warns the priests",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a priest. You are told to treat the sacred offerings with respect, and that you will bear guilt and die if you profane them. What do you weigh in that warning?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Malachi 1:6-8",
+        "summary": "Leviticus forbids presenting animals with defects or blemishes to the LORD (vv. 20, 22). Malachi says the priests present defiled food, offering blind, lame and sick animals, and asks whether their governor would be pleased with such gifts.",
+        "question": "How does Malachi's rebuke help you understand why the LORD forbids presenting anything with a defect in Leviticus?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "the LORD's people are to keep His commandments and practice them",
+        "feeling": "indifference, apathy",
+        "object": "my daily routine",
+        "behavior": "skipping my prayer time",
+        "step": "set a specific time to listen",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my daily routine} and instead of {behavior:skipping my prayer time}, I will {step:set a specific time to listen}."
       }
     }
   }

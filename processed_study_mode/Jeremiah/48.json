@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about God's judgment in this prophecy against Moab?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Justice",
-            "expansion": "God's judgment reveals His commitment to righteousness and accountability for national sins."
-          },
-          {
-            "id": 2,
-            "text": "Inevitable Consequences",
-            "expansion": "Persistent pride and rebellion ultimately lead to systematic destruction."
-          },
-          {
-            "id": 3,
-            "text": "Cultural Hubris",
-            "expansion": "Nations that trust solely in their own strength are vulnerable to profound downfall."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is fundamentally about restoration and not mere punishment, how might we reinterpret the severity of this prophecy?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Compassionate Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic judgment shifted after studying this chapter?",
-        "options": [
-          "More nuanced view of divine intervention",
-          "Greater appreciation for historical consequences",
-          "Deeper understanding of collective responsibility",
-          "Increased empathy for complex cultural dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Prophetic judgment contains potential for eventual restoration and mercy",
           "God's disciplinary actions reflect His ultimate desire for human repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 7",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the Moabites. You have trusted in your works and your treasures. What would you weigh when you hear this warning?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Proverbs 16:18",
+        "summary": "Moab has been at ease from youth and has not been poured from vessel to vessel (v. 11). Proverbs 16:18 says pride goes before destruction, and a haughty spirit before a fall.",
+        "question": "How does Proverbs 16:18 help you understand the ease Moab has known since its youth in verse 11?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "exposure",
+        "because": "Moab's exceeding pride, conceit, and haughtiness of heart",
+        "feeling": "pride, conceit",
+        "object": "my personal achievements",
+        "behavior": "seeking credit from others",
+        "step": "acknowledge the source of my strength",
+        "template": "from today I bring my {feeling:pride, conceit} about {object:my personal achievements} into the light and instead of {behavior:seeking credit from others}, I will {step:acknowledge the source of my strength}."
       }
     }
   }

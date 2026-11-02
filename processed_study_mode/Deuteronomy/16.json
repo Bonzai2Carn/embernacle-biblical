@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of remembrance speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Passover as Historical Memory",
-            "expansion": "Remembering liberation transforms present understanding of collective identity and divine intervention."
-          },
-          {
-            "id": 2,
-            "text": "Ritual as Spiritual Discipline",
-            "expansion": "Prescribed observances create intentional spaces for reconnecting with sacred origins and communal narrative."
-          },
-          {
-            "id": 3,
-            "text": "Journey from Bondage to Freedom",
-            "expansion": "The transition from slavery to autonomy represents a profound metaphysical and psychological transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If remembrance is meant to prevent repetition of past suffering, how do ritualistic practices actually prevent historical cycles of oppression?"
-      },
-      "moral_slider": {
-        "question": "How do prescribed religious observances balance between authentic spiritual experience and potentially rigid traditionalism?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Living Spirituality"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of religious observance shifted after examining Deuteronomy 16?",
-        "options": [
-          "Deeper appreciation for historical continuity",
-          "Recognized symbolic power of ritual",
-          "Questioning the relevance of ancient practices",
-          "Seeing spirituality as dynamic, not static"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Communal celebrations emphasize collective spiritual identity",
           "Detailed regulations reflect divine precision in relationship with humanity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Moses commands",
+            "ref": "v. 19",
+            "speaker": ""
+          },
+          {
+            "who": "Moses urges",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who must judge between two people. What would you weigh most when a bribe is offered, and what standard must you chase?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "James 1:27",
+        "summary": "The law commands a feast where the Levite, the foreigner, the fatherless, and the widows all rejoice together (v. 11). James defines pure religion by a similar care for the vulnerable.",
+        "question": "How does James 1:27 help you understand the scope of the community invited to the feast in Deuteronomy?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "remembrance",
+        "because": "you left the land of Egypt in haste",
+        "feeling": "distraction, apathy",
+        "object": "the blessings of my current season",
+        "behavior": "forgetting where I came from",
+        "step": "list one way God has rescued me",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the blessings of my current season} and instead of {behavior:forgetting where I came from}, I will {step:list one way God has rescued me}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine calling speaks most profoundly to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's personal knowledge before birth",
-            "expansion": "The divine understanding of our potential precedes our own self-awareness."
-          },
-          {
-            "id": 2,
-            "text": "Overcoming perceived personal limitations",
-            "expansion": "Divine purpose transcends human self-doubt and perceived inadequacies."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic responsibility and courage",
-            "expansion": "True spiritual calling demands radical obedience beyond personal comfort."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows and shapes us before our first breath, how much of our life's trajectory is predetermined versus freely chosen?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine selection with human agency?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal calling shifted?",
-        "options": [
-          "I see my limitations differently",
-          "I recognize divine empowerment more deeply",
-          "I'm more open to unexpected paths",
-          "I understand prophetic courage differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic selection is primarily based on human spiritual readiness",
           "Divine calling transcends human understanding of personal choice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Jeremiah said",
+            "ref": "v. 6",
+            "speaker": "Jeremiah"
+          },
+          {
+            "who": "The LORD told me",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place, feeling too young and unskilled for the task. What does the LORD's command change about how you view your own inadequacy?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Galatians 1:15",
+        "summary": "The LORD tells Jeremiah he was known and set apart before his birth (v. 5). Paul says God set him apart from his mother's womb and called him by grace.",
+        "question": "How does Paul's experience of being set apart help you understand the weight of Jeremiah's calling?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "the LORD is with me to deliver me",
+        "feeling": "fear, anxiety",
+        "object": "a difficult conversation",
+        "behavior": "avoiding the truth",
+        "step": "speak what I must",
+        "template": "from today I entrust my {feeling:fear, anxiety} about {object:a difficult conversation} to God and instead of {behavior:avoiding the truth}, I will {step:speak what I must}."
       }
     }
   }

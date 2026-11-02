@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea most powerfully speaks to Christian leadership and perseverance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Preach the word in all seasons",
-            "expansion": "Faithfulness requires consistent proclamation regardless of external circumstances or receptiveness."
-          },
-          {
-            "id": 2,
-            "text": "People will turn from sound doctrine",
-            "expansion": "Cultural drift can create spiritual resistance to transformative biblical truth."
-          },
-          {
-            "id": 3,
-            "text": "The coming judgment of Christ",
-            "expansion": "Ultimate accountability motivates sincere spiritual diligence and integrity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If people naturally gravitate toward comfortable teachings, what responsibility does a spiritual leader have to challenge rather than merely please?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual boldness with compassionate teaching?",
-        "left_label": "Harsh Rebuke",
-        "right_label": "Gentle Persuasion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More aware of cultural pressures",
-          "Recognize the importance of doctrinal integrity",
-          "Understand the need for personal spiritual resilience",
-          "Appreciate the weight of spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Separate from communities that deviate from core biblical teachings",
           "Approach differences with grace while holding firm to essential truths"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Paul charges Timothy",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul foretells",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Timothy's place. You are told to preach the word in season and out of season, and then that people will gather teachers to suit their own desires. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Acts 20:24",
+        "summary": "Paul says he has fought the good fight, finished the race, and kept the faith (v. 7). Acts 20:24 says he considers his life of no value to himself if only he may finish his course and complete the ministry he received from the Lord Jesus.",
+        "question": "How does Acts 20:24 help you understand Paul's words about finishing the race in v. 7?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the Lord stood by me and strengthened me",
+        "feeling": "loneliness, abandonment",
+        "object": "a season of isolation",
+        "behavior": "withdrawing from others",
+        "step": "rely on His presence",
+        "template": "from today I entrust my {feeling:loneliness, abandonment} about {object:a season of isolation} to God and instead of {behavior:withdrawing from others}, I will {step:rely on His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment on economic exploitation",
-            "expansion": "The Lord sees systemic oppression of the vulnerable as a profound spiritual failure."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual hypocrisy of ritual without justice",
-            "expansion": "Religious performance means nothing without genuine compassion and ethical behavior."
-          },
-          {
-            "id": 3,
-            "text": "Impending consequences of social injustice",
-            "expansion": "Societal sins ultimately lead to collective spiritual and material collapse."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your daily economic transactions reveal your true spiritual commitments?"
-      },
-      "moral_slider": {
-        "question": "To what extent do economic practices reflect spiritual integrity?",
-        "left_label": "Profit Above All",
-        "right_label": "Compassion First"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine justice?",
-        "options": [
-          "Recognized systemic economic injustice",
-          "Understood spiritual consequences of exploitation",
-          "Saw ritual without authentic transformation",
-          "Confronted personal economic behaviors"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Religious observance without social righteousness is meaningless",
           "Prophetic critique aims to restore holistic societal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The people ask when they can cheat",
+            "ref": "v. 5",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of the people asking when the New Moon will be over so you can sell grain. What do you weigh when you also hear that the LORD will no longer spare them?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Micah 6:11",
+        "summary": "The people in Amos ask when they can sell grain and cheat with dishonest scales (v. 5). Micah records the LORD asking whether He can excuse dishonest scales or bags of false weights.",
+        "question": "How does Micah's question about dishonest scales help you weigh the cheating Amos describes in v. 5?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "repair",
+        "because": "people buy the poor with silver and the needy for a pair of sandals",
+        "feeling": "greed, selfishness",
+        "object": "a neighbor who is struggling",
+        "behavior": "cutting corners at others' expense",
+        "step": "pay a fair price for what I buy",
+        "template": "from today I turn from my {feeling:greed, selfishness} toward {object:a neighbor who is struggling} and instead of {behavior:cutting corners at others' expense}, I will {step:pay a fair price for what I buy}."
       }
     }
   }

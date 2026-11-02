@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual concept resonates most powerfully in Hosea 10?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divided Loyalty",
-            "expansion": "Israel's heart is fractured between divine commitment and worldly pursuits."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Faithlessness",
-            "expansion": "Spiritual infidelity inevitably leads to systemic breakdown and divine judgment."
-          },
-          {
-            "id": 3,
-            "text": "Institutional Corruption",
-            "expansion": "Religious structures can become vessels of sin when disconnected from genuine devotion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your spiritual practices were audited for authentic worship, what would remain?"
-      },
-      "moral_slider": {
-        "question": "How does personal prosperity relate to spiritual integrity?",
-        "left_label": "Material Success",
-        "right_label": "Spiritual Authenticity"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine relationship?",
-        "options": [
-          "Recognized patterns of spiritual compromise",
-          "Understood deeper meaning of covenant",
-          "Seen personal accountability more clearly",
-          "Recognized institutional vs. personal faith dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moral foundations gradually erode",
           "Societal institutions prioritize self-interest over communal well-being"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD charges",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You hear that it is time to seek the LORD until He sends righteousness like rain, and then that you have plowed wickedness and reaped injustice. What do you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Jeremiah 2:13",
+        "summary": "Hosea describes a people who have plowed wickedness and reaped injustice (v. 13). Jeremiah names two evils the people committed: they forsook the fountain of living water and dug broken cisterns that cannot hold water (Jeremiah 2:13).",
+        "question": "Jeremiah names two evils the people committed. How does knowing these failures help you understand why they reaped the fruit of lies in Hosea?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "it is time to seek the LORD until He comes and sends righteousness like rain",
+        "feeling": "impatience, restlessness",
+        "object": "a season of waiting",
+        "behavior": "distracting myself with busywork",
+        "step": "spend ten minutes in quiet prayer",
+        "template": "from today I let go of my {feeling:impatience, restlessness} over {object:a season of waiting} and instead of {behavior:distracting myself with busywork}, I will {step:spend ten minutes in quiet prayer}."
       }
     }
   }

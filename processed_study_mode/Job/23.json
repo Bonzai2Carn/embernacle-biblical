@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Job's spiritual struggle resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Desperate longing to understand God",
-            "expansion": "Job yearns for direct dialogue and comprehension of divine reasoning."
-          },
-          {
-            "id": 2,
-            "text": "Profound sense of existential isolation",
-            "expansion": "Job feels abandoned and seeks meaningful connection with the divine."
-          },
-          {
-            "id": 3,
-            "text": "Unwavering commitment to dialogue with God",
-            "expansion": "Despite immense suffering, Job maintains intellectual and spiritual engagement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does the intensity of personal suffering transform one's perception of divine communication?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between human suffering and divine justice?",
-        "left_label": "Suffering as Punishment",
-        "right_label": "Suffering as Mystery"
-      },
-      "reevaluation": {
-        "question": "How has exploring Job's spiritual journey challenged your understanding of faith?",
-        "options": [
-          "Deepened appreciation for spiritual complexity",
-          "Recognized limitations of human understanding",
-          "Increased empathy for profound spiritual struggle",
-          "Questioned traditional theological frameworks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual integrity can coexist with profound questioning",
           "Divine silence does not negate divine presence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Job says",
+            "ref": "vv. 8-9",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job says",
+            "ref": "v. 10",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You cannot find God in any direction, yet you believe He sees your path. What does this tension tell you about what He knows versus what you can see?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Job describes a God who is unchangeable and does what He desires (v. 13). Isaiah describes a God whose thoughts and ways are higher than human ways.",
+        "question": "How does Isaiah's description of God's higher ways help you understand Job's struggle to find Him?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "I have treasured the words of His mouth more than my daily bread",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "scrolling through news",
+        "step": "read one verse slowly",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning routine} and instead of {behavior:scrolling through news}, I will {step:read one verse slowly}."
       }
     }
   }

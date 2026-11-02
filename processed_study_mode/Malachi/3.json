@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image of divine refinement resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Refiner's Fire",
-            "expansion": "God's purification process burns away impurities to reveal true spiritual essence."
-          },
-          {
-            "id": 2,
-            "text": "Launderer's Soap",
-            "expansion": "Divine cleansing removes spiritual stains, restoring original moral integrity."
-          },
-          {
-            "id": 3,
-            "text": "Purifying Silver",
-            "expansion": "Careful, patient transformation reveals inherent spiritual value through careful intervention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine refinement is inevitable, how might one voluntarily cooperate with spiritual transformation rather than resist it?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the balance between divine judgment and divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "I see transformation as more intentional",
-          "I recognize divine refinement as compassionate",
-          "I understand spiritual growth requires discomfort",
-          "I view challenges as potential opportunities for growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal holiness requires active collaboration with divine work",
           "Spiritual transformation is instantaneous and effortless"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 7",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of those being called back to God. You hear that the LORD does not change and that you have not been destroyed. Then you hear, 'Return to Me, and I will return to you.' What do you still wonder when you ask, 'How can we return?'"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Zechariah 13:9",
+        "summary": "Malachi says the LORD will be like a refiner's fire and will refine the sons of Levi like gold and silver (v. 2-3). Zechariah 13:9 says God will refine them like silver and test them like gold, that they will call on His name, and that He will answer them.",
+        "question": "How does Zechariah 13:9 help you understand the refining the LORD describes in Malachi 3:2-3?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the LORD of Hosts says to test Him and see if He will not open the windows of heaven and pour out blessing without measure",
+        "feeling": "anxiety, doubt",
+        "object": "my monthly budget",
+        "behavior": "clinging to what I have",
+        "step": "give with a willing heart",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:my monthly budget} and instead of {behavior:clinging to what I have}, I will {step:give with a willing heart}."
       }
     }
   }

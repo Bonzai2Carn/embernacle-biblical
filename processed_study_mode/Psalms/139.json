@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intimacy resonates most deeply?",
-        "choices": [
-          {
-            "id": "omniscience",
-            "text": "God's complete knowledge of me",
-            "expansion": "The awareness that every moment, thought, and intention is fully known by the divine."
-          },
-          {
-            "id": "sovereignty",
-            "text": "God's intentional design in my creation",
-            "expansion": "Understanding that I am uniquely crafted with purpose and divine intentionality."
-          },
-          {
-            "id": "presence",
-            "text": "God's inescapable and constant presence",
-            "expansion": "Recognizing the impossibility of separation from divine consciousness and care."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows everything about you before you exist, how does that challenge your understanding of free will and personal agency?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine omniscience with human vulnerability?",
-        "left_label": "Overwhelming Divine Scrutiny",
-        "right_label": "Comforting Divine Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has your perception of divine relationship changed after reflecting on this psalm?",
-        "options": [
-          "More aware of personal significance",
-          "Less intimidated by divine knowledge",
-          "Sense of being profoundly known and loved",
-          "Challenged by the depth of divine engagement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Comprehensive divine understanding implies predetermined destiny",
           "Perfect knowledge coexists with genuine human agency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, trying to find a place of hiding from God. What does the reality of the night being like day to Him reveal about where you can actually go?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Hebrews 4:13",
+        "summary": "The psalmist declares that God knows every path and every thought from afar (vv. 2-3). Hebrews says no creature is hidden from His sight.",
+        "question": "How does the reality of being fully seen help you understand the psalmist's plea to be searched and tested?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "exposure",
+        "because": "the LORD has searched me and known me",
+        "feeling": "shame, anxiety",
+        "object": "my hidden failures",
+        "behavior": "hiding my true motives",
+        "step": "tell Him what I have been hiding",
+        "template": "from today I bring You my {feeling:shame, anxiety} about {object:my hidden failures} and instead of {behavior:hiding my true motives}, I will {step:tell Him what I have been hiding}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which concept of restoration speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sabbath Year of Rest for Land",
-            "expansion": "Ecological sustainability as a spiritual principle of renewal and non-exploitation."
-          },
-          {
-            "id": 2,
-            "text": "Jubilee Year of Economic Reset",
-            "expansion": "Radical economic justice that prevents generational poverty and restores fundamental human dignity."
-          },
-          {
-            "id": 3,
-            "text": "Redemption of Ancestral Lands",
-            "expansion": "Preservation of familial heritage and communal connection beyond individual economic transactions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If economic systems were designed to periodically reset and restore balance, how might human relationships with wealth and ownership fundamentally transform?"
-      },
-      "moral_slider": {
-        "question": "How do individual property rights balance with communal well-being?",
-        "left_label": "Individual Ownership",
-        "right_label": "Collective Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of economic justice shifted?",
-        "options": [
-          "I now see economics as a spiritual practice",
-          "Community matters more than individual accumulation",
-          "Periodic systemic reset could prevent long-term inequities",
-          "Ancient wisdom offers profound economic insights"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizes communal responsibility over individual accumulation",
           "Reveals God's design for periodic social restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 21",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the farmer who is told not to sow your field in the seventh year. The LORD says He will send His blessing in the sixth year. What would you weigh when a crop is promised to last for three years?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Exodus 23:10-11",
+        "summary": "The land must have a year of complete rest, with no reaping of its aftergrowth (v. 5). Exodus gives the same seventh-year rest, letting the land lie fallow so the poor and wild animals can eat (Exodus 23:10-11).",
+        "question": "How does the command in Exodus to let the land rest help you understand the Sabbath rest for the land in Leviticus 25?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "surrender",
+        "because": "the land must not be sold permanently, for it belongs to the LORD",
+        "feeling": "greed, attachment",
+        "object": "my property and possessions",
+        "behavior": "clinging to what I own",
+        "step": "hold my property loosely before Him",
+        "template": "from today I release my {feeling:greed, attachment} over {object:my property and possessions} and instead of {behavior:clinging to what I own}, I will {step:hold my property loosely before Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative moment in Mark 9 resonates most deeply?",
-        "choices": [
-          {
-            "id": "transfiguration",
-            "text": "The Transfiguration of Jesus",
-            "expansion": "A profound revelation of divine glory interrupting human perception of reality."
-          },
-          {
-            "id": "child_lesson",
-            "text": "Jesus teaching with a child",
-            "expansion": "Radical reframing of spiritual greatness through humility and vulnerability."
-          },
-          {
-            "id": "faith_healing",
-            "text": "Healing the demon-possessed boy",
-            "expansion": "Demonstrating the power of belief over seemingly insurmountable spiritual obstacles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine transformation is possible in an instant (as in the Transfiguration), what prevents continuous spiritual metamorphosis in our daily lives?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal spiritual ambition with genuine humility?",
-        "left_label": "Individual Achievement",
-        "right_label": "Selfless Service"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual power shifted after reading Mark 9?",
-        "options": [
-          "Power is more about inner transformation than external manifestation",
-          "Humility is a more potent spiritual force than visible miracles",
-          "Faith can overcome deeply entrenched spiritual challenges",
-          "Spiritual growth requires both belief and active surrender"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Jesus as symbolic spiritual metaphor",
           "Jesus as prophetic revolutionary"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The boy’s father said",
+            "ref": "v. 22",
+            "speaker": "The boy’s father"
+          },
+          {
+            "who": "Jesus echoed",
+            "ref": "v. 23",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the father's place, pleading for your child with a desperate doubt. How does Jesus's echo change the weight of your request?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Matthew 17:20",
+        "summary": "Jesus tells the boy's father, 'All things are possible to him who believes' (v. 23). Matthew 17:20 has Jesus say that faith the size of a mustard seed can tell a mountain to move, and nothing will be impossible.",
+        "question": "How does Matthew 17:20 help you understand what Jesus means by all things being possible to the one who believes in Mark 9:23?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "exposure",
+        "because": "I do believe; help my unbelief",
+        "feeling": "shame, inadequacy",
+        "object": "my lack of certainty",
+        "behavior": "hiding my doubts",
+        "step": "bring my honest struggle to Him",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my lack of certainty} into the light and instead of {behavior:hiding my doubts}, I will {step:bring my honest struggle to Him}."
       }
     }
   }

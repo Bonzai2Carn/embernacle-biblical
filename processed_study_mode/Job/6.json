@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Job's emotional landscape?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Overwhelming suffering",
-            "expansion": "Pain so profound it defies rational measurement or comprehension"
-          },
-          {
-            "id": 2,
-            "text": "Divine abandonment",
-            "expansion": "The sense of being targeted by an inscrutable, overwhelming supernatural force"
-          },
-          {
-            "id": 3,
-            "text": "Emotional rawness",
-            "expansion": "Unfiltered, visceral expression of human vulnerability in extreme circumstances"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your suffering feels incomprehensible, does that invalidate its authentic experience?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile personal suffering with divine justice?",
-        "left_label": "Absolute Doubt",
-        "right_label": "Unwavering Trust"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your understanding of human resilience?",
-        "options": [
-          "More empathetic toward inexplicable pain",
-          "Recognize complexity of spiritual struggle",
-          "Appreciate raw emotional honesty",
-          "Understand vulnerability as strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As mysterious divine tests of faith",
           "As potential spiritual warfare manifestations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Job asks",
+            "ref": "v. 24",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job replies",
+            "ref": "v. 25",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask to be taught how you have erred, and then you say honest words are painful but ask what their argument proves. What would you weigh about the words you have heard?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 38:2",
+        "summary": "Job says the arrows of the Almighty have pierced him and the terrors of God are arrayed against him (v. 4). Psalm 38:2 says God's arrows have pierced the psalmist and His hand has pressed down on him.",
+        "question": "How does Psalm 38:2 help you understand Job's words about God's arrows in verse 4?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "devotion",
+        "because": "I have not denied the words of the Holy One",
+        "feeling": "bitterness, despair",
+        "object": "unrelenting pain",
+        "behavior": "denying God's truth",
+        "step": "hold to His promises",
+        "template": "from today I let go of my {feeling:bitterness, despair} over {object:unrelenting pain} and instead of {behavior:denying God's truth}, I will {step:hold to His promises}."
       }
     }
   }

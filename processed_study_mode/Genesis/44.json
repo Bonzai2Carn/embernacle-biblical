@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of human complexity resonates most from this chapter?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Familial Redemption",
-            "expansion": "The potential for forgiveness and reconciliation even after profound betrayal"
-          },
-          {
-            "id": "2",
-            "text": "Divine Providence",
-            "expansion": "How unseen spiritual orchestration might guide seemingly random human events"
-          },
-          {
-            "id": "3",
-            "text": "Psychological Transformation",
-            "expansion": "How profound suffering can reshape character and foster genuine moral growth"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true reconciliation requires vulnerability, what hidden fears might prevent authentic human connection?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and familial loyalty intersect when confronting historical wounds?",
-        "left_label": "Individual Justice",
-        "right_label": "Collective Healing"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of redemption have shifted after examining this chapter?",
-        "options": [
-          "Redemption requires accountability",
-          "Mercy transcends past transgressions",
-          "Transformation is a gradual process",
-          "Healing begins with honest confrontation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenging circumstances prompt spiritual growth",
           "Redemptive processes require personal accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Joseph's Brothers asked",
+            "ref": "v. 7",
+            "speaker": "Joseph's Brothers"
+          },
+          {
+            "who": "The men answered",
+            "ref": "v. 8",
+            "speaker": "The men"
+          }
+        ],
+        "question": "Put yourself in the place of the brothers when you are accused. You have just brought back the silver you found in your sacks, and now you are asked why you would steal silver or gold. What does your defense reveal about how you view your own integrity?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Genesis 40:8",
+        "summary": "Joseph confronts his brothers with his ability to discern the truth (v. 15). Earlier, Joseph told the cupbearer and baker that interpretations belong to God, and asked to hear their dreams (Genesis 40:8).",
+        "question": "How does Genesis 40:8 help you understand his claim that a man like him can surely divine the truth?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "surrender",
+        "because": "Judah asked that he stay as the lord's slave in place of the boy so the boy could return with his brothers",
+        "feeling": "selfishness, fear",
+        "object": "my own comfort",
+        "behavior": "seeking my own way",
+        "step": "take the place of another",
+        "template": "from today I release my {feeling:selfishness, fear} over {object:my own comfort} and instead of {behavior:seeking my own way}, I will {step:take the place of another}."
       }
     }
   }

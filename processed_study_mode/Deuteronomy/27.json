@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of covenant renewal most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Public declaration of law",
-            "expansion": "Symbols and public commitments create collective accountability."
-          },
-          {
-            "id": 2,
-            "text": "Ritual of stones and writing",
-            "expansion": "Physical monuments preserve spiritual memory and intent."
-          },
-          {
-            "id": 3,
-            "text": "Communal responsibility",
-            "expansion": "Individual actions impact the entire community's spiritual trajectory."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external markers of commitment transform internal spiritual landscapes?"
-      },
-      "moral_slider": {
-        "question": "To what extent does collective accountability shape individual moral choices?",
-        "left_label": "Personal Freedom",
-        "right_label": "Community Obligation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant and commitment evolved?",
-        "options": [
-          "More appreciation for communal spiritual practices",
-          "Greater awareness of symbolic actions",
-          "Deeper understanding of accountability",
-          "Recognition of law's transformative potential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the permanence and unchanging nature of divine commandments",
           "Reveals God's pedagogical approach to spiritual formation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Moses and the Levitical priests spoke",
+            "ref": "v. 9",
+            "speaker": "Moses and the Levitical priests"
+          },
+          {
+            "who": "The people say",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the crowd as the priests call for silence. When the people answer 'Amen' to this curse, what does that shared response reveal about their commitment to the law?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "James 2:10",
+        "summary": "The Levites list specific curses for breaking individual commandments (vv. 15-25). James shows that breaking even one part of the law makes a person guilty of the whole.",
+        "question": "How does James 2:10 change how you weigh the weight of a single broken command in this list?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "the one who does not put the words of this law into practice is cursed",
+        "feeling": "indifference, apathy",
+        "object": "the truths I read",
+        "behavior": "ignoring them after reading",
+        "step": "apply one verse to my morning",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the truths I read} and instead of {behavior:ignoring them after reading}, I will {step:apply one verse to my morning}."
       }
     }
   }

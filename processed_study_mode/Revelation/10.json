@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual element of the mighty angel most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Majesty",
-            "expansion": "The angel's cloud-clothing and sun-like face reveal transcendent spiritual authority"
-          },
-          {
-            "id": 2,
-            "text": "Powerful Proclamation",
-            "expansion": "The lion-like roar suggests an urgent, transformative divine message"
-          },
-          {
-            "id": 3,
-            "text": "Mysterious Sealed Revelation",
-            "expansion": "The seven thunders represent hidden spiritual insights not yet meant to be understood"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine messages contain intentionally sealed elements, what does this suggest about human comprehension of spiritual truth?"
-      },
-      "moral_slider": {
-        "question": "How comfortable are you with spiritual mysteries beyond human understanding?",
-        "left_label": "Total Comprehension",
-        "right_label": "Mystical Acceptance"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine communication shifted?",
-        "options": [
-          "More open to mystery",
-          "More questioning of revelation",
-          "More humble about spiritual knowledge",
-          "More eager to listen deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Focus on revealed truths rather than speculative details",
           "Await progressive revelation through spiritual discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The mighty angel cried out",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "A voice from heaven said",
+            "ref": "v. 4",
+            "speaker": "A voice from heaven"
+          }
+        ],
+        "question": "Put yourself in John's place. You hear the seven thunders speak, and you are ready to write it down. Then a voice from heaven tells you to seal it up. What would you weigh about the message you were about to record?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Ezekiel 3:3",
+        "summary": "The angel tells John to eat a scroll that will make his stomach bitter, though in his mouth it is as sweet as honey (vv. 9-10). Ezekiel also eats a scroll that is as sweet as honey in his mouth (Ezekiel 3:3).",
+        "question": "How does Ezekiel's sweet scroll help you understand the mixed taste John describes when he eats the scroll?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "there will be no more delay",
+        "feeling": "anxiety, dread",
+        "object": "a long season of waiting",
+        "behavior": "doubting God's timing",
+        "step": "rest in His promises",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a long season of waiting} to God and instead of {behavior:doubting God's timing}, I will {step:rest in His promises}."
       }
     }
   }

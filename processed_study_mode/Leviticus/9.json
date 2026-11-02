@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which ritual aspect of divine encounter resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Ceremonial Obedience",
-            "expansion": "Meticulous ritual reveals the profound importance of intentional spiritual preparation"
-          },
-          {
-            "id": 2,
-            "text": "Communal Atonement Process",
-            "expansion": "Collective sacrificial offering symbolizes shared spiritual responsibility"
-          },
-          {
-            "id": 3,
-            "text": "Divine Manifestation Through Ritual",
-            "expansion": "Structured worship creates sacred space for transcendent encounter"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might carefully choreographed spiritual practices simultaneously limit and expand human understanding of the divine?"
-      },
-      "moral_slider": {
-        "question": "To what extent does ritual precision reflect genuine spiritual transformation?",
-        "left_label": "External Performance",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual discipline shifted?",
-        "options": [
-          "More appreciative of structured worship",
-          "Recognize deeper symbolic meanings",
-          "See ritual as pathway, not destination",
-          "Understand spiritual practices as intentional dialogue"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The priestly mediation represents humanity's perpetual need for spiritual intervention",
           "The sacrificial system prefigures Christ's ultimate redemptive work"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Moses said",
+            "ref": "v. 6",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The glory of the LORD appeared",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites waiting at the Tent of Meeting. Moses gives the instructions for the sacrifices to bring God's glory to you. What do you see when the glory of the LORD appears to all the people?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Hebrews 9:22",
+        "summary": "Aaron offers blood to make atonement for himself and the people (vv. 7-15). Hebrews says nearly everything is purified with blood, and without the shedding of blood there is no forgiveness (Hebrews 9:22).",
+        "question": "How does the reality of blood being required for atonement help you understand the weight of the fire that consumed the offerings?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "Aaron must make atonement for himself and for the people",
+        "feeling": "self-righteousness, pride",
+        "object": "my spiritual standing",
+        "behavior": "ignoring my own faults",
+        "step": "confess my need for grace",
+        "template": "from today I let go of my {feeling:self-righteousness, pride} over {object:my spiritual standing} and instead of {behavior:ignoring my own faults}, I will {step:confess my need for grace}."
       }
     }
   }

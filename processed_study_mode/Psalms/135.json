@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most from Psalm 135?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Sovereign Power",
-            "expansion": "The psalm emphasizes God's absolute control over creation and historical events."
-          },
-          {
-            "id": 2,
-            "text": "Communal Worship",
-            "expansion": "The psalm calls for collective praise and remembrance of divine deliverance."
-          },
-          {
-            "id": 3,
-            "text": "Divine Uniqueness",
-            "expansion": "The text highlights Yahweh's distinctiveness compared to human-made idols."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might our understanding of divine intervention change if we viewed history as a narrative of God's intentional orchestration?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine election reflect justice?",
-        "left_label": "Universal Mercy",
-        "right_label": "Selective Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your perception of worship transformed?",
-        "options": [
-          "More communal perspective",
-          "Deeper appreciation for divine sovereignty",
-          "Greater understanding of historical redemption",
-          "More critical view of ritualistic practices"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Corporate worship should be grounded in theological understanding",
           "Divine judgment is a legitimate expression of God's holiness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one called to sing praises. You hear that the LORD is good and His name is lovely, then that He has chosen Jacob as His own, Israel as His treasured possession. What do you understand about this God from the reason given?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Deuteronomy 7:6-8",
+        "summary": "The psalmist says the LORD chose Jacob as His own, Israel as His treasured possession (v. 4). Deuteronomy 7:6-8 says the LORD chose a people to be His prized possession, not because they were many, but because He loved them.",
+        "question": "How does Deuteronomy 7:6-8 help you understand why the LORD chose Jacob in verse 4?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "those who make idols become like them",
+        "feeling": "craving, anxiety",
+        "object": "the things I lean on for security",
+        "behavior": "trusting what my hands have made",
+        "step": "name what I lean on, then pray",
+        "template": "from today I bring You my {feeling:craving, anxiety} about {object:the things I lean on for security} and instead of {behavior:trusting what my hands have made}, I will {step:name what I lean on, then pray}."
       }
     }
   }

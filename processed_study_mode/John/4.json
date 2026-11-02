@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jesus' encounter with the Samaritan woman most challenges your perspective?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Breaking Cultural Barriers",
-            "expansion": "Jesus transcends ethnic and social divisions by engaging a Samaritan woman in meaningful dialogue."
-          },
-          {
-            "id": 2,
-            "text": "Living Water Metaphor",
-            "expansion": "The spiritual water represents profound inner transformation beyond physical thirst."
-          },
-          {
-            "id": 3,
-            "text": "True Worship Revealed",
-            "expansion": "Authentic worship is about spirit and truth, not geographical location or ritualistic performance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your preconceived social boundaries prevent you from recognizing spiritual opportunities?"
-      },
-      "moral_slider": {
-        "question": "Where do you position authentic spiritual encounter versus religious tradition?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Transformative Encounter"
-      },
-      "reevaluation": {
-        "question": "How has this chapter shifted your understanding of spiritual transformation?",
-        "options": [
-          "Recognizing divine encounters in unexpected places",
-          "Understanding worship beyond physical rituals",
-          "Embracing conversations that cross social boundaries",
-          "Seeing personal testimony as powerful evangelism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals divine knowledge transcending human limitations",
           "Emphasizes personal transformation over institutional religion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "The woman said",
+            "ref": "v. 25",
+            "speaker": "The woman"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 26",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the woman's place, waiting for a Messiah who explains all things. What do you understand when the person standing before you claims to be that very Messiah?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Jeremiah 2:13",
+        "summary": "Jesus says everyone who drinks this water will be thirsty again, but the water He gives will become a spring welling up to eternal life (vv. 13-14). Jeremiah says the people forsook the fountain of living water and dug broken cisterns that cannot hold water.",
+        "question": "How does Jeremiah 2:13 help you understand the contrast Jesus draws between water that leaves you thirsty again and water that springs up to eternal life?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "devotion",
+        "because": "my food is to do the will of Him who sent me and to finish His work",
+        "feeling": "distraction, apathy",
+        "object": "my own comfort",
+        "behavior": "seeking my own satisfaction",
+        "step": "seek the Father's purpose",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my own comfort} and instead of {behavior:seeking my own satisfaction}, I will {step:seek the Father's purpose}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea most deeply reveals Jesus' spiritual authority?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Forgiving sins",
-            "expansion": "Divine power transcends physical healing and addresses spiritual root causes"
-          },
-          {
-            "id": 2,
-            "text": "Challenging religious leaders' assumptions",
-            "expansion": "Confronting legalistic thinking that restricts understanding of grace"
-          },
-          {
-            "id": 3,
-            "text": "Demonstrating compassion through healing",
-            "expansion": "Showing God's love is practical, tangible, and transformative"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual healing precedes physical restoration, what internal barriers might prevent your own transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authority shifted?",
-        "options": [
-          "I see healing as more holistic",
-          "Religious rules are less important than compassion",
-          "Jesus challenges my preconceived notions",
-          "Faith involves deeper internal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual perception requires humble acknowledgment of Christ's transcendent authority",
           "Faith operates beyond individual limitations through communal intercession"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The Pharisees asked",
+            "ref": "v. 11",
+            "speaker": "The Pharisees"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 12",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the Pharisees. You ask why your Teacher eats with tax collectors and sinners, and He answers, It is not the healthy who need a doctor, but the sick. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Mark 10:51-52",
+        "summary": "Jesus asks the blind men, Do you believe that I am able to do this? and they answer, Yes, Lord (v. 28). In Mark 10:51-52 a blind man asks Jesus to let him see again, and Jesus says his faith has healed him and he receives his sight.",
+        "question": "How does Mark 10:51-52 help you understand the blind men's answer to Jesus' question?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "devotion",
+        "because": "the crowds were harassed and helpless, like sheep without a shepherd",
+        "feeling": "indifference, apathy",
+        "object": "the suffering of others",
+        "behavior": "looking the other way",
+        "step": "see people with His eyes",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the suffering of others} and instead of {behavior:looking the other way}, I will {step:see people with His eyes}."
       }
     }
   }

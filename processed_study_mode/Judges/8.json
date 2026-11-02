@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership dynamic resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Diplomatic Negotiation",
-            "expansion": "Gideon's ability to defuse conflict through strategic communication reveals nuanced leadership."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Tensions",
-            "expansion": "The underlying tribal jealousies expose complex social dynamics beyond immediate military objectives."
-          },
-          {
-            "id": 3,
-            "text": "Divine Providence",
-            "expansion": "God's strategic hand guides events beyond human intentionality or comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does diplomatic appeasement become moral compromise, and how can a leader maintain integrity while managing competing interests?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and collective welfare interact in leadership?",
-        "left_label": "Individual Achievement",
-        "right_label": "Community Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership complexity shifted?",
-        "options": [
-          "Recognized nuanced conflict resolution strategies",
-          "Understood deeper tribal psychological dynamics",
-          "Appreciated subtle divine orchestration",
-          "Challenged previous simplistic leadership models"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals God's strategic intervention through human agents",
           "Highlights importance of collaborative mission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The Israelites said to Gideon",
+            "ref": "v. 22",
+            "speaker": "The Israelites"
+          },
+          {
+            "who": "Gideon replied",
+            "ref": "v. 23",
+            "speaker": "Gideon"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites, wanting a king to lead you. What does Gideon's refusal reveal about where the true authority lies?"
+      },
+      "chain": {
+        "after": 34,
+        "ref": "Psalm 103:2",
+        "summary": "The Israelites failed to remember the LORD after He delivered them from their enemies (v. 34). The Psalmist commands the soul to remember all the kind deeds of God (Psalm 103:2).",
+        "question": "How does the command to remember God's benefits change how you view the Israelites' failure in this chapter?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "surrender",
+        "because": "the LORD shall rule over you",
+        "feeling": "anxiety, pride",
+        "object": "my future plans",
+        "behavior": "trying to control every outcome",
+        "step": "trust His sovereignty",
+        "template": "from today I release my {feeling:anxiety, pride} over {object:my future plans} and instead of {behavior:trying to control every outcome}, I will {step:trust His sovereignty}."
       }
     }
   }

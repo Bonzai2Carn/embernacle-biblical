@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Christ's post-resurrection presence most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His forty-day teaching about God's kingdom",
-            "expansion": "Jesus intentionally prepared his disciples for their transformative mission through concentrated spiritual instruction."
-          },
-          {
-            "id": 2,
-            "text": "Providing 'many infallible proofs' of resurrection",
-            "expansion": "Christ systematically validated his triumph over death through tangible, verifiable encounters."
-          },
-          {
-            "id": 3,
-            "text": "Commanding disciples to await the Holy Spirit",
-            "expansion": "Divine empowerment requires patient, obedient preparation rather than immediate independent action."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises require waiting, what might that reveal about the nature of spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do human initiative and divine timing interact in spiritual calling?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual preparation shifted?",
-        "options": [
-          "I recognize waiting as active spiritual work",
-          "Divine timing matters more than human urgency",
-          "Communal obedience precedes individual mission",
-          "Spiritual power comes through patient receptivity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual power transcends human organizational structures",
           "Organizational leadership and spiritual anointing are complementary"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The disciples asked",
+            "ref": "v. 6",
+            "speaker": "The disciples"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 7",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the disciples' place, waiting for a kingdom you expect to see now. What does Jesus' answer change about your focus?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Luke 24:49",
+        "summary": "Jesus commands them not to leave Jerusalem, but to wait for the gift the Father promised (v. 4). Luke 24:49 says to remain in the city until they are clothed with power from on high.",
+        "question": "How does Luke 24:49 help you understand why Jesus tells them to wait in Jerusalem in v. 4?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "Lord, You know everyone’s heart",
+        "feeling": "anxiety, uncertainty",
+        "object": "a difficult decision",
+        "behavior": "trying to control the outcome",
+        "step": "ask for His guidance",
+        "template": "from today I entrust my {feeling:anxiety, uncertainty} about {object:a difficult decision} to God and instead of {behavior:trying to control the outcome}, I will {step:ask for His guidance}."
       }
     }
   }

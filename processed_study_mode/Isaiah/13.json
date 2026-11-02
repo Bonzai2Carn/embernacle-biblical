@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most powerfully in Isaiah's prophecy against Babylon?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's sovereignty demonstrates ultimate accountability for national and imperial transgressions."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic Disruption",
-            "expansion": "The prophetic vision suggests spiritual warfare transcends human geopolitical conflicts."
-          },
-          {
-            "id": 3,
-            "text": "Inevitable Consequences",
-            "expansion": "Historical empires are subject to moral and spiritual laws beyond their perceived invincibility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms judgment from mere punishment to transformative redemption?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's love with prophetic pronouncements of destruction?",
-        "left_label": "Mercy",
-        "right_label": "Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic judgment evolved?",
-        "options": [
-          "More nuanced view of divine intervention",
-          "Greater appreciation for historical accountability",
-          "Deeper understanding of spiritual dynamics",
-          "Recognition of systemic moral consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic judgments are metaphorical and should not be interpreted literally",
           "Historical judgments demonstrate God's active engagement with human affairs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet warns",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those hearing the summons to war. You hear that the LORD has summoned warriors to execute His wrath, and then you are told to wail because the Day of the LORD is near. What do you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Zephaniah 1:14-16",
+        "summary": "The prophet says to wail, for the Day of the LORD is near and will come as destruction from the Almighty (v. 6). Zephaniah 1:14-16 says the Day of the LORD is near and coming quickly, a day of wrath, trouble, darkness and gloom, with a horn blast and battle cry.",
+        "question": "How does Zephaniah's picture of the Day of the LORD help you understand the wailing Isaiah calls for?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "exposure",
+        "because": "the LORD will end the haughtiness of the arrogant and lay low the pride of the ruthless",
+        "feeling": "pride, self-importance",
+        "object": "my recent achievements",
+        "behavior": "seeking credit from others",
+        "step": "give thanks to God alone",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:my recent achievements} into the light and instead of {behavior:seeking credit from others}, I will {step:give thanks to God alone}."
       }
     }
   }

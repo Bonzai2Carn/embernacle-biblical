@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which pivotal moment in Mark 14 resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Judas' betrayal of Jesus",
-            "expansion": "The profound complexity of human weakness and spiritual compromise"
-          },
-          {
-            "id": 2,
-            "text": "Peter's denial of Jesus",
-            "expansion": "The fragility of human loyalty under pressure and personal survival instinct"
-          },
-          {
-            "id": 3,
-            "text": "Jesus' prayer in Gethsemane",
-            "expansion": "The internal spiritual struggle between divine will and human vulnerability"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true loyalty is revealed in moments of greatest challenge, what does your own response to adversity reveal about your deepest convictions?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival instincts balance against spiritual commitment?",
-        "left_label": "Self-Preservation",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faithfulness shifted after reflecting on this chapter?",
-        "options": [
-          "I see human weakness more compassionately",
-          "I recognize the complexity of spiritual struggle",
-          "I understand vulnerability as a pathway to deeper commitment",
-          "I am more aware of my own potential for betrayal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption requires voluntary suffering",
           "Prophetic fulfillment transcends human understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 30",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Peter declared",
+            "ref": "v. 31",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in Peter's place. Jesus tells you that this very night you will deny Him three times, and you answer that you will never deny Him, even if you have to die with Him. What do you weigh about your own resolve?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Isaiah 53:7",
+        "summary": "Jesus says His blood of the covenant is poured out for many (v. 24). Isaiah 53:7 says that the one who was oppressed and afflicted did not open His mouth, and was led like a lamb to the slaughter.",
+        "question": "How does the silence of the one led like a lamb in Isaiah 53:7 help you understand the blood Jesus pours out for many in Mark 14:24?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "surrender",
+        "because": "all things are possible for the Father",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "trying to control the outcome",
+        "step": "yield my will to God's",
+        "template": "from today I release my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:trying to control the outcome}, I will {step:yield my will to God's}."
       }
     }
   }

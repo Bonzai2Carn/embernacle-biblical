@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Wisdom's invitation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Wisdom's active preparation",
-            "expansion": "Her deliberate construction of a hospitable environment suggests profound intentionality in spiritual growth."
-          },
-          {
-            "id": 2,
-            "text": "Universal invitation to the 'simple'",
-            "expansion": "The open call suggests wisdom is accessible to anyone genuinely seeking understanding, not just the elite."
-          },
-          {
-            "id": 3,
-            "text": "Transformation through nourishment",
-            "expansion": "The metaphor of eating and drinking wisdom implies internal change through spiritual sustenance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is freely offered, why do so many choose to remain ignorant?"
-      },
-      "moral_slider": {
-        "question": "How do personal effort and divine invitation intersect in spiritual understanding?",
-        "left_label": "Personal Striving",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your current understanding of learning and growth?",
-        "options": [
-          "Wisdom requires active pursuit",
-          "Learning is fundamentally relational",
-          "Transformation begins with humility",
-          "Knowledge is a communal experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual discernment involves constant moral and ethical choices",
           "Understanding wisdom requires surrendering personal pride and preconceptions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone deciding whether to listen to wisdom or to scoff. What do you understand about who gains from your wisdom and who bears the consequences of your scoffing?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "James 1:5",
+        "summary": "Proverbs 9 states that knowledge of the Holy One is understanding (v. 10). James promises that God gives wisdom to anyone who asks Him (James 1:5).",
+        "question": "How does the promise in James change how you approach the beginning of wisdom described here?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "leaving folly behind leads to life and the way of understanding",
+        "feeling": "distraction, apathy",
+        "object": "my daily routine",
+        "behavior": "drifting into mindless habits",
+        "step": "choose one intentional action",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my daily routine} and instead of {behavior:drifting into mindless habits}, I will {step:choose one intentional action}."
       }
     }
   }

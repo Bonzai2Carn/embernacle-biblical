@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core sentiment resonates most deeply in this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Seeking Divine Refuge",
-            "expansion": "The psalmist portrays God as a protective shelter in overwhelming life circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Persistent Spiritual Longing",
-            "expansion": "A profound desire to remain connected with God transcends the immediate emotional landscape."
-          },
-          {
-            "id": 3,
-            "text": "Trust in Divine Sovereignty",
-            "expansion": "Acknowledging God's ultimate control and faithfulness despite personal vulnerability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of safety and stability shift if you viewed divine protection as your primary refuge rather than external circumstances?"
-      },
-      "moral_slider": {
-        "question": "How do personal vulnerability and spiritual strength interact in moments of deep emotional need?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Recognizing vulnerability as strength",
-          "Understanding persistent prayer as transformative",
-          "Seeing God as a constant companion",
-          "Embracing spiritual dependency"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine protection guarantees immediate resolution of challenges",
           "Personal faithfulness enables supernatural intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, calling out from the ends of the earth when your heart is faint. What do you understand when you hear that God has been your refuge and a tower of strength against the enemy?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Proverbs 18:10",
+        "summary": "The psalmist asks to dwell in God's tent and take refuge in the shelter of His wings (v. 4). Proverbs 18:10 says the name of the LORD is a strong tower, and the righteous run to it and are safe.",
+        "question": "How does Proverbs 18:10 help you understand the tower of strength the psalmist names God to be (v. 3)?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "God has been my refuge and a tower of strength against the enemy",
+        "feeling": "panic",
+        "object": "an enemy closing in",
+        "behavior": "relying on my own defenses",
+        "step": "run to Him as my refuge",
+        "template": "from today I bring You my {feeling:panic} about {object:an enemy closing in} and instead of {behavior:relying on my own defenses}, I will {step:run to Him as my refuge}."
       }
     }
   }

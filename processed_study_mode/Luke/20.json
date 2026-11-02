@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual challenge resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Religious Authority's Legitimacy",
-            "expansion": "How do leaders earn genuine spiritual credibility beyond institutional power?"
-          },
-          {
-            "id": "2",
-            "text": "Resurrection and Eternal Life",
-            "expansion": "What transforms our understanding of life beyond temporal human limitations?"
-          },
-          {
-            "id": "3",
-            "text": "Paying Taxes and Civic Responsibility",
-            "expansion": "How do spiritual principles intersect with practical societal obligations?"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If religious leaders consistently challenge authentic spiritual truth, what internal mechanisms protect genuine faith from institutional manipulation?"
-      },
-      "moral_slider": {
-        "question": "How do human power structures interact with divine authority?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual authority shifted?",
-        "options": [
-          "Become more questioning of institutional claims",
-          "Recognize complexity in spiritual leadership",
-          "Appreciate nuanced interpretations of faith",
-          "Understand power dynamics in religious contexts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Religious systems can become obstacles to genuine spiritual understanding",
           "Prophetic challenge is essential for spiritual renewal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The chief priests and scribes asked",
+            "ref": "v. 2",
+            "speaker": "The chief priests and scribes"
+          },
+          {
+            "who": "Jesus asked them",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the chief priests and scribes. You demand to know by what authority He acts, and He asks you whether John's baptism was from heaven or from men. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Romans 13:1",
+        "summary": "Jesus tells the spies to give to Caesar what is Caesar's, and to God what is God's (v. 25). Romans 13:1 says that everyone must submit to the governing authorities, because there is no authority except that which is from God.",
+        "question": "How does Romans 13:1 help you understand why Jesus tells the spies to give to Caesar what is Caesar's?"
+      },
+      "conviction": {
+        "verse": 47,
+        "frame": "exposure",
+        "because": "the scribes who defraud widows and make lengthy prayers for show will receive greater condemnation",
+        "feeling": "pride, self-importance",
+        "object": "my religious reputation",
+        "behavior": "seeking public praise",
+        "step": "serve others in secret",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:my religious reputation} into the light and instead of {behavior:seeking public praise}, I will {step:serve others in secret}."
       }
     }
   }

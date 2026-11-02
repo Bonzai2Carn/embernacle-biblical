@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most in this psalm of praise?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "God's overwhelming sovereignty",
-            "expansion": "The psalm celebrates divine power that transcends human limitations and challenges."
-          },
-          {
-            "id": "b",
-            "text": "Personal testimony of deliverance",
-            "expansion": "The psalmist shares a profound narrative of personal redemption and transformative encounter with God."
-          },
-          {
-            "id": "c",
-            "text": "Universal call to worship",
-            "expansion": "The psalm invites all people to recognize and honor God's magnificent works across generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is a choice, what internal barriers might prevent genuine worship?"
-      },
-      "moral_slider": {
-        "question": "How do individual struggles relate to communal spiritual experience?",
-        "left_label": "Personal Suffering",
-        "right_label": "Collective Redemption"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of divine interaction?",
-        "options": [
-          "Recognizing God's active involvement in personal challenges",
-          "Understanding worship as a transformative practice",
-          "Seeing hardship as potential spiritual growth",
-          "Embracing a broader, more universal perspective of divine love"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty operates independently of human choice",
           "Deliverance is a collaborative process between God and human agency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The psalmist reasons",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 19",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying. You wonder whether your hidden sins have blocked your access to God. What does this answer reveal about the relationship between your heart and His ears?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Isaiah 43:2",
+        "summary": "The psalmist says they went through fire and water, but God brought them into abundance (v. 12). Isaiah 43:2 says that when you pass through the waters and walk through the fire, the LORD will be with you and the flames will not set you ablaze.",
+        "question": "How does Isaiah 43:2 help you understand going through fire and water in verse 12?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "remembrance",
+        "because": "God has not rejected my prayer or withheld from me His loving devotion",
+        "feeling": "doubt, insecurity",
+        "object": "a season of silence",
+        "behavior": "withdrawing from prayer",
+        "step": "speak my needs aloud",
+        "template": "from today I bring You my {feeling:doubt, insecurity} about {object:a season of silence} and instead of {behavior:withdrawing from prayer}, I will {step:speak my needs aloud}."
       }
     }
   }

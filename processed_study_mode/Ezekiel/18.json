@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Individual Accountability",
-            "expansion": "Each person bears direct responsibility for their own moral choices and spiritual trajectory."
-          },
-          {
-            "id": 2,
-            "text": "Divine Justice",
-            "expansion": "God evaluates each soul's actions with perfect fairness and personal scrutiny."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Transformation",
-            "expansion": "Redemption is always possible through genuine repentance and behavioral change."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If personal righteousness is truly individual, how do familial and generational patterns of behavior actually impact spiritual development?"
-      },
-      "moral_slider": {
-        "question": "To what extent do inherited moral characteristics determine one's spiritual destiny?",
-        "left_label": "Predetermined Fate",
-        "right_label": "Personal Agency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal responsibility shifted after exploring this chapter?",
-        "options": [
-          "I now see individual choices as more significant",
-          "I recognize the complexity of moral accountability",
-          "I understand divine judgment differently",
-          "I'm more aware of potential for personal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Repentance can fundamentally alter one's spiritual standing",
           "Divine mercy is accessible through genuine transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people asked",
+            "ref": "v. 2",
+            "speaker": "The people"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this proverb about sour grapes. What does the LORD's refusal to use that proverb change about how you view your family's history?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "2 Peter 3:9",
+        "summary": "The LORD declares that He takes no pleasure in the death of the wicked (v. 23). Peter describes this same patience as God not wanting anyone to perish.",
+        "question": "How does Peter's description of God's patience help you understand the heart of the LORD in Ezekiel 18?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "repair",
+        "because": "the house of Israel is told to cast away its transgressions and fashion a new heart and a new spirit",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "ask for His help to change",
+        "template": "from today I turn from my {feeling:shame, guilt} toward {object:my past failures} and instead of {behavior:hiding from God}, I will {step:ask for His help to change}."
       }
     }
   }

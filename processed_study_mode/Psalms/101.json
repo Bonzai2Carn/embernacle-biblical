@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about personal integrity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Commitment to Moral Purity",
-            "expansion": "Actively choosing righteousness in a world of moral complexity"
-          },
-          {
-            "id": 2,
-            "text": "Leadership Accountability",
-            "expansion": "Holding oneself and others to high ethical standards"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Discernment",
-            "expansion": "Consciously filtering influences that could compromise one's spiritual journey"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal ethical standards evolve when power and proximity tempt compromise?"
-      },
-      "moral_slider": {
-        "question": "How do individual moral choices impact communal integrity?",
-        "left_label": "Personal Freedom",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal integrity shifted?",
-        "options": [
-          "More aware of subtle moral compromises",
-          "Recognize leadership's ethical burden",
-          "Understand integrity as active choice",
-          "See moral decisions as interconnected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership effectiveness depends more on skills than personal character",
           "Spiritual integrity is a continuous process of growth and accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. He begins with a song of praise, then immediately shifts to a question about when God will come to him. How does his commitment to praise change how you hear his longing for God's presence?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Proverbs 10:9",
+        "summary": "The psalmist vows to set no worthless thing before his eyes (v. 3) and to walk with integrity (v. 2). Proverbs describes the same path of safety for the one who walks in integrity.",
+        "question": "How does the promise of safety in Proverbs 10:9 help you understand the psalmist's choice to reject worthless things?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "I will set no worthless thing before my eyes",
+        "feeling": "distraction, greed",
+        "object": "scrolling through social media",
+        "behavior": "seeking cheap validation",
+        "step": "look away to focus on what is good",
+        "template": "from today I bring You my {feeling:distraction, greed} about {object:scrolling through social media} and instead of {behavior:seeking cheap validation}, I will {step:look away to focus on what is good}."
       }
     }
   }

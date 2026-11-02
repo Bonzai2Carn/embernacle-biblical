@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's nature most resonates with you in this psalm?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's universal sovereignty",
-            "expansion": "God transcends all earthly boundaries and reigns supreme over all creation."
-          },
-          {
-            "id": "2",
-            "text": "Divine compassion for the marginalized",
-            "expansion": "God actively lifts the poor and weak from their lowly circumstances."
-          },
-          {
-            "id": "3",
-            "text": "Eternal praise and worship",
-            "expansion": "Continuous praise is the appropriate human response to God's magnificent character."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God truly raises the poor from the dust and lifts the needy from the ash heap, what implications does this have for how we should view and treat society's most vulnerable?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's transcendence with God's intimate involvement in human suffering?",
-        "left_label": "Divine Distance",
-        "right_label": "Divine Proximity"
-      },
-      "reevaluation": {
-        "question": "How has this psalm challenged your understanding of divine nature?",
-        "options": [
-          "I see God as more actively compassionate",
-          "I recognize the importance of persistent praise",
-          "I understand divine sovereignty differently",
-          "I'm more aware of God's concern for marginalized people"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship transforms perspective on social inequity",
           "Theological understanding requires recognizing divine compassion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a servant of the LORD. You are called to praise His name, and you hear it is praised from sunrise to sunset and that He is exalted over all the nations. How far does that make you feel your praise reaches?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 57:15",
+        "summary": "The psalmist describes God enthroned on high (v. 5) who humbles Himself to look at the earth (v. 6). Isaiah describes the same God who dwells in the high and holy place but also with the contrite and lowly in spirit.",
+        "question": "How does Isaiah's description of God's presence help you understand how He humbles Himself to behold the earth?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the LORD raises the poor from the dust and lifts the needy up",
+        "feeling": "shame, inadequacy",
+        "object": "my current failures",
+        "behavior": "hiding from others",
+        "step": "accept His lifting hand",
+        "template": "from today I bring You my {feeling:shame, inadequacy} about {object:my current failures} and instead of {behavior:hiding from others}, I will {step:accept His lifting hand}."
       }
     }
   }

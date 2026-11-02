@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Comfort in Suffering",
-            "expansion": "God's compassion transcends human pain and offers radical restoration."
-          },
-          {
-            "id": 2,
-            "text": "Preparation for Spiritual Transformation",
-            "expansion": "Personal and collective readiness precedes profound spiritual breakthrough."
-          },
-          {
-            "id": 3,
-            "text": "God's Incomparable Magnitude",
-            "expansion": "Human limitations contrast starkly with the infinite power and wisdom of the Divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If comfort is promised after suffering, what inner landscapes must first be 'leveled' within your own spirit?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine justice with divine mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Boundless Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "I now see suffering as potentially transformative",
-          "Divine perspective matters more than personal perception",
-          "Patience in waiting is a form of spiritual strength",
-          "Comfort can emerge from unexpected sources"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Comfort is a process of gradual spiritual and communal healing",
           "Comfort represents God's redemptive intervention in human history"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "A voice says",
+            "ref": "v. 6",
+            "speaker": "A voice"
+          },
+          {
+            "who": "A voice says",
+            "ref": "v. 8",
+            "speaker": "A voice"
+          }
+        ],
+        "question": "Put yourself in the place of the one crying out. You see everything around you fading and dying, yet you hear a promise of something that cannot fail. What does this contrast teach you about what you can rely on?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Psalm 90:2",
+        "summary": "Isaiah describes the LORD as the everlasting God and the Creator of the ends of the earth (v. 28). The Psalmist describes God's existence as being from everlasting to everlasting, before the mountains were born (v. 2).",
+        "question": "How does the Psalmist's view of God's eternal nature help you understand the strength of the Creator described in Isaiah?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "those who wait upon the LORD will renew their strength",
+        "feeling": "anxiety, exhaustion",
+        "object": "a long season of waiting",
+        "behavior": "rushing to fix things myself",
+        "step": "sit quietly in His presence",
+        "template": "from today I let go of my {feeling:anxiety, exhaustion} over {object:a long season of waiting} and instead of {behavior:rushing to fix things myself}, I will {step:sit quietly in His presence}."
       }
     }
   }

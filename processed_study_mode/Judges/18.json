@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of tribal identity most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Territorial Expansion",
-            "expansion": "The Danites' quest reveals the complex dynamics of tribal inheritance and territorial ambition."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Opportunism",
-            "expansion": "The tribe's willingness to adopt religious practices that serve their immediate interests reflects a moral flexibility."
-          },
-          {
-            "id": 3,
-            "text": "Institutional Weakness",
-            "expansion": "The absence of centralized leadership creates a vacuum where individual tribal interests override collective ethics."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When tribal identity supersedes moral covenant, what fundamental principles are we truly betraying?"
-      },
-      "moral_slider": {
-        "question": "How do personal/tribal needs balance against collective ethical standards?",
-        "left_label": "Individual Survival",
-        "right_label": "Communal Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of tribal dynamics and religious authenticity shifted?",
-        "options": [
-          "Recognized complexity of ancient social structures",
-          "Understood the dangers of power without accountability",
-          "Saw how religious practices can be manipulated",
-          "Appreciated the challenges of decentralized governance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Shows God's continued engagement despite human failings",
           "Highlights the importance of covenant faithfulness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The narrator describes Laish",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The five men urge their brothers",
+            "ref": "v. 9",
+            "speaker": "The five men"
+          }
+        ],
+        "question": "Put yourself among the Danites hearing the report. The people of Laish live tranquil and unsuspecting, with nothing lacking. What do you weigh when your brothers say, Why would you fail to act?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "Exodus 20:3-4",
+        "summary": "The Danites set up idols for themselves (v. 30), and the carved image Micah made stands among them. God's commands in Exodus forbid any other god before Him and any idol in the heavens, on the earth, or in the waters (Exodus 20:3-4).",
+        "question": "How does Exodus 20:3-4 help you understand what the Danites did in setting up idols for themselves?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "surrender",
+        "because": "the Danites set up idols for themselves",
+        "feeling": "attachment, craving",
+        "object": "a comfort I can see",
+        "behavior": "building my own substitutes for God",
+        "step": "lay my idols before Him",
+        "template": "from today I release my {feeling:attachment, craving} over {object:a comfort I can see} and instead of {behavior:building my own substitutes for God}, I will {step:lay my idols before Him}."
       }
     }
   }

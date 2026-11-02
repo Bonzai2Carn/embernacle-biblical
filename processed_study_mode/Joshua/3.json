@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transition moment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Preparatory Instructions",
-            "expansion": "Divine guidance requires intentional human readiness and obedience."
-          },
-          {
-            "id": 2,
-            "text": "The Priests' Bold Step",
-            "expansion": "Faith often demands stepping into uncertain waters before seeing miraculous resolution."
-          },
-          {
-            "id": 3,
-            "text": "Communal Transformation",
-            "expansion": "Collective spiritual journeys create profound moments of shared transcendence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible barriers might be holding you back from entering your 'promised land'?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal hesitation with divine calling?",
-        "left_label": "Human Limitation",
-        "right_label": "Spiritual Courage"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith's journey shifted?",
-        "options": [
-          "I see faith as more active than passive",
-          "Community matters more than individual experience",
-          "Divine promises require human partnership",
-          "Transformation happens through courageous steps"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God prioritizes collective spiritual readiness over individual achievement",
           "Spiritual leadership involves precise communication and strategic positioning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Joshua told the people",
+            "ref": "v. 5",
+            "speaker": "Joshua"
+          }
+        ],
+        "question": "Put yourself among the Israelites. Joshua tells you to consecrate yourselves, because tomorrow the LORD will do wonders among you. What would you weigh before you prepare, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Exodus 14:21-22",
+        "summary": "The priests step into the overflowing Jordan and the waters stand in a heap (vv. 15-16). Exodus tells how the LORD drove back the sea so Israel crossed on dry ground.",
+        "question": "How does Exodus 14:21-22 help you understand the waters of the Jordan standing in a heap?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "the LORD will do wonders among you",
+        "feeling": "anxiety, doubt",
+        "object": "a new and difficult season",
+        "behavior": "rushing ahead of God",
+        "step": "set myself apart for Him",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a new and difficult season} and instead of {behavior:rushing ahead of God}, I will {step:set myself apart for Him}."
       }
     }
   }

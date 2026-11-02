@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of courage resonates most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Moral Integrity",
-            "expansion": "Mordecai's refusal to bow represents principled resistance against cultural pressure."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Injustice",
-            "expansion": "Haman's genocidal response reveals how personal slights can escalate to collective persecution."
-          },
-          {
-            "id": 3,
-            "text": "Power Dynamics",
-            "expansion": "The narrative explores how individual actions can trigger massive institutional responses."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does personal conviction become a threat to collective harmony?"
-      },
-      "moral_slider": {
-        "question": "How do individual principles interact with societal expectations?",
-        "left_label": "Personal Conviction",
-        "right_label": "Social Conformity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of resistance shifted?",
-        "options": [
-          "Recognized complexity of moral choices",
-          "Understood systemic power structures better",
-          "Appreciated individual courage more deeply",
-          "Seen how personal actions can have collective consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Strategic compromise to maintain social standing",
           "Passive resistance through prayer and faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The royal servants at the king’s gate asked Mordecai",
+            "ref": "v. 3",
+            "speaker": "The royal servants at the king’s gate"
+          },
+          {
+            "who": "Mordecai would not comply",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Mordecai's place. Day after day the royal servants warn you, and you will not comply. What do you weigh as they report it to Haman?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Romans 13:1",
+        "summary": "Haman uses the king's authority to authorize a decree of destruction (vv. 10-12). Paul writes about the nature of authority and the purpose of governing powers.",
+        "question": "How does Paul's description of authority help you weigh the king's decision to give Haman his signet ring?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "Haman was filled with rage when he saw that Mordecai would not bow",
+        "feeling": "indignation, bitterness",
+        "object": "someone else's refusal to follow my lead",
+        "behavior": "seeking to punish them",
+        "step": "seek a way to respond with grace",
+        "template": "from today I bring my {feeling:indignation, bitterness} about {object:someone else's refusal to follow my lead} into the light and instead of {behavior:seeking to punish them}, I will {step:seek a way to respond with grace}."
       }
     }
   }

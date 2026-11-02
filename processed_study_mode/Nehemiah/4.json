@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resilience against mockery",
-            "expansion": "Leaders must maintain vision despite external criticism and derision."
-          },
-          {
-            "id": 2,
-            "text": "Preparedness for opposition",
-            "expansion": "Anticipating challenges allows strategic spiritual and practical defense."
-          },
-          {
-            "id": 3,
-            "text": "Community solidarity",
-            "expansion": "Collective purpose transforms individual vulnerability into collective strength."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external criticisms reveal more about the critic's limitations than the work being critiqued?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between spiritual trust and practical preparation?",
-        "left_label": "Passive Spirituality",
-        "right_label": "Active Readiness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "Recognized the importance of community support",
-          "Understood leadership requires both faith and strategy",
-          "Learned that opposition can be a catalyst for unity",
-          "Saw how inner conviction overcomes external mockery"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Internal discouragement and doubt",
           "Spiritual warfare through intellectual challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The enemies conspired to attack and create a hindrance",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "Nehemiah and the people prayed and posted a guard",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the builders when you hear that the enemies plan to come and fight against Jerusalem. What would you weigh about this, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Ephesians 6:12",
+        "summary": "The enemies plan to come and fight against Jerusalem and create a hindrance (v. 8). Paul writes that our struggle is not against flesh and blood, but against rulers, authorities, and spiritual forces of evil (Ephesians 6:12).",
+        "question": "How does Paul's description of a struggle not against flesh and blood help you understand the opposition Nehemiah faced in Nehemiah 4:8?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "the Lord, who is great and awesome, is to be remembered",
+        "feeling": "fear, dread",
+        "object": "threats from the enemies around us",
+        "behavior": "stalling my progress",
+        "step": "focus on His greatness",
+        "template": "from today I let go of my {feeling:fear, dread} over {object:threats from the enemies around us} and instead of {behavior:stalling my progress}, I will {step:focus on His greatness}."
       }
     }
   }

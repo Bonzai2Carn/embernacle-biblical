@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual legacy speaks most to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Passing down genuine faith",
-            "expansion": "Faith is a treasured inheritance transmitted through personal relationships and mentorship."
-          },
-          {
-            "id": 2,
-            "text": "Enduring suffering for the Gospel",
-            "expansion": "True spiritual commitment often requires embracing vulnerability and potential persecution."
-          },
-          {
-            "id": 3,
-            "text": "Maintaining a pure conscience",
-            "expansion": "Integrity of heart creates a sustainable spiritual foundation for ministry."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current fears be preventing you from fully embracing the spirit of power God has given you?"
-      },
-      "moral_slider": {
-        "question": "Where do you currently stand between personal comfort and spiritual boldness?",
-        "left_label": "Safety/Comfort",
-        "right_label": "Radical Commitment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance shifted?",
-        "options": [
-          "I see faith as more relational",
-          "I recognize suffering's potential redemptive purpose",
-          "I'm more aware of generational spiritual dynamics",
-          "I understand personal testimony's transformative power"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance is a dynamic interplay between divine grace and human response",
           "Generational faith is primarily a cultural and familial phenomenon"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul reminds Timothy",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Timothy's place, told to fan into flame the gift of God in you. What do you understand when Paul says God has not given a spirit of fear, but of power, love, and self-control?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Joshua 1:9",
+        "summary": "Paul says he is not ashamed, for he knows whom he has believed (v. 12). Joshua 1:9 says to be strong and courageous, not afraid or discouraged, for the LORD your God is with you wherever you go.",
+        "question": "How does Joshua 1:9 help you understand Paul's confidence in v. 12?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "God has not given us a spirit of fear, but of power, love, and self-control",
+        "feeling": "anxiety, dread",
+        "object": "a difficult conversation",
+        "behavior": "avoiding the truth",
+        "step": "speak with steady courage",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult conversation} and instead of {behavior:avoiding the truth}, I will {step:speak with steady courage}."
       }
     }
   }

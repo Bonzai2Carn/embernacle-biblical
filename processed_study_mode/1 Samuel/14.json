@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jonathan's bold faith most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Initiative",
-            "expansion": "Jonathan takes courageous action without waiting for institutional approval or permission."
-          },
-          {
-            "id": 2,
-            "text": "Trust in Divine Providence",
-            "expansion": "Jonathan believes God can accomplish victory through few or many, challenging human limitations."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Discernment",
-            "expansion": "Jonathan intuitively understands God's potential intervention in seemingly impossible circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine opportunity presents itself, how do you discern between reckless action and faithful risk-taking?"
-      },
-      "moral_slider": {
-        "question": "How does personal courage relate to spiritual obedience?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Institutional Authority"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of leadership and faith?",
-        "options": [
-          "Leadership requires bold initiative",
-          "God works beyond human strategies",
-          "Personal faith can transform collective outcomes",
-          "Institutional structures can sometimes hinder divine movement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine strategies often challenge human strategic thinking",
           "Leadership effectiveness depends on spiritual alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Jonathan said to his armor-bearer",
+            "ref": "v. 6",
+            "speaker": "Jonathan"
+          },
+          {
+            "who": "His armor-bearer replied",
+            "ref": "v. 7",
+            "speaker": "His armor-bearer"
+          }
+        ],
+        "question": "Put yourself in the armor-bearer's place. Jonathan says the LORD may work on your behalf, and that nothing can hinder the LORD from saving, whether by many or by few. What would you weigh before you answer, 'I am with you heart and soul'?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Judges 7:2-7",
+        "summary": "Jonathan climbs up with only his armor-bearer behind him, and the Philistines fall before them (v. 13). In Judges 7:2 the LORD tells Gideon he has too many people, lest Israel glorify themselves and say, 'My own hand has saved me.'",
+        "question": "How does the LORD's reason for a small army in Judges 7 help you understand Jonathan's words that nothing can hinder the LORD from saving by many or by few?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "nothing can hinder the LORD from saving, whether by many or by few",
+        "feeling": "fear, dread",
+        "object": "a task far bigger than my resources",
+        "behavior": "waiting until I have enough",
+        "step": "take the next step toward it",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a task far bigger than my resources} to God and instead of {behavior:waiting until I have enough}, I will {step:take the next step toward it}."
       }
     }
   }

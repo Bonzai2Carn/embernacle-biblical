@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical image of spiritual infidelity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The wife who abandons her marriage covenant",
-            "expansion": "Spiritual betrayal cuts deeper than physical separation, revealing the heart's true allegiance."
-          },
-          {
-            "id": 2,
-            "text": "A land polluted by persistent unfaithfulness",
-            "expansion": "Sin doesn't just affect individuals, but corrupts entire communal and ecological systems."
-          },
-          {
-            "id": 3,
-            "text": "Sitting by the roadside, waiting for lovers",
-            "expansion": "Spiritual promiscuity represents a persistent, desperate seeking of validation outside divine relationship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love persistently seeks restoration after repeated betrayal, what does this reveal about the nature of grace versus human understanding of forgiveness?"
-      },
-      "moral_slider": {
-        "question": "How do personal choices impact collective spiritual destiny?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Consequences"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine forgiveness shifted?",
-        "options": [
-          "Recognize complexity of spiritual restoration",
-          "Understand unconditional love differently",
-          "See personal choices as interconnected",
-          "Appreciate metaphorical depth of spiritual imagery"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Restoration is conditional upon complete repentance",
           "Divine love persistently pursues the wayward"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people called faithless Israel. You hear 'Return,' and then 'I will no longer look on you with anger, for I am merciful.' What would you still wonder about that mercy?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 John 1:9",
+        "summary": "The people answer the call to return with 'Here we are. We come to You,' and the LORD promises to heal their faithlessness (v. 22). John says that if we confess our sins, God is faithful and just to forgive us and cleanse us from all unrighteousness.",
+        "question": "How does 1 John 1:9 help you understand what happens when the people come back to the LORD in verse 22?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "repair",
+        "because": "the LORD our God will heal our faithlessness",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach Him with honesty",
+        "template": "from today I turn from my {feeling:shame, guilt} toward {object:my past failures} and instead of {behavior:hiding from God}, I will {step:approach Him with honesty}."
       }
     }
   }

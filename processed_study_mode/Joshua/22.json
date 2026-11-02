@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of covenant commitment resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tribal Unity Despite Geographic Separation",
-            "expansion": "Maintaining spiritual connection transcends physical distance"
-          },
-          {
-            "id": 2,
-            "text": "Proactive Communication to Prevent Misunderstandings",
-            "expansion": "Dialogue can prevent potential conflict before it escalates"
-          },
-          {
-            "id": 3,
-            "text": "Honoring Promises Made to Leadership",
-            "expansion": "Integrity in fulfilling commitments builds communal trust"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might misinterpreted intentions create division where unity could exist?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between individual tribal identity and collective national purpose?",
-        "left_label": "Tribal Autonomy",
-        "right_label": "National Cohesion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant commitment evolved?",
-        "options": [
-          "Recognize complexity of inter-tribal relationships",
-          "Appreciate nuanced communication",
-          "Understand importance of shared spiritual heritage",
-          "Value proactive conflict resolution"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Communication and mutual understanding prevent spiritual fragmentation",
           "Local contexts require contextual theological interpretations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The Israelites received the report",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "the whole congregation of Israel assembled at Shiloh to go to war",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing about the new altar. What would make you see this as a reason for war rather than a simple monument?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Psalm 133:1",
+        "summary": "The whole congregation of Israel assembles at Shiloh to go to war against the Reubenites, Gadites, and half-tribe of Manasseh (v. 12). Psalm 133:1 says how good and pleasant it is when brothers live together in harmony.",
+        "question": "How does Psalm 133:1 help you understand what was at stake when Israel assembled to go to war against their brothers?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "the altar was built for fear that descendants might say, what have you to do with the LORD, the God of Israel",
+        "feeling": "anxiety, dread",
+        "object": "the opinions of others",
+        "behavior": "performing for an audience",
+        "step": "act solely for God's glory",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the opinions of others} and instead of {behavior:performing for an audience}, I will {step:act solely for God's glory}."
       }
     }
   }

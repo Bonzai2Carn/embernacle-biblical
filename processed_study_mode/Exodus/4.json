@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine transformation resonates most?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "The rod becoming a serpent",
-            "expansion": "Symbol of potential power lying dormant within ordinary objects"
-          },
-          {
-            "id": "b",
-            "text": "Moses' initial hesitation",
-            "expansion": "Human uncertainty confronting cosmic calling"
-          },
-          {
-            "id": "c",
-            "text": "God's patient demonstration",
-            "expansion": "Divine willingness to provide tangible evidence of supernatural intervention"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What transformative power might lie hidden in the ordinary objects of your own life that you've yet to recognize?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations interact with divine purpose?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine calling shifted?",
-        "options": [
-          "More aware of supernatural potential",
-          "Recognize divine patience",
-          "Understand personal transformation",
-          "Appreciate metaphorical significance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine calling transcends individual self-doubt",
           "Obedience matters more than personal qualifications"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Moses asked",
+            "ref": "v. 1",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "vv. 11-12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Moses's place, feeling your own lack of ability. What does God's answer about the creation of the mouth change about your view of your own weakness?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Corinthians 12:9-10",
+        "summary": "The LORD answers Moses by pointing to His power over the mouth and the senses (v. 11). Paul later describes how God's power is made perfect in human weakness (2 Corinthians 12:9-10).",
+        "question": "How does Paul's experience with weakness help you understand God's response to Moses's complaint about his speech?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "God promises to help Moses as he speaks and to teach him what to say",
+        "feeling": "inadequacy, fear",
+        "object": "a difficult conversation",
+        "behavior": "avoiding the truth",
+        "step": "speak with His help",
+        "template": "from today I entrust my {feeling:inadequacy, fear} about {object:a difficult conversation} to God and instead of {behavior:avoiding the truth}, I will {step:speak with His help}."
       }
     }
   }

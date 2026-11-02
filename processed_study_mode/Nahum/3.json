@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inevitable Consequence of Evil",
-            "expansion": "Sin's destructive nature ultimately consumes its own practitioners"
-          },
-          {
-            "id": 2,
-            "text": "Universal Accountability",
-            "expansion": "No nation or people are exempt from spiritual and moral reckoning"
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning as Mercy",
-            "expansion": "God's judgment is simultaneously a revelation of divine standards and an invitation to transformation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is a mirror, what does Nineveh's destruction reveal about the human capacity for collective moral failure?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the relationship between divine justice and compassion?",
-        "left_label": "Retributive Justice",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on judgment and accountability shifted?",
-        "options": [
-          "Recognized complexity of moral consequences",
-          "Understood systemic nature of societal sin",
-          "Saw judgment as potential for renewal",
-          "Appreciated prophetic perspective on history"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings serve as opportunities for collective repentance",
           "God's judgment ultimately aims at spiritual restoration, not mere punishment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts speaks against the city",
+            "ref": "v. 5",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The prophet gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the city. The LORD says He is against you and will show your nakedness to the nations. What would you weigh in the harlotries and sorcery named as the cause, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Habakkuk 2:8",
+        "summary": "Nahum calls Nineveh a city of blood, full of lies and plunder (v. 1). Habakkuk says that the one who plundered many nations will be plundered, because of bloodshed and violence against the land and its people (Habakkuk 2:8).",
+        "question": "How does Habakkuk 2:8 help you understand the charge of bloodshed and plunder against the city in Nahum 3?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "repair",
+        "because": "the city of blood, full of lies and full of plunder, is never without prey",
+        "feeling": "greed, cunning",
+        "object": "an easy gain at someone's expense",
+        "behavior": "stretching the truth to win",
+        "step": "return what is not mine and tell the truth",
+        "template": "from today I turn from my {feeling:greed, cunning} toward {object:an easy gain at someone's expense} and instead of {behavior:stretching the truth to win}, I will {step:return what is not mine and tell the truth}."
       }
     }
   }

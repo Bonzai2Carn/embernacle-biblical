@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional experience resonates most with Elijah's journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Overwhelming Fear",
-            "expansion": "The profound human response when confronting existential threat and feeling utterly alone."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Exhaustion",
-            "expansion": "The deep weariness that comes after intense spiritual battles and confrontations."
-          },
-          {
-            "id": 3,
-            "text": "Divine Intimacy",
-            "expansion": "The transformative moment of hearing God's 'still small voice' amid personal crisis."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you feel most defeated, what internal resources might be waiting to be discovered?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival instincts interact with spiritual calling?",
-        "left_label": "Self-Preservation",
-        "right_label": "Divine Mission"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on leadership and vulnerability have shifted?",
-        "options": [
-          "Strength includes acknowledging weakness",
-          "Prophetic calling is not about heroic invincibility",
-          "Spiritual journeys include seasons of doubt",
-          "God meets us in our most vulnerable moments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's redemptive plan continues regardless of individual human limitations",
           "Intimate spiritual encounters frequently occur in moments of personal vulnerability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Elijah replies",
+            "ref": "v. 10",
+            "speaker": "Elijah"
+          }
+        ],
+        "question": "Put yourself in Elijah's place, standing in the cave. You just heard a voice ask why you are here. What does your answer reveal about how you see your mission and your surroundings?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "2 Corinthians 12:9-10",
+        "summary": "Elijah prays to die, saying he has had enough (v. 4). In 2 Corinthians 12:9-10 the speaker is told that God's power is perfected in weakness and says that when he is weak, then he is strong.",
+        "question": "How does 2 Corinthians 12:9-10 help you understand Elijah's weakness under the broom tree?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "remembrance",
+        "because": "God has reserved seven thousand in Israel",
+        "feeling": "loneliness, isolation",
+        "object": "a season of spiritual decline",
+        "behavior": "believing I am the only one left",
+        "step": "look for where God is working",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a season of spiritual decline} and instead of {behavior:believing I am the only one left}, I will {step:look for where God is working}."
       }
     }
   }

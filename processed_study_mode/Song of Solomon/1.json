@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about love's transformative power?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Acceptance",
-            "expansion": "Recognizing one's inherent beauty despite external perceptions."
-          },
-          {
-            "id": 2,
-            "text": "Passionate Longing",
-            "expansion": "Love as an intense, consuming desire that transcends physical attraction."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability as Strength",
-            "expansion": "Revealing one's true self becomes an act of profound courage and intimacy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does vulnerability reveal more about authentic connection than protective facades?"
-      },
-      "moral_slider": {
-        "question": "To what extent does passionate love challenge or align with spiritual devotion?",
-        "left_label": "Earthly Desire",
-        "right_label": "Spiritual Transcendence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of love's complexity shifted?",
-        "options": [
-          "Recognized love's multidimensional nature",
-          "Understand vulnerability as strength",
-          "Appreciate emotional depth over superficial attraction",
-          "Saw spiritual metaphors in human intimacy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As a poetic metaphor blending spiritual and human love",
           "As a prophetic symbolism of Christ's relationship with the Church"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The bride longs for his kisses",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "She speaks of his perfume and name",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one speaking. You long for his kisses because his love is more delightful than wine, and you say his name is like perfume poured out. What would you understand about why the maidens adore him?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Song of Solomon 8:6-7",
+        "summary": "The speaker calls the beloved beautiful, with eyes like doves (v. 15). Song 8:6-7 says love is as strong as death, and that mighty waters cannot quench it.",
+        "question": "How does the strength of love described in Song of Solomon 8:6-7 help you understand the beauty praised in v. 15?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "I have neglected my own vineyard",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding my true self",
+        "step": "speak plainly about my neglect",
+        "template": "from today I bring You my {feeling:shame, inadequacy} about {object:my past failures} and instead of {behavior:hiding my true self}, I will {step:speak plainly about my neglect}."
       }
     }
   }

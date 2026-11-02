@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God sees the heart, not external appearances",
-            "expansion": "Divine perception transcends human superficial judgments."
-          },
-          {
-            "id": 2,
-            "text": "Obedience requires courage in uncertain circumstances",
-            "expansion": "Samuel risked his life to follow God's command despite potential consequences."
-          },
-          {
-            "id": 3,
-            "text": "Leadership emerges from unexpected sources",
-            "expansion": "David, the youngest son, was chosen over more seemingly qualified brothers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between human perceptions of worth and divine selection?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal safety with spiritual obedience?",
-        "left_label": "Self-Preservation",
-        "right_label": "Radical Faithfulness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership selection changed?",
-        "options": [
-          "I now see leadership as more about character than credentials",
-          "Divine selection can override human expectations",
-          "Inner qualities matter more than external impressions",
-          "Courage often emerges from unexpected individuals"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership potential is spiritually discerned, not merely politically determined",
           "God often chooses the unexpected to demonstrate His power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Samuel said",
+            "ref": "v. 6",
+            "speaker": "Samuel"
+          },
+          {
+            "who": "The LORD said to Samuel",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Samuel's place, looking at a man standing before the LORD. What does the LORD's correction change about how you judge a person's worth?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "1 Samuel 13:14",
+        "summary": "Samuel looks at the sons of Jesse and their outward appearance (vv. 6-10). In 1 Samuel 13:14 the LORD says He has sought a man after His own heart, because Saul did not keep His command.",
+        "question": "How does 1 Samuel 13:14 help you understand why the LORD passed over the tall and impressive sons of Jesse?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "the LORD does not see as man does",
+        "feeling": "insecurity, inadequacy",
+        "object": "my physical limitations",
+        "behavior": "comparing myself to others",
+        "step": "trust His view of me",
+        "template": "from today I bring my {feeling:insecurity, inadequacy} about {object:my physical limitations} into the light and instead of {behavior:comparing myself to others}, I will {step:trust His view of me}."
       }
     }
   }

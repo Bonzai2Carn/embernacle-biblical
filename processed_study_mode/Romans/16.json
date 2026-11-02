@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of early Christian community resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Recognition of Women's Leadership",
-            "expansion": "Phoebe's role demonstrates the inclusive nature of early Christian communities."
-          },
-          {
-            "id": 2,
-            "text": "Personal Risk for Faith",
-            "expansion": "Priscilla and Aquila's willingness to risk their lives reveals profound spiritual commitment."
-          },
-          {
-            "id": 3,
-            "text": "Interconnected Church Networks",
-            "expansion": "Paul's greetings show a deeply relational, globally connected spiritual movement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal relationships transform theological understanding beyond doctrinal statements?"
-      },
-      "moral_slider": {
-        "question": "What determines spiritual credibility: Personal sacrifice or theological precision?",
-        "left_label": "Theological Precision",
-        "right_label": "Personal Sacrifice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community evolved?",
-        "options": [
-          "More appreciative of diverse leadership roles",
-          "Recognize importance of personal relationships",
-          "Understanding church as a network, not just an institution",
-          "Valuing sacrificial commitment over formal credentials"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership is primarily about formal church positions",
           "Leadership is fundamentally about servanthood and mutual support"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Paul urges the brothers",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains the nature of such people",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the brothers who have learned this teaching. What would you look for in a person to know whether they are serving Christ or just serving their own appetites?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Titus 3:10",
+        "summary": "Paul warns the Romans to watch out for those who create divisions and obstacles, and to turn away from them (v. 17). Titus 3:10 says to reject a divisive man after a first and second warning.",
+        "question": "How does the command to avoid those who cause division in Titus help you understand the weight of Paul's warning to the Romans?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "Paul wants you to be wise about what is good and innocent about what is evil",
+        "feeling": "confusion, doubt",
+        "object": "a deceptive person's words",
+        "behavior": "trying to find middle ground",
+        "step": "test every claim against the truth",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a deceptive person's words} and instead of {behavior:trying to find middle ground}, I will {step:test every claim against the truth}."
       }
     }
   }

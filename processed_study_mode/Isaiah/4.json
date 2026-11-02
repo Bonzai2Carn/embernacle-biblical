@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic vision resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Restoration",
-            "expansion": "God transforms communal brokenness into sacred wholeness and redemptive hope."
-          },
-          {
-            "id": 2,
-            "text": "Collective Healing",
-            "expansion": "Individual and societal wounds can be simultaneously addressed through spiritual renewal."
-          },
-          {
-            "id": 3,
-            "text": "Remnant's Significance",
-            "expansion": "A faithful minority can carry profound spiritual momentum for entire generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might societal desperation reveal deeper spiritual longings that transcend immediate circumstances?"
-      },
-      "moral_slider": {
-        "question": "What determines true spiritual legitimacy: external compliance or internal transformation?",
-        "left_label": "Ritualistic Conformity",
-        "right_label": "Authentic Devotion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal restoration shifted?",
-        "options": [
-          "Recognized individual responsibility",
-          "Understood divine agency more deeply",
-          "Appreciated collective spiritual journey",
-          "Saw hope beyond current circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation precedes national restoration",
           "Divine mercy transcends historical circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Seven women say",
+            "ref": "v. 1",
+            "speaker": "Seven women"
+          },
+          {
+            "who": "The prophet promises",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of these women, asking to be called by a name to take away disgrace. What do you weigh when you hear that the Branch of the LORD will be beautiful and glorious?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Malachi 3:2",
+        "summary": "The prophet says the Lord washes away filth and cleanses bloodstains by a spirit of judgment and a spirit of fire (v. 4). Malachi 3:2 says the Lord at His coming will be like a refiner's fire and a launderer's soap.",
+        "question": "How do the refiner's fire and launderer's soap in Malachi 3:2 help you understand the washing and cleansing by fire in Isaiah 4?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "the Lord has washed away the filth and cleansed the bloodstains",
+        "feeling": "shame, guilt",
+        "object": "my past mistakes",
+        "behavior": "hiding my true self",
+        "step": "tell God plainly what I did",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:my past mistakes} into the light and instead of {behavior:hiding my true self}, I will {step:tell God plainly what I did}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The white horse of conquest",
-            "expansion": "Spiritual forces that seek dominion beyond human understanding"
-          },
-          {
-            "id": 2,
-            "text": "The souls under the altar crying out",
-            "expansion": "The profound human yearning for justice and divine accountability"
-          },
-          {
-            "id": 3,
-            "text": "The cosmic disruption of natural order",
-            "expansion": "Apocalyptic transformation as a pathway to spiritual renewal"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transformation might it demand of our current understanding of mercy and justice?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the balance between divine sovereignty and human agency in prophetic revelation?",
-        "left_label": "Human Free Will",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual warfare and cosmic conflict evolved?",
-        "options": [
-          "Deeper appreciation of spiritual dimensions",
-          "Increased awareness of prophetic symbolism",
-          "Challenged by the complexity of divine judgments",
-          "More humble about interpretative certainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As metaphorical warnings about systemic human sin",
           "As allegorical demonstrations of God's redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The souls of those cry out",
+            "ref": "v. 10",
+            "speaker": "The souls of those"
+          },
+          {
+            "who": "They are told to rest",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the souls who cry out. You ask, 'How long, O Lord, holy and true?' What would you weigh when you are told to rest a little while longer?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Ezekiel 14:21",
+        "summary": "The rider named Death is given authority to kill by sword, by famine, by plague, and by the beasts of the earth (v. 8). God names four dire judgments against Jerusalem: sword, famine, wild beasts, and plague (Ezekiel 14:21).",
+        "question": "How does God's list of four dire judgments in Ezekiel help you understand the judgments that follow in this chapter?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "pacing",
+        "because": "the slain ask how long, O Lord, holy and true, until You avenge their blood",
+        "feeling": "impatience, bitterness",
+        "object": "a long wait for justice",
+        "behavior": "demanding justice on my own timetable",
+        "step": "pray my complaint to God and wait",
+        "template": "from today I set down my {feeling:impatience, bitterness} about {object:a long wait for justice} and instead of {behavior:demanding justice on my own timetable}, I will {step:pray my complaint to God and wait}."
       }
     }
   }

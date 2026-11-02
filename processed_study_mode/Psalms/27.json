@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme resonates most deeply from Psalm 27?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection",
-            "expansion": "The psalm portrays God as an unshakable fortress amid life's most threatening circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Courageous Trust",
-            "expansion": "David demonstrates unwavering confidence in God's presence, even when facing potential enemies."
-          },
-          {
-            "id": 3,
-            "text": "Seeking God's Presence",
-            "expansion": "The profound desire to dwell in God's sanctuary represents a deeper spiritual longing beyond physical safety."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If confidence in divine protection is so absolute, why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do personal fear and spiritual courage interact in times of challenge?",
-        "left_label": "Overwhelming Fear",
-        "right_label": "Absolute Confidence"
-      },
-      "reevaluation": {
-        "question": "How might this psalm transform your understanding of spiritual resilience?",
-        "options": [
-          "Recognize vulnerability as human, not weakness",
-          "Understand trust as an active, courageous choice",
-          "See divine presence as a constant, not a conditional promise",
-          "Embrace uncertainty as part of spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual confidence emerges from intimate relationship with God",
           "Vulnerability becomes a pathway to deeper spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: an army encamps around you, yet you ask for only one thing. What does this one desire reveal about what the psalmist values most when an army surrounds him?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 84:1-2",
+        "summary": "The psalmist seeks to dwell in the house of the LORD and gaze on His beauty (v. 4). The writer of Psalm 84 expresses the same physical longing for the courts of the Lord.",
+        "question": "How does the longing in Psalm 84 help you understand the depth of the psalmist's request in verse 4?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "the LORD is my light and my salvation",
+        "feeling": "panic, dread",
+        "object": "a sudden crisis",
+        "behavior": "looking for my own escape",
+        "step": "remind myself of His strength",
+        "template": "from today I bring You my {feeling:panic, dread} about {object:a sudden crisis} and instead of {behavior:looking for my own escape}, I will {step:remind myself of His strength}."
       }
     }
   }

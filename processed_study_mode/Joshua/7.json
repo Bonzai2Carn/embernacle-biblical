@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of community accountability resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Individual sin affects the entire community",
-            "expansion": "One person's transgression can create widespread consequences for collective spiritual health."
-          },
-          {
-            "id": 2,
-            "text": "Divine judgment is precise and personal",
-            "expansion": "God sees and responds to specific actions with nuanced understanding."
-          },
-          {
-            "id": 3,
-            "text": "Confession and repentance are transformative",
-            "expansion": "Acknowledging fault opens pathways for restoration and healing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal desires conflict with communal covenant, who bears ultimate responsibility: the individual or the collective?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance with human weakness?",
-        "left_label": "Human Frailty",
-        "right_label": "Divine Perfection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "I recognize individual actions have broader implications",
-          "I see the importance of transparency and honesty",
-          "I understand judgment can be redemptive, not just punitive",
-          "I appreciate the complexity of collective spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Corporate accountability exists alongside individual responsibility",
           "Spiritual leadership must address hidden transgressions proactively"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Joshua cried out",
+            "ref": "v. 7",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "vv. 10-11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Joshua's place, face down after a defeat you cannot explain. What do you understand when the LORD tells you to stand up and says Israel has sinned, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Numbers 32:23",
+        "summary": "The LORD says Israel has sinned by taking what was devoted to destruction and putting it with their own possessions (v. 11). Numbers 32:23 says to be assured that your sin will find you out.",
+        "question": "How does Numbers 32:23 help you understand what happened to the sin hidden among the possessions?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "Achan coveted and took the spoils",
+        "feeling": "shame, guilt",
+        "object": "a forbidden desire",
+        "behavior": "hiding my tracks",
+        "step": "confess it to someone",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a forbidden desire} into the light and instead of {behavior:hiding my tracks}, I will {step:confess it to someone}."
       }
     }
   }

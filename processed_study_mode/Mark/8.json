@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most captures the essence of divine provision?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus' compassion for human need",
-            "expansion": "Divine care transcends logical limitations and sees deeper human vulnerabilities."
-          },
-          {
-            "id": 2,
-            "text": "The disciples' initial uncertainty",
-            "expansion": "Human limitation often precedes miraculous transformation."
-          },
-          {
-            "id": 3,
-            "text": "Supernatural multiplication of resources",
-            "expansion": "God's economy operates beyond scarcity and human mathematical constraints."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If compassion is the starting point of miracle, what untapped potential might exist in your current perceived limitations?"
-      },
-      "moral_slider": {
-        "question": "How do human insufficiency and divine sufficiency interact?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Abundance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of provision shifted?",
-        "options": [
-          "I see resources differently",
-          "Compassion precedes miracle",
-          "Faith transforms scarcity",
-          "Divine perspective matters more than human calculation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faith transforms seemingly insufficient resources into abundance",
           "Divine compassion is demonstrated through tangible, miraculous acts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "Jesus asked",
+            "ref": "v. 27",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Peter answered",
+            "ref": "v. 29",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a disciple on the road to Caesarea Philippi. Jesus asks what people say about Him, and then He asks what you say. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Matthew 14:13-21",
+        "summary": "The disciples ask where anyone could find enough bread in this desolate place (v. 4). Matthew 14:13-19 tells a similar scene: the disciples say they have only five loaves and two fish, and Jesus says, 'Bring them here to Me.'",
+        "question": "How does Matthew 14:13-21 help you understand the disciples' question about bread in the desolate place in Mark 8:4?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "surrender",
+        "because": "whoever loses his life for My sake and for the gospel will save it",
+        "feeling": "fear, anxiety",
+        "object": "my reputation",
+        "behavior": "seeking approval from others",
+        "step": "choose to speak the truth",
+        "template": "from today I release my {feeling:fear, anxiety} over {object:my reputation} and instead of {behavior:seeking approval from others}, I will {step:choose to speak the truth}."
       }
     }
   }

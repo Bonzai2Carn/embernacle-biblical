@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual pattern resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cycles of Disobedience",
-            "expansion": "Israel repeatedly returns to sinful patterns despite divine intervention."
-          },
-          {
-            "id": 2,
-            "text": "Divine Mercy amid Judgment",
-            "expansion": "God preserves a remnant even while delivering consequences for national sin."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Intercession",
-            "expansion": "Elisha's prophetic role bridges divine judgment and potential redemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do generations perpetuate spiritual patterns, and at what point does individual choice interrupt inherited trajectories?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment reflect corrective love versus punitive anger?",
-        "left_label": "Punishment",
-        "right_label": "Redemptive Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine patience shifted?",
-        "options": [
-          "God's mercy is more complex than I previously understood",
-          "National sins have profound generational consequences",
-          "Individual faithfulness can interrupt systemic spiritual decline",
-          "Prophetic voices serve as spiritual transformative agents"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational patterns of sin demonstrate human spiritual vulnerability",
           "Covenant relationships are conditional upon faithful obedience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Elisha said to the king of Israel",
+            "ref": "v. 18",
+            "speaker": "Elisha"
+          },
+          {
+            "who": "The man of God was angry with him and said",
+            "ref": "v. 19",
+            "speaker": "The man of God"
+          }
+        ],
+        "question": "Put yourself in the king's place. You did what the prophet told you, yet he is angry with you. What does this reveal about the gap between what you did and what the prophet expected?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Exodus 20:5",
+        "summary": "The kings of Israel followed the sins that caused God to punish generations (v. 2, 11). Yet the LORD remains gracious to Israel because of His covenant (v. 23).",
+        "question": "How does the LORD's warning about visiting iniquity in Exodus 20:5 help you understand why He still spares Israel despite their idolatry?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "the king struck the ground three times and stopped",
+        "feeling": "dissatisfaction, laziness",
+        "object": "a small success",
+        "behavior": "settling for less",
+        "step": "press on until the work is finished",
+        "template": "from today I let go of my {feeling:dissatisfaction, laziness} over {object:a small success} and instead of {behavior:settling for less}, I will {step:press on until the work is finished}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which memorial moment speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Power in Crossing the Jordan",
-            "expansion": "Divine intervention transcends natural limitations and demonstrates supernatural guidance."
-          },
-          {
-            "id": 2,
-            "text": "Generational Storytelling",
-            "expansion": "Intentional remembrance ensures spiritual heritage continues through collective memory."
-          },
-          {
-            "id": 3,
-            "text": "Collective Obedience",
-            "expansion": "Community alignment with divine instruction creates transformative spiritual momentum."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do physical memorials transform into living memories within a community's spiritual consciousness?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between miraculous divine intervention and human responsibility?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual remembrance shifted?",
-        "options": [
-          "I now see memory as an active spiritual discipline",
-          "Collective storytelling matters more than individual experience",
-          "Physical symbols can powerfully represent spiritual truths",
-          "Generational transmission of faith requires intentional effort"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic acts reinforce collective spiritual identity",
           "Tangible memorials bridge generational spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Joshua said to the twelve men",
+            "ref": "v. 5",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The Israelites did as Joshua commanded",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the middle of the Jordan. Joshua tells you to cross before the ark and take a stone upon your shoulder. What would you weigh before you lift it, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Exodus 12:26-27",
+        "summary": "Joshua tells Israel that when their children ask what the stones mean, they must answer with the story of the crossing (vv. 6-7). Exodus records a similar question from children and the answer their parents give about the Passover (Exodus 12:26-27).",
+        "question": "How does the children's question about the Passover help you understand why these stones were set up as a memorial?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "remembrance",
+        "because": "the hand of the LORD is mighty, so that you may always fear the LORD your God",
+        "feeling": "forgetfulness, indifference",
+        "object": "a busy week",
+        "behavior": "forgetting what He has done",
+        "step": "name one answered prayer out loud",
+        "template": "from today I let go of my {feeling:forgetfulness, indifference} over {object:a busy week} and instead of {behavior:forgetting what He has done}, I will {step:name one answered prayer out loud}."
       }
     }
   }

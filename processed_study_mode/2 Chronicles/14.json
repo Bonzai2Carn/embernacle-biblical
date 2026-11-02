@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Removing spiritual obstacles",
-            "expansion": "Asa systematically dismantled structures that distanced people from authentic worship."
-          },
-          {
-            "id": 2,
-            "text": "Pursuing national spiritual renewal",
-            "expansion": "Leadership involves transforming collective spiritual consciousness, not just personal devotion."
-          },
-          {
-            "id": 3,
-            "text": "Seeking divine peace and protection",
-            "expansion": "Spiritual alignment creates unexpected strategic advantages beyond military strength."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do internal spiritual transformations manifest as external national realities?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between active spiritual reformation and patient divine intervention?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership is proactive, not passive",
-          "Systemic change requires courageous decisions",
-          "Spiritual renewal precedes national blessing",
-          "True peace comes from spiritual alignment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God honors genuine attempts to restore authentic worship",
           "Spiritual reformation precedes and enables divine protection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Asa built fortified cities while the land was at peace",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Asa said to the people of Judah",
+            "ref": "v. 7",
+            "speaker": "Asa"
+          }
+        ],
+        "question": "Put yourself in the place of the people of Judah. The land is at peace, and the LORD has given you rest on every side. What would you weigh before deciding what to build next?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Chronicles 16:9",
+        "summary": "Asa prays that God will help the powerless because they rely on Him (v. 11). The LORD's eyes roam over all the earth and show Himself strong for those whose hearts are fully devoted to Him (2 Chronicles 16:9).",
+        "question": "How does the LORD's watch over fully devoted hearts in 2 Chronicles 16:9 help you understand the prayer Asa makes here?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "trust",
+        "because": "there is no one besides You to help the powerless against the mighty",
+        "feeling": "anxiety, dread",
+        "object": "an overwhelming problem",
+        "behavior": "trying to fix it alone",
+        "step": "admit my weakness to God",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an overwhelming problem} to God and instead of {behavior:trying to fix it alone}, I will {step:admit my weakness to God}."
       }
     }
   }

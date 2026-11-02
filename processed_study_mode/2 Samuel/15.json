@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Absalom's political manipulation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Ambition",
-            "expansion": "Absalom subtly undermines his father's authority through calculated social engineering."
-          },
-          {
-            "id": 2,
-            "text": "Leadership Erosion",
-            "expansion": "Trust breaks down when leadership fails to perceive systemic discontent."
-          },
-          {
-            "id": 3,
-            "text": "Generational Conflict",
-            "expansion": "Power transitions often emerge from unresolved familial and emotional tensions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal grievances transform from private pain into public rebellion?"
-      },
-      "moral_slider": {
-        "question": "Where is the boundary between legitimate political critique and treasonous manipulation?",
-        "left_label": "Justified Criticism",
-        "right_label": "Destructive Sedition"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership dynamics shifted?",
-        "options": [
-          "Power is fragile and requires constant nurturing",
-          "Family dynamics significantly impact governance",
-          "Perception matters more than actual performance",
-          "Unaddressed emotional wounds create systemic risks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Tests leadership's spiritual resilience",
           "Provides opportunity for divine redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Absalom would call out",
+            "ref": "v. 2",
+            "speaker": "Absalom"
+          },
+          {
+            "who": "Absalom would say",
+            "ref": "vv. 3-4",
+            "speaker": "Absalom"
+          }
+        ],
+        "question": "Put yourself in the place of a man with a grievance. You hear that the king has no deputy to hear you, and that a man offers to give you justice. What would you weigh in his offer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Psalm 3:1-3",
+        "summary": "David flees Jerusalem from his son Absalom (v. 14). The psalmist writes from a similar place, surrounded by enemies.",
+        "question": "How does the psalmist's experience of God as a shield help you understand David's position as he leaves his palace behind?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "trust",
+        "because": "if I find favor in the eyes of the LORD, He will bring me back",
+        "feeling": "anxiety, dread",
+        "object": "a sudden loss of my place",
+        "behavior": "trying to control the outcome",
+        "step": "pray and wait for His leading",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a sudden loss of my place} to God and instead of {behavior:trying to control the outcome}, I will {step:pray and wait for His leading}."
       }
     }
   }

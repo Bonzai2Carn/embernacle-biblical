@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound moment in Matthew 12 challenges your understanding of spiritual authority?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus challenging Sabbath traditions",
-            "expansion": "Religious rules can become barriers to human compassion and divine purpose."
-          },
-          {
-            "id": 2,
-            "text": "Confrontation with Pharisees about blasphemy",
-            "expansion": "Spiritual discernment requires understanding intention beyond surface-level actions."
-          },
-          {
-            "id": 3,
-            "text": "Jesus redefining familial relationships",
-            "expansion": "Spiritual connection transcends biological relationships and reflects deeper covenant."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your religious practices potentially obstruct genuine spiritual understanding, just as the Pharisees' traditions blocked their recognition of divine grace?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the balance between religious legalism and spiritual freedom?",
-        "left_label": "Rigid Adherence",
-        "right_label": "Graceful Interpretation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual authority shifted after examining Matthew 12?",
-        "options": [
-          "More understanding of grace",
-          "Questioning traditional interpretations",
-          "Recognizing complexity of spiritual discernment",
-          "Seeing beyond literal religious rules"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine power transcends human institutional boundaries",
           "Spiritual authority is demonstrated through acts of mercy and liberation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The Pharisees said",
+            "ref": "v. 2",
+            "speaker": "The Pharisees"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "vv. 3-5",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the Pharisees. You say the disciples are doing what is unlawful on the Sabbath, and Jesus asks about David and the consecrated bread and about the priests in the temple. What would you understand from His reply, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Mark 2:23-28",
+        "summary": "The Pharisees accuse the disciples of breaking the Sabbath by picking grain (v. 2). In Mark, Jesus uses the same example to explain that the Sabbath was made for the benefit of humanity.",
+        "question": "How does the idea of the Sabbath being made for man help you understand Jesus' defense of his hungry disciples?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "exposure",
+        "because": "out of the overflow of the heart, the mouth speaks",
+        "feeling": "bitterness, anger",
+        "object": "a personal insult",
+        "behavior": "snapping at others",
+        "step": "pause and breathe",
+        "template": "from today I bring my {feeling:bitterness, anger} about {object:a personal insult} into the light and instead of {behavior:snapping at others}, I will {step:pause and breathe}."
       }
     }
   }

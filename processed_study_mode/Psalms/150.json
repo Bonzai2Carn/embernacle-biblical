@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of praising God resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Universal Praise",
-            "expansion": "Recognizing God's sovereignty extends beyond human limitations into all creation's realm."
-          },
-          {
-            "id": "b",
-            "text": "Instrumental Worship",
-            "expansion": "Music and artistic expression become profound channels of spiritual connection."
-          },
-          {
-            "id": "c",
-            "text": "Breath of Praise",
-            "expansion": "Every breath itself can be an act of worship and thanksgiving."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is a universal mandate, what prevents genuine, uninhibited worship in your personal experience?"
-      },
-      "moral_slider": {
-        "question": "How does praise transform personal perspective?",
-        "left_label": "Self-Centered Perspective",
-        "right_label": "God-Centered Perspective"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship evolved?",
-        "options": [
-          "Worship is more than music",
-          "Praise transcends emotional states",
-          "Every action can be worship",
-          "Spiritual authenticity matters more than performance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Musical instruments are secondary to verbal praise",
           "Genuine worship transcends cultural and instrumental limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "vv. 3-5",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the middle of this list of instruments and sounds. You hear the harp, the flute, and the cymbals. When you reach the final command, what is the scope of the audience you are part of?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Revelation 5:13",
+        "summary": "The psalmist says everything that has breath should praise the LORD (v. 6). Revelation 5:13 says every creature in heaven and on earth and under the earth and in the sea joins in saying praise and honor and glory and power belong to Him who sits on the throne and to the Lamb.",
+        "question": "How does Revelation 5:13 help you understand the scale of 'everything that has breath' in verse 6?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "His mighty acts and excellent greatness deserve praise",
+        "feeling": "distraction, apathy",
+        "object": "my daily routine",
+        "behavior": "ignoring His presence",
+        "step": "stop to name one great thing He has done",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:my daily routine} and instead of {behavior:ignoring His presence}, I will {step:stop to name one great thing He has done}."
       }
     }
   }

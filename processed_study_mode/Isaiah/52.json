@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative concept resonates most from Isaiah's prophetic vision?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Awakening",
-            "expansion": "The call to 'awake' represents an internal revolution of consciousness and divine potential."
-          },
-          {
-            "id": 2,
-            "text": "Redemptive Liberation",
-            "expansion": "God's promise of restoration transcends human economic and political constraints."
-          },
-          {
-            "id": 3,
-            "text": "Dignity Reclaimed",
-            "expansion": "Identity is restored not through external validation, but through divine recognition."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If liberation is freely given, what personal responsibility remains for the one being liberated?"
-      },
-      "moral_slider": {
-        "question": "How do personal agency and divine intervention intersect in spiritual transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of redemption?",
-        "options": [
-          "I see suffering as potentially purposeful",
-          "Divine timing is mysterious",
-          "Personal transformation requires active participation",
-          "Spiritual renewal can be sudden and complete"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption is conditional upon human performance",
           "Divine restoration transcends historical and cultural boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The Lord GOD says",
+            "ref": "v. 5",
+            "speaker": "The Lord GOD"
+          },
+          {
+            "who": "The Lord GOD says",
+            "ref": "v. 6",
+            "speaker": "The Lord GOD"
+          }
+        ],
+        "question": "Put yourself in the place of the people who are being taunted and mocked. What does this promise tell you about why God allows His name to be blasphemed for so long?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Zechariah 8:3",
+        "summary": "Isaiah describes good news proclaiming peace and salvation to Zion, with the words 'Your God reigns!' (v. 7). Zechariah 8:3 has the LORD say He will return to Zion and dwell in Jerusalem, which will be called the City of Truth.",
+        "question": "How does Zechariah 8:3 help you understand the good news that Zion's God reigns?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "the LORD goes before you, and the God of Israel is your rear guard",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His protection}."
       }
     }
   }

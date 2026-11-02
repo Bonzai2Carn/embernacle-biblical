@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you about priestly responsibility?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sacred Duty",
-            "expansion": "Priests bear unique spiritual accountability for the community's holiness."
-          },
-          {
-            "id": 2,
-            "text": "Divine Provision",
-            "expansion": "God directly supports those who serve in spiritual leadership roles."
-          },
-          {
-            "id": 3,
-            "text": "Hierarchical Service",
-            "expansion": "Different levels of ministry require different levels of responsibility and consecration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leadership carries such profound responsibility, what transforms duty from mere obligation to genuine calling?"
-      },
-      "moral_slider": {
-        "question": "How do personal holiness and communal spiritual welfare balance?",
-        "left_label": "Individual Purity",
-        "right_label": "Collective Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More aware of sacred responsibility",
-          "Recognize complexity of spiritual roles",
-          "Appreciate divine provision for ministry",
-          "Understand interconnectedness of community"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Economic provisions are necessary for dedicated ministerial service",
           "Individual spiritual gifts should be recognized and systematically integrated"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The LORD said to Aaron",
+            "ref": "v. 20",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 21",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are Aaron, hearing that you will have no land or portion among the people. How does the promise of God being your portion change how you view this lack of inheritance?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Corinthians 9:13-14",
+        "summary": "The LORD gives the Levites all the tithes in Israel as an inheritance for their work (v. 21). Paul says those who serve at the altar share its offerings, and those who preach the gospel should receive their living from the gospel (1 Corinthians 9:13-14).",
+        "question": "How does Paul's point about living from the work you do help you see the purpose behind the tithes in this chapter?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "the LORD is my portion and my inheritance",
+        "feeling": "anxiety, discontent",
+        "object": "a lack of worldly security",
+        "behavior": "chasing after more",
+        "step": "rest in His sufficiency",
+        "template": "from today I let go of my {feeling:anxiety, discontent} over {object:a lack of worldly security} and instead of {behavior:chasing after more}, I will {step:rest in His sufficiency}."
       }
     }
   }

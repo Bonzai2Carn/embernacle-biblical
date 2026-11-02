@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound insight from this chapter resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment of Leadership",
-            "expansion": "God holds rulers accountable for their spiritual influence and moral direction."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Generational Sin",
-            "expansion": "Leaders' moral failures can create systemic spiritual corruption that impacts entire communities."
-          },
-          {
-            "id": 3,
-            "text": "Cyclical Nature of Political Upheaval",
-            "expansion": "Political transitions often emerge through violence and divine orchestration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is truly sovereign, what role does human agency play in national spiritual trajectory?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human responsibility interact in national leadership?",
-        "left_label": "Human Determination",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership shifted?",
-        "options": [
-          "Leaders are more accountable than I previously understood",
-          "Spiritual consequences extend beyond individual actions",
-          "Divine judgment is more nuanced and contextual",
-          "Personal choices have broader communal implications"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leaders bear unique spiritual responsibility for collective moral direction",
           "God's judgments are simultaneously just and redemptive"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Zimri struck down the entire household of Baasha",
+            "ref": "vv. 11-12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Baasha's family. You see a prophecy of destruction, and then you see that very destruction carried out by a servant. How does this change how you view the words of the prophet?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Exodus 20:5",
+        "summary": "Ahab sets up an altar for Baal in the temple he built in Samaria (v. 32). Exodus says the LORD visits the iniquity of the fathers on their children to the third and fourth generations of those who hate Him (Exodus 20:5).",
+        "question": "How does the warning in Exodus help you understand why the text says Ahab did more to provoke the LORD than those before him?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "exposure",
+        "because": "Ahab even married Jezebel and proceeded to serve and worship Baal",
+        "feeling": "shame, guilt",
+        "object": "a compromise in my values",
+        "behavior": "pretending everything is fine",
+        "step": "admit the truth to God",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a compromise in my values} into the light and instead of {behavior:pretending everything is fine}, I will {step:admit the truth to God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on marriage challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Marriage as mutual spiritual partnership",
-            "expansion": "Recognizing marriage as a covenant where both partners mutually serve and respect each other's spiritual needs."
-          },
-          {
-            "id": 2,
-            "text": "Celibacy as spiritual potential",
-            "expansion": "Understanding singleness as a unique opportunity for undivided devotion to spiritual growth and service."
-          },
-          {
-            "id": 3,
-            "text": "Sexual intimacy as sacred duty",
-            "expansion": "Viewing marital sexual relationship not as mere physical act, but as a profound expression of mutual care and commitment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of intimacy transform if you viewed it as a spiritual exchange of vulnerability rather than a transactional experience?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance with spiritual calling in relationships?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on marriage and relationship shifted?",
-        "options": [
-          "More holistic spiritual understanding",
-          "Greater respect for individual calling",
-          "Deeper appreciation for mutual commitment",
-          "Recognition of celibacy's spiritual value"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Sexual intimacy within marriage is a God-ordained expression of mutual love and commitment",
           "Celibacy is not a superior spiritual state, but a specific calling for some individuals"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 19",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a man who was called while circumcised, or while uncircumcised. When you hear that circumcision is nothing and uncircumcision is nothing, and that keeping God's commandments is what counts, what do you take to matter?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Romans 7:2-3",
+        "summary": "Paul explains the mutual duties of husband and wife (vv. 2-4). Romans 7:2-3 says a married woman is bound by law to her husband as long as he lives, and is released from that law if he dies.",
+        "question": "How does Romans 7:2-3 help you understand the weight of the marriage duties Paul describes here?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "devotion",
+        "because": "Paul gives this rule to promote undivided devotion to the Lord",
+        "feeling": "anxiety, distraction",
+        "object": "my many responsibilities",
+        "behavior": "splitting my attention",
+        "step": "focus on what is essential",
+        "template": "from today I let go of my {feeling:anxiety, distraction} over {object:my many responsibilities} and instead of {behavior:splitting my attention}, I will {step:focus on what is essential}."
       }
     }
   }

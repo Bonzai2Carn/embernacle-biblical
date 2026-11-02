@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective strikes you most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Betrayed Covenant",
-            "expansion": "Israel's systematic rejection of divine relationship reveals profound spiritual infidelity."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Idolatry",
-            "expansion": "Human-constructed idols ultimately lead to spiritual and political disintegration."
-          },
-          {
-            "id": 3,
-            "text": "Institutional Corruption",
-            "expansion": "Political and religious leadership can dramatically distance a community from divine intention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your deepest spiritual commitments were objectively examined, what hidden compromises might emerge?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires interact with divine expectations?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "I recognize more personal responsibility",
-          "I see systemic spiritual challenges differently",
-          "I understand divine judgment more complexly",
-          "I'm more aware of subtle spiritual compromises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Covenant relationship requires mutual commitment and accountability",
           "Rebellion inevitably triggers predetermined redemptive consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD warns",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are the people of Israel hearing this warning. What does this description of your harvest tell you about the consequences of what you sow?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Galatians 6:7",
+        "summary": "The LORD warns that Israel will reap a whirlwind because they sow the wind (v. 7). Paul writes to the Galatians about this same law of consequence.",
+        "question": "How does Galatians 6:7 help you understand the weight of the harvest described in Hosea 8?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "Israel has forgotten his Maker and built palaces",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own achievements",
+        "behavior": "ignoring my need for Him",
+        "step": "thank Him for His provision",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my own achievements} and instead of {behavior:ignoring my need for Him}, I will {step:thank Him for His provision}."
       }
     }
   }

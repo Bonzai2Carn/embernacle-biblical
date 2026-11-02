@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic moment most challenges your understanding of Jesus' mission?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Triumphal Entry",
-            "expansion": "Jesus deliberately fulfills messianic prophecy by entering Jerusalem humbly on a donkey."
-          },
-          {
-            "id": 2,
-            "text": "Temple Cleansing",
-            "expansion": "Jesus confronts systemic religious corruption by disrupting commercial transactions in sacred space."
-          },
-          {
-            "id": 3,
-            "text": "Withered Fig Tree",
-            "expansion": "Christ uses a symbolic act to demonstrate spiritual fruitlessness and the power of authentic faith."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine authority challenges human systems, how do we distinguish prophetic action from mere rebellion?"
-      },
-      "moral_slider": {
-        "question": "How do you balance religious institutional respect with spiritual authenticity?",
-        "left_label": "Institutional Compliance",
-        "right_label": "Prophetic Disruption"
-      },
-      "reevaluation": {
-        "question": "How has this chapter reshaped your understanding of Jesus' approach to leadership and transformation?",
-        "options": [
-          "More aware of prophetic symbolism",
-          "Recognized complexity of spiritual confrontation",
-          "Understood Jesus' intentional fulfillment of prophecy",
-          "Challenged by radical spiritual authenticity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates divine authority through humility",
           "Fulfills prophetic promises through unexpected means"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "The chief priests and elders asked",
+            "ref": "v. 23",
+            "speaker": "The chief priests and elders of the people"
+          },
+          {
+            "who": "Jesus asked them a question",
+            "ref": "v. 25",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the chief priests. You ask by what authority Jesus does these things, and He asks you where John's baptism came from. What would you weigh in His question, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Zechariah 9:9",
+        "summary": "Matthew quotes the prophet: your King comes to you, gentle and riding on a donkey, on a colt (v. 5). Zechariah says the King comes righteous and victorious, humble and riding on a donkey, on a colt (Zechariah 9:9).",
+        "question": "How does Zechariah 9:9 help you see the King Matthew describes entering Jerusalem?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "pacing",
+        "because": "if you believe, you will receive whatever you ask for in prayer",
+        "feeling": "doubt, impatience",
+        "object": "an unanswered prayer",
+        "behavior": "giving up on praying",
+        "step": "ask again with one specific request",
+        "template": "from today I set down my {feeling:doubt, impatience} about {object:an unanswered prayer} and instead of {behavior:giving up on praying}, I will {step:ask again with one specific request}."
       }
     }
   }

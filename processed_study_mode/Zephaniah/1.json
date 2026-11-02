@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's profound accountability for human and collective spiritual deviation"
-          },
-          {
-            "id": 2,
-            "text": "Universal Consequences",
-            "expansion": "Sin affects entire ecosystems and social structures, not just individuals"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Purification",
-            "expansion": "Destruction serves as a mechanism for ultimate redemptive restoration"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms it from mere punishment to transformative renewal?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between God's justice and mercy?",
-        "left_label": "Punitive Judgment",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability evolved?",
-        "options": [
-          "More aware of collective responsibility",
-          "Recognize complexity beyond individual actions",
-          "See divine judgment as ultimately restorative",
-          "Understand systemic spiritual consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Judgment reveals God's ultimate desire for restoration and reconciliation",
           "Judgment demonstrates the consequences of sustained rebellion against divine principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD says he will search Jerusalem",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the men who say the LORD will do nothing, good or bad. What would you still weigh when the LORD says He will search Jerusalem with lamps?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Jeremiah 2:13",
+        "summary": "The LORD names those who turn back from following Him, neither seeking Him nor inquiring of Him (v. 6). Jeremiah says the people forsook the LORD, the fountain of living water, and dug broken cisterns that cannot hold water (Jer 2:13).",
+        "question": "How does Jeremiah 2:13 help you understand what it means to turn back from following the LORD in Zephaniah 1:6?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "devotion",
+        "because": "those who turn back from following the LORD neither seek Him nor inquire of Him",
+        "feeling": "drifting, indifference",
+        "object": "my daily routine",
+        "behavior": "neglecting prayer",
+        "step": "seek the LORD in prayer each morning",
+        "template": "from today I let go of my {feeling:drifting, indifference} over {object:my daily routine} and instead of {behavior:neglecting prayer}, I will {step:seek the LORD in prayer each morning}."
       }
     }
   }

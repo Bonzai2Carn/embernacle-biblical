@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of territorial allocation speaks most to divine planning?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Land Boundaries",
-            "expansion": "Each tribe's inheritance demonstrates God's meticulous attention to individual community needs."
-          },
-          {
-            "id": 2,
-            "text": "Communal Cooperation",
-            "expansion": "The tribes work together to ensure everyone receives an appropriate inheritance despite complex geographical challenges."
-          },
-          {
-            "id": 3,
-            "text": "Generational Promise",
-            "expansion": "The land distribution fulfills generations-old promises made to Israel's ancestors."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might our understanding of 'inheritance' transcend mere physical territory and reflect spiritual legacy?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine allocation balance individual tribe's desires with collective national unity?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on territorial distribution evolved?",
-        "options": [
-          "More appreciation for divine precision",
-          "Greater understanding of communal negotiation",
-          "Deeper respect for generational promises",
-          "Recognition of complex geographical challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Territorial inheritance demonstrates God's faithfulness to generational promises",
           "Individual tribal allocations reveal God's intricate redemptive planning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 50,
+        "exchange": [
+          {
+            "who": "The Danites went up and fought against Leshem",
+            "ref": "v. 47",
+            "speaker": ""
+          },
+          {
+            "who": "The Israelites gave Joshua an inheritance, as he requested",
+            "ref": "v. 50",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Israelites reading the allotment list. Lot after lot falls to each tribe, and then the Danites lose their land and take Leshem by force. What does this break in the list tell you about what happened there, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Numbers 26:55-56",
+        "summary": "The land is handed out by lot, one tribe after another (v. 1, v. 51). Numbers 26:55-56 gives the rule that the land must be divided by lot among the tribes, according to their fathers' names.",
+        "question": "How does the rule that the land must be divided by lot help you understand why each tribe received the portion it did?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "trust",
+        "because": "the share for Judah's descendants was too large for them",
+        "feeling": "resentment, comparison",
+        "object": "a smaller portion than others",
+        "behavior": "resenting what others received",
+        "step": "thank God for my portion aloud",
+        "template": "from today I entrust my {feeling:resentment, comparison} about {object:a smaller portion than others} to God and instead of {behavior:resenting what others received}, I will {step:thank God for my portion aloud}."
       }
     }
   }

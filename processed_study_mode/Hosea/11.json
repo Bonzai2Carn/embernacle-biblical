@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine love resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Persistent Love Despite Rebellion",
-            "expansion": "Divine love transcends human unfaithfulness and continues to seek restoration."
-          },
-          {
-            "id": 2,
-            "text": "Parental Metaphor of Nurturing Care",
-            "expansion": "God's love is tender, teaching, and protective like a parent guiding a child."
-          },
-          {
-            "id": 3,
-            "text": "Compassion Overcoming Judgment",
-            "expansion": "Mercy ultimately triumphs over the consequences of disobedience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If love cannot be coerced, what transforms human rebellion into willing surrender?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and mercy coexist?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Love"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine love shifted?",
-        "options": [
-          "More aware of love's complexity",
-          "Recognize love as transformative power",
-          "Understand love as persistent pursuit",
-          "See love beyond transactional relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment and love are fundamentally incompatible",
           "God's emotional response demonstrates human-like vulnerability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD asks",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You hear that they are bent on turning from Him, and then you hear Him ask how He could give them up. What do you still wonder about His heart?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Exodus 4:22",
+        "summary": "The LORD recalls that when Israel was a child He loved him, and out of Egypt He called His son (v. 1). In Exodus 4:22 the LORD tells Pharaoh that Israel is His firstborn son.",
+        "question": "How does the LORD calling Israel His firstborn son in Exodus 4:22 help you understand why He says 'My son' in Hosea 11:1?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "remembrance",
+        "because": "the LORD led His people with cords of kindness and ropes of love",
+        "feeling": "distrust, suspicion",
+        "object": "a season of hardship",
+        "behavior": "doubting His goodness",
+        "step": "list three ways He has sustained me",
+        "template": "from today I let go of my {feeling:distrust, suspicion} over {object:a season of hardship} and instead of {behavior:doubting His goodness}, I will {step:list three ways He has sustained me}."
       }
     }
   }

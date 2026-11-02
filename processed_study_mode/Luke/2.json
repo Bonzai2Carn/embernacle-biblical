@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine orchestration intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Census Requirement",
-            "expansion": "How seemingly mundane political processes can fulfill prophetic purposes"
-          },
-          {
-            "id": 2,
-            "text": "Journey to Bethlehem",
-            "expansion": "Personal inconvenience as a pathway to God's larger narrative"
-          },
-          {
-            "id": 3,
-            "text": "Humble Birth Setting",
-            "expansion": "Divine significance emerging from the most unassuming circumstances"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the divine plan requires human participation, how much agency do we truly possess?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and divine calling intersect?",
-        "left_label": "Personal Convenience",
-        "right_label": "Spiritual Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance evolved?",
-        "options": [
-          "Recognize subtle providential movements",
-          "Appreciate unexpected paths",
-          "Understand vulnerability as strength",
-          "See significance in seemingly insignificant moments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ's incarnation demonstrates God's intentional engagement with human context",
           "Historical accuracy validates scriptural theological claims"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The angel said to them",
+            "ref": "vv. 10-11",
+            "speaker": ""
+          },
+          {
+            "who": "The heavenly host said",
+            "ref": "v. 14",
+            "speaker": "The heavenly host"
+          }
+        ],
+        "question": "Put yourself in the place of the terrified shepherds. The angel brings news of great joy and a Savior born to you, and then a massive crowd of angels joins in with praise. How does this sudden shift from fear to a chorus of glory change what you understand about this news?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "John 1:14",
+        "summary": "Simeon sees the child and recognizes Him as the salvation prepared for all people (v. 30-32). John later records that the Word became flesh and dwelt among us.",
+        "question": "Simeon speaks of a salvation prepared in the sight of all people. How does John's description of the Word becoming flesh help you see the reality of what Simeon held in his arms?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "devotion",
+        "because": "Mary treasured up all these things and pondered them in her heart",
+        "feeling": "confusion, anxiety",
+        "object": "a sudden change in my life",
+        "behavior": "rushing to find answers",
+        "step": "sit quietly with what God has said",
+        "template": "from today I let go of my {feeling:confusion, anxiety} over {object:a sudden change in my life} and instead of {behavior:rushing to find answers}, I will {step:sit quietly with what God has said}."
       }
     }
   }

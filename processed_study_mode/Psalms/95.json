@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Invitation to Worship",
-            "expansion": "The psalm emphasizes joyful, active engagement with God's presence as a transformative experience."
-          },
-          {
-            "id": 2,
-            "text": "Historical Remembrance of God's Faithfulness",
-            "expansion": "Recalling Israel's wilderness journey reveals patterns of divine guidance and human resistance."
-          },
-          {
-            "id": 3,
-            "text": "Warning Against Spiritual Hardening",
-            "expansion": "The text cautions against repeated rejection of divine guidance, which can lead to spiritual disconnection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If worship is truly an encounter with the divine, what prevents genuine spiritual vulnerability?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations interact with divine expectations?",
-        "left_label": "Human Frailty",
-        "right_label": "Divine Perfection"
-      },
-      "reevaluation": {
-        "question": "How might this psalm reshape your understanding of spiritual journey?",
-        "options": [
-          "Recognizing worship as active participation",
-          "Understanding divine patience",
-          "Acknowledging personal spiritual resistance",
-          "Embracing communal spiritual experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Persistent unbelief can result in spiritual separation from God's promises",
           "Repentance and humility are always pathways to restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the crowd being called to worship. You are told to kneel before the LORD our Maker, and then you hear the reason: He is our God, and we are the people of His pasture. How does that reason change the way you kneel?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Hebrews 3:7-11",
+        "summary": "The psalmist warns the people not to harden their hearts as their fathers did at Meribah (v. 8). Hebrews 3:7-11 quotes the Holy Spirit's words, do not harden your hearts, and recalls the fathers who tested God in the wilderness.",
+        "question": "How does Hebrews 3:7-11 help you understand the weight of the psalmist's command to listen to His voice?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "we are the people of His pasture, the sheep under His care",
+        "feeling": "anxiety, fear",
+        "object": "the uncertainty of tomorrow",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His guidance",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the uncertainty of tomorrow} and instead of {behavior:trying to control every outcome}, I will {step:rest in His guidance}."
       }
     }
   }

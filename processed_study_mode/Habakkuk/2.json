@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective most resonates with your understanding of divine timing?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Vision Has Appointed Timing",
-            "expansion": "God's prophetic insights unfold according to a sovereign schedule beyond human impatience."
-          },
-          {
-            "id": 2,
-            "text": "Persistent Watchfulness Matters",
-            "expansion": "Spiritual attentiveness involves disciplined waiting and expectant observation of divine communication."
-          },
-          {
-            "id": 3,
-            "text": "Righteousness Transcends Immediate Circumstances",
-            "expansion": "Moral integrity provides spiritual resilience during periods of apparent divine silence or delay."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you distinguish between patient faith and passive resignation when confronting seemingly delayed divine promises?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between prophetic expectation and current reality?",
-        "left_label": "Impatient Uncertainty",
-        "right_label": "Confident Anticipation"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual waiting?",
-        "options": [
-          "I recognize divine timing differs from human expectations",
-          "I'm more aware of the importance of writing down spiritual insights",
-          "I understand the contrast between prideful and righteous perspectives",
-          "I see waiting as an active spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment is primarily spiritual rather than immediate physical consequences",
           "Believers should actively advocate for justice while maintaining spiritual humility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD answered",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the herald who must run with this vision. It lingers, yet it will surely come. What does the promise of an appointed time change about how you wait?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Hebrews 10:37-38",
+        "summary": "The LORD says the vision will surely come, so the prophet must wait for it (v. 3). Hebrews quotes this promise that the coming one will not delay, and says God takes no pleasure in the one who shrinks back (Hebrews 10:37-38).",
+        "question": "How does the command to wait for the vision in Habakkuk help you understand the call to not shrink back in Hebrews?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "the LORD is in His holy temple",
+        "feeling": "anxiety, restlessness",
+        "object": "the noise of the world",
+        "behavior": "seeking answers in every direction",
+        "step": "be silent before Him",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:the noise of the world} and instead of {behavior:seeking answers in every direction}, I will {step:be silent before Him}."
       }
     }
   }

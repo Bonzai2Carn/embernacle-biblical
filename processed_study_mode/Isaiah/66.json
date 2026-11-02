@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's transcendence beyond human constructs",
-            "expansion": "The Divine cannot be confined to human-made temples or ritualistic practices."
-          },
-          {
-            "id": 2,
-            "text": "Genuine heart-transformation matters more than external worship",
-            "expansion": "Spiritual authenticity trumps performative religious gestures."
-          },
-          {
-            "id": 3,
-            "text": "Divine judgment and ultimate restoration coexist",
-            "expansion": "God's corrective process ultimately aims toward redemptive wholeness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God transcends physical spaces, what truly constitutes genuine worship?"
-      },
-      "moral_slider": {
-        "question": "How do ritual practices relate to authentic spiritual connection?",
-        "left_label": "Ritualistic Formalism",
-        "right_label": "Spiritual Intimacy"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your current understanding of worship?",
-        "options": [
-          "Reconsidering the purpose of religious practices",
-          "Recognizing God's universal sovereignty",
-          "Understanding humility as a primary spiritual posture",
-          "Seeing judgment as a pathway to restoration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasize personal emotional experiences in worship",
           "Focus on systematic theological understanding above emotional engagement"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a builder who hears that heaven is His throne and earth His footstool. You are asked what house you will build, and then told whom He esteems. What would you understand about what He wants from you?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Revelation 21:1-4",
+        "summary": "The LORD promises to comfort Jerusalem like a mother comforts her son (v. 13). Revelation describes the arrival of a new heaven and a new earth where God dwells with His people and wipes away every tear (vv. 1-4).",
+        "question": "How does the vision of the new heaven and earth help you understand the scale of the comfort the LORD promises to Jerusalem?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "the LORD esteems the one who is humble and contrite in spirit and trembles at His word",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own accomplishments",
+        "behavior": "ignoring correction",
+        "step": "listen to His word with awe",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my own accomplishments} and instead of {behavior:ignoring correction}, I will {step:listen to His word with awe}."
       }
     }
   }

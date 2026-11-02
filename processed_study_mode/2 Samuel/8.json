@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of David's leadership most intrigues you?",
-        "choices": [
-          {
-            "id": "military",
-            "text": "Military Conquest",
-            "expansion": "David's strategic military campaigns reveal a complex interplay between divine mandate and human ambition."
-          },
-          {
-            "id": "governance",
-            "text": "Political Administration",
-            "expansion": "The systematic measurement and subjugation of conquered peoples demonstrates a calculated approach to territorial expansion."
-          },
-          {
-            "id": "sovereignty",
-            "text": "Divine Empowerment",
-            "expansion": "David's victories suggest a theological understanding of leadership as a manifestation of God's providential plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between righteous conquest and imperial aggression in biblical narratives?"
-      },
-      "moral_slider": {
-        "question": "To what extent does military success validate spiritual leadership?",
-        "left_label": "Peaceful Diplomacy",
-        "right_label": "Divinely Sanctioned Conquest"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on biblical leadership evolved?",
-        "options": [
-          "More nuanced understanding of divine intervention",
-          "Recognize complexity of historical context",
-          "Questioning simplistic interpretations",
-          "Appreciating strategic leadership models"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Contextual analysis within historical redemptive framework",
           "Rejection of militaristic biblical narratives"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The narrator records",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in an Aramean of Damascus. Garrisons now stand in your land and you bring tribute to David. What would you understand from the record that the LORD made David victorious wherever he went, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "1 Chronicles 29:14",
+        "summary": "David dedicates the silver and gold from the nations he subdued to the LORD (v. 11). In 1 Chronicles 29:14 David says everything comes from the LORD, and from His own hand they have given to Him.",
+        "question": "How does 1 Chronicles 29:14 help you understand why David dedicates these things to the LORD?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "David administered justice and righteousness for all his people",
+        "feeling": "resentment, bitterness",
+        "object": "someone else's unfair treatment",
+        "behavior": "seeking my own revenge",
+        "step": "act with fairness toward others",
+        "template": "from today I let go of my {feeling:resentment, bitterness} over {object:someone else's unfair treatment} and instead of {behavior:seeking my own revenge}, I will {step:act with fairness toward others}."
       }
     }
   }

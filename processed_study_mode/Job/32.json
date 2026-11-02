@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Elihu's emergence?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Youthful Perspective",
-            "expansion": "Elihu represents a fresh viewpoint unbound by generational preconceptions."
-          },
-          {
-            "id": 2,
-            "text": "Suppressed Wisdom",
-            "expansion": "His restraint in speaking until the elders had exhausted their arguments reveals strategic humility."
-          },
-          {
-            "id": 3,
-            "text": "Righteous Indignation",
-            "expansion": "Elihu's anger stems from a deeper theological concern about misrepresenting divine justice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is not exclusively correlated with age, what truly qualifies someone to speak authoritatively about suffering?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine perspective interact?",
-        "left_label": "Human Justification",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom and suffering shifted?",
-        "options": [
-          "Recognizing humility's importance",
-          "Understanding generational perspectives",
-          "Challenging presumptive theological arguments",
-          "Seeing anger as a potential catalyst for insight"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteous confrontation can be a form of spiritual correction",
           "Personal righteousness must not overshadow God's sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Elihu says",
+            "ref": "v. 7",
+            "speaker": "Elihu"
+          },
+          {
+            "who": "Elihu says",
+            "ref": "v. 8",
+            "speaker": "Elihu"
+          }
+        ],
+        "question": "Put yourself in Elihu's place. You thought that age should speak and many years should teach wisdom. What would you weigh when you say there is a spirit in a man, the breath of the Almighty, that gives him understanding?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 2:6",
+        "summary": "Elihu says understanding comes from the spirit in a man, the breath of the Almighty, and that the old are not the only ones who are wise (vv. 8-9). Proverbs says the LORD gives wisdom, and knowledge and understanding come from His mouth.",
+        "question": "How does Proverbs 2:6 help you understand Elihu's claim about where understanding comes from?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "I will be partial to no one, nor will I flatter any man",
+        "feeling": "fear, insecurity",
+        "object": "a difficult conversation",
+        "behavior": "saying what people want to hear",
+        "step": "speak the truth with kindness",
+        "template": "from today I let go of my {feeling:fear, insecurity} over {object:a difficult conversation} and instead of {behavior:saying what people want to hear}, I will {step:speak the truth with kindness}."
       }
     }
   }

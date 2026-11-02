@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual renewal strategy resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Separating from spiritual compromise",
-            "expansion": "Personal holiness requires intentional boundary-setting against cultural dilution."
-          },
-          {
-            "id": 2,
-            "text": "Restoring covenant practices",
-            "expansion": "Reconnecting with traditional spiritual disciplines realigns community identity."
-          },
-          {
-            "id": 3,
-            "text": "Leadership's accountability role",
-            "expansion": "Spiritual leaders bear responsibility for maintaining communal theological integrity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal compromises incrementally erode collective spiritual commitment?"
-      },
-      "moral_slider": {
-        "question": "What determines appropriate cultural engagement versus spiritual purity?",
-        "left_label": "Inclusivity",
-        "right_label": "Separation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual renewal shifted?",
-        "options": [
-          "Recognize complexity of maintaining spiritual boundaries",
-          "Understand leadership's critical role in community transformation",
-          "Appreciate gradual nature of communal spiritual reformation",
-          "See personal discipline as foundational to collective health"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Adaptive integration of cultural practices",
           "Prophetic critique of surrounding cultural norms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Nehemiah asked",
+            "ref": "v. 11",
+            "speaker": "Nehemiah"
+          }
+        ],
+        "question": "Put yourself in the place of the officials. Nehemiah asks, Why has the house of God been neglected? What would you weigh before you answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Deuteronomy 7:3-4",
+        "summary": "Nehemiah sees Jews who married women from Ashdod, Ammon, and Moab, and makes them swear not to give or take daughters in marriage with them (vv. 23-25). Deuteronomy gives a reason for the same ban: such marriages turn sons away from following the LORD to serve other gods (Deuteronomy 7:3-4).",
+        "question": "How does Deuteronomy 7:3-4 help you understand why Nehemiah made the men swear this oath in Nehemiah 13:25?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "my deeds of loving devotion are for the house of my God",
+        "feeling": "pride, self-importance",
+        "object": "my religious service",
+        "behavior": "seeking human praise",
+        "step": "ask God to remember my faithfulness",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my religious service} and instead of {behavior:seeking human praise}, I will {step:ask God to remember my faithfulness}."
       }
     }
   }

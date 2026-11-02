@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of family dynamics most resonates with you in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Familial Confession and Restoration",
-            "expansion": "Micah's open acknowledgment of theft reveals complex emotional vulnerability within family relationships."
-          },
-          {
-            "id": 2,
-            "text": "Maternal Blessing After Transgression",
-            "expansion": "The mother's immediate blessing suggests unconditional love transcends moral judgment."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Ambiguity in Personal Vows",
-            "expansion": "The blurred lines between personal commitment and divine intention create profound theological tension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal guilt intersects with spiritual dedication, who truly determines the authenticity of redemption?"
-      },
-      "moral_slider": {
-        "question": "How do individual intentions align with communal spiritual expectations?",
-        "left_label": "Personal Interpretation",
-        "right_label": "Collective Religious Tradition"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of personal accountability?",
-        "options": [
-          "I see nuance in familial reconciliation",
-          "My view of spiritual vows has become more complex",
-          "I recognize the layered nature of personal morality",
-          "I understand interpersonal forgiveness differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Unauthorized religious practices are acceptable if intentions seem pure",
           "Systematic disobedience reveals deeper spiritual disconnection from God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The narrator says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the shoes of the people in Israel during this time. When everyone does what is right in his own eyes, what becomes the standard for what is right?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Proverbs 14:12",
+        "summary": "Micah creates a shrine with graven images and household idols (v. 4-5). Proverbs warns that a path can look right to a person but lead to death.",
+        "question": "How does the warning in Proverbs help you evaluate Micah's new arrangement?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "everyone did what was right in his own eyes",
+        "feeling": "self-reliance, pride",
+        "object": "my own plans",
+        "behavior": "ignoring God's word",
+        "step": "seek His direction first",
+        "template": "from today I let go of my {feeling:self-reliance, pride} over {object:my own plans} and instead of {behavior:ignoring God's word}, I will {step:seek His direction first}."
       }
     }
   }

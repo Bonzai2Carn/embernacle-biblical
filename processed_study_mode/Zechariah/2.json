@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image resonates most with your understanding of divine restoration?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jerusalem as Boundless City",
-            "expansion": "God's vision transcends human limitations and architectural constraints."
-          },
-          {
-            "id": 2,
-            "text": "Divine Protection as Fire Wall",
-            "expansion": "Supernatural defense represents God's intimate and transformative presence."
-          },
-          {
-            "id": 3,
-            "text": "Immeasurable Potential of Renewal",
-            "expansion": "The measuring line symbolizes God's precise yet expansive redemptive plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is truly boundless, what human constructs of security might we be unnecessarily clinging to?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the tension between divine sovereignty and human agency?",
-        "left_label": "Human Planning",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual restoration?",
-        "options": [
-          "I see limitations differently",
-          "My concept of divine protection has expanded",
-          "I recognize more spiritual complexity",
-          "I feel more open to unexpected transformations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine protection is conditional upon human obedience",
           "The promise applies exclusively to historical Israel, not modern contexts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "I asked",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The angel said",
+            "ref": "v. 4",
+            "speaker": "The angel"
+          }
+        ],
+        "question": "Put yourself in the place of the man with the measuring line. You set out to measure Jerusalem's width and length, but the angel says it will be a city without walls. What would you weigh about a city with no walls because of the multitude of men and livestock within it?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Revelation 21:2",
+        "summary": "The LORD promises to come and dwell among his people (v. 10). Revelation describes the new Jerusalem coming down out of heaven, prepared as a bride adorned for her husband (Rev 21:2).",
+        "question": "How does the vision of the new Jerusalem in Revelation help you understand the promise of God's presence in Zechariah's vision?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "whoever touches Zion touches the apple of the LORD's eye",
+        "feeling": "insecurity, fear",
+        "object": "the attacks of others",
+        "behavior": "trying to defend myself",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:insecurity, fear} about {object:the attacks of others} to God and instead of {behavior:trying to defend myself}, I will {step:rest in His protection}."
       }
     }
   }

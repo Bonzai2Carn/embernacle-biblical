@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about God's memory and action in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's remembrance of Noah",
-            "expansion": "Divine attention to individual human experience even amidst global judgment"
-          },
-          {
-            "id": 2,
-            "text": "The systematic receding of waters",
-            "expansion": "Cosmic order emerging from apparent chaos through divine control"
-          },
-          {
-            "id": 3,
-            "text": "The ark's resting place",
-            "expansion": "Symbolic transition from destruction to potential renewal and hope"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's memory is active here, what might be forgotten or remembered in your own life's challenges?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More nuanced view of divine action",
-          "Greater appreciation for cosmic order",
-          "Deeper empathy for human vulnerability",
-          "Recognition of hope after destruction"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's covenant promises transcend human failings",
           "Restoration requires active participation and obedience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The text says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The waters receded steadily",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Noah's place inside the ark. You hear that God remembered you, and you see a wind move the waters. What does this change about how you view the 150 days before the waters had gone down?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Isaiah 54:9-10",
+        "summary": "The LORD promises never again to destroy all living creatures as He has done (v. 21). Isaiah 54:9-10 says the LORD swore that the waters of Noah would never again cover the earth, and that His loving devotion will not depart and His covenant of peace will not be broken.",
+        "question": "How does Isaiah 54:9-10 help you understand the LORD's promise in verse 21?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "Noah built an altar to the LORD and offered burnt offerings",
+        "feeling": "distraction, apathy",
+        "object": "the newness of my circumstances",
+        "behavior": "forgetting to give thanks",
+        "step": "dedicate my first moments to Him",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the newness of my circumstances} and instead of {behavior:forgetting to give thanks}, I will {step:dedicate my first moments to Him}."
       }
     }
   }

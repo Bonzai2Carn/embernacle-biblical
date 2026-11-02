@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Seeking Divine Guidance",
-            "expansion": "The psalmist's plea for God's light and truth reveals the human need for spiritual orientation."
-          },
-          {
-            "id": 2,
-            "text": "Overcoming Emotional Despair",
-            "expansion": "The raw emotional vulnerability demonstrates how faith can transform inner turmoil."
-          },
-          {
-            "id": 3,
-            "text": "Trusting Beyond Circumstances",
-            "expansion": "The commitment to praise God despite current challenges represents profound spiritual resilience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of divine guidance change if you viewed obstacles as opportunities for deeper spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate your sense of hope between personal effort and divine intervention?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Recognize emotional honesty as spiritual strength",
-          "Understand suffering as a potential pathway to deeper faith",
-          "See prayer as a transformative dialogue, not just a request",
-          "Appreciate vulnerability as a form of spiritual courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emotional honesty with God precedes breakthrough",
           "Theological understanding determines spiritual outcome"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the person praying. You feel rejected and oppressed by enemies. What changes in your heart when you move from asking why you are abandoned to commanding your soul to hope in God?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 27:13-14",
+        "summary": "The psalmist, who feels rejected, still speaks of joy and praise with the harp before God (v. 4). Psalm 27:13-14 says, 'I am certain to see the goodness of the LORD in the land of the living,' and tells the reader to wait patiently for the LORD and be strong and courageous.",
+        "question": "How does Psalm 27:13-14 help you understand the psalmist's choice to hope in God (v. 5)?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "I will yet praise Him, my Savior and my God",
+        "feeling": "anxiety, dread",
+        "object": "the uncertainty of tomorrow",
+        "behavior": "ruminating on my fears",
+        "step": "remind myself of His salvation",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the uncertainty of tomorrow} and instead of {behavior:ruminating on my fears}, I will {step:remind myself of His salvation}."
       }
     }
   }

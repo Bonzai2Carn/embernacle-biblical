@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which ethical dimension of personal integrity resonates most deeply?",
-        "choices": [
-          {
-            "id": "covenant_eyes",
-            "text": "Making a covenant with one's eyes against lustful thoughts",
-            "expansion": "Conscious self-restraint as a spiritual discipline of purity"
-          },
-          {
-            "id": "divine_accountability",
-            "text": "Understanding God's omniscient observation of human actions",
-            "expansion": "Recognition that every step is witnessed and potentially judged by divine perspective"
-          },
-          {
-            "id": "moral_consistency",
-            "text": "Maintaining integrity across private and public spaces",
-            "expansion": "Alignment between internal character and external behavior as ultimate spiritual authenticity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If moral perfection requires complete internal and external alignment, can any human truly claim righteousness?"
-      },
-      "moral_slider": {
-        "question": "How do personal intentions balance against actual moral performance?",
-        "left_label": "Intent",
-        "right_label": "Action"
-      },
-      "reevaluation": {
-        "question": "How has this exploration of personal integrity challenged your previous understanding?",
-        "options": [
-          "Recognized deeper layers of moral complexity",
-          "Understood personal accountability more deeply",
-          "Saw limitations in human self-assessment",
-          "Appreciated divine perspective more comprehensively"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness is determined by grace, not personal performance",
           "Spiritual integrity requires consistent ethical conduct"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 34,
+        "exchange": [
+          {
+            "who": "Job says",
+            "ref": "v. 33",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job says",
+            "ref": "v. 34",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You picture hiding a wrong in your heart because the crowds terrified you. What would you weigh about keeping silent out of fear of people?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "James 1:27",
+        "summary": "Job lists his care for the poor, the widow and the fatherless as proof of his righteousness (vv. 16-18). James defines pure religion as caring for orphans and widows in their distress (James 1:27).",
+        "question": "How does James 1:27 help you weigh Job's claim that he guided the widow from his mother's womb?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "I have made a covenant with my eyes",
+        "feeling": "lust, greed",
+        "object": "a person I should not desire",
+        "behavior": "lingering glances",
+        "step": "turn my gaze away",
+        "template": "from today I let go of my {feeling:lust, greed} over {object:a person I should not desire} and instead of {behavior:lingering glances}, I will {step:turn my gaze away}."
       }
     }
   }

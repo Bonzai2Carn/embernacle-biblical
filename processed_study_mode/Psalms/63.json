@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual depth resonates most in this psalm?",
-        "choices": [
-          {
-            "id": "thirst",
-            "text": "Spiritual Thirst for God",
-            "expansion": "The psalm describes an intense longing for divine connection, like a parched land craving water."
-          },
-          {
-            "id": "praise",
-            "text": "Radical Praise in Difficulty",
-            "expansion": "David praises God even in a desert wilderness, demonstrating worship transcends circumstances."
-          },
-          {
-            "id": "intimacy",
-            "text": "Intimate Divine Relationship",
-            "expansion": "The psalm portrays a deeply personal, passionate connection with God beyond ritual or distance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true spiritual satisfaction cannot be found in worldly achievements, what truly defines human fulfillment?"
-      },
-      "moral_slider": {
-        "question": "How do personal struggles influence spiritual perception?",
-        "left_label": "Suffering Distances from God",
-        "right_label": "Suffering Draws Closer to God"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of worship?",
-        "options": [
-          "Worship is more emotional than intellectual",
-          "Genuine faith persists through hardship",
-          "Personal connection matters more than religious performance",
-          "Spiritual hunger is a sign of authentic relationship with God"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine connection is more experiential than intellectual",
           "Authentic faith emerges from seasons of spiritual wilderness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the thirsty traveler in a dry land. What do you understand when you say His loving devotion is better than life, so your lips will glorify Him?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 42:1-2",
+        "summary": "The psalmist seeks God in a dry and weary land (v. 1). Another psalmist describes a soul that pants for God like a deer for flowing streams (vv. 1-2).",
+        "question": "How does the image of a deer in Psalm 42 help you feel the weight of the thirst described in Psalm 63?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "Your right hand upholds me",
+        "feeling": "anxiety, fear",
+        "object": "a sudden change",
+        "behavior": "trying to control everything",
+        "step": "rest in His strength",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:a sudden change} and instead of {behavior:trying to control everything}, I will {step:rest in His strength}."
       }
     }
   }

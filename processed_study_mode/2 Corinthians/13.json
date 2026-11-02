@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most deeply with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ's power through human weakness",
-            "expansion": "Divine strength is paradoxically revealed through human vulnerability and limitation."
-          },
-          {
-            "id": 2,
-            "text": "Self-examination of spiritual authenticity",
-            "expansion": "Personal spiritual integrity requires continuous, honest introspection and alignment with divine standards."
-          },
-          {
-            "id": 3,
-            "text": "Community accountability in faith",
-            "expansion": "Spiritual growth is a collective journey requiring mutual correction, love, and mutual edification."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual power emerges from weakness, how might your perceived limitations actually be opportunities for divine transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual autonomy with community accountability?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity shifted after reflecting on this chapter?",
-        "options": [
-          "I now see vulnerability as strength",
-          "Community accountability matters more",
-          "Self-examination is crucial",
-          "Divine power works differently than I thought"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Through transparent personal transformation",
           "By maintaining accountability and mutual spiritual examination"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Paul commands",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "Paul hopes",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Corinthian believers. What would you look for in your own life to prove that Jesus Christ is actually in you?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "2 Corinthians 4:7",
+        "summary": "Paul tells the Corinthians that Christ's power is visible in our weakness (v. 4). He previously wrote that this same power lives in jars of clay so that the greatness belongs to God (2 Corinthians 4:7).",
+        "question": "How does knowing that God's power lives in fragile vessels help you understand Paul's description of Christ's weakness and power?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "the God of love and peace will be with you",
+        "feeling": "anxiety, discord",
+        "object": "a difficult relationship",
+        "behavior": "withdrawing in silence",
+        "step": "aim for harmony",
+        "template": "from today I let go of my {feeling:anxiety, discord} over {object:a difficult relationship} and instead of {behavior:withdrawing in silence}, I will {step:aim for harmony}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which architectural detail reveals something deeper about Solomon's leadership?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "The intricate cedar columns",
-            "expansion": "Craftsmanship symbolizes how detailed leadership requires both vision and meticulous execution"
-          },
-          {
-            "id": "B",
-            "text": "The high windows facing each other",
-            "expansion": "Strategic positioning suggests transparency and mutual observation in governance"
-          },
-          {
-            "id": "C",
-            "text": "The thirteen-year construction timeline",
-            "expansion": "Patience and deliberation are as important as grand achievements"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If architectural design reflects a leader's inner landscape, what does Solomon's elaborate palace reveal about his soul's true priorities?"
-      },
-      "moral_slider": {
-        "question": "To what extent does impressive infrastructure represent genuine spiritual depth?",
-        "left_label": "External Grandeur",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership evolved after examining Solomon's construction project?",
-        "options": [
-          "Leadership is about symbolic representation",
-          "True leadership transcends physical monuments",
-          "Complexity and detail matter more than scale",
-          "Patience in execution is a leadership virtue"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolizes cultural influence and kingdom representation",
           "Reflects wisdom's tangible manifestation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The text lists the construction of Solomon's palace",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The text introduces Huram's arrival and skill",
+            "ref": "vv. 13-14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the position of a builder who has heard that this palace took thirteen years. After hearing of cedar pillars and cedar beams, how does the arrival of this specific craftsman change your view of what is being built?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Exodus 31:3",
+        "summary": "Huram has great skill, understanding, and knowledge for every kind of bronze work (v. 14). In Exodus 31:3 the LORD says He has filled a man with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship.",
+        "question": "How does the skill the LORD gives in Exodus 31:3 help you understand the skill Huram brings to this work?"
+      },
+      "conviction": {
+        "verse": 47,
+        "frame": "remembrance",
+        "because": "the weight of the bronze could not be determined",
+        "feeling": "anxiety, inadequacy",
+        "object": "the scale of a new responsibility",
+        "behavior": "counting every small loss",
+        "step": "trust the abundance of His provision",
+        "template": "from today I let go of my {feeling:anxiety, inadequacy} over {object:the scale of a new responsibility} and instead of {behavior:counting every small loss}, I will {step:trust the abundance of His provision}."
       }
     }
   }

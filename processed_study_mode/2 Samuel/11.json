@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most profoundly about human vulnerability to temptation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Power creates moral blind spots",
-            "expansion": "Leadership positions can create illusions of personal exemption from ethical constraints."
-          },
-          {
-            "id": 2,
-            "text": "Momentary weakness can destroy long-term integrity",
-            "expansion": "A single compromised moment can unravel years of personal reputation and spiritual progress."
-          },
-          {
-            "id": 3,
-            "text": "Unexamined desire leads to destructive consequences",
-            "expansion": "Unchecked impulses can cascade into progressively more complex moral failures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does opportunity become temptation, and temptation become sin?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires interact with moral responsibility?",
-        "left_label": "Individual Impulse",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of leadership and personal integrity have shifted?",
-        "options": [
-          "Recognize vulnerability to moral compromise",
-          "Understand importance of accountability",
-          "Acknowledge human complexity in ethical choices",
-          "Appreciate consequences of unchecked power"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As proof that even chosen leaders are fundamentally flawed",
           "As an opportunity for demonstrating genuine repentance and restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "David said to Uriah",
+            "ref": "v. 8",
+            "speaker": "David"
+          },
+          {
+            "who": "Uriah answered",
+            "ref": "v. 11",
+            "speaker": "Uriah"
+          }
+        ],
+        "question": "Put yourself in Uriah's place. The king tells you to go down to your house and wash your feet. What would you weigh as you answer that the ark and Israel and Judah are dwelling in tents?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "James 1:14-15",
+        "summary": "David sees a woman, pursues her, and takes her husband's life (vv. 2-17). James describes how a person is enticed by their own desire and then gives birth to sin.",
+        "question": "How does James 1:14-15 help you trace the steps from David's first glance to the final outcome?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "exposure",
+        "because": "the thing that David had done was evil in the sight of the LORD",
+        "feeling": "guilt, shame",
+        "object": "a hidden mistake",
+        "behavior": "hiding my tracks",
+        "step": "confess it to God",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a hidden mistake} into the light and instead of {behavior:hiding my tracks}, I will {step:confess it to God}."
       }
     }
   }

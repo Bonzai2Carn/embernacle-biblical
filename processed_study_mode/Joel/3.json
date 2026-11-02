@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective on justice most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's defense of the marginalized",
-            "expansion": "Divine intervention protects those systematically oppressed and exploited"
-          },
-          {
-            "id": 2,
-            "text": "Cosmic accountability for nations",
-            "expansion": "Historical actions and collective behaviors have spiritual consequences"
-          },
-          {
-            "id": 3,
-            "text": "Restoration after displacement",
-            "expansion": "God's ultimate plan includes redemptive restoration for scattered peoples"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice operates beyond human timelines, how might our perception of fairness be fundamentally limited?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Retributive Justice",
-        "right_label": "Restorative Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collective spiritual accountability shifted?",
-        "options": [
-          "I now see broader systemic implications",
-          "Individual actions matter more than I previously understood",
-          "Historical injustices have spiritual weight",
-          "Divine perspective transcends human frameworks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic representation of eschatological events",
           "Covenantal redemptive process"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD calls the nations",
+            "ref": "vv. 12-13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD declares",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the nations roused to advance into the valley. What do you understand about the harvest when you hear that this valley is the place of decision?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Matthew 25:31-46",
+        "summary": "The LORD says He will sit down in the Valley of Jehoshaphat to judge all the nations (v. 12). Jesus says all the nations will be gathered before the King, who separates the sheep from the goats.",
+        "question": "How does Jesus' description of the sheep and the goats help you understand the weight of the judgment of the nations in the valley?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "trust",
+        "because": "the LORD will be a refuge for His people",
+        "feeling": "fear, panic",
+        "object": "a sudden crisis",
+        "behavior": "looking for an escape",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:fear, panic} about {object:a sudden crisis} to God and instead of {behavior:looking for an escape}, I will {step:rest in His strength}."
       }
     }
   }

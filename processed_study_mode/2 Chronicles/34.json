@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual renewal resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Youthful spiritual commitment",
-            "expansion": "Josiah's early pursuit of God demonstrates that spiritual maturity can transcend chronological age."
-          },
-          {
-            "id": 2,
-            "text": "Systematic spiritual cleansing",
-            "expansion": "The methodical removal of idols reveals the intentionality required in true spiritual transformation."
-          },
-          {
-            "id": 3,
-            "text": "Rediscovery of forgotten Scripture",
-            "expansion": "Encountering lost sacred texts can profoundly reorient an entire community's understanding and practice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual renewal requires radical action, at what point does reform become destruction?"
-      },
-      "moral_slider": {
-        "question": "How decisive should spiritual leadership be in confronting systemic spiritual corruption?",
-        "left_label": "Gradual Adaptation",
-        "right_label": "Immediate Purging"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Recognize the power of early commitment",
-          "Understand the importance of scriptural foundations",
-          "Appreciate systemic spiritual transformation",
-          "Recognize leadership as a continuous journey of growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Comprehensive repentance requires active dismantling of existing spiritual structures",
           "Genuine revival emerges from sincere, heart-driven motivation rather than ritualistic compliance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The king heard the words of the Law",
+            "ref": "v. 19",
+            "speaker": ""
+          },
+          {
+            "who": "Josiah commanded",
+            "ref": "v. 21",
+            "speaker": "Josiah"
+          }
+        ],
+        "question": "Put yourself in the king's place. You hear the words of the Law and tear your clothes. Then you send men to inquire of the LORD, saying great is His wrath poured out on us because our fathers have not kept His word. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "1 Samuel 16:7",
+        "summary": "Huldah explains that the LORD heard Josiah because his heart was tender and he humbled himself (v. 27). This shows that while others look at outward appearance, the LORD looks at the heart.",
+        "question": "How does 1 Samuel 16:7 help you understand why God responded to Josiah's grief even though the nation's sin was so great?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "devotion",
+        "because": "the king made a covenant before the LORD to follow the LORD and to keep His commandments",
+        "feeling": "indifference, apathy",
+        "object": "the truth I have heard",
+        "behavior": "ignoring the weight of God's word",
+        "step": "commit to obey one specific command",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the truth I have heard} and instead of {behavior:ignoring the weight of God's word}, I will {step:commit to obey one specific command}."
       }
     }
   }

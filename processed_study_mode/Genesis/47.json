@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Joseph's strategy in Egypt?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Pragmatism",
-            "expansion": "Joseph skillfully navigates complex political systems to protect his family's survival."
-          },
-          {
-            "id": 2,
-            "text": "Economic Transformation",
-            "expansion": "Joseph restructures Egypt's economic system during severe famine, demonstrating systemic leadership."
-          },
-          {
-            "id": 3,
-            "text": "Family Preservation",
-            "expansion": "Joseph's ultimate motivation remains protecting and positioning his family's future."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does Joseph's integration into a foreign power system challenge our understanding of maintaining cultural and spiritual identity?"
-      },
-      "moral_slider": {
-        "question": "To what extent is economic survival justifiable through systemic transformation?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Necessity"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on leadership and family protection shifted?",
-        "options": [
-          "Recognize complexity of survival strategies",
-          "Appreciate nuanced political negotiation",
-          "Understand family as primary loyalty",
-          "Recognize economic systems as fluid"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Believers can be strategic agents of transformation within existing systems",
           "Economic challenges are opportunities for spiritual growth and witness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The Egyptians said",
+            "ref": "v. 19",
+            "speaker": "The Egyptians"
+          },
+          {
+            "who": "Joseph said",
+            "ref": "v. 23",
+            "speaker": "Joseph"
+          }
+        ],
+        "question": "Put yourself in the place of the people selling their land and their very lives to avoid death. What do you see in Joseph's response that changes your situation from total loss to a way to live?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 37:19",
+        "summary": "Joseph provides his father and brothers and all his father's household with food during the famine (v. 12). Psalm 37:19 says that in the days of famine the blameless will be satisfied.",
+        "question": "How does Psalm 37:19 help you understand the food Joseph's household receives in the famine?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "remembrance",
+        "because": "Jacob asked to be carried out of Egypt and buried with his fathers",
+        "feeling": "clinging, fear",
+        "object": "my current comfort",
+        "behavior": "staying where it is easy",
+        "step": "look toward where God is calling",
+        "template": "from today I let go of my {feeling:clinging, fear} over {object:my current comfort} and instead of {behavior:staying where it is easy}, I will {step:look toward where God is calling}."
       }
     }
   }

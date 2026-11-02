@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine worthiness resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Lamb's unique qualification",
-            "expansion": "Only Christ's sacrificial nature qualifies Him to unveil divine mysteries."
-          },
-          {
-            "id": 2,
-            "text": "Universal unworthiness of creation",
-            "expansion": "No created being possesses inherent authority to understand God's ultimate plan."
-          },
-          {
-            "id": 3,
-            "text": "The emotional vulnerability of seeking",
-            "expansion": "John's weeping reveals the profound spiritual tension of seeking divine understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If worthiness cannot be earned through human achievement, what transformative power defines true spiritual significance?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the relationship between divine sovereignty and human agency?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authority shifted?",
-        "options": [
-          "Recognize Christ's unique redemptive role",
-          "Appreciate the mystery of divine selection",
-          "Understand spiritual worthiness differently",
-          "Embrace humility before divine purposes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The comprehensive nature of Christ's authority over creation",
           "The prophetic fulfillment of messianic promises"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "One of the elders tells John",
+            "ref": "v. 5",
+            "speaker": "The elders"
+          },
+          {
+            "who": "John sees a Lamb",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in John's place. You hear that the Lion of the tribe of Judah has triumphed to open the scroll. Then you look and see a Lamb who appeared to have been slain. What would you understand about who is able to open the scroll?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Philippians 2:9-11",
+        "summary": "Many angels, living creatures, and elders sing that the Lamb who was slain is worthy to receive power, riches, and glory (v. 12). Paul says God exalted Jesus and gave Him the name above all names, so that every knee bows and every tongue confesses that Jesus Christ is Lord (Philippians 2:9-11).",
+        "question": "How does Paul's account of the name given to Jesus help you understand why every creature praises the Lamb in this chapter?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "no one was found worthy to open the scroll or look inside it",
+        "feeling": "despair, grief",
+        "object": "an answer I cannot reach",
+        "behavior": "giving up on finding answers",
+        "step": "bring my unanswered questions to Him in prayer",
+        "template": "from today I entrust my {feeling:despair, grief} about {object:an answer I cannot reach} to God and instead of {behavior:giving up on finding answers}, I will {step:bring my unanswered questions to Him in prayer}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Internal conflict weakens community",
-            "expansion": "Tribal rivalries can destroy unity more effectively than external enemies."
-          },
-          {
-            "id": 2,
-            "text": "Leadership requires difficult negotiations",
-            "expansion": "Diplomatic tensions can escalate quickly when communication breaks down."
-          },
-          {
-            "id": 3,
-            "text": "Pride can lead to destructive confrontations",
-            "expansion": "Ego-driven disputes often result in mutual harm and lost opportunities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When conflicts arise, how do we distinguish between justified defense and escalating unnecessary tension?"
-      },
-      "moral_slider": {
-        "question": "How do personal honor and collective unity balance in challenging leadership moments?",
-        "left_label": "Individual Rights",
-        "right_label": "Community Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your thinking changed about conflict resolution?",
-        "options": [
-          "I see nuance in tribal/group dynamics",
-          "Communication is more critical than I realized",
-          "Leaders must manage emotional responses",
-          "Understanding context prevents escalation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek mediation from spiritual leadership",
           "Maintain unity by focusing on shared mission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The men of Ephraim said to Jephthah",
+            "ref": "v. 1",
+            "speaker": "The men of Ephraim"
+          },
+          {
+            "who": "Jephthah replied",
+            "ref": "vv. 2-3",
+            "speaker": "Jephthah"
+          }
+        ],
+        "question": "Put yourself in Jephthah's place. You called your brothers for help and they did not come, so you risked your life and crossed over. What do you weigh when they accuse you of fighting without them?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Galatians 5:15",
+        "summary": "The Gileadites and Ephraimites fight and destroy one another over a taunt (vv. 4-6). Paul warns that a similar way of living leads to mutual destruction.",
+        "question": "How does Paul's warning about biting and devouring help you see the cost of the conflict in Judges 12?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "repair",
+        "because": "Ephraim threatened to burn Jephthah's house down with him inside",
+        "feeling": "bitterness, anger",
+        "object": "a slight from a relative",
+        "behavior": "seeking retaliation",
+        "step": "seek a way to make peace",
+        "template": "from today I turn from my {feeling:bitterness, anger} toward {object:a slight from a relative} and instead of {behavior:seeking retaliation}, I will {step:seek a way to make peace}."
       }
     }
   }

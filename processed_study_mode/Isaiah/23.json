@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about divine judgment against powerful economic systems?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Economic Pride's Fragility",
-            "expansion": "Nations built on commerce can swiftly fall when disconnected from spiritual foundations."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Consequence",
-            "expansion": "Complex trading networks ultimately remain vulnerable to higher spiritual dynamics."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Economic Critique",
-            "expansion": "Economic prosperity without moral integrity is fundamentally unsustainable."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do economic systems reflect or distort human spiritual conditions?"
-      },
-      "moral_slider": {
-        "question": "To what degree are economic systems accountable to divine judgment?",
-        "left_label": "Economic Autonomy",
-        "right_label": "Divine Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on economic power shifted?",
-        "options": [
-          "More aware of systemic fragility",
-          "Recognize deeper spiritual dimensions",
-          "Understand prophetic economic critique",
-          "See interconnectedness of moral and economic systems"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prosperity is not guaranteed, even for seemingly invincible economic powers",
           "Spiritual priorities should supersede economic ambitions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The people ask",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a renowned merchant in a city of crowns and princes. You see a plan to disgrace the most famous people on earth. What does it mean that the LORD of Hosts is the one who planned this?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Ezekiel 26:3-14",
+        "summary": "The LORD stretches His hand over the sea, makes kingdoms tremble, and commands the destruction of Canaan's strongholds (v. 11). Ezekiel describes judgment on Tyre, with its walls broken down and its towers demolished by many nations (Ezekiel 26:3-14).",
+        "question": "How does Ezekiel's description of the invading nations help you see the reality of the command the LORD gave in Isaiah 23?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "Tyre's profit will go to those who live before the LORD",
+        "feeling": "greed, attachment",
+        "object": "my extra income",
+        "behavior": "hoarding for security",
+        "step": "use it to help others",
+        "template": "from today I let go of my {feeling:greed, attachment} over {object:my extra income} and instead of {behavior:hoarding for security}, I will {step:use it to help others}."
       }
     }
   }

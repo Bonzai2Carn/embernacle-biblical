@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which resurrection detail most resonates with your spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mary's initial confusion and grief",
-            "expansion": "Spiritual transformation often begins in moments of profound disorientation and loss."
-          },
-          {
-            "id": 2,
-            "text": "Peter and John's race to the tomb",
-            "expansion": "Spiritual seeking requires both eagerness and collaborative pursuit."
-          },
-          {
-            "id": 3,
-            "text": "Jesus revealing Himself personally to Mary",
-            "expansion": "Divine encounters are intimate, personalized moments beyond institutional understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If resurrection is true, how must every subsequent moment of human experience be reinterpreted?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between seeing and believing?",
-        "left_label": "Empirical Evidence",
-        "right_label": "Mystical Faith"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of loss and transformation?",
-        "options": [
-          "I see grief as a potential pathway to revelation",
-          "Personal encounter matters more than institutional validation",
-          "Resurrection challenges my previous understanding of finality",
-          "Doubt can be a constructive part of spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ's resurrection represents a paradigm shift in understanding redemption",
           "Personal encounter is a more powerful faith mechanism than intellectual reasoning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The other disciple",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The disciples",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the disciple who went in, saw, and believed. What would you still wonder about the Scripture that Jesus had to rise from the dead?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "1 John 1:1",
+        "summary": "John says Jesus performed many other signs that are not written in this book (v. 30). Another letter says its writers heard, saw with their own eyes, gazed upon and touched with their own hands the Word of life (1 John 1:1).",
+        "question": "How does 1 John 1:1 help you understand why this account was written down?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "Jesus tells Thomas to stop doubting and believe",
+        "feeling": "anxiety, uncertainty",
+        "object": "a difficult situation",
+        "behavior": "waiting for more proof",
+        "step": "trust His word",
+        "template": "from today I let go of my {feeling:anxiety, uncertainty} over {object:a difficult situation} and instead of {behavior:waiting for more proof}, I will {step:trust His word}."
       }
     }
   }

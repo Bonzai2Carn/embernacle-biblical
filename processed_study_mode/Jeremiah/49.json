@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Justice Transcends Nations",
-            "expansion": "God's judgment operates beyond ethnic boundaries, challenging tribal narratives of exceptionalism."
-          },
-          {
-            "id": 2,
-            "text": "Territorial Displacement as Spiritual Metaphor",
-            "expansion": "Land conquest symbolizes deeper spiritual transformations and cosmic recalibrations."
-          },
-          {
-            "id": 3,
-            "text": "Cycles of Oppression and Retribution",
-            "expansion": "Historical violence creates karmic echoes where perpetrators eventually experience their own trauma."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine judgment appears destructive, how might it simultaneously represent a form of redemptive restoration?"
-      },
-      "moral_slider": {
-        "question": "How do national accountability and individual mercy coexist in prophetic vision?",
-        "left_label": "Collective Punishment",
-        "right_label": "Individual Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic discourse shifted?",
-        "options": [
-          "Recognize complexity beyond simplistic good/evil narratives",
-          "Appreciate historical trauma's intergenerational dynamics",
-          "Understand prophecy as transformative dialogue",
-          "See judgment as potential pathway to spiritual renewal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As prophetic symbolism representing spiritual warfare",
           "As historical context demonstrating God's covenant faithfulness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Ammonites. You have settled in the cities of Gad, and you hear that your people will be restored from captivity. What would you weigh about this promise?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Romans 2:6",
+        "summary": "The LORD says Edom will not go unpunished, for it must drink the cup too (v. 12). Romans 2:6 says God will repay each one according to his deeds.",
+        "question": "How does Romans 2:6 help you understand why the LORD insists that Edom will not go unpunished?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "the faithless daughter trusts in her riches and asks who can come against her",
+        "feeling": "pride, arrogance",
+        "object": "my own achievements",
+        "behavior": "ignoring my need for God",
+        "step": "admit my true dependence",
+        "template": "from today I bring my {feeling:pride, arrogance} about {object:my own achievements} into the light and instead of {behavior:ignoring my need for God}, I will {step:admit my true dependence}."
       }
     }
   }

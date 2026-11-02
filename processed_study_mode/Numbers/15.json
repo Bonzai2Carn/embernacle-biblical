@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine instruction resonates most deeply?",
-        "choices": [
-          {
-            "id": "offerings",
-            "text": "Detailed Sacrificial Instructions",
-            "expansion": "Precise worship practices reveal God's desire for intentional, structured relationship"
-          },
-          {
-            "id": "consequences",
-            "text": "Punishment for Intentional Sin",
-            "expansion": "Systemic accountability demonstrates divine justice and community holiness"
-          },
-          {
-            "id": "provision",
-            "text": "Future Land Preparation",
-            "expansion": "God's long-term planning shows compassionate preparation for His people's settlement"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual precision matters so much to God, what does that reveal about the nature of human-divine communication?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact communal spiritual integrity?",
-        "left_label": "Personal Freedom",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance evolved?",
-        "options": [
-          "More appreciative of structured worship",
-          "Recognize deeper layers of spiritual accountability",
-          "See divine instructions as loving boundaries",
-          "Understanding spiritual consequences more holistically"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Sacrificial system anticipates ultimate redemption through Christ",
           "Human weakness is acknowledged, but not excused"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 30",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 31",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the community. You hear that a person who sins defiantly, whether native or foreigner, blasphemes the LORD and will be cut off. What would you weigh about this, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Hebrews 9:22",
+        "summary": "The priest makes atonement for the whole congregation so that they may be forgiven for unintentional sin (v. 25). Hebrews says that nearly everything is purified with blood, and without the shedding of blood there is no forgiveness (Hebrews 9:22).",
+        "question": "How does Hebrews 9:22 help you understand why the priest must make atonement for the congregation here?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "remembrance",
+        "because": "the tassels are there for you to look at, so that you may remember all the commandments of the LORD",
+        "feeling": "distraction, apathy",
+        "object": "the daily routine",
+        "behavior": "following my own eyes",
+        "step": "point my attention back to His word",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the daily routine} and instead of {behavior:following my own eyes}, I will {step:point my attention back to His word}."
       }
     }
   }

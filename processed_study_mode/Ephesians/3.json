@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine mystery most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The hidden plan of God revealed through Christ",
-            "expansion": "God's strategic redemptive design transcends human historical boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Paul's unique apostolic calling",
-            "expansion": "Individual spiritual assignments can reshape entire theological understanding."
-          },
-          {
-            "id": 3,
-            "text": "The radical inclusion of Gentiles",
-            "expansion": "Divine grace demolishes cultural and ethnic barriers in spiritual community."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's redemptive mystery was previously concealed, what transformative revelations might still be awaiting discovery?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate between personal spiritual experience and communal theological understanding?",
-        "left_label": "Personal Revelation",
-        "right_label": "Institutional Tradition"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual diversity evolved?",
-        "options": [
-          "More inclusive of different cultural expressions",
-          "Recognize God's work beyond traditional boundaries",
-          "Appreciate the complexity of divine redemption",
-          "Understand personal calling in broader context"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Challenges historical religious exclusivism",
           "Highlights unexpected dimensions of divine grace"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Paul describes the mystery",
+            "ref": "vv. 3-5",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains the mystery",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a Gentile hearing that a mystery not made known in other generations is now revealed. What do you understand when you are told Gentiles are fellow heirs, fellow members of the body, and fellow partakers of the promise?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Colossians 1:26-27",
+        "summary": "Paul writes about a mystery that was kept hidden for ages but is now revealed (v. 3-5). In Colossians, he uses the same word to describe a secret once hidden but now made known to the saints.",
+        "question": "How does seeing this mystery as something shared with the saints help you understand the scope of the gospel in Ephesians?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "through faith in Him we may enter God's presence with boldness and confidence",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from Him",
+        "step": "approach His throne with praise",
+        "template": "from today I entrust my {feeling:shame, inadequacy} about {object:my past failures} to God and instead of {behavior:hiding from Him}, I will {step:approach His throne with praise}."
       }
     }
   }

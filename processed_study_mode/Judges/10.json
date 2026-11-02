@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership characteristic most stands out in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Quiet Governance",
-            "expansion": "Tola and Jair seem to provide stable leadership without dramatic conflict."
-          },
-          {
-            "id": 2,
-            "text": "Generational Leadership",
-            "expansion": "Both judges are defined by their familial connections and hereditary roles."
-          },
-          {
-            "id": 3,
-            "text": "Systemic Continuity",
-            "expansion": "The text suggests a consistent pattern of judicial leadership transitioning smoothly."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Does the absence of dramatic conflict in this chapter suggest leadership success, or merely temporary peace?"
-      },
-      "moral_slider": {
-        "question": "How do personal achievements balance against collective community welfare?",
-        "left_label": "Individual Accomplishment",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership evolved from this passage?",
-        "options": [
-          "Leadership can be understated",
-          "Stability matters more than heroism",
-          "Family legacy shapes governance",
-          "Peaceful transitions are themselves an achievement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Local judges represent God's decentralized governance model",
           "Each judge's unique background reveals God's diverse methodologies of redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The Israelites cried out to the LORD",
+            "ref": "v. 10",
+            "speaker": "The Israelites"
+          },
+          {
+            "who": "The LORD replied",
+            "ref": "vv. 13-14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You have confessed your sin and asked for help. What do you understand about God's response to your plea?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Deuteronomy 32:37-38",
+        "summary": "The LORD tells the Israelites to cry out to the gods they have chosen and let them save them in their time of trouble (vv. 13-14). Deuteronomy 32:37-38 asks where their gods are, and says let them rise up and help you.",
+        "question": "How does Deuteronomy 32:37-38 help you understand the LORD's words in verse 14?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "Israel put away the foreign gods from among its people and served the LORD",
+        "feeling": "attachment, comfort",
+        "object": "a familiar habit",
+        "behavior": "keeping a secret idol",
+        "step": "remove it from my life",
+        "template": "from today I let go of my {feeling:attachment, comfort} over {object:a familiar habit} and instead of {behavior:keeping a secret idol}, I will {step:remove it from my life}."
       }
     }
   }

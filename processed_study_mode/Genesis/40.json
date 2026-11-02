@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective about divine guidance intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's presence in mundane circumstances",
-            "expansion": "Joseph's faithful service emerges even in prison, suggesting divine purpose transcends external conditions."
-          },
-          {
-            "id": 2,
-            "text": "Interpreting spiritual messages",
-            "expansion": "Dream interpretation reveals how divine communication can occur through unexpected channels."
-          },
-          {
-            "id": 3,
-            "text": "Resilience amid injustice",
-            "expansion": "Joseph maintains integrity despite being wrongfully imprisoned, demonstrating profound spiritual strength."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might adversity be preparing you for a purpose you cannot yet comprehend?"
-      },
-      "moral_slider": {
-        "question": "To what extent do personal setbacks reveal deeper spiritual transformations?",
-        "left_label": "Personal Suffering",
-        "right_label": "Divine Preparation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of providence shifted?",
-        "options": [
-          "Recognizing unexpected opportunities in challenges",
-          "Understanding that faithfulness transcends circumstances",
-          "Seeing God's hand in seemingly random events",
-          "Believing in unseen spiritual development"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates spiritual gifts emerging through adversity",
           "Challenges notion that suffering indicates divine disfavor"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Pharaoh restored the chief cupbearer to his position",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "The chief cupbearer did not remember Joseph",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Joseph. The cupbearer is back in his place with the cup in Pharaoh's hand, and he has forgotten you. What do you still wonder about the man who forgot you?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Romans 8:28",
+        "summary": "Joseph says he was kidnapped and has done nothing to deserve the dungeon (v. 15). Romans 8:28 says God works all things together for the good of those who love Him.",
+        "question": "How does Romans 8:28 help you understand Joseph's position in a prison cell where he has done no wrong?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "interpretations belong to God",
+        "feeling": "anxiety, uncertainty",
+        "object": "a confusing situation",
+        "behavior": "trying to control the outcome",
+        "step": "bring the mystery to Him",
+        "template": "from today I entrust my {feeling:anxiety, uncertainty} about {object:a confusing situation} to God and instead of {behavior:trying to control the outcome}, I will {step:bring the mystery to Him}."
       }
     }
   }

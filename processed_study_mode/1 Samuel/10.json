@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine calling resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal transformation",
-            "expansion": "The Spirit's intervention can radically reshape one's perceived limitations and destiny."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic confirmation",
-            "expansion": "God uses multiple signs to validate His chosen leader's trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Humble beginnings",
-            "expansion": "Great leadership often emerges from unexpected, seemingly insignificant origins."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external signs of divine selection differ from genuine internal spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine selection override human agency?",
-        "left_label": "Personal Choice",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual calling evolved?",
-        "options": [
-          "More aware of subtle divine guidance",
-          "Recognize complexity of leadership emergence",
-          "Appreciate unexpected pathways of purpose",
-          "Understand the role of community affirmation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership is fundamentally a spiritual assignment, not merely a human appointment",
           "Personal inadequacy does not disqualify someone from God's strategic purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Samuel said",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "God changed Saul's heart",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Saul's place. Samuel says the Spirit of the LORD will rush upon you and you will be transformed into a different person. Then, as you turn to leave Samuel, God changes your heart. What would you notice in yourself?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Judges 6:34",
+        "summary": "The Spirit of the LORD will rush upon Saul and he will be transformed into a different person (v. 6). In Judges 6:34 the Spirit of the LORD comes upon Gideon, who blows the ram's horn and rallies the Abiezrites behind him.",
+        "question": "How does Judges 6:34 help you understand what happens when the Spirit of the LORD comes upon Saul?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "Saul remained silent about those who despised him",
+        "feeling": "indignation, hurt",
+        "object": "unfair criticism",
+        "behavior": "defending my reputation",
+        "step": "rest in God's approval",
+        "template": "from today I let go of my {feeling:indignation, hurt} over {object:unfair criticism} and instead of {behavior:defending my reputation}, I will {step:rest in God's approval}."
       }
     }
   }

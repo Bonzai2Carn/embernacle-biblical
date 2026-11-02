@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of wisdom most intrigues you in Solomon's encounter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intellectual Mastery",
-            "expansion": "Solomon's ability to answer complex questions reveals wisdom as comprehensive understanding."
-          },
-          {
-            "id": 2,
-            "text": "Diplomatic Brilliance",
-            "expansion": "The queen's diplomatic visit demonstrates wisdom's power in international relationships."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Discernment",
-            "expansion": "Solomon's wisdom suggests a divine connection transcending mere intellectual prowess."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true wisdom invites deeper questioning, how might Solomon's reputation actually challenge the very concept of complete knowledge?"
-      },
-      "moral_slider": {
-        "question": "How does divine wisdom balance human intellectual achievement?",
-        "left_label": "Human Capability",
-        "right_label": "Divine Inspiration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom evolved through this narrative?",
-        "options": [
-          "Wisdom is more than intelligence",
-          "Leadership requires comprehensive understanding",
-          "True wisdom attracts respect across cultures",
-          "Divine wisdom surpasses human limitations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual gifts are predetermined and unchangeable",
           "Leadership effectiveness correlates directly with spiritual maturity and divine alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The queen of Sheba said",
+            "ref": "v. 6",
+            "speaker": "The queen of Sheba"
+          },
+          {
+            "who": "The queen of Sheba said",
+            "ref": "v. 8",
+            "speaker": "The queen of Sheba"
+          }
+        ],
+        "question": "Put yourself in the queen's place. You did not believe the reports until you saw with your own eyes, and now you say 'Blessed be the LORD your God' for setting Solomon on His throne. What would you understand from what you saw, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "James 1:5",
+        "summary": "The queen says not half of Solomon's wisdom was told to her (v. 6). James 1:5 says anyone who lacks wisdom should ask God, who gives generously to all without finding fault.",
+        "question": "How does James 1:5 help you understand the wisdom the queen says far exceeded the report she heard?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "devotion",
+        "because": "all the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart",
+        "feeling": "insecurity, inadequacy",
+        "object": "my lack of answers",
+        "behavior": "trying to impress others",
+        "step": "seek the source of true wisdom",
+        "template": "from today I let go of my {feeling:insecurity, inadequacy} over {object:my lack of answers} and instead of {behavior:trying to impress others}, I will {step:seek the source of true wisdom}."
       }
     }
   }

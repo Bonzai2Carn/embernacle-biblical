@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most about divine relationship and human responsibility?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Availability",
-            "expansion": "God's constant readiness to engage, despite human indifference or rejection."
-          },
-          {
-            "id": 2,
-            "text": "Consequence of Spiritual Disconnection",
-            "expansion": "Human separation from God occurs through personal choices, not divine abandonment."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Potential",
-            "expansion": "Even in moments of apparent distance, divine power remains fundamentally undiminished."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is always present, what prevents humans from experiencing transformative connection?"
-      },
-      "moral_slider": {
-        "question": "How do personal transgressions impact spiritual relationship?",
-        "left_label": "Individual Culpability",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine-human interaction shifted?",
-        "options": [
-          "Recognized personal agency in spiritual disconnection",
-          "Understood God's persistent invitation",
-          "Appreciated complexity of spiritual accountability",
-          "Seen divine power beyond human limitations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Human agency is primary, with divine grace as secondary",
           "Redemption is universally applied regardless of individual response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The Servant says",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The Servant says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one being struck and scorned. What does the Servant's certainty about not being put to shame tell you about the help he receives?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Philippians 2:8",
+        "summary": "The Servant describes an ear opened to listen and a back offered to those who strike (vv. 4-6). Philippians 2:8 says that He humbled Himself and became obedient to death, even death on a cross.",
+        "question": "How does Philippians 2:8 help you understand the suffering the Servant describes?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the one who walks in darkness and has no light can trust in the name of the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a dark season",
+        "behavior": "wandering in confusion",
+        "step": "lean on my God",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a dark season} and instead of {behavior:wandering in confusion}, I will {step:lean on my God}."
       }
     }
   }

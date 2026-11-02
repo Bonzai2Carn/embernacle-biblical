@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inevitability of Consequences",
-            "expansion": "Long-ignored warnings ultimately manifest in historical reality."
-          },
-          {
-            "id": 2,
-            "text": "God's Sovereignty in Geopolitical Events",
-            "expansion": "Divine plans transcend human political machinations."
-          },
-          {
-            "id": 3,
-            "text": "Preservation of the Faithful",
-            "expansion": "Even amid national catastrophe, God protects those who remain spiritually loyal."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is certain, how does personal responsibility intersect with predetermined outcomes?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the balance between national punishment and individual mercy?",
-        "left_label": "Universal Judgment",
-        "right_label": "Individual Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical suffering and divine intervention evolved?",
-        "options": [
-          "More nuanced view of historical causality",
-          "Increased appreciation for prophetic warnings",
-          "Deeper understanding of collective vs. individual accountability",
-          "Greater respect for spiritual resilience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's patience has limits when persistent rebellion occurs",
           "Judgment reveals the consequences of human free will and choice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 16",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The LORD of Hosts promises",
+            "ref": "v. 17",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in Ebed-melech's place, hearing that the city will face harm but you will be spared. How does the promise of rescue change how you view the destruction around you?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 46:9-10",
+        "summary": "The LORD tells Ebed-melech that He is about to fulfill His words against the city (v. 16). Isaiah says God declares the end from the beginning and that His purpose will stand.",
+        "question": "How does Isaiah's word that God declares the end from the beginning help you understand the LORD's words to Ebed-melech in verses 16-17?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "the LORD says the one who has trusted in Him will escape with his life",
+        "feeling": "panic, dread",
+        "object": "a sudden crisis",
+        "behavior": "looking for every exit",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:panic, dread} about {object:a sudden crisis} to God and instead of {behavior:looking for every exit}, I will {step:rest in His protection}."
       }
     }
   }

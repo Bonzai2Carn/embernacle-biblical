@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theological insight most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Religious traditions can nullify God's true commandments",
-            "expansion": "Human rituals often replace genuine spiritual authenticity and divine intention."
-          },
-          {
-            "id": 2,
-            "text": "True spiritual purity comes from the heart, not external practices",
-            "expansion": "Inner moral transformation matters more than ceremonial compliance."
-          },
-          {
-            "id": 3,
-            "text": "Divine grace transcends cultural and ethnic boundaries",
-            "expansion": "God's redemptive love extends beyond traditional religious exclusivity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your most cherished religious traditions potentially distract you from genuine spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent do religious practices enhance or hinder authentic spiritual connection?",
-        "left_label": "Ritualistic Legalism",
-        "right_label": "Genuine Spiritual Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has this chapter shifted your understanding of spiritual authenticity?",
-        "options": [
-          "I recognize the danger of prioritizing human traditions over divine commandments",
-          "I understand that spiritual purity is an internal condition",
-          "I see how religious exclusivity can limit God's expansive grace",
-          "I am more aware of potential spiritual blind spots"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Religious practices can become idolatrous when disconnected from God's true intentions",
           "External compliance can substitute for internal spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The scribes and Pharisees asked",
+            "ref": "v. 2",
+            "speaker": "The scribes and Pharisees"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 3",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the religious leaders. You see the tradition of the elders broken, and Jesus asks why you break God's command for the sake of your tradition. What would you understand from that question, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Mark 7:6-7",
+        "summary": "Jesus identifies a specific danger in the religious leaders: honoring Him with lips while hearts remain far away (v. 8). Mark records this same charge against those who teach human precepts as divine doctrine.",
+        "question": "How does Mark's description of their teaching help you understand why Jesus calls their worship vain?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "the things that come out of the mouth come from the heart",
+        "feeling": "bitterness, anger",
+        "object": "a harsh word spoken in haste",
+        "behavior": "venting my frustration",
+        "step": "ask God to purify my thoughts",
+        "template": "from today I bring my {feeling:bitterness, anger} about {object:a harsh word spoken in haste} into the light and instead of {behavior:venting my frustration}, I will {step:ask God to purify my thoughts}."
       }
     }
   }

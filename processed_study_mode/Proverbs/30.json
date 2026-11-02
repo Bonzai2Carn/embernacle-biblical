@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound insight about human knowledge resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Acknowledging human intellectual limitations",
-            "expansion": "Recognizing our profound smallness before divine wisdom creates genuine humility."
-          },
-          {
-            "id": 2,
-            "text": "The mystery of divine attributes",
-            "expansion": "Understanding that God's nature transcends human comprehension invites wonder and reverence."
-          },
-          {
-            "id": 3,
-            "text": "The purity of divine revelation",
-            "expansion": "Every authentic divine communication contains unfiltered, untainted spiritual truth."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true wisdom begins with acknowledging what we do not know, how might intellectual humility transform our pursuit of understanding?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between human intellectual limitations and spiritual seeking?",
-        "left_label": "Skepticism",
-        "right_label": "Reverent Curiosity"
-      },
-      "reevaluation": {
-        "question": "How has reflecting on this passage shifted your perspective about knowledge and divine understanding?",
-        "options": [
-          "I feel more humble about my own intellect",
-          "I'm more curious about spiritual mysteries",
-          "I appreciate the complexity of divine wisdom",
-          "I'm more comfortable with not knowing everything"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Accept mystery as an essential component of faith",
           "Seek direct spiritual revelation beyond rational comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Agur asks",
+            "ref": "vv. 8-9",
+            "speaker": "Agur"
+          }
+        ],
+        "question": "Put yourself in Agur's place, asking God for two things before you die. What would you weigh about having too much, and what would you still wonder about having too little?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 12:6",
+        "summary": "Agur declares that every word of God is flawless (v. 5). The Psalmist confirms that the words of the LORD are pure, like silver refined in a furnace (Psalm 12:6).",
+        "question": "How does the image of purified silver help you trust the perfection of God's words in Agur's declaration?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "practice",
+        "because": "the stirring of anger brings forth strife",
+        "feeling": "irritation, resentment",
+        "object": "a perceived slight",
+        "behavior": "responding with sharp words",
+        "step": "hold my tongue and stay silent",
+        "template": "from today I let go of my {feeling:irritation, resentment} over {object:a perceived slight} and instead of {behavior:responding with sharp words}, I will {step:hold my tongue and stay silent}."
       }
     }
   }

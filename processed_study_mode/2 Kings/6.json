@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual lesson resonates most from this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Provision in Small Moments",
-            "expansion": "God cares about seemingly mundane problems, like a borrowed tool falling in water."
-          },
-          {
-            "id": 2,
-            "text": "Community Collaboration",
-            "expansion": "The prophets work together to expand their living space through mutual effort."
-          },
-          {
-            "id": 3,
-            "text": "Supernatural Intervention",
-            "expansion": "Miracles can emerge from human vulnerability and honest prayer."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you lose something valuable that isn't yours, what reveals more about your character: the loss itself or your response to the loss?"
-      },
-      "moral_slider": {
-        "question": "How do faith and practical problem-solving interact in spiritual challenges?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How might this passage transform your understanding of God's care?",
-        "options": [
-          "God is present in small details",
-          "Miracles can happen through community",
-          "Prayer changes practical circumstances",
-          "Leadership involves empathy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal challenges reveal opportunities for faith and trust",
           "Divine intervention demonstrates God's sovereignty over natural laws"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The servant of the man of God asked",
+            "ref": "v. 15",
+            "speaker": "The servant of the man of God"
+          },
+          {
+            "who": "Elisha answered",
+            "ref": "v. 16",
+            "speaker": "Elisha"
+          }
+        ],
+        "question": "Put yourself in the servant's place, seeing an army with horses and chariots surround the city. Elisha says those with us are more than those with them. What would you weigh in that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Peter 5:7",
+        "summary": "Elisha's servant sees a physical threat and asks for help. Peter instructs believers to cast their anxieties on God because He cares for them.",
+        "question": "How does 1 Peter 5:7 change how you view the servant's panic in the face of an army?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "trust",
+        "because": "those who are with us are more than those who are with them",
+        "feeling": "fear, dread",
+        "object": "a threat closing in around me",
+        "behavior": "panicking at every obstacle",
+        "step": "look for God's presence",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a threat closing in around me} to God and instead of {behavior:panicking at every obstacle}, I will {step:look for God's presence}."
       }
     }
   }

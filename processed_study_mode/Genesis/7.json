@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine preservation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's specific instructions",
-            "expansion": "Divine guidance requires precise, deliberate obedience beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Preservation of life amidst destruction",
-            "expansion": "Redemption often emerges through selective protection during systemic judgment."
-          },
-          {
-            "id": 3,
-            "text": "Noah's unwavering faith",
-            "expansion": "True spiritual leadership manifests through calm trust during unprecedented circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is universally just, why do some suffer while others are spared?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine mercy with divine judgment?",
-        "left_label": "Conditional Grace",
-        "right_label": "Unconditional Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of systematic divine planning",
-          "Recognize complexity of spiritual protection",
-          "Understand scale of transformative spiritual events",
-          "Appreciate nuanced interpretations of sacred narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The flood narrative demonstrates God's emotional response to human sin",
           "Preservation of life through Noah shows God's ultimate desire for reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD commanded Noah",
+            "ref": "vv. 1-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Noah entered the ark",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Noah's place, told to go into the ark with all your family because you have been found righteous, with rain coming in seven days. What would you weigh as the day arrives and you enter the ark with your sons and your wife?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "1 Peter 3:20-21",
+        "summary": "Noah, his sons, his wife and his sons' wives enter the ark, and the LORD shuts them in (vv. 13, 16). 1 Peter 3:20-21 says that in the ark a few people, only eight souls, were saved through water.",
+        "question": "How does 1 Peter 3:20-21 help you understand what the ark meant for the eight people inside?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "Noah did all that the LORD had commanded him",
+        "feeling": "doubt, hesitation",
+        "object": "a difficult instruction",
+        "behavior": "negotiating the details",
+        "step": "obey the first word",
+        "template": "from today I let go of my {feeling:doubt, hesitation} over {object:a difficult instruction} and instead of {behavior:negotiating the details}, I will {step:obey the first word}."
       }
     }
   }

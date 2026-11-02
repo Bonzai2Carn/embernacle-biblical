@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's grief over human corruption",
-            "expansion": "The profound emotional depth of divine disappointment reveals a relational, not just transactional, divine perspective."
-          },
-          {
-            "id": 2,
-            "text": "Humanity's moral deterioration",
-            "expansion": "The narrative suggests a cascading moral collapse that transcends individual actions."
-          },
-          {
-            "id": 3,
-            "text": "Noah's righteousness amid widespread wickedness",
-            "expansion": "One individual's integrity can stand as a counterpoint to collective spiritual decay."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment emerges from human choices, what responsibilities do we bear for collective moral trajectory?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine justice in the face of widespread human corruption?",
-        "left_label": "Harsh Punishment",
-        "right_label": "Merciful Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine-human interaction evolved?",
-        "options": [
-          "More aware of collective moral consequences",
-          "Recognize complexity of divine judgment",
-          "See individual integrity as potentially transformative",
-          "Understand divine emotions beyond transactional relationship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Powerful human rulers or aristocrats",
           "Symbolic representation of spiritual rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The text says Noah found favor",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Noah's place. The LORD says He will blot out man and every creature from the face of the earth because He is grieved that He made them, and then it is said that you found favor in His eyes. What would you wonder about that favor?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "2 Peter 2:5",
+        "summary": "God tells Noah that the end of all living creatures has come because the earth is full of violence (v. 13). 2 Peter 2:5 says God did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight.",
+        "question": "How does 2 Peter 2:5 help you understand why God tells Noah to make an ark (v. 14)?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "Noah did everything precisely as God had commanded him",
+        "feeling": "confusion, doubt",
+        "object": "a difficult instruction",
+        "behavior": "skipping the details",
+        "step": "obey the very next thing I know to do",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a difficult instruction} and instead of {behavior:skipping the details}, I will {step:obey the very next thing I know to do}."
       }
     }
   }

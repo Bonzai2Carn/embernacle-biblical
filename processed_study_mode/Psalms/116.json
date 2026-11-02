@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core emotional response in this psalm resonates most deeply?",
-        "choices": [
-          {
-            "id": "gratitude",
-            "text": "Profound Gratitude for Deliverance",
-            "expansion": "The psalmist's overwhelming sense of thankfulness demonstrates how personal experiences of divine rescue transform spiritual perception."
-          },
-          {
-            "id": "vulnerability",
-            "text": "Honest Vulnerability Before God",
-            "expansion": "Revealing personal struggles and emotional turbulence creates authentic space for genuine spiritual connection."
-          },
-          {
-            "id": "commitment",
-            "text": "Renewed Covenant Commitment",
-            "expansion": "Experiencing God's mercy naturally produces a deeper dedication to walking in relationship with the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering can lead to profound spiritual insight, what transformative potential exists in your most challenging moments?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine intervention intersect in your understanding of spiritual growth?",
-        "left_label": "Individual Powerlessness",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your previous understanding of prayer and relationship with the divine?",
-        "options": [
-          "I see prayer as more emotionally vulnerable",
-          "My view of divine responsiveness has deepened",
-          "I recognize the importance of testimonial gratitude",
-          "I understand suffering as potentially transformative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Theological understanding emerges through experiencing divine intervention",
           "Suffering challenges simplistic views of God's immediate protection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist describes",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist confesses",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you are overwhelmed by death and sorrow. You cry out for help. What does the character of God in verse 5 tell you about the help you asked for?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 50:14-15",
+        "summary": "The psalmist asks how he can repay the LORD for all His goodness (v. 12). Psalm 50 says a thank offering and fulfilled vows honor God, and that He delivers those who call on Him in the day of trouble.",
+        "question": "How does Psalm 50:14-15 help you understand the psalmist's plan to lift the cup of salvation and call on the name of the LORD (v. 13)?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "remembrance",
+        "because": "the LORD has been good to my soul",
+        "feeling": "anxiety, restlessness",
+        "object": "an uncertain tomorrow",
+        "behavior": "striving for control",
+        "step": "rest in His goodness",
+        "template": "from today I bring You my {feeling:anxiety, restlessness} about {object:an uncertain tomorrow} and instead of {behavior:striving for control}, I will {step:rest in His goodness}."
       }
     }
   }

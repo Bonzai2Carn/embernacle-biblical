@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of obedience stands out most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Generational Commitment",
-            "expansion": "The Rechabites maintained ancestral instructions across generations, demonstrating profound familial loyalty."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Integrity",
-            "expansion": "Their unwavering commitment to their forefather's principles transcended cultural and temporal pressures."
-          },
-          {
-            "id": 3,
-            "text": "Divine Validation",
-            "expansion": "God uses their faithfulness as a prophetic contrast to Judah's disobedience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external commands become internalized convictions, and at what point does obedience transform from obligation to authentic identity?"
-      },
-      "moral_slider": {
-        "question": "What determines the legitimacy of traditional practices?",
-        "left_label": "Cultural Flexibility",
-        "right_label": "Principled Preservation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance shifted?",
-        "options": [
-          "Recognize deeper meanings of familial legacy",
-          "Appreciate nuanced forms of faithfulness",
-          "Understand obedience as a relational practice",
-          "See generational wisdom as potentially prophetic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Shows that absolute obedience to human traditions supersedes divine flexibility",
           "Illustrates how principled consistency can be a prophetic testimony"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The Rechabites replied",
+            "ref": "v. 6",
+            "speaker": "The men of the house of the Rechabites"
+          },
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 14",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the people of Judah. You hear that the Rechabites have kept their forefather's command about wine to this day, and that the LORD has spoken to you again and again without being obeyed. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "1 Samuel 15:22",
+        "summary": "The Rechabites kept their ancestor's command (v. 10), while Judah did not listen to the prophets the LORD sent again and again (v. 15). Samuel says obedience to the LORD's voice is better than sacrifice.",
+        "question": "How does Samuel's statement that obedience is better than sacrifice help you understand the contrast between the Rechabites and Judah?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "remembrance",
+        "because": "the LORD promised that Jonadab's house will never lack a man to stand before Him",
+        "feeling": "insecurity, doubt",
+        "object": "my standing with God",
+        "behavior": "trying to earn His favor",
+        "step": "rest in His faithfulness",
+        "template": "from today I let go of my {feeling:insecurity, doubt} over {object:my standing with God} and instead of {behavior:trying to earn His favor}, I will {step:rest in His faithfulness}."
       }
     }
   }

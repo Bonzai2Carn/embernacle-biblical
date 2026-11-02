@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine justice resonates most strongly?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God sees the suffering of the oppressed",
-            "expansion": "The Psalmist affirms God's intimate awareness of human vulnerability"
-          },
-          {
-            "id": "2",
-            "text": "Evil seems temporarily unchecked",
-            "expansion": "Wickedness appears successful in the moment, challenging theological assumptions"
-          },
-          {
-            "id": "3",
-            "text": "Hope in ultimate divine intervention",
-            "expansion": "Despite current circumstances, faith anticipates ultimate moral restoration"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God truly sees the oppression of the vulnerable, why do systemic injustices persist?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine patience with urgent human suffering?",
-        "left_label": "Immediate Judgment",
-        "right_label": "Redemptive Delay"
-      },
-      "reevaluation": {
-        "question": "How might this Psalm transform your understanding of divine engagement with human struggle?",
-        "options": [
-          "God is more intimately aware than I previously understood",
-          "Suffering is not ignored, even if not immediately resolved",
-          "Faith requires patience in the face of apparent injustice",
-          "Divine justice operates on a different timeline than human expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers are responsible for actively confronting injustice through spiritual and practical means",
           "Suffering is a mysterious component of God's redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying. You ask why God stands far off and hides in trouble. What changes when you see that God regards trouble and grief, and the victim entrusts himself to Him?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Psalm 94:1-3",
+        "summary": "The psalmist asks God to arise and not forget the helpless (v. 12). Psalm 94 asks God to shine forth and to rise up as Judge of the earth, rendering a reward to the proud (Psalm 94:1-2).",
+        "question": "How does seeing this same plea in another Psalm help you understand the weight of the psalmist's distress here?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "the victim entrusts himself to You",
+        "feeling": "fear, panic",
+        "object": "an unfair situation",
+        "behavior": "trying to fix it myself",
+        "step": "hand the outcome to Him",
+        "template": "from today I bring You my {feeling:fear, panic} about {object:an unfair situation} and instead of {behavior:trying to fix it myself}, I will {step:hand the outcome to Him}."
       }
     }
   }

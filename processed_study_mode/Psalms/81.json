@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central message resonates most from this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Deliverance",
-            "expansion": "Divine intervention demonstrates unconditional love beyond human understanding."
-          },
-          {
-            "id": 2,
-            "text": "Obedience and Freedom",
-            "expansion": "True spiritual liberation comes through surrendering to divine guidance."
-          },
-          {
-            "id": 3,
-            "text": "Remembering Historical Redemption",
-            "expansion": "Collective memory of God's past rescues sustains faith in present challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God has repeatedly demonstrated faithfulness, why do humans still struggle to trust completely?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human free will interact in spiritual journey?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual dependence shifted?",
-        "options": [
-          "Recognize divine guidance more clearly",
-          "Understand collective spiritual history",
-          "Appreciate complexity of faith",
-          "See personal transformation potential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship is a collaborative dynamic between divine invitation and human response",
           "Spiritual outcomes are primarily determined by individual human decisions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of one of the people hearing the LORD say He brought you out of Egypt and will fill your open mouth. Then you hear that His people would not listen to Him. What would you still wonder about that refusal?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Jeremiah 7:23",
+        "summary": "The LORD calls Israel to listen and obey (v. 8) and promises to fill their open mouths (v. 10). Jeremiah 7:23 records the LORD's command to obey Him, with the promise that He will be their God and they will be His people.",
+        "question": "How does Jeremiah 7:23 help you understand the weight of the LORD's call to listen in verse 8?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "the LORD would feed His people the finest wheat and satisfy them with honey from the rock",
+        "feeling": "dissatisfaction, greed",
+        "object": "the things I cannot have",
+        "behavior": "searching for more",
+        "step": "thank Him for what He has provided",
+        "template": "from today I bring You my {feeling:dissatisfaction, greed} about {object:the things I cannot have} and instead of {behavior:searching for more}, I will {step:thank Him for what He has provided}."
       }
     }
   }

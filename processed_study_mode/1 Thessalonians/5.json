@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual preparedness concept resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Watchfulness for Christ's Return",
-            "expansion": "Staying spiritually alert requires continuous intentionality and spiritual awareness."
-          },
-          {
-            "id": 2,
-            "text": "Community of Light",
-            "expansion": "Believers are collectively empowered to live as children of light, transcending darkness."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected Divine Timing",
-            "expansion": "God's interventions often occur in moments least anticipated by human calculation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual preparedness is constant, how do we distinguish between vigilance and anxiety?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual readiness with communal responsibility?",
-        "left_label": "Individual Salvation",
-        "right_label": "Collective Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual preparedness evolved?",
-        "options": [
-          "More aware of spiritual dynamics",
-          "Less fearful of divine judgment",
-          "More committed to communal faith",
-          "Increased sense of personal responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Speculative calculation of prophetic timelines",
           "Continuous spiritual alertness and missional living"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "People say",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are part of a group hearing people say, 'Peace and security,' while Paul says sudden destruction will come upon them. Then he says you are not in the darkness, so that this day should overtake you like a thief. What does that change about how you hear the claim of peace and security?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Matthew 24:42",
+        "summary": "Paul says the Day of the Lord will come like a thief in the night (v. 2), and tells his readers to remain awake and sober (v. 6). In Matthew 24:42 Jesus says to keep watch, because you do not know the day on which your Lord will come.",
+        "question": "How does Jesus' command to keep watch help you understand why Paul tells you to remain awake and sober (v. 6)?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "God's will for you in Christ Jesus is to give thanks in every circumstance",
+        "feeling": "frustration, bitterness",
+        "object": "a difficult season",
+        "behavior": "complaining about my lot",
+        "step": "find one thing to thank Him for",
+        "template": "from today I let go of my {feeling:frustration, bitterness} over {object:a difficult season} and instead of {behavior:complaining about my lot}, I will {step:find one thing to thank Him for}."
       }
     }
   }

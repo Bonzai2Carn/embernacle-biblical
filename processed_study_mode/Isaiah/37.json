@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention Against Imperial Threat",
-            "expansion": "God's sovereignty can transcend seemingly overwhelming human geopolitical powers."
-          },
-          {
-            "id": 2,
-            "text": "Hezekiah's Vulnerable Yet Faithful Leadership",
-            "expansion": "Authentic leadership sometimes requires radical humility and direct spiritual petition."
-          },
-          {
-            "id": 3,
-            "text": "Isaiah's Prophetic Role as Spiritual Mediator",
-            "expansion": "True prophetic ministry provides spiritual counsel during moments of national crisis."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we discern between genuine divine protection and mere human wishful thinking during moments of existential threat?"
-      },
-      "moral_slider": {
-        "question": "Where does national security intersect with spiritual trust?",
-        "left_label": "Human Strategy",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare evolved?",
-        "options": [
-          "Recognize subtler forms of spiritual conflict",
-          "Understand the role of prayer in confronting challenges",
-          "Appreciate divine intervention beyond literal mechanisms",
-          "Recognize leadership's spiritual dimensions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare involves simultaneous divine and human action",
           "Miraculous outcomes are independent of human preparation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Sennacherib sent messengers, saying",
+            "ref": "vv. 10-13",
+            "speaker": "Sennacherib"
+          },
+          {
+            "who": "Hezekiah received the letter, read it, and went up to the house of the LORD and spread it out before the LORD",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. You hold a letter that mocks your trust and lists nations already destroyed. What would you weigh before you decide where to take it?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Psalm 46:1",
+        "summary": "Hezekiah prays for God to hear and see the defiance against Him (v. 17). The Psalmist describes God as a refuge that is always present in the midst of chaos.",
+        "question": "How does the promise of God being a near refuge help you when you spread your own letters of distress before Him?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "trust",
+        "because": "God will defend this city and save it for His own sake",
+        "feeling": "anxiety, dread",
+        "object": "a threat to my security",
+        "behavior": "trying to fix it myself",
+        "step": "rest in His promise",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a threat to my security} to God and instead of {behavior:trying to fix it myself}, I will {step:rest in His promise}."
       }
     }
   }

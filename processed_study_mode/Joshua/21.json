@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about the Levites' inheritance strategy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Provision",
-            "expansion": "God systematically ensured the priestly tribe's sustenance through distributed cities"
-          },
-          {
-            "id": 2,
-            "text": "Collaborative Community",
-            "expansion": "Each tribe contributed to supporting the spiritual leadership of Israel"
-          },
-          {
-            "id": 3,
-            "text": "Intentional Land Management",
-            "expansion": "The careful allocation of cities demonstrated strategic, compassionate organizational planning"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leadership requires material support, what does that reveal about the interdependence of faith and practical living?"
-      },
-      "moral_slider": {
-        "question": "How should spiritual leaders balance receiving communal support with maintaining personal humility?",
-        "left_label": "Complete Dependence",
-        "right_label": "Total Self-Sufficiency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership shifted?",
-        "options": [
-          "More appreciation for systemic support",
-          "Recognize complexity of communal responsibilities",
-          "Understand spiritual roles require practical infrastructure",
-          "See divine provision works through human cooperation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Strategic positioning of spiritual guidance across national territories",
           "Symbolic representation of God's continuous presence among His people"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 44,
+        "exchange": [
+          {
+            "who": "Thus the LORD gave Israel all the land",
+            "ref": "v. 43",
+            "speaker": ""
+          },
+          {
+            "who": "the LORD gave them rest on every side",
+            "ref": "v. 44",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are an Israelite settling in your towns. You hear that the LORD gave all the land He swore to your fathers and gave you rest on every side. What do you understand about that rest, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Numbers 35:2",
+        "summary": "The Israelites give the Levites cities and their pasturelands out of their own inheritance, as the LORD commands (v. 3). Numbers 35:2 records the LORD's command to give the Levites cities to live in, from the inheritance the Israelites will possess, with pasturelands around them.",
+        "question": "How does the command in Numbers 35:2 help you understand why the Israelites gave these cities out of their own inheritance?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "remembrance",
+        "because": "not one of all the LORD’s good promises to the house of Israel had failed",
+        "feeling": "anxiety, doubt",
+        "object": "a delayed answer",
+        "behavior": "questioning God's faithfulness",
+        "step": "list three past provisions",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a delayed answer} and instead of {behavior:questioning God's faithfulness}, I will {step:list three past provisions}."
       }
     }
   }

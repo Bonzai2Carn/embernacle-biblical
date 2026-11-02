@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound moment resonates most deeply in this scene of Jesus's suffering?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Pilate's declaration of innocence",
-            "expansion": "Even a political leader recognizes Jesus's fundamental blamelessness amidst systemic injustice."
-          },
-          {
-            "id": 2,
-            "text": "Jesus's silent endurance",
-            "expansion": "Christ absorbs profound humiliation without retaliating, revealing supernatural strength through vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "The mockery of 'King of the Jews'",
-            "expansion": "Unintended prophecy emerges through the soldiers' cruel irony, revealing Jesus's true royal identity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does human power reveal its fundamental weakness when confronted with divine purpose?"
-      },
-      "moral_slider": {
-        "question": "Where does true authority originate: through force or through sacrifice?",
-        "left_label": "Coercion",
-        "right_label": "Surrender"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of strength and weakness?",
-        "options": [
-          "I see vulnerability differently now",
-          "Leadership looks more complex",
-          "Suffering can have deeper meaning",
-          "Political systems are fundamentally limited"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Exposes human injustice while maintaining divine sovereignty",
           "Provides a model of spiritual resilience under persecution"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Pilate says",
+            "ref": "v. 14",
+            "speaker": "Pilate"
+          },
+          {
+            "who": "The chief priests answer",
+            "ref": "v. 15",
+            "speaker": "The chief priests"
+          }
+        ],
+        "question": "Put yourself among the chief priests, hearing Pilate say, Here is your King! What would you weigh about answering, We have no king but Caesar?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "1 Peter 2:24",
+        "summary": "John says Jesus was crucified with two others, one on each side (v. 18). Peter says He bore our sins in His body on the tree (1 Peter 2:24).",
+        "question": "How does 1 Peter 2:24 help you understand what was done on the cross in verse 18?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "trust",
+        "because": "Jesus declared that it is finished",
+        "feeling": "anxiety, dread",
+        "object": "an unfinished struggle",
+        "behavior": "trying to finish everything by myself",
+        "step": "rest in what He finished",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an unfinished struggle} to God and instead of {behavior:trying to finish everything by myself}, I will {step:rest in what He finished}."
       }
     }
   }

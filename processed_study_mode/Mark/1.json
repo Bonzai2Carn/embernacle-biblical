@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual preparation speaks most profoundly to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "John's wilderness proclamation",
-            "expansion": "Radical proclamation often emerges from places of isolation and spiritual clarity."
-          },
-          {
-            "id": 2,
-            "text": "Public confession of sins",
-            "expansion": "True transformation requires vulnerability and honest acknowledgment of personal brokenness."
-          },
-          {
-            "id": 3,
-            "text": "Preparing the way for divine encounter",
-            "expansion": "Spiritual readiness is an intentional posture of humility and anticipation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If preparing the way requires personal transformation, what inner landscapes must you first clear before encountering the divine?"
-      },
-      "moral_slider": {
-        "question": "How do personal repentance and divine grace intersect in spiritual growth?",
-        "left_label": "Individual Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual preparation evolved?",
-        "options": [
-          "More aware of personal spiritual barriers",
-          "Recognize the importance of humility",
-          "Understanding repentance as a continuous process",
-          "Seeing confession as liberating rather than shameful"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine preparation and human response are mutually collaborative",
           "Spiritual readiness is predominantly an individual psychological process"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 17",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "at once they left their nets and followed Him",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the fishermen. You heard a single command and left your nets behind. What does this choice reveal about what you understood in that moment?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Isaiah 40:3",
+        "summary": "Mark quotes a prophet about a voice calling in the wilderness (v. 3). Isaiah 40:3 says, 'Prepare the way for the LORD in the wilderness; make a straight highway for our God in the desert.'",
+        "question": "How does Isaiah's description of a voice in the wilderness help you recognize the purpose of John the Baptist in Mark 1?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "practice",
+        "because": "Jesus got up and slipped out to a solitary place to pray",
+        "feeling": "anxiety, restlessness",
+        "object": "a busy schedule",
+        "behavior": "rushing into my tasks",
+        "step": "find a quiet space to sit",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a busy schedule} and instead of {behavior:rushing into my tasks}, I will {step:find a quiet space to sit}."
       }
     }
   }

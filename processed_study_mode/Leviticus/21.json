@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of priestly holiness resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Physical Purity",
-            "expansion": "The priest's body itself becomes a living symbol of spiritual consecration and divine standards."
-          },
-          {
-            "id": 2,
-            "text": "Familial Boundary Maintenance",
-            "expansion": "Holiness requires intentional separation and careful relational boundaries."
-          },
-          {
-            "id": 3,
-            "text": "Ritual Distinction from Common Life",
-            "expansion": "Sacred roles demand extraordinary spiritual discipline beyond ordinary human experiences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If holiness demands such precise external regulations, what internal transformations might truly be required?"
-      },
-      "moral_slider": {
-        "question": "How do ritual purity requirements reflect divine expectations?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Perfection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More aware of spiritual responsibility",
-          "Recognize complexity of sacred boundaries",
-          "Appreciate intentional consecration",
-          "Understand symbolic representation matters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership standards should be universally applied across all believers",
           "Cultural context determines appropriate spiritual leadership qualifications"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 1-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a priest. You are told not to defile yourself for the dead beyond close family (vv. 1-4), and then given the reason: you present the food of your God, so you must be holy (v. 6). What do you weigh in that reason?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "1 Peter 2:9",
+        "summary": "The LORD commands the priests to be holy and set apart (v. 8). Peter says the same identity, a royal priesthood and a holy nation, belongs to all believers (1 Peter 2:9).",
+        "question": "How does knowing you are part of a holy nation help you understand why the priests were forbidden from profaning God's name (v. 6)?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "a priest with a defect must not go near the veil or approach the altar, so as not to desecrate the sanctuaries",
+        "feeling": "disrespect, carelessness",
+        "object": "the things I hold sacred",
+        "behavior": "treating worship as common",
+        "step": "prepare my heart before I pray",
+        "template": "from today I let go of my {feeling:disrespect, carelessness} over {object:the things I hold sacred} and instead of {behavior:treating worship as common}, I will {step:prepare my heart before I pray}."
       }
     }
   }

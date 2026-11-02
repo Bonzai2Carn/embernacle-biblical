@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual moment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unified National Worship",
-            "expansion": "The collective gathering of Israel's leadership demonstrates the power of communal spiritual commitment."
-          },
-          {
-            "id": 2,
-            "text": "Sacred Preservation of Legacy",
-            "expansion": "Solomon's careful integration of David's dedicated treasures symbolizes generational spiritual inheritance."
-          },
-          {
-            "id": 3,
-            "text": "Divine Presence Manifesting",
-            "expansion": "The overwhelming cloud filling the temple represents God's tangible, overwhelming glory transcending human architectural efforts."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does the physical act of bringing the ark reveal deeper spiritual truths about human relationship with the divine?"
-      },
-      "moral_slider": {
-        "question": "To what extent does ritual precision reflect genuine spiritual devotion?",
-        "left_label": "External Formalism",
-        "right_label": "Authentic Worship"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of worship and divine encounter?",
-        "options": [
-          "Recognized importance of communal worship",
-          "Appreciated historical spiritual continuity",
-          "Understood symbolic significance of sacred spaces",
-          "Reflected on personal spiritual legacy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Architectural precision demonstrates human reverence",
           "Temples represent intermediary points between divine and human realms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The trumpeters and singers praise the LORD",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "The cloud fills the house so the priests cannot stand",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the singers. You lift your voice with 'For He is good; His loving devotion endures forever,' and the house of the LORD fills with a cloud so that the priests cannot stand to minister. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Exodus 25:10-22",
+        "summary": "The priests bring the ark into the inner sanctuary beneath the cherubim (v. 7). Exodus 25:10-22 gives the instructions for making the ark, with its gold overlay, rings, and poles.",
+        "question": "How does knowing how the ark was first made help you picture what the priests carry into the inner sanctuary?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "His loving devotion endures forever",
+        "feeling": "anxiety, fear",
+        "object": "a changing season",
+        "behavior": "looking for security in people",
+        "step": "anchor my heart in His goodness",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a changing season} and instead of {behavior:looking for security in people}, I will {step:anchor my heart in His goodness}."
       }
     }
   }

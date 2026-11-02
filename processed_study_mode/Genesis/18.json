@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about divine encounter in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unexpected Divine Presence",
-            "expansion": "God appears casually, transforming an ordinary moment into a profound spiritual interaction."
-          },
-          {
-            "id": 2,
-            "text": "Abraham's Hospitality",
-            "expansion": "Radical welcome becomes a pathway for experiencing divine revelation and intimacy."
-          },
-          {
-            "id": 3,
-            "text": "Negotiating with God",
-            "expansion": "Human beings can engage in meaningful dialogue with the divine, challenging predetermined outcomes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine hospitality create unexpected spiritual encounters in our own lives?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human intercession influence divine judgment?",
-        "left_label": "Limited Human Agency",
-        "right_label": "Profound Spiritual Influence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine interaction evolved?",
-        "options": [
-          "More aware of unexpected divine moments",
-          "Recognize complexity of spiritual encounters",
-          "Appreciate nuanced theological interactions",
-          "See value in humble, receptive postures"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrating God's willingness to dialogue with humanity",
           "Revealing divine plans through intimate relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD asked Abraham",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Sarah's place, laughing and asking whether you can really bear a child when you are old. What would you weigh when you hear, 'Is anything too difficult for the LORD?'"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Hebrews 13:2",
+        "summary": "Abraham sees three men standing nearby, runs from his tent to meet them and bows low to the ground (v. 2). Hebrews 13:2 says that by showing hospitality to strangers some people have entertained angels without knowing it.",
+        "question": "How does Hebrews 13:2 help you understand why Abraham hurries to welcome three men he sees standing nearby?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "nothing is too difficult for the LORD",
+        "feeling": "anxiety, doubt",
+        "object": "a hopeless situation",
+        "behavior": "relying on my own strength",
+        "step": "rest in His power",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a hopeless situation} to God and instead of {behavior:relying on my own strength}, I will {step:rest in His power}."
       }
     }
   }

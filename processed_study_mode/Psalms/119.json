@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's word resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Guidance through Scripture",
-            "expansion": "Divine wisdom as a precise navigational tool for life's complex journey"
-          },
-          {
-            "id": 2,
-            "text": "Transformative Power of God's Law",
-            "expansion": "The radical potential of biblical principles to reshape human character"
-          },
-          {
-            "id": 3,
-            "text": "Persistent Love in Divine Instruction",
-            "expansion": "God's consistent, patient communication as an expression of unconditional love"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instruction is truly a 'lamp to my feet', why do humans consistently struggle to follow clear guidance?"
-      },
-      "moral_slider": {
-        "question": "How do personal interpretation and objective scriptural truth coexist?",
-        "left_label": "Personal Subjectivity",
-        "right_label": "Absolute Divine Truth"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of scriptural engagement shifted?",
-        "options": [
-          "More analytical approach",
-          "Increased emotional connection",
-          "Deeper spiritual sensitivity",
-          "More holistic interpretative framework"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Consistent scriptural engagement rewires emotional and cognitive patterns",
           "Divine wisdom progressively replaces human limited understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a young person trying to stay on the right path. What is the one tool you have to keep your way pure?"
+      },
+      "chain": {
+        "after": 105,
+        "ref": "Matthew 4:4",
+        "summary": "The psalmist calls God's word a lamp to his feet and a light to his path (v. 105). Matthew 4:4 records Jesus answering, 'Man shall not live on bread alone, but on every word that comes from the mouth of God.'",
+        "question": "How does Matthew 4:4 help you understand why the psalmist treats God's word as a lamp to his feet (v. 105)?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "I have hidden Your word in my heart that I might not sin against You",
+        "feeling": "temptation, impulse",
+        "object": "a moment of weakness",
+        "behavior": "giving in to the urge",
+        "step": "recall a specific promise",
+        "template": "from today I bring You my {feeling:temptation, impulse} about {object:a moment of weakness} and instead of {behavior:giving in to the urge}, I will {step:recall a specific promise}."
       }
     }
   }

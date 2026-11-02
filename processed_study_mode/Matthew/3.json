@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of John the Baptist's ministry resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Radical Message of Repentance",
-            "expansion": "True transformation requires confronting uncomfortable truths about oneself."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Fulfillment",
-            "expansion": "Ancient prophecies reveal a divine narrative larger than individual moments."
-          },
-          {
-            "id": 3,
-            "text": "Ascetic Lifestyle",
-            "expansion": "Spiritual authenticity often emerges through simplicity and detachment from worldly comforts."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If repentance means changing one's entire orientation, what might you need to 'wilderness' in your own life?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and systemic transformation relate?",
-        "left_label": "Individual Piety",
-        "right_label": "Social Revolution"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual preparation evolved?",
-        "options": [
-          "Recognize personal limitations",
-          "Understand prophecy's living nature",
-          "Value radical authenticity",
-          "See beyond religious performance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True spiritual readiness requires humility and genuine repentance",
           "Divine promises are fulfilled through human agents of proclamation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "John the Baptist tried to prevent Him",
+            "ref": "v. 14",
+            "speaker": "John the Baptist"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 15",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in John's place. You say you need to be baptized by Him, and He answers, Let it be so now, it is fitting for us to fulfill all righteousness in this way. What would you understand from His reason, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Mark 1:2-3",
+        "summary": "John is the voice calling in the wilderness, Prepare the way for the Lord (v. 3). Mark 1:2-3 gives the same words and adds the line before them: I will send My messenger ahead of You, who will prepare Your way.",
+        "question": "How does Mark 1:2-3 help you understand who John is preparing the way for?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "repentance shows itself in the fruit it produces",
+        "feeling": "guilt, shame",
+        "object": "my past failures",
+        "behavior": "hiding from others",
+        "step": "name one failure and turn from it",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:my past failures} and instead of {behavior:hiding from others}, I will {step:name one failure and turn from it}."
       }
     }
   }

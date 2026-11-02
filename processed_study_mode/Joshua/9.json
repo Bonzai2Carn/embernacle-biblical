@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What stands out most about human strategy in encountering divine purpose?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Deception as a survival tactic",
-            "expansion": "The Gibeonites' cunning reveals how perceived weakness seeks creative preservation."
-          },
-          {
-            "id": 2,
-            "text": "Covenant integrity despite initial error",
-            "expansion": "Joshua's commitment to his oath demonstrates the profound weight of spoken promise."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability in leadership decisions",
-            "expansion": "Even wise leaders can be momentarily misled by superficial appearances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does pragmatic survival intersect with moral compromise, and who determines the ethical boundary?"
-      },
-      "moral_slider": {
-        "question": "How do human agreements interact with divine mandates?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant and promise shifted?",
-        "options": [
-          "I see promises as more binding",
-          "Context matters more than literal interpretation",
-          "Leadership requires both wisdom and humility",
-          "Survival strategies are complex moral landscapes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Consider the broader moral and spiritual implications of actions",
           "Consult spiritual leadership for guidance in ambiguous situations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The people of Gibeon acted deceptively",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The men of Israel sampled their provisions",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the men of Israel facing envoys with worn-out sacks and old, cracked wineskins. What would you weigh before you sample their provisions, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Numbers 30:2",
+        "summary": "Joshua makes a treaty of peace with Gibeon, and the leaders swear an oath to them (v. 15). Numbers 30:2 says that a man who swears an oath must not break his word and must do everything he has promised.",
+        "question": "How does the rule that a sworn word must not be broken help you weigh the oath the leaders made in verse 15?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the men of Israel did not seek the counsel of the LORD",
+        "feeling": "overconfidence, carelessness",
+        "object": "a quick decision",
+        "behavior": "acting without asking God",
+        "step": "pray before I decide",
+        "template": "from today I let go of my {feeling:overconfidence, carelessness} over {object:a quick decision} and instead of {behavior:acting without asking God}, I will {step:pray before I decide}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of worship resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Night-time service",
-            "expansion": "The dedication of serving God even when others are resting reveals profound spiritual commitment."
-          },
-          {
-            "id": 2,
-            "text": "Lifting holy hands",
-            "expansion": "Physical posture can be a genuine expression of spiritual surrender and reverence."
-          },
-          {
-            "id": 3,
-            "text": "Blessing from God",
-            "expansion": "Worship is not just human effort, but an invitation for divine reciprocal blessing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If worship is a continuous state of heart rather than a periodic activity, how might your understanding of 'serving' fundamentally transform?"
-      },
-      "moral_slider": {
-        "question": "What motivates your spiritual devotion?",
-        "left_label": "Obligation",
-        "right_label": "Love"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual service shifted?",
-        "options": [
-          "I now see worship as more continuous",
-          "I recognize the importance of intentional praise",
-          "I understand service transcends formal religious settings",
-          "I appreciate the potential for divine reciprocal blessing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine presence is activated through consistent praise",
           "Nighttime worship represents spiritual warfare and intercession"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the servants who serve by night in the house of the LORD. You hear the call to bless the LORD, and then the word that the Maker of heaven and earth will bless you from Zion. What does this exchange of blessing tell you about the night you keep in His house?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Revelation 4:8",
+        "summary": "The psalmist calls the servants to bless the LORD (v. 1). Revelation 4:8 says the four living creatures, day and night, never stop saying 'Holy, Holy, Holy, is the Lord God Almighty.'",
+        "question": "How does the nonstop praise in Revelation 4:8 help you understand the call to the servants who serve by night (v. 1)?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "devotion",
+        "because": "the LORD, the Maker of heaven and earth, is the One who blesses from Zion",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "worrying about the outcome",
+        "step": "rest in His power",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:worrying about the outcome}, I will {step:rest in His power}."
       }
     }
   }

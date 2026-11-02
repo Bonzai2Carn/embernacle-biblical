@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership corruption strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Exploiting the vulnerable",
-            "expansion": "Leaders systematically destroying those they were meant to protect"
-          },
-          {
-            "id": 2,
-            "text": "Moral disconnection from divine justice",
-            "expansion": "Spiritual leaders who have completely lost their moral compass"
-          },
-          {
-            "id": 3,
-            "text": "Prophetic silence in the face of corruption",
-            "expansion": "The complicity of religious authorities who refuse to speak truth"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When leaders betray their sacred trust, what responsibilities do ordinary citizens bear in restoring ethical governance?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and human accountability intersect?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership accountability shifted?",
-        "options": [
-          "I now see leadership as a profound moral responsibility",
-          "Power without ethical constraints is inherently destructive",
-          "Spiritual leaders are equally accountable as political leaders",
-          "Individual moral choices have systemic consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leaders are judged more strictly by divine standards",
           "Genuine leadership reflects God's compassion and justice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 5-6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people listening. The LORD says prophets lead His people astray, and that the seers will cover their mouths because there is no answer from God. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Ezekiel 34:1-10",
+        "summary": "Micah says the leaders tear the skin from the people and strip the flesh from their bones (vv. 2-3). Ezekiel says the shepherds eat the fat, butcher the fattened sheep, and do not strengthen the weak (Ezekiel 34:3-4).",
+        "question": "How does Ezekiel 34:3-4 help you understand the weight of the charge against the leaders in Micah?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "exposure",
+        "because": "leaders judge for a bribe and prophets practice divination for money",
+        "feeling": "greed, self-interest",
+        "object": "my personal influence",
+        "behavior": "using people for my gain",
+        "step": "seek what is right and just",
+        "template": "from today I bring my {feeling:greed, self-interest} about {object:my personal influence} into the light and instead of {behavior:using people for my gain}, I will {step:seek what is right and just}."
       }
     }
   }

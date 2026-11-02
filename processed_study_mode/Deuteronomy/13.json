@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Testing of Loyalty",
-            "expansion": "God uses challenging scenarios to reveal the true devotion of believers' hearts."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Discernment",
-            "expansion": "True faith requires critical evaluation of spiritual claims beyond mere miraculous demonstrations."
-          },
-          {
-            "id": 3,
-            "text": "Absolute Commitment",
-            "expansion": "Authentic relationship with God demands undivided spiritual allegiance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a seemingly miraculous event contradicts your core spiritual understanding, what internal mechanisms determine your response?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual openness with theological boundaries?",
-        "left_label": "Skepticism",
-        "right_label": "Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discernment evolved?",
-        "options": [
-          "More cautious about supernatural claims",
-          "Recognize complexity of spiritual testing",
-          "Appreciate nuanced theological interpretation",
-          "Understand importance of core theological commitments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical understanding of spiritual warfare",
           "Culturally adaptive approach to religious conviction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet or dreamer says",
+            "ref": "vv. 1-2",
+            "speaker": "The prophet or dreamer of dreams"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people hearing a voice urge you to follow other gods. The LORD says He is testing you to find out whether you love Him with all your heart and soul. What would you weigh most about this testing?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Galatians 1:8-9",
+        "summary": "Deuteronomy 13 warns against a prophet or dreamer who gives a sign or wonder and urges you to follow other gods (vv. 1-3). Paul warns against any message contrary to the gospel they first received (Galatians 1:8-9).",
+        "question": "How does Paul's warning about a different gospel help you weigh the authority of a message that seems to align with signs or an impressive display?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "the LORD your God is the one you follow and fear, keeping His commandments and holding fast to Him",
+        "feeling": "distraction, doubt",
+        "object": "a new or popular idea",
+        "behavior": "following a persuasive new voice",
+        "step": "return my focus to His voice",
+        "template": "from today I let go of my {feeling:distraction, doubt} over {object:a new or popular idea} and instead of {behavior:following a persuasive new voice}, I will {step:return my focus to His voice}."
       }
     }
   }

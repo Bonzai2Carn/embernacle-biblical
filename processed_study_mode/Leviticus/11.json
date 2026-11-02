@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of dietary laws most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Symbolic purity boundaries",
-            "expansion": "Dietary restrictions represent deeper spiritual distinctions between sacred and profane."
-          },
-          {
-            "id": 2,
-            "text": "Divine design in creation",
-            "expansion": "God's meticulous instructions suggest intentional ecological and biological classification."
-          },
-          {
-            "id": 3,
-            "text": "Community health practices",
-            "expansion": "These laws likely served primitive public health functions beyond theological symbolism."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If these dietary laws are ultimately about spiritual consciousness, what internal boundaries might they represent metaphorically?"
-      },
-      "moral_slider": {
-        "question": "How do religious dietary restrictions relate to individual versus collective identity?",
-        "left_label": "Personal Choice",
-        "right_label": "Community Covenant"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of 'clean' and 'unclean' have shifted?",
-        "options": [
-          "More symbolic than literal",
-          "Culturally specific wisdom",
-          "Universal spiritual principle",
-          "Scientifically primitive taxonomy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Cultural practice with limited contemporary relevance",
           "Typological understanding of spiritual purity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 45,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 44-45",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing these boundaries. You are told to be holy because the LORD is holy, and reminded that He brought you out of Egypt to be your God. What do you weigh in these two reasons?"
+      },
+      "chain": {
+        "after": 43,
+        "ref": "1 Corinthians 10:31",
+        "summary": "Leviticus 11 lists animals that may and may not be eaten (vv. 3-42). Paul says that whether you eat or drink or whatever you do, do it all to the glory of God.",
+        "question": "How does Paul's instruction about eating and drinking help you understand why the LORD set boundaries on food in Leviticus 11?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "practice",
+        "because": "the LORD brought you up out of the land of Egypt so that He would be your God",
+        "feeling": "indifference, apathy",
+        "object": "the small details of my daily routine",
+        "behavior": "ignoring what is sacred",
+        "step": "set aside time for prayer",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the small details of my daily routine} and instead of {behavior:ignoring what is sacred}, I will {step:set aside time for prayer}."
       }
     }
   }

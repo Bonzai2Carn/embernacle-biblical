@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership principle resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Serve willingly, not under compulsion",
-            "expansion": "True spiritual leadership emerges from inner conviction, not external pressure."
-          },
-          {
-            "id": 2,
-            "text": "Lead by humble example",
-            "expansion": "Authentic leadership transforms through modeling, not merely instructing."
-          },
-          {
-            "id": 3,
-            "text": "Anticipate ultimate accountability",
-            "expansion": "Earthly leadership is a temporary stewardship with eternal consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual authority is about servanthood, how might traditional power structures misunderstand leadership?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal humility with spiritual responsibility?",
-        "left_label": "Self-Minimization",
-        "right_label": "Confident Servanthood"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "More focused on serving than controlling",
-          "Recognize leadership as spiritual stewardship",
-          "Understand leadership requires personal vulnerability",
-          "Appreciate leadership as a sacred trust"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership requires personal spiritual maturity",
           "Leadership effectiveness is measured by spiritual fruit, not institutional power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Peter says",
+            "ref": "v. 5",
+            "speaker": "Peter"
+          },
+          {
+            "who": "Peter urges",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a young person receiving this instruction. What does the reason for your humility change about how you view your position among the elders?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 55:22",
+        "summary": "Peter tells you to cast your anxiety on God because He cares for you (v. 7). The Psalmist gives a specific command to do this with your burdens.",
+        "question": "How does the Psalmist's command help you act on Peter's promise that God cares for you?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "God cares for you, so you can cast all your anxiety on Him",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "carrying the weight alone",
+        "step": "hand it to Him",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain future} to God and instead of {behavior:carrying the weight alone}, I will {step:hand it to Him}."
       }
     }
   }

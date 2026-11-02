@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over national powers",
-            "expansion": "Divine plans transcend human political strategies and ambitions."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of persistent rebellion",
-            "expansion": "Repeated rejection of divine guidance leads to inevitable spiritual and geopolitical consequences."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic forewarning",
-            "expansion": "God communicates impending judgment through prophetic voices before catastrophic events."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do national leaders' personal choices intersect with broader divine purposes, and to what extent are individuals responsible for collective consequences?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine punishment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention in human history shifted?",
-        "options": [
-          "I see more complexity in historical events",
-          "I recognize patterns of spiritual consequence",
-          "I'm more aware of prophetic perspectives",
-          "I understand national challenges differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Human leaders retain complete autonomy in their decisions",
           "Divine purposes are accomplished through complex geopolitical interactions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The text says",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The text explains",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people watching these raiders arrive. The LORD sent them against Jehoiakim, as He had spoken through His prophets. How does that change how you view the invasion?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Jeremiah 25:9",
+        "summary": "Nebuchadnezzar carries off the treasures of the house of the LORD, as the LORD had declared (v. 13). Jeremiah 25:9 says the LORD will send for His servant Nebuchadnezzar king of Babylon and bring him against this land.",
+        "question": "How does Jeremiah 25:9 help you understand the LORD's part in the carrying off of the temple treasures?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "exposure",
+        "because": "the anger of the LORD caused all this to happen",
+        "feeling": "indifference, numbness",
+        "object": "the chaos in my life",
+        "behavior": "ignoring the cause",
+        "step": "look at the truth of my heart",
+        "template": "from today I bring my {feeling:indifference, numbness} about {object:the chaos in my life} into the light and instead of {behavior:ignoring the cause}, I will {step:look at the truth of my heart}."
       }
     }
   }

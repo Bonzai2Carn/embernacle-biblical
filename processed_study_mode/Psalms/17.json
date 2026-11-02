@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core emotional plea in Psalm 17 resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Examination of Heart",
-            "expansion": "The psalmist invites God's intimate scrutiny, trusting in complete transparency of personal motives."
-          },
-          {
-            "id": 2,
-            "text": "Protection from Wicked Enemies",
-            "expansion": "David seeks divine shelter from those who would destroy his integrity and spiritual journey."
-          },
-          {
-            "id": 3,
-            "text": "Longing for God's Righteous Guidance",
-            "expansion": "A profound desire to align one's path completely with divine will and justice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice requires complete self-honesty, what hidden motivations might we be avoiding in our own spiritual assessments?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine intervention intersect in seeking life's challenges?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of personal integrity change after reflecting on this psalm?",
-        "options": [
-          "Recognize the importance of internal motivations",
-          "Understand vulnerability as spiritual strength",
-          "See divine examination as opportunity, not threat",
-          "Reframe challenges as opportunities for spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual integrity is a collaborative process between human effort and divine transformation",
           "Divine examination reveals our dependence on redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 9-12",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you are surrounded by enemies who hunt you like lions. How does the promise of seeing God's face change your view of your current danger?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Jeremiah 17:10",
+        "summary": "The psalmist claims God has tried his heart and found no evil (v. 3). Jeremiah describes God as the one who searches the heart and examines the mind.",
+        "question": "How does knowing God examines the mind help you trust Him with the secret parts of your heart?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "I will be satisfied in Your presence",
+        "feeling": "restlessness, discontent",
+        "object": "the pursuit of more",
+        "behavior": "chasing temporary comforts",
+        "step": "rest in His presence",
+        "template": "from today I bring You my {feeling:restlessness, discontent} about {object:the pursuit of more} and instead of {behavior:chasing temporary comforts}, I will {step:rest in His presence}."
       }
     }
   }

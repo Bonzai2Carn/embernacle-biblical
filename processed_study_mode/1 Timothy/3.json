@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership quality resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Character",
-            "expansion": "Leadership begins with internal integrity before external influence."
-          },
-          {
-            "id": 2,
-            "text": "Family Management",
-            "expansion": "How one leads at home reveals their capacity to lead in broader contexts."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Temperament",
-            "expansion": "Spiritual leaders must demonstrate emotional and spiritual self-regulation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If leadership is about service, why do so many seek positions of authority for personal gain?"
-      },
-      "moral_slider": {
-        "question": "How do personal imperfections relate to spiritual leadership?",
-        "left_label": "Disqualification",
-        "right_label": "Grace and Growth"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized leadership as stewardship, not status",
-          "Understood character matters more than charisma",
-          "Saw leadership as a spiritual calling, not a career",
-          "Appreciated the holistic nature of spiritual qualification"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize spiritual gifts and calling over specific personal criteria",
           "Develop a nuanced, grace-based approach to leadership selection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul asks",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone choosing a leader. Paul says an overseer must manage his own household well, and asks how a man who cannot do that can care for the church of God. What do you weigh as you look at a man's household?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Ephesians 4:11-16",
+        "summary": "Paul lists the requirements for overseers and deacons (vv. 2-13). Ephesians 4:11-16 says Christ gave leaders to equip the saints and build up the body of Christ.",
+        "question": "How does the purpose of these leaders in Ephesians help you see the weight of the character requirements in 1 Timothy?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "those who have served well as deacons acquire for themselves a high standing and great confidence in the faith that is in Christ Jesus",
+        "feeling": "timidity, self-doubt",
+        "object": "serving in an unseen role",
+        "behavior": "holding back",
+        "step": "serve in one small way this week",
+        "template": "from today I let go of my {feeling:timidity, self-doubt} over {object:serving in an unseen role} and instead of {behavior:holding back}, I will {step:serve in one small way this week}."
       }
     }
   }

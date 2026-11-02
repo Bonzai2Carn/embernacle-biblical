@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic vision most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's mountain being exalted above all others",
-            "expansion": "The universal recognition of divine sovereignty transcends current geopolitical structures."
-          },
-          {
-            "id": 2,
-            "text": "Nations seeking divine instruction voluntarily",
-            "expansion": "Spiritual hunger emerges when human systems prove inadequate for true guidance."
-          },
-          {
-            "id": 3,
-            "text": "The dismantling of human pride",
-            "expansion": "Genuine spiritual transformation requires the deconstruction of human self-sufficiency."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instruction is universally available, why do humans persistently choose alternative paths?"
-      },
-      "moral_slider": {
-        "question": "How do human institutions relate to divine purpose?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual transformation?",
-        "options": [
-          "Recognized limitations of human wisdom",
-          "Understood global spiritual potential",
-          "Saw patterns of collective spiritual journey",
-          "Reconsidered personal spiritual assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As a prophetic promise of Christ's ultimate kingdom",
           "As a symbolic description of church expansion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Many peoples say",
+            "ref": "v. 3",
+            "speaker": "Many peoples"
+          },
+          {
+            "who": "The LORD will judge",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the nations streaming to this mountain. You seek His teaching and His paths. What does it mean to see the very weapons of war turned into tools for a field?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Proverbs 16:18",
+        "summary": "Isaiah describes a day when the pride of man is brought low and the LORD alone is exalted (v. 11, 17). Proverbs warns that this same pride is what precedes a fall.",
+        "question": "How does the warning in Proverbs help you recognize the danger in the 'lofty' things Isaiah describes?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "man has only the breath in his nostrils",
+        "feeling": "anxiety, fear",
+        "object": "the stability of my finances",
+        "behavior": "clinging to my own plans",
+        "step": "rest in His sovereignty",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the stability of my finances} and instead of {behavior:clinging to my own plans}, I will {step:rest in His sovereignty}."
       }
     }
   }

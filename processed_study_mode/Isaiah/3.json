@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about divine judgment in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Leadership Collapse",
-            "expansion": "The removal of capable leaders reveals systemic spiritual decay."
-          },
-          {
-            "id": 2,
-            "text": "Social Inversion",
-            "expansion": "When children and inexperienced rule, societal structures fundamentally break down."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Moral Decline",
-            "expansion": "Divine judgment manifests through the dismantling of social and institutional frameworks."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If leadership reflects a society's spiritual health, what does your community's current leadership reveal about its moral condition?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist?",
-        "left_label": "Punishment",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of societal transformation shifted?",
-        "options": [
-          "Recognizing systemic spiritual roots of social problems",
-          "Understanding leadership as a spiritual responsibility",
-          "Seeing judgment as potentially restorative",
-          "Acknowledging collective moral accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine correction occurs through natural societal mechanisms",
           "Spiritual accountability transcends human governmental structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD GOD of Hosts says",
+            "ref": "v. 4",
+            "speaker": "The LORD GOD of Hosts"
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people of Jerusalem and Judah. You hear that lads will lead you, and then that you have stumbled because you spoke and acted against the LORD. What do you weigh about how the two are connected?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Amos 2:6-8",
+        "summary": "The LORD charges the leaders of Jerusalem with devouring the vineyard and plundering the poor (v. 14-15). Amos brings a similar charge against Israel for trampling the poor and selling the righteous (Amos 2:6-8).",
+        "question": "How does Amos's description of injustice help you understand the specific charge the LORD brings against the elders in Isaiah?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the righteous will enjoy the fruit of their labor",
+        "feeling": "resentment",
+        "object": "the success of others",
+        "behavior": "comparing my progress to theirs",
+        "step": "rejoice in the good I see",
+        "template": "from today I let go of my {feeling:resentment} over {object:the success of others} and instead of {behavior:comparing my progress to theirs}, I will {step:rejoice in the good I see}."
       }
     }
   }

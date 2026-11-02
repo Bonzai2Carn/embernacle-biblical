@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine protection speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The sealing of God's servants",
-            "expansion": "Divine protection amid global chaos demonstrates God's intentional care for His people."
-          },
-          {
-            "id": 2,
-            "text": "The innumerable multitude from every nation",
-            "expansion": "God's redemptive plan transcends cultural and ethnic boundaries, revealing universal love."
-          },
-          {
-            "id": 3,
-            "text": "The angels restraining destructive winds",
-            "expansion": "Supernatural forces can pause judgment to allow for divine preparation and mercy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is marking His servants for protection, what truly constitutes being 'marked' in a spiritual sense?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine selection and universal salvation?",
-        "left_label": "Exclusive Salvation",
-        "right_label": "Inclusive Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of God's protective nature shifted?",
-        "options": [
-          "More aware of divine complexity",
-          "Recognize broader scope of God's mercy",
-          "See spiritual warfare differently",
-          "Understand prophetic symbolism more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical representation of the entire church",
           "Specific eschatological remnant during tribulation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "One of the elders asked",
+            "ref": "v. 13",
+            "speaker": "One of the elders"
+          },
+          {
+            "who": "John answers, and the answer is given",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in John's place, looking at the crowd in white robes. You are asked who they are and where they came from, and you answer, 'Sir, you know.' What would you understand about them when you hear that they came out of the great tribulation and washed their robes in the blood of the Lamb?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 49:10",
+        "summary": "The Lamb will be their shepherd and lead them to springs of living water (v. 17). Isaiah says they will not hunger or thirst, and He who has compassion on them will guide them beside springs of water (Isaiah 49:10).",
+        "question": "How does Isaiah 49:10 help you understand the Lamb leading the multitude to springs of living water?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the Lamb in the center of the throne will shepherd the multitude and lead them to springs of living water",
+        "feeling": "anxiety, fear",
+        "object": "a season of drought",
+        "behavior": "trying to find my own way",
+        "step": "rest in His provision",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a season of drought} to God and instead of {behavior:trying to find my own way}, I will {step:rest in His provision}."
       }
     }
   }

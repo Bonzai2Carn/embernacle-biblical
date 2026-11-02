@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual maturity concept resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Infancy",
-            "expansion": "Recognizing one's limitations and need for continued growth in understanding divine wisdom."
-          },
-          {
-            "id": 2,
-            "text": "Unity Over Division",
-            "expansion": "Understanding that theological tribalism undermines the holistic nature of Christ's body."
-          },
-          {
-            "id": 3,
-            "text": "God's Primary Work",
-            "expansion": "Acknowledging that spiritual transformation is ultimately God's project, not human achievement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual maturity is measured by humility and unity, how might your current theological certainties be preventing genuine growth?"
-      },
-      "moral_slider": {
-        "question": "Where do you stand between human wisdom and divine revelation?",
-        "left_label": "Human Intellect",
-        "right_label": "Spiritual Understanding"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual development?",
-        "options": [
-          "I see spiritual growth as more gradual",
-          "Unity matters more than doctrinal precision",
-          "My spiritual mentors are just servants, not saviors",
-          "I need to examine my own spiritual immaturity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God evaluates ministry based on spiritual fruit, not human metrics",
           "Genuine unity comes from Christ-centered focus, not human allegiances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The Corinthians say",
+            "ref": "v. 4",
+            "speaker": "Paul"
+          },
+          {
+            "who": "Paul says",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Corinthians, choosing sides between leaders. What does Paul's answer reveal about the true source of growth?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "James 3:14-16",
+        "summary": "Paul says the wisdom of this world is foolishness in God's sight (v. 19). James 3:14-16 says wisdom that comes with bitter jealousy and selfish ambition is earthly and unspiritual, and brings disorder and every evil practice.",
+        "question": "How does James 3:14-16 help you understand the wisdom of this world that Paul calls foolishness in verse 19?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "all things are yours, so there is no reason to boast in men",
+        "feeling": "insecurity, inadequacy",
+        "object": "my lack of status",
+        "behavior": "comparing my progress to others",
+        "step": "rest in my identity in Christ",
+        "template": "from today I let go of my {feeling:insecurity, inadequacy} over {object:my lack of status} and instead of {behavior:comparing my progress to others}, I will {step:rest in my identity in Christ}."
       }
     }
   }

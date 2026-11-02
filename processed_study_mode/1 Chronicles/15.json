@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intentional Spiritual Preparation",
-            "expansion": "David meticulously organized the Levites and priests to honor God's prescribed method of ark transportation."
-          },
-          {
-            "id": 2,
-            "text": "Communal Worship Celebration",
-            "expansion": "David gathered all Israel together, transforming a logistical task into a nationwide spiritual event."
-          },
-          {
-            "id": 3,
-            "text": "Theological Precision",
-            "expansion": "David insisted on following divine protocols, recognizing that spiritual methods matter as much as spiritual intentions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If obedience requires such careful preparation, what subtle compromises might we unknowingly make in our own spiritual practices?"
-      },
-      "moral_slider": {
-        "question": "How much should religious tradition shape spiritual practice?",
-        "left_label": "Flexible Adaptation",
-        "right_label": "Strict Adherence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship leadership changed?",
-        "options": [
-          "More aware of intentional spiritual preparation",
-          "Recognize the importance of community in worship",
-          "Understand leadership as following divine guidelines",
-          "See worship as a holistic, collective experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Obedience to divine instructions is more important than personal innovation",
           "Collective community participation is essential in spiritual endeavors"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 13",
+            "speaker": "David"
+          },
+          {
+            "who": "the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded in accordance with the word of the LORD",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Levites. You see that a previous attempt to move the ark ended in anger because the proper order was ignored. How does following the specific command of Moses change your approach to this task?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "2 Samuel 6:1-11",
+        "summary": "David, the elders, and the commanders go with rejoicing to bring the ark from the house of Obed-edom (v. 25). 2 Samuel 6:1-11 tells how the ark came to that house: after Uzzah died, David was unwilling to move it and took it aside to Obed-edom's house, where the LORD blessed him and his household.",
+        "question": "How does 2 Samuel 6:1-11 help you understand what lay behind the rejoicing in verse 25?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "Israel did not consult God about the proper order",
+        "feeling": "impatience, self-reliance",
+        "object": "a new project",
+        "behavior": "rushing ahead of His word",
+        "step": "stop and seek His direction",
+        "template": "from today I let go of my {feeling:impatience, self-reliance} over {object:a new project} and instead of {behavior:rushing ahead of His word}, I will {step:stop and seek His direction}."
       }
     }
   }

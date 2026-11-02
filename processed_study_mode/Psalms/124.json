@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of divine rescue resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God as Protector",
-            "expansion": "Divine intervention shields believers from overwhelming threats beyond human capability."
-          },
-          {
-            "id": "2",
-            "text": "Community Resilience",
-            "expansion": "Collective faith provides strength when individual resources seem insufficient."
-          },
-          {
-            "id": "3",
-            "text": "Unexpected Deliverance",
-            "expansion": "Salvation often arrives through unanticipated and seemingly improbable means."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine rescue is so certain, why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine protection?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has this psalm transformed your understanding of divine protection?",
-        "options": [
-          "Recognized vulnerability more clearly",
-          "Appreciated communal faith's power",
-          "Understood rescue as multidimensional",
-          "Saw divine intervention as nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates God's intervention happens beyond human capability",
           "Reveals spiritual warfare as a communal experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The people declare",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The people add",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people looking back at a disaster. What does this description of the flood tell you about what would have happened without God?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 46:1-3",
+        "summary": "The psalmist says floods and raging waters would have swept Israel away if the LORD had not been on their side (vv. 4-5). Psalm 46:1-3 calls God a refuge and an ever-present help, and says we will not fear though the waters roar and foam.",
+        "question": "How does Psalm 46:1-3 help you understand the LORD being on their side when the waters rose (vv. 4-5)?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "our help is in the name of the LORD, the Maker of heaven and earth",
+        "feeling": "panic, dread",
+        "object": "a sudden crisis",
+        "behavior": "trying to fix it alone",
+        "step": "rest in His power",
+        "template": "from today I bring You my {feeling:panic, dread} about {object:a sudden crisis} and instead of {behavior:trying to fix it alone}, I will {step:rest in His power}."
       }
     }
   }

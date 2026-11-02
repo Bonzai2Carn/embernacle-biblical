@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with you?",
-        "choices": [
-          {
-            "id": "blood",
-            "text": "The city's bloodguilt",
-            "expansion": "How systemic violence corrupts communal spiritual integrity"
-          },
-          {
-            "id": "idolatry",
-            "text": "Spiritual pollution through false worship",
-            "expansion": "The subtle ways humans replace divine connection with manufactured distractions"
-          },
-          {
-            "id": "consequence",
-            "text": "Inevitable judgment of societal decay",
-            "expansion": "How moral erosion naturally leads to structural collapse"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When societal corruption becomes normalized, at what point does individual responsibility transform into collective culpability?"
-      },
-      "moral_slider": {
-        "question": "How do divine standards of justice intersect with human perceptions of mercy?",
-        "left_label": "Human Compassion",
-        "right_label": "Divine Judgment"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of communal sin?",
-        "options": [
-          "Recognized systemic spiritual decay",
-          "Understood individual accountability",
-          "Appreciated divine perspective on justice",
-          "Challenged previous assumptions about judgment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understand judgment as redemptive rather than purely punitive",
           "Acknowledge institutional sins require comprehensive spiritual reformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the prophet. The LORD asks you to judge a city of bloodshed. What do you see in the list of sins that makes this judgment necessary?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "James 3:1",
+        "summary": "The LORD describes a city where leaders and prophets fail to uphold the law (v. 26-28). James warns that those who teach will be judged with greater strictness.",
+        "question": "How does the weight of judgment on teachers in James 3:1 help you understand the heavy responsibility of the prophets in this chapter?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "people in the city take bribes to shed blood and engage in usury",
+        "feeling": "greed, selfishness",
+        "object": "a business deal",
+        "behavior": "cutting corners to profit",
+        "step": "act with honesty and fairness",
+        "template": "from today I bring my {feeling:greed, selfishness} about {object:a business deal} into the light and instead of {behavior:cutting corners to profit}, I will {step:act with honesty and fairness}."
       }
     }
   }

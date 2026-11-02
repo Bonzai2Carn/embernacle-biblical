@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Challenging Religious Legalism",
-            "expansion": "Jesus confronts rigid interpretations that prevent compassionate action."
-          },
-          {
-            "id": 2,
-            "text": "Radical Inclusion of Disciples",
-            "expansion": "Christ calls unlikely individuals into transformative relationship and purpose."
-          },
-          {
-            "id": 3,
-            "text": "Confronting Spiritual Opposition",
-            "expansion": "Jesus directly engages spiritual forces that obstruct divine love and healing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of 'sacred space' limit your capacity for genuine compassion?"
-      },
-      "moral_slider": {
-        "question": "Where do you situate religious tradition in relationship to human need?",
-        "left_label": "Strict Observance",
-        "right_label": "Compassionate Adaptation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual authority shifted?",
-        "options": [
-          "More willing to challenge destructive systems",
-          "Recognize complexity beyond binary thinking",
-          "Understand leadership as service, not control",
-          "Embrace radical inclusivity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding spiritual authority as serving human dignity",
           "Challenging systemic religious barriers that prevent genuine spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jesus asked them",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus looked around at them",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those watching Jesus. He asks which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it. You stay silent, and then He looks around at you with anger and sorrow at your hardness of heart. What do you weigh in that moment?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Matthew 12:9-14",
+        "summary": "Mark 3 shows the men watching Jesus to see whether He would heal on the Sabbath (v. 2). Matthew 12:9-14 records the same healing scene, where the Pharisees ask whether it is lawful to heal on the Sabbath and then plot to kill Jesus.",
+        "question": "How does Matthew 12:9-14 help you understand why Jesus asks in Mark 3:4 which is lawful on the Sabbath?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "devotion",
+        "because": "whoever does the will of God is My brother and sister and mother",
+        "feeling": "loneliness, isolation",
+        "object": "a lack of family support",
+        "behavior": "seeking validation from others",
+        "step": "obey the next command I receive",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a lack of family support} and instead of {behavior:seeking validation from others}, I will {step:obey the next command I receive}."
       }
     }
   }

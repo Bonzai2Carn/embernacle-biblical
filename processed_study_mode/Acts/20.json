@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's missionary journey resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Persistent Courage",
-            "expansion": "Despite repeated threats, Paul continues preaching without wavering."
-          },
-          {
-            "id": "b",
-            "text": "Community Devotion",
-            "expansion": "Paul's profound emotional connection with fellow believers transcends geographical boundaries."
-          },
-          {
-            "id": "c",
-            "text": "Spiritual Resilience",
-            "expansion": "Paul demonstrates an unwavering commitment to his divine calling amid personal challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal comfort be hindering your spiritual mission?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between personal safety and spiritual calling?",
-        "left_label": "Self-Preservation",
-        "right_label": "Radical Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian mission evolved?",
-        "options": [
-          "More appreciation for sacrifice",
-          "Greater understanding of community",
-          "Deeper respect for spiritual leadership",
-          "Recognition of personal vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership transcends geographical boundaries",
           "Discipleship is fundamentally about spiritual reproduction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "Paul says the Spirit warns him",
+            "ref": "vv. 22-23",
+            "speaker": "Paul"
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 24",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Paul's place, knowing that chains and afflictions await you in town after town. What do you weigh when you say your life is of no value to you, if only you may finish your course?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "1 Peter 5:2-3",
+        "summary": "Paul charges the elders to be shepherds of the church that God purchased with His own blood (v. 28). Peter tells leaders to shepherd God's flock not out of greed but out of eagerness, as examples to the flock.",
+        "question": "Peter describes the heart a leader should have. How does this help you understand the weight of the responsibility Paul places on the elders at Miletus?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "practice",
+        "because": "it is more blessed to give than to receive",
+        "feeling": "selfishness, greed",
+        "object": "my limited resources",
+        "behavior": "hoarding what I have",
+        "step": "find a way to help someone in need",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my limited resources} and instead of {behavior:hoarding what I have}, I will {step:find a way to help someone in need}."
       }
     }
   }

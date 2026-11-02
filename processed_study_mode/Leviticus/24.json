@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which ritual detail speaks most deeply to spiritual discipline?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Continual lampstand maintenance",
-            "expansion": "Consistent spiritual attentiveness requires daily, intentional care"
-          },
-          {
-            "id": 2,
-            "text": "Pure olive oil symbolism",
-            "expansion": "Spiritual purity demands carefully selected, refined resources"
-          },
-          {
-            "id": 3,
-            "text": "Precise tabernacle protocols",
-            "expansion": "Divine relationship thrives on reverent, structured approach"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual precision reveals divine character, what does inconsistent worship reveal about our inner spiritual landscape?"
-      },
-      "moral_slider": {
-        "question": "How do sacred boundaries protect community versus potentially restrict spiritual expression?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Holiness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship transformed?",
-        "options": [
-          "More appreciative of intentional spiritual practice",
-          "Recognize deeper symbolic meanings in ritual",
-          "Understand divine desire for relational order",
-          "See spiritual discipline as sacred invitation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Contextual interpretation considering cultural and historical nuances",
           "Grace-centered approach prioritizing redemption over punishment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 22",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You live under a law that gives the foreign resident and the native the same standard. What does this equality tell you about how God views the resident and the native?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 27:20-21",
+        "summary": "The LORD commands the lamps to be kept burning continually (v. 2-3). Exodus gives the specific instructions for how the priests must maintain that light.",
+        "question": "How does the detail in Exodus help you see the weight of the responsibility Aaron held in Leviticus?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "the lamps are to be kept burning continually",
+        "feeling": "distraction, apathy",
+        "object": "my morning prayer",
+        "behavior": "skipping the quiet moments",
+        "step": "set a specific time to sit",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning prayer} and instead of {behavior:skipping the quiet moments}, I will {step:set a specific time to sit}."
       }
     }
   }

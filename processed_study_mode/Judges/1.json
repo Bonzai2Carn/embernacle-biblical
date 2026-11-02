@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership dynamic intrigues you most in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tribal Collaboration",
-            "expansion": "Judah and Simeon demonstrate cooperative strategy in territorial conquest."
-          },
-          {
-            "id": 2,
-            "text": "Divine Guidance",
-            "expansion": "God explicitly designates Judah as the lead tribe in confronting the Canaanites."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Execution",
-            "expansion": "The Israelites are actively fulfilling God's promised land distribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does cooperative tribal action reveal deeper spiritual interdependence beyond mere military strategy?"
-      },
-      "moral_slider": {
-        "question": "To what extent should divine mandate override human compassion in territorial conflicts?",
-        "left_label": "Human Mercy",
-        "right_label": "Divine Command"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical conquest evolved?",
-        "options": [
-          "More nuanced about historical context",
-          "Recognize complexity of divine instructions",
-          "Appreciate collective tribal responsibility",
-          "See spiritual metaphors beyond literal interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Incremental spiritual transformation is part of God's long-term strategy",
           "Covenant faithfulness requires persistent, comprehensive commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The Israelites asked",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the Israelites. You ask who will be first to go up and fight the Canaanites, and the LORD answers that Judah shall go up, for He has delivered the land into their hands. What do you understand from that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Deuteronomy 7:1-2",
+        "summary": "The LORD tells Judah to go up, for He has delivered the land into their hands (v. 2). Deuteronomy 7:1-2 speaks of the LORD delivering nations over to Israel to be defeated and devoted to complete destruction.",
+        "question": "How does Deuteronomy 7:1-2 help you understand what the LORD meant by delivering the land into Judah's hands?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "practice",
+        "because": "Israel never drove the Canaanites out completely",
+        "feeling": "complacency, laziness",
+        "object": "a small compromise",
+        "behavior": "leaving things unfinished",
+        "step": "finish the hard task",
+        "template": "from today I let go of my {feeling:complacency, laziness} over {object:a small compromise} and instead of {behavior:leaving things unfinished}, I will {step:finish the hard task}."
       }
     }
   }

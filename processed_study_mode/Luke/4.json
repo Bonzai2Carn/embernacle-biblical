@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of Jesus' wilderness experience most resonates with your spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resisting Physical Temptation",
-            "expansion": "Demonstrates spiritual discipline transcends immediate bodily desires"
-          },
-          {
-            "id": 2,
-            "text": "Challenging Spiritual Authority",
-            "expansion": "Reveals divine identity emerges through tested confrontation"
-          },
-          {
-            "id": 3,
-            "text": "Maintaining Scriptural Integrity",
-            "expansion": "Shows spiritual warfare is won through precise theological understanding"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine spiritual power manifest differently from performative demonstrations of strength?"
-      },
-      "moral_slider": {
-        "question": "To what extent should divine capabilities be used for personal versus collective benefit?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Communal Sacrifice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual testing transformed?",
-        "options": [
-          "More aware of subtle temptations",
-          "Recognize scriptural knowledge as defense",
-          "Understand spiritual growth requires challenges",
-          "See vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates divine strategy in confronting spiritual opposition",
           "Shows the importance of theological discernment in spiritual warfare"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The devil said to Him",
+            "ref": "v. 3",
+            "speaker": "The devil"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Jesus's place, facing a direct challenge to your identity. What does His response reveal about how He uses the Word when faced with hunger and pressure?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Isaiah 61:1-2",
+        "summary": "Jesus reads that the Spirit is on Him to preach good news to the poor (v. 18). Isaiah 61:1-2 says the same, and adds that the LORD sent Him to bind up the brokenhearted and to comfort all who mourn.",
+        "question": "How does Isaiah 61:1-2 help you understand the good news Jesus says He brings to the poor in Luke 4:18?"
+      },
+      "conviction": {
+        "verse": 43,
+        "frame": "practice",
+        "because": "Jesus must preach the good news of the kingdom of God to the other towns as well",
+        "feeling": "complacency, reluctance",
+        "object": "a successful season",
+        "behavior": "staying where it is easy",
+        "step": "seek a new place to serve",
+        "template": "from today I let go of my {feeling:complacency, reluctance} over {object:a successful season} and instead of {behavior:staying where it is easy}, I will {step:seek a new place to serve}."
       }
     }
   }

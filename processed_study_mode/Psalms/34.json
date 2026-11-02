@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea most powerfully represents David's reflection in this Psalm?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "God's deliverance of the humble",
-            "expansion": "Divine protection emerges most profoundly for those who recognize their spiritual vulnerability."
-          },
-          {
-            "id": "b",
-            "text": "Reverent fear of the Lord",
-            "expansion": "Authentic spiritual wisdom begins with a transformative respect for God's sovereignty."
-          },
-          {
-            "id": "c",
-            "text": "Personal testimony of God's faithfulness",
-            "expansion": "Personal narrative becomes a powerful vehicle for communicating spiritual truth and encouragement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of divine rescue change if you viewed challenges as opportunities for spiritual transformation rather than mere obstacles?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between human vulnerability and divine protection?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Strength"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on suffering and divine intervention evolved?",
-        "options": [
-          "I now see challenges as potential spiritual growth opportunities",
-          "I recognize the importance of maintaining hope during difficult times",
-          "I understand that personal testimony can inspire others",
-          "I appreciate the nuanced relationship between human limitations and divine power"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine deliverance is guaranteed for all believers regardless of circumstances",
           "Spiritual maturity is measured by the absence of challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who sought the Lord. You found an answer and freedom from fear. How does looking to Him change the way you appear to others?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Psalm 91:14-15",
+        "summary": "The psalmist describes a God who is near to the brokenhearted and saves the contrite (v. 18). Psalm 91:14-15 has God promising to deliver and answer the one who loves Him and calls on Him.",
+        "question": "How does God's promise to answer and deliver help you trust Him when you feel broken?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "the LORD is near to the brokenhearted",
+        "feeling": "despair, discouragement",
+        "object": "a heartbreak I carry",
+        "behavior": "pulling away from God",
+        "step": "pray plainly about the hurt",
+        "template": "from today I bring You my {feeling:despair, discouragement} about {object:a heartbreak I carry} and instead of {behavior:pulling away from God}, I will {step:pray plainly about the hurt}."
       }
     }
   }

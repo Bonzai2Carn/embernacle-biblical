@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which sacred rhythm of divine encounter resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sabbath Rest",
-            "expansion": "The divine invitation to cease striving and recognize inherent wholeness beyond human productivity."
-          },
-          {
-            "id": 2,
-            "text": "Communal Feasts",
-            "expansion": "Ritualized remembrance that transforms individual experience into collective spiritual narrative."
-          },
-          {
-            "id": 3,
-            "text": "Cyclical Worship",
-            "expansion": "Temporal patterns that reconnect human experience with divine rhythms and cosmic order."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine time is fundamentally different from human time, what becomes of our understanding of sacred observance?"
-      },
-      "moral_slider": {
-        "question": "How do structured religious practices balance personal spiritual authenticity with communal tradition?",
-        "left_label": "Individual Spontaneity",
-        "right_label": "Collective Ritual"
-      },
-      "reevaluation": {
-        "question": "How has your perception of religious observance transformed?",
-        "options": [
-          "More appreciative of symbolic meaning",
-          "Recognize deeper communal significance",
-          "See rhythmic spiritual discipline differently",
-          "Understand interconnectedness of sacred time"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Demonstration of covenant relationship dynamics",
           "Liturgical framework for spiritual discipline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Moses says",
+            "ref": "v. 22",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of a farmer reaping a heavy harvest. How does this command change how you view the edges of your own field?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Colossians 2:16-17",
+        "summary": "The LORD calls the tenth day of the seventh month the Day of Atonement and commands a sacred assembly (vv. 27-28). Paul says a feast, a New Moon, or a Sabbath is a shadow of things to come, but the body that casts it belongs to Christ.",
+        "question": "How does Paul's description of such feasts as shadows help you understand the Day of Atonement in Leviticus 23?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the seventh day is a Sabbath of complete rest",
+        "feeling": "anxiety, restlessness",
+        "object": "my growing to-do list",
+        "behavior": "working through my breaks",
+        "step": "stop and rest",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my growing to-do list} and instead of {behavior:working through my breaks}, I will {step:stop and rest}."
       }
     }
   }

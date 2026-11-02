@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's spiritual perspective resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Joy in Christ despite circumstances",
-            "expansion": "Paul demonstrates radical contentment transcending external challenges."
-          },
-          {
-            "id": 2,
-            "text": "Partnership in the Gospel",
-            "expansion": "Spiritual community is a profound source of mutual encouragement and strength."
-          },
-          {
-            "id": 3,
-            "text": "Living is Christ, dying is gain",
-            "expansion": "Paul's ultimate identity is defined by his relationship with Jesus, not worldly achievements."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perspective on suffering change if you viewed it as an opportunity for spiritual growth rather than a punishment?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and spiritual calling interact?",
-        "left_label": "Personal Comfort",
-        "right_label": "Spiritual Sacrifice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community evolved?",
-        "options": [
-          "Seeing community as transactional",
-          "Recognizing deeper spiritual interconnectedness",
-          "Understanding suffering as potentially transformative",
-          "Valuing spiritual partnership over individual achievement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal comfort and spiritual growth are mutually exclusive",
           "Divine purposes can transcend immediate human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The former preach Christ out of selfish ambition, not sincerely",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answers",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Philippians hearing these men preach. Some preach out of selfish ambition, yet Paul says Christ is still preached. What do you weigh more heavily: the motive of the preacher or the message itself?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 8:28",
+        "summary": "Paul expresses confidence that God will complete the good work He started in the Philippians (v. 6). Romans 8:28 shows how this work functions within God's larger purpose for all things.",
+        "question": "How does the promise that God works all things for good help you trust the completion of His work in you?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "devotion",
+        "because": "to live is Christ, and to die is gain",
+        "feeling": "fear, anxiety",
+        "object": "the loss of my reputation",
+        "behavior": "seeking approval from others",
+        "step": "focus on Christ's glory",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:the loss of my reputation} and instead of {behavior:seeking approval from others}, I will {step:focus on Christ's glory}."
       }
     }
   }

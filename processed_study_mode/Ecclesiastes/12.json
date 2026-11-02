@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphor of aging and mortality resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The declining physical strength",
-            "expansion": "Recognizing human fragility as a pathway to spiritual humility"
-          },
-          {
-            "id": 2,
-            "text": "The returning clouds after rain",
-            "expansion": "Understanding life's cyclical nature and inevitable decline"
-          },
-          {
-            "id": 3,
-            "text": "The final remembrance of the Creator",
-            "expansion": "Acknowledging divine connection as life's ultimate meaning"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If youth is the optimal time to remember one's Creator, what spiritual investments are you making before life's complexities overwhelm you?"
-      },
-      "moral_slider": {
-        "question": "How do you balance earthly pursuits with spiritual awareness?",
-        "left_label": "Temporal Achievement",
-        "right_label": "Eternal Perspective"
-      },
-      "reevaluation": {
-        "question": "How has this chapter transformed your understanding of life's purpose?",
-        "options": [
-          "Recognized mortality's spiritual urgency",
-          "Understood life's transient nature",
-          "Appreciated youth's spiritual potential",
-          "Reframed personal priorities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal accountability is more important than momentary pleasures",
           "Wisdom comes from early recognition of life's transient nature"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The Teacher says",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The Teacher says",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a student listening to these final warnings. How does the Teacher move from the exhaustion of endless study to the single duty of man?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 90:12",
+        "summary": "The Teacher says to remember your Creator before the days of adversity come and the years of which you will say, I find no pleasure in them (v. 1). The Psalmist asks to be taught to number our days, that we may present a heart of wisdom.",
+        "question": "How does the Psalmist's request for wisdom help you understand the Teacher's command to remember your Creator?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the whole duty of man is to fear God and keep His commandments",
+        "feeling": "anxiety, distraction",
+        "object": "my many responsibilities",
+        "behavior": "juggling everything at once",
+        "step": "obey the next clear command I receive",
+        "template": "from today I let go of my {feeling:anxiety, distraction} over {object:my many responsibilities} and instead of {behavior:juggling everything at once}, I will {step:obey the next clear command I receive}."
       }
     }
   }

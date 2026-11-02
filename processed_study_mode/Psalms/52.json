@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human pride resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Destructive boasting",
-            "expansion": "The psalm reveals how human pride can become a toxic force that undermines genuine human connection."
-          },
-          {
-            "id": 2,
-            "text": "False confidence in material wealth",
-            "expansion": "Trust in temporary riches ultimately leads to spiritual bankruptcy and disconnection from God."
-          },
-          {
-            "id": 3,
-            "text": "Persistent wickedness",
-            "expansion": "Continual rejection of moral truth creates a cycle of spiritual self-destruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between healthy self-confidence and destructive pride that separates us from divine wisdom?"
-      },
-      "moral_slider": {
-        "question": "How do human achievements balance with divine sovereignty?",
-        "left_label": "Human Achievement",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has this psalm challenged your understanding of personal power and spiritual dependency?",
-        "options": [
-          "I recognize my vulnerability",
-          "I see the dangers of self-glorification",
-          "I understand the importance of humility",
-          "I appreciate divine perspective over human perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Punishment demonstrates God's ultimate redemptive purpose",
           "Divine judgment reveals the consequences of persistent rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the psalmist. You see a mighty man boasting of evil, yet you find yourself flourishing like an olive tree. What makes your trust different from his strength?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 147:10-11",
+        "summary": "The psalmist points to the man who did not make God his refuge but trusted in the abundance of his wealth (v. 7). Psalm 147:10-11 says the LORD does not delight in the strength of the horse, but is pleased with those who fear Him and hope in His loving devotion.",
+        "question": "How does Psalm 147:10-11 help you understand the man who trusted his wealth instead of God in verse 7?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "devotion",
+        "because": "I trust in the loving devotion of God forever and ever",
+        "feeling": "anxiety, insecurity",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His faithfulness",
+        "template": "from today I bring You my {feeling:anxiety, insecurity} about {object:my uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His faithfulness}."
       }
     }
   }

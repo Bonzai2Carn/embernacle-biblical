@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core human struggle resonates most in this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Betrayal by false speakers",
-            "expansion": "The Psalm highlights humanity's capacity for deceitful communication that undermines trust."
-          },
-          {
-            "id": 2,
-            "text": "Divine protection of the vulnerable",
-            "expansion": "God's commitment to defending the weak against oppressive speech emerges as a central theme."
-          },
-          {
-            "id": 3,
-            "text": "The fragility of human integrity",
-            "expansion": "The rapid erosion of truthfulness in social relationships reveals human moral vulnerability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If words have such destructive power, how might genuine speech serve as a form of spiritual restoration?"
-      },
-      "moral_slider": {
-        "question": "How do human speech and divine intervention intersect in confronting social injustice?",
-        "left_label": "Human Powerlessness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perception of communication changed after reflecting on this Psalm?",
-        "options": [
-          "Words matter more than I previously understood",
-          "Divine judgment of speech is more serious than I realized",
-          "Truthfulness is a spiritual discipline",
-          "Community integrity depends on honest communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers are called to maintain truthful communication",
           "Spiritual discernment becomes crucial in a culture of manipulation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, saying the godly are no more. What do you understand when the LORD says He will now arise for the oppressed and the needy?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 18:30",
+        "summary": "The words of the LORD are flawless, like silver refined in a furnace (v. 6). Psalm 18:30 says God's way is perfect, the word of the LORD is flawless, and He is a shield to all who take refuge in Him.",
+        "question": "How does Psalm 18:30 help you understand why the words of the LORD in Psalm 12:6 can be trusted?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "You, O LORD, will keep us",
+        "feeling": "fear, anxiety",
+        "object": "the chaos around me",
+        "behavior": "looking for my own escape",
+        "step": "rest in His protection",
+        "template": "from today I bring You my {feeling:fear, anxiety} about {object:the chaos around me} and instead of {behavior:looking for my own escape}, I will {step:rest in His protection}."
       }
     }
   }

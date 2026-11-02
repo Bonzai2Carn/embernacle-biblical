@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your understanding of Christian transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Work of faith",
-            "expansion": "Faith is not passive but generates active, tangible spiritual momentum."
-          },
-          {
-            "id": 2,
-            "text": "Labor of love",
-            "expansion": "Genuine love manifests through committed, sacrificial service."
-          },
-          {
-            "id": 3,
-            "text": "Patience of hope",
-            "expansion": "Hope sustains believers through spiritual uncertainty and trials."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your spiritual journey be fundamentally different if you truly internalized that you are 'chosen' by God?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine election coexist with human agency?",
-        "left_label": "Complete Divine Sovereignty",
-        "right_label": "Full Human Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual transformation shifted?",
-        "options": [
-          "More aware of God's intentional selection",
-          "Recognize faith as active, not passive",
-          "Understanding spiritual growth as communal",
-          "Seeing suffering as part of spiritual development"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine election and human responsibility coexist mysteriously",
           "Salvation is a synergistic process between God's grace and human response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Thessalonians. Paul says he knows God has chosen you, because the gospel came to you in word, and also in power, in the Holy Spirit, and with great conviction. What do you recall about how it came to you?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "2 Corinthians 5:17",
+        "summary": "The Thessalonians turned from idols to serve the living God (v. 9). Paul describes a person becoming a new creation in a different letter.",
+        "question": "How does the reality of being a new creation help you understand the scale of the change the Thessalonians made when they left their idols?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "we continually recall before God your work of faith, your labor of love, and your hope in our Lord Jesus Christ",
+        "feeling": "distraction, apathy",
+        "object": "my daily routine",
+        "behavior": "going through the motions",
+        "step": "do one labor of love for someone",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my daily routine} and instead of {behavior:going through the motions}, I will {step:do one labor of love for someone}."
       }
     }
   }

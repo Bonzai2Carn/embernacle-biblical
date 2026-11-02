@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional journey resonates most in this psalm of lament?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Anguish",
-            "expansion": "The raw vulnerability of remembering past struggles and feeling distant from God's comfort."
-          },
-          {
-            "id": 2,
-            "text": "Historical Reflection",
-            "expansion": "Recalling God's past interventions as a pathway to understanding current suffering."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Wrestling",
-            "expansion": "The transformative process of moving from despair to tentative hope through memory and meditation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might persistent questioning of divine silence actually be a form of deep spiritual engagement rather than rejection?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate your spiritual resilience during periods of profound uncertainty?",
-        "left_label": "Doubt and Isolation",
-        "right_label": "Trust and Community"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on suffering and divine presence shifted?",
-        "options": [
-          "I now see struggle as potentially transformative",
-          "Historical precedent matters more than personal emotion",
-          "Questioning is itself a legitimate spiritual practice",
-          "Remembrance can be a healing mechanism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emotional vulnerability is a legitimate form of spiritual dialogue",
           "Remembering God's past faithfulness transforms present perspective"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 7-9",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist said",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You are asking whether God's favor is gone forever, but then you decide to remember His wonders. What do you weigh more heavily: the questions about His favor or His past deeds?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Lamentations 3:19-23",
+        "summary": "The psalmist asks if God has forgotten to be gracious (v. 9). Lamentations records a similar struggle where the writer remembers his affliction, yet finds hope in God's mercies that are new every morning.",
+        "question": "How does the promise of new mercies in Lamentations help you move from the questions in Psalm 77 to the remembrance in verse 11?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "remembrance",
+        "because": "I will reflect on all You have done and ponder Your mighty deeds",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "focusing on my problems",
+        "step": "list three things God has done",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:focusing on my problems}, I will {step:list three things God has done}."
       }
     }
   }

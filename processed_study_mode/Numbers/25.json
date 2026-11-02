@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with you in this challenging passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Compromise",
-            "expansion": "How subtle influences can gradually erode collective faithfulness"
-          },
-          {
-            "id": 2,
-            "text": "Divine Judgment",
-            "expansion": "The profound consequences of communal moral deviation"
-          },
-          {
-            "id": 3,
-            "text": "Zealous Intervention",
-            "expansion": "Radical actions taken to restore spiritual integrity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does cultural adaptation become spiritual capitulation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine justice with divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Graceful Restoration"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual boundaries?",
-        "options": [
-          "I see the danger of incremental compromise",
-          "I recognize the seriousness of collective sin",
-          "I understand leadership's responsibility in spiritual health",
-          "I'm more aware of cultural infiltration risks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's actions highlight the importance of maintaining spiritual boundaries",
           "Judgment serves as a redemptive mechanism for collective spiritual restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Israel joined in worshiping Baal of Peor",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Phinehas drove the spear through both of them",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are standing in the assembly. You hear that Israel joined in worshiping Baal of Peor and the anger of the LORD burned against them. Then you see Phinehas follow an Israelite into his tent and drive the spear through both of them, and the plague is halted. What do you weigh about this, and what do you still wonder about?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "1 Corinthians 10:12",
+        "summary": "The men of Israel began to indulge in sexual immorality with the daughters of Moab and joined in worshiping Baal of Peor (vv. 1-3). Paul writes that the one who thinks he is standing firm should be careful not to fall (1 Corinthians 10:12).",
+        "question": "How does Paul's warning help you understand what happened to Israel at Shittim?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "devotion",
+        "because": "Phinehas was zealous for the LORD's sake among the Israelites",
+        "feeling": "indifference, apathy",
+        "object": "the things God loves",
+        "behavior": "blending in with the crowd",
+        "step": "stand up for what is right",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the things God loves} and instead of {behavior:blending in with the crowd}, I will {step:stand up for what is right}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What significance emerges from Abraham's later family life?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Legacy beyond Isaac",
-            "expansion": "Abraham's descendants through other wives demonstrate divine providence extends beyond primary inheritance lines."
-          },
-          {
-            "id": 2,
-            "text": "Intentional Distribution",
-            "expansion": "Abraham's deliberate allocation of resources reveals strategic spiritual inheritance planning."
-          },
-          {
-            "id": 3,
-            "text": "Generational Complexity",
-            "expansion": "Multiple wives and children illustrate the nuanced human dynamics underlying biblical genealogies."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might Abraham's choices with multiple wives reflect broader spiritual principles about divine promise and human agency?"
-      },
-      "moral_slider": {
-        "question": "To what extent does biological lineage determine spiritual inheritance?",
-        "left_label": "Blood Connection",
-        "right_label": "Spiritual Covenant"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical family dynamics evolved?",
-        "options": [
-          "More appreciative of complex genealogical narratives",
-          "Recognized divine plan transcends linear inheritance",
-          "Understood patriarchal relationships more nuancedly",
-          "Saw human imperfection within spiritual journeys"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Inheritance is determined solely by biological descent",
           "Divine promises transcend narrow ethnic boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 32,
+        "exchange": [
+          {
+            "who": "Jacob replied",
+            "ref": "v. 31",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "Esau said",
+            "ref": "v. 32",
+            "speaker": "Esau"
+          }
+        ],
+        "question": "Put yourself in Esau's place. Jacob asks you to sell him your birthright first. What would you weigh as you answer that you are about to die and ask what good a birthright is to you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 9:6-8",
+        "summary": "Abraham gives everything to Isaac and sends the other sons away while he is still alive (vv. 5-6). Paul says the children of the promise, not all of Abraham's descendants, are regarded as offspring (Romans 9:6-8).",
+        "question": "How does Romans 9:6-8 help you understand which of Abraham's children is counted as his offspring?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "trust",
+        "because": "Esau despised his birthright",
+        "feeling": "impulse, carelessness",
+        "object": "a promise I cannot see yet",
+        "behavior": "trading what lasts for quick relief",
+        "step": "wait on what God has promised",
+        "template": "from today I entrust my {feeling:impulse, carelessness} about {object:a promise I cannot see yet} to God and instead of {behavior:trading what lasts for quick relief}, I will {step:wait on what God has promised}."
       }
     }
   }

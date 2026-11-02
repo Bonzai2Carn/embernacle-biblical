@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership's vulnerability strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Saul's tragic fall",
-            "expansion": "Leadership can crumble under external pressure and personal weakness."
-          },
-          {
-            "id": 2,
-            "text": "The consequence of spiritual disobedience",
-            "expansion": "Divine judgment manifests through historical events and personal consequences."
-          },
-          {
-            "id": 3,
-            "text": "The brutality of warfare",
-            "expansion": "Military conflict exposes the profound human cost of political and territorial disputes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a leader's moral failings precede their downfall, does the system or the individual bear ultimate responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and leadership accountability intersect?",
-        "left_label": "Individual Survival",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine judgment shifted?",
-        "options": [
-          "Recognize the complexity of spiritual accountability",
-          "Understand the fragility of political power",
-          "Appreciate the nuanced nature of historical narratives",
-          "Reflect on personal moral boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God's sovereign plans transcend individual human choices",
           "Moral failures demonstrate the complexity of human spiritual journeys"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The chronicler records why Saul died and who received the kingdom",
+            "ref": "vv. 13-14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing why Saul died. He did not keep the word of the LORD, he consulted a medium, and he failed to inquire of the LORD, and the kingdom went to David son of Jesse. What do you weigh as you hear this?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "1 Samuel 15:23",
+        "summary": "The chronicler says Saul died because he did not keep the word of the LORD and consulted a medium (v. 13). 1 Samuel 15:23 says rebellion is like the sin of divination, and that rejecting the word of the LORD means being rejected as king.",
+        "question": "How does 1 Samuel 15:23 help you understand the weight of consulting a medium in verse 13?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "Saul failed to inquire of the LORD",
+        "feeling": "anxiety, restlessness",
+        "object": "a difficult decision",
+        "behavior": "deciding on my own",
+        "step": "ask the LORD for direction",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a difficult decision} and instead of {behavior:deciding on my own}, I will {step:ask the LORD for direction}."
       }
     }
   }

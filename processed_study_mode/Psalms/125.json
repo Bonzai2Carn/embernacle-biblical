@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual metaphor resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mountains surrounding Jerusalem",
-            "expansion": "Divine protection encircles believers like an immovable geographical barrier"
-          },
-          {
-            "id": 2,
-            "text": "The rod of wickedness not resting on righteous land",
-            "expansion": "God's sovereignty ensures evil cannot permanently dominate those who follow divine principles"
-          },
-          {
-            "id": 3,
-            "text": "Doing good for the upright in heart",
-            "expansion": "Spiritual integrity attracts divine favor and transformative grace"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might persistent trust create its own form of spiritual resilience, even when external circumstances seem overwhelming?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal faithfulness influence divine protection?",
-        "left_label": "Individual Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual stability shifted?",
-        "options": [
-          "Trust is an active, not passive, stance",
-          "Protection comes through persistent alignment",
-          "Spiritual resilience transcends external challenges",
-          "Community matters in maintaining spiritual integrity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine security exists, but does not exempt believers from challenges",
           "Spiritual protection is a collaborative effort between God and the believer"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one who trusts in the LORD. You hear that you are like Mount Zion, and that the LORD surrounds His people as mountains surround Jerusalem. What does that picture tell you about where you stand?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Zechariah 2:5",
+        "summary": "The psalmist says the LORD surrounds His people as mountains surround Jerusalem (v. 2). In Zechariah 2:5 the LORD says He will be a wall of fire around it and the glory within it.",
+        "question": "How does the wall of fire in Zechariah 2:5 help you see the way the LORD surrounds His people in verse 2?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "those who trust in the LORD are like Mount Zion",
+        "feeling": "anxiety, fear",
+        "object": "a changing situation",
+        "behavior": "looking for a way to control it",
+        "step": "rest in His permanence",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:a changing situation} and instead of {behavior:looking for a way to control it}, I will {step:rest in His permanence}."
       }
     }
   }

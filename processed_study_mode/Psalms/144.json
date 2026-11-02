@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine protection resonates most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as a fortress and deliverer",
-            "expansion": "Understanding divine protection as a comprehensive shield against life's challenges."
-          },
-          {
-            "id": 2,
-            "text": "Human insignificance compared to God's majesty",
-            "expansion": "Recognizing human transience against the eternal power of the divine."
-          },
-          {
-            "id": 3,
-            "text": "Praise as a form of spiritual warfare",
-            "expansion": "Acknowledging worship as a transformative act of spiritual resistance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is so complete, why do righteous people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do human effort and divine intervention balance in personal victory?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine protection evolved?",
-        "options": [
-          "More aware of spiritual dimensions",
-          "Recognize personal responsibility",
-          "Appreciate metaphorical power of psalmic language",
-          "See protection as relational, not transactional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By transforming internal spiritual perspectives",
           "Through providential orchestration of circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You ask what man is that the LORD regards him, then say man is like a breath and his days like a passing shadow. What do you understand about the one the LORD regards?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 103:15-16",
+        "summary": "The psalmist says man is like a breath and a passing shadow (v. 4). Psalm 103:15-16 says man's days are like grass, he blooms like a flower of the field, and when the wind passes over he vanishes.",
+        "question": "How does the picture of grass and a flower in Psalm 103:15-16 help you weigh the LORD's regard for man in verse 3?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "blessed are the people whose God is the LORD",
+        "feeling": "anxiety, restlessness",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His sovereignty",
+        "template": "from today I bring You my {feeling:anxiety, restlessness} about {object:my uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His sovereignty}."
       }
     }
   }

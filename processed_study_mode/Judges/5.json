@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about leadership in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Voluntary Leadership",
-            "expansion": "True leadership emerges when people willingly offer themselves for a collective purpose."
-          },
-          {
-            "id": 2,
-            "text": "Divine Empowerment",
-            "expansion": "Leadership is ultimately sustained by divine intervention and supernatural support."
-          },
-          {
-            "id": 3,
-            "text": "Celebratory Recognition",
-            "expansion": "Victories are moments of communal praise and theological reflection, not just military achievement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does personal courage intersect with divine providence in moments of national transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent is national deliverance a product of human agency versus divine intervention?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine guidance shifted?",
-        "options": [
-          "I see leadership as more collaborative",
-          "I recognize spiritual dimensions in collective action",
-          "I understand victory as a complex interplay of human and divine factors",
-          "I appreciate the role of celebration and reflection after challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Military victories are purely strategic, with no supernatural component",
           "Spiritual power manifests through collaborative partnership between divine initiative and human surrender"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Deborah and Barak sing",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The mountains quake before the LORD",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people listening to this song. You hear a call to sing praise to the LORD, the God of Israel, and then that the mountains quake before Him. What do you understand about why He is worthy of praise, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 15:1-3",
+        "summary": "Deborah and Barak sing that they will sing to the LORD, the God of Israel (v. 3). Moses and the Israelites sang a similar song after the sea, saying the LORD is highly exalted and is their strength and salvation (Exodus 15:1-3).",
+        "question": "How does the song of Moses at the sea help you understand why Deborah and Barak begin by singing praise to the LORD?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "devotion",
+        "because": "the song asks that those who love the LORD shine like the sun at its brightest",
+        "feeling": "indifference, coldness",
+        "object": "a quiet week in my faith",
+        "behavior": "loving God in name only",
+        "step": "serve someone in His name",
+        "template": "from today I bring You my {feeling:indifference, coldness} about {object:a quiet week in my faith} and instead of {behavior:loving God in name only}, I will {step:serve someone in His name}."
       }
     }
   }

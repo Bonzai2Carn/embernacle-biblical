@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme resonates most deeply with you in this psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Praise",
-            "expansion": "The psalm suggests that all creation is invited to worship, transcending human boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Divine Righteousness",
-            "expansion": "God's justice and faithfulness are proclaimed as fundamental to His nature."
-          },
-          {
-            "id": 3,
-            "text": "Celebratory Worship",
-            "expansion": "The psalm is a jubilant expression of joy and thanksgiving for God's redemptive acts."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is a universal language, what prevents humans from experiencing collective harmony?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human free will interact in worship?",
-        "left_label": "Predetermined Worship",
-        "right_label": "Voluntary Praise"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship transformed?",
-        "options": [
-          "More inclusive of all creation",
-          "Deeper appreciation of divine justice",
-          "Recognizing worship as a response, not a duty",
-          "Understanding praise as a cosmic event"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship is limited to human religious practices",
           "Divine victory is metaphorical rather than literal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those hearing this call. You are told to sing a new song because He has done wonders and revealed His righteousness to the nations. What would your song be about?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Isaiah 52:10",
+        "summary": "The psalmist says His right hand and holy arm have gained Him the victory (v. 1), and He has revealed His salvation to the nations (v. 2). Isaiah 52:10 says the LORD has bared His holy arm in the sight of all the nations, and all the ends of the earth will see the salvation of our God.",
+        "question": "How does Isaiah 52:10 help you see the weight of the holy arm and the salvation shown to the nations in verses 1-2?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "all the earth is called to make a joyful noise to the LORD and sing praises",
+        "feeling": "apathy, numbness",
+        "object": "my daily routine",
+        "behavior": "muttering complaints",
+        "step": "find one thing to thank Him for",
+        "template": "from today I bring You my {feeling:apathy, numbness} about {object:my daily routine} and instead of {behavior:muttering complaints}, I will {step:find one thing to thank Him for}."
       }
     }
   }

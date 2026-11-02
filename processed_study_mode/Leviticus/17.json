@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sacred Blood Significance",
-            "expansion": "Blood represents life's sacred essence, demanding profound ritual respect and spiritual accountability."
-          },
-          {
-            "id": 2,
-            "text": "Communal Accountability",
-            "expansion": "Individual actions have collective spiritual consequences within the community's sacred covenant."
-          },
-          {
-            "id": 3,
-            "text": "Ritualistic Precision",
-            "expansion": "Divine instructions require meticulous obedience as a form of spiritual discipline and reverence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If blood represents life's sanctity, how might our contemporary practices diminish or honor this ancient understanding?"
-      },
-      "moral_slider": {
-        "question": "How do ritual practices shape spiritual authenticity?",
-        "left_label": "External Ritualism",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "Recognize deeper interconnectedness",
-          "Appreciate symbolic meaning over literal interpretation",
-          "Understand ritual's role in spiritual formation",
-          "See divine instructions as wisdom, not constraint"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Centralized worship demonstrates God's desire for structured relationship",
           "Prohibition of consuming blood highlights spiritual boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Moses says",
+            "ref": "v. 10",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The reason is given",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing this command. What does the reason for this prohibition reveal about how God views the value of life?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Hebrews 9:22",
+        "summary": "Leviticus explains that blood is given to make atonement for the soul (v. 11). Hebrews says nearly everything is purified with blood, and without the shedding of blood there is no forgiveness (Hebrews 9:22).",
+        "question": "How does Hebrews 9:22 help you understand why Leviticus gives blood to make atonement for the soul?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "exposure",
+        "because": "a man who does not wash his clothes and bathe himself bears his iniquity",
+        "feeling": "guilt, shame",
+        "object": "a hidden mistake",
+        "behavior": "avoiding confession",
+        "step": "tell someone I trust what I did",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a hidden mistake} into the light and instead of {behavior:avoiding confession}, I will {step:tell someone I trust what I did}."
       }
     }
   }

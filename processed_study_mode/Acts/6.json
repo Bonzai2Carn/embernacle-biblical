@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Delegating Responsibilities",
-            "expansion": "Recognizing that spiritual leaders can't do everything personally"
-          },
-          {
-            "id": 2,
-            "text": "Addressing Systemic Inequity",
-            "expansion": "Proactively solving structural problems within a growing community"
-          },
-          {
-            "id": 3,
-            "text": "Maintaining Organizational Unity",
-            "expansion": "Resolving conflicts without fracturing the collective mission"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When resources are limited, how do you determine whose needs receive priority?"
-      },
-      "moral_slider": {
-        "question": "How do practical needs relate to spiritual mission?",
-        "left_label": "Spiritual Purity",
-        "right_label": "Practical Service"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of church leadership evolved?",
-        "options": [
-          "Leadership is about empowering others",
-          "Diversity strengthens community",
-          "Spiritual work requires practical support",
-          "Conflict can lead to growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Develop a collaborative model where spiritual and practical ministries are interconnected",
           "Prioritize spiritual teaching over community welfare"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The narrator reports",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The Twelve said",
+            "ref": "vv. 2-4",
+            "speaker": "The Twelve"
+          }
+        ],
+        "question": "Imagine you are one of the disciples. Widows are being overlooked in the daily distribution, and the Twelve say it is unacceptable for them to neglect the word of God to wait on tables. What would you weigh in their answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Exodus 18:13-27",
+        "summary": "The Twelve ask the disciples to select seven men full of the Spirit and wisdom for this responsibility (vv. 2-3). In Exodus 18:13-27, Moses' father-in-law tells him to select capable men to share the load, because the task is too heavy for him alone.",
+        "question": "How does the advice given to Moses help you see the purpose of the seven men chosen in this chapter?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "Stephen's face was like the face of an angel",
+        "feeling": "shame, inadequacy",
+        "object": "the judgment of others",
+        "behavior": "hiding my true self",
+        "step": "stand steady in His presence",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:the judgment of others} into the light and instead of {behavior:hiding my true self}, I will {step:stand steady in His presence}."
       }
     }
   }

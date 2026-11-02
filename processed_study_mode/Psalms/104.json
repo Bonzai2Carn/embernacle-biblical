@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's creative power resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Design of Natural Order",
-            "expansion": "God meticulously orchestrates complex ecological systems with intentional harmony."
-          },
-          {
-            "id": 2,
-            "text": "Continuous Divine Sustenance",
-            "expansion": "Creation is not a one-time event, but a perpetual divine engagement and renewal."
-          },
-          {
-            "id": 3,
-            "text": "Transcendent yet Intimately Present Creator",
-            "expansion": "The Creator simultaneously dwells beyond comprehension and within every intricate detail of existence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the entire universe declares God's glory, how might our perception of 'randomness' be fundamentally misunderstood?"
-      },
-      "moral_slider": {
-        "question": "How do we balance human agency with divine providence?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of creation and Creator shifted?",
-        "options": [
-          "Seeing nature as more intentional",
-          "Recognizing deeper interconnectedness",
-          "Understanding divine creativity differently",
-          "Experiencing a more holistic spiritual perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Natural systems operate independently of divine oversight",
           "Divine providence encompasses intricate ecological relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 33,
+        "exchange": [
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 31",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist vows",
+            "ref": "v. 33",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the psalmist. You ask that the glory of the LORD endure forever and that He rejoice in His works. Then you vow to sing to Him all your life. How does that vow change the way you would use your days?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Colossians 1:16-17",
+        "summary": "Psalm 104 says the LORD made all His works in wisdom and the earth is full of His creatures (v. 24). Colossians 1:16-17 says all things were created through Him and for Him, and in Him all things hold together.",
+        "question": "How does Colossians 1:16-17 help you see the wisdom behind the works the psalmist counts in verse 24?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "when You open Your hand, they are satisfied with good things",
+        "feeling": "anxiety, restlessness",
+        "object": "my future needs",
+        "behavior": "striving to control everything",
+        "step": "rest in His provision",
+        "template": "from today I bring You my {feeling:anxiety, restlessness} about {object:my future needs} and instead of {behavior:striving to control everything}, I will {step:rest in His provision}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core insight most profoundly resonates with you about God's relationship with Israel?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Obedience as a path to blessing",
-            "expansion": "Following divine commandments creates a transformative covenant of mutual commitment."
-          },
-          {
-            "id": 2,
-            "text": "God's uniqueness among all deities",
-            "expansion": "The Lord transcends human-constructed religious systems through direct, personal engagement."
-          },
-          {
-            "id": 3,
-            "text": "Remembrance as spiritual discipline",
-            "expansion": "Actively recalling divine interventions sustains communal and personal faith."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are meant to preserve life and community, what unexamined assumptions might prevent us from truly understanding their deeper purpose?"
-      },
-      "moral_slider": {
-        "question": "How do individual choices impact collective spiritual destiny?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "In reflecting on this chapter, how has your understanding of divine guidance evolved?",
-        "options": [
-          "More aware of spiritual consequences",
-          "Recognize complexity of faith journey",
-          "Appreciate nuanced interpretation of commandments",
-          "See collective responsibility differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Via ritualistic religious practices",
           "Through personal interpretation of divine requirements"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people saw",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The people held fast",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who witnessed the destruction at Baal-peor. What does it mean that some perished while others remained alive to this day?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Exodus 20:4-6",
+        "summary": "The LORD spoke to the people from the fire at Horeb without showing any form (v. 12). Exodus 20:4-6, part of the Ten Commandments, forbids making an idol in the form of anything in heaven, on earth, or in the waters.",
+        "question": "How does the absence of a visible form at the mountain help you understand the command to avoid making idols?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "practice",
+        "because": "the LORD is God in heaven above and on the earth below; there is no other",
+        "feeling": "anxiety, doubt",
+        "object": "the uncertainty of my future",
+        "behavior": "looking for security in people",
+        "step": "acknowledge His sovereignty in every detail",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:the uncertainty of my future} and instead of {behavior:looking for security in people}, I will {step:acknowledge His sovereignty in every detail}."
       }
     }
   }

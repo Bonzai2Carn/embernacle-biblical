@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment is inevitable",
-            "expansion": "Human resistance cannot ultimately prevent God's ordained consequences."
-          },
-          {
-            "id": 2,
-            "text": "Survival requires radical surrender",
-            "expansion": "True wisdom sometimes means accepting uncomfortable strategic realities."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic truth often confronts comfortable narratives",
-            "expansion": "Authentic spiritual messaging frequently challenges prevailing social assumptions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you discern between personal preference and genuine prophetic revelation?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between divine sovereignty and human agency?",
-        "left_label": "Human Free Will",
-        "right_label": "Divine Predetermined Plan"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual messaging evolved?",
-        "options": [
-          "I'm more open to challenging perspectives",
-          "I recognize complexity in spiritual communication",
-          "I understand consequences have deeper spiritual dimensions",
-          "I see prophecy as nuanced, not simplistic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine plans accommodate human free will",
           "Prophetic warnings are primarily symbolic, not predictive"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The officials said to the king",
+            "ref": "v. 4",
+            "speaker": "The officials"
+          },
+          {
+            "who": "Jeremiah replied",
+            "ref": "v. 15",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in the place of the officials. You see a man's words as a threat to your people's survival. What would you still wonder about a man who says that telling you the truth will lead to his death?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Ezekiel 2:6-7",
+        "summary": "Jeremiah tells Zedekiah to obey the voice of the LORD so that it may go well with him and he may live (v. 20). God tells Ezekiel to speak His words to a rebellious house, whether they listen or refuse to listen (Ezekiel 2:6-7).",
+        "question": "How does God's command to speak whether they listen or refuse help you understand Jeremiah's plain word to Zedekiah in verse 20?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "obeying the voice of the LORD means it goes well and the one who obeys will live",
+        "feeling": "anxiety, dread",
+        "object": "a difficult decision",
+        "behavior": "seeking human approval",
+        "step": "listen for His direction",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult decision} and instead of {behavior:seeking human approval}, I will {step:listen for His direction}."
       }
     }
   }

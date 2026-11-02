@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Faith transcends human effort",
-            "expansion": "Divine acceptance is not earned through performance but received through trust."
-          },
-          {
-            "id": 2,
-            "text": "Righteousness is imputed, not achieved",
-            "expansion": "God credits faith as equivalent to perfect obedience."
-          },
-          {
-            "id": 3,
-            "text": "Grace supersedes human merit",
-            "expansion": "Salvation is a gift that cannot be purchased or manipulated."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If faith is credited as righteousness, what transforms mere intellectual assent into genuine trust?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the source of spiritual transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Initiative"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of salvation evolved?",
-        "options": [
-          "I see faith as more relational than transactional",
-          "I recognize grace as unmerited favor",
-          "I understand righteousness as a gift, not an achievement",
-          "I appreciate the radical nature of God's acceptance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Belief itself is a transformative spiritual currency",
           "Divine grace operates independent of human performance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul contrasts wages with gifts",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a worker expecting a paycheck. How does the distinction between an obligation and a gift change how you view your standing before God?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Genesis 15:5-6",
+        "summary": "Paul says Abraham believed God and it was credited to him as righteousness (v. 3). Genesis 15:5-6 shows what God said just before: He took Abram outside, told him to count the stars, and said, 'So shall your offspring be.'",
+        "question": "How does the promise about the stars in Genesis 15:5-6 help you understand what Abraham believed in Romans 4:3?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "trust",
+        "because": "God was able to do what He had promised",
+        "feeling": "anxiety, doubt",
+        "object": "a delayed outcome",
+        "behavior": "doubting the promise",
+        "step": "give glory to God",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a delayed outcome} to God and instead of {behavior:doubting the promise}, I will {step:give glory to God}."
       }
     }
   }

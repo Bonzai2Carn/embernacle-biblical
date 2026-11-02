@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's strategic military support",
-            "expansion": "Divine guidance transforms seemingly impossible military challenges into decisive victories."
-          },
-          {
-            "id": 2,
-            "text": "Comprehensive territorial conquest",
-            "expansion": "The systematic removal of entrenched cultural and territorial opposition represents spiritual transformation."
-          },
-          {
-            "id": 3,
-            "text": "Covenant fulfillment through conflict",
-            "expansion": "God's promises are realized through active, sometimes difficult human participation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises require human effort, at what point does obedience become collaboration rather than mere submission?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile the narrative of divine-sanctioned conquest with contemporary understandings of peace?",
-        "left_label": "Absolute Pacifism",
-        "right_label": "Justified Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance and human agency shifted after examining this chapter?",
-        "options": [
-          "Recognized complexity of spiritual warfare",
-          "Understood nuanced relationship between divine promise and human action",
-          "Challenged simplistic interpretations of biblical conquest narratives",
-          "Appreciated strategic dimensions of spiritual transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine commands reveal the absolute holiness of God and the consequences of unrepentance",
           "The narrative demonstrates God's preferential protection of His covenant people"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The kings joined forces and encamped to fight Israel",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD said to Joshua",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Joshua's place. You face an army as numerous as the sand on the seashore with horses and chariots. What does the LORD's command to destroy their advantage change about how you view the coming battle?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Deuteronomy 7:1-2",
+        "summary": "Joshua eliminates the Anakim and devotes them and their cities to destruction (v. 21). Deuteronomy 7:1-2 speaks of the LORD delivering nations over to Israel to be devoted to complete destruction, with no treaty.",
+        "question": "How does Deuteronomy 7:1-2 help you understand what it means that Joshua devoted the Anakim to destruction?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "Joshua left nothing undone of all that the LORD had commanded Moses",
+        "feeling": "distraction, laziness",
+        "object": "a difficult task",
+        "behavior": "skipping the hard parts",
+        "step": "complete every detail with care",
+        "template": "from today I let go of my {feeling:distraction, laziness} over {object:a difficult task} and instead of {behavior:skipping the hard parts}, I will {step:complete every detail with care}."
       }
     }
   }

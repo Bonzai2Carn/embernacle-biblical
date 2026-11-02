@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment strikes you most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Profound Disappointment",
-            "expansion": "The Creator's lament over children who have turned away despite intimate nurturing."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Moral Corruption",
-            "expansion": "The comprehensive breakdown of societal ethics and spiritual accountability."
-          },
-          {
-            "id": 3,
-            "text": "Potential for Redemption",
-            "expansion": "Even in profound judgment, God offers a pathway of restoration and cleansing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is unconditional, how do we understand the severity of spiritual consequences?"
-      },
-      "moral_slider": {
-        "question": "How do personal and collective responsibility intersect in spiritual accountability?",
-        "left_label": "Individual Fault",
-        "right_label": "Communal Sin"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved?",
-        "options": [
-          "More nuanced perspective on consequences",
-          "Greater appreciation for spiritual restoration",
-          "Deeper recognition of systemic spiritual challenges",
-          "Increased empathy for divine perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment is always preceded by patient calls to repentance",
           "God's love persistently offers redemption even amid profound human failure"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 18",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 19",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this invitation. The LORD offers to make even scarlet sins white as snow. What does His condition for eating the best of the land make you weigh in your own heart?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Amos 5:21-24",
+        "summary": "The LORD rejects the religious festivals and sacrifices of Israel because they are paired with injustice (v. 11-15). Amos delivers a similar charge to a nation that maintains its rituals while ignoring the cry of the oppressed (vv. 21-24).",
+        "question": "How does Amos's description of empty worship help you understand why the LORD calls the people's incense detestable in Isaiah?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "doing right means seeking justice, correcting the oppressor, and pleading the case of the widow",
+        "feeling": "indifference, apathy",
+        "object": "the needs of others",
+        "behavior": "ignoring the vulnerable",
+        "step": "speak up for a struggling neighbor",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the needs of others} and instead of {behavior:ignoring the vulnerable}, I will {step:speak up for a struggling neighbor}."
       }
     }
   }

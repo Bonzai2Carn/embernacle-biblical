@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most intrigues you in Paul's journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Prophetic Warning",
-            "expansion": "The disciples warning Paul not to go to Jerusalem reveals complex spiritual discernment."
-          },
-          {
-            "id": 2,
-            "text": "Sacrificial Commitment",
-            "expansion": "Paul's determination to continue his mission despite potential suffering demonstrates profound spiritual courage."
-          },
-          {
-            "id": 3,
-            "text": "Community Tension",
-            "expansion": "The conflict between Jewish and Gentile Christian perspectives creates meaningful theological friction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine guidance seems to contradict human wisdom, how do you determine which voice to trust?"
-      },
-      "moral_slider": {
-        "question": "How do personal convictions balance against community consensus?",
-        "left_label": "Individual Calling",
-        "right_label": "Communal Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "More aware of sacrificial commitment",
-          "Recognize complexity of cross-cultural ministry",
-          "Understand prophetic warnings differently",
-          "Value community discernment more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Trust personal spiritual discernment over external guidance",
           "Seek consensus from spiritual leadership before making decisions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The people and companions pleaded with Paul",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answered",
+            "ref": "v. 13",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in the place of the companions who just pleaded with Paul not to go up to Jerusalem. What do you hear in his answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Philippians 1:21-24",
+        "summary": "Paul says he is ready to be bound and even to die in Jerusalem for the name of the Lord Jesus (v. 13). In Philippians he writes that to live is Christ and to die is gain, and that he is torn between departing to be with Christ and remaining in the body.",
+        "question": "How does Paul's perspective on life and death in Philippians 1:21-24 help you understand his willingness to die in Jerusalem?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "surrender",
+        "because": "his friends fell silent and said, The Lord's will be done",
+        "feeling": "anxiety, fear",
+        "object": "an uncertain future",
+        "behavior": "trying to control the outcome",
+        "step": "accept the path before me",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:an uncertain future} and instead of {behavior:trying to control the outcome}, I will {step:accept the path before me}."
       }
     }
   }

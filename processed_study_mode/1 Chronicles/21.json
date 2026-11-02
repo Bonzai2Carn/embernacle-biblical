@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Satan's ability to manipulate human pride",
-            "expansion": "Pride can create vulnerability to spiritual deception and strategic attack."
-          },
-          {
-            "id": 2,
-            "text": "Joab's wisdom in challenging David's impulse",
-            "expansion": "True loyalty sometimes requires respectfully questioning leadership's potentially destructive decisions."
-          },
-          {
-            "id": 3,
-            "text": "Divine consequences of national leadership choices",
-            "expansion": "Leaders' spiritual decisions have systemic impacts beyond their personal realm."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does measuring one's strength become a spiritual vulnerability rather than a strategic assessment?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and spiritual accountability interact?",
-        "left_label": "Individual Authority",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of leadership and spiritual discernment?",
-        "options": [
-          "Recognized the subtlety of spiritual temptation",
-          "Understood leadership requires spiritual humility",
-          "Saw how pride can blind even righteous individuals",
-          "Appreciated the importance of wise counsel"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership carries heightened spiritual accountability for communal consequences",
           "Divine judgment serves as a mechanism for spiritual correction and redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "David answered Gad",
+            "ref": "v. 13",
+            "speaker": "David"
+          },
+          {
+            "who": "The LORD sent a plague upon Israel",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place: you choose to fall into the hands of God because His mercies are great. How does the immediate arrival of the plague change how you view that choice?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "James 1:13-14",
+        "summary": "The text shows Satan inciting David to take a census (v. 1). James explains that God does not tempt anyone, but each person is tempted when they are drawn away by their own desire.",
+        "question": "How does James 1:13-14 help you understand the origin of the impulse to count the people in verse 1?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "David would not offer burnt offerings that cost him nothing",
+        "feeling": "selfishness, greed",
+        "object": "a way to serve the Lord",
+        "behavior": "choosing the easy path",
+        "step": "give my best effort",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:a way to serve the Lord} and instead of {behavior:choosing the easy path}, I will {step:give my best effort}."
       }
     }
   }

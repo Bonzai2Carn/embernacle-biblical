@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human limitation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Material Wealth Cannot Guarantee Satisfaction",
-            "expansion": "External possessions do not necessarily translate to internal peace or contentment."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence is Mysterious",
-            "expansion": "God's allocation of blessing and limitation defies human rational explanation."
-          },
-          {
-            "id": 3,
-            "text": "Human Desires Exceed Mortal Capacity",
-            "expansion": "Our spiritual and emotional longings consistently transcend our temporal limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If abundance does not guarantee fulfillment, what truly determines human satisfaction?"
-      },
-      "moral_slider": {
-        "question": "To what extent can one accept life's inherent unpredictability?",
-        "left_label": "Complete Uncertainty",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How might this passage transform your understanding of prosperity?",
-        "options": [
-          "Wealth is fundamentally spiritual, not material",
-          "External success does not equal internal peace",
-          "Contentment is a choice, not a circumstance",
-          "True richness transcends physical possessions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Material prosperity reflects spiritual alignment",
           "Contentment is independent of external circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The Teacher asks",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The Teacher says",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the poor man who knows how to conduct himself before others, asked what gain you have. What would you weigh when you hear that what the eye can see is better than the wandering of desire?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Luke 12:15",
+        "summary": "The Teacher observes that a man's appetite is never satisfied by his labor (v. 7). Jesus warns against this very pursuit of life through the accumulation of possessions.",
+        "question": "How does Jesus' warning change your view of the unsatisfied appetite described here?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "what the eye can see is better than the wandering of desire",
+        "feeling": "restlessness, craving",
+        "object": "things I do not have",
+        "behavior": "daydreaming about more",
+        "step": "enjoy what is in front of me today",
+        "template": "from today I let go of my {feeling:restlessness, craving} over {object:things I do not have} and instead of {behavior:daydreaming about more}, I will {step:enjoy what is in front of me today}."
       }
     }
   }

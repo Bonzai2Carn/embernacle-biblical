@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership quality emerges most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Courage to Investigate",
-            "expansion": "Sending scouts reveals a proactive approach to understanding divine promises."
-          },
-          {
-            "id": 2,
-            "text": "Diversity of Perspective",
-            "expansion": "Each tribal representative brings a unique lens to evaluating the promised land."
-          },
-          {
-            "id": 3,
-            "text": "Preparedness for Challenge",
-            "expansion": "Reconnaissance demonstrates strategic thinking before potential confrontation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When God promises something, what responsibility do we have to verify or act upon that promise?"
-      },
-      "moral_slider": {
-        "question": "How do faith and pragmatic assessment interact when facing seemingly impossible challenges?",
-        "left_label": "Cautious Skepticism",
-        "right_label": "Absolute Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine guidance shifted?",
-        "options": [
-          "Leadership requires both vision and careful assessment",
-          "Faith doesn't mean blind acceptance",
-          "Group perspectives matter more than individual opinions",
-          "Challenges are opportunities for spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership quality dramatically influences collective spiritual outcomes",
           "Fear and unbelief can obstruct divine inheritance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "Caleb said",
+            "ref": "v. 30",
+            "speaker": "Caleb"
+          },
+          {
+            "who": "The men replied",
+            "ref": "v. 31",
+            "speaker": "The men"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites listening to these two reports. One says we can certainly conquer the land, the other says the people are stronger than we are. What would you weigh about each, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 32,
+        "ref": "Hebrews 11:30-31",
+        "summary": "The spies say the people of the land are stronger than they are and that they seemed like grasshoppers in their own sight (vv. 31-33). Hebrews 11:30-31 says that by faith the walls of Jericho fell and Rahab did not perish with those who were disobedient.",
+        "question": "How does Hebrews 11:30-31 help you understand the contrast between the spies' report of strong people and what faith did at Jericho?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "exposure",
+        "because": "we seemed like grasshoppers in our own sight",
+        "feeling": "inadequacy, fear",
+        "object": "people stronger than I am",
+        "behavior": "shrinking away from the task",
+        "step": "look at God's promise",
+        "template": "from today I bring my {feeling:inadequacy, fear} about {object:people stronger than I am} into the light and instead of {behavior:shrinking away from the task}, I will {step:look at God's promise}."
       }
     }
   }

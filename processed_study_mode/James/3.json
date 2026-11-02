@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on the tongue's power resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The tongue can destroy like a small fire",
-            "expansion": "Small words can create devastating, far-reaching consequences in relationships and communities."
-          },
-          {
-            "id": 2,
-            "text": "Language reveals true spiritual maturity",
-            "expansion": "Our speech patterns are a profound indicator of our inner spiritual development and character."
-          },
-          {
-            "id": 3,
-            "text": "Words have power to bless and curse",
-            "expansion": "Human communication carries supernatural potential for either healing or destruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If our words are truly so powerful, what responsibility do we bear for the emotional and spiritual landscapes we create through our speech?"
-      },
-      "moral_slider": {
-        "question": "How do you balance authentic expression with compassionate communication?",
-        "left_label": "Unfiltered Honesty",
-        "right_label": "Gracious Restraint"
-      },
-      "reevaluation": {
-        "question": "How might this chapter transform your understanding of communication?",
-        "options": [
-          "I now see words as spiritual instruments",
-          "I recognize my need for greater self-control",
-          "I understand language's deeper theological significance",
-          "I feel challenged to be more intentional in my speech"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Words have supernatural potential to create spiritual realities",
           "Communication should be viewed as a stewardship before God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears that the same mouth blesses the Lord and curses men made in God's likeness. What would you weigh about your own words?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Proverbs 18:21",
+        "summary": "James shows how a small spark or a small tongue can set a whole forest or life on fire (vv. 5-6). Proverbs describes the power of the tongue to bring life or death.",
+        "question": "How does Proverbs 18:21 help you weigh your words in the way James describes?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere",
+        "feeling": "defensiveness, anger",
+        "object": "a criticism of my work",
+        "behavior": "snapping back with a sharp retort",
+        "step": "respond with a gentle word",
+        "template": "from today I let go of my {feeling:defensiveness, anger} over {object:a criticism of my work} and instead of {behavior:snapping back with a sharp retort}, I will {step:respond with a gentle word}."
       }
     }
   }

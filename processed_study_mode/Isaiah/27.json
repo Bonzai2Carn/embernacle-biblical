@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element most powerfully represents divine transformation?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Leviathan's defeat",
-            "expansion": "The crushing of chaos represents God's ultimate sovereignty over seemingly insurmountable spiritual obstacles."
-          },
-          {
-            "id": "B",
-            "text": "The protected vineyard",
-            "expansion": "Divine cultivation suggests meticulous, patient care for spiritual growth even in challenging environments."
-          },
-          {
-            "id": "C",
-            "text": "Burning of briers and thorns",
-            "expansion": "Purification through divine judgment cleanses systemic barriers to spiritual connection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine protection simultaneously manifest as both nurturing and confrontational?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine judgment's relationship to mercy?",
-        "left_label": "Punitive Justice",
-        "right_label": "Restorative Grace"
-      },
-      "reevaluation": {
-        "question": "After reflecting on this chapter, how has your understanding of divine interaction shifted?",
-        "options": [
-          "More aware of God's strategic intervention",
-          "Recognize complexity of spiritual transformation",
-          "See judgment as ultimately redemptive",
-          "Appreciate metaphorical spiritual landscapes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine punishment is temporary and ultimately leads to reconciliation",
           "God's actions reveal the complexity of divine justice and mercy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The prophet asks",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet addresses the LORD",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people being struck. You see your oppressors struck down, yet you are removed by a fierce wind. How do you weigh the difference between their fate and your exile?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Isaiah 5:1-7",
+        "summary": "In Isaiah 5, the LORD describes a vineyard that produced bad fruit and was stripped bare. In Isaiah 27, the LORD describes a different kind of vineyard that He protects and waters continually (v. 3).",
+        "question": "How does the vineyard that bore sour fruit in Isaiah 5 help you understand the care God shows His vineyard in this chapter?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "the LORD is the keeper of the vineyard and waters it continually",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain season",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain season} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His protection}."
       }
     }
   }

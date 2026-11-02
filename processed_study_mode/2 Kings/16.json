@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership challenges your understanding most?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Political Compromise",
-            "expansion": "Ahaz's alliance with Assyria reveals how political survival can supersede spiritual integrity."
-          },
-          {
-            "id": "b",
-            "text": "Religious Syncretism",
-            "expansion": "The king's adoption of foreign religious practices demonstrates how easily cultural influences can corrupt spiritual commitment."
-          },
-          {
-            "id": "c",
-            "text": "Generational Spiritual Decline",
-            "expansion": "Ahaz's departure from David's godly legacy illustrates the fragility of inherited spiritual heritage."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal power becomes more compelling than divine principle, what truly gets sacrificed?"
-      },
-      "moral_slider": {
-        "question": "How do national survival and spiritual fidelity balance?",
-        "left_label": "Pragmatic Survival",
-        "right_label": "Theological Purity"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on leadership and faith shifted?",
-        "options": [
-          "I see compromise as more nuanced",
-          "Spiritual consistency matters more than political expediency",
-          "Cultural pressures can subtly erode core beliefs",
-          "Leadership requires profound moral courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Gradual adaptation of cultural practices",
           "Passive acceptance of prevailing societal norms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Ahaz sent messengers to Tiglath-pileser king of Assyria, saying",
+            "ref": "v. 7",
+            "speaker": "Ahaz"
+          },
+          {
+            "who": "The king of Assyria responded to him, marched up to Damascus, and captured it",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Ahaz's place: you call a powerful king your father and your savior to stop your enemies. What do you understand about the cost of this alliance when you see what happens to Damascus?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "2 Chronicles 28:22-25",
+        "summary": "Ahaz sends to Assyria for help (v. 7). 2 Chronicles 28:22-25 says that in his distress he became even more unfaithful to the LORD and sacrificed to the gods of the kings of Aram.",
+        "question": "How does the unfaithfulness described in 2 Chronicles 28:22 help you understand Ahaz's call to Assyria in verse 7?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "exposure",
+        "because": "Ahaz did not do what was right in the eyes of the LORD his God, unlike his father David",
+        "feeling": "pride, self-reliance",
+        "object": "a looming crisis",
+        "behavior": "copying what others do for safety",
+        "step": "ask what is right in the LORD's eyes",
+        "template": "from today I bring my {feeling:pride, self-reliance} about {object:a looming crisis} into the light and instead of {behavior:copying what others do for safety}, I will {step:ask what is right in the LORD's eyes}."
       }
     }
   }

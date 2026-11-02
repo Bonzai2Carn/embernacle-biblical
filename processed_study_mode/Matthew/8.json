@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most powerfully about Jesus' healing approach?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Compassionate Physical Touch",
-            "expansion": "Jesus deliberately touched the untouchable leper, breaking social and ritual barriers of contamination."
-          },
-          {
-            "id": 2,
-            "text": "Authority over Disease",
-            "expansion": "Christ demonstrates divine power by healing instantly through mere spoken word or direct contact."
-          },
-          {
-            "id": 3,
-            "text": "Humble Receptor of Faith",
-            "expansion": "Jesus responds positively to genuine belief, regardless of social status or cultural background."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If healing requires both divine power and human receptivity, what internal barriers might prevent one's own transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations interact with spiritual possibility?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of healing shifted?",
-        "options": [
-          "Healing is more than physical restoration",
-          "Faith can transcend social boundaries",
-          "Divine compassion overcomes human categorizations",
-          "Personal belief influences spiritual outcomes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's compassion extends beyond cultural and social boundaries",
           "Physical healing represents deeper spiritual restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The centurion answered",
+            "ref": "v. 8",
+            "speaker": "The centurion"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 13",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the centurion. You say you are not worthy to have Him under your roof, and you ask Him only to say the word. What would you understand from His answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Acts 10:34-35",
+        "summary": "Jesus says many will come from the east and the west to share the banquet in the kingdom of heaven (v. 11). Peter says God does not show favoritism, but welcomes those from every nation who fear Him and do what is right (Acts 10:34-35).",
+        "question": "How does Acts 10:34-35 help you understand who can come to the banquet Jesus describes?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "Jesus found no one in Israel with such great faith",
+        "feeling": "pride, doubt",
+        "object": "a request that seems too big",
+        "behavior": "measuring God by what I can see",
+        "step": "bring the request to Him in prayer",
+        "template": "from today I bring my {feeling:pride, doubt} about {object:a request that seems too big} into the light and instead of {behavior:measuring God by what I can see}, I will {step:bring the request to Him in prayer}."
       }
     }
   }

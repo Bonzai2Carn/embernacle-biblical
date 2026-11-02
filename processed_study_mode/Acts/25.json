@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's legal journey resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Persistent Accusation",
-            "expansion": "The religious leaders continuously seek to undermine Paul's credibility through repeated legal challenges."
-          },
-          {
-            "id": "2",
-            "text": "Judicial Fairness",
-            "expansion": "Festus demonstrates a commitment to proper legal procedure, refusing to be manipulated by political pressures."
-          },
-          {
-            "id": "3",
-            "text": "Strategic Defense",
-            "expansion": "Paul strategically uses his Roman citizenship and legal rights to protect his mission and testimony."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external challenges to one's faith actually reveal the depth of personal conviction?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal beliefs be defended through legal and political systems?",
-        "left_label": "Passive Submission",
-        "right_label": "Active Advocacy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of religious persecution and legal justice evolved?",
-        "options": [
-          "Recognize systemic bias more clearly",
-          "Appreciate diplomatic conflict resolution",
-          "Understand the role of personal integrity",
-          "See legal processes as potential divine platforms"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers' faithfulness transforms institutional environments",
           "Persecution often becomes an unexpected platform for gospel witness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Festus asked",
+            "ref": "v. 9",
+            "speaker": "Festus"
+          },
+          {
+            "who": "Paul replied",
+            "ref": "vv. 10-11",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Paul's place. Festus asks whether you are willing to go up to Jerusalem and stand trial. Do you accept, or do you say where you ought to be tried?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Philippians 1:12-14",
+        "summary": "Festus says the dispute is about a certain Jesus who had died, but whom Paul affirms to be alive (v. 19). In Philippians Paul writes that his circumstances have served to advance the gospel and that the palace guard knows he is in chains for Christ.",
+        "question": "How does Philippians 1:12-14 help you understand what Paul's chains were about, beyond the dispute Festus describes in verse 19?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "exposure",
+        "because": "Paul had done nothing worthy of death",
+        "feeling": "anxiety, fear",
+        "object": "an unfair accusation",
+        "behavior": "trying to defend my own reputation",
+        "step": "rest in the truth of my standing",
+        "template": "from today I bring my {feeling:anxiety, fear} about {object:an unfair accusation} into the light and instead of {behavior:trying to defend my own reputation}, I will {step:rest in the truth of my standing}."
       }
     }
   }

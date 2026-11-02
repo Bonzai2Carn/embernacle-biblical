@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Provision for Spiritual Leaders",
-            "expansion": "God ensures spiritual leaders are supported without traditional land inheritance."
-          },
-          {
-            "id": 2,
-            "text": "Rejection of Pagan Divination Practices",
-            "expansion": "Israel must maintain spiritual purity by avoiding occult practices."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Succession and Authenticity",
-            "expansion": "True prophets speak God's actual message, not personal speculation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might spiritual authority be corrupted when disconnected from divine dependency?"
-      },
-      "moral_slider": {
-        "question": "To what extent should spiritual leaders be economically distinct from the community?",
-        "left_label": "Complete Separation",
-        "right_label": "Full Integration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More aware of spiritual accountability",
-          "Recognize complexity of divine calling",
-          "Appreciate systemic spiritual provision",
-          "Understand risks of false prophecy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasis on personal spiritual experience over external validation",
           "Prioritizing community leadership's confirmation of prophetic claims"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Moses warns",
+            "ref": "vv. 10-11",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people entering a new land. Why does the LORD link the removal of these nations to their specific practices?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Matthew 7:15-20",
+        "summary": "The LORD promises to raise up a prophet who will speak His words (v. 18). Jesus describes how to recognize the true nature of those who claim to speak for God.",
+        "question": "How does Jesus' warning about fruit help you test the words of a prophet who claims to speak in God's name?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the LORD your God calls you to be blameless before Him",
+        "feeling": "distrust, suspicion",
+        "object": "the motives of others",
+        "behavior": "judging their hearts",
+        "step": "focus on my own integrity",
+        "template": "from today I let go of my {feeling:distrust, suspicion} over {object:the motives of others} and instead of {behavior:judging their hearts}, I will {step:focus on my own integrity}."
       }
     }
   }

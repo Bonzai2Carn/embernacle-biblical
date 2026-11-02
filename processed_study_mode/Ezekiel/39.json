@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment Against Evil",
-            "expansion": "The text reveals God's sovereign power to ultimately dismantle systemic oppression and rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Restoration After Devastation",
-            "expansion": "Even after massive destruction, divine promise suggests complete renewal and healing is possible."
-          },
-          {
-            "id": 3,
-            "text": "Cosmic Spiritual Warfare",
-            "expansion": "The narrative portrays conflict as fundamentally spiritual, transcending mere human geopolitical struggles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is predetermined, what role does human agency and ethical choice truly play in such prophetic narratives?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the relationship between divine sovereignty and human responsibility?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic literature shifted?",
-        "options": [
-          "I see more metaphorical meaning",
-          "I recognize deeper spiritual dynamics",
-          "I appreciate the complexity of theological interpretation",
-          "I'm more aware of historical context"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic predictions demonstrate God's ultimate control over geopolitical events",
           "International conflicts are ultimately resolved through spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 23-24",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 25",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the exiled people. You see the reason for your exile and the weight of your unfaithfulness (vv. 23-24). What does this sudden promise of restoration and compassion (v. 25) change about how you view your past?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Ezekiel 36:22-23",
+        "summary": "In Ezekiel 36:22-23 God says He acts not for Israel's sake but for His holy name. Here He restores Jacob and is jealous for His holy name (v. 25), and He no longer hides His face from them (v. 29).",
+        "question": "How does Ezekiel 36:22-23 help you understand why God restores Jacob and no longer hides His face from them?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "remembrance",
+        "because": "they will forget their disgrace and all the treachery they committed",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "dwelling on my mistakes",
+        "step": "rest in His compassion",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:dwelling on my mistakes}, I will {step:rest in His compassion}."
       }
     }
   }

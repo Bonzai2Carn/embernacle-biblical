@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most from Moses' early survival?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Providence",
-            "expansion": "Even in humanity's cruelest systems, God can preserve life through unexpected channels."
-          },
-          {
-            "id": 2,
-            "text": "Maternal Courage",
-            "expansion": "A mother's love can overcome systemic oppression and risk personal safety."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected Alliances",
-            "expansion": "Compassion can transcend social, racial, and political boundaries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do seemingly powerless individuals challenge systemic injustice through small, courageous acts?"
-      },
-      "moral_slider": {
-        "question": "To what extent can individual action challenge institutional oppression?",
-        "left_label": "Individual Powerlessness",
-        "right_label": "Transformative Agency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of survival and providence shifted?",
-        "options": [
-          "Recognize complexity of historical resistance",
-          "Appreciate unexpected forms of solidarity",
-          "Understand divine intervention through human agency",
-          "Recognize power of individual courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual human actions are ultimately predetermined",
           "Survival depends solely on human ingenuity and circumstance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Pharaoh’s daughter said to her",
+            "ref": "v. 9",
+            "speaker": "Pharaoh's Daughter"
+          },
+          {
+            "who": "The mother brings the boy to Pharaoh’s daughter",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the woman. Pharaoh’s daughter asks you to nurse this child and promises to pay you. What would you weigh as you take the boy?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Psalm 139:13-16",
+        "summary": "The mother of Moses hides her child because he is beautiful (v. 2). The Psalmist describes how God saw and formed every person before they were even born.",
+        "question": "How does the truth of God's hand in your formation change how you view the 'beautiful child' hidden in the reeds?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "remembrance",
+        "because": "God remembered His covenant",
+        "feeling": "anxiety, dread",
+        "object": "a season of heavy burdens",
+        "behavior": "complaining in silence",
+        "step": "remind myself of His promises",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a season of heavy burdens} and instead of {behavior:complaining in silence}, I will {step:remind myself of His promises}."
       }
     }
   }

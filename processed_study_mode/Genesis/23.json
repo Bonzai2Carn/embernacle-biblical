@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Abraham's grief and land negotiation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Dignity in mourning",
-            "expansion": "Abraham demonstrates profound respect for Sarah's memory through deliberate, culturally sensitive burial preparations."
-          },
-          {
-            "id": 2,
-            "text": "Negotiation as spiritual practice",
-            "expansion": "Abraham's careful land transaction reveals deep principles of integrity and intentionality beyond mere economic exchange."
-          },
-          {
-            "id": 3,
-            "text": "Outsider's vulnerability",
-            "expansion": "Abraham's status as a 'foreigner' highlights the complex dynamics of belonging and hospitality in ancient community structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might grief transform our understanding of belonging and community?"
-      },
-      "moral_slider": {
-        "question": "What matters more: personal emotional closure or communal agreement?",
-        "left_label": "Individual Need",
-        "right_label": "Collective Consent"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on mourning and memorial changed?",
-        "options": [
-          "More aware of cultural burial practices",
-          "Recognize emotional complexity of loss",
-          "Appreciate nuanced interpersonal negotiations",
-          "See land ownership as deeply symbolic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolizes transitional moments in covenant relationship",
           "Illustrates spiritual maturity in handling grief"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Abraham said to the Hittites",
+            "ref": "v. 4",
+            "speaker": "Abraham"
+          },
+          {
+            "who": "The Hittites replied to Abraham",
+            "ref": "v. 6",
+            "speaker": "The Hittites"
+          }
+        ],
+        "question": "Put yourself in Abraham's place, a stranger in a new land. You ask for a place to bury your dead, and the people call you God's chosen one. How does their response change how you view your status among them?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Hebrews 11:9-10",
+        "summary": "Abraham buries Sarah in the cave of Machpelah in Canaan (v. 19). Hebrews says Abraham lived as a stranger in the promised land, in tents, looking forward to the city with foundations whose architect and builder is God (Hebrews 11:9-10).",
+        "question": "How does the author of Hebrews help you understand why Abraham was willing to pay full price for a grave in a land where he was still an outsider?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "I am a foreigner and an outsider",
+        "feeling": "insecurity, loneliness",
+        "object": "a new environment",
+        "behavior": "trying to blend in",
+        "step": "act with integrity",
+        "template": "from today I let go of my {feeling:insecurity, loneliness} over {object:a new environment} and instead of {behavior:trying to blend in}, I will {step:act with integrity}."
       }
     }
   }

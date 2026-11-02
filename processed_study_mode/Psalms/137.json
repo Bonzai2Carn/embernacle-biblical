@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional experience resonates most deeply from this psalm of exile?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Deep Grief",
-            "expansion": "The profound sense of loss and displacement when separated from one's homeland and sacred traditions."
-          },
-          {
-            "id": 2,
-            "text": "Righteous Anger",
-            "expansion": "The raw, unfiltered human response to oppression and collective suffering."
-          },
-          {
-            "id": 3,
-            "text": "Cultural Memory",
-            "expansion": "The importance of remembering identity even when forcibly removed from one's original context."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do painful memories serve both as wounds and as preservers of cultural identity?"
-      },
-      "moral_slider": {
-        "question": "What is the ethical boundary between justified remembrance and destructive vengeance?",
-        "left_label": "Lament",
-        "right_label": "Retribution"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of suffering and resilience have shifted?",
-        "options": [
-          "Recognized the complexity of collective trauma",
-          "Understood the power of cultural memory",
-          "Appreciated the raw emotional honesty of biblical texts",
-          "Seen how oppression transforms human experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As prophetic poetry symbolizing spiritual warfare",
           "As a contextual historical response reflecting ancient cultural norms of conflict"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The exiles weep",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist vows",
+            "ref": "vv. 5-6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the exiles by the rivers of Babylon. You sit and weep when you remember Zion, and you hang your harps on the willows. Then you vow to keep Jerusalem as your greatest joy. What do you weigh more heavily: the grief of remembering Zion, or the joy you vow to keep?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Romans 12:19-21",
+        "summary": "The psalmist blesses the one who repays Babylon as Babylon has done to Israel (v. 8). Romans 12:19 tells believers not to avenge themselves, but to leave room for God's wrath, since vengeance belongs to the Lord.",
+        "question": "How does Romans 12:19-21 help you understand the desire for repayment in verse 8?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "remembrance",
+        "because": "we sat and wept by the rivers of Babylon when we remembered Zion",
+        "feeling": "grief, bitterness",
+        "object": "the ruin of Jerusalem",
+        "behavior": "going silent and refusing to sing",
+        "step": "sing one psalm of Zion aloud",
+        "template": "from today I bring You my {feeling:grief, bitterness} about {object:the ruin of Jerusalem} and instead of {behavior:going silent and refusing to sing}, I will {step:sing one psalm of Zion aloud}."
       }
     }
   }

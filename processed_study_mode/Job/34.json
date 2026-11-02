@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine justice resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God is inherently just",
-            "expansion": "Divine judgment transcends human understanding of fairness."
-          },
-          {
-            "id": 2,
-            "text": "Human perception is limited",
-            "expansion": "Our comprehension of cosmic justice remains fundamentally incomplete."
-          },
-          {
-            "id": 3,
-            "text": "Suffering reveals deeper spiritual truths",
-            "expansion": "Trials are not punishments but transformative experiences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is perfect, how do we reconcile individual human suffering with universal moral order?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between personal righteousness and divine sovereignty?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Determinism"
-      },
-      "reevaluation": {
-        "question": "How has exploring Job 34 shifted your understanding of suffering and justice?",
-        "options": [
-          "I see suffering as potentially instructive",
-          "My view of divine justice has become more nuanced",
-          "I'm more comfortable with theological uncertainty",
-          "I recognize the limits of human perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment is perfectly balanced between mercy and righteousness",
           "Human moral frameworks are inadequate to fully comprehend divine judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Elihu says",
+            "ref": "v. 5",
+            "speaker": "Elihu"
+          },
+          {
+            "who": "Elihu says",
+            "ref": "v. 10",
+            "speaker": "Elihu"
+          }
+        ],
+        "question": "Put yourself in the place of the listeners. How does Elihu's claim about God's character change how you hear his report of Job's claim about his own loss of justice?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Deuteronomy 32:4",
+        "summary": "Elihu asserts that God's eyes are on every step of man (v. 21) and that He does not pervert justice (v. 12). Deuteronomy describes God as the Rock whose works are perfect and all His ways are justice.",
+        "question": "How does the perfection of God's ways in Deuteronomy help you weigh Elihu's claim that God sees every step?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "practice",
+        "because": "if I have done wrong, I will not do it again",
+        "feeling": "guilt, shame",
+        "object": "a repeated mistake",
+        "behavior": "making excuses",
+        "step": "ask for help to change",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a repeated mistake} and instead of {behavior:making excuses}, I will {step:ask for help to change}."
       }
     }
   }

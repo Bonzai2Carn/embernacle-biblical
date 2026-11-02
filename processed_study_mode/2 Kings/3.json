@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological theme resonates most from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention in Political Conflicts",
-            "expansion": "God's strategic involvement transcends human military calculations."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Generational Sin",
-            "expansion": "Leadership's spiritual legacy profoundly impacts national trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Suffering",
-            "expansion": "Extreme circumstances can expose deeper spiritual realities about human nature."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine providence work through imperfect human alliances and motivations?"
-      },
-      "moral_slider": {
-        "question": "To what extent do collective actions determine divine intervention?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare changed?",
-        "options": [
-          "Recognize complexity of divine strategies",
-          "Understand limitations of human planning",
-          "Appreciate nuanced spiritual dynamics",
-          "Recognize God's sovereignty beyond human expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic guidance provides spiritual and tactical wisdom",
           "Military outcomes are solely determined by human capabilities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The king of Israel said",
+            "ref": "v. 10",
+            "speaker": "The king of Israel"
+          },
+          {
+            "who": "Jehoshaphat asked",
+            "ref": "v. 11",
+            "speaker": "Jehoshaphat"
+          }
+        ],
+        "question": "Put yourself in the place of the king of Israel. You believe the LORD has summoned three kings to hand them over to Moab. What would you still want to hear from the LORD before you go on?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Isaiah 41:17-18",
+        "summary": "Elisha tells the kings to dig the valley full of ditches, and the LORD says the valley will be filled with water (vv. 16-17). Isaiah 41:17-18 says the LORD will answer the thirsty and open fountains in the middle of the valleys.",
+        "question": "How does Isaiah 41:17-18 help you understand the water the LORD promises to the valley in verse 17?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the LORD says the valley will be filled with water, though no wind or rain is seen",
+        "feeling": "anxiety, doubt",
+        "object": "a dry season in my life",
+        "behavior": "waiting for a visible sign",
+        "step": "prepare for what I cannot yet see",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a dry season in my life} to God and instead of {behavior:waiting for a visible sign}, I will {step:prepare for what I cannot yet see}."
       }
     }
   }

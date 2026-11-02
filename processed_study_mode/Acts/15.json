@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Grace transcends cultural boundaries",
-            "expansion": "God's salvation is not confined by human traditions or ethnic distinctions."
-          },
-          {
-            "id": 2,
-            "text": "Unity requires compassionate dialogue",
-            "expansion": "Complex theological disputes can be resolved through patient, respectful conversation."
-          },
-          {
-            "id": 3,
-            "text": "Missional inclusion challenges religious exclusivity",
-            "expansion": "The early church wrestled with expanding God's redemptive narrative beyond traditional expectations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal religious traditions potentially prevent others from experiencing divine grace?"
-      },
-      "moral_slider": {
-        "question": "How do religious traditions balance between preservation and transformation?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Open Adaptation"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual inclusion?",
-        "options": [
-          "I see God's work beyond my cultural boundaries",
-          "I recognize the complexity of theological interpretation",
-          "I appreciate the role of communal discernment",
-          "I understand grace as more expansive than previously thought"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Gentile converts must fully adopt Jewish religious customs",
           "Christ's redemptive work transcends cultural and legal frameworks"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Some believers from the party of the Pharisees declared",
+            "ref": "v. 5",
+            "speaker": "Some believers from the party of the Pharisees"
+          },
+          {
+            "who": "Peter answered",
+            "ref": "vv. 10-11",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in the place of the assembly listening to this debate. How does Peter's focus on grace change the weight of the requirement the Pharisees proposed?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Galatians 2:16",
+        "summary": "Peter explains that God gave the Gentiles the Holy Spirit and cleansed their hearts by faith (vv. 8-9). Paul writes to the Galatians that no one is justified by the works of the law, but only through faith in Christ.",
+        "question": "How does Paul's statement about justification help you understand why Peter calls the law a yoke that no one can bear?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "repair",
+        "because": "Paul and Barnabas disagreed so sharply that they parted company",
+        "feeling": "bitterness, hurt",
+        "object": "a broken partnership",
+        "behavior": "cutting people off",
+        "step": "seek a way to bless the one I disagreed with",
+        "template": "from today I turn from my {feeling:bitterness, hurt} toward {object:a broken partnership} and instead of {behavior:cutting people off}, I will {step:seek a way to bless the one I disagreed with}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual renewal strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Radical Removal of Idolatry",
-            "expansion": "True spiritual transformation requires complete elimination of competing spiritual influences."
-          },
-          {
-            "id": 2,
-            "text": "Public Covenant Renewal",
-            "expansion": "Communal recommitment to divine principles can restore collective spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Personal King's Repentance",
-            "expansion": "Leadership's genuine spiritual humility can catalyze national spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does passionate religious reform become potentially destructive rather than redemptive?"
-      },
-      "moral_slider": {
-        "question": "How do you balance zealous spiritual purification with compassionate understanding?",
-        "left_label": "Uncompromising Purity",
-        "right_label": "Graceful Tolerance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual renewal evolved?",
-        "options": [
-          "Recognize complexity of communal transformation",
-          "Understand depth of personal spiritual accountability",
-          "See nuanced relationship between individual and collective faith",
-          "Appreciate leadership's role in spiritual restoration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Biblical obedience demands radical elimination of compromising practices",
           "National leadership plays a critical role in spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "The text describes Josiah's devotion",
+            "ref": "v. 25",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD declares His anger",
+            "ref": "v. 26",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people seeing a king turn to God with all his heart. How does the LORD's refusal to turn away from His anger change how you view Josiah's great reforms?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Deuteronomy 6:4-5",
+        "summary": "Josiah removes all idols to follow the Law of Moses (v. 24). This mirrors the core command given to Israel at the start of their covenant.",
+        "question": "How does the specific command to love God with all your heart and soul help you understand the scale of Josiah's cleansing of the land?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the king made a covenant to follow the LORD with all his heart and soul",
+        "feeling": "indifference, apathy",
+        "object": "my daily prayer",
+        "behavior": "going through the motions",
+        "step": "set a specific time to listen",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my daily prayer} and instead of {behavior:going through the motions}, I will {step:set a specific time to listen}."
       }
     }
   }

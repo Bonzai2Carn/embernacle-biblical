@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual preparation resonates most with you?",
-        "choices": [
-          {
-            "id": "readiness",
-            "text": "Being prepared before the critical moment",
-            "expansion": "Proactive spiritual readiness transforms unexpected challenges into opportunities for growth."
-          },
-          {
-            "id": "wisdom",
-            "text": "Distinguishing between surface-level and deep spiritual insight",
-            "expansion": "True wisdom goes beyond appearances and connects to fundamental spiritual truths."
-          },
-          {
-            "id": "waiting",
-            "text": "The spiritual significance of patient expectation",
-            "expansion": "Waiting is not passive, but an active state of attentive preparation and hope."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual preparedness is like having oil in your lamp, what might you be neglecting in your current spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do personal accountability and divine grace intersect?",
-        "left_label": "Individual Effort",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual readiness evolved?",
-        "options": [
-          "I now see preparation as a continuous process",
-          "I recognize the importance of internal motivation",
-          "I understand that readiness is more than just external actions",
-          "I see the interconnection between personal responsibility and spiritual grace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Timing and vigilance are critical in spiritual transformation",
           "External religious practices are more important than internal spiritual condition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The other virgins said",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The bridegroom replied",
+            "ref": "v. 12",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the virgins who arrive late and call, Lord, lord, open the door for us! He answers, I do not know you. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Mark 13:35-37",
+        "summary": "Jesus warns his followers to stay alert because the timing of his return is unknown (v. 13). Mark records the same command, using the image of a master's house to show the need for constant readiness (vv. 35-37).",
+        "question": "How does the image of a master's house in Mark help you understand the urgency of Jesus' command to keep watch?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "practice",
+        "because": "the King was naked and was clothed, was sick and was looked after, was in prison and was visited",
+        "feeling": "indifference, apathy",
+        "object": "someone in need",
+        "behavior": "looking the other way",
+        "step": "offer a small kindness",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:someone in need} and instead of {behavior:looking the other way}, I will {step:offer a small kindness}."
       }
     }
   }

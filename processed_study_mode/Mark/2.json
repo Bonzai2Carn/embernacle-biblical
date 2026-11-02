@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which persistent idea reveals most about faith in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Radical friendship and community support",
-            "expansion": "The paralytic's friends demonstrate extraordinary commitment by dismantling a roof to bring him to Jesus."
-          },
-          {
-            "id": 2,
-            "text": "Jesus's authority to forgive sins",
-            "expansion": "Christ demonstrates spiritual healing precedes physical restoration, challenging religious assumptions."
-          },
-          {
-            "id": 3,
-            "text": "Unconventional approaches to encountering divine grace",
-            "expansion": "Unexpected methods of seeking healing reveal deeper spiritual hunger beyond traditional religious structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When societal barriers prevent access to healing, what transformative actions reveal true faith?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations intersect with spiritual potential?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual healing evolved?",
-        "options": [
-          "Recognizing the role of community in personal transformation",
-          "Understanding healing as holistic (spiritual and physical)",
-          "Challenging religious orthodoxy through compassionate action",
-          "Seeing faith as active and persistent, not passive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual restoration requires radical inclusivity",
           "Personal faith can transcend social and religious barriers"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Some of the scribes thought",
+            "ref": "v. 7",
+            "speaker": "Some of the scribes"
+          },
+          {
+            "who": "Jesus asked",
+            "ref": "v. 9",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the scribes watching this man walk. How does Jesus' question about which is easier to say change how you view His claim to forgive sins?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Luke 15:2",
+        "summary": "The scribes and Pharisees criticize Jesus for eating with tax collectors and sinners (v. 16). Luke records that these same groups grumbled about Jesus' company.",
+        "question": "How does Luke 15:2 help you understand why the scribes and Pharisees questioned Jesus about eating with tax collectors and sinners in Mark 2:16?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "the Sabbath was made for man, not man for the Sabbath",
+        "feeling": "anxiety, legalism",
+        "object": "my religious routines",
+        "behavior": "using rules to judge others",
+        "step": "seek the rest God provides",
+        "template": "from today I let go of my {feeling:anxiety, legalism} over {object:my religious routines} and instead of {behavior:using rules to judge others}, I will {step:seek the rest God provides}."
       }
     }
   }

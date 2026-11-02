@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which teaching about prayer resonates most deeply?",
-        "choices": [
-          {
-            "id": "persistence",
-            "text": "The importance of persistent prayer",
-            "expansion": "Continuous prayer demonstrates faith and trust beyond immediate results."
-          },
-          {
-            "id": "ask_seek_knock",
-            "text": "God's willingness to give good gifts",
-            "expansion": "Divine generosity is greater than human limitations or expectations."
-          },
-          {
-            "id": "inner_light",
-            "text": "The metaphor of inner spiritual illumination",
-            "expansion": "Spiritual authenticity requires transparency and genuine internal transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prayer changes you more than it changes circumstances, what internal transformations are you resisting?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual discipline with genuine relationship with God?",
-        "left_label": "Ritualistic Compliance",
-        "right_label": "Authentic Connection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer evolved?",
-        "options": [
-          "More relational, less transactional",
-          "Recognize God's sovereignty beyond my requests",
-          "Understand prayer as dialogue, not monologue",
-          "See prayer as personal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine power operates beyond ritualistic frameworks",
           "Internal spiritual condition determines external manifestation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "vv. 11-12",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 13",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a child asking for food. Even flawed human fathers give good gifts, so what does Jesus' answer reveal about the nature of the Father you are praying to?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Matthew 7:7-11",
+        "summary": "Jesus tells His disciples to ask, seek, and knock (v. 9-10). Matthew 7:8 adds that everyone who asks receives, he who seeks finds, and to him who knocks the door will be opened.",
+        "question": "How does Matthew 7:7-11 help you understand the asking, seeking, and knocking Jesus describes in Luke 11:9-10?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "practice",
+        "because": "the Pharisees should have practiced justice and the love of God without neglecting their tithes",
+        "feeling": "self-righteousness, pride",
+        "object": "my religious routines",
+        "behavior": "focusing on outward appearances",
+        "step": "do one just act for someone",
+        "template": "from today I let go of my {feeling:self-righteousness, pride} over {object:my religious routines} and instead of {behavior:focusing on outward appearances}, I will {step:do one just act for someone}."
       }
     }
   }

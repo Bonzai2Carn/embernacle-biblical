@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's evangelism strategy most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Reasoning from Scriptures",
-            "expansion": "Intellectual engagement demonstrates faith is not blind, but rationally grounded."
-          },
-          {
-            "id": 2,
-            "text": "Contextual Adaptation",
-            "expansion": "Paul tailors his message to different cultural audiences without compromising core truth."
-          },
-          {
-            "id": 3,
-            "text": "Persistent Persuasion",
-            "expansion": "Spiritual transformation often requires patient, repeated dialogue and explanation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If reason and faith are truly compatible, why do so many people perceive them as contradictory?"
-      },
-      "moral_slider": {
-        "question": "How do you balance respecting cultural differences with proclaiming absolute spiritual truth?",
-        "left_label": "Cultural Relativism",
-        "right_label": "Universal Truth"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of evangelism and cultural engagement shifted?",
-        "options": [
-          "More appreciative of intellectual dialogue",
-          "Recognize importance of contextual communication",
-          "See faith as rational, not just emotional",
-          "Understand evangelism requires patience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize relational engagement over theological precision",
           "Adopt a missional approach that bridges cultural understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Some were persuaded in Thessalonica",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The Bereans examined the Scriptures",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a Berean who received Paul's message with great eagerness. What do you look for as you examine the Scriptures each day, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "1 Peter 3:15",
+        "summary": "Paul meets philosophers in the marketplace to reason with them about Jesus (vv. 17-18). Peter instructs believers to be prepared to give a defense to anyone who asks about their hope.",
+        "question": "How does Peter's command to be ready to give a defense help you approach the people Paul meets in the marketplace?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "devotion",
+        "because": "God Himself gives everyone life and breath and everything else",
+        "feeling": "anxiety, scarcity",
+        "object": "my daily needs",
+        "behavior": "worrying about tomorrow",
+        "step": "thank Him for the breath in my lungs",
+        "template": "from today I let go of my {feeling:anxiety, scarcity} over {object:my daily needs} and instead of {behavior:worrying about tomorrow}, I will {step:thank Him for the breath in my lungs}."
       }
     }
   }

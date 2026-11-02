@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about Christian community most challenges you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Bearing with the weak's scruples",
-            "expansion": "True strength is demonstrated through patient understanding, not asserting personal freedom."
-          },
-          {
-            "id": "2",
-            "text": "Pleasing others for their edification",
-            "expansion": "Spiritual growth requires selfless consideration of others' spiritual journeys."
-          },
-          {
-            "id": "3",
-            "text": "Following Christ's self-sacrificial model",
-            "expansion": "Personal comfort is secondary to embodying Christ's radical love and empathy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If bearing with others' weaknesses requires personal limitation, at what point does accommodation become enabling rather than loving?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual liberty and communal spiritual sensitivity balance?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on Christian community shifted?",
-        "options": [
-          "I now see diversity as strength, not division",
-          "Personal sacrifice for others feels more meaningful",
-          "Scripture's transformative power seems more tangible",
-          "Unity requires more intentional empathy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintain strict boundaries to preserve theological purity",
           "Practice sacrificial love that mirrors Christ's example of reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Paul says the strong ought to bear with the weak",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Paul quotes Scripture",
+            "ref": "v. 3",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in the place of a strong believer. You hear that the insults of those who insult God have fallen on Christ. What would you weigh about the cost of bearing with the weak?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Philippians 2:3-4",
+        "summary": "Paul says each of us should please his neighbor for his good, to build him up (v. 2). Philippians 2:3-4 says to do nothing out of selfish ambition, but in humility to consider others more important than yourselves.",
+        "question": "How does considering others more important than yourselves in Philippians 2:3-4 help you understand pleasing your neighbor for his good in Romans 15:2?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "God fills you with all joy and peace as you believe in Him",
+        "feeling": "anxiety, doubt",
+        "object": "an uncertain future",
+        "behavior": "rushing to fix everything",
+        "step": "rest in His faithfulness",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:an uncertain future} and instead of {behavior:rushing to fix everything}, I will {step:rest in His faithfulness}."
       }
     }
   }

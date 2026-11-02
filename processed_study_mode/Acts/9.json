@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Saul's transformation most resonates with your own spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sudden Divine Intervention",
-            "expansion": "Unexpected encounters can radically reframe one's understanding of purpose and truth."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability After Being Struck Down",
-            "expansion": "Profound transformation often requires complete disorientation of previous worldviews."
-          },
-          {
-            "id": 3,
-            "text": "Willingness to Be Spiritually Redirected",
-            "expansion": "True humility emerges when one becomes open to completely reimagining their life's trajectory."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your deepest convictions were suddenly revealed to be fundamentally misaligned with truth, would you have the courage to radically transform?"
-      },
-      "moral_slider": {
-        "question": "How do personal conviction and spiritual openness interact in moments of profound transformation?",
-        "left_label": "Rigid Belief",
-        "right_label": "Radical Receptivity"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of personal change?",
-        "options": [
-          "Divine intervention can occur unexpectedly",
-          "Past actions do not determine future potential",
-          "Genuine transformation requires complete vulnerability",
-          "Spiritual growth often emerges from disorienting experiences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's grace is available even to those most actively opposing the gospel",
           "Personal religious zeal does not equate to spiritual righteousness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Ananias answered",
+            "ref": "v. 13",
+            "speaker": "Ananias"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 15",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Ananias's place, hearing the name of a man known for destruction. What does the Lord's command reveal about how He views a person's past?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "2 Corinthians 5:17",
+        "summary": "Ananias hears of the harm Saul has done to the saints (v. 13), yet the Lord calls him His chosen instrument (v. 15). 2 Corinthians 5:17 says if anyone is in Christ, he is a new creation; the old has passed away and the new has come.",
+        "question": "How does 2 Corinthians 5:17 help you understand the change from the man Ananias describes to the Lord's chosen instrument?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "a voice asks why I persecute Jesus",
+        "feeling": "guilt, shame",
+        "object": "my past mistakes",
+        "behavior": "hiding from others",
+        "step": "confess the truth to a trusted friend",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:my past mistakes} into the light and instead of {behavior:hiding from others}, I will {step:confess the truth to a trusted friend}."
       }
     }
   }

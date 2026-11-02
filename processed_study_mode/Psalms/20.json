@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about divine support resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's protection in times of struggle",
-            "expansion": "Divine intervention transcends human limitations and provides supernatural strength."
-          },
-          {
-            "id": 2,
-            "text": "Communal prayer's transformative power",
-            "expansion": "Collective spiritual petition creates profound spiritual momentum."
-          },
-          {
-            "id": 3,
-            "text": "Trusting God's strategic intervention",
-            "expansion": "Faith isn't passive waiting, but active trust in divine strategic planning."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true trust in divine support fundamentally alter your approach to life's challenges?"
-      },
-      "moral_slider": {
-        "question": "Where do human effort and divine intervention intersect?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual support evolved?",
-        "options": [
-          "Deeper appreciation for communal prayer",
-          "More nuanced view of divine intervention",
-          "Recognizing personal agency within spiritual context",
-          "Understanding vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention occurs through strategic human actions",
           "Spiritual warfare requires simultaneous spiritual and practical engagement"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist prays",
+            "ref": "vv. 1-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the crowd praying for the king. You pray that the LORD will answer him and grant his petitions, and you hope to shout for joy at his victory. What do you hope God's answer will bring about?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "1 Samuel 17:45-47",
+        "summary": "The psalmist contrasts trust in chariots and horses with trust in the name of the LORD (v. 7). In 1 Samuel 17:45-47 David tells a Philistine who comes with sword and spear that he comes in the name of the LORD of Hosts.",
+        "question": "How does David's choice in 1 Samuel 17 help you understand the weight of the psalmist's choice between chariots and the name of the LORD?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "we trust in the name of the LORD our God",
+        "feeling": "anxiety, dread",
+        "object": "a looming deadline",
+        "behavior": "relying on my own strength",
+        "step": "rest in His character",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a looming deadline} and instead of {behavior:relying on my own strength}, I will {step:rest in His character}."
       }
     }
   }

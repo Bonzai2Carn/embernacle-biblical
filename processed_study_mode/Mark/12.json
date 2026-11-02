@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment in Mark 12 most reveals divine intention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Wicked Tenants Parable",
-            "expansion": "God's persistent love persists even after repeated rejection"
-          },
-          {
-            "id": 2,
-            "text": "Paying Taxes to Caesar",
-            "expansion": "Spiritual obligations can coexist with civic responsibilities"
-          },
-          {
-            "id": 3,
-            "text": "The Greatest Commandment",
-            "expansion": "Love transcends ritual and becomes the fundamental spiritual practice"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine authority is constantly challenged, how do we discern genuine spiritual leadership?"
-      },
-      "moral_slider": {
-        "question": "How do religious institutions balance prophetic critique with institutional survival?",
-        "left_label": "Radical Critique",
-        "right_label": "Institutional Preservation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authority shifted?",
-        "options": [
-          "More skeptical of religious institutions",
-          "Recognize complexity of spiritual leadership",
-          "Value authentic prophetic voices",
-          "Appreciate nuanced spiritual wisdom"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Conditional submission based on alignment with divine principles",
           "Complete subordination of civic authority to spiritual leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The Pharisees and Herodians asked",
+            "ref": "v. 14",
+            "speaker": "Some of the Pharisees and Herodians"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 17",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of those asking Him whether to pay taxes. What does His answer reveal about where your true obligations lie?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Isaiah 5:1-7",
+        "summary": "Jesus tells a parable about a vineyard and its tenants (vv. 1-9). Isaiah 5:1-7 describes a vineyard planted with the finest vines that produced sour grapes when the owner expected sweet ones.",
+        "question": "How does the vineyard in Isaiah 5:1-7 help you understand the outcome Jesus describes for the tenants in this parable?"
+      },
+      "conviction": {
+        "verse": 44,
+        "frame": "devotion",
+        "because": "a poor widow, out of her poverty, has put in all she had to live on",
+        "feeling": "inadequacy, shame",
+        "object": "my small contribution",
+        "behavior": "comparing myself to others",
+        "step": "offer what I have with a whole heart",
+        "template": "from today I let go of my {feeling:inadequacy, shame} over {object:my small contribution} and instead of {behavior:comparing myself to others}, I will {step:offer what I have with a whole heart}."
       }
     }
   }

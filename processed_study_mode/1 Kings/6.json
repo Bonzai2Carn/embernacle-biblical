@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of temple construction most resonates with spiritual dedication?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Precision in Design",
-            "expansion": "God values intentional, meticulously planned spiritual spaces that reflect divine order."
-          },
-          {
-            "id": 2,
-            "text": "Solomon's Personal Investment",
-            "expansion": "True worship requires personal commitment and substantial personal resources."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Material Richness",
-            "expansion": "Sacred spaces reflect spiritual value through excellence of craftsmanship and materials."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God doesn't dwell in human-made temples, why invest such extraordinary effort in constructing one?"
-      },
-      "moral_slider": {
-        "question": "How much human effort versus divine guidance shapes sacred spaces?",
-        "left_label": "Human Engineering",
-        "right_label": "Divine Inspiration"
-      },
-      "reevaluation": {
-        "question": "How has this chapter transformed your understanding of worship spaces?",
-        "options": [
-          "I see temples as more than physical structures",
-          "Precision in spiritual matters matters deeply",
-          "God values human creativity in worship",
-          "Sacred spaces reflect inner spiritual conditions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship spaces are symbolic representations of spiritual connection",
           "Physical structures are temporary representations of eternal spiritual realities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Solomon built the temple and finished it",
+            "ref": "vv. 9-10",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 12-13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Solomon's place. You have finished the house with cedar roofing and chambers. What does God's word to dwell among Israel change about the house you finished?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Exodus 25:8-9",
+        "summary": "God promises to dwell among the Israelites and not abandon them (v. 13). God earlier told Moses to make a sanctuary so that He might dwell among His people (Exodus 25:8-9).",
+        "question": "How does the original command to Moses help you understand the purpose of the temple Solomon is finishing?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "God fulfills His promise to the one who walks in His statutes and keeps all His commandments",
+        "feeling": "anxiety, restlessness",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "obey the next instruction I receive",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:obey the next instruction I receive}."
       }
     }
   }

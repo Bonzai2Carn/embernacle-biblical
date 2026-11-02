@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element of the sanctuary speaks most profoundly to you?",
-        "choices": [
-          {
-            "id": "lampstand",
-            "text": "The Lampstand of Divine Illumination",
-            "expansion": "Represents God's continuous spiritual guidance and revelation to humanity."
-          },
-          {
-            "id": "ark",
-            "text": "The Ark of Covenant as Divine Presence",
-            "expansion": "Symbolizes God's intimate covenant relationship and the mystery of divine proximity."
-          },
-          {
-            "id": "veil",
-            "text": "The Separating Veil between Holy Places",
-            "expansion": "Illustrates humanity's inherent separation from divine holiness before Christ's redemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the earthly sanctuary was a 'copy and shadow' of heavenly realities, what deeper truths might we be missing in our current understanding of worship?"
-      },
-      "moral_slider": {
-        "question": "How do you balance the tension between divine justice and mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Boundless Grace"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on sacrifice and atonement evolved?",
-        "options": [
-          "More appreciative of Christ's complete redemptive work",
-          "Deeper understanding of symbolic worship practices",
-          "Recognizing spiritual types and anti-types",
-          "Seeing God's consistent redemptive plan through history"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the limitations of human-mediated worship",
           "Illustrates God's progressive revelation of salvation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The author describes the earthly sacrifices",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a worshiper under the old system. Animal blood could clean a body, but what does this comparison reveal about what Christ's blood actually does for your inner life?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Leviticus 16:2-3",
+        "summary": "The author says that under the law nearly everything is purified with blood, and without the shedding of blood there is no forgiveness (v. 22). Leviticus 16:2-3 gives strict rules for how Aaron may enter the Most Holy Place, with a bull and a ram.",
+        "question": "How does the strict ritual in Leviticus 16:2-3 help you understand why the author says blood is needed for forgiveness?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the blood of Christ purifies our consciences from works of death",
+        "feeling": "guilt, shame",
+        "object": "my past failures",
+        "behavior": "replaying my mistakes",
+        "step": "serve the living God",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:my past failures} and instead of {behavior:replaying my mistakes}, I will {step:serve the living God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about family and community care resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Honoring Parents and Elders",
-            "expansion": "Generational respect transforms community accountability and spiritual inheritance."
-          },
-          {
-            "id": "b",
-            "text": "Supporting Vulnerable Widows",
-            "expansion": "Practical compassion reveals the church's truest theological commitment."
-          },
-          {
-            "id": "c",
-            "text": "Treating All Ages with Dignity",
-            "expansion": "Spiritual family transcends biological relationships through mutual respect."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might our perception of familial duty change if we viewed care as a sacred trust rather than mere obligation?"
-      },
-      "moral_slider": {
-        "question": "How do personal responsibility and communal support balance in caring for family?",
-        "left_label": "Individual Independence",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of family care evolved?",
-        "options": [
-          "More aware of intergenerational responsibilities",
-          "Recognize spiritual family beyond blood relations",
-          "Understand care as mutual, not unidirectional",
-          "See vulnerability as strength, not weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "View care as a collective spiritual obligation beyond biological relationships",
           "Emphasize individual autonomy in caring for community members"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone hearing that children and grandchildren must first learn to show godliness to their own family and repay their parents, for this is pleasing to God. Then you hear that anyone who does not provide for his own has denied the faith. What do you understand from that?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Leviticus 19:32",
+        "summary": "Paul instructs believers to repay their parents and show godliness to their families (v. 4). Leviticus gives a specific command to honor the elderly as a way to respect God.",
+        "question": "How does the command to honor the aged help you understand the duty of a child to their parents in this chapter?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "practice",
+        "because": "good deeds are obvious, and even the ones that are inconspicuous cannot remain hidden",
+        "feeling": "resentment, discouragement",
+        "object": "good work nobody notices",
+        "behavior": "seeking credit",
+        "step": "keep doing it quietly",
+        "template": "from today I let go of my {feeling:resentment, discouragement} over {object:good work nobody notices} and instead of {behavior:seeking credit}, I will {step:keep doing it quietly}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of persistent prayer resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Persistence despite apparent silence",
-            "expansion": "True prayer transcends immediate outcomes and trusts in divine timing."
-          },
-          {
-            "id": 2,
-            "text": "Challenging systemic injustice through determination",
-            "expansion": "Consistent advocacy can transform even indifferent systems."
-          },
-          {
-            "id": 3,
-            "text": "The power of an individual's unwavering spirit",
-            "expansion": "One person's relentless pursuit can ultimately move immovable obstacles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is guaranteed, why must we still persist in prayer and action?"
-      },
-      "moral_slider": {
-        "question": "How do human persistence and divine sovereignty interact in prayer?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has this parable challenged your understanding of prayer?",
-        "options": [
-          "I see prayer as more active and confrontational",
-          "I understand persistence differently now",
-          "I recognize my own tendency to give up too quickly",
-          "I see prayer as a dialogue, not just a request"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine timing often differs from human expectations",
           "Spiritual breakthrough requires consistent, unrelenting supplication"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The Pharisee prayed",
+            "ref": "v. 11",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "The tax collector prayed",
+            "ref": "v. 13",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the tax collector, who stands at a distance while the Pharisee thanks God for not being like other men. What would you weigh about your own prayer when you cry, 'God, have mercy on me, a sinner!'?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalms 51:1-4",
+        "summary": "The tax collector prays, 'God, have mercy on me, a sinner!' and goes home justified (v. 13-14). Psalm 51:1-4 asks God for mercy and says, 'For I know my transgressions, and my sin is always before me. Against You, You only, have I sinned.'",
+        "question": "How does Psalm 51:1-4 help you understand the prayer 'God, have mercy on me, a sinner!' in Luke 18:13?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "exposure",
+        "because": "everyone who exalts himself will be humbled, but the one who humbles himself will be exalted",
+        "feeling": "pride, self-importance",
+        "object": "my good record",
+        "behavior": "comparing myself to others",
+        "step": "pray a short prayer for mercy",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:my good record} into the light and instead of {behavior:comparing myself to others}, I will {step:pray a short prayer for mercy}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation concept resonates most deeply?",
-        "choices": [
-          {
-            "id": "fountain",
-            "text": "The cleansing fountain for sin",
-            "expansion": "Divine purification offers complete spiritual renewal beyond human capacity"
-          },
-          {
-            "id": "idols",
-            "text": "Removal of idolatrous influences",
-            "expansion": "True spiritual growth requires ruthless elimination of false spiritual attachments"
-          },
-          {
-            "id": "prophecy",
-            "text": "Accountability in spiritual leadership",
-            "expansion": "Authentic prophetic voices emerge through integrity and genuine divine revelation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual purification requires radical honesty, what illusions are you protecting?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and mercy intersect in spiritual transformation?",
-        "left_label": "Strict Judgment",
-        "right_label": "Graceful Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual cleansing evolved?",
-        "options": [
-          "Recognized personal spiritual blind spots",
-          "Understood mercy's transformative power",
-          "Appreciated divine patience",
-          "Seen integrity as a spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic refinement through divine judgment",
           "Unconditional restoration of Israel's spiritual heritage"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts commands the sword",
+            "ref": "v. 7",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The LORD of Hosts promises the third",
+            "ref": "v. 9",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the sheep. You hear that the Shepherd will be struck and the sheep scattered. What would you still wonder about the third that will be brought through the fire?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Ezekiel 36:25",
+        "summary": "Zechariah promises a fountain opened to cleanse the house of David from sin and impurity (v. 1). In Ezekiel the LORD says He will sprinkle clean water on His people and cleanse them from all their impurities and idols (Ezek 36:25).",
+        "question": "How does the clean water in Ezekiel 36:25 help you understand the fountain promised in Zechariah 13:1?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "the people will call on the LORD's name, and the LORD will answer them",
+        "feeling": "loneliness, isolation",
+        "object": "a season of testing",
+        "behavior": "withdrawing from others",
+        "step": "call out to Him in prayer",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a season of testing} and instead of {behavior:withdrawing from others}, I will {step:call out to Him in prayer}."
       }
     }
   }

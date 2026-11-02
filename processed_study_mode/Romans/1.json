@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological thread in Paul's introduction resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Promise Fulfilled",
-            "expansion": "The gospel was prophetically promised before Christ's arrival, revealing God's intentional redemptive plan."
-          },
-          {
-            "id": 2,
-            "text": "Resurrection's Power",
-            "expansion": "Christ's resurrection definitively demonstrates His divine identity and transformative spiritual authority."
-          },
-          {
-            "id": 3,
-            "text": "Universal Apostleship",
-            "expansion": "Grace enables believers to participate in spreading the gospel across all nations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might understanding Christ's lineage through David simultaneously affirm both His human vulnerability and divine sovereignty?"
-      },
-      "moral_slider": {
-        "question": "Where do you perceive the balance between human agency and divine predestination in salvation?",
-        "left_label": "Human Choice",
-        "right_label": "Divine Election"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of Christ's nature?",
-        "options": [
-          "More appreciative of Christ's dual nature",
-          "Recognizing deeper prophetic continuity",
-          "Understanding grace as missional",
-          "Seeing resurrection as transformative proof"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Scripture interpretation varies across cultural contexts",
           "Apostolic authority is limited to historical context"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Paul says he is not ashamed of the gospel",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says what the gospel reveals",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone hearing this for the first time. You hear that the gospel is the power of God for salvation to everyone who believes, and that it reveals righteousness that comes by faith, as it is written: 'The righteous will live by faith.' What would you understand about how that righteousness is received?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "John 1:14",
+        "summary": "Paul says God's Son was a descendant of David according to the flesh (v. 3) and was declared Son of God with power by His resurrection from the dead (v. 4). John says the Word became flesh and made His dwelling among us, and calls Him the one and only Son from the Father.",
+        "question": "How does John's statement that the Word became flesh help you understand Paul's words that the Son was a descendant of David according to the flesh?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "people who knew God neither glorified Him as God nor gave thanks to Him",
+        "feeling": "ingratitude, pride",
+        "object": "my many blessings",
+        "behavior": "taking credit for my success",
+        "step": "stop and thank Him for one specific mercy",
+        "template": "from today I bring my {feeling:ingratitude, pride} about {object:my many blessings} into the light and instead of {behavior:taking credit for my success}, I will {step:stop and thank Him for one specific mercy}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership principle resonates most strongly?",
-        "choices": [
-          {
-            "id": "unity",
-            "text": "Collective Spiritual Consensus",
-            "expansion": "David sought communal agreement before major spiritual decisions, demonstrating collaborative leadership."
-          },
-          {
-            "id": "reverence",
-            "text": "Honoring Divine Presence",
-            "expansion": "The ark represented God's tangible presence, suggesting deep respect for sacred spiritual symbols."
-          },
-          {
-            "id": "restoration",
-            "text": "Rekindling Spiritual Heritage",
-            "expansion": "Bringing back the ark symbolizes reconnecting with historical spiritual roots and divine covenant."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external rituals truly reflect internal spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do good intentions balance against precise spiritual protocols?",
-        "left_label": "Passionate Enthusiasm",
-        "right_label": "Strict Obedience"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of spiritual leadership?",
-        "options": [
-          "Leadership requires communal consensus",
-          "Spiritual symbols carry profound meaning",
-          "Mistakes can occur even with noble intentions",
-          "Divine presence transcends human methodology"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mercy and grace are always available, even after correction",
           "Personal intentions do not override established spiritual guidelines"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "the Israelites were celebrating",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "the LORD struck Uzzah down",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are part of this celebrating crowd. How does the sudden death of Uzzah change the way you view the music and the joy you were just sharing?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Leviticus 10:1-3",
+        "summary": "David and his men carry the ark on a new cart (v. 7), and Uzzah is struck down when he touches it (v. 10). In Leviticus 10:1-2, Nadab and Abihu offer unauthorized fire before the LORD, contrary to His command, and fire from the LORD consumes them.",
+        "question": "How does Leviticus 10:1-3 help you understand the way God views the manner in which His presence is approached?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "repair",
+        "because": "that day David feared God and asked how he could ever bring the ark of God to himself",
+        "feeling": "confusion, dread",
+        "object": "a mistake I made",
+        "behavior": "hiding from God",
+        "step": "approach Him with honesty",
+        "template": "from today I turn from my {feeling:confusion, dread} toward {object:a mistake I made} and instead of {behavior:hiding from God}, I will {step:approach Him with honesty}."
       }
     }
   }

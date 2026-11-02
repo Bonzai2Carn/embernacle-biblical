@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's relationship with Israel resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection",
-            "expansion": "God's sovereignty is demonstrated through His deliverance and preservation of Israel."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Partnership",
-            "expansion": "The relationship is transformative, moving from slavery to a purposeful national identity."
-          },
-          {
-            "id": 3,
-            "text": "Sacred Encounter",
-            "expansion": "The mountain represents a profound threshold between human limitation and divine transcendence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine communication requires preparation and sanctification, what inner barriers might prevent genuine spiritual receptivity?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance between mercy and accountability?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Strict Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "Recognizing collective spiritual journey",
-          "Understanding divine invitation requires human response",
-          "Seeing holiness as a process, not just a state",
-          "Appreciating symbolic significance of sacred spaces"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant is initiated by God's grace, not human merit",
           "Spiritual transformation demands intentional preparation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "All the people answered",
+            "ref": "v. 8",
+            "speaker": "All the people"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing these conditions. What does the promise of being a treasured possession make you weigh against the requirement to obey His voice?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "1 Peter 2:9-10",
+        "summary": "The LORD tells Israel they will be a kingdom of priests and a holy nation (v. 6). Peter applies these same titles to a new group of people who were once not a nation.",
+        "question": "How does Peter's use of these titles help you understand the identity God intended for His people at Sinai?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "the LORD says that if Israel obeys His voice and keeps His covenant, they will be His treasured possession",
+        "feeling": "distraction, apathy",
+        "object": "the noise of my daily routine",
+        "behavior": "ignoring His instructions",
+        "step": "listen for His direction",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the noise of my daily routine} and instead of {behavior:ignoring His instructions}, I will {step:listen for His direction}."
       }
     }
   }

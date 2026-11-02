@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What stands out most about the Israelites' initial migration to Egypt?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Family Unity",
-            "expansion": "Their migration preserved familial connections despite challenging circumstances."
-          },
-          {
-            "id": "b",
-            "text": "Divine Providence",
-            "expansion": "Even in transition, God's protective hand remains over His chosen people."
-          },
-          {
-            "id": "c",
-            "text": "Generational Resilience",
-            "expansion": "The seventy descendants represent potential for growth and survival."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might comfortable circumstances potentially blind a community to emerging threats?"
-      },
-      "moral_slider": {
-        "question": "How do external pressures impact a community's spiritual identity?",
-        "left_label": "Assimilation",
-        "right_label": "Preservation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community survival changed?",
-        "options": [
-          "Recognize collective strength matters more than individual power",
-          "Understand historical challenges shape communal resilience",
-          "Appreciate subtle dynamics of cultural preservation",
-          "Recognize vulnerability can precede transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual resilience emerges under persecution",
           "Covenant promises override human limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The new king said",
+            "ref": "v. 10",
+            "speaker": "The new king"
+          },
+          {
+            "who": "The Israelites multiplied and flourished",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the position of the Egyptians. The group you try to control keeps growing despite your efforts. What would you weigh as you watch them multiply?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 105:12-15",
+        "summary": "Exodus 1 records the Israelites growing numerous and filling the land (v. 7) while a new king rises to oppress them (v. 8). The Psalmist looks back to the patriarchs, a few strangers whom God protected from kings.",
+        "question": "The Psalmist describes God protecting those who were few in number. How does this help you view the growing power of the Israelites in Egypt?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "the midwives feared God and did not do as the king of Egypt had instructed",
+        "feeling": "fear, anxiety",
+        "object": "a direct order from a superior",
+        "behavior": "obeying to avoid conflict",
+        "step": "obey the command that honors God",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:a direct order from a superior} and instead of {behavior:obeying to avoid conflict}, I will {step:obey the command that honors God}."
       }
     }
   }

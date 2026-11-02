@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "God's judgment of corrupt leaders",
-            "expansion": "The psalm portrays divine intervention against systemic wickedness and oppression."
-          },
-          {
-            "id": "b",
-            "text": "Metaphorical imagery of moral decay",
-            "expansion": "The vivid language compares evil to venomous serpents, illustrating spiritual corruption."
-          },
-          {
-            "id": "c",
-            "text": "Ultimate accountability for wrongdoing",
-            "expansion": "The psalm affirms that no evil deed escapes ultimate spiritual reckoning."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is certain, what responsibilities do we bear in confronting societal injustice?"
-      },
-      "moral_slider": {
-        "question": "How do personal anger and divine justice intersect?",
-        "left_label": "Human Vengeance",
-        "right_label": "Spiritual Righteousness"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of justice?",
-        "options": [
-          "Recognizing systemic evil",
-          "Understanding spiritual accountability",
-          "Witnessing divine intervention",
-          "Reframing personal responses to injustice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals the consequences of persistent rebellion",
           "God's love ultimately supersedes His judicial actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The psalmist observes",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The men say",
+            "ref": "v. 11",
+            "speaker": "The men"
+          }
+        ],
+        "question": "Put yourself in the place of those watching the rulers. You see them devise injustice and mete out violence. What does the final declaration change about how you view their actions?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 94:1",
+        "summary": "The psalmist asks God to shatter the teeth of the wicked (v. 6). Psalm 94:1 calls on the LORD, the God of vengeance, to shine forth.",
+        "question": "How does Psalm 94:1 help you understand the plea for God to tear out the fangs of the lions (v. 6)?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "remembrance",
+        "because": "there is surely a God who judges the earth",
+        "feeling": "indignation, anger",
+        "object": "an unfair situation",
+        "behavior": "seeking my own revenge",
+        "step": "rest in His justice",
+        "template": "from today I bring You my {feeling:indignation, anger} about {object:an unfair situation} and instead of {behavior:seeking my own revenge}, I will {step:rest in His justice}."
       }
     }
   }

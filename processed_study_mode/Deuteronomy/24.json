@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine guidance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Protection of the vulnerable",
-            "expansion": "The passage emphasizes social compassion for marginalized groups like widows and workers."
-          },
-          {
-            "id": 2,
-            "text": "Ethical boundaries in relationships",
-            "expansion": "Divorce and remarriage regulations reveal complex interpersonal dynamics and spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Systemic justice through legal frameworks",
-            "expansion": "Detailed legal prescriptions demonstrate God's concern for procedural fairness and human dignity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might rigid legal interpretations potentially contradict the underlying spiritual intent of divine commandments?"
-      },
-      "moral_slider": {
-        "question": "To what extent should ancient legal principles be directly applied in contemporary contexts?",
-        "left_label": "Literal Interpretation",
-        "right_label": "Contextual Adaptation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical legal frameworks evolved?",
-        "options": [
-          "More nuanced appreciation of cultural context",
-          "Recognize complexity beyond surface-level rules",
-          "Greater respect for systemic compassion",
-          "Deeper understanding of human dignity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Relational covenants require compassion and ethical consideration",
           "Systemic justice emerges from recognizing individual human worth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The command is",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The reason is",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the lender. What does the requirement to return the security by sunset change about how you view your power over a neighbor's property?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "James 1:27",
+        "summary": "The law forbids denying justice to the foreigner or the fatherless and taking a widow's cloak as security (v. 17). James defines pure religion as caring for orphans and widows in their distress (James 1:27).",
+        "question": "How does James 1:27 help you understand why the LORD commands you to protect the widow and the fatherless?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "a hired hand is poor and depends on his wages",
+        "feeling": "indifference, greed",
+        "object": "someone working for me",
+        "behavior": "delaying their payment",
+        "step": "pay what is owed immediately",
+        "template": "from today I let go of my {feeling:indifference, greed} over {object:someone working for me} and instead of {behavior:delaying their payment}, I will {step:pay what is owed immediately}."
       }
     }
   }

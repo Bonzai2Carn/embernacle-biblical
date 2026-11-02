@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of early Christian persecution speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resilience of Faith",
-            "expansion": "Despite violent opposition, believers continued spreading the gospel without retreating"
-          },
-          {
-            "id": 2,
-            "text": "Unexpected Gospel Spread",
-            "expansion": "Persecution paradoxically accelerated the church's geographical expansion"
-          },
-          {
-            "id": 3,
-            "text": "Individual Transformation",
-            "expansion": "The dramatic potential for radical personal change, as seen in Saul's future conversion"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might suffering and opposition actually serve as catalysts for spiritual growth and movement?"
-      },
-      "moral_slider": {
-        "question": "To what extent should believers compromise personal safety versus boldly proclaiming their faith?",
-        "left_label": "Personal Preservation",
-        "right_label": "Radical Proclamation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of early Christian mission shifted after examining this chapter?",
-        "options": [
-          "I now see persecution as potentially strategic, not just destructive",
-          "The courage of early believers challenges my own faith commitment",
-          "Geographic dispersion was part of God's larger redemptive plan",
-          "Individual testimony matters more than institutional stability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenges to faith strengthen theological conviction",
           "Divine sovereignty transforms human opposition into redemptive opportunities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The church was scattered",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Those who were scattered preached the word",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the scattered believers. A great persecution drives you out of Jerusalem. What would you do with the word you have heard, wherever you go?"
+      },
+      "chain": {
+        "after": 35,
+        "ref": "Isaiah 53:7",
+        "summary": "The eunuch reads a passage about a silent lamb led to slaughter (v. 32-33). Philip uses these specific words to explain the good news of Jesus (v. 35).",
+        "question": "How does seeing the suffering described in Isaiah help you understand the good news Philip shares with the official?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "a heart that is not right before God has no part or share in the ministry",
+        "feeling": "deceit, pride",
+        "object": "a religious habit",
+        "behavior": "performing for others",
+        "step": "ask God to search me",
+        "template": "from today I bring my {feeling:deceit, pride} about {object:a religious habit} into the light and instead of {behavior:performing for others}, I will {step:ask God to search me}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership dynamic most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Calling of Missionaries",
-            "expansion": "The Holy Spirit's direct commissioning demonstrates supernatural guidance beyond human organizational structures."
-          },
-          {
-            "id": 2,
-            "text": "Collaborative Leadership",
-            "expansion": "Multiple prophets and teachers discerning God's direction together reveals the power of communal spiritual discernment."
-          },
-          {
-            "id": 3,
-            "text": "Sacrificial Sending",
-            "expansion": "The church's willingness to release key leaders for mission represents profound spiritual generosity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine calling interrupts personal plans, what truly defines the trajectory of one's life: individual ambition or spiritual purpose?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and missional risk balance in spiritual transformation?",
-        "left_label": "Safety/Comfort",
-        "right_label": "Risk/Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More aware of divine orchestration",
-          "Recognize importance of community discernment",
-          "Understand mission requires personal sacrifice",
-          "Appreciate collaborative spiritual leadership"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Missionary calling emerges through corporate spiritual confirmation",
           "Individual spiritual gifts predetermine missionary effectiveness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 46,
+        "exchange": [
+          {
+            "who": "The Jews saw the crowds and were filled with jealousy, contradicting the word",
+            "ref": "v. 45",
+            "speaker": ""
+          },
+          {
+            "who": "Barnabas answered that they now turn to the Gentiles",
+            "ref": "v. 46",
+            "speaker": "Barnabas"
+          }
+        ],
+        "question": "Put yourself in the place of the apostles facing such intense opposition. What does their decision to change their focus reveal about their priority?"
+      },
+      "chain": {
+        "after": 47,
+        "ref": "Isaiah 6:8",
+        "summary": "The Lord has commanded the apostles to be a light to the Gentiles (v. 47). Isaiah hears the Lord ask who will go for Him, and he answers, Send me!",
+        "question": "How does Isaiah's immediate response help you understand the weight of the command given to Paul and Barnabas?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "practice",
+        "because": "through Jesus the forgiveness of sins is proclaimed",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "replaying my mistakes",
+        "step": "accept the righteousness found in Him",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:replaying my mistakes}, I will {step:accept the righteousness found in Him}."
       }
     }
   }

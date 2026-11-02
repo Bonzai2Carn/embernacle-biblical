@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership principle resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inclusive Invitation",
-            "expansion": "Hezekiah's invitation extended beyond traditional boundaries, showing God's desire for widespread reconciliation."
-          },
-          {
-            "id": 2,
-            "text": "Liturgical Flexibility",
-            "expansion": "The willingness to adapt religious observance when genuine spiritual intent exists demonstrates divine grace."
-          },
-          {
-            "id": 3,
-            "text": "Communal Repentance",
-            "expansion": "The collective turning back to God suggests spiritual renewal is a shared, not individual, journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If religious practice becomes more about ritual than relationship, have we missed the heart of true worship?"
-      },
-      "moral_slider": {
-        "question": "How do we balance institutional religious tradition with spiritual authenticity?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Spiritual Flexibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership shifted after studying this chapter?",
-        "options": [
-          "More aware of inclusive invitation",
-          "Recognize importance of collective spiritual movement",
-          "Understand grace allows for imperfect implementation",
-          "See leadership as facilitating, not controlling, spiritual experiences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership plays a crucial role in guiding people back to authentic worship",
           "Individual spiritual transformation is more important than communal restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The messengers said to Israel and Judah",
+            "ref": "v. 9",
+            "speaker": "The messengers"
+          },
+          {
+            "who": "Some from Asher, Manasseh, and Zebulun humbled themselves",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone from Asher or Zebulun who hears the message. The text says the LORD is gracious and merciful and will not turn His face away from those who return to Him. What would you weigh before you decide to humble yourself and come?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Joel 2:12-13",
+        "summary": "The couriers urge Israel and Judah to return to the LORD (v. 6). Joel calls the people to return to the LORD with all their heart (Joel 2:12-13).",
+        "question": "How does Joel's call to return with all your heart help you understand the couriers' call to come back to the LORD?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "repair",
+        "because": "some from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem",
+        "feeling": "pride, stubbornness",
+        "object": "an invitation to return",
+        "behavior": "scorning the invitation",
+        "step": "accept the invitation and come",
+        "template": "from today I turn from my {feeling:pride, stubbornness} toward {object:an invitation to return} and instead of {behavior:scorning the invitation}, I will {step:accept the invitation and come}."
       }
     }
   }

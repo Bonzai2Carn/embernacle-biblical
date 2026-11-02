@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight from God's revelation most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God speaks through His Son, not just prophets",
-            "expansion": "Jesus represents the ultimate, definitive communication of divine truth and nature."
-          },
-          {
-            "id": 2,
-            "text": "Christ is the heir and creator of all worlds",
-            "expansion": "Jesus transcends creation as both its origin and ultimate inheritor."
-          },
-          {
-            "id": 3,
-            "text": "Christ is the exact representation of God's being",
-            "expansion": "In Christ, we see the precise manifestation of divine essence and character."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's communication has shifted from prophetic intermediaries to direct revelation through His Son, what implications does this have for how we understand divine dialogue?"
-      },
-      "moral_slider": {
-        "question": "How do you balance understanding Christ's divine majesty with His intimate accessibility?",
-        "left_label": "Transcendent/Distant",
-        "right_label": "Immanent/Personal"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christ's nature evolved from this chapter?",
-        "options": [
-          "More aware of His cosmic significance",
-          "Deeper appreciation for His redemptive role",
-          "Recognizing Christ as ultimate divine communication",
-          "Seeing Jesus as both creator and inheritor"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The theological significance of Christ's superiority demonstrates His unique redemptive mission",
           "Understanding Christ's supremacy provides a framework for Christian theological interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "God spoke to our fathers",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "He has spoken to us by His Son",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who heard the prophets. How does the arrival of the Son change what you expect from God's voice?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Colossians 1:15-20",
+        "summary": "Hebrews describes the Son as the radiance of God's glory and the upholder of all things (v. 3). Colossians uses similar language to show how all things were created through Him and for Him.",
+        "question": "How does Colossians 1:15-20 help you understand the scale of the Son's authority in verse 3?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "the Son upholds all things by His powerful word",
+        "feeling": "anxiety, dread",
+        "object": "a situation out of my control",
+        "behavior": "trying to fix it myself",
+        "step": "rest in His power",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a situation out of my control} to God and instead of {behavior:trying to fix it myself}, I will {step:rest in His power}."
       }
     }
   }

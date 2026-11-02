@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most strongly in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Hometown Rejection",
-            "expansion": "Familiarity can blind people to extraordinary potential and divine calling."
-          },
-          {
-            "id": 2,
-            "text": "Missional Empowerment",
-            "expansion": "Jesus strategically equips disciples with spiritual authority beyond their perceived limitations."
-          },
-          {
-            "id": 3,
-            "text": "Compassionate Provision",
-            "expansion": "Divine care transcends logistical constraints through miraculous multiplication."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If personal familiarity can obstruct spiritual recognition, what internal barriers might prevent us from perceiving transformative truth?"
-      },
-      "moral_slider": {
-        "question": "How do human expectations limit divine intervention?",
-        "left_label": "Human Skepticism",
-        "right_label": "Spiritual Receptivity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authority evolved?",
-        "options": [
-          "Recognize limitations are often self-imposed",
-          "Understand divine empowerment surpasses human credentials",
-          "Appreciate vulnerability in spiritual leadership",
-          "Recognize compassion as a core missional strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Proximity breeds skepticism rather than authentic spiritual discernment",
           "Cultural expectations can blind individuals to supernatural potential"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people asked",
+            "ref": "v. 2",
+            "speaker": "The people"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the people in His hometown. You ask where this man got such wisdom and how He can perform miracles, and you hear Him say a prophet is without honor in his hometown, among his relatives, and in his own household. What do you weigh?"
+      },
+      "chain": {
+        "after": 37,
+        "ref": "Matthew 14:13-21",
+        "summary": "In Mark, the disciples point to the desolate place and the late hour (v. 35-36). Matthew 14:14 adds that Jesus saw the large crowd, had compassion on them, and healed their sick, and then 14:16 has Him say, 'You give them something to eat.'",
+        "question": "How does Matthew 14:13-21 help you understand the disciples' words about the desolate place and the late hour in Mark 6:35-36?"
+      },
+      "conviction": {
+        "verse": 50,
+        "frame": "trust",
+        "because": "Jesus told the terrified disciples to take courage, that it was He, and not to be afraid",
+        "feeling": "terror, panic",
+        "object": "a sudden storm in my life",
+        "behavior": "relying on my own strength",
+        "step": "listen for His voice",
+        "template": "from today I entrust my {feeling:terror, panic} about {object:a sudden storm in my life} to God and instead of {behavior:relying on my own strength}, I will {step:listen for His voice}."
       }
     }
   }

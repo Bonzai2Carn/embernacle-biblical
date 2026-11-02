@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional experience resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Profound Loneliness",
-            "expansion": "The city's isolation represents a spiritual abandonment that transcends physical separation."
-          },
-          {
-            "id": 2,
-            "text": "Collective Suffering",
-            "expansion": "The communal pain reflects how individual and national trauma are interconnected."
-          },
-          {
-            "id": 3,
-            "text": "Undeserved Punishment",
-            "expansion": "The sense of divine correction versus arbitrary destruction creates existential tension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering reveals character, what does Jerusalem's response to devastation teach us about human resilience and spiritual depth?"
-      },
-      "moral_slider": {
-        "question": "How do we balance divine judgment with compassionate understanding?",
-        "left_label": "Strict Divine Accountability",
-        "right_label": "Merciful Redemptive Perspective"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal trauma evolved?",
-        "options": [
-          "Recognized deeper spiritual dimensions",
-          "Understood collective psychological impact",
-          "Appreciated complexity of historical suffering",
-          "Gained empathy for generational pain"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering is a random consequence of human actions without deeper spiritual meaning",
           "Divine correction reflects God's parental love and desire for restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The poet describes Zion",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "Zion confesses",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Zion, with her hands stretched out and no one to comfort her. Then you hear her own words: The LORD is righteous, for I have rebelled against His command. Does admitting your rebellion make the suffering easier to bear or harder to face?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 137:1-4",
+        "summary": "The speaker in Lamentations asks passersby to notice the depth of her sorrow (v. 12). The psalmist captures this same scene of mourning by sitting by rivers in exile and refusing to sing (vv. 1-4).",
+        "question": "How does the psalmist's refusal to sing help you understand the weight of the grief described in this chapter?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "the LORD is righteous, for I have rebelled against His command",
+        "feeling": "shame, guilt",
+        "object": "my hidden failures",
+        "behavior": "hiding from Your presence",
+        "step": "confess my rebellion to You",
+        "template": "from today I bring You my {feeling:shame, guilt} about {object:my hidden failures} and instead of {behavior:hiding from Your presence}, I will {step:confess my rebellion to You}."
       }
     }
   }

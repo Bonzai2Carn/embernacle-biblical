@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most profoundly about Jesus' promise?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Preparing a place for believers",
-            "expansion": "Divine intentionality suggests our eternal significance transcends temporal understanding."
-          },
-          {
-            "id": 2,
-            "text": "'Do not let your heart be troubled'",
-            "expansion": "Spiritual peace emerges from trust beyond immediate circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Knowing the way through Christ",
-            "expansion": "Personal relationship with Jesus provides navigational clarity for life's deepest journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Jesus promises a prepared place, what might that reveal about the nature of divine relationship versus transactional spirituality?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human uncertainty with spiritual confidence?",
-        "left_label": "Doubt",
-        "right_label": "Absolute Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual journey evolved?",
-        "options": [
-          "More aware of divine intentionality",
-          "Recognizing peace beyond circumstances",
-          "Understanding relationship over ritual",
-          "Embracing mystery of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual interpretation of spiritual truth supersedes Christ's claims",
           "Salvation is fundamentally about personal moral achievement"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Thomas asked",
+            "ref": "v. 5",
+            "speaker": "Thomas"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 6",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Thomas's place, facing the uncertainty of the path ahead. How does Jesus's claim change your understanding of where you are going?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Philippians 4:6-7",
+        "summary": "Jesus promises a peace that the world cannot give (v. 27). Paul describes the result of bringing everything to God in prayer: a peace that guards the heart.",
+        "question": "How does Paul's instruction on prayer help you receive the peace Jesus leaves with you?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "if you love Jesus, you will keep His commandments",
+        "feeling": "indifference, apathy",
+        "object": "the instructions in Scripture",
+        "behavior": "ignoring what is right",
+        "step": "obey one specific command",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the instructions in Scripture} and instead of {behavior:ignoring what is right}, I will {step:obey one specific command}."
       }
     }
   }

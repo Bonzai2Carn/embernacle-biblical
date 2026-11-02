@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic intrigues you most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Transparency",
-            "expansion": "God sees beyond surface actions into the heart's true motivations."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Accountability",
-            "expansion": "Individual actions have profound communal and spiritual consequences."
-          },
-          {
-            "id": 3,
-            "text": "Supernatural Intervention",
-            "expansion": "The Holy Spirit actively judges and reveals hidden spiritual realities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If absolute transparency were required in all human interactions, how would community and trust fundamentally transform?"
-      },
-      "moral_slider": {
-        "question": "How do personal intentions relate to spiritual integrity?",
-        "left_label": "Individual Freedom",
-        "right_label": "Divine Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity shifted?",
-        "options": [
-          "I recognize the importance of internal integrity",
-          "I'm more aware of hidden motivations",
-          "I see community as a spiritual ecosystem",
-          "I understand divine judgment differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Transparency and genuine heart motivation are more important than external religious performance",
           "Spiritual communities must maintain high standards of moral accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "The high priest said",
+            "ref": "v. 28",
+            "speaker": "The high priest"
+          },
+          {
+            "who": "Peter and the other apostles replied",
+            "ref": "v. 29",
+            "speaker": "The other apostles"
+          }
+        ],
+        "question": "Put yourself in the place of the apostles, told you had strict orders not to teach in this name. What would you weigh as you answer, 'We must obey God rather than men'?"
+      },
+      "chain": {
+        "after": 32,
+        "ref": "John 15:26-27",
+        "summary": "The apostles say they are witnesses, and so is the Holy Spirit whom God has given to those who obey Him (v. 32). John 15:26-27 says the Spirit of truth will testify about Jesus, and 'you also must testify, because you have been with Me from the beginning.'",
+        "question": "How does John 15:26-27 help you understand the apostles' words about the Spirit as a witness in v. 32?"
+      },
+      "conviction": {
+        "verse": 41,
+        "frame": "devotion",
+        "because": "the apostles rejoiced that they were counted worthy of suffering disgrace for the Name",
+        "feeling": "shame, embarrassment",
+        "object": "criticism from my peers",
+        "behavior": "withdrawing from my community",
+        "step": "speak the truth with courage",
+        "template": "from today I let go of my {feeling:shame, embarrassment} over {object:criticism from my peers} and instead of {behavior:withdrawing from my community}, I will {step:speak the truth with courage}."
       }
     }
   }

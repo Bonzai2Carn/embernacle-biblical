@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about David's organizational approach to temple service?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Systematic Allocation of Levites",
-            "expansion": "Purposeful distribution reveals David's strategic vision for spiritual infrastructure."
-          },
-          {
-            "id": "B",
-            "text": "Age-Based Ministerial Roles",
-            "expansion": "Recognizing that spiritual service requires maturity and readiness."
-          },
-          {
-            "id": "C",
-            "text": "Preparing for Generational Transition",
-            "expansion": "David's meticulous planning ensures continuity of worship beyond his lifetime."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might precise organizational structures potentially both enhance and potentially constrain spiritual spontaneity?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious service be structured versus Spirit-led?",
-        "left_label": "Rigid Organization",
-        "right_label": "Spontaneous Inspiration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and spiritual service shifted?",
-        "options": [
-          "More appreciation for strategic planning",
-          "Greater respect for generational continuity",
-          "Deeper understanding of ministerial roles",
-          "Recognizing complexity of spiritual administration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership succession ensures generational spiritual continuity",
           "Organizational precision reflects God's ultimate sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 25",
+            "speaker": "David"
+          },
+          {
+            "who": "the Levites no longer need to carry the tabernacle or any of the articles for its service",
+            "ref": "v. 26",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a Levite who has always carried the heavy components of the Tabernacle. How does David's news about God's rest change your view of your new duties?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Numbers 3:5-10",
+        "summary": "The Levites' duty was to assist the descendants of Aaron with the service of the house of the LORD (v. 28). Numbers 3:6-8 says the tribe of Levi was brought to Aaron the priest to assist him and to take care of all the furnishings of the Tent of Meeting.",
+        "question": "How does Numbers 3:5-10 help you understand the Levites' duty to assist the descendants of Aaron in verse 28?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "practice",
+        "because": "the Levites were to stand every morning to give thanks and praise to the LORD",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "rushing straight into tasks",
+        "step": "pause to name one blessing",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning routine} and instead of {behavior:rushing straight into tasks}, I will {step:pause to name one blessing}."
       }
     }
   }

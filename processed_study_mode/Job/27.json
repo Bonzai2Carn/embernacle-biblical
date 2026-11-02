@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of suffering resonates most profoundly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Maintaining personal integrity despite adversity",
-            "expansion": "Job's commitment to righteousness transcends his immediate painful circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Rejecting false consolations from others",
-            "expansion": "Job refuses to compromise his truth to satisfy his friends' theological narratives."
-          },
-          {
-            "id": 3,
-            "text": "Affirming God's ultimate justice beyond current perception",
-            "expansion": "Job maintains belief in divine justice even while experiencing profound personal injustice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might maintaining moral integrity in suffering be itself a form of spiritual resistance?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate personal dignity in the face of inexplicable suffering?",
-        "left_label": "Victimhood",
-        "right_label": "Transcendence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal resilience evolved?",
-        "options": [
-          "Recognizing suffering does not define worth",
-          "Understanding integrity as a choice, not a circumstance",
-          "Seeing moral courage as an internal state",
-          "Rejecting simplistic explanations of complex experiences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine justice operates beyond human comprehension",
           "Personal faith can withstand profound theological challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Job says",
+            "ref": "v. 11",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job asks",
+            "ref": "v. 12",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in the place of Job's friends. He claims he will teach you the power of God and calls your words empty. Do you see his words as a lesson or as an attack?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Ecclesiastes 7:15",
+        "summary": "Job describes the end of the ruthless and the loss of their wealth (vv. 13-21). Ecclesiastes says a righteous man can perish in his righteousness while a wicked man lives long in his wickedness (Eccl 7:15).",
+        "question": "How does Ecclesiastes 7:15 help you weigh Job's claim about the end of the ruthless?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "my lips will not speak wickedness, and my tongue will not utter deceit",
+        "feeling": "bitterness, anger",
+        "object": "a perceived injustice",
+        "behavior": "complaining about others",
+        "step": "speak only what is true and kind",
+        "template": "from today I let go of my {feeling:bitterness, anger} over {object:a perceived injustice} and instead of {behavior:complaining about others}, I will {step:speak only what is true and kind}."
       }
     }
   }

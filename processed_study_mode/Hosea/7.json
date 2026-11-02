@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with the chapter's message?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Disappointment",
-            "expansion": "God's profound sorrow when His people repeatedly choose betrayal over faithfulness."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Corruption",
-            "expansion": "How societal wickedness becomes normalized and accepted among leadership and people."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Blindness",
-            "expansion": "The tragic inability to recognize one's own moral deterioration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might a community become so morally compromised that it cannot recognize its own descent into wickedness?"
-      },
-      "moral_slider": {
-        "question": "To what degree does divine judgment reflect love versus punishment?",
-        "left_label": "Punishment",
-        "right_label": "Redemptive Love"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine-human relationship?",
-        "options": [
-          "I see God's hurt more deeply",
-          "I recognize systemic sin more clearly",
-          "I understand divine patience differently",
-          "I'm more aware of personal accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine love remains constant even when human faithfulness fluctuates",
           "Spiritual restoration requires complete national repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The prophet charges",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this charge. Their arrogance testifies against them, yet they do not return to the LORD their God or seek Him. What would you still wonder about why they stay away?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Romans 1:28-32",
+        "summary": "Hosea describes a people who do not notice their own decay or the loss of their strength (v. 9). Paul describes people who did not see fit to acknowledge God, so He gave them up to a depraved mind.",
+        "question": "How does Paul's account of people God gave up to a depraved mind help you understand why Ephraim does not notice his own decay?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "exposure",
+        "because": "the LORD remembers all evil, and every deed is before His face",
+        "feeling": "shame, guilt",
+        "object": "a hidden mistake",
+        "behavior": "trying to hide it from others",
+        "step": "tell a trusted friend what I did",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a hidden mistake} into the light and instead of {behavior:trying to hide it from others}, I will {step:tell a trusted friend what I did}."
       }
     }
   }

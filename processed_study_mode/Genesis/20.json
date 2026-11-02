@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most from Abraham's actions?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection Despite Human Weakness",
-            "expansion": "God's grace continues even when humans make strategic, self-protective choices."
-          },
-          {
-            "id": 2,
-            "text": "Repeated Patterns of Deception",
-            "expansion": "Abraham's repeated strategy of presenting Sarah as his sister reveals deep human psychological patterns."
-          },
-          {
-            "id": 3,
-            "text": "Sovereignty Over Interpersonal Dynamics",
-            "expansion": "God intervenes to prevent potential harm and maintain His covenant promise."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection exists, does human moral responsibility become less significant?"
-      },
-      "moral_slider": {
-        "question": "To what extent is strategic self-preservation acceptable in challenging moral circumstances?",
-        "left_label": "Self-Protection",
-        "right_label": "Absolute Honesty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine providence shifted?",
-        "options": [
-          "More aware of God's intervention in human affairs",
-          "Recognize complexity of biblical characters' motivations",
-          "Understand grace operates beyond human perfection",
-          "Appreciate nuanced biblical narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant promises are unconditional and independent of human performance",
           "God preserves righteous individuals even in compromising circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Abimelech asked",
+            "ref": "v. 4",
+            "speaker": "Abimelech"
+          },
+          {
+            "who": "God said",
+            "ref": "v. 6",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Abimelech's place. You ask whether God would destroy a nation even though it is innocent. What would you understand about how God views your intent when He says you did this with a clear conscience?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 105:14-15",
+        "summary": "God tells Abimelech in a dream that He kept him from sinning and did not let him touch the woman, and that the man is a prophet (vv. 6-7). Psalm 105:14-15 says God let no man oppress them, rebuked kings on their behalf, and said, 'Do not touch My anointed ones! Do no harm to My prophets!'",
+        "question": "How does Psalm 105:14-15 help you understand why God would not let Abimelech touch Abraham's wife?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "repair",
+        "because": "Abraham prayed to God, and God healed",
+        "feeling": "anxiety, dread",
+        "object": "a broken relationship",
+        "behavior": "withdrawing in silence",
+        "step": "pray for those involved",
+        "template": "from today I turn from my {feeling:anxiety, dread} toward {object:a broken relationship} and instead of {behavior:withdrawing in silence}, I will {step:pray for those involved}."
       }
     }
   }

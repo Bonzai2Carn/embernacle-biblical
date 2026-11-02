@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about this moment of public scripture reading?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Community Unity",
-            "expansion": "The people gathered 'as one man', demonstrating profound collective spiritual alignment."
-          },
-          {
-            "id": 2,
-            "text": "Scriptural Authority",
-            "expansion": "The Law was central, showing how divine text can transform communal understanding."
-          },
-          {
-            "id": 3,
-            "text": "Emotional Spiritual Response",
-            "expansion": "The people wept upon hearing the scriptures, revealing deep spiritual vulnerability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might understanding sacred texts differently transform personal and communal identity?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate spiritual transformation: in intellectual comprehension or emotional experience?",
-        "left_label": "Intellectual Understanding",
-        "right_label": "Emotional Response"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on communal spiritual learning shifted?",
-        "options": [
-          "I see deeper value in collective scriptural engagement",
-          "Individual interpretation matters more than I previously thought",
-          "Emotional responses are valid spiritual experiences",
-          "Leadership's role in spiritual education is crucial"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Establishes accountability through shared biblical knowledge",
           "Reconnects people with historical spiritual foundations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The people were weeping as they heard the words of the Law",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Nehemiah told them",
+            "ref": "v. 10",
+            "speaker": "Nehemiah"
+          }
+        ],
+        "question": "Put yourself in the place of the weeping assembly. You have heard the words of the Law, and the governor tells you not to mourn or weep. What would you weigh about this command, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "James 1:22-25",
+        "summary": "The people understood the words made known to them and rejoiced (v. 12). James says the one who looks intently into the perfect law of freedom and acts on it will be blessed (James 1:25).",
+        "question": "How does James's call to be doers of the word, not hearers only, help you understand what the people did with the Law they understood?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the joy of the LORD is your strength",
+        "feeling": "heaviness, despair",
+        "object": "my past mistakes",
+        "behavior": "withdrawing from others",
+        "step": "share what I have with those in need",
+        "template": "from today I let go of my {feeling:heaviness, despair} over {object:my past mistakes} and instead of {behavior:withdrawing from others}, I will {step:share what I have with those in need}."
       }
     }
   }

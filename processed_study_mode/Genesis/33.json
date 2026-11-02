@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of reconciliation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Humility in Approach",
-            "expansion": "Jacob's seven bows reveal profound psychological preparation and vulnerability before potential conflict."
-          },
-          {
-            "id": 2,
-            "text": "Unexpected Grace",
-            "expansion": "Esau's emotional embrace contradicts years of anticipated revenge, demonstrating transformative forgiveness."
-          },
-          {
-            "id": 3,
-            "text": "Strategic Peacemaking",
-            "expansion": "Jacob's careful positioning of family suggests intentional, protective reconciliation strategies."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What inner transformations must occur for genuine reconciliation to replace historical resentment?"
-      },
-      "moral_slider": {
-        "question": "How do past conflicts shape present relationship dynamics?",
-        "left_label": "Perpetual Conflict",
-        "right_label": "Radical Forgiveness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of reconciliation shifted?",
-        "options": [
-          "Recognized complexity of interpersonal healing",
-          "Understood vulnerability's role in restoration",
-          "Appreciated unexpected pathways to forgiveness",
-          "Recognized strategic peacemaking requires emotional intelligence"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's providence operates beyond human expectations",
           "Reconciliation requires personal vulnerability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jacob bowed to the ground seven times",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Esau ran to him and embraced him",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jacob's place. You bow to the ground seven times as you approach your brother. What would you understand when Esau runs to you, embraces you, and kisses you?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Romans 12:18",
+        "summary": "Jacob seeks favor and presents a gift to reconcile with his brother (v. 10-11). Paul instructs believers to live in peace with everyone as far as it depends on them.",
+        "question": "How does Paul's command to live at peace help you understand Jacob's persistence in seeking Esau's acceptance?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "devotion",
+        "because": "God has been gracious to me and I have all I need",
+        "feeling": "anxiety, discontent",
+        "object": "my current circumstances",
+        "behavior": "striving for more",
+        "step": "thank God for His provision",
+        "template": "from today I let go of my {feeling:anxiety, discontent} over {object:my current circumstances} and instead of {behavior:striving for more}, I will {step:thank God for His provision}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Pursuing Empty Winds",
-            "expansion": "Ephraim's futile chase represents humanity's tendency to seek meaning in transient, insubstantial pursuits."
-          },
-          {
-            "id": 2,
-            "text": "Wrestling with Divine Encounter",
-            "expansion": "Jacob's transformative struggle symbolizes the profound spiritual metamorphosis available through genuine spiritual confrontation."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Betrayal",
-            "expansion": "The narrative reveals how nations and individuals repeatedly break sacred relational commitments with divine consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual desolation is a chosen path, what invisible mechanisms compel us to persistently select emptiness over authentic connection?"
-      },
-      "moral_slider": {
-        "question": "How do human strategies of self-preservation compare with divine strategies of redemption?",
-        "left_label": "Human Manipulation",
-        "right_label": "Divine Transformation"
-      },
-      "reevaluation": {
-        "question": "Which perspectives have shifted in your understanding of spiritual struggle?",
-        "options": [
-          "Recognition of inner spiritual conflict",
-          "Understanding divine patience",
-          "Awareness of systemic spiritual patterns",
-          "Perception of personal agency in transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's mercy transcends national or individual faithlessness",
           "Spiritual legacy can be transformed through genuine repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD brings a charge",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people receiving this charge. You hear that He will repay Jacob according to his deeds, and then you hear what return to your God looks like. What do you weigh about maintaining love and justice and always waiting?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Genesis 32:24-30",
+        "summary": "The chapter says Jacob wrestled with God and sought His favor (vv. 3-4). Genesis 32 tells of a man who wrestled with Jacob until daybreak, and Jacob would not let go unless he was blessed.",
+        "question": "How does the wrestling in Genesis 32:24-30 help you understand what Hosea says about Jacob in this chapter?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "returning to God means maintaining love and justice and always waiting on Him",
+        "feeling": "impatience, anxiety",
+        "object": "a delay in my plans",
+        "behavior": "trying to force my own way",
+        "step": "wait quietly for His timing",
+        "template": "from today I let go of my {feeling:impatience, anxiety} over {object:a delay in my plans} and instead of {behavior:trying to force my own way}, I will {step:wait quietly for His timing}."
       }
     }
   }

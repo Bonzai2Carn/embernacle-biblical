@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of divine revelation most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's proclamation of mercy and grace",
-            "expansion": "Understanding divine compassion beyond transactional judgment"
-          },
-          {
-            "id": 2,
-            "text": "Moses' transformative encounter on Mount Sinai",
-            "expansion": "Personal spiritual experiences that fundamentally alter human perception"
-          },
-          {
-            "id": 3,
-            "text": "The renewal of the covenant after betrayal",
-            "expansion": "Exploring redemption and the possibility of restoration after profound human failure"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mercy is boundless, what responsibility does that place on human agency and accountability?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist?",
-        "left_label": "Strict Justice",
-        "right_label": "Infinite Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual relationship changed?",
-        "options": [
-          "More aware of personal limitations",
-          "Recognize complexity of divine interaction",
-          "Appreciate nuanced interpretation of sacred texts",
-          "Understand grace as transformative, not transactional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Covenant relationship depends on God's character, not human performance",
           "Theological understanding requires direct divine revelation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this command. What does it mean to you that the LORD's name is Jealous when He says you must not worship any other god?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 103:8",
+        "summary": "The LORD proclaims His compassion and slowness to anger in Exodus (v. 6). The psalmist later echoes this exact description of God's nature.",
+        "question": "How does the psalmist's use of these same words help you understand the character of the God who met Moses on the mountain?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "the LORD is a jealous God",
+        "feeling": "distraction, apathy",
+        "object": "the pursuit of worldly comforts",
+        "behavior": "seeking satisfaction in things that fade",
+        "step": "set my heart on Him alone",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the pursuit of worldly comforts} and instead of {behavior:seeking satisfaction in things that fade}, I will {step:set my heart on Him alone}."
       }
     }
   }

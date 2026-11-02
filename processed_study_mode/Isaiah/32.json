@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative aspect of righteous leadership resonates most?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Protective Leadership",
-            "expansion": "A king who provides shelter and safety, like a rock in a weary landscape"
-          },
-          {
-            "id": "B",
-            "text": "Clarity of Understanding",
-            "expansion": "Leaders who enable perception and comprehension, healing spiritual and intellectual blindness"
-          },
-          {
-            "id": "C",
-            "text": "Genuine Character Revelation",
-            "expansion": "A society where true character is recognized, not masked by superficial generosity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true righteousness transform individual perception before it transforms societal structures?"
-      },
-      "moral_slider": {
-        "question": "Where does true societal transformation originate?",
-        "left_label": "External Governance",
-        "right_label": "Internal Spiritual Renewal"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership evolved?",
-        "options": [
-          "Leadership is about protection, not power",
-          "Authentic leadership reveals true character",
-          "Spiritual transformation precedes societal change",
-          "Wisdom emerges from humble understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By individual believers embodying Christ-like governance principles",
           "Through systematic theological interpretation of leadership models"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The prophet describes a desolate land",
+            "ref": "vv. 13-14",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet promises a Spirit poured out",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are living in the abandoned city described here. What does the promise of a poured out Spirit change about the ruin you see?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Psalm 72:1-4",
+        "summary": "Isaiah says a king will reign in righteousness and princes will rule with justice (v. 1). The psalmist prays that the king will judge God's people with righteousness and the afflicted with justice (Psalm 72:1-2).",
+        "question": "How does the prayer in Psalm 72 help you recognize the king Isaiah describes in this chapter?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "the work of righteousness will be peace",
+        "feeling": "anxiety, unrest",
+        "object": "a difficult situation",
+        "behavior": "rushing to fix it myself",
+        "step": "act with integrity and wait",
+        "template": "from today I let go of my {feeling:anxiety, unrest} over {object:a difficult situation} and instead of {behavior:rushing to fix it myself}, I will {step:act with integrity and wait}."
       }
     }
   }

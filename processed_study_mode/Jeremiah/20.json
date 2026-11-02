@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of prophetic suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal emotional struggle",
-            "expansion": "Jeremiah's raw vulnerability reveals the profound psychological toll of speaking uncomfortable truths."
-          },
-          {
-            "id": 2,
-            "text": "Confrontation with religious authorities",
-            "expansion": "The prophet's conflict with Pashhur symbolizes institutional resistance to transformative spiritual messages."
-          },
-          {
-            "id": 3,
-            "text": "Inner tension between despair and divine calling",
-            "expansion": "Jeremiah oscillates between wanting to be silent and feeling compelled to speak God's word."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does speaking truth become an act of personal sacrifice, and at what point does silence become complicity?"
-      },
-      "moral_slider": {
-        "question": "How do personal emotional struggles intersect with spiritual responsibility?",
-        "left_label": "Individual Vulnerability",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How might this text challenge your understanding of prophetic ministry?",
-        "options": [
-          "Prophets are not immune to human emotions",
-          "Spiritual calling involves significant personal cost",
-          "Institutional resistance is an expected response to transformative messages",
-          "Authenticity requires embracing inner conflict"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates transformative power of prophetic suffering",
           "Highlights theological tension between divine sovereignty and human experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Jeremiah says",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Jeremiah declares",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place. You tried to stop speaking to avoid the pain, but the message remains inside you. How does the presence of a warrior change how you view your struggle?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Psalm 34:19",
+        "summary": "Jeremiah calls on the people to sing and praise the LORD, for He rescues the life of the needy from the hands of evildoers (v. 13). Psalm 34:19 says the afflictions of the righteous are many, but the LORD delivers him from them all.",
+        "question": "How does Psalm 34:19 help you understand the reason Jeremiah gives for singing, that the LORD rescues the needy (v. 13)?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "trust",
+        "because": "the LORD is with me like a fearsome warrior",
+        "feeling": "fear, dread",
+        "object": "the whispers of others",
+        "behavior": "hiding my convictions",
+        "step": "speak the truth plainly",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:the whispers of others} to God and instead of {behavior:hiding my convictions}, I will {step:speak the truth plainly}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacred craftsmanship resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine precision in design",
-            "expansion": "God's instructions reveal meticulous care for spiritual symbolism and aesthetic beauty."
-          },
-          {
-            "id": 2,
-            "text": "Intentional materials of worship",
-            "expansion": "Each material—gold, acacia wood, specific measurements—communicates spiritual intentionality."
-          },
-          {
-            "id": 3,
-            "text": "Consecration through craftsmanship",
-            "expansion": "Creating sacred objects becomes an act of spiritual transformation and devotion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the intricate instructions for the incense altar reveal more about the nature of divine communication than the physical object itself?"
-      },
-      "moral_slider": {
-        "question": "To what extent do ritualistic practices enhance or potentially distract from genuine spiritual connection?",
-        "left_label": "Ritualistic Formalism",
-        "right_label": "Authentic Spirituality"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and sacred design evolved?",
-        "options": [
-          "Recognize deeper symbolic meaning in physical objects",
-          "Appreciate precision as a form of spiritual discipline",
-          "Understand worship as holistic creative expression",
-          "See divine instructions as invitations, not mere commands"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Precise worship protocols demonstrate God's desire for intimate relationship",
           "The specifications represent symbolic spiritual truths beyond literal implementation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the priest handling the altar. Why does the LORD forbid unauthorized offerings, and what does this reveal about the nature of the altar itself?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "1 Chronicles 28:19",
+        "summary": "The LORD tells Moses to take the atonement money and use it for the Tent of Meeting, as a memorial before Him (v. 16). David says the LORD made the plan for the temple clear to him in writing (1 Chronicles 28:19).",
+        "question": "How does David's account of a plan the LORD gave him in writing help you understand why the LORD gives Moses such exact instructions for the Tent?"
+      },
+      "conviction": {
+        "verse": 37,
+        "frame": "practice",
+        "because": "the incense formula is holy to the LORD and is never to be made for private use",
+        "feeling": "selfishness, pride",
+        "object": "my own personal comforts",
+        "behavior": "using God's gifts for my own pleasure",
+        "step": "set aside time for His glory alone",
+        "template": "from today I let go of my {feeling:selfishness, pride} over {object:my own personal comforts} and instead of {behavior:using God's gifts for my own pleasure}, I will {step:set aside time for His glory alone}."
       }
     }
   }

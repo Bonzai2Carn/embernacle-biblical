@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic promise resonates most deeply with your understanding of spiritual transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Healing the Brokenhearted",
-            "expansion": "Divine restoration begins with acknowledging profound personal wounds and surrendering them to transformative grace."
-          },
-          {
-            "id": 2,
-            "text": "Proclaiming Liberty to Captives",
-            "expansion": "Spiritual freedom emerges not through external circumstances, but through internal liberation from bondage."
-          },
-          {
-            "id": 3,
-            "text": "Beauty for Ashes",
-            "expansion": "God's redemptive power can transmute our deepest suffering into unexpected beauty and purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine anointing is about service and healing, how might your current understanding of spiritual gifts limit or expand your capacity for compassion?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual comfort with prophetic calling?",
-        "left_label": "Personal Comfort",
-        "right_label": "Prophetic Engagement"
-      },
-      "reevaluation": {
-        "question": "Reflecting on this chapter, how has your perspective shifted?",
-        "options": [
-          "I see suffering as potentially transformative",
-          "I recognize my role in communal healing",
-          "I understand spiritual calling more holistically",
-          "I'm more open to unexpected divine interventions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The Messiah's mission transcends personal salvation to systemic liberation",
           "Divine empowerment enables radical spiritual and societal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The anointed one declares",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The anointed one promises",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who mourn and are in despair. What does this exchange promise to replace in your life?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Luke 4:18-19",
+        "summary": "The anointed one announces good news to the poor, liberty to the captives and comfort for the brokenhearted (vv. 1-2). Luke 4:18-19 has a speaker say the Spirit of the Lord is on Him to preach good news to the poor, proclaim liberty to the captives and give sight to the blind.",
+        "question": "How does Luke 4:18-19 help you understand the good news announced in Isaiah 61:1-2?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "devotion",
+        "because": "He has clothed me with garments of salvation and wrapped me in a robe of righteousness",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "accept the righteousness He provides",
+        "template": "from today I let go of my {feeling:shame, inadequacy} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:accept the righteousness He provides}."
       }
     }
   }

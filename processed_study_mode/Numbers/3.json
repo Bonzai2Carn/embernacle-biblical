@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most from the priestly lineage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Consecration",
-            "expansion": "God specifically selects and prepares individuals for sacred purposes."
-          },
-          {
-            "id": 2,
-            "text": "Generational Responsibility",
-            "expansion": "Spiritual inheritance and leadership are passed through familial lines."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Unauthorized Worship",
-            "expansion": "Approaching divine presence requires precise obedience and reverence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the death of Nadab and Abihu reveal more about divine expectations than divine punishment?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious leadership be hereditary versus merit-based?",
-        "left_label": "Inherited Authority",
-        "right_label": "Earned Leadership"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual calling shifted?",
-        "options": [
-          "More aware of divine selectiveness",
-          "Recognize complexity of spiritual inheritance",
-          "Understand strict protocols matter",
-          "See leadership as both privilege and profound responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's organizational structure reflects deeper spiritual principles",
           "Ministerial roles are not democratically determined but divinely appointed"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite looking at the Levites. How does the reason for their selection change how you view their role in the camp?"
+      },
+      "chain": {
+        "after": 41,
+        "ref": "Exodus 13:2",
+        "summary": "The LORD claims the firstborn of Israel as His own because He struck down the firstborn of Egypt (v. 13). This same claim is repeated when He instructs Moses to set the Levites apart in place of the firstborn (v. 41).",
+        "question": "How does Exodus 13:2 help you understand why the Levites belong to the LORD in place of the firstborn?"
+      },
+      "conviction": {
+        "verse": 51,
+        "frame": "practice",
+        "because": "Moses gave the redemption money to Aaron and his sons in obedience to the word of the LORD",
+        "feeling": "hesitation, doubt",
+        "object": "a difficult instruction",
+        "behavior": "questioning the cost",
+        "step": "act as the LORD commanded",
+        "template": "from today I let go of my {feeling:hesitation, doubt} over {object:a difficult instruction} and instead of {behavior:questioning the cost}, I will {step:act as the LORD commanded}."
       }
     }
   }

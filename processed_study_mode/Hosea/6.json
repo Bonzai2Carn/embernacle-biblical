@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Restoration",
-            "expansion": "God's capacity to heal and restore after profound spiritual brokenness"
-          },
-          {
-            "id": 2,
-            "text": "Covenant Renewal",
-            "expansion": "The invitation to recommit and return to relationship with Yahweh"
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Suffering",
-            "expansion": "Understanding divine discipline as a pathway to spiritual transformation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's love includes correction, how might we distinguish between punishment and redemptive transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the balance between divine judgment and divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual restoration shifted?",
-        "options": [
-          "I see suffering as potentially redemptive",
-          "I recognize the importance of intentional return to divine relationship",
-          "I understand God's love as more complex than simple comfort",
-          "I perceive spiritual renewal as an active, collaborative process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering has no spiritual significance",
           "Divine discipline is a sign of God's conditional love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The prophet calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet promises",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those being called to return. You feel the weight of being torn and wounded. What does this promise of revival make you weigh about your decision to come back?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Matthew 9:13",
+        "summary": "The LORD says He desires mercy and the knowledge of God rather than burnt offerings (v. 6). In Matthew 9:13 Jesus tells His hearers to go and learn what 'I desire mercy, not sacrifice' means, and adds that He has not come to call the righteous, but sinners.",
+        "question": "How does Matthew 9:13 help you understand what the LORD means by desiring mercy rather than sacrifice in Hosea 6?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "as surely as the sun rises, the LORD will appear and come like the rain",
+        "feeling": "indifference, apathy",
+        "object": "my daily routine",
+        "behavior": "skipping my time in the Word",
+        "step": "seek Him in the morning",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my daily routine} and instead of {behavior:skipping my time in the Word}, I will {step:seek Him in the morning}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which principle of justice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Refusing to spread false reports",
-            "expansion": "Truthfulness protects community integrity and prevents destructive social dynamics."
-          },
-          {
-            "id": 2,
-            "text": "Helping even an enemy's livestock",
-            "expansion": "Compassion transcends personal animosity and reveals moral character."
-          },
-          {
-            "id": 3,
-            "text": "Rejecting crowd-driven injustice",
-            "expansion": "Individual moral courage is essential when group mentality threatens ethical standards."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal biases unconsciously distort your perception of justice and fairness?"
-      },
-      "moral_slider": {
-        "question": "Where do personal boundaries intersect with communal responsibility?",
-        "left_label": "Individual Rights",
-        "right_label": "Collective Welfare"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of ethical behavior?",
-        "options": [
-          "I now see justice as more nuanced",
-          "Personal relationships shouldn't determine moral choices",
-          "Truth requires active maintenance",
-          "Compassion applies universally"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Compassion is a universal principle, not limited by personal relationships",
           "Integrity requires active resistance to systemic injustice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are an Israelite hearing this. You know how it feels to be a foreigner, since your people were foreigners in Egypt. What do you understand about how you are to treat the foreign resident among you?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "James 2:1-4",
+        "summary": "The LORD commands the people not to side with the crowd, and not to show favoritism in a lawsuit (vv. 2-3). James warns against favoritism based on appearance and judging with evil thoughts (James 2:1-4).",
+        "question": "How does James's warning against judging by appearance help you understand why the LORD forbids favoritism in a lawsuit (v. 3)?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "siding with the crowd in a lawsuit perverts justice",
+        "feeling": "pressure, fear",
+        "object": "a popular opinion",
+        "behavior": "agreeing to stay silent",
+        "step": "speak the truth clearly",
+        "template": "from today I let go of my {feeling:pressure, fear} over {object:a popular opinion} and instead of {behavior:agreeing to stay silent}, I will {step:speak the truth clearly}."
       }
     }
   }

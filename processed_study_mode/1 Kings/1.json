@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about human vulnerability?",
-        "choices": [
-          {
-            "id": "aging",
-            "text": "The frailty of human power",
-            "expansion": "Even mighty King David becomes physically dependent on others"
-          },
-          {
-            "id": "care",
-            "text": "Compassionate human service",
-            "expansion": "The servants seek practical, intimate care for their aging monarch"
-          },
-          {
-            "id": "transition",
-            "text": "Generational leadership dynamics",
-            "expansion": "David's physical decline signals an impending royal succession"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When human dignity becomes compromised by age, what remains sacred about a person's essential worth?"
-      },
-      "moral_slider": {
-        "question": "How do we balance respect for leadership with acknowledging human vulnerability?",
-        "left_label": "Vulnerability",
-        "right_label": "Authority"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on aging and leadership shifted?",
-        "options": [
-          "Recognized the universal human experience of decline",
-          "Understood the importance of compassionate care",
-          "Appreciated the complexity of power transitions",
-          "Reflected on personal attitudes toward elder dignity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the importance of community care for aging leaders",
           "Illustrates the transient nature of human power and authority"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Adonijah declares he will be king",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "Zadok and the others refuse",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Zadok the priest, standing with David's mighty men. Adonijah is exalting himself and calling himself king. What would you weigh before refusing to join him?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "1 Samuel 16:1",
+        "summary": "David swears that Solomon will sit on his throne (v. 30). The LORD once told Samuel He had selected a king for Himself from the sons of Jesse.",
+        "question": "How does the LORD's choosing a king from Jesse's sons help you understand David's oath about who will sit on his throne?"
+      },
+      "conviction": {
+        "verse": 48,
+        "frame": "trust",
+        "because": "the LORD has provided one to sit on David's throne",
+        "feeling": "envy, resentment",
+        "object": "a place given to someone else",
+        "behavior": "measuring my worth against theirs",
+        "step": "celebrate the good God gives them",
+        "template": "from today I entrust my {feeling:envy, resentment} about {object:a place given to someone else} to God and instead of {behavior:measuring my worth against theirs}, I will {step:celebrate the good God gives them}."
       }
     }
   }

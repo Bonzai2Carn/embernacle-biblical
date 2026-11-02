@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic in this battle most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention",
-            "expansion": "God's sovereignty transcends numerical military advantage."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Faithfulness",
-            "expansion": "Abijah's theological appeal highlights relational commitment over strategic calculation."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Confrontation",
-            "expansion": "Speaking truth against corrupt leadership carries inherent spiritual power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might spiritual confidence fundamentally transform strategic calculations?"
-      },
-      "moral_slider": {
-        "question": "Where does legitimate spiritual warfare intersect with physical conflict?",
-        "left_label": "Pacifism",
-        "right_label": "Righteous Resistance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership requires moral clarity",
-          "Divine alignment matters more than human metrics",
-          "Courage emerges from theological conviction",
-          "Spiritual battles transcend physical limitations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithfulness to covenant principles determines spiritual outcomes",
           "Military strength is irrelevant when spiritual alignment is compromised"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "the men of Judah cried out to the LORD",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "God routed Jeroboam and all Israel",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the men of Judah. The battle is both before and behind you, and you cry out to the LORD. Then you raise the battle cry, and God routs Jeroboam and all Israel before you. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "2 Chronicles 20:15",
+        "summary": "Abijah and his people prevail because they rely on the LORD (v. 18). Later in Chronicles, Jehoshaphat hears a similar promise when facing a vast army.",
+        "question": "How does the promise in 2 Chronicles 20:15 help you understand why Judah succeeded in this battle?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "the men of Judah prevailed by relying on the LORD",
+        "feeling": "panic, dread",
+        "object": "a sudden setback",
+        "behavior": "trying to fix it alone",
+        "step": "cry out to Him",
+        "template": "from today I entrust my {feeling:panic, dread} about {object:a sudden setback} to God and instead of {behavior:trying to fix it alone}, I will {step:cry out to Him}."
       }
     }
   }

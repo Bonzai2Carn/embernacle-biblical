@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic element resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Foreknowledge",
-            "expansion": "God's ability to predict geopolitical events before they unfold reveals His sovereign perspective."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Naming",
-            "expansion": "The prophetic act of naming children as living metaphors demonstrates how personal lives can communicate divine messages."
-          },
-          {
-            "id": 3,
-            "text": "Impending Judgment",
-            "expansion": "The swift coming destruction signals God's ultimate accountability for nations' collective actions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophecy reveals divine intention, how do human free will and predetermined outcomes coexist?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophecy shifted?",
-        "options": [
-          "More aware of symbolic communication",
-          "Recognize complexity of divine messaging",
-          "Appreciate historical-spiritual interconnectedness",
-          "Understand prophecy as multi-layered revelation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual analysis considering historical and cultural nuances",
           "Typological reading connecting ancient prophecies to modern spiritual realities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD commands the peoples",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the distant lands preparing for battle. You hear that you will be shattered, and then that every plan will be thwarted because God is with us. What do you weigh about your own strength?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Amos 3:7",
+        "summary": "The LORD says He will bring the king of Assyria against this people like the mighty floodwaters of the Euphrates (v. 7). Amos says the Lord GOD does nothing without revealing His plan to His servants the prophets (Amos 3:7).",
+        "question": "How does knowing that the LORD reveals His plans to His servants help you understand the weight of the warning in Isaiah 8?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "the LORD of Hosts is the One you shall regard as holy",
+        "feeling": "anxiety, dread",
+        "object": "the threats of others",
+        "behavior": "looking for human escapes",
+        "step": "fix my eyes on Him",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the threats of others} and instead of {behavior:looking for human escapes}, I will {step:fix my eyes on Him}."
       }
     }
   }

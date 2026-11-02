@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about personal spiritual development resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Generational spiritual mentorship",
-            "expansion": "Older believers have a profound responsibility to model and guide younger generations in godly living."
-          },
-          {
-            "id": 2,
-            "text": "Character as theological witness",
-            "expansion": "Our daily conduct directly reflects and validates the credibility of God's transformative message."
-          },
-          {
-            "id": 3,
-            "text": "Intentional discipleship",
-            "expansion": "Spiritual growth requires deliberate, relational investment from mature believers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If personal holiness is truly a reflection of divine grace, how might your everyday choices become a living sermon?"
-      },
-      "moral_slider": {
-        "question": "How do personal autonomy and spiritual accountability balance in Christian community?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual maturity shifted?",
-        "options": [
-          "I see spiritual growth as more relational",
-          "Character matters more than performance",
-          "Mentorship is crucial for spiritual development",
-          "Personal discipline reflects spiritual depth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Age automatically guarantees spiritual wisdom",
           "Personal conduct directly impacts the church's reputation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Paul instructs slaves",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Paul gives the purpose",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a slave who must submit to your master in everything. What would you weigh about showing all good faith, so that the teaching about God our Savior is adorned?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Philippians 2:15",
+        "summary": "Grace instructs us to live sensible, upright, and godly lives in the present age (v. 12). This passage describes being blameless and pure, children of God who shine as lights in a crooked and perverse generation (Phil 2:15).",
+        "question": "How does the image of shining as lights help you understand the godly life described in Titus 2:12?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "grace instructs us to renounce ungodliness and worldly passions",
+        "feeling": "restlessness, greed",
+        "object": "the pursuit of status",
+        "behavior": "chasing every new desire",
+        "step": "choose one way to live sensibly",
+        "template": "from today I let go of my {feeling:restlessness, greed} over {object:the pursuit of status} and instead of {behavior:chasing every new desire}, I will {step:choose one way to live sensibly}."
       }
     }
   }

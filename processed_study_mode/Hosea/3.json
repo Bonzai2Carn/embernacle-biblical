@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine love in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unconditional Redemption",
-            "expansion": "God's love persists despite human betrayal and unfaithfulness."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Restoration",
-            "expansion": "The purchased wife represents Israel's potential for spiritual renewal."
-          },
-          {
-            "id": 3,
-            "text": "Sacrificial Commitment",
-            "expansion": "Divine love requires personal cost and sustained patience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If love can transcend betrayal, what limits exist in human forgiveness?"
-      },
-      "moral_slider": {
-        "question": "How do divine standards of faithfulness challenge human relationship norms?",
-        "left_label": "Conditional Love",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine love shifted?",
-        "options": [
-          "More aware of grace's depth",
-          "Recognize personal spiritual waywardness",
-          "Understand love as sacrificial action",
-          "Challenged by metaphorical interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption involves radical, sacrificial love that restores the undeserving",
           "Spiritual restoration requires complete surrender and recommitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD said to me",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "I bought her for fifteen shekels of silver and a homer and a lethech of barley",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Hosea's place. You are told to love a wife who is loved by another, and you buy her for fifteen shekels of silver and barley. What do you weigh as you pay?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Ephesians 2:4-5",
+        "summary": "The LORD commands Hosea to show love to a wife who belongs to another (v. 1). Paul writes that God made us alive with Christ when we were dead in our trespasses (Ephesians 2:4-5).",
+        "question": "How does Paul's description of God's action toward the dead help you understand the cost of the love Hosea must show?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "devotion",
+        "because": "Hosea told his wife she must live with him for many days and belong to no other",
+        "feeling": "distraction, restlessness",
+        "object": "my daily routine",
+        "behavior": "seeking comfort elsewhere",
+        "step": "set aside time for Him",
+        "template": "from today I let go of my {feeling:distraction, restlessness} over {object:my daily routine} and instead of {behavior:seeking comfort elsewhere}, I will {step:set aside time for Him}."
       }
     }
   }

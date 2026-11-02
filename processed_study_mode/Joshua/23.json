@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply with your understanding of covenant faithfulness?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Consistent Protection",
-            "expansion": "Divine preservation transcends human limitations and generational boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Personal Responsibility in Obedience",
-            "expansion": "Individual commitment determines collective spiritual trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "Faith is a legacy transmitted through intentional teaching and example."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises are unconditional, why does Joshua repeatedly emphasize human accountability?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human agency in spiritual journey?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant commitment evolved?",
-        "options": [
-          "Recognize complexity of spiritual inheritance",
-          "Understand importance of personal choice",
-          "Appreciate nuanced relationship between divine promise and human response",
-          "See faith as active, not passive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ritualistic religious observance",
           "Personal moral compromise for cultural acceptance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Joshua warns",
+            "ref": "v. 12",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "the consequence is stated",
+            "ref": "v. 13",
+            "speaker": "Joshua"
+          }
+        ],
+        "question": "Put yourself in the place of the leaders listening to Joshua. He describes a way to lose the very land you have just won. What makes the danger of these remaining nations so heavy to consider?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Deuteronomy 7:9",
+        "summary": "Joshua testifies that not one promise from God has failed (v. 14). Deuteronomy establishes the character of the God who keeps such a covenant.",
+        "question": "How does knowing that God is the faithful one who keeps His covenant help you weigh Joshua's warning about the danger of turning away?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "not one of the good promises the LORD your God made to you has failed",
+        "feeling": "doubt, anxiety",
+        "object": "a promise that seems delayed",
+        "behavior": "doubting His word",
+        "step": "list promises He has kept",
+        "template": "from today I entrust my {feeling:doubt, anxiety} about {object:a promise that seems delayed} to God and instead of {behavior:doubting His word}, I will {step:list promises He has kept}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership principle most resonates with you from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Covenant-Making",
-            "expansion": "Jehoiada deliberately built alliances to restore rightful leadership and protect God's promise."
-          },
-          {
-            "id": 2,
-            "text": "Generational Restoration",
-            "expansion": "Preserving the legitimate royal lineage represents God's continuous redemptive plan."
-          },
-          {
-            "id": 3,
-            "text": "Courageous Intervention",
-            "expansion": "Sometimes systemic corruption requires bold, principled collective action to restore righteousness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do legitimate authority and moral courage intersect when existing power structures have become corrupt?"
-      },
-      "moral_slider": {
-        "question": "When is it morally justifiable to actively remove unrighteous leadership?",
-        "left_label": "Passive Submission",
-        "right_label": "Active Resistance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine providence shifted?",
-        "options": [
-          "I see leadership as more spiritually accountable",
-          "Collective action can restore systemic integrity",
-          "God's promises transcend individual human failures",
-          "Moral courage requires strategic, principled planning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership requires both prophetic vision and practical execution",
           "Covenant renewal is essential for sustainable institutional transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Athaliah tore her clothes and screamed",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "Jehoiada the priest ordered",
+            "ref": "v. 14",
+            "speaker": "Jehoiada the priest"
+          }
+        ],
+        "question": "Put yourself in the place of the commanders of hundreds. You hear Athaliah scream treason, and then you hear the priest order that she be brought out between the ranks. What would you weigh before you act on that order?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Jeremiah 31:33",
+        "summary": "Jehoiada makes a covenant that the people will be the LORD's people (v. 16). In Jeremiah 31:33 the LORD says, 'I will be their God, and they will be My people.'",
+        "question": "How does Jeremiah 31:33 help you understand what it means for the people to be the LORD's people (v. 16)?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "Jehoiada made a covenant between himself, the king, and the people that they would be the LORD's people",
+        "feeling": "divided loyalty, doubt",
+        "object": "the pull of others' approval",
+        "behavior": "bending to what others want",
+        "step": "renew my promise to belong to the LORD",
+        "template": "from today I let go of my {feeling:divided loyalty, doubt} over {object:the pull of others' approval} and instead of {behavior:bending to what others want}, I will {step:renew my promise to belong to the LORD}."
       }
     }
   }

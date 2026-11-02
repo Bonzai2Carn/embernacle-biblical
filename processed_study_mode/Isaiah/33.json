@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual theme resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Justice",
-            "expansion": "God ultimately balances the scales between oppressors and the oppressed."
-          },
-          {
-            "id": 2,
-            "text": "Waiting on God's Deliverance",
-            "expansion": "Patient trust in divine intervention transforms seemingly hopeless situations."
-          },
-          {
-            "id": 3,
-            "text": "Moral Reciprocity",
-            "expansion": "The actions we initiate will ultimately return to us in kind."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of justice change if you truly believed every destructive action eventually circles back to its originator?"
-      },
-      "moral_slider": {
-        "question": "Where do you stand on divine intervention versus human responsibility?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "I now see consequences as more interconnected",
-          "I recognize the importance of patient waiting",
-          "I understand justice operates beyond human timelines",
-          "I'm more aware of spiritual cause-and-effect"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine mercy temporarily suspends inevitable consequences",
           "Judgment reveals God's ultimate commitment to moral order"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The prophet declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the destroyer hearing this woe. You hear that when you finish destroying, you will be destroyed. What do you understand when the LORD says He will now arise and be exalted?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Psalm 27:14",
+        "summary": "The prophet calls for the LORD to be strength and salvation in trouble (v. 2). The Psalmist instructs you to wait for the LORD and be strong.",
+        "question": "How does the command to wait in the Psalm help you approach the prayer for strength in Isaiah 33?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the one who walks righteously refuses gain from extortion",
+        "feeling": "greed, discontent",
+        "object": "an easy profit",
+        "behavior": "cutting corners",
+        "step": "act with integrity",
+        "template": "from today I let go of my {feeling:greed, discontent} over {object:an easy profit} and instead of {behavior:cutting corners}, I will {step:act with integrity}."
       }
     }
   }

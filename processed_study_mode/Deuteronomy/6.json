@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of covenant relationship most resonates with you?",
-        "choices": [
-          {
-            "id": "love",
-            "text": "Love for God as total commitment",
-            "expansion": "Love transcends mere intellectual assent and demands holistic life transformation."
-          },
-          {
-            "id": "legacy",
-            "text": "Generational spiritual transmission",
-            "expansion": "Faith is not just personal, but a sacred inheritance passed deliberately to future generations."
-          },
-          {
-            "id": "obedience",
-            "text": "Obedience as an expression of relationship",
-            "expansion": "Commandments are not burdensome rules, but relational guidelines for flourishing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If love for God is to be 'with all your heart, soul, and might', what parts of your life currently resist total surrender?"
-      },
-      "moral_slider": {
-        "question": "How do divine commandments balance personal freedom with spiritual accountability?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Guidance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual commitment shifted?",
-        "options": [
-          "Seeing commandments as protective, not restrictive",
-          "Recognizing faith as a whole-life orientation",
-          "Understanding spiritual legacy as a responsibility",
-          "Viewing obedience as an act of love, not duty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Presents obedience as an expression of relational love, not merely legalistic compliance",
           "Reveals spiritual discipleship as holistic and intrusive into daily life"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Your son asks",
+            "ref": "v. 20",
+            "speaker": "Your son"
+          },
+          {
+            "who": "You answer him",
+            "ref": "v. 21",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of a parent whose child asks what these decrees mean. You answer that the LORD brought you out of Egypt with a mighty hand. What would you still wonder about the meaning of His commands?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Matthew 22:37-38",
+        "summary": "Moses commands the people to love the LORD with all their heart, soul, and strength (v. 5). Jesus calls loving the Lord with all your heart, soul, and mind the first and greatest commandment (Matthew 22:37-38).",
+        "question": "How does Jesus' call to love God with all your heart, soul, and mind help you understand the strength Moses names in verse 5?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "remembrance",
+        "because": "the LORD brought you out of the land of Egypt, out of the house of slavery",
+        "feeling": "complacency, forgetfulness",
+        "object": "the comfort of my full home",
+        "behavior": "taking my blessings for granted",
+        "step": "name one way the LORD rescued me",
+        "template": "from today I let go of my {feeling:complacency, forgetfulness} over {object:the comfort of my full home} and instead of {behavior:taking my blessings for granted}, I will {step:name one way the LORD rescued me}."
       }
     }
   }

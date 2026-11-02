@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of territorial inheritance most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Boundary Descriptions",
-            "expansion": "The meticulous geographical details reveal God's precise planning and intentionality."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Land Allocation",
-            "expansion": "Each tribe's inheritance represents divine promise and generational promise fulfilled."
-          },
-          {
-            "id": 3,
-            "text": "Territorial Challenges",
-            "expansion": "Land acquisition requires courage, strategy, and faith beyond mere geographical mapping."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might precise geographical boundaries symbolize spiritual boundaries in one's personal journey?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine promise guarantee human achievement?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of inheritance and promise evolved?",
-        "options": [
-          "More appreciative of divine specificity",
-          "Recognize complexity of territorial claims",
-          "See generational promise as dynamic",
-          "Understand faith requires active participation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine inheritance is not automatic but demands obedience and commitment",
           "Geographical details symbolize deeper spiritual realities of covenant relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Caleb asked Acsah",
+            "ref": "v. 18",
+            "speaker": "Caleb"
+          },
+          {
+            "who": "Acsah answered",
+            "ref": "v. 19",
+            "speaker": "Acsah"
+          }
+        ],
+        "question": "Put yourself in Acsah's place. Your father asks what you desire. You ask for a blessing and for springs of water as well as the land in the Negev. What do you weigh as you ask, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Numbers 34:1-15",
+        "summary": "The boundaries of Judah are listed in detail from the Salt Sea to the wilderness and the hills. Numbers 34 provides the original blueprint for the borders of the entire land.",
+        "question": "How does seeing the specific borders of Judah help you understand the scope of the territory God promised to the whole nation in Numbers?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "Acsah asked her father for springs of water as well as land in the Negev",
+        "feeling": "dissatisfaction",
+        "object": "the resources I already have",
+        "behavior": "settling for dry ground",
+        "step": "ask for what is needed to thrive",
+        "template": "from today I let go of my {feeling:dissatisfaction} over {object:the resources I already have} and instead of {behavior:settling for dry ground}, I will {step:ask for what is needed to thrive}."
       }
     }
   }

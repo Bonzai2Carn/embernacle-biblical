@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment's Inevitability",
-            "expansion": "God's judgment is not arbitrary but a consequence of persistent systemic spiritual rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Landscape as Spiritual Witness",
-            "expansion": "The physical environment becomes a metaphorical testifier to human spiritual condition."
-          },
-          {
-            "id": 3,
-            "text": "Remnant's Potential Redemption",
-            "expansion": "Even in total destruction, God preserves the possibility of spiritual restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine correction seems harsh, what deeper transformation might be occurring beneath the apparent destruction?"
-      },
-      "moral_slider": {
-        "question": "How do we balance divine justice with divine mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine correction evolved?",
-        "options": [
-          "More nuanced view of spiritual consequences",
-          "Greater appreciation for systemic accountability",
-          "Deeper understanding of redemptive processes",
-          "Recognition of collective spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's interventions are primarily about restoring covenant relationship",
           "Judgment reveals God's absolute commitment to spiritual purity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 7-8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are a survivor of the sword. Your altars and idols are destroyed, yet God says some of you will escape the sword. What does that promise of a remnant change about how you see the destruction?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "2 Corinthians 7:10",
+        "summary": "The survivors in this chapter will loathe themselves for the evil they have done (v. 9). Paul describes a similar grief in a different context, where sorrow leads to a change in life.",
+        "question": "How does the way the survivors react to their sin in Ezekiel help you understand the purpose of godly grief in Paul's letter?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "remembrance",
+        "because": "the LORD did not declare in vain the calamity He would bring",
+        "feeling": "distrust, doubt",
+        "object": "a difficult season",
+        "behavior": "assuming God is silent",
+        "step": "trust His word is true",
+        "template": "from today I let go of my {feeling:distrust, doubt} over {object:a difficult season} and instead of {behavior:assuming God is silent}, I will {step:trust His word is true}."
       }
     }
   }

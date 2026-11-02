@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most from Moses' final blessing?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Sovereignty",
-            "expansion": "God's ultimate control and protective presence over Israel transcends human limitation."
-          },
-          {
-            "id": 2,
-            "text": "Covenantal Love",
-            "expansion": "The relationship between God and His people is fundamentally characterized by intentional, transformative affection."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Inheritance",
-            "expansion": "Spiritual legacy is transmitted through generational commitment and divine revelation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is unconditional, what responsibilities still rest upon the recipient of that love?"
-      },
-      "moral_slider": {
-        "question": "How do divine election and human agency interact in spiritual formation?",
-        "left_label": "Predetermined Destiny",
-        "right_label": "Personal Choice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance evolved?",
-        "options": [
-          "More aware of communal responsibility",
-          "Recognize deeper patterns of divine guidance",
-          "Appreciate nuanced interpretations of blessing",
-          "Understand leadership as sacred trust"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship is primarily dependent on human faithfulness",
           "God's love transcends systematic theological categories"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The Levite said",
+            "ref": "v. 9",
+            "speaker": "Levi"
+          },
+          {
+            "who": "He will teach",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Levite who chose the covenant over his own family. What does his devotion to the law enable him to do for the rest of the people?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Psalm 91:4",
+        "summary": "The LORD describes His eternal arms as a dwelling place for Israel (v. 27). The Psalmist uses the image of feathers and wings to show how God covers His people.",
+        "question": "How does the image of God's feathers help you understand the security of His everlasting arms?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "devotion",
+        "because": "the LORD is the shield that protects you",
+        "feeling": "fear, anxiety",
+        "object": "a looming deadline",
+        "behavior": "rushing through my tasks",
+        "step": "pause to acknowledge His presence",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:a looming deadline} and instead of {behavior:rushing through my tasks}, I will {step:pause to acknowledge His presence}."
       }
     }
   }

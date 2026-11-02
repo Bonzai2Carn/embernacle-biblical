@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of Jesus' early ministry intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus' relationship with His mother",
-            "expansion": "Mary's implicit trust demonstrates a profound spiritual understanding beyond typical maternal expectation."
-          },
-          {
-            "id": 2,
-            "text": "The miracle of water into wine",
-            "expansion": "This first public miracle symbolizes Jesus' ability to transform the ordinary into the extraordinary."
-          },
-          {
-            "id": 3,
-            "text": "Jesus' emerging authority",
-            "expansion": "His response to His mother and subsequent actions reveal a growing sense of divine mission."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might obedience without full understanding reveal deeper spiritual wisdom?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires interact with divine timing?",
-        "left_label": "Human Urgency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "Miracles are more symbolic than literal",
-          "Divine intervention can be subtle yet profound",
-          "Faith often requires acting before fully comprehending",
-          "Spiritual growth involves surrendering personal timelines"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals Christ's initial reluctance can coexist with ultimate redemptive action",
           "Highlights the importance of maternal intercession in spiritual breakthrough"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jesus' mother tells Jesus",
+            "ref": "v. 3",
+            "speaker": "Jesus’ mother"
+          },
+          {
+            "who": "His mother tells the servants",
+            "ref": "v. 5",
+            "speaker": "His mother"
+          }
+        ],
+        "question": "Put yourself in the servants' place as the wine runs out. What would you weigh about doing whatever He tells you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "James 1:22",
+        "summary": "His mother tells the servants to do whatever Jesus tells them (v. 5). James says to be doers of the word, and not hearers only (James 1:22).",
+        "question": "How does James 1:22 help you understand the call to do whatever Jesus tells you (v. 5)?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "surrender",
+        "because": "the servants were told to do whatever Jesus tells them",
+        "feeling": "stubbornness, self-reliance",
+        "object": "a request that seems unreasonable",
+        "behavior": "doing things my own way",
+        "step": "do the next thing He asks",
+        "template": "from today I release my {feeling:stubbornness, self-reliance} over {object:a request that seems unreasonable} and instead of {behavior:doing things my own way}, I will {step:do the next thing He asks}."
       }
     }
   }

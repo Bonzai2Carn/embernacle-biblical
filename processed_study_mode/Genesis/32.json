@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Jacob's approach to reconciliation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Humility",
-            "expansion": "Jacob carefully prepares a diplomatic approach to potentially appease his estranged brother."
-          },
-          {
-            "id": 2,
-            "text": "Divine Intervention",
-            "expansion": "Angels meet Jacob, suggesting supernatural guidance during a critical life transition."
-          },
-          {
-            "id": 3,
-            "text": "Personal Transformation",
-            "expansion": "Jacob acknowledges his past and seeks to proactively repair damaged relationships."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine reconciliation require more than merely strategic communication?"
-      },
-      "moral_slider": {
-        "question": "To what extent can past wrongs be genuinely repaired?",
-        "left_label": "Irreparable Damage",
-        "right_label": "Complete Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of conflict resolution evolved?",
-        "options": [
-          "Recognize complexity of human relationships",
-          "Understand importance of humility",
-          "Appreciate potential for personal growth",
-          "Value proactive communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By preserving Jacob's material resources",
           "Demonstrating continuous covenant faithfulness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The messengers said",
+            "ref": "v. 6",
+            "speaker": "The messengers"
+          },
+          {
+            "who": "Jacob divided his people",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jacob's place: you hear that your brother is coming with four hundred men. What does this news force you to do with your resources and your people?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Hosea 12:3-4",
+        "summary": "A man wrestles with Jacob until daybreak, and Jacob will not let him go unless he blesses him (vv. 24, 26). Hosea 12:3-4 says Jacob wrestled with God, struggled with the angel and prevailed, and wept and sought His favor.",
+        "question": "How does Hosea 12:3-4 help you understand who Jacob wrestled that night?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "devotion",
+        "because": "Jacob would not let the man go unless he blessed him",
+        "feeling": "impatience, restlessness",
+        "object": "a season of waiting",
+        "behavior": "distracting myself with tasks",
+        "step": "stay in prayer until I hear Him",
+        "template": "from today I let go of my {feeling:impatience, restlessness} over {object:a season of waiting} and instead of {behavior:distracting myself with tasks}, I will {step:stay in prayer until I hear Him}."
       }
     }
   }

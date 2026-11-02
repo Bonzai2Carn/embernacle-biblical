@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine praise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's works are magnificent",
-            "expansion": "Divine actions reveal profound complexity and intentional design beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Reverence begins with wisdom",
-            "expansion": "True understanding emerges from a posture of humble acknowledgment of divine sovereignty."
-          },
-          {
-            "id": 3,
-            "text": "God's covenant is eternally reliable",
-            "expansion": "Divine promises transcend temporal human limitations and provide fundamental spiritual security."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine goodness is constant, why do human experiences often feel inconsistent?"
-      },
-      "moral_slider": {
-        "question": "How do personal experiences shape theological understanding?",
-        "left_label": "Subjective Interpretation",
-        "right_label": "Objective Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your perception of divine nature transformed?",
-        "options": [
-          "Deeper appreciation of divine complexity",
-          "Increased humility about human understanding",
-          "Recognizing pattern of divine faithfulness",
-          "Embracing mystery over absolute certainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates that theological understanding requires both intellectual and emotional engagement",
           "Suggests divine attributes transcend human limited comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist explains",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the assembly of the upright. You start with a personal vow to give thanks, and you reach a point where God's wonders are remembered. What connects your initial decision to the memory of His wonders?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 9:10",
+        "summary": "The psalmist says the fear of the LORD is the beginning of wisdom (v. 10). Proverbs 9:10 says the same and adds that knowledge of the Holy One is understanding.",
+        "question": "How does Proverbs 9:10 help you understand the understanding that comes to those who follow His precepts in verse 10?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "I will give thanks to the LORD with all my heart",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "rushing through my prayers",
+        "step": "pause to name one specific blessing",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:my morning routine} and instead of {behavior:rushing through my prayers}, I will {step:pause to name one specific blessing}."
       }
     }
   }

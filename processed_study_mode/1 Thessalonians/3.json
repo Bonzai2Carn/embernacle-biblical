@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual resilience resonates most with you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Sending Timothy as a spiritual reinforcement",
-            "expansion": "Strategic support can strengthen fragile faith during challenging times."
-          },
-          {
-            "id": "2",
-            "text": "Expecting and preparing for tribulation",
-            "expansion": "Anticipating spiritual challenges can build proactive spiritual resilience."
-          },
-          {
-            "id": "3",
-            "text": "Commitment to mutual spiritual encouragement",
-            "expansion": "Community support is essential for maintaining faith under pressure."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of suffering change if you viewed it as a pathway to spiritual growth rather than a hindrance?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual endurance with communal spiritual support?",
-        "left_label": "Individual Struggle",
-        "right_label": "Collective Strength"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "I now see challenges as opportunities for growth",
-          "I recognize the importance of community support",
-          "I understand suffering doesn't negate faith",
-          "I am more intentional about spiritual preparation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As random, meaningless experiences",
           "As direct evidence of spiritual warfare"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place. You warned them that you would suffer persecution, and it has come to pass. You could bear it no longer and sent to find out about their faith, for fear that the tempter had tempted them. What do you hope to hear?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Acts 14:22",
+        "summary": "Paul says that none of them should be shaken by these trials, for they know they are destined for this (v. 3). Acts 14:22 says the disciples were strengthened and told, 'We must endure many hardships to enter the kingdom of God.'",
+        "question": "How does 'We must endure many hardships to enter the kingdom of God' help you understand Paul's words that you are destined for these trials?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the Lord may cause us to increase and overflow with love for one another and for everyone else",
+        "feeling": "indifference, coldness",
+        "object": "a difficult neighbor",
+        "behavior": "keeping my distance",
+        "step": "find one way to serve them",
+        "template": "from today I let go of my {feeling:indifference, coldness} over {object:a difficult neighbor} and instead of {behavior:keeping my distance}, I will {step:find one way to serve them}."
       }
     }
   }

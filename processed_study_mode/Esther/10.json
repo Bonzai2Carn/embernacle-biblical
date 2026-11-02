@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about power's potential for good?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Institutional Leadership",
-            "expansion": "Power can transform systemic outcomes when wielded with principled intention."
-          },
-          {
-            "id": 2,
-            "text": "Minority Representation",
-            "expansion": "Marginalized individuals can rise to positions of significant cultural influence."
-          },
-          {
-            "id": 3,
-            "text": "Peaceful Diplomacy",
-            "expansion": "True power manifests through reconciliation rather than confrontation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal triumph becomes national transformation, who truly benefits - the individual or the collective?"
-      },
-      "moral_slider": {
-        "question": "How does one balance personal advancement with communal responsibility?",
-        "left_label": "Individual Achievement",
-        "right_label": "Collective Welfare"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership evolved?",
-        "options": [
-          "Power is about service, not status",
-          "Representation matters more than personal gain",
-          "Strategic positioning can protect vulnerable communities",
-          "Ethical influence transcends positional authority"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithfulness in small responsibilities can lead to significant opportunities",
           "Divine providence operates through human political systems"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The Book of the Chronicles of the Kings of Media and Persia records",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "Mordecai was second only to King Xerxes",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are reading these official records. What stands out about the way this list of achievements ends?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Philippians 2:4",
+        "summary": "The record closes by describing Mordecai as one who sought the good of his people (v. 3). Paul tells the Philippians to look to the interests of others as well as to their own.",
+        "question": "How does Philippians 2:4 help you understand why this record ends with Mordecai seeking his people's good?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "Mordecai sought the good of his people and spoke peace to all his countrymen",
+        "feeling": "selfishness, pride",
+        "object": "my own status",
+        "behavior": "focusing on my own success",
+        "step": "look for a way to help a neighbor",
+        "template": "from today I let go of my {feeling:selfishness, pride} over {object:my own status} and instead of {behavior:focusing on my own success}, I will {step:look for a way to help a neighbor}."
       }
     }
   }

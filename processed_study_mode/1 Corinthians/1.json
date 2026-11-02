@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's grace most resonates with you?",
-        "choices": [
-          {
-            "id": "enrichment",
-            "text": "Being spiritually enriched in Christ",
-            "expansion": "God's grace transforms our inner resources beyond mere material provisions."
-          },
-          {
-            "id": "calling",
-            "text": "Being called to holiness",
-            "expansion": "Our identity is defined not by our past, but by our divine invitation."
-          },
-          {
-            "id": "unity",
-            "text": "Church unity across diverse backgrounds",
-            "expansion": "Christ transcends social, cultural, and personal divisions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human wisdom contradicts divine revelation, what determines your ultimate trust?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human intelligence with spiritual understanding?",
-        "left_label": "Human Intellect",
-        "right_label": "Divine Wisdom"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual maturity evolved?",
-        "options": [
-          "I now see wisdom differently",
-          "I recognize my previous limitations",
-          "I'm more open to divine perspective",
-          "I understand unity in Christ more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine election and human response are mysteriously interconnected",
           "Salvation is a collaborative process between God and individuals"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Individuals among you are saying",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul asks",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the middle of these quarrels. When you hear people claiming different leaders, what does Paul's question force you to consider about the foundation of your faith?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "1 Corinthians 2:1-5",
+        "summary": "Paul says God chose the weak and foolish things of the world so that no one may boast in His presence (vv. 27-29). In chapter 2, Paul comes in weakness and fear, and his message rests on a demonstration of the Spirit's power (2:1-5).",
+        "question": "How does Paul's description of his own approach in chapter 2 help you understand why he avoided using clever words in chapter 1?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "surrender",
+        "because": "no one may boast in God's presence",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "seeking credit",
+        "step": "give the glory to God",
+        "template": "from today I release my {feeling:pride, self-importance} over {object:my own achievements} and instead of {behavior:seeking credit}, I will {step:give the glory to God}."
       }
     }
   }

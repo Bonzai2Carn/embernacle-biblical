@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about territorial inheritance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Promise Fulfillment",
-            "expansion": "God's covenant with Israel transcends generational boundaries and geographical limitations."
-          },
-          {
-            "id": 2,
-            "text": "Complexity of Land Distribution",
-            "expansion": "Precise territorial boundaries reveal intricate societal planning and divine intentionality."
-          },
-          {
-            "id": 3,
-            "text": "Tribal Identity Preservation",
-            "expansion": "Each tribe's inheritance represents a unique manifestation of God's comprehensive redemptive plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might territorial inheritance symbolize spiritual inheritance beyond physical land?"
-      },
-      "moral_slider": {
-        "question": "To what extent does geographical possession reflect spiritual obedience?",
-        "left_label": "Territorial Determinism",
-        "right_label": "Spiritual Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine promise evolved?",
-        "options": [
-          "More nuanced view of covenant",
-          "Deeper appreciation for historical context",
-          "Recognize complexity of biblical narrative",
-          "Recognize spiritual metaphorical meanings"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God's promises are systematically and meticulously fulfilled",
           "Tribal allocations demonstrate communal responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The text records",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Ephraimites. You did not drive out the Canaanites in Gezer, and they dwell among you as forced laborers. What do you understand about that outcome, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Numbers 33:55",
+        "summary": "Ephraim did not drive out the Canaanites in Gezer, and they dwell among the Ephraimites as forced laborers (v. 10). Numbers 33:55 says those allowed to remain in the land will become barbs in the eyes and thorns in the sides.",
+        "question": "How does Numbers 33:55 help you understand what it means that the Canaanites still dwell in Gezer among the Ephraimites?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "Ephraim did not drive out the Canaanites who lived in Gezer",
+        "feeling": "complacency, laziness",
+        "object": "a difficult task in my life",
+        "behavior": "settling for what is easy",
+        "step": "remove one obstacle today",
+        "template": "from today I let go of my {feeling:complacency, laziness} over {object:a difficult task in my life} and instead of {behavior:settling for what is easy}, I will {step:remove one obstacle today}."
       }
     }
   }

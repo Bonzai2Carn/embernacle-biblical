@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight most resonates with your current journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Power in Human Weakness",
-            "expansion": "God's strength is most evident when human limitations become transparent."
-          },
-          {
-            "id": 2,
-            "text": "Enduring Through Spiritual Trials",
-            "expansion": "Persecution and challenges can actually deepen spiritual authenticity."
-          },
-          {
-            "id": 3,
-            "text": "The Gospel's Transformative Light",
-            "expansion": "Spiritual truth penetrates darkness when authentically proclaimed."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual truth is universally available, why do some perceive it while others remain spiritually blind?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal vulnerability with spiritual resilience?",
-        "left_label": "Vulnerability",
-        "right_label": "Spiritual Strength"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual ministry evolved?",
-        "options": [
-          "More aware of spiritual warfare",
-          "Recognize personal weakness as potential strength",
-          "Understand gospel as transformative power",
-          "See spiritual communication as holistic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual cognitive limitations naturally prevent spiritual comprehension",
           "Spiritual perception is primarily influenced by personal moral choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Paul says we carry treasure in jars of clay",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says our inner self is renewed",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who carries this treasure in a jar of clay. Your outer self is wasting away, yet your inner self is being renewed day by day. What would you understand about where the power comes from, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "2 Corinthians 3:14",
+        "summary": "Paul explains that the minds of unbelievers are blinded (v. 4). He previously described how the same veil remains over the minds of those who read the old covenant (2 Corinthians 3:14).",
+        "question": "How does the idea of a veil help you understand why some people cannot see the light of the gospel?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "what is seen is temporary, but what is unseen is eternal",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "focusing on my circumstances",
+        "step": "fix my eyes on His promises",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:focusing on my circumstances}, I will {step:fix my eyes on His promises}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central idea of truth resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Walking in Truth",
-            "expansion": "Truth is not merely intellectual understanding, but a lived reality of authentic Christian discipleship."
-          },
-          {
-            "id": 2,
-            "text": "Love Rooted in Truth",
-            "expansion": "Genuine Christian love is inseparable from commitment to spiritual authenticity and doctrinal integrity."
-          },
-          {
-            "id": 3,
-            "text": "Persistent Grace",
-            "expansion": "Divine grace transcends human limitations, continually sustaining believers through relationship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If truth 'abides in us and will be with us forever', how might this challenge your understanding of spiritual knowledge as something static versus dynamic?"
-      },
-      "moral_slider": {
-        "question": "How do you balance doctrinal protection with compassionate inclusion?",
-        "left_label": "Doctrinal Purity",
-        "right_label": "Radical Hospitality"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community evolved after reflecting on this text?",
-        "options": [
-          "More aware of theological boundaries",
-          "Deeper appreciation for relational grace",
-          "Recognizing truth as a communal journey",
-          "Understanding love as an active, discerning practice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Complete separation from differing theological perspectives",
           "Prioritizing relational harmony over doctrinal precision"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The elder urges",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The elder defines",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the lady receiving this urge. Is this a new burden for you to carry, or is it a return to something you already know?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Jude 1:3-4",
+        "summary": "The elder warns of deceivers who deny the flesh of Christ (v. 7). Jude writes to a church facing similar people who have crept in unnoticed to pervert grace (vv. 3-4).",
+        "question": "How does Jude's description of these intruders help you understand the elder's command to not even greet them (v. 10)?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "anyone who runs ahead without remaining in the teaching of Christ does not have God",
+        "feeling": "impatience, pride",
+        "object": "a new or popular idea",
+        "behavior": "chasing the next big thing",
+        "step": "stay in the words I already know",
+        "template": "from today I let go of my {feeling:impatience, pride} over {object:a new or popular idea} and instead of {behavior:chasing the next big thing}, I will {step:stay in the words I already know}."
       }
     }
   }

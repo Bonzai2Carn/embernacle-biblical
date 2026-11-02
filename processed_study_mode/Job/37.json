@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about God's power in nature?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Mystery",
-            "expansion": "The overwhelming sense that God's actions transcend human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Natural Majesty",
-            "expansion": "God's thunderous voice reveals power through elemental forces."
-          },
-          {
-            "id": 3,
-            "text": "Emotional Response",
-            "expansion": "The trembling heart represents human vulnerability before divine magnitude."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so incomprehensible, how can we claim to understand God's intentions?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's overwhelming power with human suffering?",
-        "left_label": "Divine Inscrutability",
-        "right_label": "Compassionate Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine power shifted?",
-        "options": [
-          "More humble about my understanding",
-          "More aware of natural complexity",
-          "More respectful of mystery",
-          "More open to spiritual uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine power is deliberately mysterious to provoke human humility",
           "Meteorological phenomena are purely scientific, not theological"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Elihu says",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "Elihu gives the reason",
+            "ref": "v. 24",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Job's place as you hear the command to stand still. What would you weigh about a God who is not partial to the wise in heart?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 29:3-9",
+        "summary": "Elihu tells Job to listen to the thunder of God's voice and the lightning He sends across the sky (vv. 2-3). The psalmist says the voice of the LORD thunders over the waters, breaks the cedars and shakes the wilderness.",
+        "question": "How does the psalmist's description of the voice of the LORD help you understand the thunder described in Job 37?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "the Almighty is beyond our reach",
+        "feeling": "anxiety, confusion",
+        "object": "a situation I cannot control",
+        "behavior": "trying to figure out every detail",
+        "step": "rest in His justice and righteousness",
+        "template": "from today I entrust my {feeling:anxiety, confusion} about {object:a situation I cannot control} to God and instead of {behavior:trying to figure out every detail}, I will {step:rest in His justice and righteousness}."
       }
     }
   }

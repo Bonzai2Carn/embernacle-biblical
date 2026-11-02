@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jerusalem's fall resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "The inevitability of divine judgment",
-            "expansion": "Consequences of persistent national disobedience become unavoidable."
-          },
-          {
-            "id": "2",
-            "text": "The human cost of political conflict",
-            "expansion": "Ordinary people suffer most when leadership fails."
-          },
-          {
-            "id": "3",
-            "text": "The preservation of hope amid destruction",
-            "expansion": "Even in complete defeat, seeds of restoration can remain."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When systems of power collapse, what truly defines a people's identity and resilience?"
-      },
-      "moral_slider": {
-        "question": "How do divine promises intersect with human accountability?",
-        "left_label": "Absolute Sovereignty",
-        "right_label": "Human Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical suffering evolved?",
-        "options": [
-          "Recognizing systemic patterns of conflict",
-          "Understanding communal trauma",
-          "Seeing resilience beyond immediate circumstances",
-          "Appreciating complex theological interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's commitment to covenant faithfulness",
           "Judgment represents divine abandonment of His people"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Gedaliah said to the commanders and their men",
+            "ref": "v. 24",
+            "speaker": "Gedaliah"
+          },
+          {
+            "who": "Ishmael son of Nethaniah came with ten men and struck down and killed Gedaliah",
+            "ref": "v. 25",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the commanders who heard Gedaliah's promise of safety. How does Ishmael's sudden violence change how you weigh Gedaliah's words?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Psalm 33:10-11",
+        "summary": "The king of Babylon releases Jehoiachin from prison and restores his position (vv. 27-29). Psalm 33:10-11 says the LORD frustrates the plans of the nations, and His counsel stands forever.",
+        "question": "How does the permanence of God's counsel help you view the sudden rise and fall of kings like Jehoiachin?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "Gedaliah assured them that if they live in the land and serve the king of Babylon, it will be well with them",
+        "feeling": "fear, panic",
+        "object": "a sudden change in my circumstances",
+        "behavior": "looking for an easy escape",
+        "step": "stay where God has placed me",
+        "template": "from today I entrust my {feeling:fear, panic} about {object:a sudden change in my circumstances} to God and instead of {behavior:looking for an easy escape}, I will {step:stay where God has placed me}."
       }
     }
   }

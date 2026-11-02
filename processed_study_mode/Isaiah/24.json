@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most powerfully reveals divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Judgment",
-            "expansion": "God's judgment transcends social hierarchies, affecting all equally."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic Disruption",
-            "expansion": "Divine intervention transforms the earth's fundamental ecological and social structures."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Consequence",
-            "expansion": "Human actions trigger systemic spiritual and material consequences beyond individual perception."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is universal, what distinguishes human accountability from predetermined fate?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the balance between divine sovereignty and human agency?",
-        "left_label": "Determinism",
-        "right_label": "Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved?",
-        "options": [
-          "More nuanced perspective",
-          "Increased theological complexity",
-          "Deeper appreciation of cosmic interconnectedness",
-          "Heightened sense of personal responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates the consequence of human rebellion",
           "God's judgment coexists with His fundamental attribute of love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The people shout for joy",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "The speaker cries",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those hearing these cries. How does the sudden shift from a song of joy to a cry of despair change how you hear the news of the LORD's majesty?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Revelation 21:1",
+        "summary": "Isaiah describes the earth broken apart, split open and shaken violently (v. 19). Revelation 21:1 says John saw a new heaven and a new earth, for the first heaven and earth had passed away.",
+        "question": "How does the new heaven and earth in Revelation 21:1 help you understand the end of the shaken earth in Isaiah 24?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "the earth is defiled by its people",
+        "feeling": "shame, guilt",
+        "object": "my hidden disobedience",
+        "behavior": "hiding from God",
+        "step": "confess it to the Lord",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:my hidden disobedience} into the light and instead of {behavior:hiding from God}, I will {step:confess it to the Lord}."
       }
     }
   }

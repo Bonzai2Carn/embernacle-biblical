@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": "divine_sovereignty",
-            "text": "Divine Sovereignty",
-            "expansion": "God's ultimate control over human events, even through hardening Pharaoh's heart."
-          },
-          {
-            "id": "generational_testimony",
-            "text": "Generational Testimony",
-            "expansion": "The importance of passing down stories of divine intervention to future generations."
-          },
-          {
-            "id": "spiritual_stubbornness",
-            "text": "Spiritual Stubbornness",
-            "expansion": "The destructive consequences of persistently resisting divine instruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might pride prevent someone from recognizing transformative truth, even when evidence is overwhelming?"
-      },
-      "moral_slider": {
-        "question": "What is the balance between divine judgment and divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Compassionate Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of subtle spiritual dynamics",
-          "Recognize complexity of human-divine interactions",
-          "Appreciate narrative of redemption",
-          "See consequences of spiritual resistance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The hardening represents a judicial act of God in response to persistent rebellion",
           "Divine intervention demonstrates God's ultimate control over historical outcomes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Pharaoh’s officials pleaded",
+            "ref": "v. 7",
+            "speaker": "Pharaoh’s officials"
+          },
+          {
+            "who": "Pharaoh said to go and asked who would go",
+            "ref": "v. 8",
+            "speaker": "Pharaoh"
+          }
+        ],
+        "question": "Put yourself in the place of Pharaoh’s officials. You warn the king that Egypt is in ruins. What do you understand when the king asks who exactly will be going?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 78:4-6",
+        "summary": "God tells Moses to tell children and grandchildren how He dealt with Egypt (v. 2). Psalm 78 says the same: the works of the LORD are not hidden from children but told to the next generation (Psalm 78:4-6).",
+        "question": "How does Psalm 78:4-6 help you understand why God wants this story passed on to your children?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "surrender",
+        "because": "God asks how long a person will refuse to humble himself before Him",
+        "feeling": "stubbornness, pride",
+        "object": "a challenge to my plans",
+        "behavior": "digging in on my own opinion",
+        "step": "admit where I am wrong",
+        "template": "from today I release my {feeling:stubbornness, pride} over {object:a challenge to my plans} and instead of {behavior:digging in on my own opinion}, I will {step:admit where I am wrong}."
       }
     }
   }

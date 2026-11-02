@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Timothy's willingness to adapt",
-            "expansion": "Demonstrates profound spiritual flexibility and commitment to community integration"
-          },
-          {
-            "id": 2,
-            "text": "Paul's missional focus",
-            "expansion": "Reveals an unwavering dedication to spreading the Gospel despite personal challenges"
-          },
-          {
-            "id": 3,
-            "text": "Divine guidance through visions",
-            "expansion": "Illustrates how spiritual direction often comes through unexpected, mysterious channels"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal cultural accommodations serve a greater spiritual purpose without compromising core beliefs?"
-      },
-      "moral_slider": {
-        "question": "Where do personal cultural identities intersect with spiritual calling?",
-        "left_label": "Cultural Preservation",
-        "right_label": "Spiritual Mission"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual mission?",
-        "options": [
-          "Recognized complexity of cross-cultural ministry",
-          "Understood importance of adaptability",
-          "Saw divine guidance as nuanced and personal",
-          "Appreciated individual spiritual journeys"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reject all cultural considerations in evangelism",
           "Prioritize personal comfort over missional effectiveness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The Spirit of Jesus",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          },
+          {
+            "who": "Paul saw a vision of a man of Macedonia",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place: you were blocked from one path only to be called toward another. How does the second direction change your view of the first closed door?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Philippians 2:13",
+        "summary": "The Lord opened Lydia's heart to respond to Paul's message (v. 14). Paul writes that it is God who works in believers to will and to act on behalf of His good purpose.",
+        "question": "How does Philippians 2:13 help you understand what it means that the Lord opened Lydia's heart to respond?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "devotion",
+        "because": "Paul and Silas were praying and singing hymns to God",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "complaining in private",
+        "step": "sing a song of praise",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:complaining in private}, I will {step:sing a song of praise}."
       }
     }
   }

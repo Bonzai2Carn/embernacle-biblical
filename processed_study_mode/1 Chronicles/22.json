@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's preparation for God's temple most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Gathering Resources Meticulously",
-            "expansion": "David's careful collection of materials symbolizes intentional spiritual preparation beyond mere good intentions."
-          },
-          {
-            "id": 2,
-            "text": "Transferring Vision to Next Generation",
-            "expansion": "David's guidance to Solomon represents the profound responsibility of spiritual mentorship and legacy-building."
-          },
-          {
-            "id": 3,
-            "text": "Personal Limitation as Opportunity",
-            "expansion": "David's acceptance that he would not build the temple reveals humility and understanding of divine timing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If preparation is so significant, why did God ultimately choose Solomon over David to complete the temple?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations intersect with divine purpose?",
-        "left_label": "Human Constraints",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual legacy changed?",
-        "options": [
-          "I see preparation as equally important as execution",
-          "Leadership involves nurturing potential in others",
-          "Personal limitations do not negate spiritual impact",
-          "Vision transcends individual achievement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals God's desire for intentional worship infrastructure",
           "Emphasizes human cooperation with divine blueprints"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 7",
+            "speaker": "David"
+          },
+          {
+            "who": "the LORD spoke to David",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. You have prepared everything for this holy task, yet you are told you cannot do it. How do you weigh your deep desire against the reason given for your refusal?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "2 Samuel 7:12-13",
+        "summary": "David prepares massive resources for a temple he will not build (v. 5). The Lord promises that a descendant will build a house for His Name and establish an eternal throne (2 Samuel 7:12-13).",
+        "question": "How does the promise of an eternal throne help you understand why David's preparations for Solomon were so lavish?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "devotion",
+        "because": "David told Solomon to set his heart and soul to seek the LORD",
+        "feeling": "distraction, apathy",
+        "object": "my daily chores",
+        "behavior": "rushing through my prayers",
+        "step": "find a quiet moment to listen",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my daily chores} and instead of {behavior:rushing through my prayers}, I will {step:find a quiet moment to listen}."
       }
     }
   }

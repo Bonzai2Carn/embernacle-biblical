@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual experience resonates most deeply in this psalm?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Longing for God's presence",
-            "expansion": "The soul's deepest hunger is for divine connection, transcending mere intellectual understanding."
-          },
-          {
-            "id": "b",
-            "text": "Experiencing spiritual drought",
-            "expansion": "Moments of spiritual isolation can be profound opportunities for transformative growth and introspection."
-          },
-          {
-            "id": "c",
-            "text": "Wrestling with emotional despair",
-            "expansion": "Emotional vulnerability before God represents a profound act of spiritual authenticity and trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of divine absence actually be an invitation to deeper spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate yourself between despair and hope?",
-        "left_label": "Spiritual Desolation",
-        "right_label": "Divine Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Recognize struggle as a normal part of faith journey",
-          "Understand emotional honesty as spiritual strength",
-          "See divine silence as an opportunity for growth",
-          "Appreciate vulnerability in spiritual practice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emotional pain indicates spiritual separation from God",
           "Persistent faith emerges through wrestling with spiritual challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Enemies taunt the psalmist",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist commands his soul",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. Your enemies taunt you all day long, asking where your God is. What changes when you tell your own soul to put its hope in God?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "John 7:37-39",
+        "summary": "The psalmist's soul thirsts for God, the living God (v. 2). Jesus calls out to anyone who is thirsty to come to Him and drink, and He says streams of living water will flow from within the one who believes (John 7:37-38).",
+        "question": "How does John 7:37-39 help you understand the thirst described in verse 2?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "trust",
+        "because": "I will yet praise Him, my Savior and my God",
+        "feeling": "despair",
+        "object": "taunts about where my God is",
+        "behavior": "dwelling on my tears",
+        "step": "tell my soul to hope in God",
+        "template": "from today I bring You my {feeling:despair} about {object:taunts about where my God is} and instead of {behavior:dwelling on my tears}, I will {step:tell my soul to hope in God}."
       }
     }
   }

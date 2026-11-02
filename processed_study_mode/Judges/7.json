@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of divine strategy most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Reduction",
-            "expansion": "God deliberately diminishes human resources to highlight divine power."
-          },
-          {
-            "id": 2,
-            "text": "Psychological Warfare",
-            "expansion": "The weaponization of strategic vulnerability creates unexpected outcomes."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Leadership",
-            "expansion": "True leadership emerges through radical trust and counterintuitive obedience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of strength fundamentally change if vulnerability were considered your greatest asset?"
-      },
-      "moral_slider": {
-        "question": "What determines genuine spiritual victory: human capability or divine intervention?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare transformed?",
-        "options": [
-          "I now see strategy differently",
-          "Numerical superiority is an illusion",
-          "Faith requires radical trust",
-          "Divine plans transcend human logic"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God intentionally limits human glory to demonstrate His sovereignty",
           "Strategic preparation matters more than raw military might"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD said to Gideon",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "twenty-two thousand of them turned back",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the men in the camp. The LORD says you are too many, lest Israel say 'My own hand has saved me.' Then the fearful and trembling are told they may leave, and twenty-two thousand turn back. What do you understand about why the LORD wants fewer men, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "2 Corinthians 12:9",
+        "summary": "The LORD reduces Gideon's army to three hundred men to ensure the victory belongs to Him (v. 7). Paul describes how God uses weakness to show that His power is made perfect in us.",
+        "question": "How does Paul's description of strength in weakness help you understand why the LORD chose such a small number of men for the battle?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "surrender",
+        "because": "Israel might glorify themselves over God by saying their own hand saved them",
+        "feeling": "pride, self-reliance",
+        "object": "my recent success",
+        "behavior": "taking all the credit",
+        "step": "point the praise to Him",
+        "template": "from today I release my {feeling:pride, self-reliance} over {object:my recent success} and instead of {behavior:taking all the credit}, I will {step:point the praise to Him}."
       }
     }
   }

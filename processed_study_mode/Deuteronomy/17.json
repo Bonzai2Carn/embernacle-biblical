@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which principle of divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise legal process for investigating spiritual transgressions",
-            "expansion": "Systematic evaluation demonstrates God's commitment to fair judgment"
-          },
-          {
-            "id": 2,
-            "text": "Zero tolerance for idolatry",
-            "expansion": "Spiritual purity requires radical separation from corrupting influences"
-          },
-          {
-            "id": 3,
-            "text": "Establishing hierarchical leadership accountability",
-            "expansion": "Leaders must be held to higher standards of faithfulness and integrity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might strict religious boundaries paradoxically protect spiritual freedom?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between divine justice and merciful understanding?",
-        "left_label": "Strict Punishment",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on religious discipline evolved?",
-        "options": [
-          "More appreciative of systematic spiritual accountability",
-          "Recognize complexity of moral judgment",
-          "Understanding divine standards require nuanced interpretation",
-          "Aware of potential for both protection and potential legalism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Cultural contexts modify interpretations of biblical legal frameworks",
           "Theological discernment requires nuanced understanding of biblical principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The man acts presumptuously",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The people will hear and be afraid",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a member of the community watching this judgment. How does the consequence for the person who refuses to listen change the way the rest of the people behave?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "1 Samuel 8:11-18",
+        "summary": "Deuteronomy lists the restrictions for a king to prevent him from relying on horses, wives, or wealth (vv. 16-17). Samuel describes the actual cost of the king the people demanded, showing how he will take their resources.",
+        "question": "How does Samuel's description of the king's demands help you understand the specific dangers the law tries to prevent in Deuteronomy?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "the king is to read from it all the days of his life",
+        "feeling": "distraction, apathy",
+        "object": "the truth I already know",
+        "behavior": "skipping my morning reading",
+        "step": "read one verse and pause",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the truth I already know} and instead of {behavior:skipping my morning reading}, I will {step:read one verse and pause}."
       }
     }
   }

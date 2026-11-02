@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of wisdom resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "A good name matters more than wealth",
-            "expansion": "Character and reputation provide deeper fulfillment than monetary accumulation."
-          },
-          {
-            "id": "b",
-            "text": "Divine perspective transcends economic divisions",
-            "expansion": "God views human worth beyond social stratification and material circumstances."
-          },
-          {
-            "id": "c",
-            "text": "Prudence protects against potential harm",
-            "expansion": "Wisdom involves anticipating consequences and strategically avoiding dangerous paths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If reputation is truly more valuable than riches, what investments are you making in your character that cannot be measured monetarily?"
-      },
-      "moral_slider": {
-        "question": "How do humility and divine reverence interact with personal achievement?",
-        "left_label": "Personal Ambition",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your current understanding of success?",
-        "options": [
-          "I now see wealth differently",
-          "Character matters more than I previously thought",
-          "Divine perspective offers deeper insight",
-          "Prudence requires more intentional reflection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Wealth distribution demonstrates God's complex redemptive purposes",
           "Economic differences are primarily result of systemic social structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a rich person and a poor person side by side. What do you understand about what they have in common?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "James 2:1-5",
+        "summary": "Proverbs 22 says the rich and the poor have this in common: the LORD is Maker of them all (v. 2). James 2:1-5 describes a man in fine clothes given a seat of honor while a poor man is told to stand, and calls that favoritism.",
+        "question": "How does James 2:1-5 help you understand the way the rich and the poor should be treated?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "the rewards of humility and the fear of the LORD are wealth, honor, and life",
+        "feeling": "greed, envy",
+        "object": "a colleague's new house",
+        "behavior": "chasing money first",
+        "step": "pray for ten minutes before work",
+        "template": "from today I let go of my {feeling:greed, envy} over {object:a colleague's new house} and instead of {behavior:chasing money first}, I will {step:pray for ten minutes before work}."
       }
     }
   }

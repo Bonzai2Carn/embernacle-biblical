@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic of spiritual mission resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Boldness in Proclamation",
-            "expansion": "Courage to speak truth despite potential persecution demonstrates spiritual resilience."
-          },
-          {
-            "id": 2,
-            "text": "Encountering Divided Responses",
-            "expansion": "The gospel inevitably creates tension, revealing hearts' true spiritual condition."
-          },
-          {
-            "id": 3,
-            "text": "Divine Confirmation through Signs",
-            "expansion": "Supernatural validation accompanies genuine spiritual message."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do spiritual convictions transform when confronted with radical opposition?"
-      },
-      "moral_slider": {
-        "question": "Where do human strategy and divine intervention intersect in spiritual mission?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual ministry evolved?",
-        "options": [
-          "Recognize complexity of spiritual engagement",
-          "Understand potential for both acceptance and rejection",
-          "Appreciate divine empowerment beyond human capability",
-          "See mission as a collaborative spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Opposition indicates spiritual warfare and potential ministry impact",
           "Supernatural confirmations are contextual and not universally applicable"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "some Jews arrived",
+            "ref": "v. 19",
+            "speaker": ""
+          },
+          {
+            "who": "Paul got up",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place: you were stoned and left for dead by a crowd, yet you stood up and walked right back into the city. What does this movement reveal about what you just endured?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "2 Corinthians 11:23-27",
+        "summary": "The apostles tell the disciples that hardships are necessary to enter the kingdom (v. 22). Paul later lists his own specific sufferings, including beatings and hunger, to show the cost of his ministry.",
+        "question": "How does Paul's list of trials in 2 Corinthians 11 help you understand the weight of the 'many hardships' he mentions here?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "remembrance",
+        "because": "God gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness",
+        "feeling": "anxiety, doubt",
+        "object": "a season of scarcity",
+        "behavior": "forgetting His past care",
+        "step": "list three recent provisions",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a season of scarcity} and instead of {behavior:forgetting His past care}, I will {step:list three recent provisions}."
       }
     }
   }

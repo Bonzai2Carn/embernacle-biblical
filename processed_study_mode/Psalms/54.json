@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine rescue resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as Defender",
-            "expansion": "The psalm portrays God actively protecting the vulnerable against unjust adversaries."
-          },
-          {
-            "id": 2,
-            "text": "Prayer as Transformative Power",
-            "expansion": "David demonstrates how honest, raw communication with God can shift emotional landscapes."
-          },
-          {
-            "id": 3,
-            "text": "Confidence in Divine Justice",
-            "expansion": "The psalm reveals an unwavering trust that God will ultimately vindicate the righteous."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of divine intervention change if you viewed challenges as opportunities for spiritual refinement rather than obstacles?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and theological trust intersect?",
-        "left_label": "Personal Vulnerability",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and divine support evolved?",
-        "options": [
-          "Recognizing prayer as dialogue, not just request",
-          "Understanding suffering as potential spiritual growth",
-          "Seeing God as an active, present defender",
-          "Embracing emotional honesty in spiritual communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals vulnerability as a pathway to divine protection",
           "Transforms personal persecution into an opportunity for spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You are surrounded by people who do not care about God. What changes when you shift your focus from the ruthless men to the one who sustains your soul?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 37:5-6",
+        "summary": "The psalmist says God is his helper and the sustainer of his soul (v. 4). Psalm 37:5-6 tells the reader to commit their way to the LORD and trust Him, and promises He will bring forth their righteousness like the dawn.",
+        "question": "How does the command to commit your way to the Lord help you understand the psalmist's confidence in God's support?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "devotion",
+        "because": "the name of the LORD is good",
+        "feeling": "anxiety, fear",
+        "object": "my uncertain future",
+        "behavior": "worrying about every detail",
+        "step": "offer a prayer of thanks",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:my uncertain future} and instead of {behavior:worrying about every detail}, I will {step:offer a prayer of thanks}."
       }
     }
   }

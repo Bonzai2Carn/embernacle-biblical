@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about this genealogy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The inclusion of complex human stories",
-            "expansion": "The genealogy reveals God's redemptive work through imperfect human narratives."
-          },
-          {
-            "id": 2,
-            "text": "The deliberate tracing of Jesus' royal lineage",
-            "expansion": "Matthew meticulously demonstrates Jesus' legal right to David's throne through careful historical documentation."
-          },
-          {
-            "id": 3,
-            "text": "The surprising presence of non-Jewish women",
-            "expansion": "Tamar, Rahab, Ruth represent divine grace transcending cultural and ethnic boundaries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If genealogy reveals character inheritance, what spiritual DNA are you transmitting to future generations?"
-      },
-      "moral_slider": {
-        "question": "How do individual human failures relate to divine providence?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical ancestry changed?",
-        "options": [
-          "Recognized genealogy as more than just names",
-          "Saw divine intentionality in human history",
-          "Understood grace works through imperfect people",
-          "Appreciated narrative complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's redemptive plan includes unexpected participants",
           "Generational faithfulness matters more than individual achievements"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The text sums up the generations",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "The text turns to Jesus' birth",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a reader who has just counted fourteen generations. What would you notice when the next line begins, This is how the birth of Jesus Christ came about, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Isaiah 7:14",
+        "summary": "Matthew says the birth of Jesus fulfills what the Lord said through the prophet: a virgin will be with child and will call Him Immanuel (vv. 22-23). Isaiah says the Lord Himself will give a sign: a virgin will be with child and will call Him Immanuel (Isaiah 7:14).",
+        "question": "How does Isaiah 7:14 help you understand the weight of the sign Matthew says was fulfilled?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "Joseph did as the angel of the Lord had commanded him",
+        "feeling": "confusion, doubt",
+        "object": "a sudden change in my plans",
+        "behavior": "arguing my own way",
+        "step": "obey the next instruction I receive",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a sudden change in my plans} and instead of {behavior:arguing my own way}, I will {step:obey the next instruction I receive}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human existence resonates most deeply?",
-        "choices": [
-          {
-            "id": "cyclical",
-            "text": "Life is a repetitive, unchanging cycle",
-            "expansion": "The recurring patterns of nature suggest human efforts are ultimately inconsequential."
-          },
-          {
-            "id": "transient",
-            "text": "Human life is brief and ultimately meaningless",
-            "expansion": "Generations pass, yet the earth remains, rendering individual struggles ephemeral."
-          },
-          {
-            "id": "searching",
-            "text": "Wisdom comes from recognizing life's fundamental limitations",
-            "expansion": "Understanding the futility of human striving is itself a form of profound insight."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If all human labor is ultimately 'vanity', what gives meaning to our existence?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine purpose with the apparent meaninglessness of human effort?",
-        "left_label": "Existential Despair",
-        "right_label": "Transcendent Hope"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of human significance?",
-        "options": [
-          "I see life as more cyclical than linear",
-          "I'm more aware of life's transient nature",
-          "I recognize the limitations of human understanding",
-          "I feel a deeper need to seek meaning beyond material achievements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Temporal achievements should be viewed through an eternal lens",
           "Recognizing life's limitations leads to deeper spiritual humility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The Teacher says",
+            "ref": "v. 2",
+            "speaker": "The Teacher"
+          },
+          {
+            "who": "The Teacher asks",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a worker hearing the Teacher. He calls everything futile, then asks what a man gains from all his toil under the sun. What would you still wonder about the gain from your own labor?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 90:4",
+        "summary": "The Teacher says generations come and go, but the earth remains forever (v. 4). Psalm 90:4 says a thousand years in God's sight are like a day that passes, or a watch of the night.",
+        "question": "How does the Psalmist's picture of a thousand years as a day change how you view the passing generations?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "with much wisdom comes much sorrow, and as knowledge grows, grief increases",
+        "feeling": "anxiety, dread",
+        "object": "understanding a difficult situation",
+        "behavior": "overanalyzing every detail",
+        "step": "rest in what I do not know",
+        "template": "from today I bring my {feeling:anxiety, dread} about {object:understanding a difficult situation} into the light and instead of {behavior:overanalyzing every detail}, I will {step:rest in what I do not know}."
       }
     }
   }

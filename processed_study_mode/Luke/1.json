@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which narrative element most resonates with your understanding of divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Zechariah's unexpected angelic encounter",
-            "expansion": "Divine communication often arrives when and where we least expect, challenging our limited human perspective."
-          },
-          {
-            "id": 2,
-            "text": "Mary's humble acceptance of her extraordinary calling",
-            "expansion": "Radical obedience emerges from profound spiritual receptivity and trust."
-          },
-          {
-            "id": 3,
-            "text": "Elizabeth's prophetic recognition of Mary's pregnancy",
-            "expansion": "Spiritual discernment transcends logical understanding and operates through intuitive connection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine promises appear differently when viewed through human limitations versus spiritual possibility?"
-      },
-      "moral_slider": {
-        "question": "To what extent do personal doubts interact with divine revelation?",
-        "left_label": "Human Skepticism",
-        "right_label": "Divine Certainty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication shifted after exploring Luke's narrative?",
-        "options": [
-          "More open to unexpected spiritual encounters",
-          "Recognize the importance of humble receptivity",
-          "Appreciate complexity of prophetic traditions",
-          "Understand divine timing differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine plan emerges through willing human collaboration",
           "Prophetic destiny overrides individual human choice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 37,
+        "exchange": [
+          {
+            "who": "Mary asked the angel",
+            "ref": "v. 34",
+            "speaker": "Mary"
+          },
+          {
+            "who": "The angel replied",
+            "ref": "vv. 35-37",
+            "speaker": "The Angel"
+          }
+        ],
+        "question": "Put yourself in Mary's place, hearing that the Holy Spirit will overshadow you. How does the angel's mention of Elizabeth help you weigh the possibility of your own impossible situation?"
+      },
+      "chain": {
+        "after": 76,
+        "ref": "Isaiah 40:3-5",
+        "summary": "Zechariah says his son will be called a prophet of the Most High and will go on before the Lord to prepare the way for Him (v. 76). Isaiah describes a voice calling, Prepare the way for the LORD in the wilderness.",
+        "question": "How does Isaiah 40:3-5 help you understand what Zechariah says his son will do?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "surrender",
+        "because": "Mary calls herself the Lord's servant and asks that it happen to her according to the angel's word",
+        "feeling": "anxiety, doubt",
+        "object": "an uncertain future",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His promise",
+        "template": "from today I release my {feeling:anxiety, doubt} over {object:an uncertain future} and instead of {behavior:trying to control the outcome}, I will {step:rest in His promise}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with this chapter's narrative?",
-        "choices": [
-          {
-            "id": "divine_judgment",
-            "text": "God's direct intervention in human affairs",
-            "expansion": "Divine sovereignty transcends human power structures and momentary celebrations."
-          },
-          {
-            "id": "pride_consequence",
-            "text": "The destructive nature of unchecked pride",
-            "expansion": "Arrogance blinds leaders to their ultimate accountability before a higher power."
-          },
-          {
-            "id": "sacred_respect",
-            "text": "Desecration of holy objects invites spiritual repercussions",
-            "expansion": "Treating sacred things casually reveals a profound spiritual disconnection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When power intoxicates you, what invisible boundaries are you potentially crossing without realizing?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance with human freedom?",
-        "left_label": "Unrestricted Human Autonomy",
-        "right_label": "Divine Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual consequences evolved?",
-        "options": [
-          "I recognize systemic patterns of pride",
-          "I'm more aware of unseen spiritual dynamics",
-          "I understand judgment can be immediate, not just future",
-          "I see leadership as a profound spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Prophetic voices serve as instruments of divine correction",
           "Moral decay precedes institutional collapse"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Daniel said to the king",
+            "ref": "v. 22",
+            "speaker": "Daniel"
+          }
+        ],
+        "question": "Put yourself in Belshazzar's place. You are his son, and you knew all this, yet you have not humbled your heart. What does that knowledge change about your responsibility?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Proverbs 16:18",
+        "summary": "When Nebuchadnezzar's heart became arrogant, he was deposed from his throne (v. 20). Daniel tells Belshazzar he has exalted himself against the Lord of heaven (v. 23). Proverbs says pride goes before destruction.",
+        "question": "How does the warning in Proverbs 16:18 help you understand the danger in Belshazzar's actions with the holy vessels?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "God holds in His hand my very breath and all my ways",
+        "feeling": "self-sufficiency, pride",
+        "object": "my own achievements",
+        "behavior": "taking credit for success",
+        "step": "acknowledge God as the source",
+        "template": "from today I bring my {feeling:self-sufficiency, pride} about {object:my own achievements} into the light and instead of {behavior:taking credit for success}, I will {step:acknowledge God as the source}."
       }
     }
   }

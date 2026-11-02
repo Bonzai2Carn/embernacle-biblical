@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's apostolic authority resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Commission, Not Human Appointment",
-            "expansion": "Paul emphasizes his calling originates directly from Christ, transcending human institutional validation."
-          },
-          {
-            "id": 2,
-            "text": "Deliverance from the Present Evil Age",
-            "expansion": "Christ's redemptive mission offers transformative liberation from systemic spiritual bondage."
-          },
-          {
-            "id": 3,
-            "text": "Glory Belongs to God Alone",
-            "expansion": "Authentic ministry redirects all recognition and honor back to the divine source."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your spiritual authority were stripped away today, what would remain of your authentic faith?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal spiritual experience validate theological understanding?",
-        "left_label": "Subjective Experience",
-        "right_label": "Objective Revelation"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your current understanding of spiritual calling?",
-        "options": [
-          "Reconsidering the source of my spiritual legitimacy",
-          "Understanding grace as transformative, not transactional",
-          "Recognizing the radical nature of Christ's redemptive mission",
-          "Embracing a more direct, personal relationship with divine purpose"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Apostolic authority requires unanimous human endorsement",
           "Spiritual gifts are the primary marker of theological legitimacy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Paul described his past",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "Paul described God's call",
+            "ref": "vv. 15-16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Galatians, hearing that Paul once persecuted the church of God. What would you understand when God is pleased to reveal His Son in him so that he might preach among the Gentiles?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Ephesians 2:8-9",
+        "summary": "Paul says God set him apart and called him by His grace (v. 15). Ephesians says that you are saved by grace through faith, not by works, and that this is the gift of God (Ephesians 2:8-9).",
+        "question": "How does Ephesians 2:8-9 help you understand why Paul says God called him by His grace?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "devotion",
+        "because": "if I were still trying to please men, I would not be a servant of Christ",
+        "feeling": "people-pleasing, anxiety",
+        "object": "what others think of me",
+        "behavior": "striving to please people",
+        "step": "ask God what He approves first",
+        "template": "from today I let go of my {feeling:people-pleasing, anxiety} over {object:what others think of me} and instead of {behavior:striving to please people}, I will {step:ask God what He approves first}."
       }
     }
   }

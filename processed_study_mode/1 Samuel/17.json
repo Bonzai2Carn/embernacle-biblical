@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of courage speaks most powerfully to you in this narrative?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "David's youthful confidence",
-            "expansion": "True courage emerges from conviction, not physical stature or experience."
-          },
-          {
-            "id": 2,
-            "text": "Confronting systemic fear",
-            "expansion": "Sometimes challenging collective paralysis requires individual radical action."
-          },
-          {
-            "id": 3,
-            "text": "Faith as a transformative power",
-            "expansion": "Spiritual belief can transcend seemingly insurmountable external obstacles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible 'giants' might be paralyzing your potential right now, and how are they different from - or similar to - Goliath?"
-      },
-      "moral_slider": {
-        "question": "How do divine intervention and personal agency interact in moments of great challenge?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of courage evolved after reflecting on David's story?",
-        "options": [
-          "Courage is more internal than external",
-          "Faith can overcome seemingly impossible odds",
-          "Leadership emerges unexpectedly",
-          "Preparation meets opportunity in transformative moments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine calling transcends human limitations",
           "Courage is a function of spiritual alignment, not physical prowess"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 36,
+        "exchange": [
+          {
+            "who": "Saul replied",
+            "ref": "v. 33",
+            "speaker": "Saul"
+          },
+          {
+            "who": "David replied",
+            "ref": "vv. 34-36",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in Saul's place. You tell a boy he cannot fight this Philistine because the man has been a warrior from his youth. He answers that he has struck down a lion and a bear and delivered the lamb from its mouth. What do you weigh in his answer?"
+      },
+      "chain": {
+        "after": 45,
+        "ref": "2 Corinthians 10:4",
+        "summary": "David comes against a Philistine with sword, spear and javelin in the name of the LORD of Hosts (v. 45). In 2 Corinthians 10:4 Paul says the weapons of our warfare are not the weapons of the world but have divine power to demolish strongholds.",
+        "question": "How does 2 Corinthians 10:4 help you understand David's words about sword and spear versus the name of the LORD?"
+      },
+      "conviction": {
+        "verse": 47,
+        "frame": "trust",
+        "because": "the battle is the LORD's",
+        "feeling": "anxiety, dread",
+        "object": "a looming crisis",
+        "behavior": "trying to force a solution",
+        "step": "rest in His sovereignty",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming crisis} to God and instead of {behavior:trying to force a solution}, I will {step:rest in His sovereignty}."
       }
     }
   }

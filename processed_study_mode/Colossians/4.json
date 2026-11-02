@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual discipline most challenges your current practice?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Earnest Prayer",
-            "expansion": "Prayer requires sustained intentionality beyond casual requests."
-          },
-          {
-            "id": 2,
-            "text": "Walking in Wisdom",
-            "expansion": "Wisdom emerges from constant attentiveness to spiritual discernment."
-          },
-          {
-            "id": 3,
-            "text": "Redeeming Time",
-            "expansion": "Every moment can be transformed into an opportunity for divine purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your spiritual commitments were truly transparent, how would your daily interactions fundamentally change?"
-      },
-      "moral_slider": {
-        "question": "How do personal freedom and spiritual accountability intersect?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline evolved?",
-        "options": [
-          "More committed to intentional prayer",
-          "Greater awareness of divine oversight",
-          "Increased sensitivity to spiritual opportunities",
-          "Deeper understanding of personal spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership is primarily about personal charisma",
           "Authority is contextual and culturally determined"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Paul instructs",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "Paul instructs",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone speaking to outsiders. How does acting wisely toward them change the way you speak to them?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "1 Thessalonians 5:17",
+        "summary": "Paul tells the Colossians to devote themselves to prayer, being watchful and thankful (v. 2). First Thessalonians gives a brief command: Pray without ceasing.",
+        "question": "How does the command to pray without ceasing help you understand what it means to devote yourselves to prayer?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "Paul asks believers to devote themselves to prayer, watchful and thankful",
+        "feeling": "anxiety, restlessness",
+        "object": "the needs of my community",
+        "behavior": "worrying about outcomes",
+        "step": "pray for an open door",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:the needs of my community} and instead of {behavior:worrying about outcomes}, I will {step:pray for an open door}."
       }
     }
   }

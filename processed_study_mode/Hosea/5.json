@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with the chapter's message?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Religious Leadership's Accountability",
-            "expansion": "Leaders bear profound responsibility for guiding communities toward spiritual integrity."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Blindness",
-            "expansion": "Habitual sin can create a dangerous unawareness of one's true spiritual condition."
-          },
-          {
-            "id": 3,
-            "text": "Divine Judgment as Redemptive Process",
-            "expansion": "God's correction emerges from a place of ultimate love and desire for restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When religious institutions become compromised, who becomes responsible for maintaining spiritual authenticity?"
-      },
-      "moral_slider": {
-        "question": "How do individual moral choices impact collective spiritual health?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Community Accountability"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your understanding of spiritual dynamics?",
-        "options": [
-          "Recognize systemic spiritual corruption",
-          "Understand divine judgment as transformative",
-          "Acknowledge personal responsibility in communal spirituality",
-          "See beyond ritualistic religious practice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment is ultimately an expression of God's love and commitment",
           "Spiritual restoration requires genuine brokenness and humility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "God announces judgment on the priests and royal house",
+            "ref": "v. 1",
+            "speaker": "God"
+          },
+          {
+            "who": "God says He will return to His place",
+            "ref": "v. 15",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of the priests and the royal house hearing this judgment. What do you weigh when God says He will return to His place until they admit their guilt and seek His face?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Jeremiah 29:13",
+        "summary": "God says He will return to His place until His people admit their guilt and seek His face (v. 15). Jeremiah 29:13 says you will seek Me and find Me when you search for Me with all your heart.",
+        "question": "How does Jeremiah 29:13 help you understand what it means to seek His face in verse 15?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "surrender",
+        "because": "the people go with flocks and herds to seek the LORD but do not find Him, since He has withdrawn Himself from them",
+        "feeling": "anxiety, emptiness",
+        "object": "a silence from God in prayer",
+        "behavior": "going through the motions of prayer",
+        "step": "admit my guilt and seek His face",
+        "template": "from today I release my {feeling:anxiety, emptiness} over {object:a silence from God in prayer} and instead of {behavior:going through the motions of prayer}, I will {step:admit my guilt and seek His face}."
       }
     }
   }

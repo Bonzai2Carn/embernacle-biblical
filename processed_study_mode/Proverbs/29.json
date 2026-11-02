@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which principle of leadership resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Justice creates stability",
-            "expansion": "True leadership transforms society through ethical governance and fair judgment."
-          },
-          {
-            "id": 2,
-            "text": "Wisdom prevents destruction",
-            "expansion": "Humble receptiveness to correction can prevent catastrophic personal collapse."
-          },
-          {
-            "id": 3,
-            "text": "Character determines influence",
-            "expansion": "A leader's moral integrity directly impacts communal wellbeing and happiness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your resistance to correction be a subtle form of self-destruction?"
-      },
-      "moral_slider": {
-        "question": "Where do personal accountability and systemic grace intersect?",
-        "left_label": "Individual Responsibility",
-        "right_label": "Collective Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and personal growth shifted?",
-        "options": [
-          "I now see correction as an opportunity",
-          "Leadership requires moral courage",
-          "Personal transformation impacts community",
-          "Wisdom is more nuanced than I previously thought"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine wisdom supersedes human political systems",
           "Spiritual correction is an essential pathway to maturity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "The writer contrasts",
+            "ref": "v. 25",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who fears what other people think. What do you understand about the difference between being caught in a snare and being set securely on high?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Hebrews 12:5-6",
+        "summary": "A man who stays stiff-necked after much reproof will be shattered beyond recovery (v. 1). Hebrews 12:5-6 says not to lose heart when the Lord rebukes, because the Lord disciplines the one He loves.",
+        "question": "How does Hebrews 12:5-6 help you understand why reproof matters in Proverbs 29:1?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "trust",
+        "because": "the fear of man is a snare",
+        "feeling": "fear, anxiety",
+        "object": "what others think of me",
+        "behavior": "changing my opinions to please people",
+        "step": "speak my honest view kindly today",
+        "template": "from today I entrust my {feeling:fear, anxiety} about {object:what others think of me} to God and instead of {behavior:changing my opinions to please people}, I will {step:speak my honest view kindly today}."
       }
     }
   }

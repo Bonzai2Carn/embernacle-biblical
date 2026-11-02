@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of wisdom intrigues you most?",
-        "choices": [
-          {
-            "id": "diplomatic",
-            "text": "Diplomatic Wisdom",
-            "expansion": "Solomon demonstrates wisdom through complex international relationships and intellectual exchange."
-          },
-          {
-            "id": "spiritual",
-            "text": "Spiritual Recognition",
-            "expansion": "The Queen of Sheba recognizes Solomon's wisdom as fundamentally connected to God's blessing."
-          },
-          {
-            "id": "material",
-            "text": "Material Manifestation of Wisdom",
-            "expansion": "Wisdom is reflected not just in words, but in Solomon's extraordinary wealth and infrastructure."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When external validation meets internal truth, which ultimately defines wisdom's authenticity?"
-      },
-      "moral_slider": {
-        "question": "How does divine wisdom balance with human achievement?",
-        "left_label": "Human Capability",
-        "right_label": "Divine Inspiration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom evolved?",
-        "options": [
-          "More relational than intellectual",
-          "Deeply connected to spiritual insight",
-          "Demonstrated through complex problem-solving",
-          "Manifested through material and cultural abundance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God strategically positions His chosen leaders to demonstrate supernatural understanding",
           "Spiritual gifts are meant to glorify God and draw nations toward His redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The queen of Sheba arrived with questions",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The queen of Sheba saw the reality",
+            "ref": "v. 7",
+            "speaker": "The queen of Sheba"
+          }
+        ],
+        "question": "Put yourself in the queen's place. You came to test a rumor with difficult questions. What do you find when the reality of the king's life exceeds even the best reports you heard?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Proverbs 2:6",
+        "summary": "The world sought Solomon to hear the wisdom God put in his heart (v. 24). Proverbs tells us exactly where that source of wisdom is found.",
+        "question": "How does Proverbs 2:6 help you understand the origin of the wisdom that drew the whole world to Solomon?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "the LORD delighted in Solomon and set him on the throne of Israel",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "taking credit for success",
+        "step": "attribute every good thing to Him",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my own achievements} and instead of {behavior:taking credit for success}, I will {step:attribute every good thing to Him}."
       }
     }
   }

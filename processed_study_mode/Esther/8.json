@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which reversal of fortune most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mordecai's elevation from exile to royal advisor",
-            "expansion": "Divine intervention can transform personal circumstances overnight."
-          },
-          {
-            "id": 2,
-            "text": "The Jews' sudden shift from threatened to protected",
-            "expansion": "Systemic oppression can be dismantled through courageous advocacy."
-          },
-          {
-            "id": 3,
-            "text": "Esther's continued diplomatic courage",
-            "expansion": "True leadership persists beyond initial victories."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal relationships intersect with systemic justice, and when does individual action become transformative?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between seeking personal safety and collective liberation?",
-        "left_label": "Individual Survival",
-        "right_label": "Community Preservation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on advocacy and intervention shifted?",
-        "options": [
-          "I now see power structures as more malleable",
-          "Personal courage can create systemic change",
-          "Relationships are critical in navigating complex conflicts",
-          "Divine providence works through human agency"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By elevating faithful individuals",
           "Through miraculous direct intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Esther begged",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "King Xerxes said",
+            "ref": "v. 8",
+            "speaker": "Xerxes"
+          }
+        ],
+        "question": "Put yourself in Esther's place, pleading to stop a law that cannot be undone. What does the king's response reveal about the power you are working with?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Psalm 124:2-3",
+        "summary": "The Jews find joy and light after the threat of destruction (v. 16-17). The Psalmist describes a similar moment when enemies rose up to swallow them whole.",
+        "question": "How does the Psalmist's description of being swallowed by enemies help you see the scale of the danger the Jews escaped in this chapter?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "remembrance",
+        "because": "the Jews had a time of light and gladness, of joy and honor",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "focusing on the threat",
+        "step": "recall how God has delivered me before",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:focusing on the threat}, I will {step:recall how God has delivered me before}."
       }
     }
   }

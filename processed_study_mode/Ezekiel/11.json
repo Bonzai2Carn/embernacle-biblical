@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment against corrupt leadership",
-            "expansion": "Leaders who mislead people bear profound spiritual accountability."
-          },
-          {
-            "id": 2,
-            "text": "God's capacity for restoration after punishment",
-            "expansion": "Judgment is not the end, but a pathway to potential redemption."
-          },
-          {
-            "id": 3,
-            "text": "The Spirit's active role in prophetic revelation",
-            "expansion": "Divine communication transcends human understanding and physical limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do political and spiritual corruption intersect, and what responsibility do individuals bear when systemic injustice prevails?"
-      },
-      "moral_slider": {
-        "question": "To what extent can divine judgment be simultaneously an act of punishment and mercy?",
-        "left_label": "Punitive Judgment",
-        "right_label": "Redemptive Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic warning evolved?",
-        "options": [
-          "More aware of spiritual accountability",
-          "Recognize complexity of divine judgment",
-          "See leadership as spiritually consequential",
-          "Understand prophecy as transformative communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's commitment to spiritual transformation",
           "Judgment proves God's ultimate sovereignty over human actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "the people of Jerusalem said",
+            "ref": "v. 15",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 16",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the exiles. The people of Jerusalem say of you, 'They are far away from the LORD; this land has been given to us.' What do you weigh when the LORD says He has been a sanctuary for you in the countries where you have gone?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Ezekiel 36:26-27",
+        "summary": "God promises to replace a heart of stone with a heart of flesh (v. 19). Ezekiel 36 shows the Spirit as the agent who makes this change possible.",
+        "question": "How does the promise of the Spirit in Ezekiel 36 help you understand how God achieves the new heart promised in Ezekiel 11?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "the LORD says He knows the thoughts that arise in the minds of the house of Israel",
+        "feeling": "shame, anxiety",
+        "object": "my private failures",
+        "behavior": "hiding my true motives",
+        "step": "walk in the light",
+        "template": "from today I bring my {feeling:shame, anxiety} about {object:my private failures} into the light and instead of {behavior:hiding my true motives}, I will {step:walk in the light}."
       }
     }
   }

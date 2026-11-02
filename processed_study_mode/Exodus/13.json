@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of liberation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention in Human Freedom",
-            "expansion": "God actively breaks systemic oppression through supernatural power"
-          },
-          {
-            "id": 2,
-            "text": "Ritual Commemoration of Deliverance",
-            "expansion": "Remembering liberation becomes a spiritual discipline preserving collective identity"
-          },
-          {
-            "id": 3,
-            "text": "Consecration of First Fruits",
-            "expansion": "Acknowledging divine ownership transforms material possessions into spiritual offerings"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If freedom requires sacrifice and remembrance, what unrecognized bondages might still control your life?"
-      },
-      "moral_slider": {
-        "question": "How do individual liberation and collective responsibility intersect?",
-        "left_label": "Personal Freedom",
-        "right_label": "Community Obligation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of liberation evolved?",
-        "options": [
-          "Recognize systemic oppression differently",
-          "Understand spiritual transformation requires active remembrance",
-          "See freedom as a continuous journey, not a single event",
-          "Appreciate collective narrative over individual experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Establishes a covenant relationship between God and His people",
           "Represents the transfer of spiritual inheritance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses told the people",
+            "ref": "v. 3",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites receiving this command. How does being reminded of the day the LORD brought you out of Egypt change how you hear the command to consecrate the firstborn?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Deuteronomy 16:3",
+        "summary": "Moses tells the people what to say when a son asks, What does this mean? (v. 14). Deuteronomy 16:3 says to eat unleavened bread for seven days, the bread of affliction, so that you may remember for the rest of your life the day you left Egypt.",
+        "question": "How does Deuteronomy 16:3 help you understand the purpose of the answer Moses gives in Exodus 13:14?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "remembrance",
+        "because": "the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night",
+        "feeling": "anxiety, confusion",
+        "object": "an uncertain path ahead",
+        "behavior": "trying to force my own direction",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:an uncertain path ahead} and instead of {behavior:trying to force my own direction}, I will {step:rest in His presence}."
       }
     }
   }

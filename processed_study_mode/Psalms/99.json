@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological understanding resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Holiness is Supreme",
-            "expansion": "The psalm emphasizes God's absolute transcendence and separateness from human imperfection."
-          },
-          {
-            "id": 2,
-            "text": "Divine Justice Requires Accountability",
-            "expansion": "God's righteousness demands response and obedience from His people."
-          },
-          {
-            "id": 3,
-            "text": "Worship Emerges from Reverence",
-            "expansion": "True worship stems from understanding God's majestic and powerful nature."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's holiness is so overwhelming, how can imperfect humans ever approach divine presence?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human free will?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Governance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine character shifted?",
-        "options": [
-          "More aware of God's transcendence",
-          "Recognize complexity of divine justice",
-          "Appreciate nuanced relationship between holiness and mercy",
-          "See worship as transformative response"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship is a response to God's inherent holiness, not merely human emotional experience",
           "God's sovereignty does not negate human responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the nations hearing that the LORD reigns and the earth should quake. You then hear that the mighty King loves justice and has established equity. What do you weigh more heavily: the trembling you are called to, or the justice of the King who reigns?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Samuel 2:2",
+        "summary": "The psalmist calls the LORD holy and says to praise His great and awesome name (v. 3). Hannah's prayer says there is no one holy like the LORD (1 Samuel 2:2).",
+        "question": "How does 1 Samuel 2:2 help you understand why the psalmist calls the LORD holy in verse 3?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "Moses, Aaron, and Samuel called to the LORD, and He answered them",
+        "feeling": "anxiety, fear",
+        "object": "a silence in my prayers",
+        "behavior": "giving up on prayer",
+        "step": "call on Him again",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:a silence in my prayers} and instead of {behavior:giving up on prayer}, I will {step:call on Him again}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine communication intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Dreams as prophetic messages",
-            "expansion": "Divine insights often arrive through unexpected channels beyond rational understanding."
-          },
-          {
-            "id": 2,
-            "text": "Joseph's interpretive wisdom",
-            "expansion": "True understanding requires spiritual discernment beyond mere intellectual knowledge."
-          },
-          {
-            "id": 3,
-            "text": "God's providential timing",
-            "expansion": "Preparation and patience intersect at the precise moment of divine appointment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal character prepare one for unexpected opportunities of leadership and transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent do external circumstances versus internal character determine one's destiny?",
-        "left_label": "Circumstantial Determinism",
-        "right_label": "Personal Agency"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine guidance shifted?",
-        "options": [
-          "More open to unexpected communication",
-          "Recognize importance of spiritual discernment",
-          "Understanding of patience in divine timing",
-          "Appreciate complexity of prophetic interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering and delay are often precursors to significant breakthrough",
           "Supernatural wisdom can emerge in unexpected contexts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Pharaoh said to Joseph",
+            "ref": "v. 15",
+            "speaker": "Pharaoh"
+          },
+          {
+            "who": "Joseph replied",
+            "ref": "v. 16",
+            "speaker": "Joseph"
+          }
+        ],
+        "question": "Put yourself in Joseph's place. Pharaoh has heard that you can interpret dreams, and he asks for your help. What do you weigh when you say you cannot do it yourself?"
+      },
+      "chain": {
+        "after": 39,
+        "ref": "Proverbs 2:6",
+        "summary": "Pharaoh says no one is as discerning and wise as Joseph, since God has made all this known to him (v. 39). Proverbs 2:6 says the LORD gives wisdom, and knowledge and understanding come from His mouth.",
+        "question": "How does Proverbs 2:6 help you understand where Joseph's wisdom comes from?"
+      },
+      "conviction": {
+        "verse": 51,
+        "frame": "remembrance",
+        "because": "God has made me forget all my hardship and all my father's household",
+        "feeling": "bitterness, regret",
+        "object": "past failures",
+        "behavior": "dwelling on old wounds",
+        "step": "focus on His current provision",
+        "template": "from today I let go of my {feeling:bitterness, regret} over {object:past failures} and instead of {behavior:dwelling on old wounds}, I will {step:focus on His current provision}."
       }
     }
   }

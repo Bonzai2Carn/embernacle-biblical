@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply about personal struggle and divine purpose?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God sees individual pain",
-            "expansion": "Divine awareness extends beyond national narratives to personal emotional landscapes."
-          },
-          {
-            "id": 2,
-            "text": "Surrender precedes transformation",
-            "expansion": "Personal grief can be a prerequisite for spiritual reconstruction and alignment."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic burdens are emotionally taxing",
-            "expansion": "Carrying divine messages often involves profound personal anguish and spiritual exhaustion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal lamentations be obscuring the larger spiritual transformation God is orchestrating in your life?"
-      },
-      "moral_slider": {
-        "question": "In moments of personal suffering, how do you balance personal grief with divine sovereignty?",
-        "left_label": "Personal Anguish",
-        "right_label": "Divine Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on personal struggle shifted after reflecting on this passage?",
-        "options": [
-          "I see suffering as more purposeful",
-          "I recognize divine attentiveness to individual pain",
-          "I understand spiritual transformation requires personal surrender",
-          "I'm more open to seeing challenges as potential growth opportunities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine comfort often involves reframing circumstances rather than removing them",
           "Spiritual resilience emerges through understanding God's sovereign perspective"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD quotes Baruch's cry",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "God answers Baruch",
+            "ref": "v. 5",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Baruch's place. You are worn out with groaning and have found no rest. You hear that wherever you go, your life will be granted to you as a spoil of war. What would you weigh about that promise?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 33:14",
+        "summary": "Baruch says he is worn out with groaning and has found no rest (v. 3). The LORD answers, 'My Presence will go with you, and I will give you rest' (Exod 33:14).",
+        "question": "How does Exodus 33:14 help you understand the rest Baruch has not found in verse 3?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "surrender",
+        "because": "the LORD will grant Baruch's life as a spoil of war wherever he goes",
+        "feeling": "ambition, anxiety",
+        "object": "a time of widespread disaster",
+        "behavior": "chasing great things for myself",
+        "step": "accept the life God gives me",
+        "template": "from today I bring You my {feeling:ambition, anxiety} about {object:a time of widespread disaster} and instead of {behavior:chasing great things for myself}, I will {step:accept the life God gives me}."
       }
     }
   }

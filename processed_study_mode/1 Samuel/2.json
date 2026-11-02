@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of Hannah's prayer resonates most deeply?",
-        "choices": [
-          {
-            "id": "divine_sovereignty",
-            "text": "God's supreme power and justice",
-            "expansion": "True strength emerges not from human might, but from divine intervention and wisdom."
-          },
-          {
-            "id": "humility",
-            "text": "The importance of spiritual humility",
-            "expansion": "Recognizing one's limitations opens the pathway to genuine spiritual understanding."
-          },
-          {
-            "id": "transformation",
-            "text": "God's ability to reverse human circumstances",
-            "expansion": "Divine providence can elevate the lowly and humble the proud in unexpected ways."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do human perceptions of power differ from God's understanding of true strength?"
-      },
-      "moral_slider": {
-        "question": "Between personal ambition and divine purpose, where does authentic human potential lie?",
-        "left_label": "Personal Ambition",
-        "right_label": "Divine Purpose"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual power?",
-        "options": [
-          "Recognized limitations of human strength",
-          "Understood God's perspective differently",
-          "Saw the importance of humility",
-          "Realized divine intervention transcends human planning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention can override human failings",
           "Spiritual leaders are ultimately responsible for their moral choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Eli asked his sons",
+            "ref": "v. 23",
+            "speaker": "Eli"
+          },
+          {
+            "who": "Eli says",
+            "ref": "v. 25",
+            "speaker": "Eli"
+          }
+        ],
+        "question": "Put yourself in the place of Eli's sons. Your father asks who can intercede for a man who sins against the LORD. What would you weigh before you decided whether to listen?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "1 Peter 5:5",
+        "summary": "A man of God warns Eli that he has honored his sons more than the LORD (v. 29). First Peter 5:5 says to clothe yourselves with humility, because God opposes the proud but gives grace to the humble.",
+        "question": "How does 1 Peter 5:5 help you understand the danger in Eli's choice to honor his sons more than the LORD?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "practice",
+        "because": "God will honor those who honor Him",
+        "feeling": "pride, self-importance",
+        "object": "my own reputation",
+        "behavior": "seeking credit for my work",
+        "step": "give the glory to God",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my own reputation} and instead of {behavior:seeking credit for my work}, I will {step:give the glory to God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine revelation resonates most strongly with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Nature's silent testimony of God's glory",
-            "expansion": "Creation speaks a universal language beyond human words"
-          },
-          {
-            "id": 2,
-            "text": "Divine law as perfect and transformative",
-            "expansion": "God's statutes restore the soul and provide wisdom beyond human understanding"
-          },
-          {
-            "id": 3,
-            "text": "Personal accountability before God",
-            "expansion": "Our hidden faults and intentional sins are known and can be redeemed"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the heavens 'declare the glory of God' without speech, how do we interpret divine communication beyond linguistic boundaries?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile the perfection of divine law with human imperfection?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Standard"
-      },
-      "reevaluation": {
-        "question": "How might this psalm transform your understanding of divine revelation?",
-        "options": [
-          "Seeing nature as a theological text",
-          "Recognizing law as grace, not restriction",
-          "Understanding personal accountability differently",
-          "Embracing divine communication beyond words"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Simultaneously through creation and scripture",
           "Primarily through personal spiritual experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist says the heavens declare",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says there is no speech",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a listener. The skies proclaim a message, yet there is no speech or sound to be heard. What is it that you are hearing?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "2 Timothy 3:16-17",
+        "summary": "The Law of the LORD is perfect, reviving the soul and making the simple wise (v. 7). Second Timothy 3:16-17 says all Scripture is God-breathed and useful for instruction, correction and training in righteousness.",
+        "question": "How does 2 Timothy 3:16-17 help you see the worth of the Law the psalmist praises?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "the LORD is my Rock and my Redeemer",
+        "feeling": "self-consciousness, pride",
+        "object": "my private thoughts",
+        "behavior": "seeking human approval",
+        "step": "offer my inner life to Him",
+        "template": "from today I bring You my {feeling:self-consciousness, pride} about {object:my private thoughts} and instead of {behavior:seeking human approval}, I will {step:offer my inner life to Him}."
       }
     }
   }

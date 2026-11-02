@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of crafting sacred garments most resonates with spiritual preparation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precision in Design",
-            "expansion": "The meticulous detail reflects divine expectations of intentionality in worship."
-          },
-          {
-            "id": 2,
-            "text": "Collaborative Craftsmanship",
-            "expansion": "Multiple skilled artisans working together symbolizes communal spiritual dedication."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Materials",
-            "expansion": "Each thread and metal represents deeper theological meaning beyond physical appearance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacred garments are meant to represent holiness, what does your own 'spiritual attire' communicate about your inner transformation?"
-      },
-      "moral_slider": {
-        "question": "How do external religious symbols relate to internal spiritual authenticity?",
-        "left_label": "Ritualistic Externalism",
-        "right_label": "Genuine Heart Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship preparation evolved?",
-        "options": [
-          "More appreciation for intentional design",
-          "Recognize spiritual symbolism in craftsmanship",
-          "Value communal effort in sacred work",
-          "Understand deeper meaning beyond surface appearance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Artistic craftsmanship demonstrates human capacity for divine collaboration",
           "Vestments serve as metaphorical covering for human imperfection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 42,
+        "exchange": [
+          {
+            "who": "The Israelites worked",
+            "ref": "v. 32",
+            "speaker": ""
+          },
+          {
+            "who": "Moses inspected the work and blessed them",
+            "ref": "v. 43",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You followed every specific instruction for every piece of gold and every thread of yarn. What does it feel like to have your finished work inspected and then blessed?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "Leviticus 8:7-9",
+        "summary": "Exodus 39 details the making of the holy garments for Aaron (vv. 22-29). Leviticus describes the actual use of these same garments during his consecration.",
+        "question": "How does seeing the specific details of the garments in Exodus help you understand the weight of the ceremony described in Leviticus?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "practice",
+        "because": "the Israelites had done all the work just as the LORD had commanded",
+        "feeling": "distraction, carelessness",
+        "object": "a small task",
+        "behavior": "cutting corners",
+        "step": "do it with precision",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:a small task} and instead of {behavior:cutting corners}, I will {step:do it with precision}."
       }
     }
   }

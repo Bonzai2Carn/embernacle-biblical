@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacrifice most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precision of Ritual",
-            "expansion": "The meticulous instructions reveal divine order and intentionality in worship."
-          },
-          {
-            "id": 2,
-            "text": "Communal Devotion",
-            "expansion": "These prescribed offerings demonstrate collective spiritual commitment beyond individual practice."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Transformation",
-            "expansion": "Animal and grain sacrifices represent inner spiritual transformation through external acts."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If obedience to divine instruction is paramount, how do we distinguish between literal compliance and understanding the deeper spiritual intention?"
-      },
-      "moral_slider": {
-        "question": "How do prescribed religious practices balance between structured worship and genuine spiritual connection?",
-        "left_label": "Rigid Formalism",
-        "right_label": "Spontaneous Spirituality"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on religious ritual changed after examining these detailed sacrificial instructions?",
-        "options": [
-          "More appreciative of historical spiritual practices",
-          "Recognize deeper symbolic meanings",
-          "See complexity of ancient religious systems",
-          "Understand importance of intentional worship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Ritualistic practices represent deeper spiritual realities beyond mechanical performance",
           "Divine instructions reveal God's desire for intimate, meaningful connection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 39,
+        "ref": "Leviticus 23:23-25",
+        "summary": "Numbers 29 lists the specific animals and grain required for the feast of trumpets (v. 1-6). Leviticus 23 establishes the same day as a day of rest and a sacred assembly.",
+        "question": "How does the detail in the list of offerings help you understand the weight of the sacred assembly described in Leviticus?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "practice",
+        "because": "these offerings are to be presented at appointed times",
+        "feeling": "anxiety, restlessness",
+        "object": "an uncertain future",
+        "behavior": "rushing ahead of God",
+        "step": "honor the rhythm He has set",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:an uncertain future} and instead of {behavior:rushing ahead of God}, I will {step:honor the rhythm He has set}."
       }
     }
   }

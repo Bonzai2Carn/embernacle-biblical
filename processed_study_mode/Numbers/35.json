@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine community organization resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "City allocation for Levites",
-            "expansion": "Sacred spaces require intentional communal planning and sacred geography."
-          },
-          {
-            "id": 2,
-            "text": "Cities of Refuge concept",
-            "expansion": "Justice requires compassionate spaces for unintentional harm and redemption."
-          },
-          {
-            "id": 3,
-            "text": "Tribal land distribution",
-            "expansion": "Communal inheritance represents divine order and equitable social organization."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might creating designated sanctuary spaces transform a community's understanding of justice and mercy?"
-      },
-      "moral_slider": {
-        "question": "What balances individual accountability with communal protection?",
-        "left_label": "Personal Consequence",
-        "right_label": "Collective Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on justice evolved after reflecting on this chapter?",
-        "options": [
-          "More nuanced view of unintentional harm",
-          "Greater appreciation for structured communal protection",
-          "Deeper understanding of redemptive spaces",
-          "Recognition of divine wisdom in social organization"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals God's desire for measured, not reactionary, responses to human mistakes",
           "Emphasizes communal responsibility in maintaining social harmony"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 33,
+        "exchange": [
+          {
+            "who": "The LORD commands",
+            "ref": "v. 33",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite living in the land. What do you understand about what bloodshed does to the land, and what can make atonement for it?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Joshua 20:1-9",
+        "summary": "Numbers 35 says these six cities are a refuge for anyone who kills a person unintentionally, including the foreigner or stranger among them (v. 15). Joshua 20 names the cities set apart for this purpose, so that the manslayer may flee there and stand trial before the assembly (vv. 3, 6, 9).",
+        "question": "How does Joshua 20:1-9 help you understand the purpose of the cities of refuge in Numbers 35?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "repair",
+        "because": "bloodshed pollutes the land",
+        "feeling": "rage, vengefulness",
+        "object": "a person who wronged me",
+        "behavior": "taking matters into my own hands",
+        "step": "let a fair process decide",
+        "template": "from today I turn from my {feeling:rage, vengefulness} toward {object:a person who wronged me} and instead of {behavior:taking matters into my own hands}, I will {step:let a fair process decide}."
       }
     }
   }

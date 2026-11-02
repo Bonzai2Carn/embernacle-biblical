@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of community hardship resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Economic Vulnerability",
-            "expansion": "The systemic pressures that force families into desperate financial circumstances"
-          },
-          {
-            "id": 2,
-            "text": "Communal Suffering",
-            "expansion": "How economic challenges create fractures within what should be supportive relationships"
-          },
-          {
-            "id": 3,
-            "text": "Leadership's Moral Responsibility",
-            "expansion": "The critical role of leaders in preventing exploitation and maintaining social justice"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When resources become scarce, do our fundamental human values transform, or are they merely revealed?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival needs balance against communal solidarity?",
-        "left_label": "Individual Self-Preservation",
-        "right_label": "Collective Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community resilience shifted?",
-        "options": [
-          "Recognized deeper systemic challenges",
-          "Understood leadership's ethical obligations",
-          "Appreciated the complexity of economic interdependence",
-          "Saw the importance of mutual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Allow market forces to determine economic interactions",
           "Establish communal accountability for economic justice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Nehemiah confronted the nobles and officials",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The nobles remained silent",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the nobles hearing this rebuke. You are accused of exacting usury from your own brothers. What would you weigh before you answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Micah 6:8",
+        "summary": "Nehemiah refused the food allotted to the governor and did not burden the people (vv. 14-15). Micah says what the LORD requires: to act justly, to love mercy, and to walk humbly with God.",
+        "question": "How does Micah's list of what the LORD requires help you understand Nehemiah's refusal to burden the people in Nehemiah 5:15?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the governors before me had heavily burdened the people",
+        "feeling": "greed, selfishness",
+        "object": "my personal comfort",
+        "behavior": "taking more than my share",
+        "step": "look for a way to serve",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:my personal comfort} and instead of {behavior:taking more than my share}, I will {step:look for a way to serve}."
       }
     }
   }

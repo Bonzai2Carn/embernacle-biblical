@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from this parable of the shrewd manager?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resourcefulness in crisis",
-            "expansion": "The manager creatively secures his future by negotiating with debtors before losing his position."
-          },
-          {
-            "id": 2,
-            "text": "Worldly wisdom versus spiritual wisdom",
-            "expansion": "Jesus suggests using material resources strategically for eternal spiritual outcomes."
-          },
-          {
-            "id": 3,
-            "text": "Accountability for resources",
-            "expansion": "Every steward will eventually give an account of how they managed what was entrusted to them."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your current resources were suddenly taken away, what would reveal the true nature of your character?"
-      },
-      "moral_slider": {
-        "question": "How do material possessions relate to spiritual integrity?",
-        "left_label": "Wealth Defines Worth",
-        "right_label": "Spiritual Values Transcend Wealth"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on managing resources changed?",
-        "options": [
-          "I now see resources as a test of character",
-          "Stewardship requires strategic, ethical thinking",
-          "Spiritual outcomes matter more than immediate gains",
-          "Crisis reveals one's true problem-solving capacity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Financial success is a direct indicator of spiritual maturity",
           "Believers should be strategically generous while maintaining personal financial responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 13",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a servant with two masters. You hear that you will hate the one and love the other, or be devoted to the one and despise the other. What do you weigh as you hear that you cannot serve both God and money?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Matthew 25:21",
+        "summary": "Jesus says whoever is faithful with very little will also be faithful with much (v. 10). In Matthew 25:21, the master tells a faithful servant, 'You have been faithful with a few things; I will put you in charge of many things.'",
+        "question": "How do the master's words to the faithful servant in Matthew 25:21 help you understand what it means to be faithful with very little?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "what is prized among men is detestable before God",
+        "feeling": "pride, self-righteousness",
+        "object": "my public reputation",
+        "behavior": "seeking approval from others",
+        "step": "seek only God's approval",
+        "template": "from today I bring my {feeling:pride, self-righteousness} about {object:my public reputation} into the light and instead of {behavior:seeking approval from others}, I will {step:seek only God's approval}."
       }
     }
   }

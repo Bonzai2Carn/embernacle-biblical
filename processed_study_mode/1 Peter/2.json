@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual growth metaphor resonates most with you?",
-        "choices": [
-          {
-            "id": "newborn",
-            "text": "Newborn desiring pure spiritual milk",
-            "expansion": "Spiritual growth requires intentional, humble nourishment and openness to learning."
-          },
-          {
-            "id": "living_stones",
-            "text": "Living stones being built into a spiritual house",
-            "expansion": "Individual believers are interconnected, forming a collective spiritual structure through Christ."
-          },
-          {
-            "id": "holy_priesthood",
-            "text": "Holy priesthood offering spiritual sacrifices",
-            "expansion": "Every believer has a sacred responsibility to serve and represent God's transformative purposes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual growth is like metabolizing 'pure milk', what impurities might be preventing your personal transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual development with communal spiritual responsibility?",
-        "left_label": "Individual Spiritual Journey",
-        "right_label": "Collective Spiritual Mission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual identity shifted?",
-        "options": [
-          "I see myself more as part of a larger spiritual community",
-          "My personal growth feels more intentional and purposeful",
-          "I understand my role in God's redemptive narrative differently",
-          "I'm more aware of spiritual 'nutrition' and growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As independent spiritual entities",
           "As interconnected members of Christ's body"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Peter writes",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Peter writes",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a reader. What do you weigh when the same stone is precious to those who believe and a stone of stumbling to those who disobey the word?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Ephesians 2:19-22",
+        "summary": "Living stones are being built into a spiritual house and a holy priesthood (v. 5). Ephesians 2:19-22 speaks of members of God's household built into a holy temple, with Christ Jesus as the cornerstone.",
+        "question": "How does the household and temple in Ephesians 2:19-22 help you understand your place in the spiritual house of 1 Peter 2:5?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "Christ did not retaliate when they heaped abuse on Him",
+        "feeling": "indignation, anger",
+        "object": "a personal insult",
+        "behavior": "defending my reputation",
+        "step": "entrust my heart to God",
+        "template": "from today I let go of my {feeling:indignation, anger} over {object:a personal insult} and instead of {behavior:defending my reputation}, I will {step:entrust my heart to God}."
       }
     }
   }

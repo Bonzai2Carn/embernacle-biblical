@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of generosity most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Giving Beyond Ability",
-            "expansion": "Generosity transcends mathematical calculation and emerges from spiritual abundance."
-          },
-          {
-            "id": 2,
-            "text": "Joy in Affliction",
-            "expansion": "Authentic spiritual resilience transforms suffering into an opportunity for radical grace."
-          },
-          {
-            "id": 3,
-            "text": "Communal Sacrifice",
-            "expansion": "True giving connects communities through mutual vulnerability and shared spiritual purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If generosity is not about the quantity of resources, but the quality of spiritual surrender, what might you be withholding from genuine divine movement?"
-      },
-      "moral_slider": {
-        "question": "How do personal resources relate to spiritual calling?",
-        "left_label": "Personal Scarcity",
-        "right_label": "Divine Abundance"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on giving changed after reflecting on this passage?",
-        "options": [
-          "I see giving as more spiritually transformative",
-          "I recognize my own limitations more clearly",
-          "I feel challenged to reexamine my resources",
-          "I understand generosity as a communal act"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Financial contributions are primarily about meeting institutional needs",
           "Giving should emerge from joy, not legalistic compulsion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Paul explains",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a Corinthian hearing that Christ, though rich, became poor for your sakes. What would you weigh about becoming rich through His poverty, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Luke 21:1-4",
+        "summary": "Paul describes the Macedonians giving out of deep poverty (v. 2). Jesus notes a widow who gave her two small coins out of her poverty (Luke 21:1-4).",
+        "question": "How does the widow's small gift help you understand the Macedonian's ability to give beyond their means?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the gift is acceptable according to what one has",
+        "feeling": "inadequacy, self-doubt",
+        "object": "my small resources",
+        "behavior": "withholding my help",
+        "step": "give what I can",
+        "template": "from today I let go of my {feeling:inadequacy, self-doubt} over {object:my small resources} and instead of {behavior:withholding my help}, I will {step:give what I can}."
       }
     }
   }

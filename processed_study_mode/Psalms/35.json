@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most in this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "David's plea for divine justice",
-            "expansion": "The raw emotional vulnerability of seeking God's intervention against unjust persecutors"
-          },
-          {
-            "id": 2,
-            "text": "The imagery of spiritual warfare",
-            "expansion": "The metaphorical battle between righteousness and those who seek to harm the faithful"
-          },
-          {
-            "id": 3,
-            "text": "Trust in God's ultimate vindication",
-            "expansion": "The deep conviction that God will ultimately defend the innocent and expose wickedness"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does the pursuit of justice transform from righteous defense to personal vengeance?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal suffering with divine retribution?",
-        "left_label": "Personal Revenge",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual conflict evolved?",
-        "options": [
-          "Recognize spiritual battles are not just physical",
-          "Understand the complexity of seeking justice",
-          "Appreciate the emotional depth of lament",
-          "See prayer as a form of spiritual warfare"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Passively accept persecution without response",
           "Seek personal retribution through indirect means"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 7-8",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you are being hunted by people who dug pits for you without reason. How does the promise of your soul rejoicing change how you view the trap they set?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Psalm 7:6-8",
+        "summary": "The psalmist asks the LORD to awake and rise to his defense (v. 23). Psalm 7:6-8 makes a similar plea: the LORD should rise up against the fury of enemies and vindicate the psalmist according to his righteousness.",
+        "question": "How does Psalm 7:6-8 help you understand the plea in verse 23 for the LORD to rise and defend?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "my tongue will proclaim Your righteousness and Your praises all day long",
+        "feeling": "bitterness, resentment",
+        "object": "unfair criticism from others",
+        "behavior": "defending my reputation",
+        "step": "praise Him for His faithfulness",
+        "template": "from today I bring You my {feeling:bitterness, resentment} about {object:unfair criticism from others} and instead of {behavior:defending my reputation}, I will {step:praise Him for His faithfulness}."
       }
     }
   }

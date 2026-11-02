@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual significance most resonates with the moment of heavenly silence?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Anticipation",
-            "expansion": "The cosmic pause represents God's strategic preparation before profound judgment."
-          },
-          {
-            "id": 2,
-            "text": "Collective Prayer",
-            "expansion": "The silence symbolizes the sacred moment when human petitions rise before the divine throne."
-          },
-          {
-            "id": 3,
-            "text": "Transitional Moment",
-            "expansion": "The half-hour silence marks a critical threshold between current reality and prophetic unfolding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What transformative power might exist in moments of absolute silence before significant spiritual interventions?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy intersect in prophetic revelation?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare shifted after exploring this chapter?",
-        "options": [
-          "More aware of cosmic spiritual dimensions",
-          "Recognize complexity of divine interventions",
-          "Appreciate the role of prayer in spiritual processes",
-          "Understand judgment as a redemptive process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As a literal future event with precise prophetic significance",
           "As a symbolic narrative about cosmic spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The angel offered the prayers of the saints",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The angel hurled fire to the earth",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the saints whose prayers are offered. You see the smoke of the incense rise before God, and then the angel fills the censer with fire from the altar and hurls it to the earth. What would you weigh about what happens right after the prayers rise?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Revelation 5:8",
+        "summary": "John sees an angel offering incense with the prayers of the saints (v. 3). In a previous vision, the elders hold golden bowls full of incense, which are the prayers of the saints (Rev 5:8).",
+        "question": "How does seeing the bowls in the throne room help you understand the importance of the incense being offered at the altar here?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "the prayers of the saints rose up before God",
+        "feeling": "hopelessness, neglect",
+        "object": "my private struggles",
+        "behavior": "keeping my requests to myself",
+        "step": "speak them aloud to Him",
+        "template": "from today I let go of my {feeling:hopelessness, neglect} over {object:my private struggles} and instead of {behavior:keeping my requests to myself}, I will {step:speak them aloud to Him}."
       }
     }
   }

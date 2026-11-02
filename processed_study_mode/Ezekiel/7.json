@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Total Accountability",
-            "expansion": "God sees every hidden action and will ultimately reconcile all moral transgressions."
-          },
-          {
-            "id": "2",
-            "text": "Systemic Consequences",
-            "expansion": "Collective sins create societal collapse beyond individual actions."
-          },
-          {
-            "id": "3",
-            "text": "Inevitable Reckoning",
-            "expansion": "No human institution or pretense can ultimately shield us from spiritual reality."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is certain, how does this understanding transform your present moral choices?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of accountability?",
-        "options": [
-          "I see consequences more holistically",
-          "I recognize collective responsibility",
-          "I understand spiritual accountability differently",
-          "I'm more aware of hidden systemic sins"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment demonstrates the serious consequences of persistent rebellion",
           "Judgment serves as a transformative mechanism for spiritual restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this message. The LORD promises to judge according to their ways, yet He also says He will not look on them with pity. What does this reveal about the certainty of what is coming?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Isaiah 13:9",
+        "summary": "The LORD announces the end of Israel and the arrival of doom (vv. 2-7). Isaiah describes a cruel Day of the LORD, full of fury, that will destroy the sinners in the earth (Isaiah 13:9).",
+        "question": "How does Isaiah's description of a day of fury help you understand the weight of the disaster described in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "exposure",
+        "because": "the LORD will judge the people of the land by their own standards",
+        "feeling": "pride, self-righteousness",
+        "object": "my own achievements",
+        "behavior": "relying on my own merit",
+        "step": "submit my heart to His truth",
+        "template": "from today I bring my {feeling:pride, self-righteousness} about {object:my own achievements} into the light and instead of {behavior:relying on my own merit}, I will {step:submit my heart to His truth}."
       }
     }
   }

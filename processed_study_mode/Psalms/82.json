@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective resonates most in this psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's judgment of earthly rulers",
-            "expansion": "Divine accountability transcends human political structures and exposes systemic injustice."
-          },
-          {
-            "id": 2,
-            "text": "The vulnerability of human power",
-            "expansion": "Temporal authority is ultimately fragile and subject to ultimate spiritual evaluation."
-          },
-          {
-            "id": 3,
-            "text": "The call to defend the weak",
-            "expansion": "True leadership is measured by protection of the marginalized and pursuit of justice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine rulers are themselves subject to judgment, what standards should govern human governance?"
-      },
-      "moral_slider": {
-        "question": "How do human institutions balance power and justice?",
-        "left_label": "Institutional Corruption",
-        "right_label": "Ethical Governance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "Recognized systemic power dynamics",
-          "Understood divine perspective on justice",
-          "Challenged my assumptions about leadership",
-          "Saw interconnection between spiritual and political realms"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrating God's supreme authority over all spiritual hierarchies",
           "Symbolic representation of divine governance standards"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "God says",
+            "ref": "v. 6",
+            "speaker": "God"
+          },
+          {
+            "who": "God says",
+            "ref": "v. 7",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of these rulers. You hear your high status confirmed, then immediately hear your mortality and fall announced. What does this tell you about the power you hold?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Daniel 2:21",
+        "summary": "The psalmist describes a world where the foundations of the earth are shaken (v. 5). Daniel describes a God who changes times and seasons and removes kings from power.",
+        "question": "How does Daniel's description of God's control over kings help you understand the chaos described in verse 5?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "God says the cause of the weak and fatherless is to be defended",
+        "feeling": "indifference, apathy",
+        "object": "someone being mistreated",
+        "behavior": "staying silent to avoid conflict",
+        "step": "speak up for them",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:someone being mistreated} and instead of {behavior:staying silent to avoid conflict}, I will {step:speak up for them}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational principle of righteousness most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Integrity guides the upright",
-            "expansion": "Personal moral consistency creates a reliable internal compass that navigates complex ethical landscapes."
-          },
-          {
-            "id": 2,
-            "text": "Pride precedes destruction",
-            "expansion": "Self-importance blinds individuals to their own vulnerabilities and potential downfalls."
-          },
-          {
-            "id": 3,
-            "text": "Righteousness delivers from death",
-            "expansion": "Moral living transcends immediate circumstances and offers profound spiritual protection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If our character is truly revealed in moments of adversity, how might your current integrity withstand unexpected trials?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine grace intersect?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal accountability shifted?",
-        "options": [
-          "I recognize my choices have deeper consequences",
-          "I'm more aware of systemic ethical challenges",
-          "I understand integrity as a dynamic process",
-          "I see moral growth as continuous learning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God's grace supersedes personal ethical performance",
           "Righteousness is a collaborative effort between human choice and divine guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who feels proud. What do you understand about the difference between the disgrace that pride brings and the wisdom that humility brings?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Galatians 6:7",
+        "summary": "Proverbs 11 says a generous soul will prosper, and he who refreshes others will himself be refreshed (v. 25). Galatians 6:7 says a person reaps whatever he sows.",
+        "question": "How does Galatians 6:7 help you understand the connection between the generous soul and the prosperity mentioned in verse 25?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "with humility comes wisdom",
+        "feeling": "pride, arrogance",
+        "object": "my accomplishments",
+        "behavior": "seeking recognition",
+        "step": "listen to others first",
+        "template": "from today I let go of my {feeling:pride, arrogance} over {object:my accomplishments} and instead of {behavior:seeking recognition}, I will {step:listen to others first}."
       }
     }
   }

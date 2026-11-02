@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine sovereignty speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's power over nations",
-            "expansion": "Divine authority transcends human political structures and national boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic warning as mercy",
-            "expansion": "God provides advance notice to give opportunities for repentance and redirection."
-          },
-          {
-            "id": 3,
-            "text": "Submission as spiritual wisdom",
-            "expansion": "Accepting divine discipline requires profound humility and trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is truly sovereign, what does genuine human agency look like in moments of apparent predetermined judgment?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More nuanced about God's global strategies",
-          "Increased respect for prophetic warnings",
-          "Deeper appreciation for spiritual submission",
-          "Reconsidering concepts of national destiny"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention occurs through subtle, providential means",
           "Political outcomes are primarily determined by human choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are a leader in Judah. You hear that the nation that will not put its neck under Babylon's yoke will be destroyed, and the nation that does will be left in its own land. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Ezekiel 3:17-19",
+        "summary": "The LORD tells the people not to listen to prophets who say 'You will not serve the king of Babylon' (v. 9). Ezekiel is told to speak the LORD's warning, and a watchman who does not warn is held responsible for the wicked man's blood.",
+        "question": "How does Ezekiel 3:17-19 help you understand the weight of the warning Jeremiah is told to give in this chapter?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "trust",
+        "because": "what is carried to Babylon will be brought back and restored to this place",
+        "feeling": "anxiety, dread",
+        "object": "a season of loss",
+        "behavior": "trying to fix everything myself",
+        "step": "rest in His timing",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a season of loss} to God and instead of {behavior:trying to fix everything myself}, I will {step:rest in His timing}."
       }
     }
   }

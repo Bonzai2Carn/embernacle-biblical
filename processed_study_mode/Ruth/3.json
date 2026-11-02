@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply about Naomi's strategic guidance?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Cultural protection of women's security",
-            "expansion": "Naomi understands systemic vulnerabilities and proactively seeks redemption for Ruth."
-          },
-          {
-            "id": "2",
-            "text": "Bold female agency within patriarchal structures",
-            "expansion": "Ruth follows Naomi's wisdom while maintaining personal dignity and initiative."
-          },
-          {
-            "id": "3",
-            "text": "Divine providence through human cooperation",
-            "expansion": "Strategic human actions align with God's underlying redemptive plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal vulnerability and strategic wisdom coexist when seeking justice and provision?"
-      },
-      "moral_slider": {
-        "question": "How do cultural traditions balance personal autonomy with communal expectations?",
-        "left_label": "Individual Choice",
-        "right_label": "Societal Norms"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption and protection evolved?",
-        "options": [
-          "Recognizing subtle forms of systemic support",
-          "Understanding intergenerational wisdom",
-          "Appreciating strategic vulnerability",
-          "Seeing divine orchestration in human relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The narrative challenges patriarchal structures through feminine agency",
           "Ruth's approach illustrates divine orchestration of redemptive relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Naomi gives Ruth a plan",
+            "ref": "v. 4",
+            "speaker": "Naomi"
+          },
+          {
+            "who": "Ruth answered",
+            "ref": "v. 5",
+            "speaker": "Ruth"
+          }
+        ],
+        "question": "Put yourself in Ruth's place. Naomi tells you to go in, uncover his feet, and lie down, and that he will explain what you should do. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Matthew 1:5",
+        "summary": "Boaz tells Ruth that if the nearer redeemer will not act, he will redeem her himself (v. 13). Matthew 1:5 lists Obed as the son of Boaz by Ruth, and Obed as the father of Jesse.",
+        "question": "How does Matthew naming Ruth in this family line help you understand the redemption Boaz offers in this chapter?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "exposure",
+        "because": "all the townspeople know that Ruth is a woman of noble character",
+        "feeling": "fear, insecurity",
+        "object": "what strangers may think of me",
+        "behavior": "hiding my past to protect myself",
+        "step": "let a trusted person see my real situation",
+        "template": "from today I bring my {feeling:fear, insecurity} about {object:what strangers may think of me} into the light and instead of {behavior:hiding my past to protect myself}, I will {step:let a trusted person see my real situation}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Silence in Suffering",
-            "expansion": "The prophet's raw lament about God seemingly ignoring injustice reveals the profound human struggle with spiritual abandonment."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Corruption",
-            "expansion": "Habakkuk's observation of societal breakdown and moral decay reflects the complex challenge of maintaining integrity within a broken system."
-          },
-          {
-            "id": 3,
-            "text": "Theological Questioning",
-            "expansion": "The prophet's bold, direct questioning of divine justice demonstrates a mature, authentic spiritual relationship that embraces vulnerability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's apparent inaction troubles you, what assumptions about divine intervention might you be unconsciously holding?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human suffering?",
-        "left_label": "Divine Mystery",
-        "right_label": "Human Agency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "I see questioning as part of faith, not contrary to it",
-          "I recognize complexity in theological understanding",
-          "I'm more comfortable with divine paradoxes",
-          "I've learned that spiritual growth involves wrestling with difficult questions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic voices serve as critical instruments for spiritual and social transformation",
           "Suffering and injustice do not negate God's ultimate redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Habakkuk cries out",
+            "ref": "vv. 2-3",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Habakkuk. You cry out, and it seems the LORD does not hear or save. What do you weigh when He says He is doing a work in your days that you would never believe?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Revelation 6:10",
+        "summary": "Habakkuk asks how long he must call for help before the LORD hears and saves (v. 2). Revelation 6:10 records a loud cry: How long, O Lord, holy and true, until You avenge our blood and judge those who dwell upon the earth?",
+        "question": "How does Revelation 6:10 help you understand Habakkuk's cry of how long, in the face of wrongdoing?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "surrender",
+        "because": "Habakkuk sees destruction and violence before him",
+        "feeling": "dread, despair",
+        "object": "the violence around me",
+        "behavior": "pulling away from people",
+        "step": "bring my complaint to God in prayer",
+        "template": "from today I bring You my {feeling:dread, despair} about {object:the violence around me} and instead of {behavior:pulling away from people}, I will {step:bring my complaint to God in prayer}."
       }
     }
   }

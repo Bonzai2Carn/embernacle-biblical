@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Light Overcoming Darkness",
-            "expansion": "God's transformative power can penetrate the deepest spiritual shadows."
-          },
-          {
-            "id": 2,
-            "text": "Messianic Promise of Redemption",
-            "expansion": "The prophecy reveals a future hope beyond current suffering."
-          },
-          {
-            "id": 3,
-            "text": "Judgment and Restoration Cycle",
-            "expansion": "Divine discipline is ultimately purposeful and leads to renewed covenant."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine light is always present, why do some people persist in experiencing darkness?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine intervention in human history?",
-        "left_label": "Passive Suffering",
-        "right_label": "Active Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic hope shifted?",
-        "options": [
-          "More aware of spiritual transformation",
-          "Recognize complexity of divine promises",
-          "See historical patterns of restoration",
-          "Appreciate nuanced theological interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic hope exists even in periods of profound darkness",
           "Messianic expectations involve both spiritual and political transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people waiting for this king. You hear that His government will rest on His shoulders and its peace will have no end. What do you weigh about a kingdom built on justice and righteousness?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Matthew 4:15-16",
+        "summary": "Isaiah says the people walking in darkness have seen a great light (v. 2). Matthew 4:15-16 repeats it and names the land of Zebulun and Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles.",
+        "question": "How does Matthew naming Zebulun, Naphtali and Galilee of the Gentiles help you picture the people who saw a great light in Isaiah 9?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "repair",
+        "because": "the people did not return to Him who struck them",
+        "feeling": "stubbornness, resentment",
+        "object": "a difficult season",
+        "behavior": "withdrawing from God",
+        "step": "seek the LORD of Hosts",
+        "template": "from today I turn from my {feeling:stubbornness, resentment} toward {object:a difficult season} and instead of {behavior:withdrawing from God}, I will {step:seek the LORD of Hosts}."
       }
     }
   }

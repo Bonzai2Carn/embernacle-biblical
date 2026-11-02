@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine promise resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's restoration of Israel",
-            "expansion": "The promise of complete spiritual and physical renewal transcends immediate circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Divine faithfulness despite human failure",
-            "expansion": "God's commitment remains constant even when human beings repeatedly break covenant."
-          },
-          {
-            "id": 3,
-            "text": "Future hope amid present suffering",
-            "expansion": "Prophetic vision offers transformative perspective beyond current trials."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is certain, what personal responsibilities do we bear in preparing for that transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human agency in redemptive history?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine promise evolved?",
-        "options": [
-          "More hopeful about potential restoration",
-          "Recognize complexity of prophetic narratives",
-          "Appreciate nuanced theological interpretation",
-          "Understand suffering as part of redemptive process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises transcend historical and geographical limitations",
           "Covenant faithfulness supersedes human unfaithfulness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people in this city. You hear that the Chaldeans will fill these places with corpses and that the LORD has hidden His face, and then 'Nevertheless, I will bring to it health and healing.' What would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Revelation 21:4",
+        "summary": "The LORD promises health, healing, and the abundance of peace and truth for the city (v. 6). Revelation says He will wipe away every tear, and there will be no more death, mourning, crying, or pain, for the former things have passed away.",
+        "question": "How does Revelation 21:4 help you understand the healing the LORD promises in verse 6?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "calling to the LORD brings an answer and great and unsearchable things",
+        "feeling": "anxiety, confusion",
+        "object": "a difficult season",
+        "behavior": "trying to figure it out alone",
+        "step": "ask Him for His perspective",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a difficult season} and instead of {behavior:trying to figure it out alone}, I will {step:ask Him for His perspective}."
       }
     }
   }

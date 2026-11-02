@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What insights emerge from this genealogical record?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Plan of Human Diversity",
-            "expansion": "God intentionally disperses humanity across the earth through distinct lineages and languages."
-          },
-          {
-            "id": 2,
-            "text": "Ancestral Interconnectedness",
-            "expansion": "All human beings share fundamental familial roots despite cultural differences."
-          },
-          {
-            "id": 3,
-            "text": "Geographic and Cultural Mapping",
-            "expansion": "The chapter provides an early anthropological blueprint of human migration and settlement patterns."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might understanding our shared ancestral origins transform our perspective on human differences?"
-      },
-      "moral_slider": {
-        "question": "To what extent do human divisions reflect divine design versus human limitation?",
-        "left_label": "Human-Driven Separation",
-        "right_label": "God-Ordained Diversity"
-      },
-      "reevaluation": {
-        "question": "How has this genealogical record challenged your understanding of human origins?",
-        "options": [
-          "Recognized greater human interconnectedness",
-          "Appreciated complexity of historical migration",
-          "Saw divine intentionality in human diversity",
-          "Questioned previous assumptions about lineage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ethnic diversity reflects God's creative complexity",
           "The genealogy demonstrates divine sovereignty in human history"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The text lists",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          },
+          {
+            "who": "The text says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are reading this long list of names and lineages. What makes the description of Nimrod stand out from the names that come before him?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Acts 17:26",
+        "summary": "Genesis 10 tracks how the nations spread out across the earth through various clans and languages (vv. 5, 25, 31-32). Paul later explains that God determined the exact times and boundaries for these people.",
+        "question": "How does knowing that God set the boundaries for these nations help you view the scattering of the people in this chapter?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "remembrance",
+        "because": "the nations of the earth spread out after the flood",
+        "feeling": "anxiety, fear",
+        "object": "a changing world",
+        "behavior": "trying to control the outcome",
+        "step": "trust the One who directs the spread",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a changing world} and instead of {behavior:trying to control the outcome}, I will {step:trust the One who directs the spread}."
       }
     }
   }

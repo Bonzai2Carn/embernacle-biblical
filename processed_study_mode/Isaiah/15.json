@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine judgment in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sudden destruction",
-            "expansion": "God's judgment can arrive unexpectedly, overwhelming entire societies."
-          },
-          {
-            "id": 2,
-            "text": "Collective grief",
-            "expansion": "Societal punishment impacts everyone, not just individual transgressors."
-          },
-          {
-            "id": 3,
-            "text": "Cultural humiliation",
-            "expansion": "Judgment strips away social dignity and communal pride."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine warnings function - as punishment or as potential redemptive opportunities?"
-      },
-      "moral_slider": {
-        "question": "To what extent is divine judgment an act of justice versus an expression of mercy?",
-        "left_label": "Retributive Justice",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic judgment shifted?",
-        "options": [
-          "More nuanced perspective on divine intervention",
-          "Increased empathy for collective suffering",
-          "Deeper appreciation for prophetic warning mechanisms",
-          "Recognition of cultural vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings offer opportunities for national repentance before consequences",
           "Divine judgment demonstrates the profound spiritual consequences of collective rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The prophet declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The text describes",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone in Moab. You hear that Ar is ruined and destroyed in a night, and then that Moab wails over Nebo and Medeba. What do you weigh about ruin that comes so quickly?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Jeremiah 48:34-36",
+        "summary": "Isaiah describes the cries of Heshbon and Elealeh and the trembling soldiers of Moab (v. 4). Jeremiah records the same cry from Heshbon to Elealeh and says the waters of Nimrim have dried up (Jeremiah 48:34).",
+        "question": "How does Jeremiah's lament over Heshbon and Elealeh help you understand the cries Isaiah describes in Moab?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "surrender",
+        "because": "Ar in Moab is ruined and destroyed in a night",
+        "feeling": "panic, dread",
+        "object": "a sudden loss",
+        "behavior": "stockpiling savings in fear",
+        "step": "give my needs to Him in prayer",
+        "template": "from today I release my {feeling:panic, dread} over {object:a sudden loss} and instead of {behavior:stockpiling savings in fear}, I will {step:give my needs to Him in prayer}."
       }
     }
   }

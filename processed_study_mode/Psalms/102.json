@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional dimension of suffering speaks most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Anguish",
-            "expansion": "The raw vulnerability of crying out to God during intense personal pain and isolation."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic Perspective",
-            "expansion": "Understanding individual suffering within the larger narrative of God's eternal nature and compassion."
-          },
-          {
-            "id": 3,
-            "text": "Hope Beyond Circumstances",
-            "expansion": "Maintaining faith and expectation of restoration despite current overwhelming challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of suffering transform if you viewed it as a temporary state within an infinite divine narrative?"
-      },
-      "moral_slider": {
-        "question": "To what extent does human vulnerability reveal divine strength?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and lament evolved?",
-        "options": [
-          "Recognize suffering as a valid spiritual experience",
-          "Understand God's compassion more deeply",
-          "See vulnerability as spiritual strength",
-          "Appreciate the transformative power of honest prayer"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's eternal nature guarantees ultimate redemption through challenging experiences",
           "Individual pain is insignificant compared to cosmic divine providence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one suffering. You feel your days vanishing like smoke and your heart withered like grass. Then you remember who sits enthroned forever. How does that shift your view of your own distress?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Hebrews 1:10-12",
+        "summary": "The psalmist says the heavens and earth will perish and wear out like a garment, but You remain (v. 26). Hebrews 1:10-12 repeats these words and adds that the One who remains is the same and His years will never end.",
+        "question": "How does Hebrews 1:10-12 help you understand the contrast in verse 26 between what perishes and the One who remains?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the LORD will not despise the prayer of the destitute",
+        "feeling": "loneliness, abandonment",
+        "object": "a season of silence",
+        "behavior": "withdrawing from prayer",
+        "step": "bring my honest groaning to Him",
+        "template": "from today I bring You my {feeling:loneliness, abandonment} about {object:a season of silence} and instead of {behavior:withdrawing from prayer}, I will {step:bring my honest groaning to Him}."
       }
     }
   }

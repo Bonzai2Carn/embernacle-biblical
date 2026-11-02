@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of worship design speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Bronze Altar's Symmetry",
-            "expansion": "Sacred geometry reflects divine order and intentional spiritual design."
-          },
-          {
-            "id": 2,
-            "text": "Precise Craftsmanship Requirements",
-            "expansion": "Meticulous instructions reveal God's desire for excellence in spiritual preparation."
-          },
-          {
-            "id": 3,
-            "text": "Functional Worship Instruments",
-            "expansion": "Each tool represents a specific spiritual process of transformation and offering."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the intricate specifications of the altar reveal more about the worshipper than the worship itself?"
-      },
-      "moral_slider": {
-        "question": "How structured should spiritual practice be?",
-        "left_label": "Spontaneous Worship",
-        "right_label": "Ritualistic Precision"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship changed?",
-        "options": [
-          "More appreciative of intentional design",
-          "Recognize deeper symbolism in ritual",
-          "Understand worship as holistic practice",
-          "See spiritual preparation as crucial"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The multiple utensils symbolize the complexity of spiritual cleansing and atonement",
           "The centralized altar design emphasizes corporate worship over individualistic practices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD instructs",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD reminds",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the builder. You receive specific, complex instructions for the altar, but the text says the design must match what you saw on the mountain. What does this requirement change about how you view the details of the construction?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Leviticus 1:7-9",
+        "summary": "The LORD gives exact directions for building the altar, hollow, just as it was shown on the mountain (vv. 1-8). Leviticus shows what is placed on an altar: fire and wood, the pieces of the offering, all burned as a pleasing aroma to the LORD (Leviticus 1:7-9).",
+        "question": "How does Leviticus's picture of the offering burned on the altar help you understand why its design is given in such detail here?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "Aaron and his sons are to tend the lamps before the LORD from evening until morning",
+        "feeling": "distraction, fatigue",
+        "object": "my morning prayer",
+        "behavior": "rushing through the words",
+        "step": "sit in silence for five minutes",
+        "template": "from today I let go of my {feeling:distraction, fatigue} over {object:my morning prayer} and instead of {behavior:rushing through the words}, I will {step:sit in silence for five minutes}."
       }
     }
   }

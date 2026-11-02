@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbol of divine judgment most resonates with you?",
-        "choices": [
-          {
-            "id": "good_figs",
-            "text": "The Good Figs (Exiled Faithful)",
-            "expansion": "Those who remain humble and trust God's plan even in difficult circumstances are ultimately preserved."
-          },
-          {
-            "id": "bad_figs",
-            "text": "The Bad Figs (Unrepentant Leadership)",
-            "expansion": "Persistent rebellion against divine guidance leads to complete spiritual and national deterioration."
-          },
-          {
-            "id": "transformation",
-            "text": "Divine Refinement Through Exile",
-            "expansion": "Suffering can be a profound mechanism of spiritual purification and redirection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God uses adversity as a tool of transformation, how might your current challenges be secretly cultivating your spiritual growth?"
-      },
-      "moral_slider": {
-        "question": "To what extent do collective national sins determine individual spiritual outcomes?",
-        "left_label": "Individual Accountability",
-        "right_label": "Communal Consequences"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment shifted?",
-        "options": [
-          "More nuanced view of God's mercy",
-          "Deeper appreciation for spiritual resilience",
-          "Recognition of systemic spiritual patterns",
-          "Increased empathy for those experiencing hardship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God arbitrarily selects who will be preserved",
           "Suffering always indicates divine rejection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jeremiah answers",
+            "ref": "v. 3",
+            "speaker": "Jeremiah"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of an exile from Judah. You hear that the good figs are very good, but the bad figs cannot be eaten. What would you still wonder about how the LORD regards you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 11:5",
+        "summary": "The LORD says the exiles from Judah are the good figs He will return to this land (vv. 5-6). Paul says that at the present time there is a remnant chosen by grace (Romans 11:5).",
+        "question": "How does Romans 11:5 help you understand why the LORD regards the exiles as good figs in this chapter?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "remembrance",
+        "because": "the LORD keeps His eyes on the exiles for good and returns them to this land",
+        "feeling": "abandonment, fear",
+        "object": "a long season away from home",
+        "behavior": "assuming I am forgotten",
+        "step": "list one way He kept watch over me this week",
+        "template": "from today I let go of my {feeling:abandonment, fear} over {object:a long season away from home} and instead of {behavior:assuming I am forgotten}, I will {step:list one way He kept watch over me this week}."
       }
     }
   }

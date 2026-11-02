@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine sovereignty insight resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God uses unexpected agents for His purpose",
-            "expansion": "Cyrus, a non-Jewish king, becomes an instrument of divine restoration"
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence transcends human understanding",
-            "expansion": "God orchestrates geopolitical events beyond human perception"
-          },
-          {
-            "id": 3,
-            "text": "Personal calling emerges through divine recognition",
-            "expansion": "God knows individuals intimately, even before they recognize His plan"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God can use a pagan king like Cyrus for redemptive purposes, what limits exist on divine intervention in human affairs?"
-      },
-      "moral_slider": {
-        "question": "To what extent do human free will and divine sovereignty coexist?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine guidance shifted?",
-        "options": [
-          "I see providence more dynamically",
-          "I recognize God works through unexpected channels",
-          "I'm more open to mysterious divine strategies",
-          "I understand personal calling differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Political leadership is ultimately an instrument of divine providence",
           "Spiritual qualifications are less important than strategic utility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD declares",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the clay. When you see the Maker working, what would you understand about your right to question His design?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Ephesians 1:11",
+        "summary": "The LORD says He will raise up Cyrus and set His exiles free (v. 13). Ephesians 1:11 says God works out everything by the counsel of His will.",
+        "question": "How does Ephesians 1:11 help you understand why the LORD raises up Cyrus in this chapter?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "devotion",
+        "because": "there is no other God",
+        "feeling": "anxiety, doubt",
+        "object": "the uncertain future",
+        "behavior": "looking for other comforts",
+        "step": "turn my face toward Him",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:the uncertain future} and instead of {behavior:looking for other comforts}, I will {step:turn my face toward Him}."
       }
     }
   }

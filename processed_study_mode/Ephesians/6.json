@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Obedience",
-            "expansion": "Submitting to authority reflects deeper spiritual alignment with divine order."
-          },
-          {
-            "id": 2,
-            "text": "Family Discipleship",
-            "expansion": "Parental guidance is a sacred responsibility of spiritual formation."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Warfare",
-            "expansion": "Our true battle is not against flesh and blood, but against spiritual forces."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual strength is a form of armor, what are the vulnerabilities in your current spiritual defense?"
-      },
-      "moral_slider": {
-        "question": "How do personal rights balance with spiritual submission?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Authority"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized authority as service, not dominance",
-          "Understood spiritual warfare as internal transformation",
-          "Appreciated familial relationships as discipleship contexts",
-          "Seen submission as a voluntary act of love"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare is metaphorical and symbolic",
           "Spiritual warfare is primarily about prayer and intercession"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Paul defines the struggle",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul commands",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer told your struggle is against the spiritual forces of evil, not flesh and blood, and then told to take up the full armor of God. What do you understand about why the armor is needed?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Corinthians 10:3-5",
+        "summary": "Paul instructs believers to put on the full armor of God to stand against spiritual forces (v. 11-12). Paul also describes the nature of the weapons used to demolish strongholds and capture every thought (vv. 3-5).",
+        "question": "How does the description of destroying strongholds in 2 Corinthians help you understand the purpose of the armor in Ephesians?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "strength is found in the Lord and in His mighty power",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "relying on my own strength",
+        "step": "lean on His power",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:relying on my own strength}, I will {step:lean on His power}."
       }
     }
   }

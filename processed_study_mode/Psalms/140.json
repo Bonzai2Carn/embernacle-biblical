@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual theme resonates most deeply in this Psalm?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Divine Protection from Evil",
-            "expansion": "The Psalmist seeks God's intervention against malicious enemies who plot harm."
-          },
-          {
-            "id": "2",
-            "text": "Spiritual Warfare",
-            "expansion": "The prayer reveals an understanding of unseen conflicts beyond physical confrontations."
-          },
-          {
-            "id": "3",
-            "text": "Trust in Divine Justice",
-            "expansion": "The Psalm demonstrates radical faith that God will ultimately vindicate the righteous."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you discern between legitimate self-defense and vengeful retaliation when confronted by those who wish you harm?"
-      },
-      "moral_slider": {
-        "question": "To what extent should one rely on divine intervention versus personal action when facing persecution?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on conflict resolution have shifted after studying this Psalm?",
-        "options": [
-          "More patient with adversaries",
-          "Greater trust in spiritual protection",
-          "Understanding of inner spiritual battles",
-          "Recognizing complexity of human motivations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prayer is a powerful spiritual weapon against malevolent forces",
           "Suffering does not indicate divine abandonment but can be a context for God's intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist describes his enemies",
+            "ref": "vv. 2-3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns to the LORD",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. Men devise evil and sharpen their tongues like snakes. Then you say the LORD is the strength of your salvation and that He shields your head in battle. Which do you weigh more heavily: the venom on their lips, or the LORD who shields you?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "1 Peter 3:12",
+        "summary": "The psalmist calls the LORD the strength of his salvation and the one who shields his head in battle (v. 7). Peter writes that the eyes of the Lord are on the righteous and His ears are inclined to their prayer (1 Peter 3:12).",
+        "question": "How does 1 Peter 3:12 help you understand the cry for help the psalmist raises in verse 6?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the LORD is the strength of my salvation, and He shields my head in the day of battle",
+        "feeling": "fear, dread",
+        "object": "men who devise evil against me",
+        "behavior": "guarding myself alone",
+        "step": "pray for His shield by name",
+        "template": "from today I bring You my {feeling:fear, dread} about {object:men who devise evil against me} and instead of {behavior:guarding myself alone}, I will {step:pray for His shield by name}."
       }
     }
   }

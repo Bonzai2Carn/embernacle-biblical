@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual element from God's covenant with Solomon resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Commitment",
-            "expansion": "God's promise to establish Solomon's kingdom forever suggests an enduring divine partnership."
-          },
-          {
-            "id": 2,
-            "text": "Conditional Blessing",
-            "expansion": "God's continued favor depends on Solomon's faithfulness and obedience."
-          },
-          {
-            "id": 3,
-            "text": "Sacred Purpose",
-            "expansion": "The consecrated temple represents a permanent dwelling place for God's presence among His people."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine favor be simultaneously a gift and a profound responsibility?"
-      },
-      "moral_slider": {
-        "question": "To what extent does spiritual blessing depend on human performance?",
-        "left_label": "Pure Grace",
-        "right_label": "Merit-Based Relationship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine covenant evolved?",
-        "options": [
-          "More aware of reciprocal relationship",
-          "Recognize complexity of spiritual accountability",
-          "Appreciate nuanced nature of divine promises",
-          "Understand conditional nature of blessing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's covenant allows for human failure but provides redemptive pathways",
           "Covenantal relationships demonstrate mutual commitment between God and humanity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 6-7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Solomon's place, hearing the promise and the warning in the same breath. Which part of this message weighs more heavily on you?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "2 Chronicles 7:12-14",
+        "summary": "The LORD says He has heard Solomon's prayer and consecrated this temple (v. 3). In 2 Chronicles 7:12-14 the LORD appears at night, says He has heard the prayer, and promises to hear from heaven, forgive, and heal the land when His people humble themselves and pray.",
+        "question": "How does the LORD's promise to hear His people in 2 Chronicles 7:12-14 help you understand the terms He set for this temple?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "a heart of integrity and uprightness involves doing all God commanded",
+        "feeling": "distraction, apathy",
+        "object": "my daily routine",
+        "behavior": "skipping the small things",
+        "step": "do the next task with care",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my daily routine} and instead of {behavior:skipping the small things}, I will {step:do the next task with care}."
       }
     }
   }

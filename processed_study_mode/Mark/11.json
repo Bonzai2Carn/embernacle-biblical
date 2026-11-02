@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment in this chapter most reveals Jesus' nature?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Triumphal Entry",
-            "expansion": "Jesus intentionally fulfills messianic prophecy through symbolic, humble kingship"
-          },
-          {
-            "id": 2,
-            "text": "Cleansing the Temple",
-            "expansion": "Divine anger against religious corruption reveals Christ's passion for authentic worship"
-          },
-          {
-            "id": 3,
-            "text": "The Cursed Fig Tree",
-            "expansion": "A provocative lesson about spiritual fruitfulness and the dangers of performative religion"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Jesus knew the temple would be destroyed, why did he still confront its systems so directly?"
-      },
-      "moral_slider": {
-        "question": "How do you balance righteous anger with compassionate understanding?",
-        "left_label": "Confrontation",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authority shifted?",
-        "options": [
-          "I see leadership differently",
-          "I recognize systemic corruption more clearly",
-          "I understand symbolic actions better",
-          "I'm more aware of prophetic messaging"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenges religious and political power structures",
           "Emphasizes spiritual transformation over external liberation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 30,
+        "exchange": [
+          {
+            "who": "The chief priests asked",
+            "ref": "v. 28",
+            "speaker": "The chief priests"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 30",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the chief priests. You ask by what authority He does these things, and He answers with a question: was John's baptism from heaven or from men? What do you weigh before you reply?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Zechariah 9:9",
+        "summary": "Jesus sits on a colt while the crowd shouts, 'Hosanna! Blessed is He who comes in the name of the Lord!' (vv. 7-9). Zechariah 9:9 says Zion's King comes righteous and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.",
+        "question": "How does Zechariah 9:9 help you understand the crowd's shouts as Jesus rides the colt in Mark 11:7-9?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "repair",
+        "because": "if you forgive what you hold against another when you stand to pray, your Father in heaven will forgive your trespasses as well",
+        "feeling": "bitterness, resentment",
+        "object": "a person who hurt me",
+        "behavior": "replaying their mistake",
+        "step": "release them to God",
+        "template": "from today I turn from my {feeling:bitterness, resentment} toward {object:a person who hurt me} and instead of {behavior:replaying their mistake}, I will {step:release them to God}."
       }
     }
   }

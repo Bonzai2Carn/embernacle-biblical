@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual response resonates most deeply with you in facing overwhelming challenges?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Seek divine guidance through prayer and fasting",
-            "expansion": "Jehoshaphat's immediate turn to spiritual consultation demonstrates transformative leadership through collective spiritual seeking."
-          },
-          {
-            "id": 2,
-            "text": "Gather community for unified spiritual support",
-            "expansion": "The collective assembly of Judah represents the power of communal spiritual resilience."
-          },
-          {
-            "id": 3,
-            "text": "Trust in divine intervention over human strategy",
-            "expansion": "Jehoshaphat's willingness to surrender military tactics to spiritual guidance reveals profound theological trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When confronted with seemingly insurmountable external threats, what internal resources determine your response: fear, strategy, or spiritual conviction?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human preparedness with spiritual surrender?",
-        "left_label": "Human Control",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How might this narrative transform your understanding of facing challenges?",
-        "options": [
-          "Recognize the power of collective spiritual seeking",
-          "Understand that fear can be a catalyst for deeper spiritual connection",
-          "Appreciate that divine solutions often transcend human understanding",
-          "Learn that spiritual alignment precedes practical resolution"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintaining corporate unity in crisis",
           "Recognizing God's sovereignty in national challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Jehoshaphat said",
+            "ref": "v. 12",
+            "speaker": "Jehoshaphat"
+          },
+          {
+            "who": "Jahaziel said",
+            "ref": "v. 15",
+            "speaker": "Jahaziel"
+          }
+        ],
+        "question": "Put yourself in Jehoshaphat's place: you admit you are powerless and do not know what to do. What does the answer that the battle belongs to God reveal about where the strength for this battle lies?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Zechariah 4:6",
+        "summary": "Jahaziel tells the people the battle belongs to God, and that they need not fight but stand firm and see the salvation of the LORD (vv. 15, 17). Zechariah 4:6 gives the LORD's word to Zerubbabel: not by might nor by power, but by My Spirit.",
+        "question": "How does Zechariah 4:6 help you understand being told you need not fight this battle (v. 17)?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "our eyes are upon You",
+        "feeling": "anxiety, dread",
+        "object": "a looming crisis",
+        "behavior": "searching for my own exit",
+        "step": "fix my gaze on Him",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming crisis} to God and instead of {behavior:searching for my own exit}, I will {step:fix my gaze on Him}."
       }
     }
   }

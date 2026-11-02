@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "rebirth",
-            "text": "Being 'born again' spiritually",
-            "expansion": "Transformation requires a profound internal shift beyond external religious practices."
-          },
-          {
-            "id": "mystery",
-            "text": "The mysterious nature of spiritual awakening",
-            "expansion": "True spiritual understanding transcends rational comprehension and human logic."
-          },
-          {
-            "id": "divine_love",
-            "text": "God's unconditional love for humanity",
-            "expansion": "Divine love is not earned, but freely given as a transformative gift."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual rebirth is invisible, how can one be certain it has genuinely occurred?"
-      },
-      "moral_slider": {
-        "question": "How do human understanding and divine mystery intersect?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "I see spiritual growth as more mysterious",
-          "I recognize the need for internal change",
-          "I understand faith as beyond intellectual comprehension",
-          "I appreciate the complexity of spiritual journeys"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,37 @@
           "A supernatural divine intervention in human consciousness",
           "A ritualistic religious ceremony"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Nicodemus asked",
+            "ref": "v. 4",
+            "speaker": "Nicodemus"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "vv. 5-6",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Nicodemus's place, hearing that answer for the first time. What does it clear up about your question, and what would you still need to ask Him?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Titus 3:5",
+        "summary": "Jesus describes the new birth to a man who hasn't had it yet: *water and the Spirit* (v. 5), *the wind blows where it wishes* (v. 8). Years later Paul, writing to Titus, describes the same birth from the inside.",
+        "question": "Paul names one thing that did not bring about the new birth. What is it, and how does it help you understand what Jesus told Nicodemus?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "surrender",
+        "because": "a person can receive only what is given from heaven",
+        "template": "from today I release my {feeling:envy, resentment} over {object:a coworker's promotion} and instead of {behavior:guarding my turf}, I will {step:share what I know openly}."
       }
     }
   }

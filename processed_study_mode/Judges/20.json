@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about communal justice?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Collective Accountability",
-            "expansion": "The tribes unify to address a profound moral transgression, suggesting shared responsibility for societal righteousness."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Solidarity",
-            "expansion": "Israel's tribes demonstrate unprecedented unity in confronting a grave moral failure within their own community."
-          },
-          {
-            "id": 3,
-            "text": "Judicial Process",
-            "expansion": "The congregation seeks deliberative resolution before resorting to violent conflict, revealing a structured approach to communal judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does collective judgment transcend individual perspective, and at what point might such judgment become its own form of injustice?"
-      },
-      "moral_slider": {
-        "question": "How do communities balance mercy and punishment?",
-        "left_label": "Compassion",
-        "right_label": "Retribution"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal justice evolved?",
-        "options": [
-          "Recognize complexity of tribal dynamics",
-          "Understand importance of collective moral standards",
-          "Appreciate nuanced approaches to conflict resolution",
-          "Reflect on potential dangers of group-think"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize grace and individual reconciliation",
           "Implement systematic structural reforms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 28,
+        "exchange": [
+          {
+            "who": "The Israelites asked",
+            "ref": "v. 28",
+            "speaker": "The Israelites"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 28",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites asking whether to go out again against your brothers the Benjamites. The answer comes: Fight, for tomorrow I will deliver them into your hand. What do you weigh in that answer?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "1 Corinthians 5:1-2",
+        "summary": "The Israelites demand that the wicked men of Gibeah be handed over so they can purge Israel of this evil (v. 13). Paul asks a church why it had not removed from its fellowship a man guilty of sexual immorality (1 Corinthians 5:1-2).",
+        "question": "How does Paul's question about removing the man from the fellowship help you understand the Israelites' demand to purge this evil from Israel?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "exposure",
+        "because": "the Israelites sat weeping before the LORD and fasted until evening",
+        "feeling": "despair, bitterness",
+        "object": "a painful loss",
+        "behavior": "pushing on without seeking God",
+        "step": "tell Him my grief",
+        "template": "from today I bring my {feeling:despair, bitterness} about {object:a painful loss} into the light and instead of {behavior:pushing on without seeking God}, I will {step:tell Him my grief}."
       }
     }
   }

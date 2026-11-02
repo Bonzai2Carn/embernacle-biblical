@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's protection against overwhelming enemies",
-            "expansion": "Divine protection emerges even when human strength seems insufficient."
-          },
-          {
-            "id": 2,
-            "text": "Hezekiah's humble response to crisis",
-            "expansion": "Spiritual vulnerability can be a powerful pathway to receiving divine guidance."
-          },
-          {
-            "id": 3,
-            "text": "Isaiah's prophetic role as spiritual intermediary",
-            "expansion": "Prophetic voices can provide critical spiritual insight during national challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When faced with seemingly insurmountable challenges, how might your perspective shift if you viewed them as opportunities for spiritual transformation rather than mere obstacles?"
-      },
-      "moral_slider": {
-        "question": "How do human strategic planning and divine intervention interact in moments of national crisis?",
-        "left_label": "Human Strategy",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved after reflecting on this chapter?",
-        "options": [
-          "I see crisis as an opportunity for deeper faith",
-          "Humility is more powerful than human strength",
-          "Divine protection is not guaranteed but possible",
-          "Prophetic wisdom can provide critical perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare is primarily fought through prayer and trust",
           "Military strategy is equally important as spiritual preparation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The messengers of Assyria said",
+            "ref": "vv. 10-13",
+            "speaker": "Messengers of Assyria"
+          },
+          {
+            "who": "Hezekiah spread the letter before the LORD",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place, holding a letter that mocks the God you trust. What would you weigh as you decide what to do with it?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "1 Samuel 17:45-47",
+        "summary": "Hezekiah asks the LORD to save so that all the kingdoms of the earth may know He alone is God (v. 19). In 1 Samuel 17:45-47 David faces an enemy who defied the LORD, saying the whole world will know there is a God in Israel and that the battle is the LORD's.",
+        "question": "How does David's saying that the battle is the LORD's help you understand Hezekiah's prayer that all kingdoms may know the LORD alone is God?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "the LORD alone is God over all the kingdoms of the earth",
+        "feeling": "anxiety, dread",
+        "object": "a threatening situation",
+        "behavior": "trying to fix it myself",
+        "step": "present the problem to Him",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a threatening situation} and instead of {behavior:trying to fix it myself}, I will {step:present the problem to Him}."
       }
     }
   }

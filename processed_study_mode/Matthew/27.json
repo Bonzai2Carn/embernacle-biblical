@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human vulnerability strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Judas's remorse",
-            "expansion": "The profound psychological collapse after betraying something sacred"
-          },
-          {
-            "id": 2,
-            "text": "Pilate's moral weakness",
-            "expansion": "The tragic compromise of personal integrity under institutional pressure"
-          },
-          {
-            "id": 3,
-            "text": "Jesus's silent endurance",
-            "expansion": "The transformative power of choosing non-violent resistance in extreme suffering"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does personal responsibility intersect with systemic injustice?"
-      },
-      "moral_slider": {
-        "question": "How do human emotions of guilt and redemption interact?",
-        "left_label": "Personal Shame",
-        "right_label": "Collective Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of human nature?",
-        "options": [
-          "I see more complexity in moral choices",
-          "I recognize institutional power's destructive potential",
-          "I understand suffering's redemptive dimension",
-          "I'm more aware of personal moral fragility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "His willingness to suffer reveals unconditional love for humanity",
           "His prophetic fulfillment validates divine mission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Pilate said",
+            "ref": "v. 24",
+            "speaker": "Pilate"
+          },
+          {
+            "who": "The people answered",
+            "ref": "v. 25",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in Pilate's place. You say you are innocent of this man's blood, and the people answer, His blood be on us and on our children. What would you weigh in that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 46,
+        "ref": "Psalm 22:1",
+        "summary": "Jesus cries out in abandonment during the darkness of the crucifixion (v. 46). This cry mirrors the words of the psalmist who felt abandoned by God.",
+        "question": "How does knowing that the psalmist also experienced this feeling help you understand the weight of Jesus' words?"
+      },
+      "conviction": {
+        "verse": 54,
+        "frame": "exposure",
+        "because": "the centurion and those with him saw all that had happened",
+        "feeling": "skepticism, doubt",
+        "object": "a difficult situation",
+        "behavior": "dismissing the truth",
+        "step": "look closely at what is happening",
+        "template": "from today I bring my {feeling:skepticism, doubt} about {object:a difficult situation} into the light and instead of {behavior:dismissing the truth}, I will {step:look closely at what is happening}."
       }
     }
   }

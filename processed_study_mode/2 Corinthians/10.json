@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual warfare concept resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual weapons transcend physical limitations",
-            "expansion": "Divine power redefines the boundaries of human conflict and transformation."
-          },
-          {
-            "id": 2,
-            "text": "Inner strength manifests differently in different contexts",
-            "expansion": "Authentic leadership adapts while maintaining core spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Confronting spiritual strongholds requires supernatural strategy",
-            "expansion": "Intellectual and spiritual battles demand weapons beyond human reasoning."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do your perceived weaknesses actually become channels for divine strength?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal humility with spiritual boldness?",
-        "left_label": "Timidity",
-        "right_label": "Confident Authority"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare transformed?",
-        "options": [
-          "Recognize non-physical dimensions of conflict",
-          "Understand leadership requires adaptive courage",
-          "Appreciate divine empowerment over human limitations",
-          "See confrontation through lens of spiritual transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By avoiding spiritual confrontation entirely",
           "Through personal charisma and persuasive arguments"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Some say",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those judging Paul by his appearance. What does his promise about his future actions force you to weigh against what you see right now?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Ephesians 6:10-18",
+        "summary": "Paul describes weapons that have divine power to demolish strongholds (v. 4). Ephesians describes the specific armor used to stand against such spiritual forces.",
+        "question": "How does the description of the armor in Ephesians help you identify the weapons Paul mentions here?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "we take captive every thought to make it obedient to Christ",
+        "feeling": "anxiety, suspicion",
+        "object": "a critical comment from a friend",
+        "behavior": "ruminating on the insult",
+        "step": "bring that thought to Christ",
+        "template": "from today I let go of my {feeling:anxiety, suspicion} over {object:a critical comment from a friend} and instead of {behavior:ruminating on the insult}, I will {step:bring that thought to Christ}."
       }
     }
   }

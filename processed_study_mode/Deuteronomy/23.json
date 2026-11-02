@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on community membership challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Exclusion based on lineage",
-            "expansion": "Generational consequences reveal complex dynamics of communal identity and inherited social status."
-          },
-          {
-            "id": 2,
-            "text": "Ritual purity standards",
-            "expansion": "Physical wholeness symbolizes deeper spiritual integrity and divine standards of worthiness."
-          },
-          {
-            "id": 3,
-            "text": "Cultural memory of historical offenses",
-            "expansion": "Historical treatment of Israel becomes a multi-generational metric for communal acceptance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine standards of belonging balance justice with mercy?"
-      },
-      "moral_slider": {
-        "question": "How strictly should community boundaries be defined?",
-        "left_label": "Absolute Exclusion",
-        "right_label": "Radical Inclusion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community membership evolved?",
-        "options": [
-          "More nuanced about inherited status",
-          "More aware of historical context",
-          "More questioning of absolute boundaries",
-          "More sympathetic to ritual purity concepts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual interpretation emphasizing grace and inclusion",
           "Nuanced approach balancing holiness with compassion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Moses recalls",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Moses declares",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing how Balaam was hired to curse you. How does the change from a hired curse to a blessing change how you view the LORD's protection?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Leviticus 19:2",
+        "summary": "The LORD commands the camp to be holy and free from uncleanness (v. 14). Leviticus gives the standard for this holiness: you are to be holy because the LORD is holy.",
+        "question": "How does the standard in Leviticus help you understand the reason for the specific cleanliness rules in the camp?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "you have freely vowed to the LORD your God with your own mouth",
+        "feeling": "guilt, regret",
+        "object": "a promise I failed to keep",
+        "behavior": "avoiding the conversation",
+        "step": "make it right with the person",
+        "template": "from today I let go of my {feeling:guilt, regret} over {object:a promise I failed to keep} and instead of {behavior:avoiding the conversation}, I will {step:make it right with the person}."
       }
     }
   }

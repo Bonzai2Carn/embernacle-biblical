@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's glory transcends human limitations",
-            "expansion": "The psalm emphasizes divine sovereignty beyond human constructs of power and representation."
-          },
-          {
-            "id": "2",
-            "text": "Idolatry leads to spiritual emptiness",
-            "expansion": "Manufactured gods are powerless compared to the living, active God of Israel."
-          },
-          {
-            "id": "3",
-            "text": "Trust overcomes human vulnerability",
-            "expansion": "Faithful dependence on God provides strength when human resources fail."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power cannot be physically represented, how do we genuinely experience God's presence?"
-      },
-      "moral_slider": {
-        "question": "How does human agency interact with divine sovereignty?",
-        "left_label": "Human Control",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and spiritual representation shifted?",
-        "options": [
-          "Recognized limitations of material representations",
-          "Understood deeper spiritual connectivity",
-          "Challenged previous assumptions about divine interaction",
-          "Gained perspective on spiritual authenticity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizes transcendent nature of divine relationship",
           "Highlights limitations of empirical understanding of God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The nations ask",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone the nations ask, 'Where is their God?' You answer that your God is in heaven and does as He pleases. What do you understand about your God when you give that answer?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Jeremiah 17:5-8",
+        "summary": "The psalmist says idols cannot see, hear, or speak, and those who make them become like them (v. 8). Jeremiah 17:5-8 sets the man who trusts in mankind, who becomes like a shrub in the desert, against the man who trusts in the LORD and is blessed.",
+        "question": "How does Jeremiah 17:5-8 help you understand the warning in verse 8?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "trust",
+        "because": "the LORD is the help and shield of those who fear Him",
+        "feeling": "anxiety, dread",
+        "object": "the threats around me",
+        "behavior": "relying on my own strength",
+        "step": "pray over each threat by name",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:the threats around me} to God and instead of {behavior:relying on my own strength}, I will {step:pray over each threat by name}."
       }
     }
   }

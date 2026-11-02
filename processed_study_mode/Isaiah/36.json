@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of confrontation with external threats resonates most deeply?",
-        "choices": [
-          {
-            "id": "diplomacy",
-            "text": "Diplomatic negotiations",
-            "expansion": "The Rabshakeh's strategic psychological warfare reveals the complex dynamics of international political discourse."
-          },
-          {
-            "id": "faith",
-            "text": "Maintaining spiritual integrity under pressure",
-            "expansion": "Hezekiah's leadership demonstrates resilience in the face of overwhelming imperial intimidation."
-          },
-          {
-            "id": "vulnerability",
-            "text": "Recognition of human vulnerability",
-            "expansion": "The fragility of national sovereignty is starkly exposed through Assyria's military aggression."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When external forces challenge your deepest convictions, do you negotiate from a position of perceived weakness or inner strength?"
-      },
-      "moral_slider": {
-        "question": "How do principles of national survival interact with spiritual faithfulness?",
-        "left_label": "Political Pragmatism",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership under crisis transformed?",
-        "options": [
-          "Recognized importance of psychological resilience",
-          "Understood power of strategic communication",
-          "Appreciated nuanced diplomatic interactions",
-          "Learned about maintaining core values under external pressure"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding spiritual warfare transcends physical confrontations",
           "Developing confidence in God's promises beyond immediate circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The Rabshakeh said to them",
+            "ref": "v. 4",
+            "speaker": "The Rabshakeh"
+          },
+          {
+            "who": "The Rabshakeh said",
+            "ref": "v. 10",
+            "speaker": "The Rabshakeh"
+          }
+        ],
+        "question": "Put yourself in the place of the officials hearing these words. The Rabshakeh first questions your confidence and then claims God Himself commanded this destruction. What does it change about your situation to hear that your enemy believes he has God's permission?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Psalm 46:1-3",
+        "summary": "The Rabshakeh mocks the idea that any god can deliver a land from his hand (v. 20). The Psalmist describes a God who is a refuge even when the earth undergoes total upheaval (vv. 1-3).",
+        "question": "How does Psalm 46:1-3 help you weigh the Rabshakeh's boast that the LORD cannot deliver Jerusalem?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the LORD will surely deliver us",
+        "feeling": "anxiety, doubt",
+        "object": "a threat to my security",
+        "behavior": "listening to the loudest critic",
+        "step": "rest in what He has promised",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a threat to my security} and instead of {behavior:listening to the loudest critic}, I will {step:rest in what He has promised}."
       }
     }
   }

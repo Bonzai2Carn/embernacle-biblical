@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What stands out in this genealogical record?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Detailed Family Lineage",
-            "expansion": "Genealogies reveal the importance of historical memory and connection to ancestral roots."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Identity of Benjamin",
-            "expansion": "The meticulous tracking of Benjamin's descendants highlights the tribe's significance in Israelite history."
-          },
-          {
-            "id": 3,
-            "text": "Individual Names and Stories",
-            "expansion": "Each name represents a human story of survival, legacy, and potential divine purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do these seemingly mundane genealogical records speak to the deeper human desire for meaning and continuity?"
-      },
-      "moral_slider": {
-        "question": "How much value should we place on ancestral heritage versus individual identity?",
-        "left_label": "Individual Identity",
-        "right_label": "Ancestral Heritage"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on biblical genealogies shifted?",
-        "options": [
-          "More appreciative of historical complexity",
-          "Recognize spiritual significance beyond names",
-          "See human stories within historical records",
-          "Understand importance of cultural memory"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,19 @@
           "Highlight individual significance within collective identity",
           "Provide prophetic insight into messianic lineage"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "conviction": {
+        "verse": 40,
+        "frame": "remembrance",
+        "because": "the sons of Ulam were mighty men of valor and had many sons and grandsons",
+        "feeling": "inadequacy, insignificance",
+        "object": "my small daily efforts",
+        "behavior": "dismissing my progress",
+        "step": "trust God with the fruit",
+        "template": "from today I let go of my {feeling:inadequacy, insignificance} over {object:my small daily efforts} and instead of {behavior:dismissing my progress}, I will {step:trust God with the fruit}."
       }
     }
   }

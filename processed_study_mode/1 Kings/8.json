@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of divine presence most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The cloud filling the temple",
-            "expansion": "Divine manifestation transcends human understanding and architectural boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Solomon's expansive prayer of dedication",
-            "expansion": "Genuine leadership involves humble acknowledgment of collective spiritual vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "God's covenant faithfulness",
-            "expansion": "Divine promises persist beyond human generational limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence cannot be contained by a physical structure, what truly constitutes a 'holy' space?"
-      },
-      "moral_slider": {
-        "question": "How do human intentions intersect with divine purposes?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and divine connection evolved?",
-        "options": [
-          "More aware of symbolic significance",
-          "Recognize complexity of spiritual experiences",
-          "Appreciate communal spiritual moments",
-          "Understand limitations of human comprehension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual hearts are now the true 'temple' of God's presence",
           "Ceremonial rituals are less significant than spiritual authenticity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "the priests and Levites carried them up",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "the glory of the LORD filled the house of the LORD",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a priest carrying the sacred furnishings into the new temple. You see the cloud fill the house so densely that you cannot even stand to serve. What does this presence tell you about the building you just finished?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Psalm 132:13-14",
+        "summary": "Solomon wonders if God can truly dwell on the earth in a temple (v. 27). The Psalmist confirms that God has chosen Zion as His resting place (vv. 13-14).",
+        "question": "How does the Psalmist's account of God choosing Zion as His home help you weigh Solomon's question about God dwelling on the earth?"
+      },
+      "conviction": {
+        "verse": 56,
+        "frame": "remembrance",
+        "because": "not one word has failed of God's good promises",
+        "feeling": "anxiety, doubt",
+        "object": "a delayed promise",
+        "behavior": "doubting God's character",
+        "step": "list His past faithfulness",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a delayed promise} and instead of {behavior:doubting God's character}, I will {step:list His past faithfulness}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which characteristic of love most challenges your current perspective?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Love suffers long",
-            "expansion": "Patience reveals profound spiritual resilience beyond immediate emotional reactions."
-          },
-          {
-            "id": "2",
-            "text": "Love is not self-seeking",
-            "expansion": "Genuine love transcends personal agenda and prioritizes collective well-being."
-          },
-          {
-            "id": "3",
-            "text": "Love always perseveres",
-            "expansion": "Unconditional love maintains hope even when circumstances seem hopeless."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual gifts are meaningless without love, what truly defines the essence of spiritual maturity?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal righteousness with compassionate love?",
-        "left_label": "Strict Judgment",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of love?",
-        "options": [
-          "I see love as more action-oriented",
-          "I recognize love's transformative power",
-          "I understand love transcends emotional feelings",
-          "I'm challenged to love beyond my comfort zone"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Love represents a more profound spiritual measurement than observable miracles",
           "Genuine Christian love transcends cultural and personal limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The author claims",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The author concludes",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are the one who has the highest gifts and has given away everything you own. What remains of your value when love is missing from those actions?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "1 Peter 4:8",
+        "summary": "Love keeps no account of wrongs (v. 5). First Peter says love covers over a multitude of sins.",
+        "question": "How does 1 Peter 4:8 help you understand what it means that love keeps no account of wrongs?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "love keeps no account of wrongs",
+        "feeling": "resentment, irritation",
+        "object": "a slight from a friend",
+        "behavior": "recounting past mistakes",
+        "step": "refuse to bring it up",
+        "template": "from today I let go of my {feeling:resentment, irritation} over {object:a slight from a friend} and instead of {behavior:recounting past mistakes}, I will {step:refuse to bring it up}."
       }
     }
   }

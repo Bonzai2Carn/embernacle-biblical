@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about David's plea to God?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Crying out for divine intervention",
-            "expansion": "The raw vulnerability of seeking God's immediate attention amid perceived threat"
-          },
-          {
-            "id": "2",
-            "text": "Fear of being abandoned by God",
-            "expansion": "The existential dread of potentially being rejected or overlooked by the divine"
-          },
-          {
-            "id": "3",
-            "text": "Trust in God's ultimate justice",
-            "expansion": "Believing that God will ultimately distinguish between the righteous and the wicked"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do our personal lamentations reveal more about our understanding of divine relationship than our moments of triumph?"
-      },
-      "moral_slider": {
-        "question": "What is the balance between personal agency and divine intervention?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your previous understanding of prayer?",
-        "options": [
-          "Prayer is not about controlling outcomes",
-          "Emotional honesty matters more than ritualistic language",
-          "Vulnerability is a strength in spiritual communication",
-          "Divine listening precedes divine action"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prayer transforms personal circumstances through spiritual alignment",
           "God's justice operates beyond human temporal understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying. You start by fearing God's silence and ending with a blessing. What changed between your cry and your praise?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 86:6-7",
+        "summary": "The psalmist calls to the LORD and fears His silence (v. 1), then blesses Him for hearing his cry for mercy (v. 6). Psalm 86:6-7 asks the LORD to hear and says, In the day of my distress I call on You, because You answer me.",
+        "question": "How does Psalm 86:6-7 help you understand the psalmist's blessing in Psalm 28:6 that the LORD has heard his cry?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "the LORD is my strength and my shield",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "trying to fix it alone",
+        "step": "sing a song of thanks",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:trying to fix it alone}, I will {step:sing a song of thanks}."
       }
     }
   }

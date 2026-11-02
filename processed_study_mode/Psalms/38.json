@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional theme in Psalm 38 resonates most deeply?",
-        "choices": [
-          {
-            "id": "guilt",
-            "text": "Personal Guilt and Suffering",
-            "expansion": "The profound inner turmoil of experiencing divine discipline and personal shame."
-          },
-          {
-            "id": "vulnerability",
-            "text": "Human Vulnerability Before God",
-            "expansion": "The raw admission of human weakness and complete dependence on divine mercy."
-          },
-          {
-            "id": "isolation",
-            "text": "Spiritual and Social Isolation",
-            "expansion": "The painful experience of feeling abandoned by friends and overwhelmed by internal struggles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal suffering be transformed from a punishment into an opportunity for spiritual growth and self-understanding?"
-      },
-      "moral_slider": {
-        "question": "Between divine judgment and divine mercy, where does authentic spiritual healing occur?",
-        "left_label": "Strict Divine Judgment",
-        "right_label": "Unconditional Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on personal suffering and spiritual accountability shifted?",
-        "options": [
-          "I see suffering as more complex than simple punishment",
-          "I recognize my own vulnerability more deeply",
-          "I understand the importance of honest self-reflection",
-          "I appreciate the potential for spiritual transformation through difficult experiences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal suffering is random and unconnected to spiritual condition",
           "Suffering represents a direct correlation between sin and immediate consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist waits",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. There is no soundness in your body, and a burden too heavy to bear is on you. What changes when you say, 'I wait for You, O LORD; You will answer'?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Psalm 51:17",
+        "summary": "The psalmist confesses his iniquity and is troubled by his sin (v. 18). Psalm 51:17 says the sacrifices of God are a broken spirit, and that God will not despise a broken and contrite heart.",
+        "question": "How does Psalm 51:17 help you understand the psalmist's confession in verse 18?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "exposure",
+        "because": "my every desire is before You",
+        "feeling": "shame, guilt",
+        "object": "my secret failures",
+        "behavior": "hiding my true state",
+        "step": "bring them to Your light",
+        "template": "from today I bring You my {feeling:shame, guilt} about {object:my secret failures} and instead of {behavior:hiding my true state}, I will {step:bring them to Your light}."
       }
     }
   }

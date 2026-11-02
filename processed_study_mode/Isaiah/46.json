@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God carries His people through all stages of life",
-            "expansion": "Divine care transcends human limitations and temporal boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Idols are burdens, while God provides strength",
-            "expansion": "Human-constructed systems ultimately exhaust themselves, unlike divine sustenance."
-          },
-          {
-            "id": 3,
-            "text": "Continuity of divine commitment despite human weakness",
-            "expansion": "God's faithfulness persists independent of human performance or worthiness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine support is constant, what prevents humans from fully experiencing this comprehensive care?"
-      },
-      "moral_slider": {
-        "question": "How much agency do humans truly have in their spiritual journey?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of divine relationship?",
-        "options": [
-          "Recognized God's proactive care",
-          "Understood limitations of human constructs",
-          "Appreciated continuous divine engagement",
-          "Challenged previous theological assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual support only applies to specific historical contexts",
           "God's relationship with humanity is primarily transactional"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The prophet describes the idols",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the house of Israel. You see Bel and Nebo carried away as a load for tired animals, and you hear God say He has carried you since birth and will bear you up when you turn gray. What would you understand about who carries whom?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Philippians 1:6",
+        "summary": "The LORD declares that His purpose will stand and He will accomplish all His good pleasure (v. 10). Philippians 1:6 says He who began a good work in you will carry it on to completion.",
+        "question": "How does Philippians 1:6 help you understand the purpose the LORD says will stand in Isaiah 46:10?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "I will bear you up when you turn gray",
+        "feeling": "anxiety, dread",
+        "object": "the passing of time",
+        "behavior": "clinging to my own strength",
+        "step": "rest in His sustaining power",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:the passing of time} to God and instead of {behavior:clinging to my own strength}, I will {step:rest in His sustaining power}."
       }
     }
   }

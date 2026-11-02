@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Discerning spiritual signs",
-            "expansion": "Recognizing divine movements requires spiritual sensitivity beyond literal observation."
-          },
-          {
-            "id": 2,
-            "text": "The nature of true discipleship",
-            "expansion": "Following Christ demands radical self-denial and profound commitment beyond superficial religious practices."
-          },
-          {
-            "id": 3,
-            "text": "Understanding spiritual authority",
-            "expansion": "Authentic spiritual leadership emerges from divine revelation, not human institutional power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current understanding of spiritual truth be limiting your perception of deeper revelations?"
-      },
-      "moral_slider": {
-        "question": "To what extent do religious traditions enhance or obstruct genuine spiritual perception?",
-        "left_label": "Institutional Constraint",
-        "right_label": "Spiritual Freedom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discernment shifted?",
-        "options": [
-          "More skeptical of surface-level religious performances",
-          "Recognizing deeper spiritual intuition",
-          "Understanding the complexity of divine communication",
-          "Valuing personal spiritual sensitivity over institutional pronouncements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Theological understanding requires a combination of rational analysis and spiritual perception",
           "Direct supernatural interventions are the primary means of confirming spiritual truth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Peter took Him aside and began to rebuke Him",
+            "ref": "v. 22",
+            "speaker": "Peter"
+          },
+          {
+            "who": "Jesus turned and said to Peter",
+            "ref": "v. 23",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Peter's place, trying to protect your teacher from suffering. What does Jesus's response reveal about the difference between your perspective and His?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "1 Corinthians 2:14",
+        "summary": "Jesus tells Peter that his confession was not revealed by flesh and blood but by the Father (v. 17). Paul explains why the natural person cannot grasp these spiritual truths.",
+        "question": "How does Paul's description of the natural person help you understand why Peter could not have reached this conclusion on his own?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "anyone who wants to come after Him must deny himself and take up his cross",
+        "feeling": "self-interest, pride",
+        "object": "my own comfort",
+        "behavior": "seeking my own way",
+        "step": "choose to serve others",
+        "template": "from today I let go of my {feeling:self-interest, pride} over {object:my own comfort} and instead of {behavior:seeking my own way}, I will {step:choose to serve others}."
       }
     }
   }

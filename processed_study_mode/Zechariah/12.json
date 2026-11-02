@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image of Jerusalem most resonates with your understanding of divine protection?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jerusalem as a 'cup of drunkenness'",
-            "expansion": "God uses unexpected metaphors to demonstrate His sovereignty over geopolitical challenges."
-          },
-          {
-            "id": 2,
-            "text": "Jerusalem as an immovable 'heavy stone'",
-            "expansion": "Divine preservation transcends human military or political calculations."
-          },
-          {
-            "id": 3,
-            "text": "God's spirit of grace and supplication",
-            "expansion": "Spiritual transformation occurs through divine intervention, not human effort."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is promised, what is the role of human agency in national survival?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between divine judgment and national restoration?",
-        "left_label": "Divine Wrath",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prophetic literature changed after examining this chapter?",
-        "options": [
-          "More aware of symbolic language",
-          "Recognize complexity of divine narratives",
-          "Appreciate metaphorical depth",
-          "See historical and spiritual interconnections"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National restoration reflects God's redemptive purposes",
           "Spiritual renewal emerges from genuine collective repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says He will destroy the nations",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says He will pour out a spirit of grace",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are among the people of Jerusalem. What would you weigh as you hear that you will look on Me, the One they have pierced, and mourn for Him as for an only child?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Ezekiel 36:26-27",
+        "summary": "The LORD promises to pour out a spirit of grace and prayer (v. 10). Ezekiel describes a similar work where God puts a new spirit within His people to make them follow His decrees.",
+        "question": "How does Ezekiel's description of a new heart help you understand the source of the mourning and prayer described here?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "the LORD of Hosts is the God of the people of Jerusalem",
+        "feeling": "doubt, insecurity",
+        "object": "the pressure of my circumstances",
+        "behavior": "relying on my own strength",
+        "step": "acknowledge His presence in my work",
+        "template": "from today I let go of my {feeling:doubt, insecurity} over {object:the pressure of my circumstances} and instead of {behavior:relying on my own strength}, I will {step:acknowledge His presence in my work}."
       }
     }
   }

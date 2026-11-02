@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from Naomi's journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resilience in loss",
-            "expansion": "How human spirit endures even when everything familiar has been stripped away."
-          },
-          {
-            "id": 2,
-            "text": "Loyalty transcends bloodline",
-            "expansion": "Ruth's commitment to Naomi reveals love that defies cultural and familial expectations."
-          },
-          {
-            "id": 3,
-            "text": "Providential displacement",
-            "expansion": "Sometimes geographical and personal disruptions are pathways to unexpected divine purposes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you lose everything familiar, what truly defines your identity and hope?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival and communal loyalty balance in times of extreme hardship?",
-        "left_label": "Individual Survival",
-        "right_label": "Collective Commitment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith changed after reflecting on Naomi and Ruth's journey?",
-        "options": [
-          "Faith is more about perseverance than circumstances",
-          "Family can be chosen, not just inherited",
-          "Suffering does not mean abandonment",
-          "Unexpected connections can restore hope"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant loyalty supersedes ethnic and societal divisions",
           "Divine guidance often emerges through seemingly random human choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Naomi said to her two daughters-in-law",
+            "ref": "v. 8",
+            "speaker": "Naomi"
+          },
+          {
+            "who": "Ruth replied",
+            "ref": "v. 16",
+            "speaker": "Ruth"
+          }
+        ],
+        "question": "Put yourself in Ruth's place. Naomi tells you to go back to your mother's home. What makes you choose to cling to her instead?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Psalm 34:18",
+        "summary": "Naomi says the Almighty has dealt bitterly with her (v. 20) and that the LORD has brought her back empty and afflicted her (v. 21). Psalm 34:18 says the LORD is near to the brokenhearted and saves the contrite in spirit.",
+        "question": "How does Psalm 34:18 help you understand Naomi's bitter season?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "the LORD has brought me back empty",
+        "feeling": "bitterness, grief",
+        "object": "what I have lost",
+        "behavior": "hiding my true state",
+        "step": "speak the truth to a friend",
+        "template": "from today I bring my {feeling:bitterness, grief} about {object:what I have lost} into the light and instead of {behavior:hiding my true state}, I will {step:speak the truth to a friend}."
       }
     }
   }

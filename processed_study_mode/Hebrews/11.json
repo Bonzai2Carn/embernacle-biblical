@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of faith resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Faith as Unseen Evidence",
-            "expansion": "Believing beyond visible circumstances requires profound spiritual imagination and trust."
-          },
-          {
-            "id": 2,
-            "text": "Faith as Transformative Action",
-            "expansion": "True faith compels believers to move courageously beyond familiar boundaries."
-          },
-          {
-            "id": 3,
-            "text": "Faith as Generational Inheritance",
-            "expansion": "Faith is a spiritual legacy transmitted through courageous examples of previous generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If faith is 'the substance of things hoped for', what hopes have not yet materialized that you continue to trust will manifest?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine providence?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith evolved through this study?",
-        "options": [
-          "More comfortable with uncertainty",
-          "Recognize faith as active, not passive",
-          "See faith as relational, not transactional",
-          "Understand faith requires courageous imagination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faith requires suspension of rational critical thinking",
           "Faith emerges through personal spiritual experiences and communal validation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The author defines faith",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone coming to God. You hear that faith is the assurance of what we hope for, and that anyone who approaches Him must believe He exists and rewards those who seek Him. What do you weigh?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Philippians 3:20",
+        "summary": "These people confessed they were strangers and exiles on the earth, seeking a country of their own (vv. 13-14). Philippians 3:20 says our citizenship is in heaven, and we eagerly await a Savior from there.",
+        "question": "How does Philippians 3:20 help you understand the country these people were seeking?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "devotion",
+        "because": "Moses saw Him who is invisible",
+        "feeling": "fear, anxiety",
+        "object": "the consequences of doing right",
+        "behavior": "looking for human approval",
+        "step": "fix my eyes on God",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:the consequences of doing right} and instead of {behavior:looking for human approval}, I will {step:fix my eyes on God}."
       }
     }
   }

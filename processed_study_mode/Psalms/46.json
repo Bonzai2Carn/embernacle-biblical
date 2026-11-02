@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine protection resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as a refuge and strength",
-            "expansion": "The profound sense of supernatural shelter amid overwhelming chaos."
-          },
-          {
-            "id": 2,
-            "text": "Confidence despite earthly turmoil",
-            "expansion": "Spiritual resilience that transcends physical circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Divine sovereignty over nations",
-            "expansion": "The ultimate power of God surpassing human political machinations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is truly our 'refuge and strength', why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine protection?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Recognizing inner strength over external circumstances",
-          "Understanding peace as an internal state",
-          "Seeing challenges as opportunities for growth",
-          "Embracing uncertainty with spiritual confidence"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering exists alongside divine presence",
           "Theological perspective depends on individual faith interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes",
+            "ref": "vv. 2-3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those watching the mountains fall into the sea. God is an ever-present help (v. 1), yet the earth still shakes so violently. What do you understand about the relationship between His presence and this chaos?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 91:2",
+        "summary": "The psalmist says the LORD of Hosts is with us and the God of Jacob is our fortress (v. 7). Psalm 91:2 says, 'I will say to the LORD, You are my refuge and my fortress, my God, in whom I trust.'",
+        "question": "How does Psalm 91:2 help you understand calling the God of Jacob your fortress (v. 7)?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "God is God and will be exalted among the nations and over the earth",
+        "feeling": "anxiety, panic",
+        "object": "a sudden change in my circumstances",
+        "behavior": "trying to control every outcome",
+        "step": "sit quietly in His presence",
+        "template": "from today I bring You my {feeling:anxiety, panic} about {object:a sudden change in my circumstances} and instead of {behavior:trying to control every outcome}, I will {step:sit quietly in His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's survival strategy resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Deception as Survival",
-            "expansion": "David strategically misleads the priest to protect himself from potential harm."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Desperation",
-            "expansion": "David seeks sacred bread and weapons in a moment of profound vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Unpredictability",
-            "expansion": "David's journey reveals how divine plans often emerge through seemingly chaotic circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does self-preservation potentially compromise moral integrity, and who determines the ethical boundaries of survival?"
-      },
-      "moral_slider": {
-        "question": "How do personal survival and spiritual principles intersect when facing extreme adversity?",
-        "left_label": "Personal Survival",
-        "right_label": "Spiritual Principles"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and survival shifted after examining David's actions?",
-        "options": [
-          "Recognize complexity of moral choices",
-          "Understand vulnerability of leaders",
-          "Appreciate strategic adaptation",
-          "Question absolute moral standards"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek divine guidance through prayer before making situational decisions",
           "Understand that context matters in ethical discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The servants of Achish said to him",
+            "ref": "vv. 11-12",
+            "speaker": "The servants of Achish"
+          },
+          {
+            "who": "David changed his behavior",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. The servants of Achish say you are the David they sing about in their dances, and you take it to heart. What would you weigh before you scratch on the doors of the gate and let your saliva run down your beard?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Matthew 12:3-4",
+        "summary": "The priest gives David the consecrated bread, since there is no other bread there (v. 6). In Matthew 12:3-4 Jesus says David entered the house of God and he and his companions ate the consecrated bread, which was lawful only for the priests.",
+        "question": "How does Jesus' account in Matthew 12:3-4 help you understand what the priest gave David in this chapter?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "David took these words to heart and was very much afraid of Achish the king of Gath",
+        "feeling": "anxiety, dread",
+        "object": "what powerful people say about me",
+        "behavior": "acting out of fear",
+        "step": "trust in God's protection",
+        "template": "from today I bring my {feeling:anxiety, dread} about {object:what powerful people say about me} into the light and instead of {behavior:acting out of fear}, I will {step:trust in God's protection}."
       }
     }
   }

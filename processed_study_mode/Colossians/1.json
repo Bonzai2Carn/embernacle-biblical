@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your current journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Election",
-            "expansion": "Understanding being chosen not by personal merit, but by God's sovereign grace."
-          },
-          {
-            "id": 2,
-            "text": "Transformative Hope",
-            "expansion": "Recognizing the power of heavenly hope to reshape present earthly perspective."
-          },
-          {
-            "id": 3,
-            "text": "Relational Intercession",
-            "expansion": "Experiencing the profound spiritual connection of praying consistently for fellow believers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If faith is a gift and not achieved, what does true spiritual humility actually require of us?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human responsibility?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Predetermined Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "More aware of God's initiating grace",
-          "Recognize interconnectedness of believers",
-          "Understand spiritual maturity as relational",
-          "See faith as transformative journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ's supremacy as metaphorical rather than literal",
           "Christ's universal lordship transcending human theological constructs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Paul says you were once alienated",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says you are now reconciled",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a Colossian who was once alienated from God and hostile in mind. What do you understand when you are told He has now reconciled you to present you holy, unblemished, and blameless?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Hebrews 1:2-3",
+        "summary": "Paul describes the Son as the image of the invisible God, the firstborn over all creation (v. 15). Hebrews says the Son is the radiance of God's glory and the exact representation of His nature.",
+        "question": "How does Hebrews 1:3 help you understand what it means that the Son is the image of the invisible God?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "in Him all things hold together",
+        "feeling": "anxiety, dread",
+        "object": "a crumbling situation",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His sustaining power",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a crumbling situation} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His sustaining power}."
       }
     }
   }

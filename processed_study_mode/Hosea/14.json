@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's unconditional love",
-            "expansion": "Divine love transcends human failures and offers complete redemption."
-          },
-          {
-            "id": 2,
-            "text": "Transformative repentance",
-            "expansion": "True return requires genuine heart change and abandonment of false securities."
-          },
-          {
-            "id": 3,
-            "text": "Healing of spiritual wounds",
-            "expansion": "God's restoration goes beyond forgiveness to comprehensive inner renewal."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mercy is freely given, what personal responsibility remains in one's spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do human weakness and divine strength interact in spiritual restoration?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Sufficiency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption evolved?",
-        "options": [
-          "Recognized complexity of spiritual transformation",
-          "Appreciated unconditional divine love",
-          "Understood personal accountability",
-          "Saw restoration as a mutual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Repentance is primarily a human effort with minimal divine involvement",
           "Spiritual healing happens independently of human choice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The people say",
+            "ref": "vv. 2-3",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of the people. You are told to return because of your stumbles. What do you understand about the specific words you must bring to Him?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Joel 2:12-13",
+        "summary": "Hosea calls for a return to the LORD with confessions (v. 2). Joel describes this same return as a tearing of the heart rather than just garments.",
+        "question": "How does Joel's call to return with a broken heart help you understand the confession the people must bring in Hosea?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "the ways of the LORD are right, and the righteous walk in them",
+        "feeling": "confusion, doubt",
+        "object": "a difficult decision",
+        "behavior": "seeking my own way",
+        "step": "align my steps with His word",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a difficult decision} and instead of {behavior:seeking my own way}, I will {step:align my steps with His word}."
       }
     }
   }

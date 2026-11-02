@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What profound insight strikes you about human endeavor and wisdom?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Human technological mastery",
-            "expansion": "Humans can penetrate darkness, extract hidden resources, and transform raw materials through ingenuity."
-          },
-          {
-            "id": "B",
-            "text": "Limits of human knowledge",
-            "expansion": "Despite incredible capabilities, true wisdom remains elusive and transcendent beyond human comprehension."
-          },
-          {
-            "id": "C",
-            "text": "Hidden mysteries of creation",
-            "expansion": "The earth contains profound secrets that humans can partially uncover but never fully understand."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If humans can mine the deepest earth and transform raw materials, why do we struggle to understand life's fundamental spiritual mysteries?"
-      },
-      "moral_slider": {
-        "question": "How do human technological achievements relate to spiritual wisdom?",
-        "left_label": "Technical Capability",
-        "right_label": "Spiritual Understanding"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of human knowledge?",
-        "options": [
-          "I see human capabilities as more limited",
-          "I'm more aware of wisdom beyond technical skills",
-          "I recognize the profound complexity of creation",
-          "I'm humbled by the mysteries surrounding human understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Scientific exploration can complement spiritual understanding",
           "Material achievements are irrelevant to spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Job describes the miner",
+            "ref": "vv. 9-10",
+            "speaker": ""
+          },
+          {
+            "who": "Job asks",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears how the miner's eyes spot every treasure, and then hears, \"But where can wisdom be found?\" What would you wonder?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Proverbs 2:6",
+        "summary": "The text says God understands the way of wisdom and knows its place (v. 23). Proverbs 2:6 says the LORD gives wisdom, and knowledge and understanding come from His mouth.",
+        "question": "Proverbs 2:6 says knowledge and understanding come from the LORD's mouth. How does this help you answer where wisdom dwells?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "practice",
+        "because": "the fear of the Lord is wisdom, and to turn away from evil is understanding",
+        "feeling": "anxiety, dread",
+        "object": "a difficult decision",
+        "behavior": "seeking shortcuts",
+        "step": "choose the path of integrity",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult decision} and instead of {behavior:seeking shortcuts}, I will {step:choose the path of integrity}."
       }
     }
   }

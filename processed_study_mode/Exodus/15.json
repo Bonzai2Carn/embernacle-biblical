@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most from this victory song?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Divine Intervention",
-            "expansion": "God actively participates in human struggles and liberates the oppressed."
-          },
-          {
-            "id": "B",
-            "text": "Communal Praise",
-            "expansion": "Collective worship emerges from shared transformative experiences."
-          },
-          {
-            "id": "C",
-            "text": "Theological Sovereignty",
-            "expansion": "The Lord demonstrates absolute power over human political systems."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might understanding divine victory differ when experienced by the oppressed versus the oppressors?"
-      },
-      "moral_slider": {
-        "question": "To what extent is divine intervention justified in human conflict?",
-        "left_label": "Non-Intervention",
-        "right_label": "Direct Deliverance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine action evolved?",
-        "options": [
-          "More nuanced view of divine justice",
-          "Increased appreciation for collective liberation",
-          "Deeper respect for spiritual resilience",
-          "Questioning historical interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Miraculous deliverance demonstrates God's sovereignty over systemic oppression",
           "Historical events reflect symbolic spiritual truths"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "Moses and the Israelites sing",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite singing with Moses. What do you understand when you sing that the LORD is highly exalted and has thrown the horse and rider into the sea?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Revelation 15:3",
+        "summary": "Moses sings of the LORD's victory over the sea and the enemy (vv. 1, 10). Revelation 15:3 pairs the song of Moses with the song of the Lamb and praises the works of God.",
+        "question": "How does the victory in Moses' song help you understand the song of Moses and of the Lamb in Revelation?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "the LORD is the strength and song of the one who praises Him",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "relying on my own power",
+        "step": "sing His praise aloud",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:relying on my own power}, I will {step:sing His praise aloud}."
       }
     }
   }

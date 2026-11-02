@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most resonates about Esau's genealogy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family complexity and legacy",
-            "expansion": "Esau's descendants reveal how intricate family histories can become across generations."
-          },
-          {
-            "id": 2,
-            "text": "Cultural preservation",
-            "expansion": "The detailed tribal listings demonstrate the importance of maintaining cultural and ancestral records."
-          },
-          {
-            "id": 3,
-            "text": "Divine narrative continuity",
-            "expansion": "Even in a genealogical chapter, God's broader covenant story continues through documented lineages."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do seemingly mundane genealogical records actually reveal profound spiritual truths about human inheritance and divine providence?"
-      },
-      "moral_slider": {
-        "question": "To what extent do familial conflicts shape generational destinies?",
-        "left_label": "Individual Agency",
-        "right_label": "Inherited Patterns"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical genealogy shifted?",
-        "options": [
-          "More appreciative of historical detail",
-          "Recognize deeper symbolic meanings",
-          "See genealogy as spiritual narrative",
-          "Understand cultural preservation importance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Provides historical context for later biblical interactions",
           "Reveals divine providence in national development"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Esau took his household and moved away",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Esau's place. You gather your wives, your sons, your daughters, your livestock, and all you acquired in Canaan. What do you weigh as you move far away from your brother Jacob?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Genesis 25:23",
+        "summary": "Esau's household and possessions grow so large that the land could not support them (v. 7). Earlier, God told Rebekah that two nations were in her womb and the older would serve the younger (Genesis 25:23).",
+        "question": "How does God's word to Rebekah help you understand the separate paths of Esau and Jacob in this chapter?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "remembrance",
+        "because": "Esau settled in the area of Mount Seir",
+        "feeling": "longing, regret",
+        "object": "a person I left behind",
+        "behavior": "looking backward",
+        "step": "acknowledge where God has placed me",
+        "template": "from today I let go of my {feeling:longing, regret} over {object:a person I left behind} and instead of {behavior:looking backward}, I will {step:acknowledge where God has placed me}."
       }
     }
   }

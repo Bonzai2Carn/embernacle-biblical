@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Christian community challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Systematic Generosity",
-            "expansion": "Intentional, planned giving transforms charity from sporadic emotion to disciplined spiritual practice."
-          },
-          {
-            "id": 2,
-            "text": "Mutual Accountability",
-            "expansion": "Authentic Christian relationships require transparency and mutual spiritual endorsement."
-          },
-          {
-            "id": 3,
-            "text": "Missional Collaboration",
-            "expansion": "Kingdom work transcends individual congregations, requiring strategic partnership."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal prosperity be a stewardship opportunity rather than a personal entitlement?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance personal resources and communal needs?",
-        "left_label": "Individual Retention",
-        "right_label": "Radical Generosity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian giving evolved?",
-        "options": [
-          "I now see giving as spiritual discipline",
-          "Community needs matter more than personal comfort",
-          "Generosity is an act of worship",
-          "Resources are ultimately God's, not mine"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Missional giving transcends local church boundaries",
           "Transparency and accountability are crucial in financial partnerships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Paul instructs about the collection",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer asked to give for the saints in Jerusalem. What would you weigh about setting something aside each week so that no collection is needed when Paul comes?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Romans 15:25-27",
+        "summary": "Paul asks each one to set aside a gift for the saints (vv. 1-2). Romans says that Macedonia and Achaia were pleased to contribute for the poor among the saints in Jerusalem.",
+        "question": "How does Paul's account of this gift in Romans 15:25-27 help you understand the collection he asks for here?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "each one should set aside a portion of his income, saving it up",
+        "feeling": "reluctance, impatience",
+        "object": "a request for money",
+        "behavior": "giving only when someone asks",
+        "step": "set aside a portion each week",
+        "template": "from today I let go of my {feeling:reluctance, impatience} over {object:a request for money} and instead of {behavior:giving only when someone asks}, I will {step:set aside a portion each week}."
       }
     }
   }

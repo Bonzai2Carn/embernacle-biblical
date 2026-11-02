@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about Christ's relationship to God resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ as Faithful Apostle",
-            "expansion": "Jesus embodies perfect obedience and representation of divine will."
-          },
-          {
-            "id": 2,
-            "text": "Christ Superior to Moses",
-            "expansion": "Jesus transcends historical leadership by being the actual creator of spiritual structures."
-          },
-          {
-            "id": 3,
-            "text": "Divine Builder of All Things",
-            "expansion": "Christ is not just a participant in creation, but the sovereign architect of reality itself."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Jesus is the builder of all things, what implications does this have for your understanding of personal agency and divine sovereignty?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human effort and divine grace?",
-        "left_label": "Human Performance",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual leadership changed?",
-        "options": [
-          "Sees leadership as service, not power",
-          "Recognizes divine appointment over human credentials",
-          "Values faithfulness over personal achievement",
-          "Understands spiritual authority comes from God"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moses was limited in authority, Christ has complete divine authority",
           "Moses pointed to the system, Christ is the fulfillment of the system"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the servants in God's house. How does the difference between a servant and a Son change how you view the house you belong to?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 95:7-11",
+        "summary": "The Holy Spirit quotes a warning about hearts hardening in the wilderness (vv. 7-11). The Psalmist records the same event to show how that generation failed to enter God's rest.",
+        "question": "How does the Psalmist's description of the people's failure help you understand the danger of having a heart of unbelief?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "sin's deceitfulness hardens us",
+        "feeling": "guilt, shame",
+        "object": "a recurring mistake",
+        "behavior": "hiding from others",
+        "step": "encourage a friend in the truth",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recurring mistake} and instead of {behavior:hiding from others}, I will {step:encourage a friend in the truth}."
       }
     }
   }

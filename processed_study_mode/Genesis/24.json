@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine providence resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intentional Matchmaking",
-            "expansion": "God orchestrates human connections with precise, loving intentionality beyond human perception."
-          },
-          {
-            "id": 2,
-            "text": "Generational Covenant Continuation",
-            "expansion": "Family inheritance and spiritual legacy transcend individual lifetimes through faithful obedience."
-          },
-          {
-            "id": 3,
-            "text": "Servant's Humble Faithfulness",
-            "expansion": "Authentic spiritual leadership emerges through quiet, prayerful submission rather than personal agenda."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine guidance appear differently when we release our predetermined expectations?"
-      },
-      "moral_slider": {
-        "question": "To what extent do cultural traditions shape or limit spiritual discernment?",
-        "left_label": "Cultural Constraint",
-        "right_label": "Spiritual Freedom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of subtle providential details",
-          "Recognize complexity of spiritual guidance",
-          "Appreciate role of human agency in divine plans",
-          "See interconnectedness of generational promises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Via human wisdom and discernment",
           "Through faithful prayer and spiritual sensitivity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The servant asked",
+            "ref": "v. 5",
+            "speaker": "The servant"
+          },
+          {
+            "who": "Abraham replied",
+            "ref": "v. 6",
+            "speaker": "Abraham"
+          }
+        ],
+        "question": "Put yourself in the servant's place, asking what if the woman is unwilling to follow you to this land. What would you weigh when Abraham answers that you must not take his son back there?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Proverbs 16:9",
+        "summary": "The servant prays for success at the well (vv. 12-14) and watches silently to see whether the LORD has made his trip a success (v. 21). Proverbs 16:9 says a man's heart plans his course, but the LORD determines his steps.",
+        "question": "How does Proverbs 16:9 help you understand the servant's prayer for success and his watching to see whether the LORD made his trip a success?"
+      },
+      "conviction": {
+        "verse": 48,
+        "frame": "remembrance",
+        "because": "the LORD led me on the right road",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult decision",
+        "behavior": "trying to control the outcome",
+        "step": "thank Him for His past faithfulness",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a difficult decision} and instead of {behavior:trying to control the outcome}, I will {step:thank Him for His past faithfulness}."
       }
     }
   }

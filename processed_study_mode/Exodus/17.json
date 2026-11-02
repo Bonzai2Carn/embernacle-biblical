@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from this chapter's narrative of struggle?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human vulnerability in wilderness",
-            "expansion": "Our fundamental human fragility becomes most apparent when basic needs like water are uncertain."
-          },
-          {
-            "id": 2,
-            "text": "Leadership under pressure",
-            "expansion": "Moses confronts persistent community frustration while simultaneously mediating divine guidance."
-          },
-          {
-            "id": 3,
-            "text": "Divine provision amid complaint",
-            "expansion": "Even when people murmur and doubt, God's compassionate response transcends human faithlessness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you feel most desperate, do you seek solutions or simply assign blame?"
-      },
-      "moral_slider": {
-        "question": "How do trust and complaint coexist in spiritual journeys?",
-        "left_label": "Complaint/Doubt",
-        "right_label": "Trust/Submission"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual challenges evolved?",
-        "options": [
-          "I understand struggle as part of growth",
-          "Leadership requires extraordinary patience",
-          "Divine provision is not dependent on human perfection",
-          "Community dynamics reveal deeper spiritual truths"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual growth often emerges through experiencing scarcity and dependence",
           "God uses leadership challenges to refine communal trust"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people grumbled against Moses",
+            "ref": "v. 3",
+            "speaker": "The people"
+          },
+          {
+            "who": "Moses cried out to the LORD",
+            "ref": "v. 4",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in Moses's place. The people accuse you of leading them out of Egypt to die of thirst. What would you say to the LORD when they are ready to stone you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 78:15-16",
+        "summary": "The LORD tells Moses to strike the rock at Horeb, and water will come out for the people to drink (v. 6). Psalm 78 recalls God splitting rocks in the wilderness to give the people abundant water.",
+        "question": "How does the psalmist's memory of water from split rocks help you understand the people's question, 'Is the LORD among us or not?' (v. 7)?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the Israelites asked whether the LORD is among us or not",
+        "feeling": "doubt, distrust",
+        "object": "a dry season",
+        "behavior": "grumbling against those who lead me",
+        "step": "name one way He has provided",
+        "template": "from today I entrust my {feeling:doubt, distrust} about {object:a dry season} to God and instead of {behavior:grumbling against those who lead me}, I will {step:name one way He has provided}."
       }
     }
   }

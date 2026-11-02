@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which detail in the tabernacle's construction speaks most profoundly to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The precise measurements of curtains",
-            "expansion": "Divine precision reveals God's meticulous care in relationship with humanity"
-          },
-          {
-            "id": 2,
-            "text": "The intricate cherubim designs",
-            "expansion": "Symbolic representations of heavenly beings demonstrate the spiritual dimensions of worship"
-          },
-          {
-            "id": 3,
-            "text": "The layers of craftsmanship",
-            "expansion": "Human skill becomes a conduit for divine communication and presence"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God values such exacting architectural details for a dwelling place, what might that suggest about the intentionality of your own inner spiritual 'construction'?"
-      },
-      "moral_slider": {
-        "question": "How do human creativity and divine instruction intersect in sacred design?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Prescription"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship space evolved after examining these instructions?",
-        "options": [
-          "More appreciative of symbolic representation",
-          "Recognize deeper spiritual significance in physical design",
-          "Understand worship as intentional, not casual",
-          "See divine communication through craftsmanship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals symbolic representation of spiritual transformation",
           "Provides metaphorical framework for understanding redemptive process"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 33,
+        "exchange": [
+          {
+            "who": "The LORD instructs",
+            "ref": "v. 33",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelite entering the tent. What does this specific division in the fabric show you about the rooms inside the tent?"
+      },
+      "chain": {
+        "after": 34,
+        "ref": "Hebrews 9:3-4",
+        "summary": "Exodus 26 details the physical layers and the veil that separated the Holy Place from the Most Holy Place (v. 33). Hebrews describes the same structure and the items kept within it.",
+        "question": "Hebrews lists the items found inside this structure. How does knowing what was behind the veil change how you view the curtain described here?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "practice",
+        "because": "the tabernacle is set up according to the pattern shown on the mountain",
+        "feeling": "anxiety, confusion",
+        "object": "a new responsibility",
+        "behavior": "trying to invent my own way",
+        "step": "follow the instructions I have been given",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a new responsibility} and instead of {behavior:trying to invent my own way}, I will {step:follow the instructions I have been given}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment and mercy speaks most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus protecting the woman caught in adultery",
-            "expansion": "Mercy triumphs over legalistic condemnation through compassionate understanding."
-          },
-          {
-            "id": 2,
-            "text": "Jesus declaring 'I am the light of the world'",
-            "expansion": "Divine revelation exposes human darkness while offering transformative illumination."
-          },
-          {
-            "id": 3,
-            "text": "Challenging the religious leaders' spiritual lineage",
-            "expansion": "True spiritual identity emerges from authentic relationship, not inherited status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If truth sets us free, what invisible chains might we not realize are constraining our understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do divine justice and human compassion intersect?",
-        "left_label": "Strict Judgment",
-        "right_label": "Radical Grace"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your previous assumptions about righteousness?",
-        "options": [
-          "I see judgment differently",
-          "I understand grace more deeply",
-          "I recognize spiritual blindness more clearly",
-          "I appreciate Jesus' radical approach to human brokenness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenges religious legalism through compassion",
           "Establishes personal accountability without condemnation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The scribes and Pharisees ask",
+            "ref": "v. 5",
+            "speaker": "The scribes and Pharisees"
+          },
+          {
+            "who": "Jesus answers",
+            "ref": "v. 7",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the crowd, hearing that the Law commands stoning such a woman. What would you weigh about the call to let the one without sin cast the first stone?"
+      },
+      "chain": {
+        "after": 58,
+        "ref": "Exodus 3:14",
+        "summary": "Jesus says, before Abraham was born, I am (v. 58). Exodus records God telling Moses, I AM WHO I AM, and telling him to say that I AM has sent him (Exodus 3:14).",
+        "question": "How does Exodus 3:14 help you understand Jesus' claim, before Abraham was born, I am?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "repair",
+        "because": "Jesus does not condemn the woman, and tells her to go and sin no more",
+        "feeling": "shame, self-condemnation",
+        "object": "a past failure I keep replaying",
+        "behavior": "judging myself harshly",
+        "step": "walk one faithful step away from sin",
+        "template": "from today I turn from my {feeling:shame, self-condemnation} toward {object:a past failure I keep replaying} and instead of {behavior:judging myself harshly}, I will {step:walk one faithful step away from sin}."
       }
     }
   }

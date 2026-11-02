@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which genealogical thread speaks most profoundly about human legacy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family Continuity",
-            "expansion": "Genealogies reveal how identity is transmitted across generations through bloodline and covenant."
-          },
-          {
-            "id": 2,
-            "text": "Individual Achievement",
-            "expansion": "Each name represents potential stories of personal transformation and individual significance."
-          },
-          {
-            "id": 3,
-            "text": "Communal Persistence",
-            "expansion": "The survival of tribal lineages demonstrates collective resilience through historical challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do names and ancestral records reveal more about human dignity than mere biological succession?"
-      },
-      "moral_slider": {
-        "question": "To what extent do familial origins determine personal destiny?",
-        "left_label": "Predetermined",
-        "right_label": "Self-Determined"
-      },
-      "reevaluation": {
-        "question": "How has exploring these genealogical records shifted your understanding of human narrative?",
-        "options": [
-          "I see deeper interconnectedness",
-          "I recognize individual agency within collective history",
-          "I appreciate the complexity of human lineage",
-          "I understand historical continuity differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,35 @@
           "As evidence of Israel's cultural commitment to familial record-keeping",
           "As prophetic indicators of messianic lineage and divine plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Jabez's mother said",
+            "ref": "v. 9",
+            "speaker": "Jabez's Mother"
+          },
+          {
+            "who": "Jabez called out to the God of Israel",
+            "ref": "v. 10",
+            "speaker": "Jabez"
+          }
+        ],
+        "question": "Put yourself in Jabez's place. Your mother bore you in pain, and you call out to the God of Israel. What does your prayer tell you about how you see Him?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "God granted the request of Jabez",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "withdrawing from others",
+        "step": "ask for His hand to be with me",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:withdrawing from others}, I will {step:ask for His hand to be with me}."
       }
     }
   }

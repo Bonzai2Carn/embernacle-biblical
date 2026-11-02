@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Friendship's true depth",
-            "expansion": "Jonathan risks his relationship with his father to protect David, revealing loyalty beyond familial expectations."
-          },
-          {
-            "id": 2,
-            "text": "Betrayal and trust",
-            "expansion": "David fears Saul's hidden intentions, demonstrating the fragile nature of political and personal relationships."
-          },
-          {
-            "id": 3,
-            "text": "Divine providence",
-            "expansion": "The covenant between David and Jonathan suggests a higher spiritual purpose guiding their connection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal loyalties challenge our understanding of institutional authority?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal loyalty override familial or institutional expectations?",
-        "left_label": "Individual Loyalty",
-        "right_label": "Institutional Duty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of friendship and sacrifice changed?",
-        "options": [
-          "Recognizing deeper levels of commitment",
-          "Understanding risks of true loyalty",
-          "Seeing beyond immediate self-interest",
-          "Appreciating complex relational dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine purpose can be revealed through unconventional relationships",
           "True friendship transcends potential personal risk"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 34,
+        "exchange": [
+          {
+            "who": "Saul hurled his spear at Jonathan to kill him",
+            "ref": "v. 33",
+            "speaker": ""
+          },
+          {
+            "who": "Jonathan got up from the table in fierce anger",
+            "ref": "v. 34",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jonathan's place. Your father hurls his spear at you, and you know he is determined to kill David. You get up from the table in fierce anger and eat nothing that day. What are you grieving?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "John 15:13",
+        "summary": "Jonathan loves David as himself and enters a covenant to protect him (v. 17). Jesus defines the highest form of this love through the sacrifice of a life.",
+        "question": "How does Jesus' definition of love help you weigh the cost of the devotion Jonathan shows to David?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "trust",
+        "because": "the two of us have sworn in the name of the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a promise between friends",
+        "behavior": "doubting my friend's loyalty",
+        "step": "keep my word to him",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a promise between friends} to God and instead of {behavior:doubting my friend's loyalty}, I will {step:keep my word to him}."
       }
     }
   }

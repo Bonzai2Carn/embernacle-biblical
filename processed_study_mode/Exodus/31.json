@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine gifting most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's specific calling of individuals",
-            "expansion": "Divine purpose is uniquely tailored to personal capacities and community needs."
-          },
-          {
-            "id": 2,
-            "text": "The Spirit's empowerment of practical skills",
-            "expansion": "Spiritual gifts aren't limited to religious vocations but encompass creative and technical abilities."
-          },
-          {
-            "id": 3,
-            "text": "Intentional mentorship and generational wisdom",
-            "expansion": "Leadership and skill transfer occur through deliberate recognition and nurturing of potential."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God explicitly names and equips individuals for specific tasks, what might this reveal about the nature of human potential and divine orchestration?"
-      },
-      "moral_slider": {
-        "question": "How do personal talents intersect with spiritual calling?",
-        "left_label": "Individual Achievement",
-        "right_label": "Divine Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual gifts and vocational purpose shifted?",
-        "options": [
-          "I see skills as more divinely integrated",
-          "I recognize the importance of community-focused talents",
-          "I understand calling as more holistic",
-          "I appreciate the complexity of spiritual empowerment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Only religious vocations represent genuine spiritual service",
           "Skills are developed independently, with potential spiritual application"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD commands",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing this. The Sabbath is a sign that the LORD sanctifies you, and anyone who works on it is cut off from his people. What do you take from this sign, and what do you still wonder about the penalty?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Corinthians 12:4-7",
+        "summary": "The LORD fills Bezalel with the Spirit of God, with skill, ability, and knowledge in all kinds of craftsmanship (v. 3). Paul writes that there are different gifts but the same Spirit, and that the Spirit's gift to each one is for the common good (1 Corinthians 12:4-7).",
+        "question": "How does Paul's teaching that different gifts come from the same Spirit help you understand Bezalel's craftsmanship being filled by the Spirit of God?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the Sabbath is a sign that the LORD sanctifies you",
+        "feeling": "anxiety, restlessness",
+        "object": "a busy work week",
+        "behavior": "checking my phone during rest",
+        "step": "set aside time for quiet",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a busy work week} and instead of {behavior:checking my phone during rest}, I will {step:set aside time for quiet}."
       }
     }
   }

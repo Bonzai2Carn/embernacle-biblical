@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual vigilance most resonates with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Contending for the faith",
-            "expansion": "Defending spiritual truth requires active commitment and discernment."
-          },
-          {
-            "id": "b",
-            "text": "Recognizing false teachers",
-            "expansion": "Spiritual maturity involves distinguishing authentic from counterfeit spiritual leadership."
-          },
-          {
-            "id": "c",
-            "text": "Being 'preserved in Christ'",
-            "expansion": "Divine protection is a profound promise of grace and security."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do subtle compromises in doctrine potentially erode the foundations of genuine faith?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between passive acceptance and active spiritual discernment?",
-        "left_label": "Passive Acceptance",
-        "right_label": "Active Discernment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity evolved?",
-        "options": [
-          "More aware of spiritual deception",
-          "More committed to scriptural truth",
-          "More compassionate toward spiritual seekers",
-          "More cautious about religious leadership"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize unity over theological precision",
           "Develop a comprehensive understanding of core Christian doctrines"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Jude says certain men have crept in and turned grace into a license",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Jude turns to the beloved",
+            "ref": "vv. 20-21",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the beloved readers. You hear that certain men have turned grace into a license for immorality. What do you weigh when you are told to keep yourselves in the love of God, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "John 10:28-29",
+        "summary": "Jude tells the beloved to keep themselves in the love of God while they await mercy (v. 21). Jesus says the ones He gives eternal life will never perish, and no one can snatch them out of His hand (John 10:28-29).",
+        "question": "How does Jesus' promise that no one can snatch them out of His hand help you understand the call to keep yourselves in God's love?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "repair",
+        "because": "mercy is to be shown to those who doubt",
+        "feeling": "impatience, contempt",
+        "object": "a friend who questions",
+        "behavior": "writing them off",
+        "step": "pray for them by name",
+        "template": "from today I turn from my {feeling:impatience, contempt} toward {object:a friend who questions} and instead of {behavior:writing them off}, I will {step:pray for them by name}."
       }
     }
   }

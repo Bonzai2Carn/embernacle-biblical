@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply in David's plea for integrity?",
-        "choices": [
-          {
-            "id": "integrity",
-            "text": "Personal Moral Integrity",
-            "expansion": "David's profound commitment to living authentically before God, rejecting deceit and hypocrisy."
-          },
-          {
-            "id": "trust",
-            "text": "Unconditional Divine Trust",
-            "expansion": "David's unwavering confidence in God's judgment and redemptive capacity despite personal struggles."
-          },
-          {
-            "id": "separation",
-            "text": "Spiritual Separation from Wickedness",
-            "expansion": "David's deliberate stance to distance himself from malevolent influences and maintain spiritual purity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If moral innocence is subjective, how can one truly claim righteousness before an omniscient divine standard?"
-      },
-      "moral_slider": {
-        "question": "How do personal intentions balance with actual behavioral outcomes in spiritual accountability?",
-        "left_label": "Intention",
-        "right_label": "Action"
-      },
-      "reevaluation": {
-        "question": "How might this psalm transform your understanding of personal spiritual accountability?",
-        "options": [
-          "Recognize the complexity of moral integrity",
-          "Understand divine judgment differently",
-          "Reflect more deeply on personal motivations",
-          "Appreciate the nuance of spiritual self-examination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine acceptance depends on moral consistency",
           "Spiritual authenticity transcends personal moral achievements"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are preparing to approach the altar. What is the purpose of your cleansing, and what is the purpose of your voice?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 15:1-2",
+        "summary": "The psalmist asks to be tested and says he has walked in the LORD's truth (vv. 2-3). Psalm 15:1-2 asks who may dwell on God's holy mountain and answers with the one who walks with integrity and speaks truth from his heart.",
+        "question": "How does Psalm 15:1-2 help you understand the psalmist's plea to be examined?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "I will walk with integrity",
+        "feeling": "shame, guilt",
+        "object": "a past mistake",
+        "behavior": "hiding from others",
+        "step": "walk in the light",
+        "template": "from today I bring You my {feeling:shame, guilt} about {object:a past mistake} and instead of {behavior:hiding from others}, I will {step:walk in the light}."
       }
     }
   }

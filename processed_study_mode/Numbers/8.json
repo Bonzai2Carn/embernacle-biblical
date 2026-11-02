@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Precision in Instruction",
-            "expansion": "God provides exact blueprints for spiritual preparation and worship."
-          },
-          {
-            "id": 2,
-            "text": "Intentional Craftsmanship",
-            "expansion": "Each spiritual instrument reflects careful, deliberate divine design."
-          },
-          {
-            "id": 3,
-            "text": "Obedience in Detail",
-            "expansion": "Faithful execution requires attending to every specific divine commandment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might meticulous spiritual instructions reveal something about the nature of divine communication?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between ritual compliance and spiritual authenticity?",
-        "left_label": "Mechanical Obedience",
-        "right_label": "Heartfelt Worship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline evolved?",
-        "options": [
-          "More appreciative of precise instructions",
-          "Recognize symbolic significance of ritual",
-          "Value intentionality over mechanical performance",
-          "See deeper connection between divine design and human implementation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine instructions reveal deeper spiritual principles",
           "Symbolic representations communicate transcendent truths"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites watching this ceremony. What would you weigh when you hear that the Levites will be separated from the rest of the Israelites and belong to the LORD, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Exodus 19:6",
+        "summary": "The LORD takes the Levites for Himself in place of all the firstborn of Israel (v. 16). Exodus 19:6 says that Israel will be a kingdom of priests and a holy nation to the LORD.",
+        "question": "How does the calling of the whole nation in Exodus 19:6 help you understand why the Levites were set apart from the rest?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "the Levites purified themselves and washed their clothes",
+        "feeling": "guilt, shame",
+        "object": "a recent failure",
+        "behavior": "hiding from God",
+        "step": "approach His presence with honesty",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recent failure} and instead of {behavior:hiding from God}, I will {step:approach His presence with honesty}."
       }
     }
   }

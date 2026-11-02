@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Guidance",
-            "expansion": "Seeking wisdom from spiritual mentors shapes transformative leadership."
-          },
-          {
-            "id": 2,
-            "text": "National Restoration",
-            "expansion": "Strategic rebuilding can renew a nation's spiritual and economic infrastructure."
-          },
-          {
-            "id": 3,
-            "text": "Personal Accountability",
-            "expansion": "Spiritual pride can ultimately undermine even the most successful leadership journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does personal ambition become spiritual arrogance?"
-      },
-      "moral_slider": {
-        "question": "How do human achievements relate to divine authorization?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Recognizing the importance of humility",
-          "Understanding consequences of overstepping boundaries",
-          "Appreciating divine guidance over personal agenda",
-          "Seeing leadership as a sacred responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Consistent humility is essential for sustained spiritual growth",
           "Institutional roles have inherent spiritual boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Uzziah's devices spread his fame and made him powerful",
+            "ref": "v. 15",
+            "speaker": ""
+          },
+          {
+            "who": "Uzziah grew powerful and his arrogance led to his destruction",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Uzziah's place. You are famous and powerful because you were helped tremendously. Then you enter the temple of the LORD to burn incense on the altar of incense. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "James 4:6",
+        "summary": "Uzziah grows powerful, and his arrogance leads to his own destruction (v. 16). James 4:6 says God opposes the proud but gives grace to the humble.",
+        "question": "How does James 4:6 help you understand the arrogance that led Uzziah to his own destruction?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "as long as Uzziah sought the LORD, God gave him success",
+        "feeling": "self-reliance, pride",
+        "object": "my own achievements",
+        "behavior": "taking all the credit",
+        "step": "acknowledge God as the source",
+        "template": "from today I let go of my {feeling:self-reliance, pride} over {object:my own achievements} and instead of {behavior:taking all the credit}, I will {step:acknowledge God as the source}."
       }
     }
   }

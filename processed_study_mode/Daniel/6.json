@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Daniel's character in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Integrity under political pressure",
-            "expansion": "Daniel maintained his spiritual commitments despite potential career consequences."
-          },
-          {
-            "id": 2,
-            "text": "Consistency in spiritual discipline",
-            "expansion": "His prayer routine remained unchanged even when threatened with death."
-          },
-          {
-            "id": 3,
-            "text": "Trust in divine protection",
-            "expansion": "Daniel's faith remained unshaken when facing the lion's den."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal convictions survive when institutional power seeks to compromise them?"
-      },
-      "moral_slider": {
-        "question": "What matters more: personal integrity or institutional survival?",
-        "left_label": "Compromise",
-        "right_label": "Principle"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith and courage shifted?",
-        "options": [
-          "Faith requires active resistance",
-          "Integrity transcends personal safety",
-          "Divine protection operates beyond human understanding",
-          "Spiritual discipline shapes character under pressure"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Revealing that authentic faith requires courageous, non-compromising commitment",
           "Illustrating divine protection for those who prioritize relationship with God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The administrators and satraps said",
+            "ref": "v. 5",
+            "speaker": "The administrators and satraps"
+          },
+          {
+            "who": "Daniel learned the document had been signed and prayed as he had done before",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Daniel's place. You learn that the document has been signed. Do you change your routine to stay safe, or do you keep praying three times a day as you did before?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Psalm 34:7",
+        "summary": "Daniel is physically protected because he trusted his God (v. 23). The psalmist describes the same protection as an angel guarding those who fear Him.",
+        "question": "How does the psalmist's description of God's protection help you understand the reality of Daniel's experience in the den?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "Daniel had trusted in his God",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "doubting God's presence",
+        "step": "rely on His faithfulness",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult season} to God and instead of {behavior:doubting God's presence}, I will {step:rely on His faithfulness}."
       }
     }
   }

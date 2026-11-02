@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Message Preservation",
-            "expansion": "God ensures His word endures beyond immediate political circumstances"
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Confrontation",
-            "expansion": "Speaking truth to power requires courage and spiritual integrity"
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Spiritual Rejection",
-            "expansion": "Persistent refusal to heed divine warnings leads to inevitable judgment"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine communication is repeatedly ignored, at what point does mercy transform into justice?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and prophetic responsibility intersect?",
-        "left_label": "Personal Safety",
-        "right_label": "Prophetic Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophecy shifted?",
-        "options": [
-          "Prophecy is more about transformation than prediction",
-          "Divine messages require human cooperation",
-          "Spiritual truth transcends political power",
-          "Accountability is inherent in revelation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic messages cannot be ultimately suppressed",
           "God preserves His Word despite human opposition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Jehudi read the scroll",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Jehoiakim cut the columns away and burned them",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the officials watching the fire. As Jehudi reads three or four columns, the king cuts them off and throws them into the firepot until the whole scroll is consumed. What would you weigh as you watch?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "2 Timothy 3:16-17",
+        "summary": "Jehoiakim cuts the scroll and burns it column by column as Jehudi reads it (v. 23). Paul says all Scripture is God-breathed and useful for instruction and correction (2 Timothy 3:16-17).",
+        "question": "How does 2 Timothy 3:16-17 help you value the words the king burned in this chapter?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the LORD hopes that when the people of Judah hear of the calamity, each will turn from his wicked way, and then He will forgive",
+        "feeling": "indifference, apathy",
+        "object": "the warnings in my life",
+        "behavior": "ignoring the truth",
+        "step": "listen and change",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the warnings in my life} and instead of {behavior:ignoring the truth}, I will {step:listen and change}."
       }
     }
   }

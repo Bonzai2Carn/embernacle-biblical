@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Job's response to God?",
-        "choices": [
-          {
-            "id": "humility",
-            "text": "Job's profound humility",
-            "expansion": "Recognizing human limitations compared to divine understanding transforms perspective."
-          },
-          {
-            "id": "silence",
-            "text": "Job chooses silence over argument",
-            "expansion": "Wisdom sometimes means acknowledging one's inability to comprehend fully."
-          },
-          {
-            "id": "acknowledgment",
-            "text": "Job admits his own unworthiness",
-            "expansion": "True spiritual growth begins with authentic self-recognition."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When confronted with overwhelming complexity, how do you distinguish between legitimate questioning and prideful contention?"
-      },
-      "moral_slider": {
-        "question": "How do human beings balance seeking understanding with accepting mystery?",
-        "left_label": "Demanding Explanation",
-        "right_label": "Embracing Mystery"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your previous understanding of divine interaction?",
-        "options": [
-          "I see God as more direct than before",
-          "I recognize human limitations more clearly",
-          "I understand spiritual humility differently",
-          "I'm more comfortable with unanswered questions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Acknowledging God's sovereignty leads to deeper spiritual wisdom",
           "Suffering can be a pathway to profound theological insight"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Job answered the LORD",
+            "ref": "v. 4",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. The Almighty asks the one who argues with Him to give an answer. What would you weigh about placing your hand over your mouth, or about having something left to say?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Romans 9:20-21",
+        "summary": "The LORD asks Job if he intends to condemn God to justify himself (v. 8). Paul uses the imagery of a potter and clay to address the same question of human standing before God.",
+        "question": "How does Paul's description of the potter's authority help you weigh the LORD's challenge to Job?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "surrender",
+        "because": "I am insignificant and cannot reply to Him",
+        "feeling": "defensiveness, pride",
+        "object": "my need to be right",
+        "behavior": "arguing my point",
+        "step": "place my hand over my mouth",
+        "template": "from today I release my {feeling:defensiveness, pride} over {object:my need to be right} and instead of {behavior:arguing my point}, I will {step:place my hand over my mouth}."
       }
     }
   }

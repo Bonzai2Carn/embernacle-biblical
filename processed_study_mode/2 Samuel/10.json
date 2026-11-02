@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which key insight resonates most from this diplomatic encounter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Misunderstanding can rapidly escalate conflict",
-            "expansion": "Misperceptions between leaders can quickly transform potential diplomacy into warfare"
-          },
-          {
-            "id": 2,
-            "text": "Intentions can be easily misconstrued",
-            "expansion": "David's genuine attempt at kindness was grotesquely misinterpreted by Ammonite leadership"
-          },
-          {
-            "id": 3,
-            "text": "Collective honor drives strategic decisions",
-            "expansion": "Both David and the Ammonites responded to perceived threats to their collective dignity"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does a gesture of goodwill become indistinguishable from a potential threat?"
-      },
-      "moral_slider": {
-        "question": "How do cultural differences impact diplomatic interpretation?",
-        "left_label": "Misunderstanding",
-        "right_label": "Intentional Provocation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on diplomatic communication shifted?",
-        "options": [
-          "I see how quickly peaceful intentions can be misread",
-          "Cultural context matters more than literal communication",
-          "Leadership requires extraordinary emotional intelligence",
-          "Conflict often stems from fear and insecurity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize that human intentions can be misinterpreted",
           "Trust in God's ultimate control over geopolitical events"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 2",
+            "speaker": "David"
+          },
+          {
+            "who": "the princes of the Ammonites said",
+            "ref": "v. 3",
+            "speaker": "Ammonites"
+          }
+        ],
+        "question": "Put yourself in the place of the Ammonite princes. You see a gesture of kindness from David, but you suspect a hidden motive. How does your suspicion change how you view his messengers?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Proverbs 21:31",
+        "summary": "Joab urges the men to fight bravely and asks that the LORD do what is good in His sight (v. 12). Proverbs 21:31 says a horse is prepared for the day of battle, but victory is of the LORD.",
+        "question": "How does Proverbs 21:31 help you understand Joab's words in v. 12?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "the LORD may do what is good in His sight",
+        "feeling": "anxiety, dread",
+        "object": "a difficult confrontation",
+        "behavior": "trying to control the outcome",
+        "step": "act bravely in my duty",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult confrontation} to God and instead of {behavior:trying to control the outcome}, I will {step:act bravely in my duty}."
       }
     }
   }

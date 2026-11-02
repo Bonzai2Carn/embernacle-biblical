@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most resonates with your understanding of spiritual preparedness?",
-        "choices": [
-          {
-            "id": "destruction",
-            "text": "The temple's inevitable destruction",
-            "expansion": "Recognizing that human institutions, no matter how grand, are ultimately transient."
-          },
-          {
-            "id": "tribulation",
-            "text": "The coming tribulations and spiritual challenges",
-            "expansion": "Understanding that faith requires resilience through periods of profound testing."
-          },
-          {
-            "id": "vigilance",
-            "text": "The call to constant spiritual alertness",
-            "expansion": "Embracing the need for perpetual spiritual readiness and discernment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine knowledge transcends human timelines, what does your anticipation of prophetic events reveal about your deeper spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do you balance understanding prophetic warnings with maintaining spiritual peace?",
-        "left_label": "Anxiety about Future Events",
-        "right_label": "Peaceful Trust in Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual preparedness shifted?",
-        "options": [
-          "More aware of spiritual vulnerability",
-          "Increased commitment to personal faith",
-          "Recognizing the importance of discernment",
-          "Understanding the cyclical nature of spiritual challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Dynamic, contextually adaptive understanding",
           "Combination of historical and futuristic perspectives"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "One of His disciples said to Him",
+            "ref": "v. 1",
+            "speaker": "One of His disciples"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 2",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the disciples' place, admiring the magnificent stones and buildings. How does Jesus' answer change how you view what is permanent and what is passing?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Matthew 24:1-51",
+        "summary": "Jesus says that not one stone will be left on another (v. 2). Matthew 24:2 has the same words, and in Matthew 24:3 the disciples ask Him when these things will happen.",
+        "question": "How does Matthew's account of the disciples' question help you understand Jesus' words about the stones in Mark 13:2?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "heaven and earth will pass away, but My words will never pass away",
+        "feeling": "anxiety, fear",
+        "object": "the changing world around me",
+        "behavior": "clinging to temporary things",
+        "step": "rest in His unchanging promises",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the changing world around me} and instead of {behavior:clinging to temporary things}, I will {step:rest in His unchanging promises}."
       }
     }
   }

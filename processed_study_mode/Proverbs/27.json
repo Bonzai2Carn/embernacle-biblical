@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which wisdom insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Do not boast about tomorrow",
-            "expansion": "Humility recognizes human limitations and divine sovereignty over future events."
-          },
-          {
-            "id": 2,
-            "text": "Open rebuke is better than hidden love",
-            "expansion": "Authentic relationships require honest confrontation over comfortable silence."
-          },
-          {
-            "id": 3,
-            "text": "A fool's wrath is heavier than stones",
-            "expansion": "Emotional volatility creates more destructive weight than physical burdens."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current pride be blinding you to wisdom's subtle corrections?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance personal confidence with spiritual humility?",
-        "left_label": "Self-Assertion",
-        "right_label": "Divine Dependence"
-      },
-      "reevaluation": {
-        "question": "How has reflecting on these proverbs shifted your perspective?",
-        "options": [
-          "More aware of emotional reactivity",
-          "Increased appreciation for honest feedback",
-          "Recognizing personal limitations",
-          "Valuing wisdom over personal pride"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understand emotions as opportunities for spiritual growth and self-reflection",
           "Seek divine wisdom in managing personal reactions and expectations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The writer says",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears that an open rebuke is better than concealed love, and that a friend's wounds are faithful while an enemy's kisses are deceitful. What would you understand about which one to trust?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Proverbs 15:31",
+        "summary": "A friend's wounds are faithful, and an open rebuke is better than hidden love (vv. 5-6). Proverbs 15:31 says the one who listens to life-giving reproof will dwell among the wise.",
+        "question": "How does Proverbs 15:31 help you understand the value of the rebuke in Proverbs 27:5-6?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "pacing",
+        "because": "you do not know what a day may bring",
+        "feeling": "overconfidence, restlessness",
+        "object": "my plans for tomorrow",
+        "behavior": "boasting about what I will do",
+        "step": "hold my plans loosely this week",
+        "template": "from today I set down my {feeling:overconfidence, restlessness} about {object:my plans for tomorrow} and instead of {behavior:boasting about what I will do}, I will {step:hold my plans loosely this week}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core principle of wisdom resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Integrity over Appearance",
-            "expansion": "True character matters more than superficial success or eloquence."
-          },
-          {
-            "id": 2,
-            "text": "Knowledge as Moral Compass",
-            "expansion": "Wisdom prevents moral missteps and provides spiritual navigation."
-          },
-          {
-            "id": 3,
-            "text": "Character Determines Trajectory",
-            "expansion": "Personal choices fundamentally shape one's life path and spiritual journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wealth creates temporary friends, what truly sustains authentic human connection?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and divine judgment intersect?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Accountability"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your understanding of success?",
-        "options": [
-          "Redefining personal worth",
-          "Questioning material metrics",
-          "Emphasizing character development",
-          "Recognizing spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Accountability is a fundamental spiritual principle",
           "Integrity emerges from transformed inner character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hurries forward with great zeal. What do you understand about what zeal without knowledge does to your steps?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Romans 10:2",
+        "summary": "Proverbs 19 says zeal without knowledge is no good, and the one who hurries his steps misses the mark (v. 2). Romans 10:2 says some are zealous for God, but not on the basis of knowledge.",
+        "question": "How does Romans 10:2 help you understand why zeal needs knowledge to reach its mark?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "surrender",
+        "because": "the one who listens to counsel and accepts discipline will be wise the rest of his days",
+        "feeling": "stubbornness, pride",
+        "object": "a correction from a leader",
+        "behavior": "dismissing the advice",
+        "step": "write down one piece of counsel",
+        "template": "from today I release my {feeling:stubbornness, pride} over {object:a correction from a leader} and instead of {behavior:dismissing the advice}, I will {step:write down one piece of counsel}."
       }
     }
   }

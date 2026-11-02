@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's direct intervention through Elijah",
-            "expansion": "Divine communication transcends human political and religious structures."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of seeking false spiritual guidance",
-            "expansion": "Idolatry leads to spiritual disconnection and potential destruction."
-          },
-          {
-            "id": 3,
-            "text": "The prophet's confrontational communication style",
-            "expansion": "Prophetic messaging often challenges comfortable societal norms through stark, uncompromising truth."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you face uncertainty, do you seek wisdom from authentic spiritual sources or convenient, culturally acceptable alternatives?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and personal accountability intersect?",
-        "left_label": "Individual Freedom",
-        "right_label": "Spiritual Consequence"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of spiritual discernment?",
-        "options": [
-          "Recognizing genuine spiritual authority",
-          "Understanding consequences of spiritual misdirection",
-          "Appreciating direct divine communication",
-          "Examining personal spiritual motivations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic voices remain critical for spiritual accountability",
           "Human attempts to circumvent God's will ultimately fail"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Ahaziah sent messengers to inquire of Baal-zebub",
+            "ref": "v. 2",
+            "speaker": "Ahaziah"
+          },
+          {
+            "who": "The LORD asked if there is no God in Israel",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the king's messengers. You are on your way to inquire of Baal-zebub, the god of Ekron. What would you weigh when the LORD asks whether there is no God in Israel?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Exodus 20:3",
+        "summary": "Ahaziah sends messengers to inquire of Baal-zebub, the god of Ekron (v. 2). Exodus 20:3 says, You shall have no other gods before Me.",
+        "question": "How does the command to have no other gods help you understand the weight of the LORD's question about Baal-zebub in verse 3?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "trust",
+        "because": "the angel of the LORD told Elijah not to be afraid of the captain",
+        "feeling": "anxiety, dread",
+        "object": "a person's opposition",
+        "behavior": "withdrawing from the conflict",
+        "step": "face the truth with courage",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a person's opposition} to God and instead of {behavior:withdrawing from the conflict}, I will {step:face the truth with courage}."
       }
     }
   }

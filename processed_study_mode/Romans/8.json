@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative idea about spiritual freedom resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Freedom from condemnation",
-            "expansion": "Christ's redemption completely dissolves our spiritual guilt and shame."
-          },
-          {
-            "id": "2",
-            "text": "Walking by the Spirit",
-            "expansion": "Our daily choices can align with divine empowerment instead of human limitation."
-          },
-          {
-            "id": "3",
-            "text": "God's adoptive love",
-            "expansion": "We are transformed from slaves to beloved children in God's family."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the Spirit truly sets us free, why do we often still feel spiritually enslaved?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate between personal effort and divine grace?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Enablement"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "I see grace more comprehensively",
-          "I understand my role in spiritual growth differently",
-          "I recognize my dependence on divine power",
-          "I feel more hopeful about personal change"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation is a gradual, synergistic process",
           "Divine sovereignty exclusively determines spiritual change"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 32,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "v. 31",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answers",
+            "ref": "v. 32",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer facing opposition. What does God's past action toward His Son prove about His current stance toward you?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Galatians 5:1",
+        "summary": "Paul says there is now no condemnation for those who are in Christ Jesus (v. 1). Galatians 5:1 says it is for freedom that Christ has set us free, and tells us to stand firm and not be encumbered once more by a yoke of slavery.",
+        "question": "How does Galatians 5:1 help you understand what it means that there is now no condemnation for those in Christ Jesus?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "trust",
+        "because": "nothing in all creation will be able to separate us from the love of God",
+        "feeling": "anxiety, dread",
+        "object": "a changing circumstance",
+        "behavior": "clinging to my own security",
+        "step": "rest in His unchanging love",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a changing circumstance} to God and instead of {behavior:clinging to my own security}, I will {step:rest in His unchanging love}."
       }
     }
   }

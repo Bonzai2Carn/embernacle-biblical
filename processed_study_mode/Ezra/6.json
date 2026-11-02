@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine restoration speaks most to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Persistence through political obstacles",
-            "expansion": "God's purposes transcend human bureaucracy and temporal challenges."
-          },
-          {
-            "id": 2,
-            "text": "Recovered historical mandate",
-            "expansion": "Remembering and honoring original divine instructions can realign a community's trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Communal celebration of restoration",
-            "expansion": "Collective joy and worship emerge when a community reconnects with its spiritual foundations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external political decrees intersect with internal spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between divine sovereignty and human agency?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical spiritual resilience shifted?",
-        "options": [
-          "I now see divine purpose as more persistent",
-          "Political contexts matter more than I previously understood",
-          "Community restoration requires both external support and internal commitment",
-          "Historical memory is crucial for spiritual renewal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical events reveal God's continuous redemptive strategy",
           "Divine plans transcend human political limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Darius ordered a search",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Darius decreed",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Tattenai the governor. You hear the king ordered a search of the archives. Then you receive his decree: stay away from that place. What would you weigh about the place you are told to stay away from?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Proverbs 21:1",
+        "summary": "Darius sends a decree that the work on God's house must not be hindered and that its costs be paid in full (v. 8). Proverbs says the king's heart is a waterway in the hand of the LORD, who directs it where He pleases (Prov 21:1).",
+        "question": "How does Proverbs 21:1 help you understand the decree Darius sends to the governors?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "repair",
+        "because": "the work on the house of God is to be left alone",
+        "feeling": "resentment, jealousy",
+        "object": "a colleague's project",
+        "behavior": "meddling in what is not mine",
+        "step": "encourage someone else's work this week",
+        "template": "from today I turn from my {feeling:resentment, jealousy} toward {object:a colleague's project} and instead of {behavior:meddling in what is not mine}, I will {step:encourage someone else's work this week}."
       }
     }
   }

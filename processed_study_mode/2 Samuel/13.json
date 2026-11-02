@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply from this chapter about family dysfunction?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family trauma perpetuates cycles of violence",
-            "expansion": "Abuse and revenge can create generational wounds that ripple through family systems"
-          },
-          {
-            "id": 2,
-            "text": "Power can corrupt familial relationships",
-            "expansion": "Positional authority without moral restraint leads to destructive behaviors"
-          },
-          {
-            "id": 3,
-            "text": "Silence and inaction enable further harm",
-            "expansion": "David's passive response after Amnon's rape of Tamar perpetuated further violence"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do familial loyalties conflict with moral responsibilities when confronting systemic harm?"
-      },
-      "moral_slider": {
-        "question": "Where does justice intersect with familial mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of family dynamics shifted?",
-        "options": [
-          "Recognized complexity of intrafamilial conflict",
-          "Understood power differentials more deeply",
-          "Saw importance of immediate intervention",
-          "Recognized long-term psychological impacts of abuse"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual counseling and community support",
           "Strict legal/ecclesiastical consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Tamar pleaded",
+            "ref": "v. 12",
+            "speaker": "Tamar"
+          },
+          {
+            "who": "The narrator reports Amnon's refusal",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Tamar's place, pleading that such a thing should never be done in Israel. What do you understand when he refuses to listen, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Galatians 5:19-21",
+        "summary": "Amnon violates Tamar and then hates her (vv. 14-15). Galatians 5:19-21 lists sexual immorality, hatred, jealousy and rage among the acts of the flesh, and says those who practice such things will not inherit the kingdom of God.",
+        "question": "How does Galatians 5:19-21 help you name what drives Amnon in vv. 14-15?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "exposure",
+        "because": "Amnon refused to listen to Tamar and violated her",
+        "feeling": "selfishness, lust",
+        "object": "my own desires",
+        "behavior": "ignoring the needs of others",
+        "step": "listen with empathy",
+        "template": "from today I bring my {feeling:selfishness, lust} about {object:my own desires} into the light and instead of {behavior:ignoring the needs of others}, I will {step:listen with empathy}."
       }
     }
   }

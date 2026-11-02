@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment descends on spiritual complacency",
-            "expansion": "God challenges ritualistic worship that lacks genuine spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Human wisdom is ultimately limited",
-            "expansion": "Intellectual pride blinds people to deeper spiritual realities."
-          },
-          {
-            "id": 3,
-            "text": "Restoration follows divine correction",
-            "expansion": "God's judgment is ultimately redemptive, not merely punitive."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do your religious practices distinguish themselves from mere mechanical ritual?"
-      },
-      "moral_slider": {
-        "question": "To what extent do external religious performances reflect internal spiritual authenticity?",
-        "left_label": "Ritual Performance",
-        "right_label": "Spiritual Sincerity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual devotion shifted?",
-        "options": [
-          "Recognized deeper spiritual complexity",
-          "Challenged my previous assumptions about worship",
-          "Understood divine correction as loving guidance",
-          "Seen the limitations of intellectual understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's commitment to His covenant promises",
           "Judgment demonstrates the inevitability of divine justice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The Lord says",
+            "ref": "v. 13",
+            "speaker": "The Lord"
+          },
+          {
+            "who": "The Lord says",
+            "ref": "v. 14",
+            "speaker": "The Lord"
+          }
+        ],
+        "question": "Put yourself in the place of those who honor God with their lips but keep their hearts far from Him. What does the Lord's response tell you about how He handles empty worship?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "2 Corinthians 3:14-16",
+        "summary": "Isaiah describes a day when the deaf will hear the words of the scroll and the blind will see (v. 18). Paul describes a similar veil over the hearts of those who read the old covenant, which is removed only in Christ.",
+        "question": "How does Paul's description of the veil help you understand the spiritual blindness described in Isaiah?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "exposure",
+        "because": "the pottery cannot say of the potter that he has no understanding",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own plans",
+        "behavior": "trying to control the outcome",
+        "step": "submit my will to His",
+        "template": "from today I bring my {feeling:pride, self-sufficiency} about {object:my own plans} into the light and instead of {behavior:trying to control the outcome}, I will {step:submit my will to His}."
       }
     }
   }

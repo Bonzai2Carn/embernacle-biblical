@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of territorial negotiation most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Conditional Land Settlement",
-            "expansion": "The tribes negotiate their inheritance based on mutual commitment to collective warfare."
-          },
-          {
-            "id": 2,
-            "text": "Community Accountability",
-            "expansion": "Moses demands full tribal participation before land allocation is approved."
-          },
-          {
-            "id": 3,
-            "text": "Strategic Livestock Management",
-            "expansion": "Recognizing optimal grazing lands demonstrates pragmatic tribal decision-making."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do individual tribal desires balance against the collective journey and covenant of Israel?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal prosperity compromise communal mission?",
-        "left_label": "Individual Interests",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of commitment and promise have shifted?",
-        "options": [
-          "Deeper appreciation for negotiated agreements",
-          "Recognize complexity of tribal autonomy",
-          "Understand importance of shared national purpose",
-          "Value conditional promise-keeping"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence transcends human strategic planning",
           "Tribal autonomy must ultimately submit to broader covenant purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The Gadites and Reubenites said",
+            "ref": "v. 5",
+            "speaker": "The Gadites and Reubenites"
+          },
+          {
+            "who": "Moses asked",
+            "ref": "v. 6",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the tribes asking for this land. Moses asks whether your brothers must go to war while you sit here. What do you weigh more heavily: the land you asked for, or the fight your brothers face?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Joshua 1:12-15",
+        "summary": "Moses warns that failing to keep this promise is a sin against the LORD, and that the sin will find them out (v. 23). Joshua tells the Reubenites, Gadites, and half-tribe of Manasseh to cross over armed ahead of their brothers and help them until the LORD gives them rest (vv. 14-15).",
+        "question": "How does Joshua 1:12-15 help you understand the promise these tribes made to Moses?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "practice",
+        "because": "the Gadites and Reubenites said they would do just as their lord commands",
+        "feeling": "distrust, doubt",
+        "object": "a difficult instruction",
+        "behavior": "arguing my own way",
+        "step": "obey with a willing heart",
+        "template": "from today I let go of my {feeling:distrust, doubt} over {object:a difficult instruction} and instead of {behavior:arguing my own way}, I will {step:obey with a willing heart}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Consequences of Persistent Disobedience",
-            "expansion": "Israel's repeated rejection of God's covenant leads to systematic national punishment."
-          },
-          {
-            "id": 2,
-            "text": "Geopolitical Instruments of Divine Will",
-            "expansion": "Assyria becomes an unwitting tool in executing God's judgment against Israel's systemic corruption."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Syncretism's Destructive Nature",
-            "expansion": "Mixing worship practices and abandoning pure devotion ultimately leads to national disintegration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine patience has limits, what transformative moments might prevent a culture's spiritual collapse?"
-      },
-      "moral_slider": {
-        "question": "How do national sins intersect with individual spiritual responsibility?",
-        "left_label": "Collective Guilt",
-        "right_label": "Personal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine judgment shifted?",
-        "options": [
-          "More nuanced understanding of consequences",
-          "Increased appreciation for spiritual consistency",
-          "Recognize complexity of historical theological dynamics",
-          "Deeper respect for covenant relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment represents God's redemptive discipline toward restoration",
           "Consequences expose human spiritual rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The author explains",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The Israelites practiced",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites, the people the LORD brought out of Egypt. Looking back at the path you walked, which gods and customs would you name as the cause of your trouble?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Galatians 6:7",
+        "summary": "The Israelites pursued worthless idols and became worthless themselves (v. 15). Paul warns that a person reaps exactly what they sow.",
+        "question": "How does Paul's warning help you understand the spiritual state of the people in Samaria?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "devotion",
+        "because": "the LORD your God will deliver you from the hands of all your enemies",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "looking for other comforts",
+        "step": "worship Him alone",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:looking for other comforts}, I will {step:worship Him alone}."
       }
     }
   }

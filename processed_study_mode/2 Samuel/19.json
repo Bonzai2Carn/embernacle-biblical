@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which key theme resonates most from David's restoration?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mercy over Vengeance",
-            "expansion": "David chooses reconciliation with former opponents instead of retribution."
-          },
-          {
-            "id": 2,
-            "text": "Leadership through Humility",
-            "expansion": "David's emotional vulnerability demonstrates authentic leadership during complex political transitions."
-          },
-          {
-            "id": 3,
-            "text": "Forgiveness as Political Strategy",
-            "expansion": "Extending grace becomes a powerful mechanism for national reunification."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal grief simultaneously obstruct and enable national healing?"
-      },
-      "moral_slider": {
-        "question": "How do personal emotions balance against national responsibilities?",
-        "left_label": "Personal Emotion",
-        "right_label": "Public Duty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "Leadership requires emotional intelligence",
-          "Vulnerability can be a strength",
-          "Forgiveness is a strategic choice",
-          "Political reconciliation is complex"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's providence operates through imperfect human leaders",
           "Mercy triumphs over strict judicial punishment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Joab said to the king",
+            "ref": "v. 5",
+            "speaker": "Joab"
+          },
+          {
+            "who": "The king got up and sat in the gate",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the king's place. Your commander says you have disgraced the servants who saved your life and the lives of your family. What would you weigh before you go out to meet them?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Proverbs 16:32",
+        "summary": "Abishai asks whether Shimei should die, and David asks whether any man should be put to death in Israel today, then tells Shimei he shall not die (vv. 21-23). Proverbs 16:32 says he who is slow to anger is better than a warrior, and he who controls his temper is greater than one who captures a city.",
+        "question": "How does Proverbs 16:32 help you weigh David's words to Shimei in vv. 22-23?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "surrender",
+        "because": "the king has set his servant among those who eat at his table",
+        "feeling": "bitterness, resentment",
+        "object": "a person who wronged me",
+        "behavior": "demanding my rights",
+        "step": "accept what is given",
+        "template": "from today I release my {feeling:bitterness, resentment} over {object:a person who wronged me} and instead of {behavior:demanding my rights}, I will {step:accept what is given}."
       }
     }
   }

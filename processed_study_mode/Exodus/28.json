@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of priestly consecration most resonates with spiritual transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sacred Clothing as Identity",
-            "expansion": "Garments represent external manifestation of internal spiritual calling and divine purpose."
-          },
-          {
-            "id": 2,
-            "text": "Careful Craftsmanship of Holiness",
-            "expansion": "Meticulous design reflects God's precision in selecting and preparing spiritual leaders."
-          },
-          {
-            "id": 3,
-            "text": "Community-Recognized Spiritual Authority",
-            "expansion": "Consecration involves both divine selection and communal acknowledgment of leadership."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leadership is divinely appointed, what responsibilities emerge beyond personal righteousness?"
-      },
-      "moral_slider": {
-        "question": "How do external symbols of spiritual authority balance humility and divine calling?",
-        "left_label": "Individual Humility",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Recognize complexity of spiritual authority",
-          "Appreciate symbolic representation of calling",
-          "Understand intersection of divine selection and human preparation",
-          "Recognize leadership as communal responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals the need for sanctification and spiritual preparation",
           "Prefigures Christ's ultimate high priestly role"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 29",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are Aaron entering the Holy Place. What does it mean to carry the names of the people over your heart as a continual reminder?"
+      },
+      "chain": {
+        "after": 36,
+        "ref": "1 Peter 2:9",
+        "summary": "The LORD has a gold plate engraved HOLY TO THE LORD made for Aaron (v. 36). Peter calls the people of God a royal priesthood and a holy nation.",
+        "question": "How does Peter calling the people of God a royal priesthood and a holy nation help you understand the words HOLY TO THE LORD on Aaron's plate?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "practice",
+        "because": "the gold plate shall always be on Aaron's forehead, so that the sons of Israel may be acceptable before the LORD",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach His presence with confidence",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:approach His presence with confidence}."
       }
     }
   }

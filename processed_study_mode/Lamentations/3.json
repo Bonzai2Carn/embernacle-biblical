@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional experience resonates most deeply in this passage of profound suffering?",
-        "choices": [
-          {
-            "id": "isolation",
-            "text": "Complete Spiritual Isolation",
-            "expansion": "The sense of being utterly abandoned by God, experiencing darkness without any light of hope."
-          },
-          {
-            "id": "vulnerability",
-            "text": "Total Human Fragility",
-            "expansion": "The body and spirit broken, revealing the profound weakness of human existence against divine sovereignty."
-          },
-          {
-            "id": "persistence",
-            "text": "Resilience Through Suffering",
-            "expansion": "The underlying strength to still acknowledge God's potential mercy even in the depths of despair."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine discipline feels like destruction, how might one discern between punishment and transformative suffering?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the boundary between divine justice and divine compassion?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering evolved through this text?",
-        "options": [
-          "Suffering is purely punitive",
-          "Suffering can be redemptive",
-          "Divine relationship is complex and mysterious",
-          "Personal perspective matters more than theological interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God is distant and uninvolved during human pain",
           "Suffering reveals opportunities for deeper spiritual intimacy with God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The speaker remembers",
+            "ref": "vv. 19-20",
+            "speaker": ""
+          },
+          {
+            "who": "The speaker calls this to mind",
+            "ref": "vv. 21-22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one remembering bitter wormwood and gall, with your soul humbled. Then you say, Yet I call this to mind, and therefore I have hope: because of the loving devotion of the LORD we are not consumed. What do you weigh in that turn?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Psalm 103:8",
+        "summary": "The lamenter finds hope in the mercies that never fail (v. 22). The Psalmist describes the nature of that same God, noting He is slow to anger and abounding in love.",
+        "question": "How does knowing God is slow to anger help you trust the mercies described in this chapter?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "the LORD is my portion",
+        "feeling": "anxiety, dread",
+        "object": "a season of affliction",
+        "behavior": "searching for other comforts",
+        "step": "wait quietly for Him",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a season of affliction} and instead of {behavior:searching for other comforts}, I will {step:wait quietly for Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of praise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Praise",
-            "expansion": "The psalm calls all nations to praise God, suggesting a transcendent, inclusive divine relationship."
-          },
-          {
-            "id": 2,
-            "text": "God's Enduring Love",
-            "expansion": "The psalm emphasizes God's steadfast love as a fundamental reason for universal worship."
-          },
-          {
-            "id": 3,
-            "text": "Brevity of Sacred Message",
-            "expansion": "This is the shortest psalm, demonstrating that profound spiritual truth can be expressed concisely."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is universal, what fundamental human experience might transcend cultural and historical boundaries?"
-      },
-      "moral_slider": {
-        "question": "How do individual human experiences relate to universal divine love?",
-        "left_label": "Personal Limitation",
-        "right_label": "Cosmic Connectivity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of praise changed?",
-        "options": [
-          "More globally inclusive",
-          "More emotionally authentic",
-          "More theologically nuanced",
-          "More personally meaningful"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,35 @@
           "Praise is limited to specific religious contexts",
           "Divine faithfulness is conditional upon human performance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the nations and peoples being called to praise. You hear the command to extol the LORD, and then the reason: His loving devotion toward us is great and His faithfulness endures forever. What reason do you weigh most when you are asked to join in?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "trust",
+        "because": "the LORD's loving devotion toward us is great, and His faithfulness endures forever",
+        "feeling": "doubt, weariness",
+        "object": "a season that feels endless",
+        "behavior": "questioning whether He still cares",
+        "step": "name one way He was faithful this week",
+        "template": "from today I bring You my {feeling:doubt, weariness} about {object:a season that feels endless} and instead of {behavior:questioning whether He still cares}, I will {step:name one way He was faithful this week}."
       }
     }
   }

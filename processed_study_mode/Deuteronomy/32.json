@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine characteristic in this passage resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as the perfect, unchanging Rock",
-            "expansion": "Divine stability represents an anchor amidst human uncertainty and moral flux."
-          },
-          {
-            "id": 2,
-            "text": "God's absolute justice",
-            "expansion": "The theological concept that divine judgment emerges from perfect, unbiased moral assessment."
-          },
-          {
-            "id": 3,
-            "text": "God's generative teaching method",
-            "expansion": "The metaphor of divine instruction as nurturing rain suggests organic, life-giving spiritual knowledge."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine perfection exists, how do you reconcile human imperfection within a covenantal relationship?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human frailty coexist with divine expectation?",
-        "left_label": "Total Human Weakness",
-        "right_label": "Divine Transformative Power"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine relationship shifted?",
-        "options": [
-          "I see more complexity in spiritual accountability",
-          "I recognize divine patience more deeply",
-          "I understand covenant as a dynamic, evolving process",
-          "I perceive human fallibility with greater compassion"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's mercy completely negates the need for judgment",
           "Judgment and mercy are complementary aspects of God's character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Moses asks",
+            "ref": "v. 6",
+            "speaker": "Moses"
+          },
+          {
+            "who": "Moses describes",
+            "ref": "vv. 10-11",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the people being questioned. How does the memory of how God carried you change your view of your own rebellion?"
+      },
+      "chain": {
+        "after": 39,
+        "ref": "Isaiah 40:27-31",
+        "summary": "The LORD declares that He brings death and gives life, wounds and heals, and no one can deliver from His hand (v. 39). Isaiah says the everlasting God gives power to the faint and renews the strength of those who wait on Him (Isaiah 40:28-31).",
+        "question": "How does Isaiah 40:27-31 help you understand the power of the LORD that verse 39 describes?"
+      },
+      "conviction": {
+        "verse": 47,
+        "frame": "practice",
+        "because": "these words are your life",
+        "feeling": "indifference, boredom",
+        "object": "reading the scriptures",
+        "behavior": "skimming through the pages",
+        "step": "meditate on one verse",
+        "template": "from today I let go of my {feeling:indifference, boredom} over {object:reading the scriptures} and instead of {behavior:skimming through the pages}, I will {step:meditate on one verse}."
       }
     }
   }

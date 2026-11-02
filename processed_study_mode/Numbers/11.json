@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human dissatisfaction most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Complaining against divine provision",
-            "expansion": "People often critique blessings they've already received, revealing deep psychological ingratitude."
-          },
-          {
-            "id": 2,
-            "text": "Leadership's emotional burnout",
-            "expansion": "Moses demonstrates the profound psychological toll of leading a challenging community."
-          },
-          {
-            "id": 3,
-            "text": "Collective spiritual restlessness",
-            "expansion": "The Israelites' desire for variety reveals fundamental human discontentment with current circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does perceived scarcity reshape our perception of past abundance?"
-      },
-      "moral_slider": {
-        "question": "Where do legitimate human needs intersect with spiritual trust?",
-        "left_label": "Human Desire",
-        "right_label": "Divine Sufficiency"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on gratitude have shifted?",
-        "options": [
-          "Recognizing the complexity of human emotional needs",
-          "Understanding leadership's emotional vulnerability",
-          "Seeing spiritual growth as a non-linear process",
-          "Appreciating the tension between human wants and divine provision"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Complaining can limit spiritual breakthrough",
           "God's mercy transcends human weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Moses asked the LORD",
+            "ref": "v. 11",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The LORD answered Moses",
+            "ref": "v. 23",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Moses's place. You feel the weight of all these people and ask why this trouble has come upon you. What do you weigh when you hear, 'Is the LORD's arm too short?' and what do you still wonder about?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Joel 2:28-29",
+        "summary": "The LORD takes Spirit from Moses and places it on seventy elders so they can help him bear the burden (v. 17). Joel describes a time when God pours His Spirit out on all people, regardless of age or status.",
+        "question": "How does the widespread outpouring in Joel help you understand the specific Spirit the LORD placed on the elders in the camp?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "devotion",
+        "because": "Moses wished that all the LORD's people were prophets",
+        "feeling": "jealousy, resentment",
+        "object": "someone else's gift",
+        "behavior": "criticizing their success",
+        "step": "rejoice in their blessing",
+        "template": "from today I let go of my {feeling:jealousy, resentment} over {object:someone else's gift} and instead of {behavior:criticizing their success}, I will {step:rejoice in their blessing}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional layer of suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Undeserved Suffering",
-            "expansion": "The psalmist wrestles with experiencing divine rejection despite faithfulness."
-          },
-          {
-            "id": 2,
-            "text": "Communal Lament",
-            "expansion": "The poem expresses collective national pain and spiritual disorientation."
-          },
-          {
-            "id": 3,
-            "text": "Theological Wrestle",
-            "expansion": "There's a profound questioning of God's apparent abandonment during national crisis."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If faithfulness does not guarantee divine protection, what truly defines the relationship between humans and God?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human suffering?",
-        "left_label": "Random Chaos",
-        "right_label": "Purposeful Design"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of faith?",
-        "options": [
-          "Faith is not about guaranteed outcomes",
-          "Suffering can coexist with devotion",
-          "Honest questioning is a form of spiritual integrity",
-          "Divine silence is part of spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Theological interpretations must balance historical remembrance with present experience",
           "Lament is a legitimate and biblical form of spiritual communication"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "The psalmist complains",
+            "ref": "vv. 9-11",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist pleads",
+            "ref": "v. 26",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among a people scattered by defeat. You hear that God has rejected and humbled you. What do you understand when you pray, 'Redeem us on account of Your loving devotion'?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Romans 8:35-39",
+        "summary": "The psalmist says that for God's sake we face death all day long and are considered sheep to be slaughtered (v. 22). Paul quotes this same line in Romans 8:36 and says that nothing, including death, can separate us from the love of God in Christ Jesus.",
+        "question": "How does Romans 8:35-39 help you understand the psalmist's words about being considered sheep to be slaughtered (v. 22)?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "trust",
+        "because": "we can ask God to redeem us on account of His loving devotion",
+        "feeling": "despair, hopelessness",
+        "object": "a season of silence",
+        "behavior": "withdrawing from prayer",
+        "step": "ask for His help",
+        "template": "from today I bring You my {feeling:despair, hopelessness} about {object:a season of silence} and instead of {behavior:withdrawing from prayer}, I will {step:ask for His help}."
       }
     }
   }

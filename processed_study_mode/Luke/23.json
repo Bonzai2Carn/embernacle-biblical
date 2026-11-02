@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jesus' crucifixion most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus' silence before accusers",
-            "expansion": "Profound strength emerges through dignified non-resistance."
-          },
-          {
-            "id": 2,
-            "text": "The criminal's redemption",
-            "expansion": "Grace transcends human judgment and timing."
-          },
-          {
-            "id": 3,
-            "text": "The supernatural darkness",
-            "expansion": "Divine suffering manifests through cosmic and spiritual upheaval."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might Jesus' response to suffering reveal more about power than weakness?"
-      },
-      "moral_slider": {
-        "question": "Where do divine justice and human mercy intersect?",
-        "left_label": "Strict Judgment",
-        "right_label": "Radical Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on sacrifice and redemption shifted?",
-        "options": [
-          "I see suffering differently",
-          "Forgiveness seems more profound",
-          "Divine love appears more complex",
-          "Human nature feels more nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Salvation is accessible to all, regardless of past actions",
           "Suffering can be a transformative pathway to spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Pilate said",
+            "ref": "v. 22",
+            "speaker": "Pilate"
+          },
+          {
+            "who": "Pilate released",
+            "ref": "v. 25",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Pilate's place. You have said that you found in this man no offense worthy of death. What do you weigh when you release Barabbas and hand Jesus over to their will?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "1 Peter 2:23",
+        "summary": "Herod questions Jesus at length, but He gives no answer (v. 9). First Peter 2:23 says that when Jesus was abused, He did not retaliate, and that He entrusted Himself to the One who judges justly.",
+        "question": "How does 1 Peter 2:23 help you understand why Jesus gives no answer to Herod in Luke 23:9?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "repair",
+        "because": "Jesus asked the Father to forgive the people crucifying Him, for they do not know what they are doing",
+        "feeling": "bitterness, resentment",
+        "object": "people who wrong me",
+        "behavior": "demanding they pay for what they did",
+        "step": "pray for them by name",
+        "template": "from today I turn from my {feeling:bitterness, resentment} toward {object:people who wrong me} and instead of {behavior:demanding they pay for what they did}, I will {step:pray for them by name}."
       }
     }
   }

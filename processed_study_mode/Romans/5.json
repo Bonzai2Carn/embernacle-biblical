@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative idea about suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tribulation produces perseverance",
-            "expansion": "Suffering is not random, but a potential pathway for spiritual refinement and growth."
-          },
-          {
-            "id": 2,
-            "text": "Peace with God through faith",
-            "expansion": "Justification creates a fundamental relational shift from alienation to intimate connection."
-          },
-          {
-            "id": 3,
-            "text": "God's love poured into our hearts",
-            "expansion": "Divine love is an experiential reality, not just a theological concept."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering refines character, does that mean all suffering has inherent spiritual value, or are some experiences merely destructive?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human responsibility in personal transformation?",
-        "left_label": "Passive Acceptance",
-        "right_label": "Active Cooperation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "Suffering is no longer just painful, but potentially purposeful",
-          "Faith feels more dynamic and interactive",
-          "I see character development as a spiritual process",
-          "God's love seems more personally tangible"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Trials represent a direct challenge to faith and must be avoided",
           "Suffering reveals God's love through refining believers' spiritual resilience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The text describes a rare human occurrence",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "God proves His love for us",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a sinner. Even a good person might inspire someone to die for them, yet Christ died for you while you were still a sinner. What does this reveal about the nature of His love?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Ephesians 2:8-9",
+        "summary": "Paul says we have been justified through faith and have peace with God (v. 1). Ephesians 2:8-9 says salvation is by grace through faith, a gift of God and not by works.",
+        "question": "How does the absence of works in Ephesians 2:8-9 help you understand being justified through faith in Romans 5:1?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "suffering produces perseverance",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "complaining about every trial",
+        "step": "look for what is being built in me",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:complaining about every trial}, I will {step:look for what is being built in me}."
       }
     }
   }

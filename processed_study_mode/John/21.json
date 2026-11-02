@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight from Jesus' resurrection encounter resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Restoration of Broken Relationships",
-            "expansion": "Jesus intentionally reconciles with Peter after his denial, demonstrating divine grace transcends human failure."
-          },
-          {
-            "id": 2,
-            "text": "Purpose Beyond Circumstance",
-            "expansion": "The disciples return to fishing, but Jesus redirects them toward a higher calling of spiritual leadership."
-          },
-          {
-            "id": 3,
-            "text": "Intimate Divine Knowledge",
-            "expansion": "Christ's omniscient recognition of the disciples' unsuccessful fishing symbolizes His deep understanding of human struggles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of personal failure limit your understanding of divine redemption?"
-      },
-      "moral_slider": {
-        "question": "What determines spiritual leadership: past performance or present willingness?",
-        "left_label": "Past Disqualification",
-        "right_label": "Present Surrender"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of restoration?",
-        "options": [
-          "Recognized divine grace supersedes human weakness",
-          "Understood leadership emerges from brokenness",
-          "Appreciated Christ's personalized redemption",
-          "Saw beyond literal circumstances to spiritual metaphors"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership is earned through humility",
           "Spiritual calling supersedes personal weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Simon Peter announces",
+            "ref": "v. 3",
+            "speaker": "Simon Peter"
+          },
+          {
+            "who": "Jesus tells them",
+            "ref": "v. 6",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the disciples' place. You went out fishing and caught nothing that night. What would you weigh about casting the net on the right side when Jesus tells you to?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "1 Peter 5:2",
+        "summary": "Jesus tells Peter three times to feed and shepherd His sheep (vv. 15-17). Peter tells the elders to shepherd God's flock willingly, not under compulsion and not out of greed (1 Peter 5:2).",
+        "question": "How does 1 Peter 5:2 help you understand what it means to feed His sheep?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "pacing",
+        "because": "another disciple's path is not Peter's concern, and Peter must follow Jesus",
+        "feeling": "envy, comparison",
+        "object": "a friend's different calling",
+        "behavior": "asking why their path looks easier",
+        "step": "follow Jesus on my own path",
+        "template": "from today I set down my {feeling:envy, comparison} about {object:a friend's different calling} and instead of {behavior:asking why their path looks easier}, I will {step:follow Jesus on my own path}."
       }
     }
   }

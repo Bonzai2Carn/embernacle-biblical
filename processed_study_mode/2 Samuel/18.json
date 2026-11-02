@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about leadership and conflict in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "David's compassionate concern for Absalom",
-            "expansion": "Even amid rebellion, a father's heart remains tender toward a wayward child."
-          },
-          {
-            "id": 2,
-            "text": "Military strategy and division of troops",
-            "expansion": "Careful leadership involves strategic planning and distributing responsibilities."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of familial betrayal",
-            "expansion": "Internal conflicts can destroy families and kingdoms more thoroughly than external enemies."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal emotions conflict with leadership responsibilities, how do you determine the most ethical course of action?"
-      },
-      "moral_slider": {
-        "question": "How do loyalty and justice balance when confronting familial rebellion?",
-        "left_label": "Unconditional Family Love",
-        "right_label": "Necessary Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership complexity shifted?",
-        "options": [
-          "Leadership requires emotional restraint",
-          "Personal relationships complicate strategic decisions",
-          "Consequences are often unpredictable",
-          "Mercy and justice are in constant tension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine mercy can interrupt cyclical familial patterns",
           "Individual accountability transcends inherited tendencies"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people pleaded",
+            "ref": "v. 3",
+            "speaker": "The people"
+          },
+          {
+            "who": "David replied",
+            "ref": "v. 4",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place. Your men say you are worth ten thousand of them and beg you to stay in the city. What would you weigh before you answer them?"
+      },
+      "chain": {
+        "after": 32,
+        "ref": "Proverbs 17:25",
+        "summary": "The king goes up to the gate chamber and weeps, crying out for his son Absalom (v. 33). Proverbs 17:25 says a foolish son brings grief to his father and bitterness to her who bore him.",
+        "question": "How does Proverbs 17:25 help you understand the king's cry in v. 33?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "exposure",
+        "because": "the king was shaken and went up to the gate chamber and wept",
+        "feeling": "sorrow, grief",
+        "object": "a painful loss",
+        "behavior": "repressing my pain",
+        "step": "bring my true heart to God",
+        "template": "from today I bring my {feeling:sorrow, grief} about {object:a painful loss} into the light and instead of {behavior:repressing my pain}, I will {step:bring my true heart to God}."
       }
     }
   }

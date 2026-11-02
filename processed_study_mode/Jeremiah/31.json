@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core truth of divine restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Unconditional Love",
-            "expansion": "Divine love transcends human failure and remains constant despite generational brokenness."
-          },
-          {
-            "id": 2,
-            "text": "Promised Restoration",
-            "expansion": "The promise of rebuilding implies that no spiritual devastation is beyond divine redemption."
-          },
-          {
-            "id": 3,
-            "text": "New Covenant Potential",
-            "expansion": "God offers a transformative internal covenant written not on stone, but on human hearts."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is truly unconditional, what prevents perpetual human spiritual stagnation?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy intersect in spiritual restoration?",
-        "left_label": "Strict Judgment",
-        "right_label": "Boundless Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine restoration evolved?",
-        "options": [
-          "Recognized complexity of spiritual renewal",
-          "Understood love as an active, transformative force",
-          "Appreciated divine patience with human weakness",
-          "Saw restoration as a collaborative process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation is a sovereign act of God, not solely human initiative",
           "The new covenant represents a radical redefinition of spiritual relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Ephraim moaned",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 20",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Ephraim, who says, 'You disciplined me severely, like an untrained calf. Restore me.' You then hear, 'Is not Ephraim a precious son to Me, a delightful child?' What would you still wonder?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Ezekiel 36:26",
+        "summary": "The LORD promises a new covenant where His law is written on the heart (v. 33). Ezekiel describes the internal change that makes this law possible.",
+        "question": "How does the promise of a new heart in Ezekiel help you understand the purpose of the law written on the hearts of Israel?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "remembrance",
+        "because": "the LORD will forgive the iniquities of His people and remember their sins no more",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "replaying my mistakes",
+        "step": "accept the mercy shown to me",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:replaying my mistakes}, I will {step:accept the mercy shown to me}."
       }
     }
   }

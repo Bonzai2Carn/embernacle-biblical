@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty beyond human institutions",
-            "expansion": "The ark's power transcends cultural and political boundaries, demonstrating divine authority."
-          },
-          {
-            "id": 2,
-            "text": "The futility of idolatry",
-            "expansion": "Dagon's repeated collapse reveals the emptiness of human-crafted religious symbols."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of treating divine presence casually",
-            "expansion": "The Philistines' cavalier handling of the ark leads to profound spiritual and physical consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence manifests in unexpected ways, how might our assumptions about spiritual power be fundamentally challenged?"
-      },
-      "moral_slider": {
-        "question": "How does divine judgment interact with human understanding of justice?",
-        "left_label": "Arbitrary Punishment",
-        "right_label": "Purposeful Correction"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine intervention shifted after examining this narrative?",
-        "options": [
-          "More aware of spiritual dynamics",
-          "Recognize limitations of human religious constructs",
-          "Appreciate nuanced manifestations of divine power",
-          "Questioning previous theological assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare occurs beyond human perception",
           "God protects His covenant symbols and reputation among nations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The men of Ashdod said",
+            "ref": "v. 7",
+            "speaker": "The men of Ashdod"
+          },
+          {
+            "who": "The rulers of the Philistines replied",
+            "ref": "v. 8",
+            "speaker": "The rulers of the Philistines"
+          }
+        ],
+        "question": "Put yourself in the place of a ruler of Ashdod. Your men say the ark must not stay, since the hand of its God is heavy upon you and upon your god Dagon. Then the rulers ask what to do with it. What would you weigh in deciding where the ark should go?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Isaiah 37:19",
+        "summary": "The men of Ashdod say the hand of the God of Israel is heavy upon them and upon their god Dagon (v. 7). Isaiah 37:19 says the gods of the nations were not gods, but only wood and stone, the work of human hands.",
+        "question": "How does Isaiah 37:19 help you weigh the words of the Philistine cities about their gods?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "the hand of the God of Israel is heavy upon us and upon our god Dagon",
+        "feeling": "anxiety, dread",
+        "object": "the trouble spreading through my city",
+        "behavior": "trying to move the problem away",
+        "step": "admit where God is working",
+        "template": "from today I bring my {feeling:anxiety, dread} about {object:the trouble spreading through my city} into the light and instead of {behavior:trying to move the problem away}, I will {step:admit where God is working}."
       }
     }
   }

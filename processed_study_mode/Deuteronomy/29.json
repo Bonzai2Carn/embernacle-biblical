@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of covenant relationship most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Memory of Past Deliverance",
-            "expansion": "God remembers His historical acts of rescue and redemption"
-          },
-          {
-            "id": 2,
-            "text": "Collective Responsibility",
-            "expansion": "The entire community bears responsibility for covenant faithfulness"
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "Each generation carries both the blessings and potential consequences of ancestral choices"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine covenant requires full understanding, yet humans are inherently limited, how can genuine commitment be possible?"
-      },
-      "moral_slider": {
-        "question": "How do personal choices intersect with communal spiritual destiny?",
-        "left_label": "Individual Agency",
-        "right_label": "Corporate Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual responsibility?",
-        "options": [
-          "I recognize my actions impact more than myself",
-          "I see covenant as a deeper relational concept",
-          "I understand generational spiritual dynamics differently",
-          "I'm more aware of collective spiritual consequences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational spiritual inheritance determines divine favor",
           "Community covenant supersedes personal spiritual choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Moses says",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Moses says",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people standing before the covenant. Moses tells you to keep and follow its words so you prosper, and says the covenant is so that He may establish you as His people and be your God. What does this shared commitment change about how you view your obedience?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Psalm 78:5-7",
+        "summary": "Moses says future generations will answer that the people abandoned the covenant of the LORD (v. 25). Psalm 78 says the law was to be taught to children so they would put their confidence in God, not forget His works, and keep His commandments (Psalm 78:5-7).",
+        "question": "How does Psalm 78:5-7 help you understand what is lost when the covenant is abandoned in verse 25?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "practice",
+        "because": "the things revealed belong to us and to our children forever",
+        "feeling": "anxiety, confusion",
+        "object": "unanswered questions about the future",
+        "behavior": "searching for hidden answers",
+        "step": "obey what is already written",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:unanswered questions about the future} and instead of {behavior:searching for hidden answers}, I will {step:obey what is already written}."
       }
     }
   }

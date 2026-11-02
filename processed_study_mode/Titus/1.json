@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational aspect of spiritual leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Apostolic Authority",
-            "expansion": "Paul's self-understanding as a divinely commissioned messenger shapes authentic spiritual leadership."
-          },
-          {
-            "id": 2,
-            "text": "Character Over Credentials",
-            "expansion": "Spiritual leadership is defined more by moral integrity than by institutional position."
-          },
-          {
-            "id": 3,
-            "text": "Theological Precision",
-            "expansion": "Sound doctrine protects the community from destructive internal divisions and external influences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal biases distort your understanding of spiritual truth?"
-      },
-      "moral_slider": {
-        "question": "To what extent should spiritual leadership balance grace and accountability?",
-        "left_label": "Unconditional Acceptance",
-        "right_label": "Strict Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual leadership evolved?",
-        "options": [
-          "More aware of character requirements",
-          "Recognize complexity of doctrinal purity",
-          "Understand leadership as servant-based",
-          "Appreciate theological nuance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Regularly teach and reinforce foundational biblical doctrines",
           "Create accountability structures within church leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Paul describes the rebellious",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says they must be silenced",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Titus's place, reading that many are rebellious and full of empty talk and deception. What would you weigh about teachers who must be silenced because they undermine entire households for dishonorable gain?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "1 Timothy 3:1-7",
+        "summary": "Paul tells Titus to appoint elders in every town (v. 5). This passage lists what an overseer must be: above reproach, temperate, able to teach, and managing his own household well (1 Tim 3:2-4).",
+        "question": "How does 1 Timothy 3:1-7 help you understand the kind of person Titus is to appoint as elders in every town?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "exposure",
+        "because": "people who profess to know God can deny Him by their actions",
+        "feeling": "pride, hypocrisy",
+        "object": "my religious reputation",
+        "behavior": "acting holy in public",
+        "step": "align my private habits with my words",
+        "template": "from today I bring my {feeling:pride, hypocrisy} about {object:my religious reputation} into the light and instead of {behavior:acting holy in public}, I will {step:align my private habits with my words}."
       }
     }
   }

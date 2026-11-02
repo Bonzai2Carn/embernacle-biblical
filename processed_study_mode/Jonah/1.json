@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine calling resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resistance to God's direction",
-            "expansion": "Jonah demonstrates how human fear and personal preference can override spiritual assignment."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of avoidance",
-            "expansion": "Every attempt to flee divine purpose ultimately creates more complicated circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Providence through disruption",
-            "expansion": "God uses unexpected events to redirect and ultimately communicate His larger intentions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you perceive a challenging divine instruction, what internal mechanisms make you hesitate or resist?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and spiritual obedience intersect in your life?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance evolved?",
-        "options": [
-          "I recognize resistance is futile",
-          "I see divine instructions as invitations, not commands",
-          "Spiritual journeys are rarely straightforward",
-          "Discomfort often precedes meaningful transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Misunderstanding God's universal love for all peoples",
           "Resistance to prophetic calling and spiritual accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jonah, however, got up to flee to Tarshish, away from the presence of the LORD",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Then the LORD hurled a great wind upon the sea",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jonah's place, fleeing from the presence of the LORD. When the LORD hurls a great wind upon the sea, what would you weigh about who sent the storm?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 139:7-10",
+        "summary": "Jonah gets up to flee to Tarshish, away from the presence of the LORD (v. 3). The psalmist asks where he can go to escape God's Spirit or flee from His presence, and says even at the farthest sea God's hand will guide him.",
+        "question": "How does Psalm 139:7-10 help you understand Jonah's attempt to flee from the presence of the LORD?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "Jonah admits he is to blame for the violent storm that has come upon the sailors",
+        "feeling": "guilt, shame",
+        "object": "a mistake that is hurting others",
+        "behavior": "hiding from others",
+        "step": "admit it to those it affects",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a mistake that is hurting others} into the light and instead of {behavior:hiding from others}, I will {step:admit it to those it affects}."
       }
     }
   }

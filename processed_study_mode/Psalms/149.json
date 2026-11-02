@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of praise resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Communal Celebration",
-            "expansion": "Praise is a collective experience that unites believers in joyful expression."
-          },
-          {
-            "id": 2,
-            "text": "Divine Justice",
-            "expansion": "Worship includes acknowledging God's righteous judgments and sovereign power."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Warfare",
-            "expansion": "Praise can be a strategic weapon of spiritual transformation and confrontation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine worship transform personal and societal power dynamics?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between divine praise and human accountability?",
-        "left_label": "Passive Worship",
-        "right_label": "Active Engagement"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of praise evolved?",
-        "options": [
-          "More communal than individual",
-          "More about justice than emotion",
-          "More spiritually strategic",
-          "More personally transformative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Musical celebration demonstrates theological commitment",
           "Collective worship transforms individual spiritual dynamics"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls for praise",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the assembly of the godly. You are called to sing a new song. What does the LORD's pleasure in His people change about how you sing?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 150:3-5",
+        "summary": "The psalmist calls for high praises of God to be in the mouths of the saints (v. 6). Psalm 150 continues this call by listing specific instruments to use in praise (vv. 3-5).",
+        "question": "How does the list of instruments in Psalm 150 help you imagine the scene of the saints in this chapter?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "the LORD takes pleasure in His people",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach Him with worship",
+        "template": "from today I bring You my {feeling:shame, inadequacy} about {object:my past failures} and instead of {behavior:hiding from God}, I will {step:approach Him with worship}."
       }
     }
   }

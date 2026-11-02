@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's testimony resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Transformation",
-            "expansion": "Paul's radical shift from persecutor to passionate follower reveals the profound potential for spiritual metamorphosis."
-          },
-          {
-            "id": 2,
-            "text": "Fearless Testimony",
-            "expansion": "Paul's unapologetic witness before powerful authorities demonstrates extraordinary courage in proclaiming his convictions."
-          },
-          {
-            "id": 3,
-            "text": "Divine Calling",
-            "expansion": "Paul's understanding of his specific missional purpose highlights the intimate way God recruits and redirects individual lives."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your deepest beliefs were challenged publicly, would you have the courage to speak truth, or would self-preservation silence you?"
-      },
-      "moral_slider": {
-        "question": "How do personal experiences validate or challenge theological understanding?",
-        "left_label": "Subjective Experience",
-        "right_label": "Objective Truth"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your understanding of personal testimony?",
-        "options": [
-          "I see spiritual transformation differently",
-          "I recognize the power of personal narrative",
-          "I understand missionary calling more deeply",
-          "I'm more aware of spiritual courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's grace can transform even the most resistant individuals",
           "Theological understanding emerges through personal encounter with Christ"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Festus exclaimed",
+            "ref": "v. 24",
+            "speaker": "Festus"
+          },
+          {
+            "who": "Paul answered",
+            "ref": "v. 25",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Paul's place, called insane in front of the king. What do you understand about how Paul answers, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "2 Corinthians 5:17",
+        "summary": "Paul says his mission is to open eyes so that people turn from darkness to light and receive forgiveness (v. 18). In 2 Corinthians he writes that anyone in Christ is a new creation: the old has passed away and the new has come.",
+        "question": "How does 2 Corinthians 5:17 help you understand the change Paul describes in the people he is sent to?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "I was not disobedient to the heavenly vision",
+        "feeling": "distraction, hesitation",
+        "object": "a clear prompting from God",
+        "behavior": "waiting for a better moment",
+        "step": "act on what I know is true",
+        "template": "from today I let go of my {feeling:distraction, hesitation} over {object:a clear prompting from God} and instead of {behavior:waiting for a better moment}, I will {step:act on what I know is true}."
       }
     }
   }

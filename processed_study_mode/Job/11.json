@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about confronting theological assumptions?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human arguments can be superficial",
-            "expansion": "Zophar suggests that verbose arguments often mask deeper spiritual truths."
-          },
-          {
-            "id": 2,
-            "text": "Divine perspective transcends human reasoning",
-            "expansion": "The text implies God's wisdom fundamentally differs from human intellectual constructs."
-          },
-          {
-            "id": 3,
-            "text": "Moral certainty can be dangerous",
-            "expansion": "Presuming one's own righteousness without divine perspective leads to spiritual arrogance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your current understanding of suffering were completely wrong, what transformative insight might you be missing?"
-      },
-      "moral_slider": {
-        "question": "How do human explanations relate to divine understanding of suffering?",
-        "left_label": "Human Reasoning",
-        "right_label": "Divine Mystery"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous theological assumptions?",
-        "options": [
-          "I recognize my understanding is limited",
-          "I'm more aware of potential spiritual pride",
-          "I see the complexity of interpreting divine action",
-          "I'm more humble about my theological conclusions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine correction reflects God's love and desire for spiritual growth",
           "Individual human perspectives are often insufficient to comprehend divine plans"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Zophar replied",
+            "ref": "v. 4",
+            "speaker": "Zophar"
+          },
+          {
+            "who": "Zophar said",
+            "ref": "v. 6",
+            "speaker": "Zophar"
+          }
+        ],
+        "question": "Put yourself in Job's place. You hear that you claim to be pure in God's sight, and then that God exacts from you less than your iniquity deserves. What would you weigh in that charge?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Zophar claims the deep things of God are beyond human reach (vv. 7-9). Isaiah uses this same distance between heaven and earth to show that God's thoughts and ways are far above ours.",
+        "question": "How does Isaiah's description of God's superior perspective help you weigh Zophar's claim that you cannot fathom the Almighty?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "there is hope, and the one who has it lies down in safety",
+        "feeling": "fear, restlessness",
+        "object": "the worries of the night",
+        "behavior": "lying awake rehearsing the worst",
+        "step": "pray before I sleep",
+        "template": "from today I entrust my {feeling:fear, restlessness} about {object:the worries of the night} to God and instead of {behavior:lying awake rehearsing the worst}, I will {step:pray before I sleep}."
       }
     }
   }

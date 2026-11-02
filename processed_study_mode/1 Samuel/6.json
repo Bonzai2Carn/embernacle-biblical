@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight from the Philistines' experience with the ark resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Power Transcends Human Control",
-            "expansion": "The ark's supernatural impact reveals God's sovereignty beyond cultural boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Acknowledging Divine Accountability",
-            "expansion": "The Philistines recognize they must respect and honor a power greater than their own understanding."
-          },
-          {
-            "id": 3,
-            "text": "Ritualistic Reparation for Spiritual Transgression",
-            "expansion": "The trespass offering demonstrates a universal spiritual principle of making amends."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might understanding divine presence require humility beyond cultural presumptions?"
-      },
-      "moral_slider": {
-        "question": "To what extent can supernatural events transform cultural perspectives on spiritual realities?",
-        "left_label": "Skepticism",
-        "right_label": "Spiritual Openness"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine intervention potentially shifted?",
-        "options": [
-          "Recognize broader spiritual dynamics",
-          "Appreciate complexity of supernatural encounters",
-          "Understand limitations of human comprehension",
-          "Value respectful approach to transcendent realities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Supernatural interventions can transcend cultural and religious boundaries",
           "Gentile nations can recognize divine authority through extraordinary events"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The Philistines asked",
+            "ref": "v. 2",
+            "speaker": "Philistine Priests and Diviners"
+          },
+          {
+            "who": "The priests and diviners replied",
+            "ref": "v. 3",
+            "speaker": "The priests and diviners"
+          }
+        ],
+        "question": "Put yourself in the place of the Philistines. You ask what to do with the ark of the LORD, and you are told not to send it away empty but to return it with a guilt offering. What would you understand from hearing that you will then know why His hand has not been lifted from you?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Leviticus 10:1-3",
+        "summary": "The people of Beth-shemesh die after looking inside the ark (v. 19). In Leviticus, Nadab and Abihu face a similar judgment for offering unauthorized fire before the LORD.",
+        "question": "How does the judgment on Nadab and Abihu help you understand why the people of Beth-shemesh were struck down?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "exposure",
+        "because": "no one can stand in the presence of the LORD, this holy God",
+        "feeling": "pride, presumption",
+        "object": "my own understanding",
+        "behavior": "treating sacred things as common",
+        "step": "approach Him with reverence",
+        "template": "from today I bring my {feeling:pride, presumption} about {object:my own understanding} into the light and instead of {behavior:treating sacred things as common}, I will {step:approach Him with reverence}."
       }
     }
   }

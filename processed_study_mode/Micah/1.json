@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic imagery most strikes you about God's judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God coming out of His place",
-            "expansion": "Divine sovereignty transcends human expectations and geographical limitations."
-          },
-          {
-            "id": 2,
-            "text": "Mountains melting like wax",
-            "expansion": "Natural structures symbolize human institutions crumbling before divine power."
-          },
-          {
-            "id": 3,
-            "text": "Universal witness called",
-            "expansion": "God summons all creation as testimony against human rebellion and injustice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine judgment reveal more about God's character than human punishment?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the balance between divine judgment and divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Redemptive Love"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of prophetic communication?",
-        "options": [
-          "Expanded view of God's sovereignty",
-          "Recognized metaphorical power of prophetic language",
-          "Understood judgment as transformative process",
-          "Saw universal scope of divine accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment reveals the consequences of persistent rebellion",
           "Judgment demonstrates God's ultimate redemptive purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The prophet asks",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You are told all this is for the transgression of Jacob, and that Samaria will become a heap of rubble. What would you weigh in that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Nahum 1:3-6",
+        "summary": "The LORD comes down to tread on the high places of the earth (v. 3). Nahum describes a similar scene where the LORD's presence causes mountains to quake and hills to melt.",
+        "question": "How does Nahum's description of the LORD's power help you understand the physical impact of His arrival in Micah's vision?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "exposure",
+        "because": "the LORD comes forth from His dwelling place to tread on the high places",
+        "feeling": "pride, self-sufficiency",
+        "object": "my hidden habits",
+        "behavior": "pretending everything is fine",
+        "step": "tell a trusted friend about them",
+        "template": "from today I bring my {feeling:pride, self-sufficiency} about {object:my hidden habits} into the light and instead of {behavior:pretending everything is fine}, I will {step:tell a trusted friend about them}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What insight emerges from Hezekiah's pride and vulnerability?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political diplomacy can mask deeper spiritual weakness",
-            "expansion": "External relationships often reveal internal character vulnerabilities"
-          },
-          {
-            "id": 2,
-            "text": "Pride precedes spiritual compromise",
-            "expansion": "Displaying personal wealth and power can invite dangerous external scrutiny"
-          },
-          {
-            "id": 3,
-            "text": "Hospitality without discernment risks national security",
-            "expansion": "Openness without spiritual wisdom can expose systemic vulnerabilities"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does demonstrating personal achievement transform from confidence into dangerous self-sufficiency?"
-      },
-      "moral_slider": {
-        "question": "How do national pride and spiritual humility coexist?",
-        "left_label": "National Ego",
-        "right_label": "Spiritual Vulnerability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of diplomatic relationships changed?",
-        "options": [
-          "Relationships require spiritual discernment",
-          "Political gestures can mask hidden agendas",
-          "Personal pride can compromise collective security",
-          "True strength emerges through humble wisdom"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Transparency can sometimes expose vulnerabilities to potential adversaries",
           "Spiritual discernment is crucial in interpreting political and cultural interactions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Hezekiah answers",
+            "ref": "v. 8",
+            "speaker": "Hezekiah"
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. You hear that everything in your palace will be carried off to Babylon. What would you weigh about the peace you still hope for in your own lifetime?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Jeremiah 25:11",
+        "summary": "The LORD tells Hezekiah that everything in his palace will be carried off to Babylon (v. 6). Jeremiah 25:11 says the whole land will become a desolate wasteland and the nations will serve the king of Babylon for seventy years.",
+        "question": "How does Jeremiah 25:11 help you understand the weight of the loss Hezekiah is told about?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "surrender",
+        "because": "the word of the LORD is good",
+        "feeling": "selfishness, complacency",
+        "object": "a difficult truth about my future",
+        "behavior": "seeking my own comfort",
+        "step": "accept what He has decreed",
+        "template": "from today I release my {feeling:selfishness, complacency} over {object:a difficult truth about my future} and instead of {behavior:seeking my own comfort}, I will {step:accept what He has decreed}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's precise mechanism of judgment",
-            "expansion": "The intricate celestial choreography reveals a carefully orchestrated divine intervention."
-          },
-          {
-            "id": 2,
-            "text": "The symbolic transmission of divine fire",
-            "expansion": "Spiritual cleansing often requires transformative, consuming processes."
-          },
-          {
-            "id": 3,
-            "text": "The presence of mystical beings (cherubim)",
-            "expansion": "Supernatural intermediaries manifest the transcendent nature of divine communication."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is so meticulously planned, what does that suggest about human accountability and free will?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine judgment in relation to mercy?",
-        "left_label": "Strict Punishment",
-        "right_label": "Restorative Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of spiritual complexity",
-          "Recognize symbolic spiritual processes",
-          "Appreciate nuanced divine communication",
-          "Understand judgment as transformative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual unfaithfulness disrupts divine communion",
           "Symbolic representation of spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD said to the man clothed in linen",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the man clothed in linen. You receive a command to take burning coals and scatter them over a city. What do you understand about the weight of this task as you go inside?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Psalm 51:11",
+        "summary": "The glory of the LORD moves away from the threshold of the temple (v. 18). David prays for God not to take His Holy Spirit from him.",
+        "question": "The glory leaves the temple in this vision. How does David's plea help you understand the gravity of the movement you see here?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "devotion",
+        "because": "each creature went straight ahead",
+        "feeling": "distraction, hesitation",
+        "object": "a new responsibility",
+        "behavior": "looking for easier paths",
+        "step": "follow the direction set before me",
+        "template": "from today I let go of my {feeling:distraction, hesitation} over {object:a new responsibility} and instead of {behavior:looking for easier paths}, I will {step:follow the direction set before me}."
       }
     }
   }

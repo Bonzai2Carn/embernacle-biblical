@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine instruction most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Divine Order",
-            "expansion": "God's meticulous instructions reveal a profound commitment to sacred structure and intentionality."
-          },
-          {
-            "id": 2,
-            "text": "Moses' Faithful Execution",
-            "expansion": "Obedience becomes a profound act of spiritual leadership and trust."
-          },
-          {
-            "id": 3,
-            "text": "Sacred Space Creation",
-            "expansion": "The tabernacle represents a transformative physical manifestation of spiritual communion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are so precise, what does that suggest about the nature of human spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do formal religious structures support or potentially limit spiritual experience?",
-        "left_label": "Rigid Institutionalism",
-        "right_label": "Spontaneous Spirituality"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on sacred spaces and divine guidance shifted?",
-        "options": [
-          "More appreciative of symbolic structures",
-          "Recognize complexity of spiritual communication",
-          "Understand importance of intentional preparation",
-          "See divine guidance as nuanced and detailed"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship is a carefully designed spiritual experience",
           "God desires intimate communion with His people"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 9-10",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses did everything just as the LORD had commanded him",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Moses's place, receiving instructions to anoint the tabernacle and its utensils. What does it mean that he did everything just as the LORD had commanded him?"
+      },
+      "chain": {
+        "after": 34,
+        "ref": "Ephesians 2:22",
+        "summary": "The glory of the LORD fills the finished tabernacle (v. 34). Paul describes how God now makes us a place where He dwells through His Spirit (v. 22).",
+        "question": "How does the physical filling of the tabernacle help you understand the purpose of being a dwelling place for God?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "Moses did everything just as the LORD had commanded him",
+        "feeling": "impatience, frustration",
+        "object": "a difficult instruction",
+        "behavior": "skipping small details",
+        "step": "follow the pattern exactly",
+        "template": "from today I let go of my {feeling:impatience, frustration} over {object:a difficult instruction} and instead of {behavior:skipping small details}, I will {step:follow the pattern exactly}."
       }
     }
   }

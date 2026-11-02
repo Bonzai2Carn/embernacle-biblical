@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical element of the eagle and cedar most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The eagle's strategic movement",
-            "expansion": "Power can be subtle and calculated, not just forceful."
-          },
-          {
-            "id": 2,
-            "text": "The transplanted cedar twig",
-            "expansion": "Displacement can represent both vulnerability and potential transformation."
-          },
-          {
-            "id": 3,
-            "text": "The intricate political allegory",
-            "expansion": "Geopolitical relationships are complex metaphorical ecosystems of interdependence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external powers shape our spiritual and national trajectories without our full awareness?"
-      },
-      "moral_slider": {
-        "question": "How much autonomy do nations truly have under divine providence?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of metaphorical prophecy shifted?",
-        "options": [
-          "More aware of symbolic complexity",
-          "Recognize multilayered historical meanings",
-          "See political events as potentially spiritual narratives",
-          "Understand prophecy as nuanced communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God actively intervenes in geopolitical dynamics",
           "National leadership reflects spiritual condition of the people"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 9-10",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 22",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this riddle. How does the promise of a new, planted sprig change your view of the vine that is about to wither?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "2 Kings 24:12-16",
+        "summary": "The riddle describes a king taken to Babylon and a covenant made with him (vv. 12-14). 2 Kings records the actual capture of King Jehoiachin and the officials of Judah by Nebuchadnezzar.",
+        "question": "How does seeing the historical event in 2 Kings help you understand the specific people the riddle describes?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "I bring the tall tree down and make the low tree tall",
+        "feeling": "anxiety, dread",
+        "object": "a sudden change in my circumstances",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His sovereign hand",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a sudden change in my circumstances} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His sovereign hand}."
       }
     }
   }

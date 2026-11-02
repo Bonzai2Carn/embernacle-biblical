@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's deliverance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Rescue from Personal Enemies",
-            "expansion": "Divine intervention transforms overwhelming adversity into ultimate victory."
-          },
-          {
-            "id": 2,
-            "text": "God's Majestic Power in Nature",
-            "expansion": "Cosmic imagery reveals God's transcendent power beyond human comprehension."
-          },
-          {
-            "id": 3,
-            "text": "Personal Faithfulness Leading to Deliverance",
-            "expansion": "Righteousness becomes a pathway through which divine protection manifests."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine rescue is guaranteed, what role does human agency play in personal transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine sovereignty intersect?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Omnipotence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine protection evolved?",
-        "options": [
-          "More aware of spiritual battles",
-          "Recognize complexity of divine intervention",
-          "Appreciate personal responsibility",
-          "See suffering as potential spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God actively engages in personal spiritual warfare",
           "Deliverance depends solely on individual faith commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The psalmist describes the threat",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes the rescue",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, feeling the weight of death and chaos. How does the image of being drawn out of deep waters change how you view the danger you are facing?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "Psalm 103:6",
+        "summary": "The psalmist declares that the way of the LORD is perfect and His word is flawless (v. 30). Psalm 103:6 shows the active way God performs this perfection by working righteousness and justice for all oppressed. ",
+        "question": "How does knowing that God works for the oppressed help you trust the perfection of His word in this chapter?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "my God lights up my darkness",
+        "feeling": "fear, confusion",
+        "object": "a difficult season",
+        "behavior": "staring at the shadows",
+        "step": "look for His light",
+        "template": "from today I bring You my {feeling:fear, confusion} about {object:a difficult season} and instead of {behavior:staring at the shadows}, I will {step:look for His light}."
       }
     }
   }

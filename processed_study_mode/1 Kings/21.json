@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about property rights and personal integrity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Naboth's unwavering commitment to ancestral land",
-            "expansion": "Inheritance carries spiritual and familial significance beyond mere economic value."
-          },
-          {
-            "id": 2,
-            "text": "Ahab's attempt to negotiate fairly initially",
-            "expansion": "Power can sometimes mask itself with apparent reasonableness before revealing true coercion."
-          },
-          {
-            "id": 3,
-            "text": "The spiritual principle of resisting unjust demands",
-            "expansion": "Personal principles can sometimes require standing against systemic power structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does personal property become more than a material possession, and transform into a sacred trust?"
-      },
-      "moral_slider": {
-        "question": "How do personal rights intersect with governmental/royal authority?",
-        "left_label": "Individual Sovereignty",
-        "right_label": "State Power"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of ethical leadership have shifted?",
-        "options": [
-          "Power does not equal moral authority",
-          "Personal integrity can resist systemic pressure",
-          "Spiritual principles sometimes require courageous stand",
-          "Material negotiations can mask deeper spiritual conflicts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ancestral inheritance carries deeper theological significance beyond economic value",
           "Individual moral courage can resist systemic corruption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Ahab said to Naboth",
+            "ref": "v. 2",
+            "speaker": "Ahab"
+          },
+          {
+            "who": "Naboth replied",
+            "ref": "v. 3",
+            "speaker": "Naboth"
+          }
+        ],
+        "question": "Put yourself in Ahab's place: you offered a fair trade to acquire what you wanted. What do you understand about the boundary Naboth drew with his refusal?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Leviticus 25:23",
+        "summary": "Naboth refuses to give up the inheritance of his fathers, and Ahab goes to his palace sullen and angry (vv. 3-4). In Leviticus 25:23 the LORD says the land must not be sold permanently, because it is His.",
+        "question": "How does Leviticus 25:23 help you understand why Naboth held on to the inheritance of his fathers?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "remembrance",
+        "because": "Ahab tore his clothes, put on sackcloth, and fasted",
+        "feeling": "pride, self-sufficiency",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "return to His presence",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:return to His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound aspect of intimate love resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Physical Beauty as Sacred Art",
-            "expansion": "The lover's body is described with exquisite metaphorical reverence, suggesting beauty transcends mere physicality."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability in Romantic Praise",
-            "expansion": "The detailed, poetic description reveals profound emotional intimacy beyond superficial attraction."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Connection Through Sensuality",
-            "expansion": "The celebration of physical form hints at deeper covenant and divine design in human connection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does the lavish, metaphorical praise in this passage challenge contemporary perspectives on romantic love and human dignity?"
-      },
-      "moral_slider": {
-        "question": "To what extent does passionate, physical love reflect spiritual intimacy?",
-        "left_label": "Purely Physical",
-        "right_label": "Deeply Spiritual"
-      },
-      "reevaluation": {
-        "question": "How might this text transform your understanding of love?",
-        "options": [
-          "Recognizing beauty as holistic",
-          "Appreciating poetic vulnerability",
-          "Understanding love beyond physical attraction",
-          "Seeing human connection as sacred"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As metaphorical poetry expressing spiritual connection beyond literal interpretation",
           "As a symbolic narrative demonstrating God's intentional design in human relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The bridegroom calls her fair and pleasant",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "He names her stature like a palm tree",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one being praised. You hear that you are fair and pleasant, and that your stature is like a palm tree. What would you weigh about being named by these images?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Hosea 2:19-20",
+        "summary": "The bride says she belongs to her beloved, and his desire is for her (v. 10). Hosea records the LORD's promise to betroth His people to Himself forever, in righteousness, justice, loving devotion, and compassion (Hos 2:19), and in faithfulness (Hos 2:20).",
+        "question": "How does Hosea 2:19-20 help you understand the belonging the bride describes here?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "I belong to my beloved, and his desire is for me",
+        "feeling": "fear, rejection",
+        "object": "a relationship where I feel unwanted",
+        "behavior": "trying to earn affection",
+        "step": "write down one way I am wanted",
+        "template": "from today I bring You my {feeling:fear, rejection} about {object:a relationship where I feel unwanted} and instead of {behavior:trying to earn affection}, I will {step:write down one way I am wanted}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Betrothal",
-            "expansion": "Paul sees the church as a pure bride being prepared for Christ's ultimate union."
-          },
-          {
-            "id": 2,
-            "text": "Deceptive Influences",
-            "expansion": "False teachers can subtly corrupt spiritual understanding through intellectual manipulation."
-          },
-          {
-            "id": 3,
-            "text": "Godly Jealousy",
-            "expansion": "Spiritual leadership requires passionate protection of believers' pure devotion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual deception is so nuanced that it appears righteous, how can one truly discern authentic faith?"
-      },
-      "moral_slider": {
-        "question": "Where do you position theological discernment versus spiritual grace?",
-        "left_label": "Critical Examination",
-        "right_label": "Radical Acceptance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual vulnerability shifted?",
-        "options": [
-          "I recognize subtle spiritual manipulation more clearly",
-          "I understand the importance of doctrinal integrity",
-          "I see spiritual leadership as protective, not controlling",
-          "I'm more aware of my own potential for being misled"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Compare teachings with core gospel principles",
           "Seek confirmation through prayer and spiritual guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Satan masquerades",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "his servants masquerade",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those being deceived. Since Satan can masquerade as an angel of light, and his servants as servants of righteousness, what would you look for to tell the true from the false?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Galatians 1:8-9",
+        "summary": "Paul says the Corinthians put up too easily with a different Jesus, spirit or gospel than the one they accepted (v. 4). Galatians 1:8-9 says that anyone who preaches a gospel contrary to the one received is under a curse.",
+        "question": "How does Galatians 1:8-9 help you understand how seriously Paul takes a different gospel in verse 4?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "exposure",
+        "because": "Paul will boast of the things that show his weakness",
+        "feeling": "shame, inadequacy",
+        "object": "my lack of visible success",
+        "behavior": "hiding my struggles",
+        "step": "admit my need for God",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my lack of visible success} into the light and instead of {behavior:hiding my struggles}, I will {step:admit my need for God}."
       }
     }
   }

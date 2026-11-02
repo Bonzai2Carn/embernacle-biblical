@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical layer of divine relationship strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Heartbreak",
-            "expansion": "God's emotional vulnerability reveals the profound pain of spiritual infidelity"
-          },
-          {
-            "id": 2,
-            "text": "Radical Restoration",
-            "expansion": "Even after judgment, divine love offers transformative redemption"
-          },
-          {
-            "id": 3,
-            "text": "Covenant Consequence",
-            "expansion": "Spiritual unfaithfulness inevitably produces systemic disconnection"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If love can be simultaneously punitive and restorative, what does this reveal about the nature of true commitment?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and mercy intersect in moments of spiritual betrayal?",
-        "left_label": "Strict Judgment",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine relationship evolved?",
-        "options": [
-          "Recognized deeper emotional complexity of spiritual connection",
-          "Understood consequences as transformative, not merely punitive",
-          "Saw personal responsibility in maintaining spiritual intimacy",
-          "Appreciated metaphorical depth of relational language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Judgment reveals God's emotional pain of betrayal",
           "Judgment is a metaphorical representation of spiritual separation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this charge. How does the sudden shift from punishment to tenderness change how you view the wilderness ahead?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Hosea 14:4-7",
+        "summary": "The LORD promises to give back her vineyards and make the Valley of Achor a gateway of hope (v. 15). In Hosea 14 the LORD says He will heal their apostasy and love them freely, and they will blossom like the lily and take root like the cedars of Lebanon.",
+        "question": "How does the picture of blossoming and rooting in Hosea 14:4-7 help you understand the hope given back in verse 15?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "in that day the LORD says His people will call Him my Husband and no longer my Master",
+        "feeling": "distrust, fear",
+        "object": "the Lord's discipline",
+        "behavior": "treating Him like a judge to be avoided",
+        "step": "talk with Him as one who loves me",
+        "template": "from today I let go of my {feeling:distrust, fear} over {object:the Lord's discipline} and instead of {behavior:treating Him like a judge to be avoided}, I will {step:talk with Him as one who loves me}."
       }
     }
   }

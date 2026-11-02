@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resilience resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Maintaining focus amid opposition",
-            "expansion": "True leadership requires unwavering commitment to the primary mission, even when distractions and threats emerge."
-          },
-          {
-            "id": 2,
-            "text": "Recognizing manipulative tactics",
-            "expansion": "Discernment helps leaders identify subtle attempts to undermine their work and strategic objectives."
-          },
-          {
-            "id": 3,
-            "text": "Personal integrity under pressure",
-            "expansion": "Spiritual and ethical integrity becomes most visible during challenging moments of potential compromise."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external pressures reveal the true nature of one's internal convictions?"
-      },
-      "moral_slider": {
-        "question": "Between strategic caution and bold action, where does authentic leadership reside?",
-        "left_label": "Defensive Prudence",
-        "right_label": "Courageous Engagement"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized the importance of emotional resilience",
-          "Understood the need for strategic discernment",
-          "Appreciated the power of collective purpose",
-          "Learned about resisting psychological manipulation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize spiritual warfare dynamics",
           "Prioritize mission over personal reputation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Shemaiah said",
+            "ref": "v. 10",
+            "speaker": "Shemaiah"
+          },
+          {
+            "who": "Nehemiah replied",
+            "ref": "v. 11",
+            "speaker": "Nehemiah"
+          }
+        ],
+        "question": "Put yourself in Nehemiah's place. A man urges you to meet inside the house of God and shut its doors, because they are coming to kill you. What would you weigh before you answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "2 Corinthians 10:4-5",
+        "summary": "Nehemiah's enemies sent an unsealed letter with rumors meant to frighten the workers (vv. 6-9). Paul writes that the weapons of his warfare have divine power to tear down arguments set against the knowledge of God (2 Corinthians 10:4-5).",
+        "question": "How does Paul's description of tearing down arguments help you understand Nehemiah's response to the rumors in the unsealed letter?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "our enemies were all trying to frighten the builders",
+        "feeling": "anxiety, dread",
+        "object": "the threats from others",
+        "behavior": "letting the noise distract me",
+        "step": "focus on the work in front of me",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the threats from others} and instead of {behavior:letting the noise distract me}, I will {step:focus on the work in front of me}."
       }
     }
   }

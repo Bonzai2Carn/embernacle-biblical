@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound aspect of human suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The experience of feeling overwhelmed by persecution",
-            "expansion": "The psalmist's raw vulnerability reveals how external pressures can crush one's spirit."
-          },
-          {
-            "id": 2,
-            "text": "The desperate plea for divine intervention",
-            "expansion": "Authentic prayer emerges from a place of complete emotional and spiritual exhaustion."
-          },
-          {
-            "id": 3,
-            "text": "The prophetic connection to messianic suffering",
-            "expansion": "The psalm's language anticipates Christ's redemptive struggle and ultimate triumph."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of suffering transform if you viewed it as a pathway to deeper spiritual awareness rather than merely a burden?"
-      },
-      "moral_slider": {
-        "question": "Where do you position personal anguish in relation to divine purpose?",
-        "left_label": "Personal Pain",
-        "right_label": "Redemptive Design"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on lament and spiritual resilience shifted?",
-        "options": [
-          "I now see suffering as more nuanced",
-          "Prayer feels more authentic and raw",
-          "I recognize the universality of human struggle",
-          "Spiritual growth can emerge from profound challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithful prayer transforms external circumstances immediately",
           "Spiritual resilience emerges through honest lament and trust in God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, surrounded by mockery and deep waters. How does his prayer for a time of favor change the way you see his desperate situation?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Matthew 27:34",
+        "summary": "The psalmist says they poisoned his food with gall and gave him vinegar to quench his thirst (v. 21). Matthew 27:34 says they offered Him wine to drink mixed with gall, but after tasting it He refused to drink.",
+        "question": "How does Matthew 27:34 help you understand the weight of the psalmist's suffering in verse 21?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "devotion",
+        "because": "I will praise God's name in song and exalt Him with thanksgiving",
+        "feeling": "despair, hopelessness",
+        "object": "a season of isolation",
+        "behavior": "withdrawing from others",
+        "step": "sing a song of thanks",
+        "template": "from today I bring You my {feeling:despair, hopelessness} about {object:a season of isolation} and instead of {behavior:withdrawing from others}, I will {step:sing a song of thanks}."
       }
     }
   }

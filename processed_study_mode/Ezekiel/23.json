@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical theme resonates most about spiritual infidelity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "National Betrayal",
-            "expansion": "How nations abandon divine covenant through systemic corruption and idolatry."
-          },
-          {
-            "id": 2,
-            "text": "Personal Spiritual Compromise",
-            "expansion": "Individual choices that progressively distance one from spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Unfaithfulness",
-            "expansion": "The profound spiritual and societal devastation resulting from persistent rebellion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual loyalty is a relationship, at what point does metaphorical 'adultery' begin - in thought, intention, or action?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and mercy interact when confronting systemic spiritual corruption?",
-        "left_label": "Absolute Judgment",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual commitment shifted?",
-        "options": [
-          "Recognize subtle forms of spiritual drift",
-          "Understand consequences more deeply",
-          "See personal responsibility more clearly",
-          "Appreciate divine perspective on human frailty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Examine personal and collective tendencies toward spiritual drift",
           "Appreciate prophetic literature's profound theological messaging"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says Oholah was delivered to her lovers",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Oholibah saw this, yet she was more depraved",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Oholibah's place. You saw your sister delivered into the hands of her lovers, yet you went on in your lust and prostitution. What would you still wonder about why you did not turn back?"
+      },
+      "chain": {
+        "after": 35,
+        "ref": "Jeremiah 3:6-10",
+        "summary": "The LORD describes two sisters, Oholah and Oholibah, who were unfaithful to Him (vv. 4, 11). Jeremiah tells of faithless Israel and her unfaithful sister Judah, who saw what happened to Israel and prostituted herself as well (Jer 3:6-10).",
+        "question": "How does Jeremiah's account of Israel and Judah help you see the pattern of the two sisters in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "exposure",
+        "because": "Jerusalem has forgotten the LORD and cast Him behind her back",
+        "feeling": "indifference, neglect",
+        "object": "my daily devotions",
+        "behavior": "ignoring God's presence",
+        "step": "prioritize time with Him",
+        "template": "from today I bring my {feeling:indifference, neglect} about {object:my daily devotions} into the light and instead of {behavior:ignoring God's presence}, I will {step:prioritize time with Him}."
       }
     }
   }

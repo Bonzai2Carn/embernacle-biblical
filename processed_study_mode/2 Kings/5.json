@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative idea resonates most from Naaman's healing journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Healing comes through unexpected channels",
-            "expansion": "True restoration often arrives through humble, counterintuitive paths we might initially resist."
-          },
-          {
-            "id": 2,
-            "text": "Pride can block personal breakthrough",
-            "expansion": "Our ego and preconceptions can prevent us from receiving the very grace we desperately need."
-          },
-          {
-            "id": 3,
-            "text": "Compassion transcends cultural boundaries",
-            "expansion": "Genuine healing and understanding can emerge when we look past societal and national divisions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible barriers might you be constructing that prevent your own transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal expectations interact with divine intervention?",
-        "left_label": "Human Control",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of healing and faith?",
-        "options": [
-          "I see healing as more holistic now",
-          "I recognize my own potential blind spots",
-          "I understand humility differently",
-          "I'm more open to unexpected grace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Obedience is more important than understanding the mechanism of God's work",
           "God's mercy extends beyond cultural and national boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Naaman went away angry, saying",
+            "ref": "v. 11",
+            "speaker": "Naaman"
+          },
+          {
+            "who": "Naaman's servants, however, approached him and said",
+            "ref": "v. 13",
+            "speaker": "Naaman's Servants"
+          }
+        ],
+        "question": "Put yourself in Naaman's place, feeling insulted by a simple command. What does the advice of his servants reveal about the difference between seeking a grand gesture and obeying a plain word?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "James 4:6",
+        "summary": "Naaman is angry at a plain command, then dips himself in the Jordan as told and is made clean (vv. 11-14). James 4:6 says God opposes the proud but gives grace to the humble.",
+        "question": "How does James 4:6 help you understand what changed when Naaman set aside his anger and dipped himself in the Jordan?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "exposure",
+        "because": "this is not the time to accept money, clothing, olive groves and vineyards",
+        "feeling": "greed, discontent",
+        "object": "a sudden opportunity for gain",
+        "behavior": "hiding my motives",
+        "step": "speak the truth plainly",
+        "template": "from today I bring my {feeling:greed, discontent} about {object:a sudden opportunity for gain} into the light and instead of {behavior:hiding my motives}, I will {step:speak the truth plainly}."
       }
     }
   }

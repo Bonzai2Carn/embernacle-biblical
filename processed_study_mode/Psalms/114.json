@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of divine intervention speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Israel's Exodus from Egypt",
-            "expansion": "Divine power transforms systemic oppression into liberation."
-          },
-          {
-            "id": "2",
-            "text": "Natural Elements Responding to God",
-            "expansion": "Creation itself trembles and yields before divine sovereignty."
-          },
-          {
-            "id": "3",
-            "text": "The Jordan River's Retreat",
-            "expansion": "Geographical barriers dissolve when God's purpose demands passage."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If natural elements can be responsive to divine will, what might that suggest about human agency and spiritual receptivity?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine intervention in historical events?",
-        "left_label": "Random Chance",
-        "right_label": "Purposeful Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine power shifted after reflecting on this psalm?",
-        "options": [
-          "More aware of spiritual dynamism",
-          "Recognize metaphorical power of natural imagery",
-          "Appreciate historical narrative's spiritual depth",
-          "Questioning previous understanding of divine interaction"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention is limited by physical laws",
           "God's sovereignty transcends natural boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist lists",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people watching the sea flee and the mountains skip. Then the psalm asks the sea, the Jordan, and the mountains why they moved. What would you wonder about that question?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 14:21-22",
+        "summary": "The psalmist says the sea observed and fled, and the Jordan turned back (v. 3). Exodus 14:21-22 records Moses stretching out his hand over the sea, the LORD driving back the sea with a strong east wind, and the Israelites going through on dry ground.",
+        "question": "How does Exodus 14:21-22 help you understand the sea fleeing in verse 3?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "the God of Jacob turned the rock into a pool and the flint into a fountain of water",
+        "feeling": "hopelessness, despair",
+        "object": "a dry season in my prayer life",
+        "behavior": "giving up on hope",
+        "step": "ask Him to bring water to my dry places",
+        "template": "from today I entrust my {feeling:hopelessness, despair} about {object:a dry season in my prayer life} to God and instead of {behavior:giving up on hope}, I will {step:ask Him to bring water to my dry places}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theme of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Pride precedes destruction",
-            "expansion": "Edom's overconfidence in its geographic security reveals how self-reliance can blind us to spiritual vulnerability."
-          },
-          {
-            "id": 2,
-            "text": "Generational consequences of conflict",
-            "expansion": "The prophecy suggests that historical animosities between nations can carry profound spiritual and temporal repercussions."
-          },
-          {
-            "id": 3,
-            "text": "God's sovereignty over geopolitical dynamics",
-            "expansion": "Divine providence transcends human political strategies and national boundaries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of security be a delusion that prevents genuine spiritual humility?"
-      },
-      "moral_slider": {
-        "question": "To what extent do historical grievances justify ongoing conflict?",
-        "left_label": "Historical Injury",
-        "right_label": "Reconciliation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine justice evolved?",
-        "options": [
-          "More nuanced view of judgment",
-          "Deeper appreciation for spiritual accountability",
-          "Recognize complexity of divine intervention",
-          "Heightened awareness of collective responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's covenant promises transcend immediate geopolitical circumstances",
           "Divine justice operates beyond human temporal perspectives"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD quotes Edom's thought",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those living in the high rocks who say in their hearts, 'Who can bring me down to the ground?' What do you understand from the LORD's answer about how safe that height really is?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 13:11",
+        "summary": "The Day of the LORD is near for all the nations, and what they have done will return upon their own heads (v. 15). Isaiah adds that the LORD will punish the world for its evil and end the haughtiness of the arrogant (13:11).",
+        "question": "How does Isaiah 13:11 help you understand the weight of the judgment promised in Obadiah 1:15?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "exposure",
+        "because": "the pride of your heart has deceived you",
+        "feeling": "self-importance, arrogance",
+        "object": "my own achievements",
+        "behavior": "dismissing the needs of others",
+        "step": "seek ways to serve",
+        "template": "from today I bring my {feeling:self-importance, arrogance} about {object:my own achievements} into the light and instead of {behavior:dismissing the needs of others}, I will {step:seek ways to serve}."
       }
     }
   }

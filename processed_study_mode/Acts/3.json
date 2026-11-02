@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What profound dynamic catches your attention in this temple encounter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine interruption of human routine",
-            "expansion": "An ordinary moment of begging becomes a supernatural opportunity for transformation."
-          },
-          {
-            "id": 2,
-            "text": "Power of compassionate attention",
-            "expansion": "Peter and John's deliberate, focused gaze changes everything for the disabled man."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected grace superseding immediate need",
-            "expansion": "The man sought monetary charity but received profound physical and spiritual restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If healing and transformation are always available, what persistent limitations are you choosing to accept?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations interact with divine potential?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your understanding of mercy and miraculous potential?",
-        "options": [
-          "I see compassion as more active than passive",
-          "Supernatural intervention seems more accessible",
-          "Personal limitations do not define my potential",
-          "Unexpected grace can emerge in ordinary moments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Healing is always a direct result of individual faith",
           "Miraculous interventions point toward ultimate spiritual restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The man asked them for money",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Peter said",
+            "ref": "v. 6",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in the man's place, expecting a coin but receiving a command. How does the lack of silver or gold change what you realize you actually needed?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 53:5",
+        "summary": "Peter says God glorified His servant Jesus (v. 13). Isaiah 53:5 says He was pierced for our transgressions, crushed for our iniquities, and by His stripes we are healed.",
+        "question": "How does Isaiah 53:5 help you understand what Peter says about God's servant in v. 13?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "exposure",
+        "because": "those who repent and turn back have their sins wiped away",
+        "feeling": "guilt, shame",
+        "object": "a past mistake",
+        "behavior": "hiding from others",
+        "step": "confess it to the Lord",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a past mistake} into the light and instead of {behavior:hiding from others}, I will {step:confess it to the Lord}."
       }
     }
   }

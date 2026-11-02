@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual concept resonates most deeply with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Overcoming the World through Faith",
-            "expansion": "Faith transforms personal limitations into spiritual possibilities."
-          },
-          {
-            "id": 2,
-            "text": "Divine Sonship through Belief",
-            "expansion": "Believing in Christ establishes a profound spiritual lineage and identity."
-          },
-          {
-            "id": 3,
-            "text": "Love as Obedience",
-            "expansion": "True love manifests through intentional adherence to divine commandments."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If loving God is demonstrated through keeping His commandments, how might your daily actions reveal or conceal your spiritual commitment?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual experience with communal faith practices?",
-        "left_label": "Individual Spiritual Journey",
-        "right_label": "Collective Religious Tradition"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual transformation?",
-        "options": [
-          "Deepened my view of faith's power",
-          "Reconsidered what true love means",
-          "Recognized spiritual inheritance",
-          "Questioned my relationship with divine commandments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Establishes an intimate, transformative connection with divine nature",
           "Guarantees immediate temporal prosperity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The author asks and answers",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer who hears that our faith is the victory that has overcome the world. What do you understand when the next line asks who overcomes the world and answers: only he who believes that Jesus is the Son of God?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "John 3:16",
+        "summary": "Whoever has the Son has life (v. 12). John 3:16 says God gave His one and only Son so that everyone who believes in Him shall not perish but have eternal life.",
+        "question": "How does John 3:16 help you understand what it means to have the Son and have life?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "if we ask anything according to God's will, God hears us",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult situation",
+        "behavior": "worrying about the outcome",
+        "step": "submit my request to His purposes",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a difficult situation} to God and instead of {behavior:worrying about the outcome}, I will {step:submit my request to His purposes}."
       }
     }
   }

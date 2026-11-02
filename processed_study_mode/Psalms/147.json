@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of God's nature resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's Cosmic Power",
-            "expansion": "The psalm reveals God's sovereignty over astronomical and meteorological systems."
-          },
-          {
-            "id": "2",
-            "text": "Divine Compassion",
-            "expansion": "God tenderly cares for the broken-hearted and binds their emotional wounds."
-          },
-          {
-            "id": "3",
-            "text": "Intellectual Majesty",
-            "expansion": "God's understanding is infinite, transcending human comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so comprehensive, what prevents human suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's cosmic power with personal vulnerability?",
-        "left_label": "Cosmic Indifference",
-        "right_label": "Personal Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine engagement shifted?",
-        "options": [
-          "More aware of cosmic complexity",
-          "Recognize divine tenderness",
-          "Appreciate mysterious divine intelligence",
-          "Feel more personally connected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention occurs through systemic restoration, not just individual miracles",
           "God's emotional investment extends beyond human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "vv. 8-9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one called to sing with thanksgiving. You hear of clouds over the sky, rain for the earth, grass on the hills, and food for the ravens when they call. What do you notice about who does all this?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Colossians 1:16-17",
+        "summary": "The psalmist says the LORD determines the number of the stars and calls them each by name (v. 4). Colossians 1:16-17 says all things were created in Him and through Him and for Him, and in Him all things hold together.",
+        "question": "How does Colossians 1:16-17 help you understand the God who calls the stars each by name?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "the LORD sustains the humble",
+        "feeling": "anxiety, insecurity",
+        "object": "my lack of control",
+        "behavior": "striving for recognition",
+        "step": "rest in His care",
+        "template": "from today I bring You my {feeling:anxiety, insecurity} about {object:my lack of control} and instead of {behavior:striving for recognition}, I will {step:rest in His care}."
       }
     }
   }

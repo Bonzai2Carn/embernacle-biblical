@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership transition most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Power's Fragility",
-            "expansion": "Leadership can collapse quickly when key supporters depart or are eliminated."
-          },
-          {
-            "id": 2,
-            "text": "Betrayal's Consequences",
-            "expansion": "Political opportunism often leads to unexpected and destructive outcomes."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability of Succession",
-            "expansion": "Dynastic transitions are inherently precarious and emotionally complex."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When power becomes unstable, what reveals a leader's true character: their response to weakness or their approach to potential successors?"
-      },
-      "moral_slider": {
-        "question": "How do personal ambition and ethical leadership interact during political transitions?",
-        "left_label": "Personal Gain",
-        "right_label": "Collective Welfare"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of political legitimacy?",
-        "options": [
-          "Power is more fragile than I previously understood",
-          "Loyalty matters more than bloodline",
-          "Ethical leadership requires constant vigilance",
-          "Political transitions are inherently violent processes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention directly prevents political violence",
           "Moral character is secondary to strategic political outcomes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Rechab and Baanah said to the king",
+            "ref": "v. 8",
+            "speaker": "Rechab and Baanah"
+          },
+          {
+            "who": "David answered",
+            "ref": "vv. 9-11",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place. These men bring you the head of your enemy and claim God has granted you vengeance. Do you see their act as a gift or as a crime?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Romans 12:19",
+        "summary": "Rechab and Baanah bring Ish-bosheth's head to David and say the LORD has granted vengeance to the king (v. 8). Romans 12:19 says not to avenge yourselves but to leave room for God's wrath, for it is written, 'Vengeance is Mine; I will repay, says the Lord.'",
+        "question": "How does Romans 12:19 help you understand the claim in v. 8 that the LORD has granted vengeance?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "remembrance",
+        "because": "the LORD has redeemed my life from all distress",
+        "feeling": "anxiety, fear",
+        "object": "a sudden crisis",
+        "behavior": "panicking and losing focus",
+        "step": "recall one past deliverance",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a sudden crisis} and instead of {behavior:panicking and losing focus}, I will {step:recall one past deliverance}."
       }
     }
   }

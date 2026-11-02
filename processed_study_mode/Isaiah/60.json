@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image of transformation most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Light overcoming darkness",
-            "expansion": "Divine presence transforms collective human experience from despair to hope."
-          },
-          {
-            "id": 2,
-            "text": "Nations converging toward spiritual renewal",
-            "expansion": "Universal redemption transcends tribal boundaries through spiritual awakening."
-          },
-          {
-            "id": 3,
-            "text": "Restoration of scattered community",
-            "expansion": "Prophetic vision promises reunification of dispersed people through divine intervention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine light is universally available, why do some remain in darkness?"
-      },
-      "moral_slider": {
-        "question": "How do personal and collective spiritual transformation interrelate?",
-        "left_label": "Individual Salvation",
-        "right_label": "Communal Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual hope evolved?",
-        "options": [
-          "Recognized broader scope of divine promise",
-          "Challenged previous limitations about spiritual renewal",
-          "Understood interconnectedness of human experiences",
-          "Deepened appreciation for prophetic vision"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic representation of God's redemptive purposes",
           "Eschatological prophecy fulfilled in the end times"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Zion, in the darkness that covers the earth. What would you weigh when you hear that the LORD will rise upon you and that nations will come to your light?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Revelation 21:23-24",
+        "summary": "Isaiah says nations will come to Zion's light, and kings to the brightness of its dawn (v. 3). Revelation says God's glory lights the city, and the nations walk by its light (Revelation 21:23-24).",
+        "question": "How does Revelation 21:23-24 help you understand the light Isaiah 60 promises?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "pacing",
+        "because": "the LORD will accomplish the work quickly in its time",
+        "feeling": "impatience, restlessness",
+        "object": "a delayed answer to prayer",
+        "behavior": "forcing my own timeline",
+        "step": "wait for the LORD's timing",
+        "template": "from today I set down my {feeling:impatience, restlessness} about {object:a delayed answer to prayer} and instead of {behavior:forcing my own timeline}, I will {step:wait for the LORD's timing}."
       }
     }
   }

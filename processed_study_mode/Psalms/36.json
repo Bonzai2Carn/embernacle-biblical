@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine attribute in this psalm most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's unfailing love",
-            "expansion": "The psalm emphasizes God's steadfast love as a foundational grace beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Divine righteousness",
-            "expansion": "God's judgments are portrayed as deeply principled and immovable, transcending human moral limitations."
-          },
-          {
-            "id": 3,
-            "text": "God's protective nature",
-            "expansion": "The psalm depicts divine protection as a refuge where humans find safety and restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love is truly 'unfailing' as the psalm suggests, what human experiences might challenge or test that theological assertion?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human wickedness with divine mercy?",
-        "left_label": "Divine Judgment",
-        "right_label": "Divine Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine character evolved from reflecting on this psalm?",
-        "options": [
-          "More aware of God's complexity",
-          "Recognize divine love as multifaceted",
-          "Challenged previous simplistic views",
-          "Deepened appreciation for spiritual nuance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation occurs through recognition of divine attributes",
           "Personal righteousness emerges from understanding divine mercy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist exclaims",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people who take refuge. You hear that God's loving devotion reaches to the heavens (v. 5). What do you understand about why that devotion is precious enough to take refuge in the shadow of His wings (v. 7)?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 103:8",
+        "summary": "The psalmist celebrates God's loving devotion, which reaches to the heavens (v. 5). Psalm 103:8 says the LORD is compassionate and gracious, slow to anger, and abounding in loving devotion.",
+        "question": "How does knowing God is slow to anger help you understand the safety of taking refuge in His shadow (v. 7)?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "in Your light we see light",
+        "feeling": "confusion, doubt",
+        "object": "a difficult season",
+        "behavior": "relying on my own understanding",
+        "step": "look to His truth",
+        "template": "from today I bring You my {feeling:confusion, doubt} about {object:a difficult season} and instead of {behavior:relying on my own understanding}, I will {step:look to His truth}."
       }
     }
   }

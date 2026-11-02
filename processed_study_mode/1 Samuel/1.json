@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Hannah's experience resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Her profound emotional pain of infertility",
-            "expansion": "Suffering can be a profound catalyst for spiritual transformation and deep prayer."
-          },
-          {
-            "id": "b",
-            "text": "Her unwavering faith despite personal struggle",
-            "expansion": "Persistent hope in divine providence transcends immediate circumstances."
-          },
-          {
-            "id": "c",
-            "text": "Her radical commitment to surrender her child to God's service",
-            "expansion": "True devotion sometimes requires releasing our most cherished gifts back to God."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal disappointment be a hidden pathway to spiritual breakthrough?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal suffering reveal or challenge one's understanding of divine purpose?",
-        "left_label": "Suffering as Punishment",
-        "right_label": "Suffering as Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prayer and personal surrender shifted?",
-        "options": [
-          "I see prayer as more vulnerable and honest",
-          "Surrender requires greater courage than I previously understood",
-          "Personal pain can be a sacred space of spiritual encounter",
-          "Faithfulness might look different than I initially imagined"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Authentic worship transcends external validation",
           "God's redemptive plans often emerge through unexpected channels"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Eli thought",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "Eli said",
+            "ref": "v. 14",
+            "speaker": "Eli"
+          }
+        ],
+        "question": "Put yourself in Hannah's place. You are pouring out your soul in silence, yet the priest mistakes your agony for drunkenness. How does his judgment change how you respond to him?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Luke 1:7-25",
+        "summary": "Hannah prays in bitter distress and weeps (v. 10), and later bears a son and names him Samuel because she asked for him from the LORD (v. 20). Luke 1:7-25 tells of Elizabeth, who had no children, and an angel who tells Zechariah his prayer has been heard.",
+        "question": "How does Luke 1:7-25 help you understand why Hannah says she asked for Samuel from the LORD?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "Hannah's face was no longer downcast",
+        "feeling": "anxiety, heaviness",
+        "object": "an unmet need",
+        "behavior": "refusing to eat or rest",
+        "step": "eat and find peace",
+        "template": "from today I entrust my {feeling:anxiety, heaviness} about {object:an unmet need} to God and instead of {behavior:refusing to eat or rest}, I will {step:eat and find peace}."
       }
     }
   }

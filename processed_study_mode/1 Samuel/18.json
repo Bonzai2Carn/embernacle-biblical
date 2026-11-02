@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic of friendship most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Selfless Love (Jonathan's covenant with David)",
-            "expansion": "True friendship transcends personal gain and seeks the other's highest good."
-          },
-          {
-            "id": 2,
-            "text": "Navigating Complex Power Dynamics",
-            "expansion": "Relationships require wisdom when operating within hierarchical or potentially threatening environments."
-          },
-          {
-            "id": 3,
-            "text": "Loyalty Under Pressure",
-            "expansion": "Genuine connection endures even when external forces seek to divide or destroy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might David's initial success provoke jealousy, and what does this reveal about human nature's deeper insecurities?"
-      },
-      "moral_slider": {
-        "question": "Where is the boundary between righteous ambition and potentially destructive competition?",
-        "left_label": "Personal Achievement",
-        "right_label": "Collective Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and friendship evolved?",
-        "options": [
-          "I see more complexity in human motivations",
-          "Loyalty is more nuanced than I previously understood",
-          "Power can corrupt even well-intentioned relationships",
-          "True friendship requires extraordinary courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Character development occurs through challenging relationships",
           "Divine purpose transcends human understanding and control"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The women sang",
+            "ref": "v. 7",
+            "speaker": "The women"
+          },
+          {
+            "who": "Saul said",
+            "ref": "v. 8",
+            "speaker": "Saul"
+          }
+        ],
+        "question": "Put yourself in Saul's place as you hear the women sing that you have slain your thousands and David his tens of thousands. What do you make of what rises in you as you ask, 'What more can he have but the kingdom?'"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Acts 13:22",
+        "summary": "The text shows Saul's fear of David because the LORD was with David (v. 12). Later, God describes David as a man after His own heart.",
+        "question": "How does knowing God's view of David's heart change how you see Saul's fear of David's success?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "exposure",
+        "because": "the women have ascribed tens of thousands to David, but only thousands to me",
+        "feeling": "resentment, jealousy",
+        "object": "someone else's achievement",
+        "behavior": "comparing my worth to theirs",
+        "step": "rejoice in their victory",
+        "template": "from today I bring my {feeling:resentment, jealousy} about {object:someone else's achievement} into the light and instead of {behavior:comparing my worth to theirs}, I will {step:rejoice in their victory}."
       }
     }
   }

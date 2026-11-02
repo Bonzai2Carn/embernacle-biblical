@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human loyalty and betrayal resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ziba's strategic provision to David",
-            "expansion": "Opportunistic support can emerge from complex relational dynamics."
-          },
-          {
-            "id": 2,
-            "text": "Shimei's cursing of David",
-            "expansion": "Unresolved historical wounds can manifest as public reproach."
-          },
-          {
-            "id": 3,
-            "text": "David's restrained response to personal attacks",
-            "expansion": "Humility in leadership can transform potential conflict scenarios."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal suffering and leadership resilience intersect when facing public humiliation?"
-      },
-      "moral_slider": {
-        "question": "How do divine providence and human agency interact during moments of personal crisis?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Spiritual Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership response to criticism evolved?",
-        "options": [
-          "More empathetic to complex emotional landscapes",
-          "Recognize the spiritual dimension of personal challenges",
-          "Appreciate restraint as a form of strength",
-          "Understand loyalty as a nuanced, contextual concept"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers should always fight back against personal attacks",
           "Passive acceptance of persecution demonstrates spiritual weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Abishai said to the king",
+            "ref": "v. 9",
+            "speaker": "Abishai"
+          },
+          {
+            "who": "The king replied",
+            "ref": "v. 10",
+            "speaker": "The king"
+          }
+        ],
+        "question": "Put yourself in the king's place. A man curses you, and your commander offers to cut off his head. You choose to hold back. What does your reasoning suggest about how you see the source of this curse?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalms 3:3",
+        "summary": "David tells Abishai that if Shimei curses because the LORD told him to, no one can ask why (v. 10). Psalm 3:3 says the LORD is a shield around me, my glory, and the One who lifts my head.",
+        "question": "How does Psalm 3:3 help you understand David's decision to let Shimei curse him?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "the LORD may see my affliction and repay me with good",
+        "feeling": "bitterness, hurt",
+        "object": "unfair criticism",
+        "behavior": "defending my reputation",
+        "step": "rest in His justice",
+        "template": "from today I entrust my {feeling:bitterness, hurt} about {object:unfair criticism} to God and instead of {behavior:defending my reputation}, I will {step:rest in His justice}."
       }
     }
   }

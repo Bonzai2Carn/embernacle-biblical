@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment Against Nations",
-            "expansion": "God's accountability extends beyond Israel to surrounding regional powers."
-          },
-          {
-            "id": 2,
-            "text": "Cosmic Moral Order",
-            "expansion": "Systematic transgressions trigger inevitable spiritual consequences."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Witnessing",
-            "expansion": "Prophets serve as divine conduits revealing uncomfortable spiritual truths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is universal, what distinguishes a chosen people from other nations?"
-      },
-      "moral_slider": {
-        "question": "How do national sins relate to individual moral responsibility?",
-        "left_label": "Collective Guilt",
-        "right_label": "Individual Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine justice?",
-        "options": [
-          "I see judgment as more systemic",
-          "I recognize broader spiritual accountability",
-          "I understand prophetic role differently",
-          "My view of God's relationship to nations has shifted"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Prophetic warnings demonstrate divine compassion",
           "Judgment demonstrates God's commitment to human accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD roars",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this roar. What do you understand about the LORD when the pastures of the shepherds mourn and the summit of Carmel withers?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Romans 12:19",
+        "summary": "The LORD declares judgment on Damascus for threshing Gilead with sledges of iron (v. 3). Paul writes that vengeance belongs to God, who will repay.",
+        "question": "How does Paul's statement that God will repay help you understand the judgment the LORD declares on Damascus?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "exposure",
+        "because": "Edom pursued his brother with the sword and stifled all compassion",
+        "feeling": "indignation, anger",
+        "object": "someone else's mistake",
+        "behavior": "holding onto a grudge",
+        "step": "seek a way to show mercy",
+        "template": "from today I bring my {feeling:indignation, anger} about {object:someone else's mistake} into the light and instead of {behavior:holding onto a grudge}, I will {step:seek a way to show mercy}."
       }
     }
   }

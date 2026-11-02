@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme from David's census resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Sovereignty",
-            "expansion": "God's ultimate control transcends human intentions and actions."
-          },
-          {
-            "id": 2,
-            "text": "Personal Accountability",
-            "expansion": "Leaders bear responsibility for decisions that impact entire communities."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Suffering",
-            "expansion": "Consequences can lead to profound spiritual transformation and humility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does numerical strength become a form of spiritual weakness?"
-      },
-      "moral_slider": {
-        "question": "How do human pride and divine judgment intersect?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and accountability shifted?",
-        "options": [
-          "Recognition of human limitations",
-          "Understanding of spiritual consequences",
-          "Importance of spiritual humility",
-          "Value of seeking divine guidance over human metrics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual accountability applies even to chosen leaders",
           "Genuine repentance can mitigate divine judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Gad asked",
+            "ref": "v. 13",
+            "speaker": "Gad"
+          },
+          {
+            "who": "David answered",
+            "ref": "v. 14",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place. Gad lays out three years of famine, three months of fleeing, or three days of plague. What would you weigh, and what do you make of choosing the hand of the LORD because His mercies are great?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "1 Chronicles 21:1",
+        "summary": "David tells Joab to register the troops so that he may know their number (v. 2), and a plague follows (v. 15). 1 Chronicles 21:1 says Satan rose up against Israel and incited David to take a census of Israel.",
+        "question": "How does 1 Chronicles 21:1 help you understand what stood behind David's order to count the troops?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "I will not offer to the LORD my God burnt offerings that cost me nothing",
+        "feeling": "selfishness, greed",
+        "object": "my time and resources",
+        "behavior": "giving only leftovers",
+        "step": "sacrifice something meaningful",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my time and resources} and instead of {behavior:giving only leftovers}, I will {step:sacrifice something meaningful}."
       }
     }
   }

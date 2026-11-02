@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply?",
-        "choices": [
-          {
-            "id": "prayer_guard",
-            "text": "Guarding my speech and heart in prayer",
-            "expansion": "The Psalmist seeks divine protection from impulsive words and destructive influences."
-          },
-          {
-            "id": "righteous_correction",
-            "text": "Accepting correction from the righteous",
-            "expansion": "Vulnerability to godly rebuke demonstrates spiritual maturity and humility."
-          },
-          {
-            "id": "divine_refuge",
-            "text": "Finding refuge in God during adversity",
-            "expansion": "Trusting divine protection when surrounded by spiritual and physical challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your prayers reveal more about your inner spiritual landscape than your public actions?"
-      },
-      "moral_slider": {
-        "question": "What is the balance between personal integrity and seeking divine intervention?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare evolved?",
-        "options": [
-          "Recognize internal spiritual battles",
-          "Understand prayer as a defensive mechanism",
-          "See vulnerability as spiritual strength",
-          "Appreciate divine guidance in challenging moments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prayer transforms internal thought patterns and spiritual perceptions",
           "Prayer creates spiritual boundaries against external negative influences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you feel broken and scattered like soil being plowed (v. 7). What changes when you shift your focus to God (v. 8)?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Proverbs 4:23",
+        "summary": "The psalmist asks the LORD to set a guard over his mouth and keep watch at the door of his lips (v. 3). Proverbs 4:23 says to guard the heart with all diligence, because life flows from it.",
+        "question": "How does the need to guard the heart in Proverbs 4:23 help you understand the psalmist's plea for a guard over his mouth?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "I ask the LORD to set a guard over my mouth and keep watch at the door of my lips",
+        "feeling": "impatience, anger",
+        "object": "a heated argument",
+        "behavior": "speaking harsh words",
+        "step": "pause and breathe before I reply",
+        "template": "from today I bring You my {feeling:impatience, anger} about {object:a heated argument} and instead of {behavior:speaking harsh words}, I will {step:pause and breathe before I reply}."
       }
     }
   }

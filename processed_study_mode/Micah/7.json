@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of societal decay most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Corruption of leadership",
-            "expansion": "Leaders who prioritize personal gain over justice fundamentally undermine social trust."
-          },
-          {
-            "id": 2,
-            "text": "Breakdown of interpersonal trust",
-            "expansion": "When neighbors and family members cannot trust each other, the social fabric disintegrates."
-          },
-          {
-            "id": 3,
-            "text": "Systemic moral erosion",
-            "expansion": "Widespread ethical compromise creates a culture where evil becomes normalized."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In a world where corruption seems systemic, what inner resources can an individual cultivate to maintain personal integrity?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of social responsibility shifted?",
-        "options": [
-          "I now see individual actions as more consequential",
-          "I recognize systemic challenges require collective transformation",
-          "I feel more empowered to create local change",
-          "I understand the complexity of moral decline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Retreat and create separate spiritual communities",
           "Focus on individual evangelism and spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The prophet cries out",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet turns to trust",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who cries, Woe is me! You are like one gathering summer fruit with no cluster left to eat. What would you weigh when you hear, But as for me, I will look to the LORD, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Isaiah 40:31",
+        "summary": "Micah says he will look to the LORD and wait for the God of his salvation (v. 7). Isaiah says those who wait upon the LORD will renew their strength (Isaiah 40:31).",
+        "question": "How does Isaiah 40:31 help you understand what it means to wait for the LORD, as Micah does?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "repair",
+        "because": "though I have fallen, I will arise, and the LORD will be my light in darkness",
+        "feeling": "shame, despair",
+        "object": "a fall I cannot hide",
+        "behavior": "staying down and hiding",
+        "step": "get up and take one honest step",
+        "template": "from today I bring You my {feeling:shame, despair} about {object:a fall I cannot hide} and instead of {behavior:staying down and hiding}, I will {step:get up and take one honest step}."
       }
     }
   }

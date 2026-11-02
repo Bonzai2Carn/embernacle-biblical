@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jesus' Sermon on the Mount most challenges your understanding?",
-        "choices": [
-          {
-            "id": "beatitudes",
-            "text": "The Beatitudes",
-            "expansion": "Redefining blessing as spiritual poverty and meekness rather than worldly success."
-          },
-          {
-            "id": "righteousness",
-            "text": "Radical Righteousness",
-            "expansion": "Moving beyond external rule-following to internal heart transformation."
-          },
-          {
-            "id": "love-enemies",
-            "text": "Loving Enemies",
-            "expansion": "Challenging the natural human impulse toward retribution with radical grace."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If righteousness is about the heart's intent, not just external actions, how might this transform your understanding of moral living?"
-      },
-      "moral_slider": {
-        "question": "How do personal convictions balance with social conformity in living out spiritual principles?",
-        "left_label": "Individual Conviction",
-        "right_label": "Social Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on personal ethics shifted after reflecting on this chapter?",
-        "options": [
-          "More internally focused",
-          "More grace-oriented",
-          "More challenging of traditional interpretations",
-          "More committed to personal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation requires radical self-examination",
           "Moral excellence emerges from grace, not legalistic compliance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Jesus quoted the old teaching",
+            "ref": "v. 21",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus replied, But I tell you",
+            "ref": "v. 22",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a listener who has kept the command not to murder. What would you understand from Jesus' But I tell you, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 44,
+        "ref": "Luke 6:27",
+        "summary": "Jesus tells His followers to love their enemies and pray for those who persecute them (v. 44). Luke records the same command: love your enemies and do good to those who hate you (Luke 6:27).",
+        "question": "How does Luke 6:27 help you weigh the difficulty of loving those who hate you?"
+      },
+      "conviction": {
+        "verse": 37,
+        "frame": "practice",
+        "because": "anything more than a plain Yes or No comes from the evil one",
+        "feeling": "anxiety, pressure",
+        "object": "proving my worth",
+        "behavior": "over-explaining my motives",
+        "step": "speak with simple honesty",
+        "template": "from today I let go of my {feeling:anxiety, pressure} over {object:proving my worth} and instead of {behavior:over-explaining my motives}, I will {step:speak with simple honesty}."
       }
     }
   }

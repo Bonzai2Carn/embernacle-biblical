@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intimacy Requires Accountability",
-            "expansion": "God's special relationship with Israel demands higher spiritual responsibility."
-          },
-          {
-            "id": 2,
-            "text": "Consequence is Predictable",
-            "expansion": "Spiritual actions have inherent, foreseeable spiritual consequences."
-          },
-          {
-            "id": 3,
-            "text": "Relationship Requires Alignment",
-            "expansion": "True communion necessitates shared understanding and mutual agreement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God has chosen you intimately, does that privilege absolve or intensify your moral obligations?"
-      },
-      "moral_slider": {
-        "question": "How do divine election and personal accountability balance?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Strict Judgment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine relationship transformed?",
-        "options": [
-          "I see accountability differently",
-          "I understand consequence more deeply",
-          "My view of divine intimacy has shifted",
-          "I recognize spiritual cause-and-effect more clearly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,36 @@
           "Divine relationship demands higher moral standards",
           "Covenant implies unconditional acceptance regardless of behavior"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the people the LORD has known from all the families of the earth. What do you weigh when He says He will punish you for all your iniquities?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Deuteronomy 7:6-8",
+        "summary": "The LORD says He has known only Israel from all the families of the earth, so He will punish their iniquities (v. 2). Deuteronomy says the LORD chose Israel out of all peoples, not because they were numerous, but because He loved them.",
+        "question": "How does Deuteronomy's reminder of why the LORD chose Israel help you understand why He holds them accountable in Amos 3?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the Lord GOD does nothing without revealing His plan to His servants the prophets",
+        "feeling": "doubt, skepticism",
+        "object": "a hard word from a faithful friend",
+        "behavior": "brushing off correction",
+        "step": "pray over the warning before I decide",
+        "template": "from today I entrust my {feeling:doubt, skepticism} about {object:a hard word from a faithful friend} to God and instead of {behavior:brushing off correction}, I will {step:pray over the warning before I decide}."
       }
     }
   }

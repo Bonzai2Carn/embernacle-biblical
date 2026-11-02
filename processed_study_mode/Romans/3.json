@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Faithfulness Transcends Human Failure",
-            "expansion": "Divine reliability exists independent of human inconsistency"
-          },
-          {
-            "id": 2,
-            "text": "Universal Human Sinfulness",
-            "expansion": "All humans share a fundamental brokenness before divine standards"
-          },
-          {
-            "id": 3,
-            "text": "Grace Overcomes Legalistic Righteousness",
-            "expansion": "Salvation emerges from divine mercy, not human performance"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human unfaithfulness actually highlights God's faithfulness, can failure itself become a pathway to understanding grace?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate righteousness: in personal effort or divine intervention?",
-        "left_label": "Human Achievement",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption shifted?",
-        "options": [
-          "I see sin more comprehensively",
-          "Divine mercy feels more expansive",
-          "Personal effort seems less significant",
-          "Theological complexity has increased"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The depth of God's redemptive plan is revealed through universal human brokenness",
           "Human sin provides an opportunity for God to display transformative mercy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Paul explains the reach of the law",
+            "ref": "v. 19",
+            "speaker": ""
+          },
+          {
+            "who": "Paul concludes",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those under the law. What do you understand about the law's purpose when Paul says it cannot justify you?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Ephesians 2:8-9",
+        "summary": "Paul says all have sinned and fall short of the glory of God (v. 23), and that boasting is excluded, not on the principle of works but of faith (v. 27). Ephesians 2:8-9 says salvation is by grace through faith, a gift of God and not by works, so that no one can boast.",
+        "question": "How does Ephesians 2:8-9 help you understand why boasting is excluded in Romans 3:27?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "we are justified freely by His grace through the redemption that is in Christ Jesus",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "trying to earn God's favor",
+        "step": "rest in His finished work",
+        "template": "from today I entrust my {feeling:shame, inadequacy} about {object:my past failures} to God and instead of {behavior:trying to earn God's favor}, I will {step:rest in His finished work}."
       }
     }
   }

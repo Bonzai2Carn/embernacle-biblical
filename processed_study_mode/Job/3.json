@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Job's profound emotional suffering?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Wishing to erase his own existence",
-            "expansion": "The depth of grief can make life itself feel unbearable and undesirable."
-          },
-          {
-            "id": 2,
-            "text": "Cursing the day of his birth",
-            "expansion": "Radical despair challenges the fundamental narrative of life's inherent meaning."
-          },
-          {
-            "id": 3,
-            "text": "Expressing unfiltered emotional pain",
-            "expansion": "Authentic suffering demands raw, unmediated expression beyond social propriety."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering strips away all pretense, what fundamental truth about human vulnerability does Job's lament reveal?"
-      },
-      "moral_slider": {
-        "question": "How do we reconcile divine providence with individual human suffering?",
-        "left_label": "Randomness/Meaninglessness",
-        "right_label": "Purposeful Divine Plan"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of grief and suffering have shifted?",
-        "options": [
-          "Suffering is not a moral failure",
-          "Emotional honesty is a form of strength",
-          "Pain can be articulated without judgment",
-          "Silence is not always the most healing response"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emotional honesty with God is a valid form of spiritual dialogue",
           "Human comprehension of divine purpose is inherently limited"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Job cries",
+            "ref": "v. 11",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job says",
+            "ref": "vv. 17-19",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask why you did not die at birth, and then you picture a place where the weary find rest and the slave is freed from his master. What would you weigh in that picture?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Lamentations 3:1-20",
+        "summary": "Job curses the day of his birth (v. 1) and asks why light is given to the miserable (v. 20). Lamentations 3 describes a man surrounded by bitterness and hardship, and says God shuts out his prayer (Lam 3:5, 8).",
+        "question": "How does Lamentations 3:1-20 help you understand the bitterness behind Job's question in verse 20?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "exposure",
+        "because": "the thing I feared has overtaken me",
+        "feeling": "dread, anxiety",
+        "object": "a loss that has already come",
+        "behavior": "trying to outrun the truth",
+        "step": "bring the fear to God",
+        "template": "from today I bring You my {feeling:dread, anxiety} about {object:a loss that has already come} and instead of {behavior:trying to outrun the truth}, I will {step:bring the fear to God}."
       }
     }
   }

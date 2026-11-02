@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human uncertainty resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cast bread upon uncertain waters",
-            "expansion": "Generosity requires courage in facing unpredictable outcomes"
-          },
-          {
-            "id": 2,
-            "text": "Don't overthink potential obstacles",
-            "expansion": "Overthinking prevents meaningful action and personal growth"
-          },
-          {
-            "id": 3,
-            "text": "Life's randomness is inevitable",
-            "expansion": "Acceptance of uncertainty allows for greater spiritual resilience"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you cannot control all outcomes, how might surrender become a form of wisdom rather than weakness?"
-      },
-      "moral_slider": {
-        "question": "How do human effort and divine providence interact?",
-        "left_label": "Human Control",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has reading this chapter shifted your understanding of risk and faith?",
-        "options": [
-          "More comfortable with uncertainty",
-          "Recognize limits of human planning",
-          "See generosity as spiritual practice",
-          "Understand life's fundamental unpredictability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine sovereignty and human responsibility coexist mysteriously",
           "Individual actions have minimal spiritual significance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The Teacher observes",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a farmer. What do you understand about the cost of watching the wind and the clouds rather than sowing and reaping?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "2 Corinthians 9:6",
+        "summary": "The Teacher tells you to sow seed in the morning and not rest in the evening because you do not know which will succeed (v. 6). Paul describes the same principle of sowing and reaping regarding generosity.",
+        "question": "How does Paul's promise about the harvest help you understand the command to keep sowing even when the outcome is uncertain?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "God will bring you to judgment for the ways of your heart and the sight of your eyes",
+        "feeling": "recklessness, indulgence",
+        "object": "my own desires",
+        "behavior": "ignoring God's ways",
+        "step": "walk with awareness of His presence",
+        "template": "from today I let go of my {feeling:recklessness, indulgence} over {object:my own desires} and instead of {behavior:ignoring God's ways}, I will {step:walk with awareness of His presence}."
       }
     }
   }

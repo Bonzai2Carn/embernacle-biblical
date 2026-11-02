@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual metaphor most challenges your understanding of faith?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The spiritual rock representing Christ",
-            "expansion": "Christ's presence transcends historical moments, providing continuous spiritual sustenance."
-          },
-          {
-            "id": 2,
-            "text": "Baptism into Moses through cloud and sea",
-            "expansion": "Collective spiritual experiences shape communal identity beyond individual moments."
-          },
-          {
-            "id": 3,
-            "text": "Bodies scattered in the wilderness",
-            "expansion": "Spiritual privilege does not guarantee divine favor without genuine transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual experiences are universal, why do some individuals seemingly flourish while others remain stagnant?"
-      },
-      "moral_slider": {
-        "question": "How do past spiritual encounters influence present faithfulness?",
-        "left_label": "Historical Experience",
-        "right_label": "Present Commitment"
-      },
-      "reevaluation": {
-        "question": "How has this passage reshaped your understanding of spiritual inheritance?",
-        "options": [
-          "Recognizing collective spiritual history",
-          "Understanding divine expectations",
-          "Challenging assumptions about automatic blessing",
-          "Seeing Christ's continuous presence"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual experiences guarantee salvation",
           "Personal faith and response remain critical despite divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer who feels strong in their faith. How does the promise of an escape change how you view the danger of falling?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Numbers 14:22-23",
+        "summary": "Paul notes that God was not pleased with most of the Israelites, who were struck down in the wilderness (v. 5). Numbers 14:22-23 says not one of the men who tested and disobeyed Him ten times will see the land sworn to their fathers.",
+        "question": "How does Numbers 14:22-23 help you understand why Paul calls these events examples for us?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "whatever I do, I am to do it all to the glory of God",
+        "feeling": "selfishness, pride",
+        "object": "my personal reputation",
+        "behavior": "seeking my own praise",
+        "step": "act to honor Him",
+        "template": "from today I let go of my {feeling:selfishness, pride} over {object:my personal reputation} and instead of {behavior:seeking my own praise}, I will {step:act to honor Him}."
       }
     }
   }

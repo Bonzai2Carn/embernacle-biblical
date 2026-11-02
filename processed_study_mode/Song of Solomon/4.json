@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most deeply about divine love in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intimate Personal Affirmation",
-            "expansion": "Love sees beauty beyond external appearances, recognizing intrinsic worth and potential."
-          },
-          {
-            "id": 2,
-            "text": "Poetic Metaphorical Description",
-            "expansion": "Symbolic language reveals deeper spiritual connections transcending literal interpretation."
-          },
-          {
-            "id": 3,
-            "text": "Unconditional Acceptance",
-            "expansion": "True love embraces complexity and celebrates unique individual characteristics."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might our understanding of divine love change if we viewed each person with the same tender, detailed appreciation demonstrated in this passage?"
-      },
-      "moral_slider": {
-        "question": "To what extent does romantic love reflect spiritual connection?",
-        "left_label": "Purely Physical",
-        "right_label": "Deeply Spiritual"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on love's complexity shifted?",
-        "options": [
-          "Recognize deeper symbolic meanings",
-          "Appreciate metaphorical language",
-          "Understand love's multidimensional nature",
-          "See beauty beyond surface appearances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic portrayal of covenant relationship",
           "Purely poetic expression without deeper theological meaning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The bridegroom praises his bride",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "He says her glance has captured him",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the bride. He calls you altogether beautiful, with no flaw in you, and says one glance of your eyes has stolen his heart. What would you weigh about being loved this way?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Ephesians 5:25-27",
+        "summary": "The bridegroom says there is no flaw in his bride (v. 7). Paul says Christ gave Himself up for the church to present her to Himself without stain or wrinkle (Eph 5:25-27).",
+        "question": "How does Ephesians 5:25-27 help you understand the flawlessness the bridegroom describes here?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "my beloved calls me altogether beautiful, with no flaw in me",
+        "feeling": "self-criticism, shame",
+        "object": "my own appearance",
+        "behavior": "comparing myself to others",
+        "step": "thank God for my beauty today",
+        "template": "from today I bring You my {feeling:self-criticism, shame} about {object:my own appearance} and instead of {behavior:comparing myself to others}, I will {step:thank God for my beauty today}."
       }
     }
   }

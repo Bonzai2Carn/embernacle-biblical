@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual restoration dynamic resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Communal Unity",
-            "expansion": "The people gathered 'as one man', demonstrating collective spiritual commitment transcends individual hesitation."
-          },
-          {
-            "id": 2,
-            "text": "Rebuilding Despite Fear",
-            "expansion": "They constructed the altar courageously, even while experiencing surrounding cultural intimidation."
-          },
-          {
-            "id": 3,
-            "text": "Scriptural Fidelity",
-            "expansion": "Their restoration precisely followed Moses' original divine instructions, showing reverence for established spiritual precedent."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When external circumstances seem overwhelming, what internal resources determine whether a community rebuilds or retreats?"
-      },
-      "moral_slider": {
-        "question": "How do cultural pressures influence spiritual authenticity?",
-        "left_label": "Compromise",
-        "right_label": "Uncompromising Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal spiritual renewal shifted?",
-        "options": [
-          "Recognizing collective courage",
-          "Understanding historical spiritual patterns",
-          "Appreciating incremental restoration",
-          "Seeing faith as a collaborative journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Collective worship creates communal resilience and identity",
           "External religious structures determine spiritual vitality"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The builders laid the foundation",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The older men wept loudly",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are standing in the crowd. You hear both great joy and loud weeping at the same time. Which sound do you identify with, and why?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Psalm 133:1",
+        "summary": "The people in Jerusalem assembled as one man to build the altar and the temple (v. 1). The Psalmist describes the beauty of this same unity.",
+        "question": "How does the Psalmist's description of brothers dwelling in unity help you see the assembly in Jerusalem?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the people sacrificed burnt offerings on the altar, though they feared the people of the land",
+        "feeling": "anxiety, dread",
+        "object": "the disapproval of others",
+        "behavior": "withdrawing from my duties",
+        "step": "offer my worship anyway",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the disapproval of others} and instead of {behavior:withdrawing from my duties}, I will {step:offer my worship anyway}."
       }
     }
   }

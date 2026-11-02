@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Power Dynamics",
-            "expansion": "Human kingdoms rise and fall, yet divine sovereignty remains constant."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Warfare Behind Geopolitics",
-            "expansion": "Earthly conflicts reflect deeper spiritual struggles beyond human perception."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Precision",
-            "expansion": "Detailed predictions demonstrate God's comprehensive knowledge of historical trajectories."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophecy reveals predetermined events, how does human free will genuinely function?"
-      },
-      "moral_slider": {
-        "question": "How do divine plans interact with human agency?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic literature evolved?",
-        "options": [
-          "More nuanced view of biblical prediction",
-          "Greater appreciation for historical context",
-          "Increased comfort with mystery",
-          "Deeper respect for scriptural complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As symbolic representations of spiritual warfare",
           "As allegorical narratives demonstrating God's ultimate control"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 35,
+        "exchange": [
+          {
+            "who": "The messenger warns",
+            "ref": "v. 33",
+            "speaker": ""
+          },
+          {
+            "who": "The messenger explains",
+            "ref": "v. 35",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among those with insight who are told they will fall by sword or flame. You also hear that this is so they may be refined, purified, and made spotless. What would you still wonder about being refined by fire?"
+      },
+      "chain": {
+        "after": 36,
+        "ref": "Daniel 2:21",
+        "summary": "The king exalts himself above every god, and what has been decreed must be accomplished (v. 36). Daniel says God changes the times and seasons, and removes kings and establishes them (Daniel 2:21).",
+        "question": "How does Daniel 2:21 help you weigh the king's success until the time of wrath is completed in verse 36?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "devotion",
+        "because": "the people who know their God will firmly resist the one who corrupts with flattery",
+        "feeling": "fear, intimidation",
+        "object": "pressure from flattering voices",
+        "behavior": "going along with the crowd",
+        "step": "hold firm to my God",
+        "template": "from today I let go of my {feeling:fear, intimidation} over {object:pressure from flattering voices} and instead of {behavior:going along with the crowd}, I will {step:hold firm to my God}."
       }
     }
   }

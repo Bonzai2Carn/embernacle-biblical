@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine calling resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Prophetic Responsibility",
-            "expansion": "The weight of speaking truth, even when it might be rejected, demands profound spiritual courage."
-          },
-          {
-            "id": 2,
-            "text": "Divine Empowerment",
-            "expansion": "God's Spirit enables ordinary humans to carry extraordinary messages of transformation."
-          },
-          {
-            "id": 3,
-            "text": "Human Rebellion",
-            "expansion": "Understanding collective spiritual resistance reveals the deeper patterns of human disconnection from divine intention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God calls you to speak to an audience that you know will likely reject your message, what internal barriers might prevent your obedience?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance with human limitations?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic calling shifted?",
-        "options": [
-          "I see prophetic work as more challenging",
-          "I recognize the importance of spiritual resilience",
-          "I understand divine communication differently",
-          "I'm more aware of potential personal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic messages demonstrate God's commitment to communication",
           "Spiritual transformation requires both divine initiative and human response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one sent. You are sent to a people who refuse to listen. What is the purpose of your message when the outcome does not change their hearts?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Jeremiah 1:4-10",
+        "summary": "The LORD tells Ezekiel he is being sent to a rebellious nation (v. 3). Before Jeremiah was formed, the LORD called him and appointed him a prophet to the nations (Jeremiah 1:5).",
+        "question": "How does knowing that God prepared Jeremiah before his birth help you understand the weight of the commission given to Ezekiel?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "surrender",
+        "because": "the LORD tells Ezekiel not to be afraid of a rebellious house, though briers, thorns and scorpions surround him",
+        "feeling": "fear, intimidation",
+        "object": "the criticism of others",
+        "behavior": "withdrawing from my calling",
+        "step": "speak the truth clearly",
+        "template": "from today I release my {feeling:fear, intimidation} over {object:the criticism of others} and instead of {behavior:withdrawing from my calling}, I will {step:speak the truth clearly}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of servant/labor rights resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mandatory Release in Seventh Year",
-            "expansion": "Freedom is not merely a legal status, but a fundamental human dignity that must be systematically protected."
-          },
-          {
-            "id": 2,
-            "text": "Protection of Family Bonds",
-            "expansion": "Social systems must recognize and preserve human relationships beyond transactional labor."
-          },
-          {
-            "id": 3,
-            "text": "Voluntary Continued Service",
-            "expansion": "True commitment emerges from respect and mutual understanding, not coercion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human dignity is universal, how can any system of servitude be ethically justified?"
-      },
-      "moral_slider": {
-        "question": "How do legal structures balance individual freedom with societal economic needs?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Stability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of labor, freedom, and social contract evolved?",
-        "options": [
-          "I see more complexity in historical social arrangements",
-          "Individual human rights seem more nuanced",
-          "Legal structures reflect deeper ethical principles",
-          "Power dynamics are never simply black and white"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As evidence of progressive social ethics for its historical context",
           "As culturally specific regulations that reveal God's underlying moral character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says the servant declares",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says the master is to bring him before the judges",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the master. Your servant says, 'I love my master and my wife and children; I do not want to go free.' What do you understand as you bring him before the judges, to the door, and pierce his ear?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Matthew 5:38",
+        "summary": "The LORD sets the limit for a serious injury: a life for a life, eye for eye, tooth for tooth (vv. 23-25). Jesus quotes this same rule as something people have heard (Matthew 5:38).",
+        "question": "How does Jesus quoting this rule help you understand the strict justice you read about in Exodus?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "the one who struck the man must compensate him for his lost work",
+        "feeling": "indignation, anger",
+        "object": "a mistake someone made",
+        "behavior": "demanding more than is fair",
+        "step": "make things right with a simple act",
+        "template": "from today I let go of my {feeling:indignation, anger} over {object:a mistake someone made} and instead of {behavior:demanding more than is fair}, I will {step:make things right with a simple act}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Saul's immediate mobilization",
-            "expansion": "True leadership responds swiftly to urgent moral challenges"
-          },
-          {
-            "id": 2,
-            "text": "The people's collective solidarity",
-            "expansion": "Community unity emerges most powerfully when facing external threats"
-          },
-          {
-            "id": 3,
-            "text": "Divine empowerment of leadership",
-            "expansion": "Authentic leadership requires spiritual transformation beyond mere human capability"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When confronted with systemic oppression, at what point does negotiation become capitulation?"
-      },
-      "moral_slider": {
-        "question": "How do personal dignity and collective survival balance when facing existential threat?",
-        "left_label": "Individual Preservation",
-        "right_label": "Community Sacrifice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "Leadership is more about decisive action than rhetoric",
-          "Spiritual empowerment precedes effective governance",
-          "Community solidarity trumps individual heroism",
-          "Courage emerges through collective resolve"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership potential exists independently of divine intervention",
           "Divine empowerment is contingent upon human faithfulness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Saul heard the news of the threat",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "the Spirit of God rushed upon him",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Saul's place, returning from the field behind your oxen. You ask why the people are weeping and hear the words of the men from Jabesh. What would you make of the Spirit of God rushing upon you and the great anger that burns in you?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Acts 1:8",
+        "summary": "The Spirit of God rushes upon Saul and he burns with great anger (v. 6). In Acts 1:8 Jesus says His followers will receive power when the Holy Spirit comes upon them.",
+        "question": "How does Acts 1:8 help you understand what happens to Saul when the Spirit of God rushes upon him?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the LORD has worked salvation in Israel",
+        "feeling": "bitterness, resentment",
+        "object": "someone who wronged me",
+        "behavior": "seeking retribution",
+        "step": "refuse to punish them",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:someone who wronged me} and instead of {behavior:seeking retribution}, I will {step:refuse to punish them}."
       }
     }
   }

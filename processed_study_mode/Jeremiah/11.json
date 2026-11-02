@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which covenant theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Commitment",
-            "expansion": "God's persistent desire to maintain relationship despite human frailty"
-          },
-          {
-            "id": 2,
-            "text": "Collective Responsibility",
-            "expansion": "The community bears consequences for communal disobedience"
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning",
-            "expansion": "Jeremiah's role as a messenger confronting uncomfortable spiritual truths"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If covenant is a mutual agreement, what responsibility do we bear when divine expectations seem challenging or counterintuitive?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine judgment and divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Compassionate Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant shifted after examining this chapter?",
-        "options": [
-          "More aware of communal spiritual dynamics",
-          "Recognizing complex divine-human relationships",
-          "Seeing prophecy as transformative dialogue",
-          "Understanding accountability differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Obedience emerges from internal spiritual conviction, not external compulsion",
           "Covenant faithfulness transcends ritualistic religious performance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 11-12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are Jeremiah, hearing God forbid you to pray for the people. What would you still wonder about the disaster they cannot escape?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Deuteronomy 28:1-14",
+        "summary": "The LORD reminds the people of the covenant made at the Exodus (vv. 4-7). Deuteronomy 28:1-14 lists the blessings that follow obedience to the LORD.",
+        "question": "How does the promise of blessing for obedience in Deuteronomy 28:1-14 help you understand the disaster the LORD announces in this chapter?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "trust",
+        "because": "to You I have committed my cause",
+        "feeling": "resentment, hurt",
+        "object": "unfair treatment from others",
+        "behavior": "trying to defend myself",
+        "step": "leave the judgment to God",
+        "template": "from today I entrust my {feeling:resentment, hurt} about {object:unfair treatment from others} to God and instead of {behavior:trying to defend myself}, I will {step:leave the judgment to God}."
       }
     }
   }

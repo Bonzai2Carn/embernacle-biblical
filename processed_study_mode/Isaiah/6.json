@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of this divine encounter resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The overwhelming holiness of God",
-            "expansion": "The seraphim's constant proclamation reveals divine majesty transcending human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Isaiah's profound sense of unworthiness",
-            "expansion": "Personal recognition of human limitation when confronted with absolute divine perfection."
-          },
-          {
-            "id": 3,
-            "text": "The transformative moment of commissioning",
-            "expansion": "Divine grace enables human weakness to become an instrument of prophetic purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If confronted with ultimate divine holiness, how would your perception of personal righteousness fundamentally change?"
-      },
-      "moral_slider": {
-        "question": "How do human imperfection and divine calling coexist?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual encounter shifted?",
-        "options": [
-          "Recognize personal smallness",
-          "Understand divine initiative",
-          "Appreciate transformative grace",
-          "Embrace prophetic responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the necessity of human brokenness before spiritual empowerment",
           "Reveals the prophetic model of spiritual commissioning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The seraphim says",
+            "ref": "v. 7",
+            "speaker": "The seraphim"
+          },
+          {
+            "who": "The Lord asks",
+            "ref": "v. 8",
+            "speaker": "The Lord"
+          }
+        ],
+        "question": "Put yourself in Isaiah's place. You hear that your iniquity is removed and your sin is atoned for, and then you hear the Lord ask whom He should send. What do you weigh before you answer?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Revelation 4:8",
+        "summary": "The seraphim call to one another that the LORD of Hosts is holy (v. 3). In Revelation 4:8 the four living creatures never stop saying 'Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!'",
+        "question": "How does the unceasing cry of the living creatures in Revelation 4:8 help you understand the seraphim's cry in Isaiah 6?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "I am a man of unclean lips dwelling among a people of unclean lips",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach His altar",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my past failures} into the light and instead of {behavior:hiding from God}, I will {step:approach His altar}."
       }
     }
   }

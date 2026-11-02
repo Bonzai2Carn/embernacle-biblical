@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Samson's choice resonates most deeply?",
-        "choices": [
-          {
-            "id": "personal_desire",
-            "text": "Individual Desire Over Community Guidance",
-            "expansion": "Samson prioritizes his personal attraction despite familial and cultural warnings."
-          },
-          {
-            "id": "cultural_boundary",
-            "text": "Transgressing Cultural/Religious Boundaries",
-            "expansion": "Seeking a wife outside the Israelite community challenges established tribal norms."
-          },
-          {
-            "id": "emotional_impulse",
-            "text": "Emotional Immediacy of Passion",
-            "expansion": "Samson's swift decision reflects the raw, unfiltered nature of human emotional experience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does personal desire become a form of spiritual rebellion, and who determines the boundaries between individual choice and communal responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires align with divine purpose?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Alignment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal choice and spiritual calling shifted?",
-        "options": [
-          "Recognize complexity of individual agency",
-          "Understand tension between personal desire and communal expectations",
-          "Appreciate nuanced interpretations of divine guidance",
-          "Acknowledge human imperfection in spiritual journeys"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine calling sometimes requires breaking conventional religious boundaries",
           "Individual spiritual discernment is secondary to community religious norms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Samson's parents asked",
+            "ref": "v. 3",
+            "speaker": "His father and mother"
+          },
+          {
+            "who": "Samson answered",
+            "ref": "v. 3",
+            "speaker": "Samson"
+          }
+        ],
+        "question": "Put yourself in the place of Samson's parents. You see him choosing someone from an enemy group. What do you understand about his motivation, and what would you still fear for his future?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Genesis 50:20",
+        "summary": "The text says the LORD was seeking an occasion to move against the Philistines (v. 4). Genesis 50:20 says that what was intended for evil, God intended for good, to preserve the lives of many people.",
+        "question": "How does Genesis 50:20 help you understand why the LORD allowed Samson to pursue this marriage?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "Samson did not tell his father or mother what he had done",
+        "feeling": "shame, secrecy",
+        "object": "a recent failure",
+        "behavior": "hiding my struggle",
+        "step": "confess it to a trusted friend",
+        "template": "from today I bring my {feeling:shame, secrecy} about {object:a recent failure} into the light and instead of {behavior:hiding my struggle}, I will {step:confess it to a trusted friend}."
       }
     }
   }

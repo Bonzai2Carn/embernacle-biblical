@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation most resonates with your journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "From Death to Life",
-            "expansion": "Recognizing how divine grace rescues us from spiritual deadness into vibrant, purposeful existence."
-          },
-          {
-            "id": 2,
-            "text": "Breaking Worldly Patterns",
-            "expansion": "Understanding how we can transcend cultural and personal conditioning through Christ's redemptive power."
-          },
-          {
-            "id": 3,
-            "text": "Becoming God's Masterpiece",
-            "expansion": "Embracing our identity as intentionally crafted beings designed for meaningful spiritual work."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If grace is a gift, what personal effort could possibly contribute to spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do human agency and divine sovereignty interact in personal redemption?",
-        "left_label": "Human Choice",
-        "right_label": "Divine Election"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal spiritual potential shifted?",
-        "options": [
-          "I see my past differently",
-          "I recognize divine potential within me",
-          "I understand grace more deeply",
-          "I feel more connected to a larger spiritual narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Grace is a cooperative effort between human effort and divine intervention",
           "Grace is only available to select predestined individuals"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul describes your former state",
+            "ref": "vv. 1-3",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says God acted",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone told you were dead in trespasses and children of wrath, but that God made you alive with Christ. What do you understand about what happened to you?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Titus 3:3-5",
+        "summary": "Ephesians says we were dead in trespasses and sins (vv. 1-3) and saved by grace (v. 5). Titus describes our former state of being lost to passions and how God saved us through the washing of regeneration.",
+        "question": "Titus describes the same state of being lost to our own desires. How does that help you see the scale of the grace described in Ephesians?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "surrender",
+        "because": "you are saved by grace through faith, not by works, so that no one can boast",
+        "feeling": "pride, self-reliance",
+        "object": "my religious efforts",
+        "behavior": "counting my own merits",
+        "step": "rest in His finished work",
+        "template": "from today I release my {feeling:pride, self-reliance} over {object:my religious efforts} and instead of {behavior:counting my own merits}, I will {step:rest in His finished work}."
       }
     }
   }

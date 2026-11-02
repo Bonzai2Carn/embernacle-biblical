@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most powerfully represents spiritual awakening in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Discovering the Lost Book of the Law",
-            "expansion": "Rediscovery can trigger profound systemic transformation when sacred texts are truly encountered."
-          },
-          {
-            "id": 2,
-            "text": "Josiah's Humble Response to Scripture",
-            "expansion": "Genuine humility creates space for radical personal and national spiritual renewal."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Confirmation Through Huldah",
-            "expansion": "Divine communication often occurs through unexpected spiritual intermediaries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might generations of neglected spiritual heritage suddenly become transformative when genuinely rediscovered?"
-      },
-      "moral_slider": {
-        "question": "To what extent can individual spiritual conviction reshape collective societal direction?",
-        "left_label": "Personal Insignificance",
-        "right_label": "Transformative Leadership"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership requires deep personal accountability",
-          "Spiritual renewal often begins with humble recognition of past failures",
-          "Unexpected discoveries can trigger systemic change",
-          "True reformation starts with personal response to divine truth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Scripture's centrality determines spiritual health",
           "Generational sins can be intentionally interrupted through faithful action"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The king heard the words of the Book of the Law",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "Josiah commanded, 'Go and inquire of the LORD for me'",
+            "ref": "v. 13",
+            "speaker": "Josiah"
+          }
+        ],
+        "question": "Put yourself in Josiah's place. You have heard the words of this book, and you know the LORD's wrath burns against your people. What would you ask the LORD first?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Deuteronomy 17:18-20",
+        "summary": "The prophet Huldah explains why the LORD spared the king from seeing the coming calamity (v. 19). Deuteronomy describes the specific duty of a king to read the Law and follow it throughout his life.",
+        "question": "How does the king's duty to read the Law in Deuteronomy help you understand why his heart was called tender in this moment?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "exposure",
+        "because": "a tender heart that humbles itself before the LORD is heard by the LORD",
+        "feeling": "pride, indifference",
+        "object": "a conviction of my own sin",
+        "behavior": "making excuses",
+        "step": "weep and repent before Him",
+        "template": "from today I bring my {feeling:pride, indifference} about {object:a conviction of my own sin} into the light and instead of {behavior:making excuses}, I will {step:weep and repent before Him}."
       }
     }
   }

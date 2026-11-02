@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about spiritual restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Gentleness in correction",
-            "expansion": "True spiritual healing requires compassionate, non-judgmental approach to addressing another's fault."
-          },
-          {
-            "id": 2,
-            "text": "Bearing one another's burdens",
-            "expansion": "Community support transcends individual struggles and reflects Christ's transformative love."
-          },
-          {
-            "id": 3,
-            "text": "Personal accountability",
-            "expansion": "Genuine spiritual growth emerges from honest self-examination rather than comparing oneself to others."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your own unacknowledged weaknesses prevent you from truly helping another person's spiritual restoration?"
-      },
-      "moral_slider": {
-        "question": "What determines the balance between grace and accountability in spiritual community?",
-        "left_label": "Unconditional Acceptance",
-        "right_label": "Rigorous Standards"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community transformed?",
-        "options": [
-          "More aware of personal limitations",
-          "Recognize importance of gentle correction",
-          "Understand communal responsibility differently",
-          "See personal growth as interconnected process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Complete community-driven correction and rehabilitation",
           "Individualized approach based on specific spiritual circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "Paul instructed the spiritual",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who is spiritual, facing a brother caught in a trespass. What would you weigh about restoring him with gentleness, knowing you also may be tempted?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Romans 15:1-2",
+        "summary": "Paul tells believers to carry one another's burdens, which fulfills the law of Christ (v. 2). Romans says the strong should bear with the shortcomings of the weak and build up their neighbor (Romans 15:1-2).",
+        "question": "How does Romans 15:1-2 help you understand what it means to carry one another's burdens?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "pacing",
+        "because": "in due time we will reap a harvest if we do not give up",
+        "feeling": "weariness, discouragement",
+        "object": "slow results from my kindness",
+        "behavior": "giving up on doing good",
+        "step": "keep doing good to one person",
+        "template": "from today I set down my {feeling:weariness, discouragement} about {object:slow results from my kindness} and instead of {behavior:giving up on doing good}, I will {step:keep doing good to one person}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Intervention",
-            "expansion": "God actively restores and guides His people despite their previous spiritual wandering."
-          },
-          {
-            "id": 2,
-            "text": "Rejection of False Guidance",
-            "expansion": "Idols and false prophets lead people astray, contrasting with authentic divine leadership."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Restoration",
-            "expansion": "God promises comprehensive renewal and regathering of His scattered people."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might spiritual dependency on false sources of comfort ultimately weaken a community's resilience?"
-      },
-      "moral_slider": {
-        "question": "What determines authentic spiritual leadership?",
-        "left_label": "Human Performance",
-        "right_label": "Divine Anointing"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance shifted?",
-        "options": [
-          "I now see God's intervention as more personal",
-          "I recognize the danger of false spiritual narratives",
-          "I understand restoration requires active faith",
-          "I see collective spiritual health as interconnected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises are specifically tied to ethnic Israel's redemptive narrative",
           "Restoration implies complete spiritual and geopolitical transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The people wander",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 3",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the wandering sheep. You are lost and without a shepherd, but then you hear the LORD of Hosts intends to punish the leaders and attend to His flock. What does this change about your view of the future?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Ezekiel 34:11-16",
+        "summary": "The LORD of Hosts promises to strengthen Judah and save Joseph because of His compassion (v. 6). In Ezekiel the LORD says He will search for His flock, seek the lost, and strengthen the weak (Ezek 34:11, 16).",
+        "question": "How does Ezekiel's description of God seeking the lost help you understand the restoration promised in Zechariah 10:6?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "the LORD makes the storm clouds and gives everyone showers of rain",
+        "feeling": "anxiety, restlessness",
+        "object": "a season of drought in my life",
+        "behavior": "worrying about the outcome",
+        "step": "ask the LORD for rain",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a season of drought in my life} and instead of {behavior:worrying about the outcome}, I will {step:ask the LORD for rain}."
       }
     }
   }

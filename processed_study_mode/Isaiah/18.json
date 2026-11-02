@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical element in this passage resonates most with divine communication?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Banner on the mountains",
-            "expansion": "Symbolic of God's universal, unmistakable proclamation visible to all humanity"
-          },
-          {
-            "id": 2,
-            "text": "Swift messengers",
-            "expansion": "Representing divine urgency and the transmission of prophetic warning across geopolitical boundaries"
-          },
-          {
-            "id": 3,
-            "text": "Trumpet blast",
-            "expansion": "Signaling divine intervention, judgment, and the inevitable unfolding of providential purposes"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the imagery of 'a nation tall and smooth of skin' challenge our understanding of divine election and cultural perspectives?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine sovereignty interact with human geopolitical dynamics?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Predetermined Plan"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prophetic communication shifted after examining this passage?",
-        "options": [
-          "More aware of symbolic language",
-          "Recognize complexity of divine messaging",
-          "Appreciate nuanced geopolitical commentary",
-          "Understand metaphorical prophetic strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic messages transcend immediate historical contexts",
           "International relationships are fundamentally spiritual battlegrounds"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The prophet calls",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the dwellers of the earth. A banner is raised on the mountains, and a ram's horn sounds. What do you understand when the LORD says He will quietly look on from His dwelling place?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Proverbs 21:1",
+        "summary": "The LORD says He will quietly look on from His dwelling place (v. 4). Proverbs says the king's heart is a waterway in the hand of the LORD, and He directs it where He pleases (Proverbs 21:1).",
+        "question": "How does Proverbs 21:1 help you understand the LORD watching the nations from His dwelling place in Isaiah 18?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "surrender",
+        "because": "the LORD will quietly look on from His dwelling place",
+        "feeling": "impatience, anxiety",
+        "object": "a crisis I cannot solve",
+        "behavior": "pressing for an answer right away",
+        "step": "wait for Him to act",
+        "template": "from today I release my {feeling:impatience, anxiety} over {object:a crisis I cannot solve} and instead of {behavior:pressing for an answer right away}, I will {step:wait for Him to act}."
       }
     }
   }

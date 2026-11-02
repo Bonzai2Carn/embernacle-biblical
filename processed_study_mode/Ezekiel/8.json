@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of spiritual corruption most strikes you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Secret Idolatry",
-            "expansion": "Hidden spiritual betrayals often run deeper than public transgressions."
-          },
-          {
-            "id": 2,
-            "text": "Religious Leadership Hypocrisy",
-            "expansion": "Those entrusted with spiritual guidance can become the most profound corruptors."
-          },
-          {
-            "id": 3,
-            "text": "Divine Judgment's Precision",
-            "expansion": "God's awareness of human actions is microscopic and comprehensive."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When religious practices become performative, at what point do they cease being genuine worship?"
-      },
-      "moral_slider": {
-        "question": "How do cultural accommodations compromise spiritual integrity?",
-        "left_label": "Cultural Adaptation",
-        "right_label": "Spiritual Purity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual compromise evolved?",
-        "options": [
-          "I recognize subtle forms of idolatry",
-          "Leadership accountability matters more",
-          "God sees beyond external appearances",
-          "Spiritual drift happens incrementally"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Religious leaders are held to a higher standard of accountability",
           "Divine judgment is preceded by clear warnings and opportunities for repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 18",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the prophet watching these leaders. They say the LORD does not see them. Then you hear, 'I will respond with wrath.' What does His answer tell you about their claim?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 59:2",
+        "summary": "The LORD shows Ezekiel abominations that drive Him far from His sanctuary (v. 6). Isaiah says iniquities have built barriers between the people and their God, and sins have hidden His face so that He does not hear.",
+        "question": "How does Isaiah's picture of sin hiding God's face help you understand why the LORD says the people's abominations drive Him far from His sanctuary?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "the LORD will not listen, though the people shout loudly in His ears",
+        "feeling": "self-righteousness",
+        "object": "my religious routine",
+        "behavior": "performing for others",
+        "step": "seek a quiet heart before Him",
+        "template": "from today I bring my {feeling:self-righteousness} about {object:my religious routine} into the light and instead of {behavior:performing for others}, I will {step:seek a quiet heart before Him}."
       }
     }
   }

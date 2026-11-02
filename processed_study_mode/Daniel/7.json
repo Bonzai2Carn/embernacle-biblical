@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of divine sovereignty speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The diversity of earthly kingdoms",
-            "expansion": "Each beast represents complex human political systems ultimately subordinate to God's ultimate plan."
-          },
-          {
-            "id": 2,
-            "text": "The Ancient of Days' supreme authority",
-            "expansion": "God's eternal nature transcends temporal power structures and human ambition."
-          },
-          {
-            "id": 3,
-            "text": "The prophetic vision of ultimate redemption",
-            "expansion": "Despite chaos and conflict, a divine kingdom will ultimately prevail."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine sovereignty is absolute, what is the meaningful role of human agency and choice?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between human political power and divine governance?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare and prophetic vision shifted?",
-        "options": [
-          "More aware of spiritual dimensions",
-          "Recognize complexity of geopolitical movements",
-          "See providence in historical processes",
-          "Understand symbolic language differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's sovereignty operates independently of human political structures",
           "Political power is neutral and can be used for both good and evil purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Daniel sees four beasts come up out of the sea",
+            "ref": "vv. 3-4",
+            "speaker": "Daniel"
+          },
+          {
+            "who": "The interpreter explains the beasts",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Daniel watching four great beasts come up out of the sea. What do you understand when you are told that these beasts are four kings who will arise from the earth?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Mark 14:62",
+        "summary": "Daniel sees One like the Son of Man coming with the clouds of heaven (v. 13). In Mark, Jesus says that people will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.",
+        "question": "How do Jesus's words about the Son of Man coming with the clouds help you understand the One Daniel saw in v. 13?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "the visions in my mind alarmed me",
+        "feeling": "grief, alarm",
+        "object": "a frightening vision I cannot understand",
+        "behavior": "carrying the fear alone",
+        "step": "ask God for its meaning in prayer",
+        "template": "from today I bring my {feeling:grief, alarm} about {object:a frightening vision I cannot understand} into the light and instead of {behavior:carrying the fear alone}, I will {step:ask God for its meaning in prayer}."
       }
     }
   }

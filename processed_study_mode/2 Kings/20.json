@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine interaction most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's responsiveness to prayer",
-            "expansion": "Hezekiah's earnest prayer transforms an imminent death sentence into extended life."
-          },
-          {
-            "id": 2,
-            "text": "The prophet Isaiah's direct communication with God",
-            "expansion": "Isaiah serves as a conduit between divine decree and human experience."
-          },
-          {
-            "id": 3,
-            "text": "The miraculous sign of the sundial",
-            "expansion": "Physical manifestations can validate spiritual promises and strengthen faith."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God grants you additional time, what transforms your responsibility toward that unexpected grace?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine mercy intersect?",
-        "left_label": "Personal Merit",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention shifted?",
-        "options": [
-          "Recognized more complexity in prayer's mechanics",
-          "Understood divine timing differently",
-          "Appreciated prophetic intermediaries more",
-          "Seen personal accountability in spiritual encounters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine response depends on the individual's spiritual authenticity",
           "Prayer's effectiveness is proportional to the believer's righteousness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet Isaiah came to him and said",
+            "ref": "v. 1",
+            "speaker": "Isaiah"
+          },
+          {
+            "who": "Hezekiah turned his face to the wall and prayed",
+            "ref": "vv. 2-3",
+            "speaker": "Hezekiah"
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. You hear that you will not recover, and you turn your face to the wall. What would you say to the LORD, and what would you hold on to?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Psalm 86:5",
+        "summary": "The LORD tells Hezekiah that He has heard his prayer and seen his tears (v. 5). Psalm 86:5 describes the LORD as kind, forgiving, and rich in loving devotion to all who call on Him.",
+        "question": "How does the psalmist's view of God's goodness help you trust the promise given to Hezekiah?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "surrender",
+        "because": "the word of the LORD that Isaiah has spoken is good",
+        "feeling": "anxiety, fear",
+        "object": "a difficult future",
+        "behavior": "trying to control outcomes",
+        "step": "accept what He has decreed",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:a difficult future} and instead of {behavior:trying to control outcomes}, I will {step:accept what He has decreed}."
       }
     }
   }

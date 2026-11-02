@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine promise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's geographic promise of land",
-            "expansion": "The promise of territorial inheritance represents not just physical space, but spiritual destiny."
-          },
-          {
-            "id": 2,
-            "text": "Divine commitment to generational blessing",
-            "expansion": "God's covenant transcends individual lifetimes, showing persistent faithfulness across generations."
-          },
-          {
-            "id": 3,
-            "text": "Protection during uncertain times",
-            "expansion": "Divine guidance appears most powerfully during seasons of scarcity and potential danger."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises are certain, why do faithful people still experience challenges and uncertainties?"
-      },
-      "moral_slider": {
-        "question": "How do personal choices interact with divine providence?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance evolved?",
-        "options": [
-          "More aware of subtle providential patterns",
-          "Recognize complexity of faith journey",
-          "Appreciate multigenerational spiritual narratives",
-          "Understand divine promises require human cooperation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's sovereignty overrides human weaknesses",
           "Covenant blessings are conditional upon perfect obedience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Isaac thought and said",
+            "ref": "v. 7",
+            "speaker": "Isaac"
+          },
+          {
+            "who": "Abimelech asked Isaac",
+            "ref": "v. 9",
+            "speaker": "Abimelech"
+          }
+        ],
+        "question": "Put yourself in Isaac's place, afraid that the men of this place will kill you on account of Rebekah. What would you answer when Abimelech says, 'So she is really your wife! How could you say, She is my sister?'"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Hebrews 11:9",
+        "summary": "The LORD tells Isaac to stay in this land as a foreigner, and promises to be with him and bless him (v. 3). Hebrews says Abraham dwelt in the promised land as a stranger, and Isaac and Jacob lived in tents with him as heirs of the same promise (Hebrews 11:9).",
+        "question": "How does Hebrews 11:9 help you understand why the LORD tells Isaac to stay in this land as a foreigner?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "the LORD promised to be with Isaac and bless him as he stays in the land as a foreigner",
+        "feeling": "fear, anxiety",
+        "object": "a foreign land",
+        "behavior": "running to Egypt for safety",
+        "step": "stay where the LORD has placed me",
+        "template": "from today I entrust my {feeling:fear, anxiety} about {object:a foreign land} to God and instead of {behavior:running to Egypt for safety}, I will {step:stay where the LORD has placed me}."
       }
     }
   }

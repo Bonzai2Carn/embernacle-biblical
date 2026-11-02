@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply in this covenant chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Reciprocity",
-            "expansion": "God's blessings and consequences are directly proportional to human obedience and faithfulness."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Accountability",
-            "expansion": "Individual and communal actions generate systemic spiritual consequences that transcend immediate perception."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Covenant",
-            "expansion": "The relationship between God and humanity is dynamic, requiring continual recommitment and spiritual alignment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine blessings are conditional, does this suggest human agency has genuine power to influence spiritual outcomes?"
-      },
-      "moral_slider": {
-        "question": "To what extent do communal actions determine collective spiritual destiny?",
-        "left_label": "Individual Responsibility",
-        "right_label": "Collective Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine covenant shifted after examining this passage?",
-        "options": [
-          "Recognized deeper spiritual interconnectedness",
-          "Understood consequences as redemptive, not punitive",
-          "Appreciated nuanced relationship between obedience and blessing",
-          "Saw covenant as mutual, reciprocal agreement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine mercy always provides a path to restoration",
           "Spiritual consequences are proportional to spiritual choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 42,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 40-41",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 42",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are a survivor in a foreign land, burdened by the sins of your ancestors. What does this promise of remembrance change about how you view your current exile?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Deuteronomy 28:1-14",
+        "summary": "The LORD promises to walk among His people and be their God (v. 12). Deuteronomy describes the specific blessings that follow when a people obey His commands (vv. 1-14).",
+        "question": "How does the specific list of blessings in Deuteronomy help you understand the weight of the covenant the LORD establishes in Leviticus?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "remembrance",
+        "because": "the LORD broke the bars of your yoke and enabled you to walk in uprightness",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from Him",
+        "step": "walk forward in His freedom",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:hiding from Him}, I will {step:walk forward in His freedom}."
       }
     }
   }

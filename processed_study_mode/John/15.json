@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical aspect of vine-and-branches most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Dependence on Christ",
-            "expansion": "Recognizing our complete spiritual reliance on divine connection."
-          },
-          {
-            "id": 2,
-            "text": "Pruning as Growth",
-            "expansion": "Understanding spiritual refinement requires intentional, sometimes painful transformation."
-          },
-          {
-            "id": 3,
-            "text": "Fruit-Bearing Purpose",
-            "expansion": "Our spiritual vitality is measured by transformative impact, not personal comfort."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you are truly connected to the vine, how might your daily actions reveal or contradict that connection?"
-      },
-      "moral_slider": {
-        "question": "To what degree do you actively choose spiritual attachment versus passive religious participation?",
-        "left_label": "Nominal Attachment",
-        "right_label": "Radical Abiding"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual productivity shifted?",
-        "options": [
-          "Recognizing interdependence",
-          "Understanding divine refinement",
-          "Seeing relationship over rules",
-          "Embracing purposeful transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Continuous abiding and dependence on Christ's life-giving power",
           "Religious performance and external rituals"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Jesus says",
+            "ref": "v. 5",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus warns",
+            "ref": "v. 6",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a branch hearing both words. What would you weigh about remaining in Him, when apart from Him you can do nothing and a branch that does not remain is thrown away?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Galatians 5:22-23",
+        "summary": "Jesus commands His followers to love one another as He has loved them (v. 12). Galatians lists the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.",
+        "question": "How does the list of the fruit of the Spirit in Galatians help you understand the fruit Jesus speaks of for His branches?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "apart from Jesus you can do nothing",
+        "feeling": "anxiety, inadequacy",
+        "object": "my daily tasks",
+        "behavior": "relying on my own strength",
+        "step": "ask for His help first",
+        "template": "from today I let go of my {feeling:anxiety, inadequacy} over {object:my daily tasks} and instead of {behavior:relying on my own strength}, I will {step:ask for His help first}."
       }
     }
   }

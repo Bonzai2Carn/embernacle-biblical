@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Job's emotional response to his friends?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Emotional exhaustion",
-            "expansion": "Job recognizes the futility of repeating argumentative words that bring no genuine comfort."
-          },
-          {
-            "id": "b",
-            "text": "Empathetic critique",
-            "expansion": "He suggests his friends would speak differently if they experienced his suffering directly."
-          },
-          {
-            "id": "c",
-            "text": "Inner strength despite pain",
-            "expansion": "Job maintains a core of dignity and potential compassion even while feeling attacked."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine empathy transform the way we respond to someone's profound suffering?"
-      },
-      "moral_slider": {
-        "question": "Where do you position the tension between expressing raw emotional truth and maintaining theological propriety?",
-        "left_label": "Unfiltered Lament",
-        "right_label": "Restrained Worship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of compassion shifted after considering Job's perspective?",
-        "options": [
-          "Recognized limitations of simplistic advice",
-          "Understood depth of personal pain",
-          "Appreciated vulnerability as strength",
-          "Learned to listen more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The church and its mission (ecclesiology)",
           "End times and eternity (eschatology)"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Job answered",
+            "ref": "v. 2",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job said",
+            "ref": "v. 4",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You are surrounded by people who think they are helping. What do you see in their words that makes you want to respond with your own words?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Psalm 115:3",
+        "summary": "Job says God's anger has torn him and his adversary pierces him with His eyes (v. 9). Psalm 115:3 says our God is in heaven and does as He pleases.",
+        "question": "How does Psalm 115:3 help you understand what Job says God has done to him in verse 9?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "exposure",
+        "because": "my hands are free of violence and my prayer is pure",
+        "feeling": "resentment, bitterness",
+        "object": "an unfair accusation",
+        "behavior": "answering my accusers with harsh words",
+        "step": "bring my true heart to Him",
+        "template": "from today I bring my {feeling:resentment, bitterness} about {object:an unfair accusation} into the light and instead of {behavior:answering my accusers with harsh words}, I will {step:bring my true heart to Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Being mocked while remaining faithful",
-            "expansion": "Suffering can paradoxically reveal profound spiritual resilience"
-          },
-          {
-            "id": 2,
-            "text": "Challenging friends' presumed wisdom",
-            "expansion": "True understanding transcends social hierarchies and conventional thinking"
-          },
-          {
-            "id": 3,
-            "text": "Experiencing divine response amid pain",
-            "expansion": "God's acknowledgment might come through unexpected channels of communication"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is not the exclusive domain of the privileged, what truly qualifies someone as understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and theological certainty interact during profound suffering?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on suffering and friendship evolved?",
-        "options": [
-          "More empathetic toward those in pain",
-          "Less judgmental about others' spiritual journeys",
-          "More open to complexity in theological understanding",
-          "Recognize limitations of human wisdom"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual maturity involves humility and acknowledging divine mystery",
           "Personal experiences do not necessarily equate to universal theological truth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Job answered",
+            "ref": "v. 2",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job said",
+            "ref": "v. 3",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in the place of Job's friends. Job says you are the people with whom wisdom will die, and that he has a mind and is not inferior to you. What would you weigh about his claim?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Job says wisdom and strength belong to God (v. 13). Isaiah uses similar language to show that God's thoughts and ways are far above human ways.",
+        "question": "How does Isaiah's description of God's higher ways help you understand Job's claim that wisdom and strength belong to God?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "the life of every living thing is in His hand",
+        "feeling": "anxiety, dread",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His sovereignty",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:my uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His sovereignty}."
       }
     }
   }

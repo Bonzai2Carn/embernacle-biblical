@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic spiritual fortification",
-            "expansion": "Jehoshaphat's deliberate strengthening of spiritual and physical defenses represents proactive leadership."
-          },
-          {
-            "id": 2,
-            "text": "Returning to ancestral faith traditions",
-            "expansion": "Choosing to walk in David's ways suggests the power of generational spiritual inheritance."
-          },
-          {
-            "id": 3,
-            "text": "Rejecting compromising religious practices",
-            "expansion": "Refusing to seek Baals demonstrates theological integrity and commitment to pure worship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal spiritual convictions translate into systemic transformation, and what internal barriers might prevent such comprehensive change?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious leadership involve political and military strategy?",
-        "left_label": "Purely Spiritual Focus",
-        "right_label": "Comprehensive Governance"
-      },
-      "reevaluation": {
-        "question": "How has reading this chapter challenged your understanding of spiritual leadership?",
-        "options": [
-          "Recognized the importance of generational spiritual wisdom",
-          "Understood leadership as holistic (spiritual, political, military)",
-          "Saw divine partnership as crucial for effective leadership",
-          "Appreciated the role of personal conviction in systemic change"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Systematic religious education strengthens societal foundations",
           "Rejecting idolatry creates spiritual vulnerability for a nation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jehoshaphat did not seek the Baals",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "He sought the God of his father",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are someone in Judah watching the king. He does not seek the Baals, but seeks the God of his father and walks by His commandments rather than the practices of Israel. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 1:1-3",
+        "summary": "The text shows how the LORD established the kingdom because Jehoshaphat walked in God's ways (v. 5). The Psalmist describes a person who finds a similar stability by delighting in the law of the LORD.",
+        "question": "How does the stability of the Psalmist's life help you understand the abundance and honor given to Jehoshaphat?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "devotion",
+        "because": "Jehoshaphat's heart took delight in the ways of the LORD",
+        "feeling": "distraction, apathy",
+        "object": "the easy path",
+        "behavior": "following the crowd",
+        "step": "seek His commandments first",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the easy path} and instead of {behavior:following the crowd}, I will {step:seek His commandments first}."
       }
     }
   }

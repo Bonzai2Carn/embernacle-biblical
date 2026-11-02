@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most deeply from this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Guidance in Wilderness Wandering",
-            "expansion": "God's direction is precise, even in seemingly aimless seasons of life."
-          },
-          {
-            "id": 2,
-            "text": "Respectful Boundaries with Neighboring Peoples",
-            "expansion": "Spiritual journey requires diplomacy and understanding of territorial distinctions."
-          },
-          {
-            "id": 3,
-            "text": "Patient Obedience in Waiting",
-            "expansion": "Spiritual transformation often requires extended periods of preparation and waiting."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might prolonged waiting be a form of spiritual discipline rather than divine punishment?"
-      },
-      "moral_slider": {
-        "question": "How do divine providence and human agency interact in journey and destiny?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual pilgrimage shifted?",
-        "options": [
-          "Recognize divine timing",
-          "Understand geographical metaphors",
-          "Appreciate patient transformation",
-          "Embrace incremental spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Wilderness journeys represent spiritual transformation",
           "Geographical movements reveal God's redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the people hearing these words. The LORD tells you not to provoke your brothers, and that He has given Mount Seir to Esau. What would you weigh most when told not to take even a footprint of their land?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 32:8",
+        "summary": "The LORD tells the people He has watched over their travels and provided for their needs (v. 7). Psalm 32 shows God using that same watchful eye to direct the path of His people.",
+        "question": "How does the promise of God's guidance in Psalm 32 help you trust His specific instructions to avoid certain territories in this chapter?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "surrender",
+        "because": "the LORD your God had made Sihon's spirit stubborn and heart obstinate",
+        "feeling": "anger, resentment",
+        "object": "someone's refusal to listen",
+        "behavior": "trying to force my will",
+        "step": "trust God's sovereignty",
+        "template": "from today I release my {feeling:anger, resentment} over {object:someone's refusal to listen} and instead of {behavior:trying to force my will}, I will {step:trust God's sovereignty}."
       }
     }
   }

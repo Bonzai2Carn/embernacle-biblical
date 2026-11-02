@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Holiness",
-            "expansion": "God's absolute standards transcend human intention or presumed familiarity."
-          },
-          {
-            "id": 2,
-            "text": "Priestly Accountability",
-            "expansion": "Religious leadership carries extraordinary responsibility and consequence."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected Judgment",
-            "expansion": "Divine responses can be sudden and overwhelming when sacred boundaries are transgressed."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Can sincere religious zeal ever be dangerous if it is not precisely aligned with divine instruction?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal spiritual passion with strict obedience?",
-        "left_label": "Individual Inspiration",
-        "right_label": "Precise Compliance"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of worship and reverence?",
-        "options": [
-          "My view of divine expectations has become more nuanced",
-          "I recognize the importance of humble obedience",
-          "I'm more aware of potential spiritual presumption",
-          "I see leadership as a profound moral responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The punishment reveals the profound seriousness of unauthorized worship",
           "The narrative illustrates the transformative nature of divine correction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Moses said to Aaron",
+            "ref": "v. 3",
+            "speaker": "Moses"
+          },
+          {
+            "who": "Aaron remained silent",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Aaron's place as Moses tells you what the LORD meant about holiness and glory. What do you weigh as you stay silent?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "James 3:1",
+        "summary": "The LORD commands Aaron to distinguish between the holy and the common (v. 10) so he can teach the people. James warns that those who teach will be judged with greater strictness.",
+        "question": "How does the weight of James's warning help you understand the gravity of the command given to Aaron?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "you must distinguish between the holy and the common",
+        "feeling": "indifference, apathy",
+        "object": "the sacred moments in my day",
+        "behavior": "treating everything as ordinary",
+        "step": "set aside time for prayer",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the sacred moments in my day} and instead of {behavior:treating everything as ordinary}, I will {step:set aside time for prayer}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jephthah's early life resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Familial Rejection",
-            "expansion": "The pain of being excluded by one's own family due to circumstances of birth reveals profound social dynamics of inheritance and belonging."
-          },
-          {
-            "id": 2,
-            "text": "Resilience in Adversity",
-            "expansion": "Jephthah transforms his marginalization into strength by gathering outcasts and becoming a leader despite initial rejection."
-          },
-          {
-            "id": 3,
-            "text": "Social Marginalization",
-            "expansion": "His status as a son of a harlot demonstrates how societal labels can define and limit individual potential."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does one's origin story shape destiny, and to what extent can an individual transcend predetermined social boundaries?"
-      },
-      "moral_slider": {
-        "question": "Can divine purpose emerge through human imperfection?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "Reflecting on Jephthah's narrative, how has your understanding of leadership and redemption evolved?",
-        "options": [
-          "Recognize potential in the marginalized",
-          "Understand complexity of social hierarchies",
-          "Appreciate resilience over victimhood",
-          "Question inherited social constructs"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "An allegorical passage highlighting the tension between human weakness and divine expectations",
           "A complex theological moment requiring nuanced hermeneutical interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Jephthah asked",
+            "ref": "v. 7",
+            "speaker": "Jephthah"
+          },
+          {
+            "who": "The elders of Gilead answered",
+            "ref": "v. 8",
+            "speaker": "The elders of Gilead"
+          }
+        ],
+        "question": "Put yourself in Jephthah's place. You ask why they come to you now, in distress, after hating you and expelling you from your father's house. What do you weigh as the elders answer that they want you to fight the Ammonites and lead them all?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Numbers 30:2",
+        "summary": "Jephthah makes a vow to the LORD that he cannot take back (v. 30-35). Numbers describes the weight of a vow made to the LORD.",
+        "question": "How does the rule in Numbers 30:2 help you weigh the cost of Jephthah's words?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "exposure",
+        "because": "Jephthah has given his word to the LORD and cannot take it back",
+        "feeling": "regret, guilt",
+        "object": "a reckless promise",
+        "behavior": "trying to undo the past",
+        "step": "accept the consequences of my speech",
+        "template": "from today I bring my {feeling:regret, guilt} about {object:a reckless promise} into the light and instead of {behavior:trying to undo the past}, I will {step:accept the consequences of my speech}."
       }
     }
   }

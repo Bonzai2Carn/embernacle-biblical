@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical image of God's relationship with Israel resonates most?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Shepherd guiding the flock",
-            "expansion": "God as a tender, protective guardian who leads and nurtures His people through challenging landscapes."
-          },
-          {
-            "id": "2",
-            "text": "Vineyard tender carefully cultivating",
-            "expansion": "Divine patience and meticulous care in developing spiritual growth and potential."
-          },
-          {
-            "id": "3",
-            "text": "Restorer after destruction",
-            "expansion": "God's capacity to rebuild and renew even after profound national suffering and displacement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine favor is conditional, what genuine agency do humans retain in their spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and mercy coexist in moments of national crisis?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collective spiritual experience shifted?",
-        "options": [
-          "Recognize communal spiritual vulnerability",
-          "Understand divine relationship as dynamic",
-          "Appreciate metaphorical language of faith",
-          "Perceive suffering as potential transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention is rooted in covenant relationship",
           "Repentance and genuine prayer can transform national circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the praying people. You ask how long God's anger will smolder against your prayers. Then you ask Him to restore you and cause His face to shine upon you. What changes in you between those two requests?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Lamentations 3:22-23",
+        "summary": "The psalmist asks God to restore His people and cause His face to shine upon them so they may be saved (v. 3). Lamentations 3:22-23 says the LORD's mercies never fail and are new every morning.",
+        "question": "How does Lamentations 3:22-23 help you pray for the restoration asked for in verse 3?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "devotion",
+        "because": "we will not turn away from You",
+        "feeling": "distraction, apathy",
+        "object": "the noise of my schedule",
+        "behavior": "drifting into routine",
+        "step": "call on Your name",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:the noise of my schedule} and instead of {behavior:drifting into routine}, I will {step:call on Your name}."
       }
     }
   }

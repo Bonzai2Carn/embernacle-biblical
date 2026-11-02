@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical aspect of the vineyard resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Preparation",
-            "expansion": "God's meticulous care and investment in cultivating potential, despite unpredictable outcomes."
-          },
-          {
-            "id": 2,
-            "text": "Expectation vs Reality",
-            "expansion": "The profound disappointment between intended purpose and actual performance."
-          },
-          {
-            "id": 3,
-            "text": "Judgment and Accountability",
-            "expansion": "The inevitable consequences when human potential fails to meet divine expectations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine love prepares everything perfectly, why do humans still choose paths of destruction?"
-      },
-      "moral_slider": {
-        "question": "To what extent are human failures a result of individual choice versus systemic conditions?",
-        "left_label": "Personal Responsibility",
-        "right_label": "Systemic Limitations"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine expectation and human response shifted?",
-        "options": [
-          "More aware of personal accountability",
-          "Recognize complexity of human choice",
-          "See divine preparation more compassionately",
-          "Understand judgment as transformative, not punitive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship requires mutual commitment and transformation",
           "Redemptive suffering precedes spiritual renewal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The prophet explains",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the vineyard. You were expected to yield sweet grapes, but you bore sour fruit. What do you weigh as you hear that He looked for justice and saw bloodshed?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "John 15:1-6",
+        "summary": "Isaiah describes a vineyard that bore sour fruit and was left to be trampled (v. 2, 5). Jesus calls Himself the true vine and says the branch that bears no fruit is cut off and burned (John 15:1-2, 6).",
+        "question": "How does Jesus' teaching on the true vine help you understand the sour fruit of the vineyard in Isaiah 5?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "woe comes to those who are wise in their own eyes and clever in their own sight",
+        "feeling": "pride, self-reliance",
+        "object": "my own opinions",
+        "behavior": "dismissing other people's counsel",
+        "step": "ask a wise friend to weigh my plan",
+        "template": "from today I bring my {feeling:pride, self-reliance} about {object:my own opinions} into the light and instead of {behavior:dismissing other people's counsel}, I will {step:ask a wise friend to weigh my plan}."
       }
     }
   }

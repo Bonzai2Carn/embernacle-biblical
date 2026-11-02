@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which wisdom most resonates about avoiding moral compromise?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "The seduction of temptation starts with smooth words",
-            "expansion": "Dangerous paths often begin with seemingly innocent, attractive invitations"
-          },
-          {
-            "id": "b",
-            "text": "Discretion protects one's future trajectory",
-            "expansion": "Momentary pleasures can derail long-term life potential"
-          },
-          {
-            "id": "c",
-            "text": "Moral boundaries preserve personal dignity",
-            "expansion": "Wisdom creates protective barriers against destructive impulses"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What unseen consequences might be hiding behind an immediate desire?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against ethical boundaries?",
-        "left_label": "Individual Desire",
-        "right_label": "Communal Integrity"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of temptation?",
-        "options": [
-          "I see temptation as more strategically manipulative",
-          "I recognize long-term spiritual consequences more clearly",
-          "I understand the importance of guarding my thoughts",
-          "I'm more aware of subtle moral compromises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understand God's design for sexuality as a sacred, covenant relationship",
           "Seek biblical counseling and community support when struggling with sexual temptation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "the forbidden woman's lips",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "she",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a young man hearing this warning. How does the contrast between the sweetness of her words and the bitterness of her end change how you weigh her approach?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Hebrews 13:4",
+        "summary": "The writer warns that a man's ways are before the eyes of the LORD (v. 21). Hebrews says to honor marriage and keep the marriage bed undefiled, for God will judge the sexually immoral and adulterers (13:4).",
+        "question": "How does the reality of God's constant gaze on your paths help you honor the marriage bed?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the one who refuses discipline will later say his heart despised reproof",
+        "feeling": "pride, stubbornness",
+        "object": "a correction from a friend",
+        "behavior": "defending my mistake",
+        "step": "listen and learn",
+        "template": "from today I let go of my {feeling:pride, stubbornness} over {object:a correction from a friend} and instead of {behavior:defending my mistake}, I will {step:listen and learn}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual renewal speaks most deeply to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Breaking up fallow ground",
-            "expansion": "Spiritual renewal requires active cultivation of one's inner landscape, removing unproductive patterns."
-          },
-          {
-            "id": 2,
-            "text": "Circumcising the heart",
-            "expansion": "True transformation is an internal process of removing spiritual barriers and defensive mechanisms."
-          },
-          {
-            "id": 3,
-            "text": "Returning to God authentically",
-            "expansion": "Genuine repentance involves a complete reorientation of one's relationship with the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What unconscious barriers prevent you from fully surrendering to spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and divine calling intersect in spiritual renewal?",
-        "left_label": "Personal Comfort",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual commitment evolved?",
-        "options": [
-          "Deeper appreciation of personal responsibility",
-          "Recognition of inner spiritual resistance",
-          "Understanding renewal as continuous process",
-          "Awareness of divine grace in transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Cultural conformity to religious traditions",
           "Intellectual understanding of theological concepts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people of Judah. The LORD tells you to break up your unplowed ground and remove the foreskins of your hearts. What would you still wonder about how to do this?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Deuteronomy 10:16",
+        "summary": "The LORD calls His people to remove the foreskins of their hearts (v. 4), and He says they are fools who have not known Him (v. 22). Deuteronomy 10:16 gives the same command: circumcise your hearts and stiffen your necks no more.",
+        "question": "How does the command in Deuteronomy help you understand the specific action the LORD requires in Jeremiah 4?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "washing the evil from the heart is how Jerusalem may be saved",
+        "feeling": "guilt, shame",
+        "object": "a recurring mistake",
+        "behavior": "harboring wicked thoughts",
+        "step": "confess my wicked thoughts to God",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recurring mistake} and instead of {behavior:harboring wicked thoughts}, I will {step:confess my wicked thoughts to God}."
       }
     }
   }

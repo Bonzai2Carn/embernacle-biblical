@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership quality resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Generational Continuity",
-            "expansion": "Leaders transfer vision and commitment across generations, preserving covenant memory."
-          },
-          {
-            "id": 2,
-            "text": "Liturgical Precision",
-            "expansion": "Careful organization of worship reveals deep reverence for divine protocols."
-          },
-          {
-            "id": 3,
-            "text": "Community Restoration",
-            "expansion": "Rebuilding goes beyond physical walls to reconstructing social and spiritual identity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does ritual and structure either enhance or potentially limit genuine spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between institutional memory and dynamic spiritual innovation?",
-        "left_label": "Tradition",
-        "right_label": "Adaptation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More appreciation for systematic organization",
-          "Deeper respect for historical continuity",
-          "Recognition of worship as communal experience",
-          "Understanding leadership as spiritual inheritance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Establishes legitimate spiritual leadership",
           "Reveals divine preservation of Israel's spiritual heritage"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "The Levites were sought out from their homes and brought to Jerusalem",
+            "ref": "v. 27",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a Levite sought out from your home and brought to Jerusalem to celebrate the dedication of the wall with thanksgiving and singing. What would you weigh about being called, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Colossians 3:16",
+        "summary": "The Levites are gathered to Jerusalem for a joyous dedication with thanksgiving and singing (v. 27). Paul urges believers to sing psalms, hymns, and spiritual songs with gratitude in their hearts to God (Colossians 3:16).",
+        "question": "How does Paul's call to sing with gratitude in Colossians 3:16 help you understand the singing at the dedication in Nehemiah 12?"
+      },
+      "conviction": {
+        "verse": 43,
+        "frame": "devotion",
+        "because": "God had given the people of Jerusalem great joy",
+        "feeling": "emptiness, numbness",
+        "object": "a difficult season",
+        "behavior": "seeking my own comfort",
+        "step": "offer a song of thanks",
+        "template": "from today I let go of my {feeling:emptiness, numbness} over {object:a difficult season} and instead of {behavior:seeking my own comfort}, I will {step:offer a song of thanks}."
       }
     }
   }

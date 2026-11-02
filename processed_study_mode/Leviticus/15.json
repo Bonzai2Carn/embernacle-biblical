@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which concept of ritual purity most intrigues you?",
-        "choices": [
-          {
-            "id": "bodily_discharge",
-            "text": "Physical Bodily Conditions",
-            "expansion": "Illness and bodily functions create temporary spiritual disruption requiring intentional restoration."
-          },
-          {
-            "id": "community_health",
-            "text": "Communal Protection Mechanisms",
-            "expansion": "Ritual laws serve as ancient epidemiological protocols to prevent disease transmission."
-          },
-          {
-            "id": "spiritual_boundaries",
-            "text": "Sacred/Profane Distinctions",
-            "expansion": "Bodily experiences represent liminal spaces between human vulnerability and divine holiness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual impurity is not about moral failure, but about natural human conditions, what does this reveal about divine understanding of human fragility?"
-      },
-      "moral_slider": {
-        "question": "How do ritual purity laws balance individual experience with communal well-being?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Protection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of ancient religious practices shifted?",
-        "options": [
-          "I see more scientific wisdom",
-          "I recognize deeper psychological insights",
-          "I appreciate complex theological reasoning",
-          "I'm more aware of cultural contextualization"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "As culturally specific practices with limited modern application",
           "As prophetic foreshadowing of Christ's redemptive work of spiritual purification"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 31",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. Why does the LORD demand such strict separation from these physical conditions?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Hebrews 9:13-14",
+        "summary": "Leviticus 15 details the sacrifices required to make atonement for uncleanness (vv. 14-15). Hebrews explains how the sacrifice of Christ cleanses the conscience from dead works.",
+        "question": "How does the effectiveness of Christ's sacrifice change how you view the ritual cleansing described here?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "the children of Israel must not defile the tabernacle",
+        "feeling": "disregard, carelessness",
+        "object": "my time in prayer",
+        "behavior": "rushing through the words",
+        "step": "sit in silence for a moment",
+        "template": "from today I let go of my {feeling:disregard, carelessness} over {object:my time in prayer} and instead of {behavior:rushing through the words}, I will {step:sit in silence for a moment}."
       }
     }
   }

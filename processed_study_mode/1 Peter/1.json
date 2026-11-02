@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative aspect of spiritual rebirth resonates most deeply?",
-        "choices": [
-          {
-            "id": "hope",
-            "text": "Living Hope Through Christ's Resurrection",
-            "expansion": "Hope transcends current circumstances by anchoring in Christ's victory over death."
-          },
-          {
-            "id": "election",
-            "text": "Divine Foreknowledge and Election",
-            "expansion": "God's sovereign choice reveals His intentional and personal relationship with believers."
-          },
-          {
-            "id": "inheritance",
-            "text": "Imperishable Inheritance",
-            "expansion": "Believers possess an eternal, uncontaminated destiny beyond temporal earthly experiences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your faith is genuinely refined like gold through trials, how might your perception of suffering fundamentally change?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine sovereignty?",
-        "left_label": "Human Choice",
-        "right_label": "God's Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation evolved?",
-        "options": [
-          "I now see trials as opportunities for growth",
-          "My view of God's grace has deepened",
-          "I recognize my spiritual journey as divinely orchestrated",
-          "I understand salvation as an active, dynamic process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine election and human response cooperate mysteriously",
           "Salvation is a synergistic process between God's grace and human acceptance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Peter says",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Peter says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer in various trials. What do you weigh when you hear that the proven character of your faith is more precious than gold, which perishes even though refined by fire?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Ephesians 1:4-5",
+        "summary": "Peter describes a new birth into a living hope through the resurrection (v. 3). Paul explains that God chose us in Christ before the foundation of the world (vv. 4-5).",
+        "question": "How does Paul's mention of God's prior choice help you understand the nature of the new birth Peter describes?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the God who called you is holy, and holiness belongs in all you do",
+        "feeling": "indifference, apathy",
+        "object": "the common habits of my culture",
+        "behavior": "blending in to avoid notice",
+        "step": "act with integrity in small tasks",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the common habits of my culture} and instead of {behavior:blending in to avoid notice}, I will {step:act with integrity in small tasks}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's divine revelation most resonates with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Overwhelming Majesty",
-            "expansion": "The cosmic scale of divine presence that transcends human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Divine Sovereignty Through Judgment",
-            "expansion": "God's power manifested through transformative and sometimes painful historical processes."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Vulnerability and Trust",
-            "expansion": "The prophet's raw emotional honesty in confronting divine mystery and potential suffering."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention often appears paradoxical and beyond human understanding, how might we cultivate humility in our theological interpretations?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's simultaneous attributes of judgment and mercy?",
-        "left_label": "Divine Wrath",
-        "right_label": "Divine Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine action and prophetic witness shifted?",
-        "options": [
-          "More aware of spiritual complexity",
-          "Increased comfort with theological mystery",
-          "Deeper respect for prophetic vulnerability",
-          "Recognize limitations of human understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic understanding transcends temporal circumstances",
           "National suffering represents direct divine punishment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The prophet hears and trembles",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet chooses to rejoice",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Habakkuk's place. You feel the physical decay of fear and the reality of a coming invasion. How does your decision to rejoice change the meaning of your trembling?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Habakkuk 2:4",
+        "summary": "Habakkuk's prayer shows the LORD going forth to save His anointed (v. 13), and says His ways are everlasting (v. 6). Habakkuk 2:4 says the righteous will live by faith.",
+        "question": "How does the character of the God who saves His people in this prayer help you understand the life of the person who lives by faith in chapter two?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the fig tree does not bud and no fruit is on the vines",
+        "feeling": "anxiety, dread",
+        "object": "a season of scarcity",
+        "behavior": "looking for an escape",
+        "step": "rely on the God of my salvation",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a season of scarcity} to God and instead of {behavior:looking for an escape}, I will {step:rely on the God of my salvation}."
       }
     }
   }

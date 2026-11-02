@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal accountability",
-            "expansion": "Each individual is responsible for their own actions, regardless of how they judge others."
-          },
-          {
-            "id": 2,
-            "text": "God's patient mercy",
-            "expansion": "Divine judgment is tempered by extraordinary patience and opportunity for repentance."
-          },
-          {
-            "id": 3,
-            "text": "Universal moral standard",
-            "expansion": "Moral law transcends cultural boundaries and applies equally to all humanity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you are quick to judge others' moral failures, what hidden failures might you be concealing from yourself?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal judgment evolved?",
-        "options": [
-          "I recognize my own hypocrisy more clearly",
-          "I understand God's judgment as more nuanced",
-          "I see the importance of self-reflection",
-          "I appreciate divine patience differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment includes opportunity for redemption",
           "Personal moral standards do not exempt one from divine evaluation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Paul quotes Scripture",
+            "ref": "v. 24",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one who teaches others. You are asked, 'You who preach against stealing, do you steal?' Then you hear, 'God's name is blasphemed among the Gentiles because of you.' What would you weigh about what your life says to others?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Matthew 7:1-2",
+        "summary": "Paul says that when you pass judgment on another, you condemn yourself because you do the same things (v. 1). Matthew 7:1-2 says that with the same judgment you pronounce, you will be judged, and with the measure you use, it will be measured to you.",
+        "question": "How does Matthew 7:1-2 help you understand the danger of passing judgment in Romans 2:1?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "God's kindness leads to repentance",
+        "feeling": "indifference, apathy",
+        "object": "my recurring failures",
+        "behavior": "ignoring my conscience",
+        "step": "turn back to Him",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my recurring failures} and instead of {behavior:ignoring my conscience}, I will {step:turn back to Him}."
       }
     }
   }

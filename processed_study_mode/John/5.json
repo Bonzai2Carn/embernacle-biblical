@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine healing resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Supernatural intervention",
-            "expansion": "God's power transcends human limitations and medical understanding."
-          },
-          {
-            "id": 2,
-            "text": "Personal responsibility in healing",
-            "expansion": "Individual faith and willingness to act are critical in experiencing transformation."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual vs. physical restoration",
-            "expansion": "True healing involves more than physical recovery—it encompasses spiritual wholeness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If healing is available, what internal barriers might prevent someone from receiving it?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine compassion with apparent selectivity in miraculous intervention?",
-        "left_label": "Universal Suffering",
-        "right_label": "Purposeful Healing"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine healing evolved?",
-        "options": [
-          "More open to supernatural possibilities",
-          "Recognize complexity of human suffering",
-          "Value personal agency in healing",
-          "See spiritual transformation as primary"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual healing is more significant than ritualistic observance",
           "Personal relationship with God matters more than institutional compliance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The Jews tried harder to kill Him",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 19",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself among the Jews hearing that He calls God His own Father. What would you weigh about Jesus' answer that the Son can do nothing by Himself?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Hebrews 1:3",
+        "summary": "Jesus claims the power to give life and raise the dead (v. 21). Hebrews describes Him as the one who sustains all things by His powerful word.",
+        "question": "How does the description of His power in Hebrews help you understand the weight of the life-giving voice Jesus describes here?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "devotion",
+        "because": "I do not seek My own will, but the will of Him who sent Me",
+        "feeling": "pride, self-reliance",
+        "object": "my personal plans",
+        "behavior": "forcing my own way",
+        "step": "ask what He desires",
+        "template": "from today I let go of my {feeling:pride, self-reliance} over {object:my personal plans} and instead of {behavior:forcing my own way}, I will {step:ask what He desires}."
       }
     }
   }

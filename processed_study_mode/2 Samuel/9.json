@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's compassion most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Remembering old covenants",
-            "expansion": "David honors his past friendship with Jonathan through active mercy."
-          },
-          {
-            "id": 2,
-            "text": "Extending grace to the marginalized",
-            "expansion": "David elevates Mephibosheth despite his disability and vulnerable status."
-          },
-          {
-            "id": 3,
-            "text": "Transformative hospitality",
-            "expansion": "David restores an entire lineage through one act of radical kindness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might unresolved relational wounds prevent us from seeing the potential for redemption in those we once considered enemies?"
-      },
-      "moral_slider": {
-        "question": "To what extent should past relationships determine present acts of mercy?",
-        "left_label": "Situational Kindness",
-        "right_label": "Unconditional Compassion"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of leadership and compassion?",
-        "options": [
-          "I see leadership as more about restoration than power",
-          "Mercy can transcend generational conflicts",
-          "Personal covenants matter more than political divisions",
-          "True strength is shown through vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Fulfillment of covenant promises beyond personal benefit",
           "Demonstration of God's character through human compassion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "David asked",
+            "ref": "v. 1",
+            "speaker": "David"
+          },
+          {
+            "who": "David said",
+            "ref": "v. 7",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in Mephibosheth's place. The king says, 'Do not be afraid,' and promises you kindness for the sake of your father Jonathan. What would you weigh before you believe his promise?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Ephesians 2:4-5",
+        "summary": "David seeks out someone left from Saul's house to show kindness and restores his land (vv. 1-7). Ephesians 2:4-5 says God, rich in mercy, made us alive with Christ even when we were dead in our trespasses.",
+        "question": "How does Ephesians 2:4-5 help you understand the kindness David shows Mephibosheth?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "devotion",
+        "because": "there is still someone left to whom I can show the kindness of God",
+        "feeling": "indifference, apathy",
+        "object": "the person no one notices",
+        "behavior": "walking past them",
+        "step": "offer a kind word",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the person no one notices} and instead of {behavior:walking past them}, I will {step:offer a kind word}."
       }
     }
   }

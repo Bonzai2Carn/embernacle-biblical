@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply in this story of resistance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unwavering Faith",
-            "expansion": "The three men's commitment transcends personal survival and demonstrates absolute trust in divine sovereignty."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Courage",
-            "expansion": "Refusing to compromise core beliefs, even under threat of death, represents profound moral integrity."
-          },
-          {
-            "id": 3,
-            "text": "Divine Intervention",
-            "expansion": "God's supernatural protection demonstrates His power to preserve those who remain faithful."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When societal pressure demands compromise, what internal resources determine one's capacity to remain true to core convictions?"
-      },
-      "moral_slider": {
-        "question": "How do personal principles interact with collective cultural expectations?",
-        "left_label": "Individual Conviction",
-        "right_label": "Social Conformity"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of spiritual resilience?",
-        "options": [
-          "Recognized the power of principled resistance",
-          "Understood faith as a transformative force",
-          "Saw divine protection in a new light",
-          "Questioned my own spiritual courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Corporate pressure cannot override individual moral responsibility",
           "Faithfulness requires courage to stand alone against systemic injustice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Nebuchadnezzar asked",
+            "ref": "v. 15",
+            "speaker": "Nebuchadnezzar"
+          },
+          {
+            "who": "Shadrach, Meshach, and Abednego replied to the king",
+            "ref": "vv. 16-18",
+            "speaker": "Abednego"
+          }
+        ],
+        "question": "Put yourself in the place of these three men. You face a choice between a certain death and a god who might not even save you. What does their answer reveal about where their true security lies?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Hebrews 11:33-34",
+        "summary": "Nebuchadnezzar sees the men walking unharmed in the fire (v. 25). Hebrews describes others who through faith conquered kingdoms and escaped the edge of the sword.",
+        "question": "How does the account of these men in the furnace help you understand the power of faith described in Hebrews?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "God is able to deliver us from the blazing fiery furnace",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "doubting His presence",
+        "step": "rest in His power",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult season} to God and instead of {behavior:doubting His presence}, I will {step:rest in His power}."
       }
     }
   }

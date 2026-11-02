@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Spiritual Darkness",
-            "expansion": "The psalmist's profound sense of being overwhelmed by enemies and spiritual oppression"
-          },
-          {
-            "id": 2,
-            "text": "Desperate Plea for Divine Guidance",
-            "expansion": "The raw, vulnerable request for God's immediate intervention and direction"
-          },
-          {
-            "id": 3,
-            "text": "Seeking Spiritual Restoration",
-            "expansion": "The urgent desire to be renewed and aligned with God's will despite personal challenges"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of divine assistance change if you viewed challenges as opportunities for spiritual transformation rather than obstacles?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human vulnerability with spiritual resilience?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Strength"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and divine relationship evolved?",
-        "options": [
-          "Recognize prayer as dialogue, not demand",
-          "Understand spiritual struggles as growth opportunities",
-          "Embrace vulnerability in spiritual communication",
-          "View challenges as potential pathways to deeper understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's responsiveness is directly proportional to human humility",
           "Persistent prayer transforms external circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: your spirit is faint and your heart is dismayed. What does looking back at God's past works do for your current distress?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Romans 3:23",
+        "summary": "The psalmist asks God not to bring him into judgment, for no one alive is righteous before Him (v. 2). Romans 3:23 says all have sinned and fall short of the glory of God.",
+        "question": "How does Romans 3:23 help you understand why the psalmist pleads for mercy instead of judgment?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "You are my God, and I ask Your good Spirit to lead me on level ground",
+        "feeling": "anxiety, confusion",
+        "object": "a difficult decision",
+        "behavior": "relying on my own logic",
+        "step": "pray for Your leading before I choose",
+        "template": "from today I bring You my {feeling:anxiety, confusion} about {object:a difficult decision} and instead of {behavior:relying on my own logic}, I will {step:pray for Your leading before I choose}."
       }
     }
   }

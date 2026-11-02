@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual image resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Open Door in Heaven",
-            "expansion": "A portal of divine invitation revealing transcendent mysteries beyond human perception."
-          },
-          {
-            "id": 2,
-            "text": "The Rainbow Surrounding the Throne",
-            "expansion": "God's covenant promise encompassing divine judgment with mercy and hope."
-          },
-          {
-            "id": 3,
-            "text": "The Twenty-Four Elders",
-            "expansion": "Representation of complete spiritual governance and worship beyond earthly limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine revelation is constantly unfolding, what presumptions might you need to surrender about your current understanding of spiritual reality?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human perspective with divine transcendence?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Mystery"
-      },
-      "reevaluation": {
-        "question": "How might this passage transform your perception of worship and divine sovereignty?",
-        "options": [
-          "I see worship as more holistic",
-          "I recognize divine complexity",
-          "I feel humbled by spiritual dimensions",
-          "I'm challenged to expand my theological understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Creation exists in perpetual submission to divine authority",
           "Heavenly reality differs dramatically from earthly perception"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The four living creatures say",
+            "ref": "v. 8",
+            "speaker": "The four living creatures"
+          },
+          {
+            "who": "The twenty-four elders say",
+            "ref": "v. 11",
+            "speaker": "The twenty-four elders"
+          }
+        ],
+        "question": "Put yourself in the place of the one who hears them. The living creatures never stop saying that the Lord God Almighty is holy. The elders say He is worthy of glory, honor, and power because He created all things. What do you understand about why He is worthy?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Daniel 7:9-10",
+        "summary": "John sees a throne standing in heaven, with someone seated on it (v. 2). Daniel saw thrones set in place and the Ancient of Days take His seat, with thousands attending Him and the books opened (Daniel 7:9-10).",
+        "question": "How does Daniel 7:9-10 help you understand the throne John sees in verse 2?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "devotion",
+        "because": "the four living creatures never stop saying that the Lord God Almighty is holy",
+        "feeling": "restlessness, distraction",
+        "object": "my busy schedule",
+        "behavior": "rushing past His presence",
+        "step": "pause to say He is holy",
+        "template": "from today I let go of my {feeling:restlessness, distraction} over {object:my busy schedule} and instead of {behavior:rushing past His presence}, I will {step:pause to say He is holy}."
       }
     }
   }

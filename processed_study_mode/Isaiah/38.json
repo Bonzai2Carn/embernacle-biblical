@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual theme resonates most deeply in Hezekiah's encounter with mortality?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Vulnerability of human life",
-            "expansion": "Our mortality reveals the fragility of human existence and our dependence on divine mercy."
-          },
-          {
-            "id": 2,
-            "text": "Power of passionate prayer",
-            "expansion": "Hezekiah's earnest, transparent petition demonstrates how genuine emotional vulnerability can move divine intervention."
-          },
-          {
-            "id": 3,
-            "text": "God's responsiveness to human suffering",
-            "expansion": "The immediate divine communication shows God's intimate attentiveness to individual human struggles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine foreknowledge already determined Hezekiah's fate, what purpose does his prayer serve?"
-      },
-      "moral_slider": {
-        "question": "How do human emotions interact with divine providence?",
-        "left_label": "Emotional Manipulation",
-        "right_label": "Authentic Relationship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and divine interaction shifted?",
-        "options": [
-          "Prayer is more about alignment than changing outcomes",
-          "Emotional honesty matters more than ritualistic language",
-          "Divine mercy can transcend predetermined circumstances",
-          "Personal suffering can be a pathway to deeper spiritual understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine responses are predestined but appear responsive",
           "Prayer primarily changes the human heart, not divine intention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD says through Isaiah",
+            "ref": "v. 1",
+            "speaker": "Isaiah"
+          },
+          {
+            "who": "Hezekiah prayed",
+            "ref": "v. 3",
+            "speaker": "Hezekiah"
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. You receive a word that your life is ending. What does his prayer reveal about how he views his relationship with God?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "2 Kings 20:1-6",
+        "summary": "Isaiah delivers a message of death and a promise of fifteen more years (vv. 1-5). 2 Kings records the same event and the same promise from the LORD.",
+        "question": "How does seeing this same message in 2 Kings help you understand the certainty of the word given to Hezekiah?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "remembrance",
+        "because": "the LORD's love has delivered me from the pit of oblivion and cast all my sins behind His back",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "dwelling on my mistakes",
+        "step": "rest in His mercy",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:dwelling on my mistakes}, I will {step:rest in His mercy}."
       }
     }
   }

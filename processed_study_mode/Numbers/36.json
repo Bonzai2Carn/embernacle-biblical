@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of inheritance speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tribal Preservation",
-            "expansion": "The concern for maintaining tribal boundaries and identity remains a profound communal commitment."
-          },
-          {
-            "id": 2,
-            "text": "Women's Agency",
-            "expansion": "The daughters of Zelophehad demonstrate remarkable self-advocacy within a patriarchal system."
-          },
-          {
-            "id": 3,
-            "text": "Divine Guidance",
-            "expansion": "God's specific instructions reveal meticulous care for individual family circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might preserving tribal inheritance actually limit or paradoxically protect individual freedom?"
-      },
-      "moral_slider": {
-        "question": "How do communal traditions balance against individual rights?",
-        "left_label": "Collective Identity",
-        "right_label": "Personal Choice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of inheritance shifted?",
-        "options": [
-          "I see inheritance as more complex than simple property transfer",
-          "Familial continuity matters more than I previously thought",
-          "Legal structures can protect marginalized groups",
-          "Divine guidance speaks to specific human contexts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Adaptable legal frameworks can address complex social challenges",
           "Spiritual principles can coexist with practical social regulations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The family heads of the clan of Gilead said",
+            "ref": "vv. 2-3",
+            "speaker": "The family heads of the clan of Gilead"
+          },
+          {
+            "who": "Moses commanded",
+            "ref": "vv. 5-6",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the family heads. You fear that if the daughters marry men of other tribes, your allotted inheritance would be taken away. What do you understand from Moses' answer about whom the daughters may marry?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Joshua 17:3-4",
+        "summary": "Numbers 36 says no inheritance may pass from one tribe to another, because each Israelite keeps the inheritance of his father's tribe (v. 7). Joshua 17 tells how Zelophehad's daughters, who had no sons, came to Eleazar and Joshua and received an inheritance among their father's brothers, as the LORD commanded (vv. 3-4).",
+        "question": "How does Joshua 17:3-4 help you understand what happened to the inheritance the daughters of Zelophehad asked for?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "each of the Israelites is to retain the inheritance of the tribe of his fathers",
+        "feeling": "anxiety, greed",
+        "object": "the resources of others",
+        "behavior": "grabbing more for myself",
+        "step": "honor the boundaries set",
+        "template": "from today I let go of my {feeling:anxiety, greed} over {object:the resources of others} and instead of {behavior:grabbing more for myself}, I will {step:honor the boundaries set}."
       }
     }
   }

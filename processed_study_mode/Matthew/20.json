@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine generosity in this parable?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Equal reward regardless of work duration",
-            "expansion": "Grace transcends human calculations of fairness and merit."
-          },
-          {
-            "id": 2,
-            "text": "God's invitation comes at different life stages",
-            "expansion": "Divine opportunity is never limited by human timing or perceived readiness."
-          },
-          {
-            "id": 3,
-            "text": "The landowner's unexpected generosity",
-            "expansion": "Radical compassion disrupts transactional worldviews of worth and compensation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine generosity defies human economic logic, what does this reveal about the nature of value and worthiness?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile justice with radical grace?",
-        "left_label": "Strict Fairness",
-        "right_label": "Unconditional Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this parable challenged your understanding of divine economy?",
-        "options": [
-          "I see reward differently now",
-          "My concept of fairness has shifted",
-          "I recognize God's generosity more deeply",
-          "I'm more aware of personal judgment tendencies"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine compensation is not proportional to human calculations",
           "Spiritual rewards are fundamentally relational, not transactional"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The workers said",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The owner answered",
+            "ref": "v. 15",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the first workers. You say the last workers worked only one hour and were made equal to you, and the owner asks, Are you envious because I am generous? What would you weigh in his question, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Ephesians 2:8-9",
+        "summary": "The owner asks the first workers whether they are envious because he is generous (v. 15). Paul says you have been saved by grace through faith, a gift of God and not by works, so that no one can boast (Ephesians 2:8-9).",
+        "question": "How does Paul's description of grace help you understand the owner's generosity to the last workers?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "whoever wants to become great among you must be your servant",
+        "feeling": "pride, resentment",
+        "object": "a position of influence",
+        "behavior": "demanding my rights",
+        "step": "look for a need to meet",
+        "template": "from today I let go of my {feeling:pride, resentment} over {object:a position of influence} and instead of {behavior:demanding my rights}, I will {step:look for a need to meet}."
       }
     }
   }

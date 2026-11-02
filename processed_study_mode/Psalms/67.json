@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective resonates most strongly in this Psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Praise",
-            "expansion": "God's salvation is intended for all nations, not just Israel."
-          },
-          {
-            "id": 2,
-            "text": "Divine Blessing",
-            "expansion": "God's favor can transform entire communities through spiritual abundance."
-          },
-          {
-            "id": 3,
-            "text": "Global Worship",
-            "expansion": "Humanity's ultimate purpose is to recognize and celebrate divine sovereignty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's mercy is truly universal, how might that challenge our tribal or exclusive religious perspectives?"
-      },
-      "moral_slider": {
-        "question": "How do divine blessing and human responsibility intersect?",
-        "left_label": "Divine Sovereignty",
-        "right_label": "Human Agency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine purpose shifted?",
-        "options": [
-          "More global perspective",
-          "Deeper appreciation of spiritual inclusivity",
-          "Recognition of universal divine love",
-          "Challenging previous exclusionary beliefs"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship transcends ethnic and cultural boundaries",
           "Salvation is fundamentally a missional and inclusive divine initiative"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the nations hearing this call. You are told to let the peoples praise God (v. 3). What do you understand about why the nations are glad when He judges the peoples justly (v. 4)?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Genesis 12:3",
+        "summary": "The psalmist prays that God's ways be known on earth and His salvation among all nations (v. 2). Genesis 12:3 has God say that all the families of the earth will be blessed through the one He addresses.",
+        "question": "How does Genesis 12:3 help you understand the psalmist's hope that salvation reaches all nations (v. 2)?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "we can ask God to be gracious to us, to bless us, and to cause His face to shine upon us",
+        "feeling": "ingratitude",
+        "object": "the everyday routine",
+        "behavior": "counting only what I lack",
+        "step": "thank Him aloud for one blessing I received",
+        "template": "from today I bring You my {feeling:ingratitude} about {object:the everyday routine} and instead of {behavior:counting only what I lack}, I will {step:thank Him aloud for one blessing I received}."
       }
     }
   }

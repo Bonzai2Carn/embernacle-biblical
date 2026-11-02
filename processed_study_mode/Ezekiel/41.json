@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which architectural detail of the divine sanctuary resonates most with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Measurements",
-            "expansion": "Divine order emerges through meticulous architectural planning and symbolic precision."
-          },
-          {
-            "id": 2,
-            "text": "Sacred Interior Space",
-            "expansion": "The inner sanctuary represents the profound intimacy between divine presence and human perception."
-          },
-          {
-            "id": 3,
-            "text": "Structural Symmetry",
-            "expansion": "Spiritual harmony manifests through balanced, intentional architectural design reflecting cosmic order."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine architecture is a metaphor for spiritual transformation, what internal structures might require careful measurement and deliberate reconstruction?"
-      },
-      "moral_slider": {
-        "question": "How do ritual precision and spiritual freedom interact in understanding divine communion?",
-        "left_label": "Rigid Observance",
-        "right_label": "Spontaneous Connection"
-      },
-      "reevaluation": {
-        "question": "How has exploring Ezekiel's architectural vision shifted your understanding of spiritual space?",
-        "options": [
-          "Recognized symbolic complexity",
-          "Appreciated divine intentionality",
-          "Saw architecture as spiritual metaphor",
-          "Challenged previous interpretative frameworks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals prophetic insight into future spiritual infrastructure",
           "Provides metaphorical blueprint for spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The man says",
+            "ref": "v. 22",
+            "speaker": "The man"
+          }
+        ],
+        "question": "Imagine you are standing before the altar of wood. The man tells you it is the table that is before the LORD. What would you understand about what stands before Him?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Exodus 25:40",
+        "summary": "Ezekiel records the measured walls and rooms of the temple, with carved cherubim and palm trees (vv. 13, 18-19). Exodus 25:40 says to make everything according to the pattern shown on the mountain.",
+        "question": "How does Exodus 25:40 help you understand the measured design of the temple in Ezekiel 41?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "pacing",
+        "because": "the side rooms were arranged in three levels of thirty rooms each",
+        "feeling": "overwhelm, dread",
+        "object": "a crowded schedule",
+        "behavior": "piling on more commitments",
+        "step": "cut one commitment this week",
+        "template": "from today I set down my {feeling:overwhelm, dread} about {object:a crowded schedule} and instead of {behavior:piling on more commitments}, I will {step:cut one commitment this week}."
       }
     }
   }

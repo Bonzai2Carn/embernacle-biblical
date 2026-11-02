@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical element of national power resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Cedar Tree representing Assyria",
-            "expansion": "Nations rise through interconnected systems of strength and nourishment, not just individual prowess."
-          },
-          {
-            "id": 2,
-            "text": "Underground Waters as Source of Growth",
-            "expansion": "True power emerges from hidden, foundational sources beyond visible structures."
-          },
-          {
-            "id": 3,
-            "text": "Height and Shadowing Branches",
-            "expansion": "Prominence creates both protection and vulnerability for surrounding entities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If national greatness is transient, what enduring qualities transcend temporal power?"
-      },
-      "moral_slider": {
-        "question": "How do pride and humility balance in national identity?",
-        "left_label": "Unchecked Pride",
-        "right_label": "Humble Recognition"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of power dynamics shifted?",
-        "options": [
-          "Recognize systemic fragility",
-          "Understand cyclical nature of empires",
-          "Appreciate underlying spiritual dimensions",
-          "Perceive interconnectedness of global systems"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical empires serve as moral and spiritual lessons",
           "Divine judgment transcends human political structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "God says",
+            "ref": "vv. 5-7",
+            "speaker": "God"
+          },
+          {
+            "who": "God says",
+            "ref": "v. 10",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of the nations watching this great tree. You see its beauty and its height, yet you see its pride. What does the sudden shift in the Lord's words reveal about the fate of such greatness?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Proverbs 16:18",
+        "summary": "The Lord describes how the tree's height led to its pride and its eventual downfall (vv. 10-11). Proverbs warns that this same pride is the precursor to ruin.",
+        "question": "How does the warning in Proverbs help you see the inevitability of the tree's destruction in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "the tree grew proud on account of its height",
+        "feeling": "self-importance",
+        "object": "my recent success",
+        "behavior": "seeking constant praise",
+        "step": "give credit to others",
+        "template": "from today I bring my {feeling:self-importance} about {object:my recent success} into the light and instead of {behavior:seeking constant praise}, I will {step:give credit to others}."
       }
     }
   }

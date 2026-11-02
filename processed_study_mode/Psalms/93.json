@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's sovereignty resonates most powerfully?",
-        "choices": [
-          {
-            "id": "majesty",
-            "text": "God's Majestic Power",
-            "expansion": "The psalm emphasizes divine strength that transcends all earthly turbulence."
-          },
-          {
-            "id": "stability",
-            "text": "Eternal Foundations",
-            "expansion": "God's throne stands immovable, representing ultimate cosmic reliability."
-          },
-          {
-            "id": "holiness",
-            "text": "Unassailable Holiness",
-            "expansion": "Divine righteousness is not just a characteristic but the fundamental nature of existence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so absolute, what role does human agency truly play in a universe governed by such sovereignty?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine omnipotence with human suffering?",
-        "left_label": "Uncertainty",
-        "right_label": "Absolute Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine authority shifted?",
-        "options": [
-          "More aware of cosmic order",
-          "Recognize personal limitations",
-          "Feel greater spiritual humility",
-          "Understand divine perspective differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates divine sovereignty as relational, not merely abstract",
           "Presents cosmic order as a reflection of divine character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist adds",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are standing by the shore, hearing the rising floods and the pounding waves. You hear that the world cannot be moved, and that the LORD on high is majestic above the roar. What do you weigh more heavily: the roar of the waters or the One who reigns above them?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 104:5-9",
+        "summary": "Psalm 93 says the world is firmly established (v. 1) and the LORD on high is majestic above the roar of many waters (v. 4). Psalm 104:5-9 says He set the earth on its foundations and set a boundary the waters cannot cross.",
+        "question": "How does Psalm 104:5-9 help you understand the LORD's place above the roar of the waters in verse 4?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "the world is firmly established and cannot be moved",
+        "feeling": "anxiety, dread",
+        "object": "the chaos around me",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His strength",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the chaos around me} and instead of {behavior:trying to control every outcome}, I will {step:rest in His strength}."
       }
     }
   }

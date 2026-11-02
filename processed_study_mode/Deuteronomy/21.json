@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of communal responsibility resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Accountability for unsolved violence",
-            "expansion": "Communities bear collective responsibility for addressing unexplained harm within their boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Ritual of atonement for unresolved death",
-            "expansion": "Symbolic acts can represent deeper spiritual reconciliation and moral healing."
-          },
-          {
-            "id": 3,
-            "text": "Protecting vulnerable populations",
-            "expansion": "Legal frameworks must consider the marginalized and ensure dignified treatment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If justice cannot perfectly determine individual culpability, how do societies meaningfully address collective moral responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do ritualistic legal processes balance justice and compassion?",
-        "left_label": "Rigid Legal Procedure",
-        "right_label": "Empathetic Community Healing"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal justice evolved?",
-        "options": [
-          "More aware of systemic accountability",
-          "Recognize complexity beyond individual actions",
-          "See ritual as meaningful symbolic process",
-          "Understand law as a form of spiritual practice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates the need for spiritual and legal mechanisms of reconciliation",
           "Highlights the theological principle that unresolved sin impacts entire communities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The law commands",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "The law gives the reason",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a father dividing his inheritance between two sons. The law says you must not favor the son of the beloved wife over the firstborn. What would you weigh most when you give the firstborn his double portion?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "1 John 1:7",
+        "summary": "The elders ask the LORD to accept this atonement and not hold the shedding of innocent blood against the people (v. 8). First John says the blood of Jesus His Son cleanses us from all sin (1 John 1:7).",
+        "question": "How does 1 John 1:7 help you understand the atonement the elders ask for in verse 8?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "repair",
+        "because": "the firstborn is the firstfruits of his father's strength, and the right of the firstborn belongs to him",
+        "feeling": "resentment, jealousy",
+        "object": "a sibling who receives more",
+        "behavior": "keeping score of who gets more",
+        "step": "give each person their fair share",
+        "template": "from today I turn from my {feeling:resentment, jealousy} toward {object:a sibling who receives more} and instead of {behavior:keeping score of who gets more}, I will {step:give each person their fair share}."
       }
     }
   }

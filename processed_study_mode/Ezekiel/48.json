@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of tribal allocation speaks most to your understanding of divine order?",
-        "choices": [
-          {
-            "id": "precise_boundaries",
-            "text": "Precise territorial boundaries",
-            "expansion": "Divine planning reveals meticulous care for each tribe's inheritance and identity."
-          },
-          {
-            "id": "equal_distribution",
-            "text": "Equitable land distribution",
-            "expansion": "God's justice manifests through proportional allocation regardless of historical prominence."
-          },
-          {
-            "id": "sacred_geometry",
-            "text": "Sacred spatial arrangement",
-            "expansion": "Spiritual geography reflects deeper cosmic and theological organizational principles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If territorial allocation symbolizes spiritual inheritance, what boundaries might constrain or liberate your own spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do communal needs balance against individual tribal identities?",
-        "left_label": "Individual Tribe Identity",
-        "right_label": "Collective Unity"
-      },
-      "reevaluation": {
-        "question": "How has this chapter transformed your understanding of divine allocation and purpose?",
-        "options": [
-          "Recognize divine intentionality in systematic planning",
-          "Understand spiritual inheritance beyond literal geography",
-          "Appreciate nuanced tribal relationships",
-          "See God's comprehensive vision for community restoration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic blueprint for future covenant fulfillment",
           "Metaphorical understanding of divine kingdom principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 34,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 31",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The city is given its name",
+            "ref": "v. 35",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are walking through these gates, seeing each one named for a tribe. When you reach the final gate and hear the city's new name, what does that name change for you?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Revelation 21:3",
+        "summary": "The city's new name is THE LORD IS THERE (v. 35). In Revelation 21:3 a loud voice from the throne says the dwelling place of God is with man and He will dwell with them.",
+        "question": "How does Revelation 21:3 help you understand the name THE LORD IS THERE?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the best part of the land is holy to the LORD",
+        "feeling": "greed, selfishness",
+        "object": "my personal resources",
+        "behavior": "hoarding what I have",
+        "step": "use my surplus to serve others",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:my personal resources} and instead of {behavior:hoarding what I have}, I will {step:use my surplus to serve others}."
       }
     }
   }

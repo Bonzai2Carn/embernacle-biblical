@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacred craftsmanship most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precision in Divine Design",
-            "expansion": "Every detail reflects intentional spiritual significance beyond mere aesthetic construction."
-          },
-          {
-            "id": 2,
-            "text": "Transformative Artistry",
-            "expansion": "Human skill can elevate ordinary materials into vessels of profound spiritual meaning."
-          },
-          {
-            "id": 3,
-            "text": "Collaborative Worship",
-            "expansion": "Sacred work emerges through collective dedication and shared spiritual vision."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions require meticulous human implementation, what does this suggest about the relationship between heavenly perfection and earthly limitation?"
-      },
-      "moral_slider": {
-        "question": "How do human creativity and divine instruction intersect in spiritual craftsmanship?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Prescription"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and craftsmanship evolved?",
-        "options": [
-          "Recognize spiritual significance in detail",
-          "Appreciate collective creative effort",
-          "Understand worship as intentional process",
-          "See craftsmanship as spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Detailed instructions demonstrate divine wisdom in human spiritual practices",
           "Craftsmanship represents humanity's capacity to honor God through skilled work"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 17,
+        "ref": "Hebrews 9:4-5",
+        "summary": "Bezalel builds the ark and the mercy seat, with cherubim over it (vv. 1-9). Hebrews names the ark and the cherubim of glory above it in the Most Holy Place (Hebrews 9:4-5).",
+        "question": "How does Hebrews naming the ark and its cherubim help you view the craftsmanship of the ark described here?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "the buds and branches were all of one piece with the lampstand",
+        "feeling": "fragmentation, distraction",
+        "object": "my daily tasks",
+        "behavior": "treating duties as separate from my faith",
+        "step": "connect my work to His presence",
+        "template": "from today I let go of my {feeling:fragmentation, distraction} over {object:my daily tasks} and instead of {behavior:treating duties as separate from my faith}, I will {step:connect my work to His presence}."
       }
     }
   }

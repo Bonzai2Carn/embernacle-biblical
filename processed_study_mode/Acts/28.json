@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's resilience most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Surviving the Shipwreck",
-            "expansion": "Demonstrates extraordinary perseverance through life-threatening circumstances"
-          },
-          {
-            "id": 2,
-            "text": "Healing the Maltese People",
-            "expansion": "Shows compassion and divine purpose even in unexpected moments of vulnerability"
-          },
-          {
-            "id": 3,
-            "text": "Continuing Ministry Under House Arrest",
-            "expansion": "Reveals transformative power of maintaining spiritual mission despite physical limitations"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might limitations actually become unexpected platforms for spiritual witness and transformation?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the tension between human vulnerability and divine protection?",
-        "left_label": "Human Fragility",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "I see obstacles as potential opportunities",
-          "Suffering can be purposeful",
-          "Spiritual mission transcends physical circumstances",
-          "God's protection is often unexpected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Miraculous preservation is not guaranteed but possible",
           "Spiritual authority manifests through obedient submission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The islanders said",
+            "ref": "v. 4",
+            "speaker": "Barbarians"
+          },
+          {
+            "who": "Paul shook the creature off into the fire and suffered no ill effects",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are an islander watching this man. You just said that Justice has not allowed him to live, but then he shakes a creature off into the fire and suffers no ill effects. What do you reconsider about your first impression?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Philippians 1:12-14",
+        "summary": "Paul arrives in Rome and is allowed to stay by himself with a soldier to guard him (v. 16). In Philippians he writes that his circumstances in chains have advanced the gospel and made brothers bolder to speak the word.",
+        "question": "How does Philippians 1:12-14 help you understand what Paul's arrival in Rome under guard (v. 16) could mean for the brothers who met him?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "Paul proclaimed the kingdom of God and taught about the Lord Jesus Christ",
+        "feeling": "anxiety, hesitation",
+        "object": "sharing my faith with a neighbor",
+        "behavior": "staying silent to avoid conflict",
+        "step": "speak the truth with boldness",
+        "template": "from today I let go of my {feeling:anxiety, hesitation} over {object:sharing my faith with a neighbor} and instead of {behavior:staying silent to avoid conflict}, I will {step:speak the truth with boldness}."
       }
     }
   }

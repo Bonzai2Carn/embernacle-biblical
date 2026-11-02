@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound aspect of spiritual struggle resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Abandonment",
-            "expansion": "The raw vulnerability of feeling forsaken, yet maintaining spiritual connection."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Suffering",
-            "expansion": "The messianic foreshadowing of Christ's crucifixion through vivid descriptive language."
-          },
-          {
-            "id": 3,
-            "text": "Ultimate Redemption",
-            "expansion": "The transformative journey from profound despair to ultimate hope and praise."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God feels distant in our deepest moments of suffering, does that absence prove or challenge divine love?"
-      },
-      "moral_slider": {
-        "question": "How do personal lamentations intersect with universal spiritual experience?",
-        "left_label": "Individual Pain",
-        "right_label": "Collective Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Recognized deeper complexity of faith",
-          "Understood vulnerability as strength",
-          "Saw suffering as potentially transformative",
-          "Appreciated prophetic narrative dimensions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic lament can coexist with profound theological hope",
           "Individual suffering has universal theological significance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one crying out in abandonment. How does the promise to proclaim His name change the weight of the silence you feel?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Matthew 27:46",
+        "summary": "The psalmist asks why God is so far from saving him (v. 1). Matthew 27:46 records Jesus crying out the same question: My God, My God, why have You forsaken Me?",
+        "question": "How does knowing Jesus spoke these words help you understand the depth of the abandonment described in this Psalm?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "He has not hidden His face from the afflicted but has attended to their cry for help",
+        "feeling": "loneliness, abandonment",
+        "object": "a season of silence",
+        "behavior": "withdrawing from others",
+        "step": "cry out to Him anyway",
+        "template": "from today I bring You my {feeling:loneliness, abandonment} about {object:a season of silence} and instead of {behavior:withdrawing from others}, I will {step:cry out to Him anyway}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image most resonates with divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God fighting for Jerusalem",
-            "expansion": "The divine warrior personally defending His covenant people against overwhelming odds."
-          },
-          {
-            "id": 2,
-            "text": "Mount of Olives splitting",
-            "expansion": "A geological transformation symbolizing radical spiritual restructuring of reality."
-          },
-          {
-            "id": 3,
-            "text": "Nations gathered for judgment",
-            "expansion": "The ultimate eschatological moment where collective human rebellion meets divine accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God fights 'as in the day of battle', what does this reveal about divine nature that challenges our comfortable theological assumptions?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's apparent violence with divine love?",
-        "left_label": "Divine Wrath",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this chapter shifted your understanding of prophetic narrative?",
-        "options": [
-          "I see divine intervention more dynamically",
-          "Historical prophecy feels more complex",
-          "Spiritual warfare seems more literal",
-          "Judgment appears more nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical description of divine judgment and redemptive process",
           "Apocalyptic vision representing God's ultimate sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD says He will gather the nations",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says the LORD will fight",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a resident of Jerusalem hearing that the city will be captured and half of it go into exile. What does the LORD going out to fight those nations change about the outcome you see?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Revelation 21:1-4",
+        "summary": "The LORD becomes King over all the earth on that day, and Jerusalem is raised up (v. 9-10). Revelation describes a new heaven and earth, and God dwelling with His people, with no more death or mourning or crying or pain (Rev 21:1-4).",
+        "question": "How does the arrival of a new heaven and earth help you understand the permanence of the security promised to Jerusalem in this chapter?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "the LORD will become King over all the earth",
+        "feeling": "anxiety, fear",
+        "object": "the chaos in the world",
+        "behavior": "worrying about the future",
+        "step": "worship His sovereignty",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the chaos in the world} and instead of {behavior:worrying about the future}, I will {step:worship His sovereignty}."
       }
     }
   }

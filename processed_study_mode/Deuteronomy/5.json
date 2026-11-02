@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which covenant idea resonates most deeply?",
-        "choices": [
-          {
-            "id": "generational",
-            "text": "The covenant transcends individual generations",
-            "expansion": "God's promises extend beyond immediate participants to future descendants"
-          },
-          {
-            "id": "direct_encounter",
-            "text": "God speaks directly to the people",
-            "expansion": "Divine communication is intimate and unmediated by complete hierarchical structures"
-          },
-          {
-            "id": "continuous_remembrance",
-            "text": "Remembering past divine interactions shapes present commitment",
-            "expansion": "Historical spiritual experiences create ongoing ethical and theological obligations"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine law is eternal, how do human interpretations evolve without losing fundamental spiritual integrity?"
-      },
-      "moral_slider": {
-        "question": "How do personal freedom and divine commandments coexist?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Prescription"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant transformed?",
-        "options": [
-          "More communal than individual",
-          "Recognize deeper historical continuity",
-          "Appreciate nuanced divine-human relationship",
-          "Understand law as relational, not merely prescriptive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical document with limited contemporary application",
           "Foundational ethical framework for spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "The elders say",
+            "ref": "v. 27",
+            "speaker": "Israelite Elders"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 29",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the people who have heard the fire and the voice. The elders promise that you will listen and obey. The LORD says He wishes for a heart that fears Him and keeps all His commandments, so that it might be well with you and your children forever. What would you weigh most about keeping that heart always?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Exodus 20:8-11",
+        "summary": "Moses repeats the Sabbath command and gives Egypt as the reason: the people were slaves and the LORD brought them out (v. 15). Exodus 20:8-11 gives the Sabbath command with a different reason: in six days the LORD made the heavens and the earth, and on the seventh He rested.",
+        "question": "How does the reason given in Exodus 20:8-11 help you understand why Moses ties the Sabbath to Egypt in verse 15?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "practice",
+        "because": "you are not to turn aside to the right or to the left",
+        "feeling": "distraction, doubt",
+        "object": "a new responsibility",
+        "behavior": "wandering from my focus",
+        "step": "stay on the path He set",
+        "template": "from today I let go of my {feeling:distraction, doubt} over {object:a new responsibility} and instead of {behavior:wandering from my focus}, I will {step:stay on the path He set}."
       }
     }
   }

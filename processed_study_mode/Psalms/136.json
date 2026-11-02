@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which recurring theme most strikes you in this psalm of thanksgiving?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's Eternal Love",
-            "expansion": "The repeated refrain 'His love endures forever' suggests divine love as an unbreakable, constant reality."
-          },
-          {
-            "id": "2",
-            "text": "Divine Creation Power",
-            "expansion": "The psalm recounts God's creative and redemptive acts as evidence of His transformative sovereignty."
-          },
-          {
-            "id": "3",
-            "text": "Historical Remembrance",
-            "expansion": "Recounting Israel's historical journey demonstrates how divine intervention shapes collective identity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's love truly 'endures forever', how does this challenge our human tendency to perceive love as conditional or transactional?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's demonstrated power with apparent human suffering?",
-        "left_label": "Divine Sovereignty",
-        "right_label": "Human Freedom"
-      },
-      "reevaluation": {
-        "question": "How has this psalm potentially transformed your understanding of divine relationship?",
-        "options": [
-          "Seeing love as more unconditional",
-          "Recognizing patterns of divine intervention",
-          "Understanding gratitude as a spiritual practice",
-          "Viewing historical narratives as theological teachings"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Indicates persistent grace even through human failings",
           "Reveals love as a dynamic, active covenant relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the singer. You are called to give thanks because the LORD is good, and then you hear that He alone does great wonders. What do His wonders show you about the goodness you are thanking Him for?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Genesis 1:14-16",
+        "summary": "The psalmist praises God for making the great lights, the sun to rule the day and the moon and stars to govern the night (vv. 7-9). Genesis 1:14-16 says God made two great lights, the greater to rule the day and the lesser to rule the night, and the stars as well.",
+        "question": "How does Genesis 1:14-16 help you understand the great lights the psalmist names in verses 7-9?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "remembrance",
+        "because": "He remembered us in our low estate",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach His throne with honesty",
+        "template": "from today I bring You my {feeling:shame, inadequacy} about {object:my past failures} and instead of {behavior:hiding from God}, I will {step:approach His throne with honesty}."
       }
     }
   }

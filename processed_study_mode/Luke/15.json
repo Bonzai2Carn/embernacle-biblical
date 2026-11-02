@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you about God's perspective on lost souls?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God actively searches for the lost",
-            "expansion": "Divine love is not passive, but persistently seeks restoration."
-          },
-          {
-            "id": 2,
-            "text": "Every individual soul has immeasurable worth",
-            "expansion": "One lost soul matters more than statistical majority."
-          },
-          {
-            "id": 3,
-            "text": "Redemption brings profound joy",
-            "expansion": "Restoration creates greater celebration than continuous faithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God values the one who is lost more than those who never strayed, what does this reveal about divine mercy versus human judgment?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's unconditional love with personal accountability?",
-        "left_label": "Absolute Grace",
-        "right_label": "Strict Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual restoration shifted?",
-        "options": [
-          "I see redemption as more accessible",
-          "I understand divine love more deeply",
-          "I'm less judgmental toward 'lost' people",
-          "I recognize my own need for grace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual restoration matters more than religious performance",
           "Divine mercy is proactive, not dependent on human worthiness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The Pharisees and scribes grumbled",
+            "ref": "v. 2",
+            "speaker": "The Pharisees and scribes"
+          },
+          {
+            "who": "Jesus answered them",
+            "ref": "v. 7",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the Pharisees and scribes. You grumble that this man welcomes sinners and eats with them. What would you weigh when you hear that heaven rejoices more over one sinner who repents than over ninety-nine righteous ones who do not need to repent?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Matthew 18:12-14",
+        "summary": "Jesus says heaven rejoices more over one sinner who repents than over ninety-nine righteous ones (v. 7). Matthew 18:12-13 describes a man who leaves the ninety-nine to search for the one that is lost, and who rejoices more over that one sheep.",
+        "question": "How does Matthew 18:12-14 help you understand why the joy over one lost sheep is greater than the joy over the ninety-nine in Luke 15:7?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "repair",
+        "because": "the father saw his son while he was still in the distance, was filled with compassion, and ran to embrace him",
+        "feeling": "resentment, pride",
+        "object": "a brother who has returned home",
+        "behavior": "refusing to join the celebration",
+        "step": "go in and celebrate with them",
+        "template": "from today I turn from my {feeling:resentment, pride} toward {object:a brother who has returned home} and instead of {behavior:refusing to join the celebration}, I will {step:go in and celebrate with them}."
       }
     }
   }

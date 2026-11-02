@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your journey?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Divine Correction",
-            "expansion": "Even faithful leaders can make misguided alliances that require prophetic redirection."
-          },
-          {
-            "id": "2",
-            "text": "Spiritual Accountability",
-            "expansion": "Personal integrity matters more than political expediency in God's economy."
-          },
-          {
-            "id": "3",
-            "text": "Redemptive Potential",
-            "expansion": "God sees potential in individuals beyond their momentary mistakes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you discern between strategic compromise and spiritual betrayal?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance divine judgment and divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Gracious Restoration"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of leadership and faithfulness?",
-        "options": [
-          "I see leadership as more nuanced",
-          "I recognize the importance of prophetic correction",
-          "I understand God's perspective is comprehensive",
-          "I appreciate the complexity of spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Compromise personal convictions for potential political/social advantages",
           "Seek divine wisdom through prayer and scriptural guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Jehu the seer said to King Jehoshaphat",
+            "ref": "v. 2",
+            "speaker": "Jehu"
+          },
+          {
+            "who": "Jehu continued",
+            "ref": "v. 3",
+            "speaker": "Jehu"
+          }
+        ],
+        "question": "Put yourself in Jehoshaphat's place. A prophet tells you that the wrath of the LORD is upon you for helping the wicked, and also that some good is found in you. How do you weigh the rebuke against the good?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Deuteronomy 16:18-20",
+        "summary": "Jehoshaphat tells his judges that with the LORD there is no injustice, partiality, or bribery (v. 7). Deuteronomy 16:18-20 tells Israel to appoint judges who judge with righteous judgment, deny no justice, show no partiality, and accept no bribe.",
+        "question": "How does Deuteronomy 16:18-20 help you understand the weight of the charge Jehoshaphat gives his judges?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "with the LORD our God there is no injustice or partiality or bribery",
+        "feeling": "prejudice, favoritism",
+        "object": "a person I dislike",
+        "behavior": "judging them unfairly",
+        "step": "seek the truth with honesty",
+        "template": "from today I let go of my {feeling:prejudice, favoritism} over {object:a person I dislike} and instead of {behavior:judging them unfairly}, I will {step:seek the truth with honesty}."
       }
     }
   }

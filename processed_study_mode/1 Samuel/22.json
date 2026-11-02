@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of leadership resonates most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Leadership through suffering",
-            "expansion": "David transforms personal adversity into a catalyst for gathering and inspiring marginalized people."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability as strength",
-            "expansion": "David's openness about his uncertainty creates a community of solidarity and shared struggle."
-          },
-          {
-            "id": 3,
-            "text": "Refuge as a spiritual metaphor",
-            "expansion": "The cave becomes a symbol of divine protection and unexpected community formation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does perceived weakness actually become a source of unexpected strength in leadership?"
-      },
-      "moral_slider": {
-        "question": "To what extent is survival justified when it potentially endangers others?",
-        "left_label": "Self-Preservation",
-        "right_label": "Communal Safety"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "Leadership emerges from shared struggle",
-          "Vulnerability can be a strategic strength",
-          "Community forms around authentic vulnerability",
-          "Divine purpose transcends personal comfort"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Isolating himself completely from community",
           "Responding with unconditional forgiveness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The king ordered his guards",
+            "ref": "v. 17",
+            "speaker": "The king"
+          },
+          {
+            "who": "Doeg struck down the priests",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the king's guards. The king orders you to turn and kill the priests of the LORD, and you will not lift a hand to strike them. Then Doeg is ordered, and Doeg strikes them down. What do you understand about the choice you made?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Acts 5:29",
+        "summary": "The king's servants would not lift a hand to strike the priests of the LORD (v. 17). In Acts 5:29 Peter and the other apostles reply, 'We must obey God rather than men.'",
+        "question": "How does Acts 5:29 help you weigh the refusal of the king's servants in verse 17?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "anyone who seeks Abiathar's life is seeking David's as well",
+        "feeling": "fear, anxiety",
+        "object": "a person's opposition",
+        "behavior": "running from the conflict",
+        "step": "stand firm in my place",
+        "template": "from today I entrust my {feeling:fear, anxiety} about {object:a person's opposition} to God and instead of {behavior:running from the conflict}, I will {step:stand firm in my place}."
       }
     }
   }

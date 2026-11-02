@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual truth resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Trust in God's ultimate justice",
-            "expansion": "Believing that righteousness will ultimately triumph over wickedness, even when current circumstances seem challenging."
-          },
-          {
-            "id": 2,
-            "text": "Patient waiting as a spiritual discipline",
-            "expansion": "Understanding that spiritual growth requires restraint, humility, and trust in divine timing."
-          },
-          {
-            "id": 3,
-            "text": "Inner peace through spiritual alignment",
-            "expansion": "Finding tranquility by surrendering personal anxieties and aligning one's heart with divine principles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true justice is guaranteed by divine intervention, how does this understanding transform your approach to personal conflicts and perceived injustices?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human agency with divine providence?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on patience and spiritual resilience evolved?",
-        "options": [
-          "I now see waiting as strength, not weakness",
-          "I understand that righteousness isn't about immediate results",
-          "I recognize the futility of anger and revenge",
-          "I'm more attuned to long-term spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance is secured through consistent faith, not circumstantial success",
           "Moral character matters more than temporary worldly outcomes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The wicked scheme against the righteous and gnash their teeth at them",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "but the Lord laughs, seeing that their day is coming",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are the righteous one the wicked scheme against. How does the Lord laughing, seeing that their day is coming, change how you see their gnashing teeth?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Romans 12:19",
+        "summary": "The psalmist says to be still, not to fret when men prosper, and to refrain from anger (vv. 7-8). Romans 12:19 says not to avenge yourselves but to leave room for God's wrath, since the Lord says, 'Vengeance is Mine; I will repay.'",
+        "question": "How does Romans 12:19 help you understand the command to refrain from anger and not fret in verses 7-8?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "the LORD will do it for the one who commits his way to Him and trusts in Him",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to force my own way",
+        "step": "commit my path to Him",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain future} to God and instead of {behavior:trying to force my own way}, I will {step:commit my path to Him}."
       }
     }
   }

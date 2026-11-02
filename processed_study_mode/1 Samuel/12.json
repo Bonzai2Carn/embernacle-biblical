@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership quality resonates most with Samuel's farewell address?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Accountability",
-            "expansion": "Samuel challenges the people to examine his leadership history transparently"
-          },
-          {
-            "id": 2,
-            "text": "Humility",
-            "expansion": "Samuel acknowledges his role as a servant rather than seeking personal glory"
-          },
-          {
-            "id": 3,
-            "text": "Historical Continuity",
-            "expansion": "Samuel connects the people's current moment with their ancestral covenant history"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does genuine leadership differ from the performance of power?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and national leadership intersect?",
-        "left_label": "Individual Righteousness",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "More aware of ethical accountability",
-          "Recognize complexity of spiritual leadership",
-          "Value transparency in governance",
-          "Understand historical context matters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Accountability is a critical aspect of godly leadership",
           "Personal integrity matters more than institutional power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Samuel said",
+            "ref": "v. 17",
+            "speaker": "Samuel"
+          },
+          {
+            "who": "the LORD sent thunder and rain",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the crowd during the wheat harvest. Samuel says he will call on the LORD to send thunder and rain so you will see what a great evil you committed in asking for a king, and then the sky breaks. What do you understand about your request?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "1 Samuel 8:7",
+        "summary": "Samuel reminds the people that they said 'No, we must have a king' even though the LORD was their king (v. 12). In 1 Samuel 8:7 the LORD tells Samuel it is not him they have rejected, but they have rejected Him as their king.",
+        "question": "How does 1 Samuel 8:7 help you understand what Samuel says about the people's demand for a king?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "practice",
+        "because": "worthless things cannot profit or deliver you",
+        "feeling": "anxiety, restlessness",
+        "object": "a new way to find security",
+        "behavior": "chasing after shadows",
+        "step": "look at what the LORD has already done",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a new way to find security} and instead of {behavior:chasing after shadows}, I will {step:look at what the LORD has already done}."
       }
     }
   }

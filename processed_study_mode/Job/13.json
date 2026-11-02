@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Job's confrontation with his friends and God resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Demanding direct dialogue with God",
-            "expansion": "Job seeks unmediated communication, challenging the intermediary role of his friends"
-          },
-          {
-            "id": 2,
-            "text": "Rejecting false comfort",
-            "expansion": "Job dismisses his friends' explanations as dishonest and inadequate"
-          },
-          {
-            "id": 3,
-            "text": "Maintaining personal integrity",
-            "expansion": "Job insists on his righteousness despite overwhelming social pressure"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is not a direct punishment, what deeper purpose might it serve in understanding human resilience?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal conviction with theological humility?",
-        "left_label": "Individual Certainty",
-        "right_label": "Divine Mystery"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of suffering and faith?",
-        "options": [
-          "Recognized the complexity of human-divine relationships",
-          "Understood suffering as more nuanced than simple reward/punishment",
-          "Appreciated radical honesty in spiritual questioning",
-          "Saw value in maintaining personal integrity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God is obligated to explain His reasons for allowing suffering",
           "Suffering reveals the limitations of human understanding of divine purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Job says",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "Job says",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Job's friends. He tells you that your silence would be your only wisdom. What would you try to say to him after he demands that you just listen?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Romans 8:28",
+        "summary": "Job says that though God slay him, he will hope in Him (v. 15). Romans 8:28 says God works all things together for the good of those who love Him, who are called according to His purpose.",
+        "question": "How does Romans 8:28 help you understand Job's hope in verse 15, even with God's hand against him?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "trust",
+        "because": "though He slay me, I will hope in Him",
+        "feeling": "fear, dread",
+        "object": "a season of loss",
+        "behavior": "doubting His goodness",
+        "step": "rest in His character",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a season of loss} to God and instead of {behavior:doubting His goodness}, I will {step:rest in His character}."
       }
     }
   }

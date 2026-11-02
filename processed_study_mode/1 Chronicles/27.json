@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which organizational principle stands out most?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Military Division Structure",
-            "expansion": "Systematic organization reveals divine order in human collaboration."
-          },
-          {
-            "id": "b",
-            "text": "Leadership by Monthly Rotation",
-            "expansion": "Shared responsibility prevents power concentration and encourages collective engagement."
-          },
-          {
-            "id": "c",
-            "text": "Precise Numerical Accounting",
-            "expansion": "Meticulous record-keeping demonstrates reverence for each individual's contribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might consistent, structured service reveal deeper spiritual disciplines beyond mere administrative efficiency?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between individual contribution and collective purpose?",
-        "left_label": "Individual Agency",
-        "right_label": "Communal Alignment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of organizational leadership shifted?",
-        "options": [
-          "Recognize complexity of coordinated effort",
-          "Appreciate systematic approach to service",
-          "Value numerical precision in spiritual contexts",
-          "Understand leadership as collaborative responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Systematic approaches demonstrate godly wisdom in governance",
           "Collaborative leadership models spiritual unity and collective purpose"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "The chronicler says David did not count the men aged twenty or under",
+            "ref": "v. 23",
+            "speaker": ""
+          },
+          {
+            "who": "The chronicler says Joab began a count and wrath came",
+            "ref": "v. 24",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing why this count was left unfinished. David did not count the young men because the LORD had said Israel would be as numerous as the stars, and wrath came upon Israel because of the census. What do you understand about counting what God has promised?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Numbers 1:2-3",
+        "summary": "Joab began to count the men, and wrath came upon Israel because of this census (v. 24). Numbers 1:2-3 calls for a census of the whole congregation, listing every man twenty years of age or older who can serve in Israel's army.",
+        "question": "How does the census in Numbers 1:2-3 help you understand the difference between that count and the one in this chapter?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "the LORD had said that He would make Israel as numerous as the stars of the sky",
+        "feeling": "anxiety, fear",
+        "object": "a lack of resources",
+        "behavior": "calculating every loss",
+        "step": "rest in His promises",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a lack of resources} and instead of {behavior:calculating every loss}, I will {step:rest in His promises}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine promise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Precise Timing",
-            "expansion": "Divine promises unfold exactly when and how God determines, transcending human expectations."
-          },
-          {
-            "id": 2,
-            "text": "Fulfillment of Long-Awaited Hope",
-            "expansion": "Isaac represents the culmination of decades of patient faith and seemingly impossible expectation."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Through Generations",
-            "expansion": "Each child represents a link in God's unfolding redemptive narrative beyond individual lifespans."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of 'impossible' limit your understanding of divine potential?"
-      },
-      "moral_slider": {
-        "question": "To what extent do human doubts intersect with divine sovereignty?",
-        "left_label": "Human Uncertainty",
-        "right_label": "Divine Certainty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of patience and promise evolved?",
-        "options": [
-          "Recognize divine timelines differ from human expectations",
-          "Understand faith as active waiting",
-          "Appreciate incremental fulfillment of promises",
-          "Acknowledge personal limitations in comprehending divine plans"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance is determined by God's sovereign choice, not human merit",
           "Miraculous interventions serve as testimonies of God's faithfulness and power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Abraham was distressed",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "God said to Abraham",
+            "ref": "v. 12",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Abraham's place, distressed about your son and your maidservant. What does God's command to listen to Sarah change about how you view this conflict?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Romans 4:20-21",
+        "summary": "Sarah conceived and bore Isaac at the very time God had promised (v. 2). Paul says Abraham did not waver through disbelief in the promise of God, but was fully persuaded that God was able to do what He had promised (Romans 4:20-21).",
+        "question": "How does Romans 4:20-21 help you understand what God's promise meant when Isaac was born at the time He had said?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "remembrance",
+        "because": "Abraham called upon the name of the LORD, the Eternal God",
+        "feeling": "anxiety, doubt",
+        "object": "a new season of life",
+        "behavior": "forgetting His past faithfulness",
+        "step": "stop and name His character",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a new season of life} and instead of {behavior:forgetting His past faithfulness}, I will {step:stop and name His character}."
       }
     }
   }

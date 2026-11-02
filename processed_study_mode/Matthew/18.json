@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual humility resonates most?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Becoming like a child",
-            "expansion": "Embracing radical vulnerability and trust as a spiritual pathway"
-          },
-          {
-            "id": "2",
-            "text": "Receiving the vulnerable",
-            "expansion": "Recognizing Christ's presence in those society often overlooks"
-          },
-          {
-            "id": "3",
-            "text": "Rejecting hierarchical status",
-            "expansion": "Dismantling human constructs of importance and power"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true greatness requires becoming like a powerless child, what societal definitions of success must we fundamentally challenge?"
-      },
-      "moral_slider": {
-        "question": "How do power and humility coexist in spiritual leadership?",
-        "left_label": "Domination",
-        "right_label": "Service"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of spiritual maturity?",
-        "options": [
-          "I see vulnerability as strength",
-          "Status means nothing in God's economy",
-          "Childlike trust is a spiritual discipline",
-          "Receiving the marginalized is encountering Christ"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True greatness emerges from genuine love and selfless reception of others",
           "Kingdom advancement requires dismantling hierarchical power structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The disciples asked",
+            "ref": "v. 1",
+            "speaker": "The disciples"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "vv. 3-4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the disciples. You are seeking status and importance. What does Jesus's requirement to become like a child change about your understanding of greatness?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "James 4:10",
+        "summary": "Jesus says whoever humbles himself like this child is the greatest in the kingdom of heaven (v. 4). James says to humble yourselves before the Lord, and He will exalt you (James 4:10).",
+        "question": "How does James 4:10 help you understand why humbling yourself leads to greatness in Matthew 18?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "practice",
+        "because": "the heavenly Father will treat each of us as the unforgiving servant was treated unless we forgive our brother from the heart",
+        "feeling": "bitterness, resentment",
+        "object": "a person's past words",
+        "behavior": "recounting their wrongs",
+        "step": "release the debt in prayer",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:a person's past words} and instead of {behavior:recounting their wrongs}, I will {step:release the debt in prayer}."
       }
     }
   }

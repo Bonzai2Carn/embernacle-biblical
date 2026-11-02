@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of dependence resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Looking to God like servants to their master",
-            "expansion": "Recognition of divine authority transforms human perspective from entitlement to humble service."
-          },
-          {
-            "id": 2,
-            "text": "Seeking mercy in times of contempt",
-            "expansion": "Vulnerability before God becomes a profound spiritual strength and avenue for grace."
-          },
-          {
-            "id": 3,
-            "text": "Persistent spiritual attentiveness",
-            "expansion": "Continuous orientation toward divine guidance demonstrates spiritual maturity and trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine humility fundamentally alter your understanding of power and dependence?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between human agency and divine sovereignty?",
-        "left_label": "Human Independence",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual waiting evolved?",
-        "options": [
-          "More patient with divine timing",
-          "Recognize personal limitations more clearly",
-          "Understand suffering as potential spiritual formation",
-          "See dependence as strength, not weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Persistent prayer and seeking divine guidance",
           "Willingness to be directed rather than self-directed"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist looks up",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist waits",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a servant watching a master's hand. What does this posture tell you about what the psalmist expects from God?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Peter 5:6",
+        "summary": "The psalmist looks to the Lord for mercy because of much contempt (vv. 3-4). Peter tells believers to humble themselves under God's mighty hand, so that in due time He may exalt them.",
+        "question": "How does Peter's command to humble yourself help you understand the psalmist's plea for mercy?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "our eyes are on the LORD our God until He shows us mercy",
+        "feeling": "anxiety, restlessness",
+        "object": "a delay in an answer",
+        "behavior": "seeking comfort in distractions",
+        "step": "fix my gaze on Him",
+        "template": "from today I bring You my {feeling:anxiety, restlessness} about {object:a delay in an answer} and instead of {behavior:seeking comfort in distractions}, I will {step:fix my gaze on Him}."
       }
     }
   }

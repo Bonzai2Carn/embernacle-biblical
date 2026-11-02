@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The absence of divine knowledge corrupts society",
-            "expansion": "Spiritual ignorance leads to systemic moral breakdown and social decay"
-          },
-          {
-            "id": 2,
-            "text": "God holds entire communities accountable for collective sin",
-            "expansion": "Individual moral failures create cascading consequences for entire populations"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual apostasy destroys relational integrity",
-            "expansion": "Turning from God erodes trust, mercy, and fundamental human connections"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When societal corruption becomes normalized, who bears responsibility for restoring moral coherence?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist in a broken world?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual accountability?",
-        "options": [
-          "I see collective sin differently",
-          "I understand divine perspective more deeply",
-          "I recognize personal responsibility more clearly",
-          "I'm more aware of systemic spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Personal and collective rejection of accountability to divine authority",
           "Substituting spiritual truth with human-centered philosophies"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this charge. What do you understand about the connection between forgetting God's law and the rejection of your priesthood?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Proverbs 1:7",
+        "summary": "The LORD says His people are destroyed for lack of knowledge (v. 6). Proverbs 1:7 says the fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline.",
+        "question": "How does Proverbs 1:7 help you understand the knowledge the LORD says His people rejected?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "the LORD says His people are destroyed for lack of knowledge",
+        "feeling": "indifference, apathy",
+        "object": "the truths of Scripture",
+        "behavior": "ignoring what I know is right",
+        "step": "study the Word with focus",
+        "template": "from today I bring my {feeling:indifference, apathy} about {object:the truths of Scripture} into the light and instead of {behavior:ignoring what I know is right}, I will {step:study the Word with focus}."
       }
     }
   }

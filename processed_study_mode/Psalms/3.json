@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of David's experience resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Vulnerability",
-            "expansion": "Recognizing human weakness in the face of overwhelming opposition"
-          },
-          {
-            "id": 2,
-            "text": "Divine Protection",
-            "expansion": "Experiencing God's sustaining power even amid profound personal threat"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Confidence",
-            "expansion": "Maintaining trust in God's sovereignty despite external circumstances"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal challenges reveal the authentic nature of one's spiritual resilience?"
-      },
-      "moral_slider": {
-        "question": "Where do personal fear and divine trust intersect?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Spiritual Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on adversity shifted?",
-        "options": [
-          "I see challenges as opportunities for growth",
-          "My faith feels more grounded in real-world struggles",
-          "I recognize the complexity of spiritual experience",
-          "I'm more aware of inner spiritual resources"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal suffering reveals divine sovereignty",
           "Crisis validates spiritual maturity through trust"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, surrounded by foes who keep rising up. What changes when you know the LORD is a shield around you?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 46:1",
+        "summary": "The psalmist calls the LORD a shield around him (v. 3). The writer of Psalm 46 describes God as a refuge and strength in the middle of trouble.",
+        "question": "How does seeing God as a refuge help you understand how He acts as a shield for the psalmist?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "the LORD sustains me",
+        "feeling": "anxiety, dread",
+        "object": "the threats around me",
+        "behavior": "staying awake with worry",
+        "step": "rest in His care",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the threats around me} and instead of {behavior:staying awake with worry}, I will {step:rest in His care}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What moment in this chapter most reveals divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The miraculous fish catch",
-            "expansion": "Jesus transforms ordinary human effort into supernatural abundance"
-          },
-          {
-            "id": 2,
-            "text": "Healing of the leper",
-            "expansion": "Christ demonstrates compassion that transcends social and religious boundaries"
-          },
-          {
-            "id": 3,
-            "text": "Calling of the first disciples",
-            "expansion": "Ordinary people are invited into extraordinary spiritual purpose"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When Jesus asks Simon to launch into deeper waters after a fruitless night, what does this suggest about perseverance beyond human logic?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations interact with divine potential?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your understanding of spiritual calling?",
-        "options": [
-          "I see divine opportunities in mundane moments",
-          "Personal inadequacy is not a barrier to God's purpose",
-          "Transformation often begins with radical obedience",
-          "Spiritual growth requires stepping beyond comfort zones"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Surrender precedes supernatural intervention",
           "Spiritual calling requires perfect qualification"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Simon replied",
+            "ref": "v. 5",
+            "speaker": "Simon"
+          }
+        ],
+        "question": "Put yourself in Simon's place: you have worked hard all night and caught nothing, and now you are told to let down your nets. What do you weigh before you say, 'because You say so, I will let down the nets'?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Matthew 4:19",
+        "summary": "Jesus tells Simon, James, and John that they will catch men (v. 10). Matthew 4:19 records His call: 'Come, follow Me, and I will make you fishers of men.'",
+        "question": "How does Matthew 4:19 help you understand what Jesus means when He says you will catch men?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "exposure",
+        "because": "Jesus has not come to call the righteous, but sinners, to repentance",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding my true self",
+        "step": "approach Him with honesty",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my past failures} into the light and instead of {behavior:hiding my true self}, I will {step:approach Him with honesty}."
       }
     }
   }

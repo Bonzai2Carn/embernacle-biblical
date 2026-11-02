@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about unity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Brotherhood's harmony",
-            "expansion": "Unity creates a transformative spiritual environment beyond individual differences."
-          },
-          {
-            "id": 2,
-            "text": "Divine blessing of community",
-            "expansion": "Genuine relational connection attracts supernatural spiritual abundance."
-          },
-          {
-            "id": 3,
-            "text": "Metaphorical richness of brotherhood",
-            "expansion": "Spiritual relationships can be as refreshing and life-giving as sacred anointing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true spiritual unity challenge our natural human tendencies toward division and individualism?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate authentic spiritual community?",
-        "left_label": "Individual Spiritual Experience",
-        "right_label": "Collective Spiritual Communion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community evolved?",
-        "options": [
-          "More appreciation for intentional relationships",
-          "Recognized deeper spiritual interconnectedness",
-          "Understand unity requires active effort",
-          "See community as sacred, not just social"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual brotherhood transcends cultural and social boundaries",
           "Communal harmony prefigures eschatological restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist exclaims",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among brothers who live together in harmony. You hear how good and pleasant this is, and then that the LORD has bestowed the blessing of life forevermore. What do you weigh more heavily: the pleasantness of harmony, or the blessing that follows it?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Ephesians 4:3",
+        "summary": "The psalmist compares brothers living in harmony to fine oil running down Aaron's beard (v. 2). Ephesians 4:3 urges believers to preserve the unity of the Spirit through the bond of peace.",
+        "question": "How does Ephesians 4:3 help you understand the harmony the psalmist describes as oil running down Aaron's beard?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "repair",
+        "because": "it is good and pleasant when brothers live together in harmony",
+        "feeling": "anger, resentment",
+        "object": "a brother who wronged me",
+        "behavior": "keeping my distance in silence",
+        "step": "send him a kind word this week",
+        "template": "from today I bring You my {feeling:anger, resentment} about {object:a brother who wronged me} and instead of {behavior:keeping my distance in silence}, I will {step:send him a kind word this week}."
       }
     }
   }

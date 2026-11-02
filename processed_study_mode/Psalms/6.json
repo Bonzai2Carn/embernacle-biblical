@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human vulnerability resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Personal Suffering",
-            "expansion": "The raw emotional landscape of individual pain and plea for divine intervention"
-          },
-          {
-            "id": "2",
-            "text": "Divine Compassion",
-            "expansion": "The profound belief that God hears and responds to genuine lament"
-          },
-          {
-            "id": "3",
-            "text": "Spiritual Transformation",
-            "expansion": "The journey from despair to hope through spiritual surrender"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does acknowledging one's weakness paradoxically become a source of spiritual strength?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the tension between human suffering and divine mercy?",
-        "left_label": "Unresolved Anguish",
-        "right_label": "Redemptive Hope"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on personal struggles have shifted?",
-        "options": [
-          "Recognized limitations of self-reliance",
-          "Understood suffering as potential spiritual growth",
-          "Discovered deeper empathy through personal pain",
-          "Learned to trust beyond immediate circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine mercy supersedes momentary human suffering",
           "Spiritual struggles are opportunities for deeper relational intimacy with God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, your soul distressed and asking how long. What changes when you hear that the LORD has heard your cry for mercy?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Proverbs 3:11-12",
+        "summary": "The psalmist asks God not to rebuke him in anger or discipline him in wrath (v. 1). Proverbs 3:11-12 says not to reject the LORD's discipline, because the LORD disciplines the one He loves.",
+        "question": "How does Proverbs 3:11-12 help you understand the discipline the psalmist fears in Psalm 6:1?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "trust",
+        "because": "the LORD has heard my cry for mercy",
+        "feeling": "despair, dread",
+        "object": "a long night of weeping",
+        "behavior": "dwelling on my grief",
+        "step": "bring my sorrow to God",
+        "template": "from today I bring You my {feeling:despair, dread} about {object:a long night of weeping} and instead of {behavior:dwelling on my grief}, I will {step:bring my sorrow to God}."
       }
     }
   }

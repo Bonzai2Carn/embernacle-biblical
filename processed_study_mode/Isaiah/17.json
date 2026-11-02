@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply about divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The fragility of political power",
-            "expansion": "Nations rise and fall according to divine providence, not human strategy."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual decline preceding destruction",
-            "expansion": "External ruin often reflects internal moral and spiritual decay."
-          },
-          {
-            "id": 3,
-            "text": "The universality of God's sovereignty",
-            "expansion": "No regional power is exempt from ultimate accountability to divine judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transformative choices remain available to human communities?"
-      },
-      "moral_slider": {
-        "question": "How do national sins intersect with individual moral responsibility?",
-        "left_label": "Collective Guilt",
-        "right_label": "Personal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic warning shifted?",
-        "options": [
-          "More aware of historical patterns",
-          "Recognize complexity of divine judgment",
-          "See interconnectedness of spiritual and geopolitical dynamics",
-          "Appreciate nuanced prophetic messaging"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's commitment to ultimate restoration",
           "Judgment demonstrates divine sovereignty over human affairs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The prophet promises",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet charges",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You hear that in that day men will look to their Maker, and then that you have forgotten the God of your salvation. What do you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Amos 5:2",
+        "summary": "Isaiah describes a day when the splendor of Jacob fades and people turn back to the Holy One (vv. 4-7). Amos laments that Virgin Israel has fallen, never to rise again, and lies abandoned with no one to raise her up (Amos 5:2).",
+        "question": "How does Amos's picture of a fallen people help you understand the devastation Isaiah describes?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "remembrance",
+        "because": "you have forgotten the God of your salvation and failed to remember the Rock of your refuge",
+        "feeling": "anxiety, dread",
+        "object": "a sudden crisis",
+        "behavior": "searching for my own security",
+        "step": "rely on the Rock of my refuge",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a sudden crisis} and instead of {behavior:searching for my own security}, I will {step:rely on the Rock of my refuge}."
       }
     }
   }

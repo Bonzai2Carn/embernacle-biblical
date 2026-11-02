@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual concept resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Perfect Peace Through Trust",
-            "expansion": "Inner tranquility emerges when one's entire mental landscape is anchored in divine confidence."
-          },
-          {
-            "id": 2,
-            "text": "Divine Justice and Humbling",
-            "expansion": "God systematically dismantles human pride and exalted structures that exclude divine sovereignty."
-          },
-          {
-            "id": 3,
-            "text": "Righteousness as a Transformative Path",
-            "expansion": "Spiritual integrity creates pathways of liberation and communion with the divine presence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true peace is an internal state dependent on trust, what external circumstances might be undermining your spiritual equilibrium?"
-      },
-      "moral_slider": {
-        "question": "How do human agency and divine sovereignty interact in spiritual transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual resilience?",
-        "options": [
-          "Recognized the importance of inner stillness",
-          "Understood divine justice differently",
-          "Saw trust as an active spiritual practice",
-          "Realized peace is not circumstantial"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Peace is unconditionally granted regardless of spiritual posture",
           "Spiritual peace is contingent upon national righteousness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The singer says",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The singer says",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the steadfast one. You are told that God keeps in perfect peace the one who trusts Him. What do you understand about where your focus must remain?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Philippians 4:7",
+        "summary": "The singer describes a peace that comes from a steadfast mind and trust in God (v. 3). Paul describes the peace of God that guards the heart and mind in Christ Jesus (Philippians 4:7).",
+        "question": "How does Philippians 4:7 help you understand the peace promised in this song?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "the LORD is the Rock eternal",
+        "feeling": "anxiety, fear",
+        "object": "a shifting situation",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His permanence",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a shifting situation} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His permanence}."
       }
     }
   }

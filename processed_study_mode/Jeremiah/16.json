@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic message resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment as a consequence of persistent disobedience",
-            "expansion": "The profound cost of generational sin and spiritual rebellion"
-          },
-          {
-            "id": 2,
-            "text": "Prophetic obedience requires personal sacrifice",
-            "expansion": "Jeremiah's commanded celibacy symbolizes the severity of impending destruction"
-          },
-          {
-            "id": 3,
-            "text": "Hope remains even after catastrophic judgment",
-            "expansion": "God promises eventual restoration and global recognition of His true power"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal comfort and prophetic calling fundamentally conflict, and what does true spiritual obedience demand?"
-      },
-      "moral_slider": {
-        "question": "What is the balance between divine judgment and divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Love"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic ministry shifted?",
-        "options": [
-          "Recognizing the emotional toll of prophetic witness",
-          "Understanding judgment as a form of redemptive correction",
-          "Appreciating the complexity of God's relationship with humanity",
-          "Seeing personal obedience as a broader spiritual statement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National sins have generational consequences beyond individual accountability",
           "Divine mercy remains present even in moments of severe correction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The people will ask",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 11-12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those facing disaster. When you ask why this is happening, what does the answer reveal about the root of the problem?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 43:18-19",
+        "summary": "The LORD says the people will swear by the LORD who brought the Israelites up from the north (v. 15). Isaiah promises that God is doing something new and will make a way in the wilderness (Isaiah 43:18-19).",
+        "question": "How does Isaiah's promise of a new thing help you understand the shift in how the people will speak of God's work in verse 15?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "exposure",
+        "because": "guilt is not concealed from the LORD's eyes",
+        "feeling": "shame, guilt",
+        "object": "a secret mistake",
+        "behavior": "hiding my tracks",
+        "step": "tell a trusted person what I did",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a secret mistake} into the light and instead of {behavior:hiding my tracks}, I will {step:tell a trusted person what I did}."
       }
     }
   }

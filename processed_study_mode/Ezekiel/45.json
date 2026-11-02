@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacred space resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Precision in Measurement",
-            "expansion": "God's meticulous instructions reveal a profound order underlying spiritual geography."
-          },
-          {
-            "id": 2,
-            "text": "Sanctified Territory",
-            "expansion": "Holiness is not just an abstract concept but a tangible, demarcated reality."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Spatial Allocation",
-            "expansion": "Land distribution represents deeper theological principles of divine inheritance and community structure."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacred space requires such precise demarcation, what boundaries might exist in your own spiritual landscape that need intentional definition?"
-      },
-      "moral_slider": {
-        "question": "How much structure is necessary for authentic spiritual experience?",
-        "left_label": "Organic Spirituality",
-        "right_label": "Ritualistic Precision"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of sacred space?",
-        "options": [
-          "I see space as more intentionally designed",
-          "I recognize divine order in unexpected places",
-          "Measurement can be a form of spiritual devotion",
-          "Boundaries create meaning and protect holiness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Provides prophetic blueprint for eschatological Israel",
           "Represents divine mathematical precision in redemptive planning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people living under these leaders. You see the promise of a new way to rule, but you also hear a command to stop the violence. What does this command tell you about the rule God wants for His people?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Exodus 26:30",
+        "summary": "Ezekiel describes a holy portion of the land set aside for the LORD (v. 1). Exodus 26:30 says to set up the tabernacle according to the pattern shown on the mountain.",
+        "question": "How does Exodus 26:30 help you understand the importance of the boundaries and portions described here?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "the Lord commands leaders to cease violence and oppression and do what is just and right",
+        "feeling": "greed, selfishness",
+        "object": "my personal gain",
+        "behavior": "taking advantage of others",
+        "step": "use honest measures in my dealings",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:my personal gain} and instead of {behavior:taking advantage of others}, I will {step:use honest measures in my dealings}."
       }
     }
   }

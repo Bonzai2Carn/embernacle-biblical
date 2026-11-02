@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea from Paul's teaching most challenges your current perspective?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Esteeming others better than yourself",
-            "expansion": "True humility requires radical reorientation from self-centeredness to genuine respect for others' inherent worth."
-          },
-          {
-            "id": 2,
-            "text": "Unity of mind and spirit",
-            "expansion": "Spiritual community emerges not from uniformity, but from shared commitment and mutual understanding."
-          },
-          {
-            "id": 3,
-            "text": "Christ's kenotic self-emptying",
-            "expansion": "Divine power is revealed through voluntary vulnerability and sacrificial love, not domination."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true greatness is measured by how much one serves rather than how much one is served, how might that transform your daily interactions?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between personal ambition and genuine spiritual growth?",
-        "left_label": "Self-Advancement",
-        "right_label": "Communal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has reflecting on Philippians 2 shifted your understanding of leadership and community?",
-        "options": [
-          "I see leadership more as service",
-          "I'm more aware of my self-centered tendencies",
-          "I recognize the power of collective empathy",
-          "I want to practice more radical humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Authentic leadership requires radical humility",
           "True spiritual maturity emerges from self-surrender"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Paul instructs and describes Christ's descent",
+            "ref": "vv. 5-8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Philippians, hearing that the mind in you is to be the mind of Christ Jesus. What do you understand from His choice to empty Himself and become obedient to death?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Matthew 23:12",
+        "summary": "Paul calls the believers to consider others more important than themselves (v. 3). Jesus teaches that whoever humbles himself will be exalted (Matthew 23:12).",
+        "question": "How does Jesus' promise of exaltation change how you weigh the cost of putting others first?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "everything must be done without complaining or arguing",
+        "feeling": "irritation, frustration",
+        "object": "a difficult task",
+        "behavior": "grumbling under the weight",
+        "step": "complete it with a quiet heart",
+        "template": "from today I let go of my {feeling:irritation, frustration} over {object:a difficult task} and instead of {behavior:grumbling under the weight}, I will {step:complete it with a quiet heart}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual responsibility resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Watchman's Warning Duty",
-            "expansion": "Personal accountability extends beyond self to warning others of spiritual danger."
-          },
-          {
-            "id": 2,
-            "text": "Individual Moral Responsibility",
-            "expansion": "Each person bears ultimate accountability for their own spiritual choices and consequences."
-          },
-          {
-            "id": 3,
-            "text": "Divine Justice and Mercy",
-            "expansion": "God's judgment is nuanced, allowing for repentance and transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you were responsible for warning others about spiritual peril, how would you balance compassion with uncomfortable truth?"
-      },
-      "moral_slider": {
-        "question": "How do personal freedom and spiritual responsibility intersect?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warning and personal choice evolved?",
-        "options": [
-          "I recognize my responsibility to others",
-          "I see consequences more holistically",
-          "I understand grace within accountability",
-          "I'm more aware of spiritual interconnectedness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's mercy provides multiple opportunities for repentance before judgment",
           "Spiritual leaders bear ultimate responsibility for community's spiritual condition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The people of Israel say",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the house of Israel saying, 'Our transgressions and our sins are heavy upon us. How can we live?' What would you weigh when you hear, 'I take no pleasure in the death of the wicked. Turn! Why should you die?'"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "James 1:22",
+        "summary": "The people in Ezekiel listen to the prophet's words and sit before him, but they do not act on them (v. 31-32). James warns that hearing the word is not enough if you do not do what it says.",
+        "question": "How does James 1:22 help you understand the danger of the people's behavior in Ezekiel's day?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "the Lord takes no pleasure in the death of the wicked but rather that they turn and live",
+        "feeling": "guilt, shame",
+        "object": "a recurring sin",
+        "behavior": "hiding from God",
+        "step": "turn back to His ways",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recurring sin} and instead of {behavior:hiding from God}, I will {step:turn back to His ways}."
       }
     }
   }

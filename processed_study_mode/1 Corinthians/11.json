@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological idea stays with you most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Hierarchical Spiritual Authority",
-            "expansion": "Understanding spiritual relationships as interconnected yet distinctly ordered layers of divine relationship."
-          },
-          {
-            "id": 2,
-            "text": "Cultural Expressions of Worship",
-            "expansion": "Recognizing how external symbols demonstrate internal spiritual commitments and honor."
-          },
-          {
-            "id": 3,
-            "text": "Christ as Ultimate Relational Model",
-            "expansion": "Seeing Christ's submission to God as the supreme template for human spiritual interactions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual authority is a graceful dance of mutual submission, how might traditional interpretations of hierarchy distort divine intention?"
-      },
-      "moral_slider": {
-        "question": "How do cultural practices reflect or obscure spiritual principles?",
-        "left_label": "Cultural Relativism",
-        "right_label": "Absolute Spiritual Standards"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "More nuanced view of authority",
-          "Deeper appreciation for mutual respect",
-          "Greater emphasis on servant leadership",
-          "Recognition of cultural context"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizing underlying spiritual principles over specific practices",
           "Prioritizing individual spiritual gifts over structural hierarchies"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Paul asks",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the position of the hungry and the neglected in this church. How does Paul's question about your own homes change how you view the people who eat without sharing their meal?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Luke 22:19",
+        "summary": "Paul recounts the words of Jesus during the Last Supper (v. 24-25). Luke records the same moment, showing how Jesus established this specific command for his followers.",
+        "question": "How does seeing the actual moment of the institution help you understand the weight of Paul's command to do this in remembrance of Him?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "practice",
+        "because": "each one must examine himself before he eats",
+        "feeling": "distraction, carelessness",
+        "object": "my time in prayer",
+        "behavior": "rushing through the words",
+        "step": "pause and reflect on His presence",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:my time in prayer} and instead of {behavior:rushing through the words}, I will {step:pause and reflect on His presence}."
       }
     }
   }

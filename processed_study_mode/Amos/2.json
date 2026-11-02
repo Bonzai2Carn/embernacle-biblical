@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's precise accounting of transgressions",
-            "expansion": "Divine judgment operates with meticulous precision, tracking even seemingly minor infractions."
-          },
-          {
-            "id": 2,
-            "text": "Collective responsibility of nations",
-            "expansion": "Communities bear spiritual and moral consequences for systemic injustices."
-          },
-          {
-            "id": 3,
-            "text": "Inevitable consequences of moral failure",
-            "expansion": "Societal corruption inevitably leads to spiritual and political disintegration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is proportional to accumulated transgressions, what subtle daily choices might be imperceptibly eroding our collective moral foundations?"
-      },
-      "moral_slider": {
-        "question": "To what extent do national sins override individual righteousness?",
-        "left_label": "Individual Accountability",
-        "right_label": "Collective Judgment"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of divine justice?",
-        "options": [
-          "Recognized complexity of moral consequences",
-          "Understood systemic nature of spiritual accountability",
-          "Appreciated nuanced divine perspective",
-          "Reconsidered personal moral responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Punishment demonstrates God's commitment to righteousness and human dignity",
           "Judgment serves as a redemptive mechanism for societal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing these judgments. You hear the same sentence of judgment passed on Judah for rejecting the Law, and then on Israel for exploiting the needy. What does this shared pattern reveal about the reason for the coming fire?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Romans 2:11",
+        "summary": "The LORD judges Moab for burning the bones of Edom's king, Judah for rejecting His Law, and Israel for selling the needy (vv. 1-6). Paul writes that God does not show favoritism.",
+        "question": "How does Paul's statement help you understand why the LORD addresses both foreign nations and His own people in this list?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "Israel sells the righteous for silver and the needy for a pair of sandals",
+        "feeling": "indifference, greed",
+        "object": "someone in need",
+        "behavior": "ignoring their struggle",
+        "step": "offer practical help",
+        "template": "from today I let go of my {feeling:indifference, greed} over {object:someone in need} and instead of {behavior:ignoring their struggle}, I will {step:offer practical help}."
       }
     }
   }

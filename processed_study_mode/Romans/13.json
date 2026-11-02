@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective on governmental authority resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine appointment of leadership",
-            "expansion": "Authorities exist within a sovereign theological framework, suggesting cosmic order beyond human political structures."
-          },
-          {
-            "id": 2,
-            "text": "Moral responsibility of citizens",
-            "expansion": "Personal conduct determines one's relationship with both civic and spiritual authorities."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual submission as worship",
-            "expansion": "Yielding to earthly authorities becomes an act of theological humility and spiritual discipline."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine authority ultimately transcends human governance, at what point does principled resistance become a spiritual imperative?"
-      },
-      "moral_slider": {
-        "question": "How do individual conscience and governmental authority balance in faithful living?",
-        "left_label": "Personal Conviction",
-        "right_label": "Institutional Compliance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of civic participation evolved?",
-        "options": [
-          "Recognize governance as spiritually contextualized",
-          "Understand submission as a form of spiritual discipline",
-          "See political engagement as a moral responsibility",
-          "Appreciate complexity of divine and human authority"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Active advocacy for systemic reform through legal channels",
           "Prioritizing spiritual kingdom principles over earthly structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Paul says all authority is from God",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Paul warns about resisting",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person living under the governing authorities. You hear that there is no authority except from God. What would that change about how you view the person in power?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "1 Peter 2:13-17",
+        "summary": "Paul says to pay taxes, respect, and honor to those to whom they are due (v. 7). 1 Peter 2:13-17 says to submit for the Lord's sake to every human institution, and to honor the king.",
+        "question": "How does the phrase 'for the Lord's sake' in 1 Peter 2:13 help you understand the reason for paying taxes and showing respect in Romans 13?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "those who clothe themselves with the Lord Jesus Christ make no provision for the desires of the flesh",
+        "feeling": "temptation, restlessness",
+        "object": "an old habit",
+        "behavior": "seeking comfort in it",
+        "step": "turn my attention to Christ",
+        "template": "from today I let go of my {feeling:temptation, restlessness} over {object:an old habit} and instead of {behavior:seeking comfort in it}, I will {step:turn my attention to Christ}."
       }
     }
   }

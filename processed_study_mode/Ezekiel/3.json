@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual metaphor resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The scroll as divine sustenance",
-            "expansion": "Consuming God's word transforms personal spiritual nourishment into prophetic mission"
-          },
-          {
-            "id": 2,
-            "text": "The prophet as a divine messenger",
-            "expansion": "Personal calling transcends individual comfort and demands radical obedience"
-          },
-          {
-            "id": 3,
-            "text": "Sweetness amid challenging prophecy",
-            "expansion": "God's word can be simultaneously challenging and deeply satisfying"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine communication requires such literal 'consumption', what symbolic barriers might prevent genuine spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and prophetic responsibility balance?",
-        "left_label": "Personal Safety",
-        "right_label": "Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual calling shifted?",
-        "options": [
-          "More aware of personal responsibility",
-          "Recognize complexity of divine communication",
-          "Understand prophetic roles differently",
-          "Appreciate metaphorical spiritual nourishment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine message transmission requires complete personal surrender and obedience",
           "Prophetic calling involves both spiritual privilege and potential personal judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are the prophet facing a people who refuse to listen. The LORD says they are unwilling to listen to Him. What does His command, 'Do not be afraid of them,' ask you to weigh?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Ezekiel 33:1-9",
+        "summary": "The LORD makes Ezekiel a watchman for the house of Israel and tells him to give a warning from Him (v. 17). Ezekiel 33 describes the watchman who blows the horn and the one who fails to, and says the LORD will hold a silent watchman accountable (vv. 2-6).",
+        "question": "How does Ezekiel 33's picture of the watchman who blows the horn help you understand what the LORD asks of Ezekiel as a watchman here?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the LORD tells Ezekiel to listen carefully to all His words and take them to heart",
+        "feeling": "distraction, apathy",
+        "object": "the morning scripture reading",
+        "behavior": "rushing through the verses",
+        "step": "pause and repeat a single phrase",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the morning scripture reading} and instead of {behavior:rushing through the verses}, I will {step:pause and repeat a single phrase}."
       }
     }
   }

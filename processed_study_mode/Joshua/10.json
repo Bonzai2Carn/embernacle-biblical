@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates from this chapter of divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's direct military support",
-            "expansion": "Divine power actively aligning with human courage and strategic action"
-          },
-          {
-            "id": 2,
-            "text": "Covenant faithfulness",
-            "expansion": "God's commitment to promises made transcends immediate human circumstances"
-          },
-          {
-            "id": 3,
-            "text": "Supernatural cosmic intervention",
-            "expansion": "Miraculous stopping of celestial bodies demonstrates God's sovereignty over natural laws"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention is so profound, why do humans still bear responsibility for strategic action?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine engagement in human conflict shifted?",
-        "options": [
-          "More nuanced view of spiritual warfare",
-          "Deeper appreciation for covenant dynamics",
-          "Recognizing human agency within divine providence",
-          "Questioning simplistic interpretations of biblical narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine actions reflect ancient cultural understanding of warfare",
           "The text demonstrates God's sovereignty beyond human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The men of Gibeon sent word to Joshua",
+            "ref": "v. 6",
+            "speaker": "The men of Gibeon"
+          },
+          {
+            "who": "The LORD said to Joshua",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Gibeonites pleading for help. When you hear God's promise to Joshua, how does it change your view of the approaching army?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Exodus 14:14",
+        "summary": "Verse 14 says no day was like it, because the LORD fought for Israel. Exodus 14:14 says the LORD will fight for you and you need only be still.",
+        "question": "How does Exodus 14:14 help you understand why verse 14 says the LORD fought for Israel?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "practice",
+        "because": "the LORD will do this to all the enemies you fight",
+        "feeling": "fear, discouragement",
+        "object": "a looming conflict",
+        "behavior": "shrinking back from my duty",
+        "step": "act with courage",
+        "template": "from today I let go of my {feeling:fear, discouragement} over {object:a looming conflict} and instead of {behavior:shrinking back from my duty}, I will {step:act with courage}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine guidance resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Star's Supernatural Direction",
-            "expansion": "Divine signals can transcend human understanding and cultural boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Protection of the Holy Family",
-            "expansion": "God actively preserves and shields those central to His redemptive plan."
-          },
-          {
-            "id": 3,
-            "text": "Prophecy Fulfilled in Bethlehem",
-            "expansion": "Sacred promises are precisely and meticulously orchestrated across generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might political power's fear of spiritual transformation reveal deeper existential anxieties?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine providence with human suffering?",
-        "left_label": "Vulnerable Innocence",
-        "right_label": "Sovereign Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of subtle spiritual guidance",
-          "Recognize complexity of prophetic fulfillment",
-          "Understand divine protection differently",
-          "See geopolitical dynamics more spiritually"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Fulfillment of Old Testament prophecies",
           "Demonstration of God's sovereignty over human plans"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The Magi asked",
+            "ref": "v. 2",
+            "speaker": "Magi"
+          },
+          {
+            "who": "Herod said",
+            "ref": "v. 8",
+            "speaker": "Herod"
+          }
+        ],
+        "question": "Put yourself in the place of the Magi. You have come to worship the One born King of the Jews. Herod asks you to search for the Child and report back, so that he too may go and worship Him. How do you weigh his request against the star you followed?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Hosea 11:1",
+        "summary": "Matthew quotes the prophet: Out of Egypt I called My Son (v. 15). Hosea says that when Israel was a child, God loved him and called His son out of Egypt (Hosea 11:1).",
+        "question": "How does Hosea 11:1 help you understand why Matthew says God called His Son out of Egypt?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "devotion",
+        "because": "the Magi opened their treasures and presented the Child with gifts",
+        "feeling": "selfishness, stinginess",
+        "object": "my time and resources",
+        "behavior": "keeping the best for myself",
+        "step": "offer something valuable to others",
+        "template": "from today I let go of my {feeling:selfishness, stinginess} over {object:my time and resources} and instead of {behavior:keeping the best for myself}, I will {step:offer something valuable to others}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of power dynamics most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political fear of public opinion",
-            "expansion": "Herod's hesitation reveals how social pressure can paralyze moral decision-making."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic truth-telling's consequences",
-            "expansion": "John's confrontation of injustice demonstrates the personal risk of speaking spiritual truth."
-          },
-          {
-            "id": 3,
-            "text": "Moral compromise under pressure",
-            "expansion": "The narrative illustrates how personal relationships can corrupt principled leadership."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does speaking truth become more important than personal safety?"
-      },
-      "moral_slider": {
-        "question": "How do personal convictions balance against political/social consequences?",
-        "left_label": "Pragmatic Survival",
-        "right_label": "Prophetic Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and moral courage evolved?",
-        "options": [
-          "I now see power differently",
-          "Personal integrity matters more than political survival",
-          "Speaking truth requires profound courage",
-          "Complex moral situations rarely have simple answers"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Engage through political and legal channels",
           "Maintain spiritual separation from worldly systems"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Herodias's daughter asked",
+            "ref": "v. 8",
+            "speaker": "Salome"
+          },
+          {
+            "who": "Herod was grieved, yet ordered it granted",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Herod. You hear, Give me here on a platter the head of John the Baptist. You are grieved, yet because of your oaths and your guests you order that her wish be granted. What would you weigh in that choice, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "2 Kings 4:42-44",
+        "summary": "The disciples point to the desolate place and the late hour (v. 15). In 2 Kings 4, Elisha's servant asks how twenty loaves can be set before a hundred men, and Elisha says the LORD has said they will eat and have some left over.",
+        "question": "How does 2 Kings 4:42-44 help you understand what Jesus does with the five loaves and two fish?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "trust",
+        "because": "Jesus immediately reached out His hand and took hold of Peter",
+        "feeling": "panic, dread",
+        "object": "a sudden problem",
+        "behavior": "looking at the wind",
+        "step": "fix my eyes on Him",
+        "template": "from today I entrust my {feeling:panic, dread} about {object:a sudden problem} to God and instead of {behavior:looking at the wind}, I will {step:fix my eyes on Him}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you about offering to God?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Quality of Offering",
-            "expansion": "Fine flour represents intentional, carefully prepared devotion rather than casual giving."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Fragrance",
-            "expansion": "The 'sweet aroma' suggests spiritual offerings are about heart attitude, not just ritual performance."
-          },
-          {
-            "id": 3,
-            "text": "Communal Provision",
-            "expansion": "Priests receiving part of the offering demonstrates God's design for spiritual leadership's material sustenance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If worship is about the heart, why do these precise instructions about material offerings matter?"
-      },
-      "moral_slider": {
-        "question": "How does personal sacrifice relate to spiritual authenticity?",
-        "left_label": "External Ritual",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of offering changed?",
-        "options": [
-          "Offering is more about intention than quantity",
-          "Spiritual practices require deliberate preparation",
-          "God values personal investment over perfection",
-          "Worship involves both material and spiritual elements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship involves carefully prepared, meaningful contributions",
           "Spiritual offerings must meet specific theological standards"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD forbids",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD allows",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone bringing an offering. You know what is permitted, but you see a restriction on honey and leaven. What does this rule tell you about what God does not want to receive as a pleasing aroma?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 141:2",
+        "summary": "The grain offering is burned on the altar as a pleasing aroma to the LORD (v. 2). The psalmist asks that his prayer be set before God like incense and his uplifted hands like the evening offering.",
+        "question": "How does the psalmist's request help you see what the offering burned on the altar stands for?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "you must not leave the salt of the covenant out of your grain offering",
+        "feeling": "distraction, carelessness",
+        "object": "my daily devotional time",
+        "behavior": "rushing through the words",
+        "step": "pause to acknowledge His presence",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:my daily devotional time} and instead of {behavior:rushing through the words}, I will {step:pause to acknowledge His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's sovereignty reveals ultimate accountability for collective and individual actions."
-          },
-          {
-            "id": 2,
-            "text": "Broken Covenant",
-            "expansion": "Human promises are fragile compared to eternal divine commitments."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning",
-            "expansion": "Spiritual leadership bears profound responsibility for communal direction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms potential destruction into redemptive opportunity?"
-      },
-      "moral_slider": {
-        "question": "How do human free will and divine predetermined judgment coexist?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication shifted?",
-        "options": [
-          "More aware of consequence",
-          "Recognize complexity of prophecy",
-          "Understand divine patience",
-          "See spiritual accountability differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's faithfulness remains constant even when human faithfulness fails",
           "Spiritual renewal requires genuine heart transformation, not merely external compliance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The officials and people obeyed",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "They later took them back",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who first released their servants. You set them free, and later you take them back and force them to become slaves again. What would you weigh in your own mind?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "James 2:10",
+        "summary": "The people freed their servants, then took them back and forced them into slavery again (v. 11), and the LORD says they changed their minds and profaned His name (v. 16). James says whoever keeps the whole law but stumbles at one point is guilty of breaking all of it.",
+        "question": "How does James 2:10 help you understand the LORD's charge that the people profaned His name by taking back their servants (v. 16)?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the fathers did not listen or incline their ear to the command to free a Hebrew brother in the seventh year",
+        "feeling": "indifference, apathy",
+        "object": "a command from God",
+        "behavior": "ignoring the difficult parts",
+        "step": "listen and obey immediately",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:a command from God} and instead of {behavior:ignoring the difficult parts}, I will {step:listen and obey immediately}."
       }
     }
   }

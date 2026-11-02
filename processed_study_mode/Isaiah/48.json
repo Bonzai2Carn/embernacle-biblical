@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine revelation most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's foreknowledge",
-            "expansion": "Divine prophecy demonstrates sovereignty beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Israel's spiritual inconsistency",
-            "expansion": "Claiming divine connection without genuine spiritual transformation reveals profound human weakness."
-          },
-          {
-            "id": 3,
-            "text": "Divine patience with rebellion",
-            "expansion": "God's persistent love persists despite repeated human unfaithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between performative religious practice and authentic spiritual commitment?"
-      },
-      "moral_slider": {
-        "question": "How do divine predestination and human free will interact?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication evolved?",
-        "options": [
-          "More aware of subtle spiritual messages",
-          "Recognize complexity of prophetic language",
-          "Understand divine patience differently",
-          "Appreciate multilayered scriptural meaning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine predictions coexist with human moral agency",
           "Prophetic revelations are metaphorical, not literal predictive statements"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing these words. You are told He declared things long ago so you could not credit your idol, and now He will tell you hidden things you do not know. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Isaiah 46:9-10",
+        "summary": "The LORD calls Himself the first and the last (v. 12) and says He foretold the former things long ago (v. 3). Isaiah 46:9-10 has Him say there is no other God and that He declares the end from the beginning.",
+        "question": "How does Isaiah 46:9-10 help you trust the way the LORD says He directs you in verse 17?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "paying attention to His commandments would have made your peace like a river",
+        "feeling": "anxiety, restlessness",
+        "object": "a difficult season",
+        "behavior": "ignoring His instructions",
+        "step": "listen to His word",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a difficult season} and instead of {behavior:ignoring His instructions}, I will {step:listen to His word}."
       }
     }
   }

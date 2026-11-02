@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine testing resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Generational Learning through Challenge",
-            "expansion": "God intentionally preserves challenges to teach future generations about resilience and spiritual warfare."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence in Leaving Enemies",
-            "expansion": "The strategic retention of adversaries reveals a sophisticated divine pedagogical approach beyond immediate conquest."
-          },
-          {
-            "id": 3,
-            "text": "Preparedness through Adversity",
-            "expansion": "Conflict becomes a crucible for developing spiritual and martial capabilities in emerging generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine testing requires the presence of unresolved challenges, what might 'spiritual comfort' truly mean?"
-      },
-      "moral_slider": {
-        "question": "How do divine testing and human agency interact in spiritual growth?",
-        "left_label": "Predetermined Destiny",
-        "right_label": "Active Human Choice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual development shifted?",
-        "options": [
-          "Challenges are opportunities, not obstacles",
-          "Generational wisdom matters more than individual achievement",
-          "Spiritual growth requires sustained engagement with difficulty",
-          "Divine plans are more nuanced than simplistic narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Preparing Israel for future challenges",
           "Demonstrating God's ongoing covenant relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "the Israelites cried out to the LORD",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "He raised up Othniel son of Caleb’s younger brother Kenaz as a deliverer",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Israelites under the king of Aram. When you finally cry out, what does this specific response tell you about how the LORD views your distress?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Nehemiah 9:26-27",
+        "summary": "The Israelites again do evil, and the LORD gives Eglon king of Moab power over them (v. 12). Nehemiah 9:26-27 says that when the people rebelled, the LORD delivered them to enemies, and when they cried out in distress, He gave them deliverers.",
+        "question": "How does Nehemiah 9:26-27 help you understand why the LORD gave Eglon power over Israel and what followed?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "they forgot the LORD their God and served their gods",
+        "feeling": "distraction, apathy",
+        "object": "the comforts of my current life",
+        "behavior": "ignoring my prayer life",
+        "step": "set a time to sit in silence",
+        "template": "from today I bring my {feeling:distraction, apathy} about {object:the comforts of my current life} into the light and instead of {behavior:ignoring my prayer life}, I will {step:set a time to sit in silence}."
       }
     }
   }

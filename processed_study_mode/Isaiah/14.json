@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological theme resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": "divine_justice",
-            "text": "Divine Justice and Judgment",
-            "expansion": "God's ultimate accountability for oppressive powers reveals a cosmic moral order beyond human perception."
-          },
-          {
-            "id": "restoration",
-            "text": "Israel's Prophetic Restoration",
-            "expansion": "The promise of national redemption suggests a transformative spiritual journey from exile to renewed purpose."
-          },
-          {
-            "id": "sovereignty",
-            "text": "Divine Sovereignty Over Nations",
-            "expansion": "Yahweh's control transcends geopolitical boundaries, demonstrating His supreme governance of historical trajectories."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the vulnerability of powerful nations challenge your understanding of historical permanence and divine intervention?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment represent mercy versus punishment?",
-        "left_label": "Retributive Punishment",
-        "right_label": "Redemptive Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on national destiny and spiritual promise shifted?",
-        "options": [
-          "Increased understanding of prophetic complexity",
-          "Recognized nuanced interpretations of divine promise",
-          "Challenged previous assumptions about historical determinism",
-          "Deepened appreciation for spiritual resilience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Manifests divine sovereignty over geopolitical circumstances",
           "Confirms ongoing redemptive plan for Israel and humanity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The king of Babylon said",
+            "ref": "vv. 13-14",
+            "speaker": "The king of Babylon"
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those watching this fall. How does the king's own plan to reach the heavens change how you see his sudden descent into the Pit?"
+      },
+      "chain": {
+        "after": 27,
+        "ref": "Isaiah 40:8",
+        "summary": "The LORD of Hosts declares that His purpose will stand and cannot be thwarted (v. 24, 27). Isaiah later reminds His people that while the grass withers and flowers fade, the word of God remains forever.",
+        "question": "How does the permanence of God's word help you trust His specific promise to break the yoke of Assyria in this chapter?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "trust",
+        "because": "the LORD of Hosts has purposed, and who can thwart Him",
+        "feeling": "anxiety, dread",
+        "object": "a rising threat",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His sovereignty",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a rising threat} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His sovereignty}."
       }
     }
   }

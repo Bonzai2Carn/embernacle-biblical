@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound element of divine calling resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Radical Obedience",
-            "expansion": "Abram leaves everything familiar without knowing the destination, demonstrating supreme trust."
-          },
-          {
-            "id": 2,
-            "text": "Generational Promise",
-            "expansion": "God's covenant transcends Abram's personal journey and establishes a transformative legacy."
-          },
-          {
-            "id": 3,
-            "text": "Universal Blessing",
-            "expansion": "Through one person's faith, all global families can potentially experience divine redemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What must you surrender to truly discover your authentic spiritual calling?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and divine purpose intersect in your life?",
-        "left_label": "Personal Security",
-        "right_label": "Spiritual Risk"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith's journey evolved?",
-        "options": [
-          "More appreciative of radical trust",
-          "Recognize divine plans transcend individual perspective",
-          "Understand faith requires leaving comfort zones",
-          "See interconnectedness of personal and collective destiny"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's promises transcend individual benefit and aim at broader redemptive purposes",
           "Authentic faith is characterized more by responsive action than philosophical contemplation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Abram departed",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Abram's place, told to leave your country, your kindred and your father's household for a land you have not yet been shown. What would you weigh as you set out at seventy-five years old?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Hebrews 11:8",
+        "summary": "The LORD tells Abram to leave his country and go to the land He will show him (v. 1), and Abram departs (v. 4). Hebrews 11:8 says that by faith Abraham obeyed and went, without knowing where he was going.",
+        "question": "How does Hebrews 11:8 help you understand Abram's departure in verse 4?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "the LORD told Abram to leave his country, his kindred, and his father's household",
+        "feeling": "fear, anxiety",
+        "object": "a new responsibility",
+        "behavior": "clinging to what is comfortable",
+        "step": "take the first step of obedience",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:a new responsibility} and instead of {behavior:clinging to what is comfortable}, I will {step:take the first step of obedience}."
       }
     }
   }

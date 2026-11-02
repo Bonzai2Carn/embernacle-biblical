@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme of divine redemption resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Rescue from Wandering",
-            "expansion": "Recognizing how divine intervention transforms those lost in spiritual or literal wilderness."
-          },
-          {
-            "id": 2,
-            "text": "Deliverance from Affliction",
-            "expansion": "Understanding God's power to liberate individuals from impossible circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Gratitude as Spiritual Practice",
-            "expansion": "Acknowledging thankfulness as a profound expression of faith and relationship with the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mercy is unconditional, what personal responsibility remains in one's spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do human suffering and divine providence intersect?",
-        "left_label": "Human Randomness",
-        "right_label": "Divine Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More aware of subtle providences",
-          "Recognize complexity of spiritual experiences",
-          "Appreciate nuanced understanding of mercy",
-          "Seeing personal narrative as part of larger story"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal testimonies of restoration are critical to communal faith",
           "Suffering can be a pathway to deeper spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The wanderers cried out",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD led them",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who cried out to the LORD in their trouble. He delivered you and led you on a straight path to a city where you could live. What would you understand about Him?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Psalm 100:4",
+        "summary": "Psalm 107 says let them give thanks to the LORD for His loving devotion and His wonders (v. 8). Psalm 100:4 says to enter His gates with thanksgiving, His courts with praise, and to bless His name.",
+        "question": "How does Psalm 100:4 help you understand the thanks the psalmist asks for in verse 8?"
+      },
+      "conviction": {
+        "verse": 43,
+        "frame": "practice",
+        "because": "the wise pay heed to these things and consider the loving devotion of the LORD",
+        "feeling": "distraction, apathy",
+        "object": "the repetitive motions of my day",
+        "behavior": "moving through life without thought",
+        "step": "stop to notice one act of His goodness",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:the repetitive motions of my day} and instead of {behavior:moving through life without thought}, I will {step:stop to notice one act of His goodness}."
       }
     }
   }

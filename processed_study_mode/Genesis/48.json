@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of generational blessing resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unexpected inheritance patterns",
-            "expansion": "Jacob's cross-handed blessing reveals divine selection can transcend human expectations."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual legacy over biological lineage",
-            "expansion": "Joseph's sons are adopted as direct tribal heads, demonstrating spiritual inheritance matters more than blood."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic foresight",
-            "expansion": "Jacob's blessing demonstrates profound spiritual discernment about future generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between human preference and divine intention when making significant generational decisions?"
-      },
-      "moral_slider": {
-        "question": "To what extent should family traditions be preserved versus allowing divine disruption?",
-        "left_label": "Preserve Tradition",
-        "right_label": "Embrace Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of generational blessing shifted?",
-        "options": [
-          "I see spiritual inheritance as more nuanced",
-          "Biological lineage is less important than spiritual calling",
-          "Divine plans often contradict human expectations",
-          "Prophetic vision transcends immediate circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine plans often subvert human expectations of hierarchy",
           "Prophetic insight can reveal deeper spiritual realities beyond immediate perception"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Joseph objects to his father",
+            "ref": "v. 18",
+            "speaker": "Joseph"
+          },
+          {
+            "who": "Jacob refuses Joseph",
+            "ref": "v. 19",
+            "speaker": "Jacob"
+          }
+        ],
+        "question": "Put yourself in Joseph's place. You tell your father that this one is the firstborn, and he answers that his younger brother shall be greater. What do you weigh when you hear that?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Hebrews 11:21",
+        "summary": "Jacob blesses Joseph's sons and places Ephraim before Manasseh (v. 20). Hebrews says that by faith Jacob, when he was dying, blessed each of Joseph's sons (Hebrews 11:21).",
+        "question": "How does Hebrews 11:21 help you understand the faith behind Jacob's blessing in this chapter?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "surrender",
+        "because": "God will be with Joseph and bring him back to the land of his fathers",
+        "feeling": "dread, sorrow",
+        "object": "the approach of my own death",
+        "behavior": "dwelling on what I am losing",
+        "step": "entrust my loved ones to God's care",
+        "template": "from today I release my {feeling:dread, sorrow} over {object:the approach of my own death} and instead of {behavior:dwelling on what I am losing}, I will {step:entrust my loved ones to God's care}."
       }
     }
   }

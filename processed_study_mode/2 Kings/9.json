@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment strikes you most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereign intervention through prophetic action",
-            "expansion": "Divine plans often unfold through unexpected human instruments and precise prophetic commands."
-          },
-          {
-            "id": 2,
-            "text": "The brutality of political transformation",
-            "expansion": "Regime changes frequently involve violent upheaval as power structures are dramatically reordered."
-          },
-          {
-            "id": 3,
-            "text": "The fulfillment of prophetic pronouncements",
-            "expansion": "Prophecies represent covenant promises that will inevitably be accomplished, regardless of human resistance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine commands seem to contradict conventional morality, how do we discern authentic spiritual leadership versus mere personal ambition?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and human agency intersect in moments of revolutionary change?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic mission evolved?",
-        "options": [
-          "Recognized complexity of spiritual assignments",
-          "Understood the potential violence in systemic transformation",
-          "Appreciated the precision of divine strategic planning",
-          "Wrestled with the challenging nature of prophetic obedience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine intervention should be confirmed by multiple spiritual witnesses",
           "Leadership transitions require careful discernment of God's actual will"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Joram asked Jehu",
+            "ref": "v. 22",
+            "speaker": "Joram"
+          }
+        ],
+        "question": "Put yourself in Joram's place, seeking a peaceful meeting. How does Jehu's answer change your view of the man riding toward you?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "1 Kings 21:17-24",
+        "summary": "Jehu claims his violent actions are a fulfillment of a divine burden against Ahab's house (v. 25). 1 Kings 21 records how Ahab's house took Naboth's vineyard and killed him, the crime the LORD judged.",
+        "question": "How does knowing the specific crime against Naboth help you understand why Jehu says the LORD lifted up this burden (v. 25)?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "exposure",
+        "because": "when Jehu called out, Who is on my side, two or three eunuchs looked down at him",
+        "feeling": "loneliness, fear",
+        "object": "a difficult confrontation",
+        "behavior": "seeking approval from everyone",
+        "step": "stand firm in what is right",
+        "template": "from today I bring my {feeling:loneliness, fear} about {object:a difficult confrontation} into the light and instead of {behavior:seeking approval from everyone}, I will {step:stand firm in what is right}."
       }
     }
   }

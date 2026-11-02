@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine revelation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Sovereign Disclosure",
-            "expansion": "The revelation is a direct communication from God through Jesus Christ, demonstrating divine intentionality in revealing future events."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Immediacy",
-            "expansion": "The prophecy emphasizes that these revelations are imminent and relevant to the contemporary audience."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Blessing through Understanding",
-            "expansion": "Those who read, hear, and keep the prophetic words receive a unique spiritual benediction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine revelation is meant to prepare and transform, how might your current perception of spiritual understanding limit or expand your receptivity?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between prophetic mystery and personal comprehension?",
-        "left_label": "Uncertainty",
-        "right_label": "Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine communication shifted?",
-        "options": [
-          "More open to spiritual mystery",
-          "Increased respect for prophetic literature",
-          "Recognizing the immediacy of spiritual truth",
-          "Understanding revelation as ongoing dialogue"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Metaphorical guidance for ecclesiastical transformation",
           "Cyclical pattern of divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "John fell at His feet like a dead man",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in John's place, overwhelmed by this vision. You fall like a dead man, and then He places His right hand on you and says, Do not be afraid. What does this command change about how you view the One standing before you?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Isaiah 6:1-3",
+        "summary": "The Lord God calls Himself the Alpha and the Omega, who is and was and is to come (v. 8). In Isaiah 6:1-3 the prophet sees the Lord seated on a throne, high and exalted, while the seraphim call out 'Holy, holy, holy is the LORD of Hosts.'",
+        "question": "How does the cry of the seraphim in Isaiah 6:3 help you understand the weight of the title given to the Lord in verse 8?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "Jesus Christ loves us and has released us from our sins by His blood",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "approach His throne with praise",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:approach His throne with praise}."
       }
     }
   }

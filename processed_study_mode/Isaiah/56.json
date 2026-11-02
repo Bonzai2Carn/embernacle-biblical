@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme from Isaiah 56 resonates most deeply with your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inclusion beyond traditional boundaries",
-            "expansion": "God's covenant extends beyond ethnic and physical limitations to those genuinely committed to righteousness."
-          },
-          {
-            "id": 2,
-            "text": "Justice as a spiritual practice",
-            "expansion": "Righteousness is demonstrated through active moral choices, not merely ritualistic observance."
-          },
-          {
-            "id": 3,
-            "text": "Divine acceptance of the marginalized",
-            "expansion": "Those traditionally excluded find profound spiritual welcome through genuine faithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's salvation transcends human-defined categories of belonging, what boundaries might you be unconsciously maintaining in your spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do external religious practices relate to internal spiritual transformation?",
-        "left_label": "Ritualistic Compliance",
-        "right_label": "Authentic Devotion"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your previous understanding of divine inclusion?",
-        "options": [
-          "Expanded my concept of spiritual belonging",
-          "Recognized systemic religious exclusion",
-          "Understood grace as more radical than I previously thought",
-          "Saw personal biases more clearly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Marginalized groups are equally welcomed in God's redemptive plan",
           "Religious performance matters more than internal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The eunuch said",
+            "ref": "v. 3",
+            "speaker": "The eunuch"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the eunuch, feeling like a dry tree. What does the LORD's promise of a better name change about your standing in His house?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Ephesians 2:13",
+        "summary": "The LORD promises to bring foreigners to His holy mountain and make His house a house of prayer for all the nations (v. 7). Ephesians 2:13 says those who were once far away have been brought near through the blood of Christ.",
+        "question": "How does Ephesians 2:13 help you understand the welcome the LORD gives to those outside in Isaiah 56?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "salvation is coming soon and righteousness will be revealed",
+        "feeling": "anxiety, dread",
+        "object": "the state of the world",
+        "behavior": "complaining about injustice",
+        "step": "act with integrity in small things",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the state of the world} and instead of {behavior:complaining about injustice}, I will {step:act with integrity in small things}."
       }
     }
   }

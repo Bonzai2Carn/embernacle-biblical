@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What profound spiritual transformation is emerging in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cultural boundaries dissolving",
-            "expansion": "God's redemptive plan transcends human-constructed social divisions."
-          },
-          {
-            "id": 2,
-            "text": "Divine revelation reshaping understanding",
-            "expansion": "Personal spiritual experiences can challenge and transform communal theological assumptions."
-          },
-          {
-            "id": 3,
-            "text": "Inclusive grace overcoming prejudice",
-            "expansion": "The Holy Spirit's movement cannot be constrained by traditional religious exclusivity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is challenging your most deeply held cultural and religious assumptions, how would you recognize that challenge?"
-      },
-      "moral_slider": {
-        "question": "How comfortable are you with radical spiritual inclusivity?",
-        "left_label": "Exclusive Tradition",
-        "right_label": "Radical Acceptance"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual inclusion shifted?",
-        "options": [
-          "More open to diverse spiritual experiences",
-          "Recognize God's work beyond my familiar context",
-          "Understanding grace is wider than my initial perception",
-          "Willing to challenge my previous theological boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The Holy Spirit's transformative work is not restricted by human limitations",
           "God's covenant promises extend beyond traditional interpretative frameworks"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The circumcised believers took issue with Peter",
+            "ref": "vv. 2-3",
+            "speaker": "The circumcised believers"
+          },
+          {
+            "who": "They glorified God and said",
+            "ref": "v. 18",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself among the believers who objected to Peter. Now you hear that God has granted repentance to the Gentiles. What do you understand about God's work, and what do you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Galatians 3:28",
+        "summary": "Peter says the Holy Spirit fell on the Gentiles just as He fell on them at the beginning (v. 15). Galatians 3:28 says there is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.",
+        "question": "How does Galatians 3:28 help you understand what Peter says in v. 15?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "practice",
+        "because": "the disciples, each according to his ability, decided to send relief to the brothers",
+        "feeling": "indifference, guilt",
+        "object": "a need in my community",
+        "behavior": "ignoring the struggle",
+        "step": "give what I can",
+        "template": "from today I let go of my {feeling:indifference, guilt} over {object:a need in my community} and instead of {behavior:ignoring the struggle}, I will {step:give what I can}."
       }
     }
   }

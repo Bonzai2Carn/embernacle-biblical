@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which powerful theological concept resonates most from Psalm 97?",
-        "choices": [
-          {
-            "id": "divine_sovereignty",
-            "text": "God's supreme reign over all creation",
-            "expansion": "The psalm emphasizes that God's sovereignty transcends human understanding and political boundaries."
-          },
-          {
-            "id": "righteous_judgment",
-            "text": "Divine justice and moral accountability",
-            "expansion": "The imagery of God's judgment reveals a profound commitment to ultimate moral order and righteousness."
-          },
-          {
-            "id": "worship_response",
-            "text": "Humanity's proper response of reverence and joy",
-            "expansion": "True spiritual maturity manifests as both profound humility and exuberant celebration of divine goodness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so absolute, what makes human free will meaningful?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human agency coexist?",
-        "left_label": "Complete Divine Control",
-        "right_label": "Absolute Human Freedom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine nature shifted?",
-        "options": [
-          "More aware of cosmic scale of divine governance",
-          "Recognize complexity of theological interpretations",
-          "Feel more humble about human limitations",
-          "See spiritual experience as multi-dimensional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty and human agency are complementary, not contradictory",
           "Human free will is an illusion within God's predetermined purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Zion rejoices",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the towns of Judah. You see the shame of those who trust in idols. What makes the LORD's judgments a reason for your joy?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 6:1-3",
+        "summary": "The psalmist describes the heavens proclaiming God's righteousness (v. 6). Isaiah 6:1-3 describes seraphim calling to one another that the LORD of Hosts is holy and that all the earth is full of His glory.",
+        "question": "How does the vision in Isaiah 6:3 help you see the scope of the glory mentioned in Psalm 97:6?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the LORD preserves the souls of His saints",
+        "feeling": "fear, anxiety",
+        "object": "the actions of the wicked",
+        "behavior": "worrying about the outcome",
+        "step": "choose to hate what is evil",
+        "template": "from today I bring You my {feeling:fear, anxiety} about {object:the actions of the wicked} and instead of {behavior:worrying about the outcome}, I will {step:choose to hate what is evil}."
       }
     }
   }

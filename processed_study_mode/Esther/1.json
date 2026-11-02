@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of power reveals the most about human nature?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "King's lavish feast demonstrating wealth",
-            "expansion": "Displays how power often seeks public validation and external affirmation."
-          },
-          {
-            "id": 2,
-            "text": "Queen Vashti's refusal to be objectified",
-            "expansion": "Reveals individual dignity can challenge systemic authority."
-          },
-          {
-            "id": 3,
-            "text": "King's impulsive decree after rejection",
-            "expansion": "Illustrates how wounded pride can lead to disproportionate retaliatory actions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does personal dignity intersect with societal expectations, and who ultimately determines the boundaries?"
-      },
-      "moral_slider": {
-        "question": "How do personal principles balance against cultural/institutional norms?",
-        "left_label": "Individual Integrity",
-        "right_label": "Collective Compliance"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on power dynamics shifted after examining this narrative?",
-        "options": [
-          "Recognized complexity of authority",
-          "Understood personal dignity's importance",
-          "Noticed emotional reactivity in leadership",
-          "Saw systemic gender dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Political leaders are merely instruments of predetermined divine plans",
           "Divine intervention is conditional upon human righteousness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Queen Vashti refused the king's command",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The king did as Memucan had advised",
+            "ref": "v. 21",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one of the king's princes. The queen has refused the king's command, and his anger burns. What would you weigh as you watch the king act on the advice he is given?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Ephesians 5:22-25",
+        "summary": "Memucan warns that the queen's refusal will teach all women to despise their husbands (v. 17). Paul tells wives to submit to their husbands and husbands to love their wives (Ephesians 5:22-25).",
+        "question": "How does Paul's picture of husbands and wives help you understand the decree Memucan proposes in this chapter?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "pacing",
+        "because": "the king became furious, and his anger burned within him",
+        "feeling": "anger, resentment",
+        "object": "someone who refuses my request",
+        "behavior": "lashing out at the one who refused",
+        "step": "pause and hear them out",
+        "template": "from today I set down my {feeling:anger, resentment} about {object:someone who refuses my request} and instead of {behavior:lashing out at the one who refused}, I will {step:pause and hear them out}."
       }
     }
   }

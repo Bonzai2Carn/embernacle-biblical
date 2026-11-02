@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Trust in Divine Guidance",
-            "expansion": "Surrendering personal understanding to a higher wisdom requires profound humility and spiritual maturity."
-          },
-          {
-            "id": 2,
-            "text": "Cultivate Mercy and Truth",
-            "expansion": "Integrity and compassion are not just moral virtues, but pathways to finding favor with God and humanity."
-          },
-          {
-            "id": 3,
-            "text": "Value Wisdom Above Material Gain",
-            "expansion": "True wealth is measured by spiritual understanding, not by worldly possessions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If trusting in divine wisdom means releasing control, what fears prevent you from truly surrendering?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine guidance?",
-        "left_label": "Self-Determination",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual wisdom evolved?",
-        "options": [
-          "I now see wisdom as collaborative, not absolute",
-          "My understanding of trust has deepened",
-          "I recognize the limits of my own knowledge",
-          "I'm more open to spiritual guidance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual growth requires complete surrender of personal reasoning",
           "Intellectual knowledge is equivalent to spiritual wisdom"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "The writer promises",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a student learning these rules. What would you understand about the healing and refreshment that come from setting aside your own perspective?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "James 1:5",
+        "summary": "Proverbs instructs you to trust God and not lean on your own understanding (v. 5). James shows how to approach God when you lack that very understanding.",
+        "question": "How does the promise that God gives wisdom generously help you follow the command to trust Him with all your heart?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "trust",
+        "because": "the LORD will be your confidence and will keep your foot from the snare",
+        "feeling": "anxiety, dread",
+        "object": "a sudden problem",
+        "behavior": "panicking and overreacting",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a sudden problem} to God and instead of {behavior:panicking and overreacting}, I will {step:rest in His protection}."
       }
     }
   }

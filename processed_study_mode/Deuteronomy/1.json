@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership and spiritual journey resonates most?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Moses' Retrospective Leadership",
-            "expansion": "Reflecting on past experiences as a crucial method of guiding future generations."
-          },
-          {
-            "id": "B",
-            "text": "Divine Guidance in Challenging Terrain",
-            "expansion": "Understanding how spiritual journeys often involve navigating complex, uncertain landscapes."
-          },
-          {
-            "id": "C",
-            "text": "Consequences of Collective Doubt",
-            "expansion": "Recognizing how communal fear and hesitation can derail transformative spiritual progress."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal narratives of struggle shape our collective understanding of spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact community destiny?",
-        "left_label": "Personal Freedom",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and spiritual journey evolved?",
-        "options": [
-          "More empathetic to communal challenges",
-          "Greater appreciation for historical perspective",
-          "Deeper understanding of divine guidance",
-          "Recognizing the complexity of collective decision-making"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment represents redemptive correction, not ultimate rejection",
           "Human disobedience can delay but not ultimately defeat divine purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Moses said",
+            "ref": "v. 12",
+            "speaker": "Moses"
+          },
+          {
+            "who": "The people answered",
+            "ref": "v. 14",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in Moses's place: you cannot carry the weight of the people alone. How does their response change your view of the leadership you must provide?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Numbers 13:25-33",
+        "summary": "Moses recalls how God carried the people like a son (v. 31). The spies' report in Numbers describes the people in the land as strong and their cities as large and fortified (Numbers 13:28).",
+        "question": "How does the spies' report of strong people and fortified cities help you understand why the people refused to trust God's protection in this chapter?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "trust",
+        "because": "in spite of all this, you did not trust the LORD your God",
+        "feeling": "anxiety, dread",
+        "object": "a looming obstacle",
+        "behavior": "relying on my own strength",
+        "step": "rest in His presence",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming obstacle} to God and instead of {behavior:relying on my own strength}, I will {step:rest in His presence}."
       }
     }
   }

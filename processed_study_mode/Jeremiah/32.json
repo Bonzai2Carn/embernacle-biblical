@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Sovereignty in Difficult Times",
-            "expansion": "Even during impending judgment, God demonstrates long-term restoration and hope."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Actions as Prophetic Testimony",
-            "expansion": "Jeremiah's land purchase represents trust in future redemption despite current circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Divine Promises of Renewal",
-            "expansion": "God commits to rebuilding and restoring His people after periods of discipline and exile."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might an act of radical faith look counterintuitive in a moment of apparent societal collapse?"
-      },
-      "moral_slider": {
-        "question": "How does one maintain hope when circumstances seem utterly hopeless?",
-        "left_label": "Despair",
-        "right_label": "Unshakable Hope"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of God's redemptive work?",
-        "options": [
-          "I see God's plans as more long-term than I previously understood",
-          "I recognize the importance of symbolic actions in spiritual witness",
-          "I'm more aware that hope can exist alongside present difficulties",
-          "I've gained insight into God's commitment to His people"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty transcends immediate historical circumstances",
           "Restoration is always part of God's ultimate redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "Jeremiah prayed",
+            "ref": "v. 24",
+            "speaker": "Jeremiah"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 27",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place. You hear that the city has been given into the hands of the Chaldeans, just as the LORD has spoken. What would you still wonder when the LORD asks, 'Is anything too difficult for Me?'"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Deuteronomy 30:3-5",
+        "summary": "The LORD promises that houses and fields will again be bought in this land (v. 15). Deuteronomy describes the same restoration of people and land after their exile.",
+        "question": "How does the promise of a returned people in Deuteronomy help you understand why Jeremiah bought a field in a land currently under siege?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "nothing is too difficult for the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a failing situation",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His power",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a failing situation} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His power}."
       }
     }
   }

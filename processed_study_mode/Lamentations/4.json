@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Loss of societal dignity",
-            "expansion": "The transformation of precious people into disposable vessels reveals profound social breakdown."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual desolation",
-            "expansion": "The scattered sanctuary stones symbolize a profound disconnection from divine presence."
-          },
-          {
-            "id": 3,
-            "text": "Maternal anguish",
-            "expansion": "The contrast between nurturing animals and human cruelty highlights devastating communal trauma."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When societal collapse occurs, what truly reveals the depth of human character: survival mechanisms or compassionate response?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and human suffering intersect?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal suffering evolved?",
-        "options": [
-          "Recognize systemic vulnerability",
-          "Appreciate human resilience",
-          "Understand cyclical historical patterns",
-          "Reflect on spiritual consequences of collective actions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National challenges reveal systemic spiritual and moral failures",
           "Divine mercy remains present even in moments of apparent abandonment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The people speak",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "The poet speaks to Zion",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among those watching from the towers, your eyes failing as you look in vain for help. Then you hear that your punishment is complete and He will not prolong your exile. What do you weigh when the end of the punishment is announced?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Deuteronomy 28:15-68",
+        "summary": "The LORD pours out His fierce anger and kindles a fire in Zion that consumes her foundations (v. 11). Deuteronomy says curses will come on a people who do not obey the LORD and forsake Him.",
+        "question": "How does Deuteronomy 28:15-68 help you understand why the LORD's anger fell on Zion (v. 11)?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "our end had come",
+        "feeling": "panic, dread",
+        "object": "a sudden crisis",
+        "behavior": "running from the truth",
+        "step": "face the reality of my situation",
+        "template": "from today I bring You my {feeling:panic, dread} about {object:a sudden crisis} and instead of {behavior:running from the truth}, I will {step:face the reality of my situation}."
       }
     }
   }

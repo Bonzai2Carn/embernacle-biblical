@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of legal/spiritual conflict intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Paul's strategic defense",
-            "expansion": "Demonstrates wisdom in presenting theological arguments within a secular legal framework."
-          },
-          {
-            "id": 2,
-            "text": "Felix's political calculation",
-            "expansion": "Reveals the complex intersections of justice, power, and personal opportunism."
-          },
-          {
-            "id": 3,
-            "text": "Religious persecution dynamics",
-            "expansion": "Highlights how institutional religious systems can weaponize legal processes against individual believers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal convictions survive when institutional systems are designed to suppress them?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between personal integrity and political survival?",
-        "left_label": "Absolute Principle",
-        "right_label": "Pragmatic Compromise"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of faith under legal pressure evolved?",
-        "options": [
-          "More aware of systemic challenges",
-          "Recognize complexity of spiritual witness",
-          "Appreciate strategic spiritual resilience",
-          "See legal systems as potentially neutral platforms"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Persecution can become a platform for gospel proclamation",
           "Maintaining personal integrity is paramount in spiritual conflicts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Tertullus opened the prosecution",
+            "ref": "vv. 2-3",
+            "speaker": "Tertullus"
+          },
+          {
+            "who": "Paul began his response",
+            "ref": "vv. 10-13",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in Felix's place. You hear praise for the lasting peace you brought, then a man says his accusers cannot prove their charges. What do you weigh in each voice?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "1 Peter 2:12",
+        "summary": "Paul defends his actions by pointing to his clear conscience and his adherence to the Law and Prophets (vv. 14-16). Peter instructs believers to maintain this same way of life so that their good deeds lead others to honor God.",
+        "question": "How does Peter's command to live such a life help you understand why Paul insists on his integrity before the governor?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "I strive always to maintain a clear conscience before God and man",
+        "feeling": "guilt, shame",
+        "object": "a mistake I made",
+        "behavior": "hiding from others",
+        "step": "confess it to a trusted friend",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a mistake I made} and instead of {behavior:hiding from others}, I will {step:confess it to a trusted friend}."
       }
     }
   }

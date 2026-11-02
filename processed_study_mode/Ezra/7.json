@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of spiritual lineage speaks most profoundly to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Genealogical Continuity",
-            "expansion": "Tracing spiritual heritage reveals divine consistency across generations."
-          },
-          {
-            "id": 2,
-            "text": "Priestly Leadership",
-            "expansion": "Spiritual authority flows through intentional preparation and divine selection."
-          },
-          {
-            "id": 3,
-            "text": "Personal Calling",
-            "expansion": "Individual purpose transcends familial expectations and historical precedent."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of spiritual inheritance differ if you viewed your lineage not as a birthright, but as a sacred responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do personal qualifications balance against inherited spiritual legacy?",
-        "left_label": "Individual Merit",
-        "right_label": "Ancestral Blessing"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual leadership transformed?",
-        "options": [
-          "More appreciative of historical continuity",
-          "Recognize personal agency in spiritual journey",
-          "Value systemic preparation over individual charisma",
-          "Understand calling as both inherited and chosen"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "God prepares leaders through generational and personal transformation",
           "Institutional recognition always validates spiritual leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Ezra had set his heart",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Ezra's place. You have set your heart to study the Law of the LORD, to practice it, and to teach its statutes and ordinances in Israel. What would you weigh about doing those three in that order?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Ezra 1:1-2",
+        "summary": "The king's hand was upon Ezra to grant his requests (v. 6). This follows the pattern of the LORD moving the heart of a king to allow the return to Jerusalem (Ezra 1:1).",
+        "question": "How does the earlier movement of the king's heart help you understand the king's specific support for Ezra in this chapter?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "the hand of the LORD was upon Ezra, so he took courage and gathered the leaders of Israel",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult task ahead",
+        "behavior": "hesitating to act",
+        "step": "gather others to move forward",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a difficult task ahead} and instead of {behavior:hesitating to act}, I will {step:gather others to move forward}."
       }
     }
   }

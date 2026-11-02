@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative moment in Luke 6 resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus challenging Sabbath legalism",
-            "expansion": "True spiritual understanding transcends rigid religious rules"
-          },
-          {
-            "id": 2,
-            "text": "The selection of the twelve apostles",
-            "expansion": "Divine calling often emerges from unexpected, ordinary human connections"
-          },
-          {
-            "id": 3,
-            "text": "The Beatitudes and woes",
-            "expansion": "Authentic spirituality inverts worldly hierarchies of power and status"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of religious practice change if you prioritized human compassion over ritual compliance?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious traditions adapt to human needs?",
-        "left_label": "Strict Adherence",
-        "right_label": "Compassionate Flexibility"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your previous assumptions about religious practice?",
-        "options": [
-          "I see religious rules differently",
-          "I understand Jesus' radical approach more deeply",
-          "I recognize the importance of human dignity",
-          "I'm questioning my previous interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation occurs through grace, not mechanical rule-following",
           "Religious traditions can sometimes obstruct genuine spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 35,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 32",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 35",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a listener. Jesus describes how even sinners love those who love them. What is the standard He sets for you that goes beyond what anyone else does?"
+      },
+      "chain": {
+        "after": 45,
+        "ref": "Matthew 5:43-48",
+        "summary": "Jesus tells His listeners to love their enemies and do good to them (v. 35). Matthew 5:44 gives the same command: love your enemies and pray for those who persecute you. Matthew 5:45 adds that God causes His sun to rise on the evil and the good.",
+        "question": "How does God causing His sun to rise on the evil and the good in Matthew 5:45 help you understand the command to love your enemies?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "exposure",
+        "because": "out of the overflow of the heart, the mouth speaks",
+        "feeling": "bitterness, anger",
+        "object": "a harsh word spoken in haste",
+        "behavior": "criticizing others",
+        "step": "ask God to purify my heart",
+        "template": "from today I bring my {feeling:bitterness, anger} about {object:a harsh word spoken in haste} into the light and instead of {behavior:criticizing others}, I will {step:ask God to purify my heart}."
       }
     }
   }

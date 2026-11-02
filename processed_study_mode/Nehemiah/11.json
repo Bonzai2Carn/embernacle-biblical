@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of community rebuilding resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Voluntary Sacrifice",
-            "expansion": "Those who willingly chose to resettle Jerusalem demonstrated profound commitment beyond personal comfort."
-          },
-          {
-            "id": 2,
-            "text": "Communal Lot-Casting",
-            "expansion": "The democratic process of selecting settlers reveals a sophisticated approach to collective responsibility."
-          },
-          {
-            "id": 3,
-            "text": "Distributed Leadership",
-            "expansion": "Strategic placement of leaders and families ensures systemic resilience and cultural preservation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does personal willingness intersect with communal necessity when rebuilding a broken social structure?"
-      },
-      "moral_slider": {
-        "question": "What matters more: Individual preference or collective restoration?",
-        "left_label": "Individual Choice",
-        "right_label": "Communal Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community commitment shifted?",
-        "options": [
-          "Recognize sacrifice as collective, not individual",
-          "Understand strategic repopulation as spiritual discipline",
-          "Value systematic community rebuilding",
-          "Appreciate democratic spiritual processes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Communal reorganization reveals divine strategic planning",
           "Voluntary service represents spiritual maturity and unity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The leaders of the people",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The people",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the people watching the leaders settle in the city. How does the reaction of the crowd change your view of those who chose to leave their own towns?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Ephesians 4:16",
+        "summary": "The people bless the men who volunteered to live in Jerusalem (v. 2). Paul writes that the whole body grows and builds itself up in love through the work of each individual part (Ephesians 4:16).",
+        "question": "How does Paul's picture of each part doing its work help you understand why the people blessed the men who volunteered?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "the people blessed all the men who volunteered to live in Jerusalem",
+        "feeling": "indifference, apathy",
+        "object": "others' sacrifices",
+        "behavior": "staying in my comfort zone",
+        "step": "honor those who serve",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:others' sacrifices} and instead of {behavior:staying in my comfort zone}, I will {step:honor those who serve}."
       }
     }
   }

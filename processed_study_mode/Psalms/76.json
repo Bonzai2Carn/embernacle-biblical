@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most from this psalm about divine power?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's ultimate sovereignty",
-            "expansion": "Divine power transcends human limitations and controls historical outcomes."
-          },
-          {
-            "id": 2,
-            "text": "Divine judgment as redemptive",
-            "expansion": "God's intervention restores cosmic order and protects the righteous."
-          },
-          {
-            "id": 3,
-            "text": "Reverence transforms human perspective",
-            "expansion": "Recognizing divine majesty fundamentally alters how we understand our own existence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so absolute, what role does human agency truly play in spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's power with human suffering?",
-        "left_label": "Divine Inscrutability",
-        "right_label": "Compassionate Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine power shifted after reflecting on this psalm?",
-        "options": [
-          "More aware of cosmic sovereignty",
-          "Increased respect for mystery",
-          "Deepened sense of personal humility",
-          "Challenged previous theological assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Sovereign power demonstrates God's relational commitment to His people",
           "Judgment reveals the consequences of human rebellion against divine order"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the earth that hears this judgment. What does the stillness of the earth tell you about the arrival of the Judge?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 46:1-3",
+        "summary": "Psalm 76 says that when God rose up to judge, the earth feared and was still (vv. 8-9). Psalm 46:1-3 says God is a refuge and an ever-present help, so we will not fear though the earth is transformed and the mountains quake.",
+        "question": "How does Psalm 46:1-3 help you understand the earth's fear and stillness before God in verses 8-9?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "surrender",
+        "because": "the wrath of man shall praise Him",
+        "feeling": "anger, indignation",
+        "object": "the unfair treatment I endure",
+        "behavior": "seeking my own revenge",
+        "step": "leave the outcome to God",
+        "template": "from today I bring You my {feeling:anger, indignation} about {object:the unfair treatment I endure} and instead of {behavior:seeking my own revenge}, I will {step:leave the outcome to God}."
       }
     }
   }

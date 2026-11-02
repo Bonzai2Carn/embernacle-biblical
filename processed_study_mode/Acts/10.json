@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of spiritual perception resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Attentiveness to Human Devotion",
-            "expansion": "God notices and values genuine spiritual seeking, even before formal religious conversion."
-          },
-          {
-            "id": 2,
-            "text": "Supernatural Guidance Through Vision",
-            "expansion": "Spiritual communication transcends human institutional boundaries and expectations."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Encounter with the Unknown",
-            "expansion": "Authentic spiritual growth requires openness to challenging preconceived cultural and religious limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine perspective sees beyond human-constructed boundaries, what assumptions might you be holding that limit your understanding of spiritual truth?"
-      },
-      "moral_slider": {
-        "question": "How do personal religious traditions balance with universal spiritual understanding?",
-        "left_label": "Exclusivity",
-        "right_label": "Inclusivity"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your current understanding of spiritual accessibility?",
-        "options": [
-          "God's acceptance is broader than my previous beliefs",
-          "Cultural barriers can obstruct spiritual connection",
-          "Personal devotion matters more than religious ritual",
-          "Supernatural guidance is still possible today"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal righteousness does not guarantee salvation, but faith does",
           "Divine guidance can occur outside established religious structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "A voice said to him",
+            "ref": "v. 13",
+            "speaker": "A voice"
+          },
+          {
+            "who": "Peter answered",
+            "ref": "v. 14",
+            "speaker": "Peter"
+          }
+        ],
+        "question": "Put yourself in Peter's place. A voice tells you to kill and eat, and you answer that you have never eaten anything impure or unclean. What would you weigh about the command you just heard?"
+      },
+      "chain": {
+        "after": 34,
+        "ref": "Romans 10:12-13",
+        "summary": "Peter says he now understands that God does not show favoritism (v. 34). Romans 10:12-13 says there is no difference between Jew and Greek, the same Lord is Lord of all, and everyone who calls on His name will be saved.",
+        "question": "How does Romans 10:12-13 help you grasp the weight of Peter's words in v. 34?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "exposure",
+        "because": "God does not show favoritism",
+        "feeling": "prejudice, judgment",
+        "object": "someone unlike me",
+        "behavior": "keeping my distance",
+        "step": "seek to know them",
+        "template": "from today I bring my {feeling:prejudice, judgment} about {object:someone unlike me} into the light and instead of {behavior:keeping my distance}, I will {step:seek to know them}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical layer of leadership decay most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The lioness as a failed maternal political system",
-            "expansion": "Leadership inheritance often perpetuates destructive generational patterns of power."
-          },
-          {
-            "id": 2,
-            "text": "The prince as a predatory individual leader",
-            "expansion": "Individual leaders can become consumed by their own violent appetites and self-destruction."
-          },
-          {
-            "id": 3,
-            "text": "The national tragedy of repeated leadership collapse",
-            "expansion": "Systemic political failure represents a deeper spiritual and moral disintegration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do inherited leadership models blind us to our own potential for transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent do national leaders embody collective spiritual consciousness?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Destiny"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and accountability shifted?",
-        "options": [
-          "More aware of generational consequences",
-          "Recognize the spiritual dimensions of political power",
-          "See leadership as a complex moral ecosystem",
-          "Understand vulnerability in political narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational patterns of sin have cumulative spiritual consequences",
           "Divine mercy coexists with necessary disciplinary actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are a witness to this vine. It was uprooted in fury and cast to the ground, and now it is planted in a dry and thirsty land. What would you still wonder about it?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "2 Kings 24:8-17",
+        "summary": "The prophet uses a lament to describe the destruction of Israel's leaders (vv. 1-9). The historical record shows Nebuchadnezzar taking King Jehoiachin captive to Babylon (2 Kings 24:8-17).",
+        "question": "How does seeing the historical reality of the king's exile help you understand the weight of this lament?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "exposure",
+        "because": "the vine is now planted in the wilderness, in a dry and thirsty land",
+        "feeling": "anxiety, restlessness",
+        "object": "a season of scarcity",
+        "behavior": "searching for easy exits",
+        "step": "stay where God has placed me",
+        "template": "from today I bring my {feeling:anxiety, restlessness} about {object:a season of scarcity} into the light and instead of {behavior:searching for easy exits}, I will {step:stay where God has placed me}."
       }
     }
   }

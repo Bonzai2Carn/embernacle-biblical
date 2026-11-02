@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual growth resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Growing Faith",
-            "expansion": "Faith isn't static but a dynamic process of continuous spiritual development."
-          },
-          {
-            "id": 2,
-            "text": "Abounding Love",
-            "expansion": "Authentic Christian community is marked by increasing mutual care and compassion."
-          },
-          {
-            "id": 3,
-            "text": "Enduring Persecution",
-            "expansion": "Spiritual maturity is often refined through trials and challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current struggles be paradoxically preparing you for deeper spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "In facing tribulation, where do you position yourself between passive acceptance and active resistance?",
-        "left_label": "Passive Submission",
-        "right_label": "Prophetic Confrontation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "I now see challenges as opportunities",
-          "Community support matters more than individual strength",
-          "Faith isn't about avoiding suffering but growing through it",
-          "God's justice provides ultimate perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine justice ultimately vindicates faithful followers",
           "Tribulation provides opportunities for spiritual growth and testimony"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul tells of their endurance",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul promises relief",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Thessalonians. You are facing heavy affliction and persecution. What does the promise of relief change about how you view your current struggle?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Revelation 20:11-15",
+        "summary": "Paul writes that those who do not obey will suffer the penalty of eternal destruction (v. 9). Revelation 20:11-15 describes the dead standing before a throne and being judged according to their deeds, as recorded in the books.",
+        "question": "How does the scene of judgment in Revelation 20:11-15 help you understand the penalty described in v. 9?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "faith is growing more and more, and love for one another is increasing",
+        "feeling": "impatience, irritation",
+        "object": "the slow progress of a friend",
+        "behavior": "criticizing their shortcomings",
+        "step": "look for ways to show them love",
+        "template": "from today I let go of my {feeling:impatience, irritation} over {object:the slow progress of a friend} and instead of {behavior:criticizing their shortcomings}, I will {step:look for ways to show them love}."
       }
     }
   }

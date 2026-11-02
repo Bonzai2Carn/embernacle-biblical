@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Guidance in Uncertain Circumstances",
-            "expansion": "David consistently seeks God's direct counsel before taking action, demonstrating radical dependence on divine wisdom."
-          },
-          {
-            "id": 2,
-            "text": "Leadership Amid Fear and Doubt",
-            "expansion": "David navigates his men's legitimate fears while maintaining a commitment to protecting the vulnerable."
-          },
-          {
-            "id": 3,
-            "text": "Friendship Beyond Self-Preservation",
-            "expansion": "Jonathan's loyal friendship with David transcends personal risk, revealing profound covenant commitment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might immediate human fears conflict with a larger spiritual calling, and what determines which perspective should prevail?"
-      },
-      "moral_slider": {
-        "question": "How do personal safety and divine mission balance in moments of extreme vulnerability?",
-        "left_label": "Personal Preservation",
-        "right_label": "Prophetic Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved after reflecting on this chapter?",
-        "options": [
-          "Recognized the importance of constant spiritual consultation",
-          "Understood leadership requires courage beyond personal comfort",
-          "Appreciated the role of faith in navigating uncertain circumstances",
-          "Saw how community support is crucial in challenging missions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Valuing collective wisdom while maintaining individual responsibility",
           "Maintaining faith despite potential personal risk"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "David’s men said to him",
+            "ref": "v. 3",
+            "speaker": "David’s men"
+          },
+          {
+            "who": "The LORD answered David",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of David’s men. You say you are afraid here in Judah. Then the LORD answers that He will deliver the Philistines into the hand of David. What do you weigh: your fear, or His promise?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 32:8",
+        "summary": "David inquires of the LORD before he goes to Keilah, and the LORD answers him (vv. 2, 4). Psalm 32:8 says the LORD will instruct and teach the way one should go, and will give counsel and watch over him.",
+        "question": "How does Psalm 32:8 help you understand why David asked the LORD before he went to Keilah?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "the LORD will deliver the Philistines into David’s hand",
+        "feeling": "fear, dread",
+        "object": "a dangerous task I face",
+        "behavior": "delaying until I feel safe",
+        "step": "go forward on His promise",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a dangerous task I face} to God and instead of {behavior:delaying until I feel safe}, I will {step:go forward on His promise}."
       }
     }
   }

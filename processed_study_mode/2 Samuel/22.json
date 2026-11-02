@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's relationship with God resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Deliverance",
-            "expansion": "Recognizing God's active intervention in personal struggles transforms perspective from victim to victor."
-          },
-          {
-            "id": 2,
-            "text": "Metaphorical Imagery of Protection",
-            "expansion": "David's poetic description of God as 'rock', 'fortress', and 'shield' reveals profound intimacy beyond literal language."
-          },
-          {
-            "id": 3,
-            "text": "Testimony of Gratitude",
-            "expansion": "Praising God after survival demonstrates spiritual maturity and recognizing providence beyond personal merit."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is so comprehensive, why do righteous people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How much of life's outcome is personal agency versus divine intervention?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual resilience?",
-        "options": [
-          "Deepened appreciation for metaphorical theology",
-          "Recognized complexity of human-divine relationship",
-          "Saw personal struggles through a different lens",
-          "Questioned previous assumptions about divine protection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual battles are metaphorical rather than literal",
           "Suffering indicates divine abandonment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "David cries",
+            "ref": "vv. 5-6",
+            "speaker": "David"
+          },
+          {
+            "who": "David says",
+            "ref": "v. 7",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place: the waves of death and the snares of death surround you. What changes when you realize your cry reached His ears?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalms 91:2-4",
+        "summary": "David calls the LORD his rock, his fortress, and his deliverer (v. 2). Psalm 91:2-4 calls the LORD a refuge and fortress, and says under His wings you will find refuge and His faithfulness is a shield and rampart.",
+        "question": "How does Psalm 91:2-4 help you understand the safety David finds in the LORD as his fortress?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "trust",
+        "because": "You save me from violence",
+        "feeling": "fear, anxiety",
+        "object": "a threatening situation",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His strength",
+        "template": "from today I bring You my {feeling:fear, anxiety} about {object:a threatening situation} and instead of {behavior:trying to control the outcome}, I will {step:rest in His strength}."
       }
     }
   }

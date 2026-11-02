@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Collective Accountability",
-            "expansion": "The judgment falls not just on individuals, but on entire nations and cultural systems."
-          },
-          {
-            "id": 2,
-            "text": "Opportunity for Repentance",
-            "expansion": "The warning comes before destruction, offering a chance for transformation."
-          },
-          {
-            "id": 3,
-            "text": "Universal Sovereignty",
-            "expansion": "God's judgment transcends geopolitical boundaries and demonstrates ultimate moral governance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms warning into genuine spiritual reformation?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and mercy interact in moments of collective consequence?",
-        "left_label": "Strict Punishment",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved?",
-        "options": [
-          "More nuanced view of collective responsibility",
-          "Greater appreciation for prophetic warning",
-          "Deeper understanding of spiritual accountability",
-          "Recognition of cultural/systemic sin"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Corporate sin invites collective consequences",
           "Individual righteousness can mitigate communal judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet calls the nation to gather",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet urges the humble to seek",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the humble of the earth who carry out His justice. You hear a warning of coming anger and a command to seek righteousness and humility. What would you still wonder about being sheltered on the day of the LORD's anger?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Revelation 15:4",
+        "summary": "The LORD will starve all the gods of the earth, and the nations of every shore will bow in worship to Him (v. 11). Revelation says all nations will come and worship before the Lord, for His righteous acts have been revealed (Rev 15:4).",
+        "question": "How does Revelation 15:4 help you understand why the nations bow in worship in Zephaniah 2:11?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "the carefree city thinks to herself: I am it, and there is none besides me",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own achievements",
+        "behavior": "ignoring my need for God",
+        "step": "ask Him to reveal my heart",
+        "template": "from today I bring my {feeling:pride, self-sufficiency} about {object:my own achievements} into the light and instead of {behavior:ignoring my need for God}, I will {step:ask Him to reveal my heart}."
       }
     }
   }

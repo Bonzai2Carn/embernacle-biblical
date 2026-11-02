@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of divine authority resonates most?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's Sovereign Decree",
-            "expansion": "The psalm reveals God's direct establishment of messianic leadership beyond human political structures."
-          },
-          {
-            "id": "2",
-            "text": "Prophetic Priesthood",
-            "expansion": "The unique priestly-royal role suggests a transformative spiritual governance model."
-          },
-          {
-            "id": "3",
-            "text": "Divine Judgment",
-            "expansion": "The imagery of cosmic judgment implies God's ultimate accountability and redemptive purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine authority challenge our contemporary understanding of power and leadership?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the tension between divine sovereignty and human agency?",
-        "left_label": "Human Free Will",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual leadership evolved?",
-        "options": [
-          "More aware of spiritual dimensions",
-          "Recognize complex divine-human interactions",
-          "See leadership as spiritual responsibility",
-          "Understand authority as service, not domination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -110,6 +71,41 @@
           "Highlights the eternal and cosmic scope of Christ's authority",
           "Challenges limited human perceptions of messianic fulfillment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said to my Lord",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD has sworn",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of one hearing these words. The LORD tells the one at His right hand to sit until his enemies are a footstool, then swears he is a priest forever. What do you understand about the one addressed?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Matthew 22:41-45",
+        "summary": "The psalm records the LORD speaking to a Lord who sits at His right hand (v. 1). In Matthew 22:42-45 Jesus asks the Pharisees whose son the Christ is, quotes this verse, and asks how David can call Him Lord if He is David's son.",
+        "question": "How does Jesus' question in Matthew 22:45 help you weigh who the one at the right hand is in verse 1?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "trust",
+        "because": "the LORD extends His mighty scepter to rule in the midst of enemies",
+        "feeling": "anxiety, fear",
+        "object": "the chaos around me",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His authority",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the chaos around me} and instead of {behavior:trying to control the outcome}, I will {step:rest in His authority}."
       }
     }
   }

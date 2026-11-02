@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic message resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's judgment on unfaithful leaders",
-            "expansion": "Leadership carries profound spiritual responsibility and accountability."
-          },
-          {
-            "id": 2,
-            "text": "Divine promise of restoration",
-            "expansion": "Even after scattering and punishment, God promises redemptive renewal."
-          },
-          {
-            "id": 3,
-            "text": "The coming of a righteous Branch",
-            "expansion": "Ultimate hope lies in God's promise of a perfect, just ruler."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leaders are meant to shepherd God's people, what happens to a community when those leaders become self-serving?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and institutional accountability intersect in spiritual leadership?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How might this chapter reshape your understanding of leadership and divine judgment?",
-        "options": [
-          "I recognize leadership as a sacred trust",
-          "I see God's justice as more nuanced",
-          "I understand restoration requires accountability",
-          "I appreciate prophetic critique of systemic failures"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "False prophets often appear successful but lack genuine spiritual substance",
           "True leadership involves sacrificial service rather than personal gain"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 28",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 29",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a listener choosing between two messages. One is a dream to be retold, but the other is grain. Which one do you look for in the words you hear?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Isaiah 11:1-5",
+        "summary": "The LORD promises to raise up for David a righteous Branch who will reign wisely and administer justice and righteousness (v. 5). Isaiah also speaks of a Branch from the roots of Jesse, with the Spirit of the LORD on Him, who judges the poor with righteousness and wears faithfulness as a sash.",
+        "question": "How does Isaiah 11:1-5 help you understand the justice and righteousness the Branch is to administer in verse 5?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "practice",
+        "because": "the LORD's word is like fire and like a hammer that smashes a rock",
+        "feeling": "indifference, apathy",
+        "object": "the difficult truths in Scripture",
+        "behavior": "skimming through my reading",
+        "step": "stop to let the text break my hardness",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the difficult truths in Scripture} and instead of {behavior:skimming through my reading}, I will {step:stop to let the text break my hardness}."
       }
     }
   }

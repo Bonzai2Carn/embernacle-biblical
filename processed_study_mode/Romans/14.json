@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on Christian liberty resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "grace",
-            "text": "Radical acceptance of different spiritual practices",
-            "expansion": "Understanding that God's grace encompasses diverse expressions of faith"
-          },
-          {
-            "id": "unity",
-            "text": "Prioritizing spiritual community over personal preferences",
-            "expansion": "Recognizing that love and mutual edification transcend individual convictions"
-          },
-          {
-            "id": "conscience",
-            "text": "Personal integrity in one's spiritual journey",
-            "expansion": "Maintaining a sincere and thoughtful relationship with God according to one's understanding"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your personal conviction might cause another believer to stumble, at what point does your freedom become a potential spiritual hindrance?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual freedom with communal responsibility?",
-        "left_label": "Individual Liberty",
-        "right_label": "Collective Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian fellowship evolved after reflecting on this passage?",
-        "options": [
-          "More aware of judging others' spiritual practices",
-          "Recognize the importance of personal conviction",
-          "Understand grace extends beyond my perspective",
-          "See unity as more important than being 'right'"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Create space for diverse convictions within biblical boundaries",
           "Separate from believers with different non-essential practices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Paul quotes the Lord",
+            "ref": "v. 11",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in the place of a person judging a brother. What does the coming judgment seat reveal about your right to pass sentence?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Galatians 5:13-15",
+        "summary": "Paul says the kingdom of God is not eating and drinking but righteousness, peace, and joy in the Holy Spirit (v. 17). Galatians 5:13-15 says to serve one another in love, and warns that biting and devouring one another leads to being consumed by one another.",
+        "question": "How does the call to serve one another in love in Galatians 5:13 help you understand what righteousness, peace, and joy look like among believers?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "each of us will give an account of himself to God",
+        "feeling": "contempt, irritation",
+        "object": "a person with different habits",
+        "behavior": "pointing out their flaws",
+        "step": "look for ways to build them up",
+        "template": "from today I let go of my {feeling:contempt, irritation} over {object:a person with different habits} and instead of {behavior:pointing out their flaws}, I will {step:look for ways to build them up}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ contains all wisdom and knowledge",
-            "expansion": "Understanding that ultimate truth is found in Christ's person, not human philosophies."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual deception is subtle",
-            "expansion": "Human arguments can appear persuasive but may lead away from genuine spiritual understanding."
-          },
-          {
-            "id": 3,
-            "text": "Freedom from legalistic practices",
-            "expansion": "Spiritual completeness comes through Christ's work, not through ritual observances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual wisdom is fully embodied in Christ, what makes us still seek validation from external systems of belief?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual discernment with openness to different perspectives?",
-        "left_label": "Skepticism",
-        "right_label": "Receptivity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "More focused on Christ's sufficiency",
-          "Less dependent on external religious practices",
-          "More aware of subtle spiritual deceptions",
-          "Seeking deeper relational understanding of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers are empowered through union with Christ, not human philosophies",
           "Salvation is a comprehensive spiritual reality, not a transactional event"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Paul warns",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "vv. 9-10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Colossians. You are warned not to be taken captive by empty deception, then told that you have been made complete in Christ. What do you weigh in that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Ephesians 2:8-9",
+        "summary": "Paul says the Colossians have been made complete in Christ (v. 10). Ephesians says people are saved by grace through faith, as the gift of God and not by works.",
+        "question": "How does Ephesians 2:8-9 help you understand what it means to be made complete in Christ?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "you were established in the faith as you were taught",
+        "feeling": "anxiety, doubt",
+        "object": "my uncertain future",
+        "behavior": "constantly seeking new answers",
+        "step": "rest in what I already know",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:my uncertain future} and instead of {behavior:constantly seeking new answers}, I will {step:rest in what I already know}."
       }
     }
   }

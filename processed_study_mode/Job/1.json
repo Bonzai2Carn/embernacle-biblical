@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Job's character resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His blameless integrity",
-            "expansion": "Maintaining moral righteousness even when no one is watching reveals true character."
-          },
-          {
-            "id": 2,
-            "text": "His spiritual reverence",
-            "expansion": "Genuine fear of God transcends transactional religious practice."
-          },
-          {
-            "id": 3,
-            "text": "His material prosperity",
-            "expansion": "Wealth can be a byproduct of wisdom and divine favor, not its ultimate purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If righteousness does not guarantee immunity from suffering, what truly defines a meaningful life?"
-      },
-      "moral_slider": {
-        "question": "How do divine providence and human free will interact in moments of profound challenge?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Suffering is not punishment",
-          "Character is revealed in crisis",
-          "Faith transcends circumstances",
-          "Spiritual maturity requires complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God allows spiritual challenges to demonstrate deeper truths",
           "Righteousness does not guarantee material prosperity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD said to Satan",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Satan answered the LORD",
+            "ref": "v. 9",
+            "speaker": "Satan"
+          }
+        ],
+        "question": "Put yourself in the place of the one observing this exchange. The LORD points to Job's blamelessness, and Satan asks whether Job fears God for nothing. What would you weigh between these two claims?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "James 1:2-4",
+        "summary": "Job reacts to the loss of his children and wealth by worshiping the LORD (v. 21). James instructs believers to consider it pure joy when they face trials of many kinds.",
+        "question": "How does James's command to find joy in trials help you understand Job's immediate response to his grief?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "trust",
+        "because": "the LORD gave, and the LORD has taken away",
+        "feeling": "anxiety, fear",
+        "object": "a sudden loss",
+        "behavior": "clinging to my security",
+        "step": "bless the name of the LORD",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a sudden loss} to God and instead of {behavior:clinging to my security}, I will {step:bless the name of the LORD}."
       }
     }
   }

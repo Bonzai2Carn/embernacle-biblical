@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative leadership principle resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unity Precedes Power",
-            "expansion": "Genuine leadership emerges from tribal recognition and collective consent, not mere personal ambition."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Establishes Legitimacy",
-            "expansion": "Formal agreements and public commitments authenticate leadership more powerfully than individual claims."
-          },
-          {
-            "id": 3,
-            "text": "Divine Appointment Matters",
-            "expansion": "True leadership is ultimately validated by spiritual alignment, not just human endorsement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does authentic leadership reconcile personal desire with communal need?"
-      },
-      "moral_slider": {
-        "question": "To what extent does collective will determine legitimate governance?",
-        "left_label": "Individual Merit",
-        "right_label": "Communal Consensus"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformation evolved?",
-        "options": [
-          "More aware of collective dynamics",
-          "Recognize spiritual dimensions of authority",
-          "Understand leadership as collaborative process",
-          "Appreciate nuanced path to legitimate power"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine selection often defies human expectations and social hierarchies",
           "Authentic leadership emerges from spiritual preparation and character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "David asked",
+            "ref": "v. 19",
+            "speaker": "David"
+          },
+          {
+            "who": "The LORD replied",
+            "ref": "v. 19",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in David's place: you face a known enemy and seek direction. What does this specific answer change about how you prepare for the battle?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalms 78:70-72",
+        "summary": "David realizes the LORD has established him as king and exalted his kingdom for the sake of His people (v. 12). Psalm 78:70-72 says the LORD chose David His servant from the sheepfolds and brought him from tending the ewes to be shepherd of His people.",
+        "question": "How does Psalm 78:70-72 help you understand what David realizes in v. 12 about why the LORD established him?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "remembrance",
+        "because": "the LORD God of Hosts was with David",
+        "feeling": "insecurity, doubt",
+        "object": "a new responsibility",
+        "behavior": "trying to force my own way",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:insecurity, doubt} over {object:a new responsibility} and instead of {behavior:trying to force my own way}, I will {step:rest in His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's leadership resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Sacrifice for God's Vision",
-            "expansion": "David commits personal resources beyond royal obligation, demonstrating radical commitment."
-          },
-          {
-            "id": 2,
-            "text": "Generational Leadership Transition",
-            "expansion": "David carefully prepares Solomon, recognizing divine selection over personal preference."
-          },
-          {
-            "id": 3,
-            "text": "Worship as Transformative Community Action",
-            "expansion": "David inspires collective giving as a spiritual and communal act of devotion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true leadership means preparing successors rather than preserving personal legacy, how might your current actions be reframed?"
-      },
-      "moral_slider": {
-        "question": "How do personal resources intersect with spiritual purpose?",
-        "left_label": "Material Ownership",
-        "right_label": "Spiritual Stewardship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and devotion shifted?",
-        "options": [
-          "Recognize leadership as service, not status",
-          "Understand collective vision over individual achievement",
-          "See material resources as spiritual instruments",
-          "Appreciate intentional mentorship and succession"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational vision matters more than individual achievement",
           "Worship infrastructure reflects spiritual commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "David asked",
+            "ref": "v. 5",
+            "speaker": "David"
+          },
+          {
+            "who": "the leaders gave",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the leaders hearing the king's call for volunteers. What does their response reveal about their own hearts?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "2 Corinthians 9:7",
+        "summary": "David marvels that his people could give so generously, since everything comes from God (v. 14). 2 Corinthians 9:7 says each one should give what he has decided in his heart, not out of regret or compulsion, for God loves a cheerful giver.",
+        "question": "How does 2 Corinthians 9:7 help you understand the willing gifts of the leaders in verse 6?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "everything comes from God, and the people have given back what came from His own hand",
+        "feeling": "pride, greed",
+        "object": "my personal achievements",
+        "behavior": "claiming credit for success",
+        "step": "attribute every good thing to Him",
+        "template": "from today I let go of my {feeling:pride, greed} over {object:my personal achievements} and instead of {behavior:claiming credit for success}, I will {step:attribute every good thing to Him}."
       }
     }
   }

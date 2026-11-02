@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of parental wisdom resonates most deeply?",
-        "choices": [
-          {
-            "id": "wisdom",
-            "text": "Prioritizing Wisdom",
-            "expansion": "Wisdom transcends mere knowledge and represents a holistic understanding of life's deeper principles."
-          },
-          {
-            "id": "instruction",
-            "text": "Valuing Generational Teaching",
-            "expansion": "Inherited wisdom carries the accumulated insights of those who have walked life's path before us."
-          },
-          {
-            "id": "obedience",
-            "text": "Practicing Attentive Listening",
-            "expansion": "True understanding emerges when we humble ourselves and genuinely receive guidance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is so valuable, why do most people resist being instructed?"
-      },
-      "moral_slider": {
-        "question": "How do personal autonomy and inherited wisdom balance?",
-        "left_label": "Individual Freedom",
-        "right_label": "Ancestral Guidance"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your perspective on learning?",
-        "options": [
-          "I recognize the importance of humble learning",
-          "I see wisdom as a collaborative journey",
-          "I understand guidance differently now",
-          "I'm more open to generational insights"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Wisdom is a collaborative process involving multiple generations",
           "Personal revelation supersedes traditional familial spiritual frameworks"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The path of the righteous",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "The way of the wicked",
+            "ref": "v. 19",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are choosing between two roads. One grows brighter as you walk, while the other grows darker. What does this difference reveal about the destination of each path?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Deuteronomy 6:6-7",
+        "summary": "The father tells his son to keep these words within his heart (v. 21). Deuteronomy 6:6-7 says God's words are to be upon the heart, taught diligently to children, and spoken of at home, on the road, lying down and getting up.",
+        "question": "How does Deuteronomy 6:6-7 help you understand what keeping words within the heart looks like day to day?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "from the heart flow the springs of life, so it is to be guarded with all diligence",
+        "feeling": "distraction, restlessness",
+        "object": "the screens that fill my evenings",
+        "behavior": "taking in whatever comes",
+        "step": "choose what I read before bed",
+        "template": "from today I let go of my {feeling:distraction, restlessness} over {object:the screens that fill my evenings} and instead of {behavior:taking in whatever comes}, I will {step:choose what I read before bed}."
       }
     }
   }

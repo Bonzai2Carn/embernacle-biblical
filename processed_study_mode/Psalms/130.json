@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine mercy resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Willingness to Forgive",
-            "expansion": "Despite human failings, divine grace offers redemption beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Waiting in Spiritual Humility",
-            "expansion": "Patience in spiritual longing reveals profound trust in God's transformative timing."
-          },
-          {
-            "id": 3,
-            "text": "The Depth of Human Brokenness",
-            "expansion": "Acknowledging human weakness becomes the first step toward genuine spiritual restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine forgiveness is unconditional, what genuine role does human repentance play?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine judgment and mercy?",
-        "left_label": "Human Unworthiness",
-        "right_label": "Divine Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual vulnerability transformed?",
-        "options": [
-          "I now see brokenness as a pathway, not a barrier",
-          "Waiting is an active spiritual practice",
-          "Mercy is more expansive than I previously understood",
-          "Personal shame can be transformed by grace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Genuine repentance enables spiritual restoration",
           "God's forgiveness is unconditional and complete"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one crying from the depths. You ask who could stand if the LORD kept track of iniquities, then you hear that with Him there is forgiveness, so that He may be feared. What do you understand about standing before Him?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Micah 7:19",
+        "summary": "The psalmist says the LORD has loving devotion and redemption in abundance (vv. 7-8). Micah 7:19 says He will have compassion on us, vanquish our iniquities, and cast all our sins into the depths of the sea.",
+        "question": "How does Micah's image of sins cast into the depths of the sea help you understand the abundant redemption the psalmist waits for?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "I wait for the LORD, and in His word I put my hope",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "rushing to find my own exits",
+        "step": "rest in a specific promise",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:an uncertain future} and instead of {behavior:rushing to find my own exits}, I will {step:rest in a specific promise}."
       }
     }
   }

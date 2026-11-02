@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine interaction most resonates with your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Unpredictability",
-            "expansion": "The sudden death of Uzzah reveals divine sovereignty transcends human expectations."
-          },
-          {
-            "id": 2,
-            "text": "Passionate Worship",
-            "expansion": "David's uninhibited dancing demonstrates authentic, unrestrained spiritual expression."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Protocol",
-            "expansion": "Proper reverence and procedural obedience matter profoundly in approaching the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does zealous devotion become potentially dangerous presumption in spiritual practice?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine mystery with human understanding?",
-        "left_label": "Human Comprehension",
-        "right_label": "Divine Inscrutability"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on worship and divine encounter shifted?",
-        "options": [
-          "More aware of spiritual boundaries",
-          "Recognize complexity of divine interaction",
-          "Appreciate emotional authenticity in worship",
-          "Understand importance of reverent approach"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship requires both theological understanding and genuine heart passion",
           "Individual interpretation of worship supersedes traditional guidelines"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "David feared the LORD and asked",
+            "ref": "v. 9",
+            "speaker": "David"
+          },
+          {
+            "who": "David was unwilling to move the ark",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. You ask how the ark of the LORD could ever come to you, and then you leave it at the house of Obed-edom. What do you still wonder about how the LORD's presence comes near?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Leviticus 10:1-3",
+        "summary": "Uzzah reaches out to steady the ark when the oxen stumble, and God strikes him down (vv. 6-7). In Leviticus 10:1-3, Nadab and Abihu offer unauthorized fire contrary to the LORD's command and fire consumes them; Moses says the LORD will show His holiness to those who come near Him.",
+        "question": "How does Leviticus 10:1-3 help you understand what happens to Uzzah?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "devotion",
+        "because": "I will celebrate before the LORD",
+        "feeling": "shame, embarrassment",
+        "object": "the judgment of others",
+        "behavior": "withdrawing from service",
+        "step": "praise Him with all my might",
+        "template": "from today I let go of my {feeling:shame, embarrassment} over {object:the judgment of others} and instead of {behavior:withdrawing from service}, I will {step:praise Him with all my might}."
       }
     }
   }

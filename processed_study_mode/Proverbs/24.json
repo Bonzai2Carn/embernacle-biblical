@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which insight about wisdom most resonates with your current life journey?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Wisdom builds strength beyond physical power",
-            "expansion": "Knowledge transforms internal capacity before manifesting external capability."
-          },
-          {
-            "id": "2",
-            "text": "Avoid associating with destructive people",
-            "expansion": "Your social circle determines the trajectory of your moral development."
-          },
-          {
-            "id": "3",
-            "text": "Wisdom fills life with precious treasures",
-            "expansion": "True richness emerges from understanding, not merely material accumulation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If knowledge truly increases strength, what weakness are you currently tolerating that wisdom could transform?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal ambition with ethical restraint?",
-        "left_label": "Individual Achievement",
-        "right_label": "Collective Harmony"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous understanding of personal growth?",
-        "options": [
-          "I recognize the importance of intentional relationships",
-          "I see wisdom as an active, transformative force",
-          "I understand strength is more internal than external",
-          "I'm questioning my current sources of knowledge"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine wisdom transforms behavioral patterns through spiritual enlightenment",
           "Wisdom enables prophetic insight into complex life challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the man who falls. What does this promise tell you about the difference between a righteous person and a wicked one?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Proverbs 2:6",
+        "summary": "The writer says strength comes from knowledge (v. 5). Proverbs 2:6 explains the source of that knowledge.",
+        "question": "How does Proverbs 2:6 help you understand where the strength mentioned in verse 5 actually comes from?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "fainting in the day of distress shows how small your strength is",
+        "feeling": "anxiety, dread",
+        "object": "a sudden crisis",
+        "behavior": "giving up too soon",
+        "step": "lean on God's power",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a sudden crisis} and instead of {behavior:giving up too soon}, I will {step:lean on God's power}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine sovereignty theme resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Absolute Control",
-            "expansion": "The passage emphasizes divine orchestration of historical events beyond human comprehension."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Empowerment",
-            "expansion": "God raises up leaders and instruments for His redemptive purposes across geopolitical landscapes."
-          },
-          {
-            "id": 3,
-            "text": "Universal Accountability",
-            "expansion": "Nations and individuals are ultimately subject to divine judgment and strategic positioning."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine providence superintends global events, what responsibility remains for human agency?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human free will?",
-        "left_label": "Determinism",
-        "right_label": "Free Choice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of God's global strategy shifted?",
-        "options": [
-          "More aware of transcendent planning",
-          "Recognize complexity beyond human perception",
-          "See interconnectedness of historical movements",
-          "Appreciate divine patience in world events"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God works through human choices while maintaining ultimate strategic control",
           "Political events are random and unguided by divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Israel, brought from the ends of the earth. You hear that you were chosen and not rejected, and then that God is with you. What would you weigh about the fear you feel?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Isaiah 46:9-10",
+        "summary": "The LORD calls Himself the first and the last (v. 4), and asks who else has declared things from the beginning (v. 26). Isaiah 46:9-10 says the LORD declares the end from the beginning and His purpose will stand.",
+        "question": "How does Isaiah 46:9-10 help you trust His specific promise to you in verse 10?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "the LORD is your God and will surely help you",
+        "feeling": "anxiety, dread",
+        "object": "a looming deadline",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming deadline} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His strength}."
       }
     }
   }

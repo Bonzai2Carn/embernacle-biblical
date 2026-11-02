@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment in Jacob's journey reveals the most about human nature?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jacob's immediate love for Rachel",
-            "expansion": "Love can transform labor into a profound act of devotion and sacrifice"
-          },
-          {
-            "id": 2,
-            "text": "Laban's deceptive marriage swap",
-            "expansion": "Systemic manipulation can create generational patterns of mistrust and conflict"
-          },
-          {
-            "id": 3,
-            "text": "Jacob's commitment to work seven years for Rachel",
-            "expansion": "True desire can transcend immediate transactional considerations"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does Jacob's experience reveal the complex interplay between divine providence and human agency?"
-      },
-      "moral_slider": {
-        "question": "To what extent are personal desires justified against familial/cultural expectations?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Cultural Conformity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of love, commitment, and sacrifice shifted?",
-        "options": [
-          "Love requires persistent effort",
-          "Cultural contexts deeply shape relationships",
-          "Deception can have long-term consequences",
-          "Personal desires can coexist with familial obligations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty and human free will coexist mysteriously",
           "Relationships are entirely random and unguided"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "Jacob said to Laban",
+            "ref": "v. 25",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "Laban replied",
+            "ref": "v. 26",
+            "speaker": "Laban"
+          }
+        ],
+        "question": "Put yourself in Jacob's place. You served for Rachel, yet you hear that it is not the custom to give the younger daughter before the older. What does Laban's explanation reveal about your situation?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Proverbs 16:9",
+        "summary": "Jacob plans his service and his marriage based on his love for Rachel (v. 18). The proverb shows that while a person makes their plans, the LORD directs their steps.",
+        "question": "How does the proverb help you view the unexpected turn in Jacob's life?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "Jacob served seven years for Rachel, yet it seemed but a few days because of his love for her",
+        "feeling": "restlessness, boredom",
+        "object": "a long season of waiting",
+        "behavior": "counting every minute",
+        "step": "find joy in the task",
+        "template": "from today I let go of my {feeling:restlessness, boredom} over {object:a long season of waiting} and instead of {behavior:counting every minute}, I will {step:find joy in the task}."
       }
     }
   }

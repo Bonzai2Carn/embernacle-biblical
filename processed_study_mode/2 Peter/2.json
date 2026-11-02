@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of false teaching most concerns you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Destructive Heresies",
-            "expansion": "False teachings that systematically undermine core spiritual truths and lead people astray."
-          },
-          {
-            "id": 2,
-            "text": "Moral Corruption",
-            "expansion": "Spiritual leaders who use religious authority to exploit and manipulate vulnerable followers."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Deception",
-            "expansion": "The subtle ways false teachers disguise their harmful ideologies as legitimate spiritual wisdom."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a spiritual leader's private conduct contradicts their public proclamations, does their message still hold validity?"
-      },
-      "moral_slider": {
-        "question": "How do we balance discernment of false teaching with grace towards those who might be spiritually misguided?",
-        "left_label": "Strict Judgment",
-        "right_label": "Compassionate Understanding"
-      },
-      "reevaluation": {
-        "question": "After reflecting on this chapter, how has your perception of spiritual leadership changed?",
-        "options": [
-          "I'm more cautious about blindly trusting religious authorities",
-          "I recognize the importance of consistent moral character",
-          "I understand the potential for spiritual manipulation",
-          "I see the need for personal spiritual discernment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintain humility while critically analyzing doctrinal claims",
           "Seek accountability within trusted theological communities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Peter recalls",
+            "ref": "vv. 4-6",
+            "speaker": ""
+          },
+          {
+            "who": "Peter declares",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those living through trials. Looking at God's heavy judgment on the past, what do you understand about His ability to protect you and judge the unrighteous?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Galatians 1:8-9",
+        "summary": "Peter warns that false teachers secretly introduce destructive heresies and promise freedom while enslaved themselves (vv. 1, 19). Galatians 1:8-9 says that anyone preaching a gospel contrary to the one received is under a curse.",
+        "question": "How does Galatians 1:8-9 help you understand the seriousness of the false teaching Peter describes?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "exposure",
+        "because": "a man is a slave to whatever has mastered him",
+        "feeling": "anxiety, fear",
+        "object": "a new habit",
+        "behavior": "trying to control it myself",
+        "step": "surrender my control to Christ",
+        "template": "from today I bring my {feeling:anxiety, fear} about {object:a new habit} into the light and instead of {behavior:trying to control it myself}, I will {step:surrender my control to Christ}."
       }
     }
   }

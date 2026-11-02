@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's prayer resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's righteousness in judgment",
-            "expansion": "Divine judgment represents ultimate moral accountability beyond human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Morning prayer as spiritual discipline",
-            "expansion": "Intentional early communion with God sets a transformative tone for daily living."
-          },
-          {
-            "id": 3,
-            "text": "Seeking divine guidance amid adversity",
-            "expansion": "Navigating complex challenges requires spiritual discernment and humble trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is certain, how does that understanding reshape your perception of personal accountability?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine mercy with divine justice?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Strict Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer evolved?",
-        "options": [
-          "More conversational with God",
-          "Deeper appreciation for spiritual vulnerability",
-          "Recognizing prayer as transformative dialogue",
-          "Seeing prayer as spiritual alignment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness requires intentional alignment with God's character",
           "Spiritual warfare is primarily conducted through prayer and faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one crying out. You start with groaning and a plea, but then you speak of entering a house and bowing in reverence. What changed in your heart between the first cry and the entry into the temple?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Thessalonians 5:17",
+        "summary": "The psalmist lays his plea before God at daybreak and waits in expectation (v. 3). First Thessalonians 5:17 says, Pray without ceasing.",
+        "question": "How does 1 Thessalonians 5:17 help you understand the psalmist laying his plea before God and waiting?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "You surround the righteous with the shield of Your favor",
+        "feeling": "anxiety, fear",
+        "object": "the criticism of others",
+        "behavior": "defending my own reputation",
+        "step": "rest in His protection",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the criticism of others} and instead of {behavior:defending my own reputation}, I will {step:rest in His protection}."
       }
     }
   }

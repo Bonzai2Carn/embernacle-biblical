@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of discipleship most challenges your understanding?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Spiritual Authority",
-            "expansion": "Disciples are granted supernatural power to heal and confront spiritual darkness."
-          },
-          {
-            "id": "2",
-            "text": "Radical Commitment",
-            "expansion": "Following Jesus requires complete surrender and willingness to face potential persecution."
-          },
-          {
-            "id": "3",
-            "text": "Mission Strategy",
-            "expansion": "Jesus provides strategic guidance for effectively spreading the gospel message."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is freely given, what responsibilities accompany such extraordinary spiritual authority?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and spiritual mission balance in Christian discipleship?",
-        "left_label": "Personal Safety",
-        "right_label": "Radical Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of discipleship transformed?",
-        "options": [
-          "More aware of spiritual warfare",
-          "Recognize deeper commitment required",
-          "Understand mission is challenging",
-          "See disciples as empowered servants"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual effectiveness emerges from synergistic partnership between divine enablement and human obedience",
           "Supernatural gifts are limited to the original apostolic era"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 28,
+        "exchange": [
+          {
+            "who": "Jesus says",
+            "ref": "v. 16",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus says",
+            "ref": "v. 28",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of these sent disciples. How does the reality of being sheep among wolves change how you weigh the threat of those who can kill the body?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Luke 12:11-12",
+        "summary": "Jesus says it will not be you speaking, but the Spirit of your Father speaking through you (v. 20). In Luke 12:11-12 He tells them not to worry about how to defend themselves or what to say, for the Holy Spirit will teach them at that time.",
+        "question": "How does Luke 12:11-12 help you understand what Jesus means by the Spirit speaking through you?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "trust",
+        "because": "you are worth more than many sparrows",
+        "feeling": "anxiety, dread",
+        "object": "the uncertain future",
+        "behavior": "worrying about every detail",
+        "step": "rest in His care",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:the uncertain future} to God and instead of {behavior:worrying about every detail}, I will {step:rest in His care}."
       }
     }
   }

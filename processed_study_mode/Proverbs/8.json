@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of wisdom's invitation most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Wisdom calls openly to all people",
-            "expansion": "Divine wisdom is universally accessible, not reserved for an elite few."
-          },
-          {
-            "id": 2,
-            "text": "Wisdom stands at critical crossroads",
-            "expansion": "Understanding emerges at life's pivotal decision points and intersections."
-          },
-          {
-            "id": 3,
-            "text": "Wisdom challenges the simple and foolish",
-            "expansion": "True wisdom requires humility and a willingness to transform one's current thinking."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is freely available, why do so many people choose ignorance or foolishness?"
-      },
-      "moral_slider": {
-        "question": "How do human intellect and divine wisdom interact?",
-        "left_label": "Human Reason",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom shifted?",
-        "options": [
-          "I see wisdom as more active and intentional",
-          "I recognize wisdom's universal invitation",
-          "I understand wisdom requires personal transformation",
-          "I view wisdom as a spiritual, not just intellectual, journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As Solomon's poetic philosophical exploration",
           "As a prophetic reference to Christ's divine nature"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 35,
+        "exchange": [
+          {
+            "who": "Wisdom says",
+            "ref": "v. 35",
+            "speaker": "Wisdom"
+          },
+          {
+            "who": "Wisdom says",
+            "ref": "v. 36",
+            "speaker": "Wisdom"
+          }
+        ],
+        "question": "Put yourself in the place of those listening to this warning. What is the difference between the life found in finding wisdom and the harm found in missing it?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "John 1:1-3",
+        "summary": "Wisdom describes herself as a skilled craftsman present during the creation of the heavens and the earth (vv. 22-30). John says the Word was with God in the beginning, and that all things were made through Him (vv. 1-3).",
+        "question": "How does John's description of the Word help you understand the role of Wisdom in the creation of the world?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "to fear the LORD is to hate evil",
+        "feeling": "pride, arrogance",
+        "object": "my own achievements",
+        "behavior": "speaking harshly to others",
+        "step": "choose words that honor truth",
+        "template": "from today I let go of my {feeling:pride, arrogance} over {object:my own achievements} and instead of {behavior:speaking harshly to others}, I will {step:choose words that honor truth}."
       }
     }
   }

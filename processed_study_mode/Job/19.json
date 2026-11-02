@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional dimension of suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling Misunderstood",
-            "expansion": "The profound loneliness of experiencing pain that others cannot comprehend."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Isolation",
-            "expansion": "The existential struggle of feeling abandoned by both human companions and divine presence."
-          },
-          {
-            "id": 3,
-            "text": "Persistent Inner Dignity",
-            "expansion": "Maintaining personal integrity despite overwhelming external criticism and personal suffering."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of justice transform if you recognized that suffering is not always a direct consequence of personal fault?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the boundary between human vulnerability and spiritual resilience?",
-        "left_label": "Human Fragility",
-        "right_label": "Transcendent Hope"
-      },
-      "reevaluation": {
-        "question": "How has contemplating Job's experience shifted your perspective on personal struggle?",
-        "options": [
-          "I recognize suffering as complex and multidimensional",
-          "I am more compassionate toward unexplained pain",
-          "I understand the importance of maintaining inner dignity",
-          "I see human relationships as potentially fraught with misunderstanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual resilience emerges through profound personal trials",
           "Redemption is ultimately guaranteed beyond immediate circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Job says",
+            "ref": "vv. 23-24",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job answers",
+            "ref": "v. 25",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You wish your words were carved in stone so they would last forever. Then you say that you know your Redeemer lives. What does that declaration change about how you see your suffering?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Revelation 21:4",
+        "summary": "Job says that even after his skin is destroyed, in his flesh he will see God (v. 26). Revelation 21:4 says God will wipe away every tear, and there will be no more death or mourning or crying or pain.",
+        "question": "How does Revelation 21:4 help you understand Job's hope to see God in his flesh in verse 26?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "trust",
+        "because": "my Redeemer lives and in the end He will stand upon the earth",
+        "feeling": "hopelessness, despair",
+        "object": "a season of loss",
+        "behavior": "concluding that nothing will change",
+        "step": "say aloud that my Redeemer lives",
+        "template": "from today I entrust my {feeling:hopelessness, despair} about {object:a season of loss} to God and instead of {behavior:concluding that nothing will change}, I will {step:say aloud that my Redeemer lives}."
       }
     }
   }

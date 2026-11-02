@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you about communal holiness?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ritual Purity Matters",
-            "expansion": "Maintaining spiritual cleanliness requires active, intentional separation from sources of contamination."
-          },
-          {
-            "id": 2,
-            "text": "Divine Presence Demands Holiness",
-            "expansion": "God's dwelling among His people necessitates a high standard of collective spiritual hygiene."
-          },
-          {
-            "id": 3,
-            "text": "Community Health Requires Boundaries",
-            "expansion": "Protecting the collective requires sometimes making difficult choices about individual inclusion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If holiness requires separation, how do we balance compassion with necessary boundaries?"
-      },
-      "moral_slider": {
-        "question": "What is the appropriate tension between individual dignity and communal spiritual integrity?",
-        "left_label": "Individual Rights",
-        "right_label": "Communal Holiness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community and spiritual purity shifted?",
-        "options": [
-          "I see more complexity in maintaining group spiritual health",
-          "I recognize the challenges of implementing divine standards",
-          "I understand the importance of protective boundaries",
-          "I'm more aware of the delicate balance between inclusion and separation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As culturally specific historical practices",
           "As metaphorical guidelines for spiritual discipline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The Israelites did this",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the camp of Israel. You hear that people with a skin disease, a discharge, or defilement from a dead body are to be sent outside the camp so they will not defile the camp where the LORD dwells among you. What would you weigh about this, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "2 Corinthians 7:1",
+        "summary": "The LORD commands the guilty to confess and make full restitution (v. 7). Paul instructs believers to cleanse themselves from every defilement of body and spirit.",
+        "question": "How does Paul's call to cleansing help you understand the weight of the confession required in the camp?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "a person must confess the sin he has committed and make full restitution",
+        "feeling": "guilt, shame",
+        "object": "a past mistake",
+        "behavior": "hiding my tracks",
+        "step": "make things right with the person I wronged",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a past mistake} and instead of {behavior:hiding my tracks}, I will {step:make things right with the person I wronged}."
       }
     }
   }

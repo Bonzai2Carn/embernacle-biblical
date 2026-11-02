@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic element most intrigues you about this divine confrontation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereign control over geopolitical forces",
-            "expansion": "Divine intervention transcends human political machinations."
-          },
-          {
-            "id": 2,
-            "text": "The gathering of multiple nations against Israel",
-            "expansion": "Historical conflicts reveal deeper spiritual warfare dynamics."
-          },
-          {
-            "id": 3,
-            "text": "The metaphorical 'hooks in the jaws' of aggressive powers",
-            "expansion": "God mysteriously guides even hostile intentions toward predetermined outcomes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine prophecy reveals predetermined events, what remains of human free will?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's apparent violence with divine mercy?",
-        "left_label": "Divine Judgment",
-        "right_label": "Divine Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic literature shifted?",
-        "options": [
-          "More aware of symbolic language",
-          "Recognize complex geopolitical spiritual dynamics",
-          "Appreciate nuanced biblical interpretations",
-          "Recognize limitations of literal readings"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical narrative demonstrating divine judgment",
           "Progressive revelation of God's ultimate redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 16",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Gog's army. The LORD says He is against you and will bring you against His land. What would you weigh when He says the nations will know Him?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Revelation 20:8-9",
+        "summary": "Gog plans to go up against a land of unwalled villages where people dwell securely (v. 11). Revelation says Gog and Magog are gathered for battle and surround the camp of the saints (Rev 20:8-9).",
+        "question": "How does Revelation 20:8-9 help you understand Gog's plan against a people who dwell securely?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "Gog plans to seize the spoil and carry off the plunder",
+        "feeling": "greed, envy",
+        "object": "a neighbor's possessions",
+        "behavior": "plotting to take what they have",
+        "step": "give something to someone in need",
+        "template": "from today I let go of my {feeling:greed, envy} over {object:a neighbor's possessions} and instead of {behavior:plotting to take what they have}, I will {step:give something to someone in need}."
       }
     }
   }

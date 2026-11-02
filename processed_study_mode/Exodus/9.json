@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine demonstration speaks most powerfully about God's sovereignty?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Selective Destruction of Livestock",
-            "expansion": "God demonstrates precise control by protecting Israelite animals while striking Egyptian herds."
-          },
-          {
-            "id": 2,
-            "text": "Pharaoh's Hardened Heart",
-            "expansion": "Even after devastating plagues, Pharaoh's stubbornness reveals human limitations against divine will."
-          },
-          {
-            "id": 3,
-            "text": "Warning Before Punishment",
-            "expansion": "God's mercy is evident in providing advance warning before executing judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention is so manifest, why do some hearts remain unmoved by overwhelming evidence?"
-      },
-      "moral_slider": {
-        "question": "To what extent is divine judgment an act of justice versus an expression of power?",
-        "left_label": "Pure Retribution",
-        "right_label": "Redemptive Purpose"
-      },
-      "reevaluation": {
-        "question": "How has this chapter reshaped your understanding of divine-human interaction?",
-        "options": [
-          "God's patience is more complex than I previously understood",
-          "Human resistance can be incredibly persistent",
-          "Supernatural interventions have nuanced purposes",
-          "Power manifests differently than I expected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Supernatural plagues represent God's commitment to covenant promises",
           "Each plague incrementally invites human repentance and transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The LORD commands Moses",
+            "ref": "v. 1",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Pharaoh's place, hearing the LORD's command. What would you weigh about letting His people go so that they may worship Him?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Psalm 106:8",
+        "summary": "The LORD says He raised Pharaoh up so that He might display His power and have His name proclaimed (v. 16). Psalm 106:8 says He saved them for the sake of His name, to make His power known.",
+        "question": "How does Psalm 106:8 help you understand the LORD's purpose of making His power known in this chapter?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "some officials feared the word of the LORD and hurried to shelter their livestock",
+        "feeling": "anxiety, dread",
+        "object": "a sudden crisis",
+        "behavior": "ignoring warnings",
+        "step": "act on God's warning today",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a sudden crisis} and instead of {behavior:ignoring warnings}, I will {step:act on God's warning today}."
       }
     }
   }

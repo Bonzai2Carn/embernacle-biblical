@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human vulnerability to idolatry",
-            "expansion": "People often seek tangible symbols of divine presence when feeling uncertain or abandoned."
-          },
-          {
-            "id": 2,
-            "text": "Leadership's moral responsibility",
-            "expansion": "Leaders like Aaron are accountable for guiding people toward righteousness, even under social pressure."
-          },
-          {
-            "id": 3,
-            "text": "Divine anger and mercy",
-            "expansion": "God's initial impulse toward destruction can be transformed by authentic intercession and repentance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What unconscious 'golden calves' might you be constructing in your own life when feeling spiritually uncertain?"
-      },
-      "moral_slider": {
-        "question": "How do personal fears influence collective spiritual decisions?",
-        "left_label": "Fear-Driven Action",
-        "right_label": "Faithful Patience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community changed?",
-        "options": [
-          "I recognize group dynamics can lead to collective moral failure",
-          "Leadership requires moral courage, not just compliance",
-          "Spiritual journeys involve moments of profound weakness and redemption",
-          "Trust is fragile and requires consistent nurturing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The consequences show that collective sin impacts entire community",
           "Divine response highlights the importance of genuine repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses sought the favor of the LORD",
+            "ref": "v. 11",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in Moses's place. The LORD offers to destroy the people and make you a great nation instead. Do you accept the new promise or plead for the people you lead?"
+      },
+      "chain": {
+        "after": 32,
+        "ref": "Psalm 106:19-21",
+        "summary": "Moses pleads for the people after they make a golden calf (v. 32). The Psalmist recounts this same moment to show how the people forgot God's works (vv. 19-21).",
+        "question": "The Psalmist describes the people's failure to remember God's power. How does this help you understand the weight of the sin Moses is addressing?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "the people asked Aaron to make gods who would go before them",
+        "feeling": "shame, guilt",
+        "object": "a mistake I repeated",
+        "behavior": "making excuses for it",
+        "step": "confess it plainly",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a mistake I repeated} into the light and instead of {behavior:making excuses for it}, I will {step:confess it plainly}."
       }
     }
   }

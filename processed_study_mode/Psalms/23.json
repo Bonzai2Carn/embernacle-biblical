@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphor of divine guidance resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Shepherd Leading",
-            "expansion": "God as a compassionate guide who knows exactly what each individual needs"
-          },
-          {
-            "id": 2,
-            "text": "The Prepared Table in Adversity",
-            "expansion": "Divine provision that transcends current circumstances and fears"
-          },
-          {
-            "id": 3,
-            "text": "Dwelling in God's Presence",
-            "expansion": "Eternal communion that transforms temporary suffering into profound peace"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If comfort and protection are guaranteed, what fears might still persist in your innermost self?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine guidance?",
-        "left_label": "Human Control",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual support evolved?",
-        "options": [
-          "More trusting of unseen guidance",
-          "Recognize complexity of spiritual journeys",
-          "Appreciate metaphorical power of spiritual language",
-          "See vulnerability as strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God as a transactional provider",
           "God as a passive observer"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself walking through a valley of shadow, with the LORD as your shepherd. What do you understand about why you would fear no evil?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "John 10:11",
+        "summary": "The psalmist says the LORD is his shepherd, so he shall not want (v. 1). John 10:11 records Jesus saying He is the good shepherd who lays down His life for the sheep.",
+        "question": "How does Jesus calling Himself the good shepherd help you understand the LORD as shepherd in Psalm 23:1?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "the LORD is my shepherd and I shall not want",
+        "feeling": "anxiety, insecurity",
+        "object": "an empty bank account",
+        "behavior": "grasping for more security",
+        "step": "give one thing away this week",
+        "template": "from today I bring You my {feeling:anxiety, insecurity} about {object:an empty bank account} and instead of {behavior:grasping for more security}, I will {step:give one thing away this week}."
       }
     }
   }

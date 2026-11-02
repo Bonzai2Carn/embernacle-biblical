@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's presence is conditional on our faithfulness",
-            "expansion": "Divine relationship requires active, intentional engagement from human participants."
-          },
-          {
-            "id": 2,
-            "text": "Turning back to God restores spiritual momentum",
-            "expansion": "Repentance and recommitment can transform collective and individual spiritual landscapes."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual leadership catalyzes community transformation",
-            "expansion": "Prophetic voices like Azariah can spark systemic renewal when people are receptive."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence is truly responsive to human faithfulness, what does that reveal about the nature of relationship between humanity and the divine?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual disciplines impact communal spiritual health?",
-        "left_label": "Individual Isolation",
-        "right_label": "Collective Renewal"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual commitment evolved?",
-        "options": [
-          "I see faith as more dynamic and interactive",
-          "I recognize the importance of collective spiritual responsibility",
-          "I understand divine presence as conditionally responsive",
-          "I appreciate prophetic leadership's transformative potential"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine blessing is independent of human spiritual conditions",
           "Spiritual renewal requires collective intentionality"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Azariah said",
+            "ref": "vv. 5-6",
+            "speaker": "Azariah"
+          },
+          {
+            "who": "Azariah said",
+            "ref": "v. 7",
+            "speaker": "Azariah"
+          }
+        ],
+        "question": "Put yourself in Asa's place, hearing a prophet describe days when nation was crushed by nation and city by city. Then he says, 'be strong; do not be discouraged, for your work will be rewarded.' What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "James 4:8",
+        "summary": "Azariah tells Asa that the LORD is with them when they are with Him and that seeking Him leads to being found (v. 2). James 4:8 gives a similar promise: draw near to God, and He will draw near to you.",
+        "question": "How does James 4:8 help you understand the relationship between seeking God and His presence in your life?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "devotion",
+        "because": "the people of Judah entered into a covenant to seek the LORD with all their heart and soul",
+        "feeling": "indifference, apathy",
+        "object": "my daily prayer time",
+        "behavior": "going through the motions",
+        "step": "set a specific time to listen",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my daily prayer time} and instead of {behavior:going through the motions}, I will {step:set a specific time to listen}."
       }
     }
   }

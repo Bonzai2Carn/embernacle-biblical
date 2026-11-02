@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme of divine transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's power to deconstruct human strongholds",
-            "expansion": "Divine intervention reveals the transient nature of human pride and fortification."
-          },
-          {
-            "id": "2",
-            "text": "God as refuge for the vulnerable",
-            "expansion": "Strength is redefined through compassion toward the marginalized and oppressed."
-          },
-          {
-            "id": "3",
-            "text": "Prophetic vision of ultimate redemption",
-            "expansion": "God's long-term plan transcends immediate political and social circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In what ways might our perception of destruction be fundamentally different from divine perspective?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of divine intervention?",
-        "options": [
-          "I see God's actions as more nuanced",
-          "My view of divine justice has deepened",
-          "I recognize complexity beyond simple narratives",
-          "I'm more aware of systemic transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's actions reveal a complex interplay between justice and mercy",
           "Prophetic judgments are symbolic representations of spiritual transformations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The people say",
+            "ref": "v. 9",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of those waiting for this day. You hear that He will swallow up death forever, and then you say, 'This is the LORD for whom we have waited.' What do you weigh about your own waiting?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Revelation 21:4",
+        "summary": "Isaiah promises a day when God will wipe away every tear and swallow up death (v. 8). John describes the fulfillment of this promise in the new creation, where death and mourning no longer exist.",
+        "question": "How does seeing the end of death in Revelation help you hold onto the promise of the banquet in Isaiah?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "You have worked wonders, plans formed long ago, in perfect faithfulness",
+        "feeling": "anxiety, doubt",
+        "object": "the uncertainty of my future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His finished work",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:the uncertainty of my future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His finished work}."
       }
     }
   }

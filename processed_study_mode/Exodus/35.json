@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of community devotion resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Voluntary giving",
-            "expansion": "The people's spontaneous offering reveals a heart of genuine spiritual generosity."
-          },
-          {
-            "id": 2,
-            "text": "Sabbath sanctity",
-            "expansion": "The strict observance of rest demonstrates profound respect for divine rhythm and spiritual renewal."
-          },
-          {
-            "id": 3,
-            "text": "Collective purpose",
-            "expansion": "Each individual's unique skill contributes to a unified spiritual construction project."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true worship transform from external ritual to internal transformation?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between individual autonomy and communal spiritual responsibility?",
-        "left_label": "Personal Freedom",
-        "right_label": "Collective Obedience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community and spiritual commitment evolved?",
-        "options": [
-          "Recognize the power of collective intention",
-          "Understand deeper meaning of sacrificial giving",
-          "Appreciate diverse spiritual contributions",
-          "Acknowledge the importance of shared purpose"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine commands override personal willingness",
           "Worship is a collaborative act between God's direction and human response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Moses said",
+            "ref": "v. 2",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the congregation of Israel. You hear that six days may be used for work, and the seventh is a Sabbath of complete rest to the LORD. What does that complete rest ask of you?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "2 Corinthians 9:7",
+        "summary": "The Israelites brought offerings because their hearts were stirred and their spirits prompted them (v. 21). Paul describes the nature of a similar giving in a later letter.",
+        "question": "Paul describes the attitude God desires in a giver. How does this help you understand the motivation of the people bringing their gold and yarn to the Lord?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "devotion",
+        "because": "all the men and women whose hearts prompted them brought a freewill offering",
+        "feeling": "selfishness, greed",
+        "object": "my extra resources",
+        "behavior": "withholding what I can give",
+        "step": "offer what I have with joy",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my extra resources} and instead of {behavior:withholding what I can give}, I will {step:offer what I have with joy}."
       }
     }
   }

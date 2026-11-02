@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Job's perspective in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Job's raw emotional honesty",
-            "expansion": "He refuses to suppress his genuine suffering and questions traditional theological assumptions"
-          },
-          {
-            "id": 2,
-            "text": "The complexity of divine justice",
-            "expansion": "Job challenges the simplistic notion that good always prospers and evil always suffers"
-          },
-          {
-            "id": 3,
-            "text": "Human vulnerability before mysterious divine plans",
-            "expansion": "Job reveals the profound human struggle to comprehend seemingly arbitrary spiritual experiences"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is not a direct punishment, what deeper purpose might it serve in human spiritual development?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile belief in a just God with observed human suffering?",
-        "left_label": "Divine Randomness",
-        "right_label": "Purposeful Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and divine justice shifted?",
-        "options": [
-          "I now see suffering as more complex",
-          "I'm more comfortable with theological uncertainty",
-          "I recognize human limitations in understanding divine plans",
-          "I'm more empathetic toward those experiencing unexplained hardship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -110,6 +71,41 @@
           "Suffering serves a redemptive and transformative purpose",
           "Randomness and human free will contribute to suffering"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Job asks",
+            "ref": "v. 7",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job answers",
+            "ref": "vv. 14-15",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask why the wicked live on and grow in power, and you hear them say to God, \"Leave us alone!\" What would you weigh as you look at their lives?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Ecclesiastes 7:15",
+        "summary": "Job says one man dies full of vigor and at ease while another dies in bitterness (vv. 23-25). Ecclesiastes 7:15 says the speaker has seen a righteous man perishing in his righteousness and a wicked man living long in his wickedness.",
+        "question": "How does Ecclesiastes 7:15 help you weigh what Job says about how different men die?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "exposure",
+        "because": "Job's friends comfort him with empty words, and their answers remain full of falsehood",
+        "feeling": "cynicism, distrust",
+        "object": "a friend's shallow advice",
+        "behavior": "dismissing their heart",
+        "step": "seek truth in the Word",
+        "template": "from today I bring my {feeling:cynicism, distrust} about {object:a friend's shallow advice} into the light and instead of {behavior:dismissing their heart}, I will {step:seek truth in the Word}."
       }
     }
   }

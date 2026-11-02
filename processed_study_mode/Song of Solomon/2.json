@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical image most powerfully represents divine love in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The lily among thorns",
-            "expansion": "Love's beauty remains pure and distinct even in challenging environments."
-          },
-          {
-            "id": 2,
-            "text": "The apple tree among woods",
-            "expansion": "Beloved stands uniquely distinguished from surrounding mundane realities."
-          },
-          {
-            "id": 3,
-            "text": "The banqueting house of love",
-            "expansion": "Intimacy with the divine creates a space of nourishment and celebration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the vulnerability of being 'lovesick' represent a profound spiritual openness rather than weakness?"
-      },
-      "moral_slider": {
-        "question": "To what extent does passionate love reveal spiritual truth?",
-        "left_label": "Purely Physical",
-        "right_label": "Deeply Spiritual"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of love's metaphysical dimensions shifted?",
-        "options": [
-          "Love is more than emotion",
-          "Divine connection transcends literal interpretation",
-          "Intimacy reflects deeper spiritual realities",
-          "Vulnerability is a strength, not weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic dialogue between God and His chosen people",
           "Literal historical narrative of romantic love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "My beloved calls",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "He gives the reason",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one being called. You hear, 'Arise, my darling. Come away with me, my beautiful one,' and then the reason: the winter is past, and the rain is over and gone. What would you weigh as you answer?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 62:5",
+        "summary": "The woman says his banner over her is love (v. 4) and that her beloved is hers and she is his (v. 16). Isaiah 62:5 says that as a bridegroom rejoices over his bride, so your God will rejoice over you.",
+        "question": "How does the picture of a bridegroom rejoicing over his bride in Isaiah 62:5 help you understand the mutual belonging in v. 16?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the little foxes ruin the vineyards",
+        "feeling": "anxiety, irritation",
+        "object": "a small criticism from a friend",
+        "behavior": "nursing a grudge",
+        "step": "address the issue with kindness",
+        "template": "from today I bring You my {feeling:anxiety, irritation} about {object:a small criticism from a friend} and instead of {behavior:nursing a grudge}, I will {step:address the issue with kindness}."
       }
     }
   }

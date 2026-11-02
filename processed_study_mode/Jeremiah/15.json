@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound aspect of divine judgment strikes you most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty transcends historical intercessors",
-            "expansion": "Even legendary figures like Moses cannot alter divine decree in this moment."
-          },
-          {
-            "id": 2,
-            "text": "Judgment comes in multiple devastating forms",
-            "expansion": "Divine correction manifests through sword, famine, death, and captivity."
-          },
-          {
-            "id": 3,
-            "text": "Personal relationship with God can be profoundly complex",
-            "expansion": "Intimate prophetic communication reveals layers of spiritual tension and divine emotion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transformative potential exists within human response?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and divine mercy coexist in moments of national spiritual failure?",
-        "left_label": "Strict Justice",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic ministry evolved?",
-        "options": [
-          "More aware of spiritual complexity",
-          "Recognize divine emotional depth",
-          "Understand prophetic role as uncomfortable truth-telling",
-          "See judgment as potential for spiritual renewal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment reveals the depth of human spiritual rebellion",
           "Intercession has limits when a nation collectively rejects divine mandate"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 1-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the prophet. You hear a message of certain destruction and abandonment, then a sudden promise of intercession. How does this shift change how you view the people you are sent to warn?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Psalm 119:103",
+        "summary": "Jeremiah finds joy and delight in the words of God (v. 16). The Psalmist describes the same experience, finding sweetness in God's commands.",
+        "question": "How does the Psalmist's description of God's words help you understand why Jeremiah would endure such heavy reproach?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "if a person speaks noble words instead of worthless ones, that person becomes the LORD's spokesman",
+        "feeling": "cynicism, bitterness",
+        "object": "a difficult conversation",
+        "behavior": "joining in the gossip",
+        "step": "speak with integrity",
+        "template": "from today I let go of my {feeling:cynicism, bitterness} over {object:a difficult conversation} and instead of {behavior:joining in the gossip}, I will {step:speak with integrity}."
       }
     }
   }

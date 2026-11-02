@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of ritual and devotion resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Consistency of Daily Offerings",
-            "expansion": "Regularity in spiritual practice demonstrates commitment beyond momentary inspiration."
-          },
-          {
-            "id": 2,
-            "text": "Precise Ceremonial Instructions",
-            "expansion": "Detailed guidelines reveal divine care for intentional, structured worship."
-          },
-          {
-            "id": 3,
-            "text": "Symbolic Nature of Sacrificial System",
-            "expansion": "Each offering represents a profound spiritual transaction between humanity and the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual without inner transformation is meaningless, what truly constitutes authentic spiritual devotion?"
-      },
-      "moral_slider": {
-        "question": "How do prescribed religious practices relate to genuine spiritual connection?",
-        "left_label": "External Ritualism",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and offering evolved?",
-        "options": [
-          "I now see ritual as more meaningful",
-          "I recognize the importance of spiritual discipline",
-          "I understand symbolic representation differently",
-          "I appreciate divine instruction more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Sacrificial system prefigures Christ's ultimate atonement",
           "Divine instructions reveal God's desire for intimate relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 3,
+        "ref": "Hebrews 10:1-4",
+        "summary": "Numbers lists the specific, repeated requirements for daily, weekly, and monthly offerings (vv. 3-15). Hebrews explains that these repeated sacrifices could never fully take away sins (v. 4).",
+        "question": "The law requires the same unblemished lambs every single day (v. 3). How does Hebrews 10:1-4 change how you view the repetitive nature of these sacrifices?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "the animals must be unblemished",
+        "feeling": "distraction, carelessness",
+        "object": "my morning prayer",
+        "behavior": "rushing through the words",
+        "step": "sit in silence for one minute",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:my morning prayer} and instead of {behavior:rushing through the words}, I will {step:sit in silence for one minute}."
       }
     }
   }

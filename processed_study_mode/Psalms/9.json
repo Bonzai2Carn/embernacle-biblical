@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's justice resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "God's protection of the oppressed",
-            "expansion": "Divine care for those marginalized by human systems of power."
-          },
-          {
-            "id": "B",
-            "text": "Judgment against wickedness",
-            "expansion": "The inevitable accountability for destructive human actions."
-          },
-          {
-            "id": "C",
-            "text": "Triumph of righteousness",
-            "expansion": "The ultimate victory of moral integrity over systemic corruption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's justice is perfect, why do injustices seem to persist in the world?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine sovereignty interact?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Omnipotence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine justice evolved?",
-        "options": [
-          "More compassionate perspective",
-          "Deeper appreciation of complexity",
-          "Greater sense of personal responsibility",
-          "Increased faith in ultimate redemption"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering can be a pathway to deeper spiritual understanding",
           "Persistent faith transforms personal trials into testimonial opportunities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist says the wicked are erased",
+            "ref": "vv. 5-6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says the LORD abides",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone watching everything around them crumble. What does the permanence of God's throne tell you about the fate of the things that vanish?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 34:1-3",
+        "summary": "The psalmist promises to give thanks with all his heart and recount God's wonders (v. 1). Psalm 34:3 adds a call to magnify the LORD together with others.",
+        "question": "How does the call in Psalm 34:3 to exalt His name together help you understand the thanks the psalmist promises in verse 1?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "the LORD has not forsaken those who seek Him",
+        "feeling": "anxiety, dread",
+        "object": "a season of silence",
+        "behavior": "trying to fix it myself",
+        "step": "seek His face in prayer",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a season of silence} and instead of {behavior:trying to fix it myself}, I will {step:seek His face in prayer}."
       }
     }
   }

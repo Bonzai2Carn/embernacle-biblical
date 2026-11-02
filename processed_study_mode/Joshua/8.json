@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine strategy reveals God's deeper leadership method?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Military Planning",
-            "expansion": "God demonstrates tactical wisdom beyond miraculous intervention"
-          },
-          {
-            "id": 2,
-            "text": "Redemptive Restoration after Failure",
-            "expansion": "Joshua's previous defeat becomes a classroom for strategic transformation"
-          },
-          {
-            "id": 3,
-            "text": "Collective Community Accountability",
-            "expansion": "Success depends on unified obedience and synchronized action"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine strategy challenge human perceptions of conquest and justice?"
-      },
-      "moral_slider": {
-        "question": "How do divine commands intersect with human ethical boundaries?",
-        "left_label": "Individual Moral Autonomy",
-        "right_label": "Divine Directive Supremacy"
-      },
-      "reevaluation": {
-        "question": "How has this narrative reshaped your understanding of spiritual warfare?",
-        "options": [
-          "Recognized complexity of divine interventions",
-          "Understood importance of strategic obedience",
-          "Challenged previous assumptions about biblical conflict",
-          "Appreciated nuanced leadership principles"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Obedience and faith are prerequisites for spiritual breakthrough",
           "Restoration is possible after acknowledging and turning from sin"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "the king of Ai saw the Israelites",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "Joshua and all Israel let themselves be beaten back",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Israelite soldiers as the king of Ai's men rush out. Joshua and all Israel let themselves be beaten back and flee toward the wilderness. What do you understand about why you are running, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Proverbs 3:5-6",
+        "summary": "The LORD tells Joshua to hold out his battle lance toward Ai, for He will deliver the city (v. 18). Proverbs 3:5-6 says to trust in the LORD with all your heart, not to lean on your own understanding, and that He will make your paths straight.",
+        "question": "How does Proverbs 3:5-6 help you understand Joshua holding out his lance because the LORD said to?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "the LORD said do not be afraid or discouraged",
+        "feeling": "anxiety, dread",
+        "object": "a difficult task ahead",
+        "behavior": "withdrawing from the fight",
+        "step": "act on the instruction I have received",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult task ahead} to God and instead of {behavior:withdrawing from the fight}, I will {step:act on the instruction I have received}."
       }
     }
   }

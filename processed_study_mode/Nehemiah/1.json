@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional aspect of Nehemiah's response most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His deep emotional connection to his people's suffering",
-            "expansion": "Nehemiah weeps and mourns upon hearing about Jerusalem's condition, revealing profound empathy and communal identity."
-          },
-          {
-            "id": 2,
-            "text": "His immediate turn to prayer and spiritual reflection",
-            "expansion": "Rather than being paralyzed by despair, Nehemiah immediately seeks divine guidance and intervention."
-          },
-          {
-            "id": 3,
-            "text": "His willingness to take personal responsibility",
-            "expansion": "Nehemiah includes himself in the collective sin and brokenness, not distancing himself from communal failures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal grief and collective healing intersect in moments of national or communal trauma?"
-      },
-      "moral_slider": {
-        "question": "How do individual accountability and systemic restoration relate?",
-        "left_label": "Personal Repentance",
-        "right_label": "Structural Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and compassion shifted?",
-        "options": [
-          "Leadership requires emotional vulnerability",
-          "Prayer is an active form of engagement, not passive resignation",
-          "Communal healing begins with personal acknowledgment",
-          "Empathy precedes effective action"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual restoration must precede physical reconstruction",
           "Empathy is a catalyst for transformative leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Hanani and the men from Judah told Nehemiah",
+            "ref": "v. 3",
+            "speaker": "Hanani and the men from Judah"
+          },
+          {
+            "who": "Nehemiah",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Nehemiah's place. You hear that the wall of Jerusalem is broken down and its gates are burned with fire. What would you weigh first, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Daniel 9:4-19",
+        "summary": "Nehemiah confesses the sins of the Israelites and asks God to hear his prayer (vv. 6-8). Daniel's prayer opens with nearly the same words about God keeping His covenant of loving devotion (Daniel 9:4).",
+        "question": "How does Daniel 9:4-19 help you understand the weight of Nehemiah's prayer in Nehemiah 1:5-9?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "God keeps His covenant of loving devotion with those who love Him",
+        "feeling": "anxiety, dread",
+        "object": "a broken situation",
+        "behavior": "trying to control the outcome",
+        "step": "pray for His mercy",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a broken situation} and instead of {behavior:trying to control the outcome}, I will {step:pray for His mercy}."
       }
     }
   }

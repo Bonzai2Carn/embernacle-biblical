@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core wisdom resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Building vs Destroying",
-            "expansion": "Wisdom constructs life purposefully, while foolishness unconsciously dismantles what matters most."
-          },
-          {
-            "id": "b",
-            "text": "Integrity Before God",
-            "expansion": "True reverence is demonstrated through consistent, principled living rather than merely performative religious acts."
-          },
-          {
-            "id": "c",
-            "text": "Speech Reveals Character",
-            "expansion": "Our words are not merely communication, but windows into our inner spiritual and moral landscape."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If pride is a 'rod' in the fool's mouth, what invisible rods might be silently constructing or destroying your own life's narrative?"
-      },
-      "moral_slider": {
-        "question": "Where do you position personal autonomy relative to divine guidance?",
-        "left_label": "Individual Freedom",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How has this exploration of Proverbs 14 shifted your perspective?",
-        "options": [
-          "I'm more aware of my speech's spiritual significance",
-          "I recognize the long-term consequences of seemingly small choices",
-          "I see wisdom as an active, constructive process",
-          "I'm challenged to examine my internal motivations more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Moral behavior is independent of spiritual growth",
           "Divine grace eliminates the need for personal accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person building a home. What do you understand about the difference between building up and tearing down with your own hands?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "James 1:22",
+        "summary": "Proverbs 14 says the wise woman builds her house, but the foolish one tears it down with her own hands (v. 1). James 1:22 says to be doers of the word and not hearers only, or you deceive yourselves.",
+        "question": "How does James 1:22 help you understand what it means to build your house rather than tear it down?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "pacing",
+        "because": "a quick-tempered man acts foolishly",
+        "feeling": "irritation, impatience",
+        "object": "a delayed reply from a friend",
+        "behavior": "snapping back at once",
+        "step": "wait one full breath before I answer",
+        "template": "from today I set down my {feeling:irritation, impatience} about {object:a delayed reply from a friend} and instead of {behavior:snapping back at once}, I will {step:wait one full breath before I answer}."
       }
     }
   }

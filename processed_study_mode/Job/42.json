@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Job's final response to God?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Total Humility",
-            "expansion": "Job recognizes his human limitations against divine wisdom."
-          },
-          {
-            "id": 2,
-            "text": "Direct Perception of God",
-            "expansion": "Personal encounter transforms intellectual understanding into profound spiritual experience."
-          },
-          {
-            "id": 3,
-            "text": "Acknowledgment of Divine Sovereignty",
-            "expansion": "Job accepts God's ultimate authority beyond human comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might acknowledging one's own ignorance be a pathway to deeper understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the balance between questioning divine purpose and accepting mystery?",
-        "left_label": "Human Reasoning",
-        "right_label": "Divine Mystery"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on suffering and divine providence shifted?",
-        "options": [
-          "More accepting of uncertainty",
-          "Recognize limitations of human understanding",
-          "See suffering as potentially transformative",
-          "Believe in a larger spiritual narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Embracing mystery and submitting to divine perspective",
           "Transforming intellectual knowledge into personal encounter"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Job replied to the LORD",
+            "ref": "v. 3",
+            "speaker": "Job"
+          },
+          {
+            "who": "The LORD said to Eliphaz",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the friends. The LORD says you have not spoken accurately about Him. What would you weigh about the words of Job, whom the LORD calls His servant?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Job admits he spoke of things too wonderful for him to know (v. 3). Isaiah describes how God's thoughts and ways are far above human understanding (vv. 8-9).",
+        "question": "How does Isaiah's description of God's high ways help you understand Job's sudden shift from questioning to repentance?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "surrender",
+        "because": "no plan of Yours can be thwarted",
+        "feeling": "anxiety, fear",
+        "object": "a closed door",
+        "behavior": "trying to force a result",
+        "step": "rest in His sovereignty",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:a closed door} and instead of {behavior:trying to force a result}, I will {step:rest in His sovereignty}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about leadership in spiritual warfare?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Hezekiah's strategic preparation",
-            "expansion": "Leaders anticipate challenges and mobilize collective resources before crisis emerges."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual confidence against overwhelming odds",
-            "expansion": "True resilience comes from understanding divine protection transcends human limitations."
-          },
-          {
-            "id": 3,
-            "text": "Responding to intimidation with wisdom",
-            "expansion": "Psychological warfare can be neutralized through calm, principled leadership."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When external forces threaten your core beliefs, do you fortify your defenses or examine your foundational convictions?"
-      },
-      "moral_slider": {
-        "question": "How do human strategy and divine intervention intersect in confronting existential challenges?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual resilience evolved?",
-        "options": [
-          "I now see preparation as equally important as faith",
-          "Leadership requires both practical and spiritual wisdom",
-          "External threats can actually strengthen internal unity",
-          "Confidence emerges from understanding deeper spiritual realities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual faith supersedes practical military tactics",
           "God's protection is conditional upon faithful leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Hezekiah said",
+            "ref": "v. 7",
+            "speaker": "Hezekiah"
+          },
+          {
+            "who": "Hezekiah said",
+            "ref": "v. 8",
+            "speaker": "Hezekiah"
+          }
+        ],
+        "question": "Put yourself in the place of the people. You hear the king say that a greater One is with you than with the king of Assyria, who has only the arm of flesh. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 20:7",
+        "summary": "Sennacherib asks what is the basis of Jerusalem's confidence (v. 10). Psalm 20:7 says some trust in chariots and others in horses, but we trust in the name of the LORD our God.",
+        "question": "How does Psalm 20:7 help you understand what Jerusalem's confidence rests on (v. 10)?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "repair",
+        "because": "Hezekiah humbled the pride of his heart",
+        "feeling": "self-importance, arrogance",
+        "object": "my recent success",
+        "behavior": "ignoring my need for God",
+        "step": "ask for forgiveness and seek His help",
+        "template": "from today I turn from my {feeling:self-importance, arrogance} toward {object:my recent success} and instead of {behavior:ignoring my need for God}, I will {step:ask for forgiveness and seek His help}."
       }
     }
   }

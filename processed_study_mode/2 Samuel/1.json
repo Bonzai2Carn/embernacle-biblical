@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response in this chapter most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "David's grief over Saul's death",
-            "expansion": "Even after years of persecution, David demonstrates profound respect and compassion."
-          },
-          {
-            "id": 2,
-            "text": "The messenger's potential self-preservation",
-            "expansion": "The Amalekite seems to be positioning himself strategically by bringing news to David."
-          },
-          {
-            "id": 3,
-            "text": "The tragic fall of Israel's first royal dynasty",
-            "expansion": "A powerful kingdom's sudden collapse reveals the fragility of human power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does one maintain personal integrity when surrounded by complex political and relational dynamics?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal loyalty transcend historical conflicts?",
-        "left_label": "Absolute Loyalty to Current Alliances",
-        "right_label": "Honoring Past Relationships"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of leadership and forgiveness?",
-        "options": [
-          "I see leadership as more nuanced",
-          "Forgiveness can exist beyond personal injury",
-          "Political transitions are emotionally complex",
-          "Grief can be a transformative experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintain emotional and spiritual integrity",
           "Seek divine guidance through prayer and reflection"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "David asked",
+            "ref": "v. 14",
+            "speaker": "David"
+          },
+          {
+            "who": "the young man struck him down, and he died",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the young men watching this scene. David asks why the man was not afraid to destroy the LORD's anointed, and then he orders him executed. What do you understand about David's standard for justice?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Proverbs 24:17-18",
+        "summary": "David laments the fall of Saul and warns against letting enemies rejoice in his defeat (v. 20). Proverbs 24:17-18 warns that a heart which rejoices when an enemy stumbles draws the LORD's disapproval.",
+        "question": "How does the warning in Proverbs change how you hear David's words to the streets of Ashkelon?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "exposure",
+        "because": "no one should lift their hand to destroy the LORD's anointed",
+        "feeling": "contempt, anger",
+        "object": "someone in authority",
+        "behavior": "speaking against them",
+        "step": "pray for their protection",
+        "template": "from today I bring my {feeling:contempt, anger} about {object:someone in authority} into the light and instead of {behavior:speaking against them}, I will {step:pray for their protection}."
       }
     }
   }

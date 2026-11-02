@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme most resonates with divine restoration?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "National Restoration",
-            "expansion": "God's commitment to rehabilitate Israel transcends historical suffering and human failure."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Renewal",
-            "expansion": "Internal transformation is more profound than external geographical restoration."
-          },
-          {
-            "id": 3,
-            "text": "Divine Reputation",
-            "expansion": "God's actions ultimately vindicate His own holy name among the nations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is guaranteed, what responsibility remains with the human participants in this redemptive narrative?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human agency intersect in spiritual transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine restoration evolved?",
-        "options": [
-          "More aware of God's persistent love",
-          "Recognize complexity of spiritual renewal",
-          "Understand collective vs. individual redemption",
-          "See beyond literal geographical promises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Israel's renewal prefigures global spiritual transformation",
           "Covenant faithfulness reveals God's transformative power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 22",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 23",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the house of Israel, hearing that God's actions are not for your benefit. How does His focus on His own holy name change how you view His promise to act?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "2 Corinthians 5:17",
+        "summary": "The LORD promises to replace a heart of stone with a heart of flesh (v. 26). Paul describes the result of this transformation in a new creation.",
+        "question": "How does Paul's description of being a new creation help you understand the scale of the change God promises in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "the LORD will remove the heart of stone and give a heart of flesh",
+        "feeling": "indifference, numbness",
+        "object": "the difficult commands in Scripture",
+        "behavior": "ignoring my conscience",
+        "step": "ask for a sensitive heart",
+        "template": "from today I let go of my {feeling:indifference, numbness} over {object:the difficult commands in Scripture} and instead of {behavior:ignoring my conscience}, I will {step:ask for a sensitive heart}."
       }
     }
   }

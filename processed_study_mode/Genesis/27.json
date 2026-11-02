@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic of human nature speaks most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family Manipulation",
-            "expansion": "The intricate web of deception among family members reveals how deeply personal ambition can distort relationships."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence",
-            "expansion": "Despite human scheming, God's prophetic promise to Rebecca about Jacob's destiny remains mysteriously intact."
-          },
-          {
-            "id": 3,
-            "text": "Parental Favoritism",
-            "expansion": "Isaac's preferential love for Esau and Rebecca's strategic support of Jacob expose the destructive potential of unequal parental affection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Can genuine blessing be obtained through deceit, or does the method of obtaining favor fundamentally corrupt its value?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires interact with familial/divine expectations?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Predetermined Destiny"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of familial dynamics shifted after examining this chapter?",
-        "options": [
-          "I see more complexity in family relationships",
-          "Divine plans can work through imperfect human actions",
-          "Deception has profound long-term consequences",
-          "Parental favoritism deeply impacts children's futures"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence works through, not against, human decisions",
           "Theological tension exists between human free will and God's ultimate control"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Jacob said to his father",
+            "ref": "v. 19",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "Isaac asked his son",
+            "ref": "v. 20",
+            "speaker": "Isaac"
+          }
+        ],
+        "question": "Imagine you are Isaac, sitting up to eat. You hear, 'I have done as you told me,' and you ask, 'How did you ever find it so quickly?' What would you still wonder about the one speaking?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Romans 9:10-12",
+        "summary": "Isaac gives Jacob the blessing of dew, grain, and new wine (v. 28). Paul says God's choice came before Rebekah's twins were born, not by works but by Him who calls (Romans 9:10-12).",
+        "question": "How does Paul's explanation of God's purpose help you understand why the blessing went to Jacob despite the deceit?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "if my father touches me, I would be revealed to him as a deceiver",
+        "feeling": "fear, anxiety",
+        "object": "the truth about my actions",
+        "behavior": "hiding my mistakes",
+        "step": "confess them to someone I trust",
+        "template": "from today I bring my {feeling:fear, anxiety} about {object:the truth about my actions} into the light and instead of {behavior:hiding my mistakes}, I will {step:confess them to someone I trust}."
       }
     }
   }

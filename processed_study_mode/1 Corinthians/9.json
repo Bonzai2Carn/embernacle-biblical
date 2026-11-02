@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from Paul's defense of apostolic rights?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Voluntary Renunciation of Rights",
-            "expansion": "Paul demonstrates that spiritual freedom sometimes means choosing limitation for others' benefit."
-          },
-          {
-            "id": 2,
-            "text": "Gospel's Preeminence Over Personal Comfort",
-            "expansion": "Personal privileges are secondary to the mission of spreading Christ's message."
-          },
-          {
-            "id": 3,
-            "text": "Apostolic Authenticity and Independence",
-            "expansion": "Paul assertively defends his calling while simultaneously showing humble servanthood."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If rights are truly valid, why would one choose to not exercise them?"
-      },
-      "moral_slider": {
-        "question": "Between personal freedom and communal responsibility, where do you locate authentic Christian service?",
-        "left_label": "Individual Rights",
-        "right_label": "Communal Sacrifice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian leadership shifted?",
-        "options": [
-          "More aware of servant leadership",
-          "Recognize the complexity of spiritual authority",
-          "Understand voluntary limitations as spiritual strength",
-          "Appreciate the sacrificial nature of ministry"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Negotiate rights based on specific ministry contexts",
           "Prioritize personal comfort and institutional support"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "vv. 11-12",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answers",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Corinthians. Paul argues he has every right to be supported by you, yet he chooses to live without those rights. What does this choice reveal about his true motivation?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Corinthians 10:33",
+        "summary": "Paul explains his method of becoming all things to all people, so that by all possible means he might save some (vv. 22-23). Later in this same letter he describes the same mindset: seeking the good of many so that they may be saved (1 Corinthians 10:33).",
+        "question": "How does 1 Corinthians 10:33 help you understand the purpose behind Paul's willingness to set aside his own preferences?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "Paul disciplines his body and makes it his slave",
+        "feeling": "self-indulgence, laziness",
+        "object": "my morning routine",
+        "behavior": "hitting the snooze button",
+        "step": "wake up at the first alarm",
+        "template": "from today I let go of my {feeling:self-indulgence, laziness} over {object:my morning routine} and instead of {behavior:hitting the snooze button}, I will {step:wake up at the first alarm}."
       }
     }
   }

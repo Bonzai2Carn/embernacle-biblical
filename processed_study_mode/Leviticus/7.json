@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacrificial law resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The precision of ritual details",
-            "expansion": "Sacred practices reveal divine order through meticulous instructions"
-          },
-          {
-            "id": 2,
-            "text": "The symbolic transfer of atonement",
-            "expansion": "Blood and offering represent a profound spiritual transaction beyond physical actions"
-          },
-          {
-            "id": 3,
-            "text": "The role of the priestly intermediary",
-            "expansion": "Spiritual mediation requires specialized understanding and consecrated responsibility"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are so specific about sacrifice, what might that reveal about the nature of human spiritual relationship with the transcendent?"
-      },
-      "moral_slider": {
-        "question": "How do ritualistic practices relate to genuine spiritual transformation?",
-        "left_label": "External Ritual",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacred offerings shifted?",
-        "options": [
-          "More appreciation for symbolic complexity",
-          "Recognized deeper spiritual metaphors",
-          "Understood ritualistic precision differently",
-          "Saw connections between physical and spiritual domains"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The detailed regulations reveal God's desire for intimate, structured relationship with His people",
           "The offerings represent humanity's continuous struggle with sin and need for redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 15",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 18",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one presenting the sacrifice. You have a window of time to enjoy this meal, but a deadline approaches. What happens to the value of your offering when you miss that window?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Psalm 107:21-22",
+        "summary": "The thanksgiving peace offering must be eaten on the day it is offered, with none left until morning (v. 15). Psalm 107 says to give thanks to the LORD for His loving devotion and to offer sacrifices of thanksgiving.",
+        "question": "How does Psalm 107:21-22 help you understand what the thanksgiving offering in Leviticus 7 is for?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "remembrance",
+        "because": "the LORD has given the priests a permanent portion",
+        "feeling": "insecurity, scarcity",
+        "object": "my future needs",
+        "behavior": "hoarding resources",
+        "step": "trust His provision",
+        "template": "from today I let go of my {feeling:insecurity, scarcity} over {object:my future needs} and instead of {behavior:hoarding resources}, I will {step:trust His provision}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective most resonates with your understanding of God's relationship to humanity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as Personal Redeemer",
-            "expansion": "The divine intimacy of being known individually transcends collective identity."
-          },
-          {
-            "id": 2,
-            "text": "Divine Protection Through Trials",
-            "expansion": "Suffering does not define us; God's presence transforms our challenges."
-          },
-          {
-            "id": 3,
-            "text": "Unconditional Sacred Worth",
-            "expansion": "Human value is inherent, bestowed by divine love, not earned through performance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows you by name and claims you as precious, how might that fundamentally alter your perception of self-worth and life's struggles?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human free will?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Determination"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous understanding of divine relationship?",
-        "options": [
-          "I see God as more personally invested",
-          "My view of suffering has shifted",
-          "I recognize my inherent spiritual value",
-          "I'm more aware of divine protection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption is exclusively for a predetermined group",
           "Supernatural deliverance depends on individual spiritual maturity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 18",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 19",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a people looking backward at their history. When God tells you to stop paying attention to the things of old, how does His promise of a new way in the desert change what you look for?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Romans 8:38-39",
+        "summary": "The LORD declares that no Savior exists but Him (v. 11) and that none can deliver out of His hand (v. 13). Romans 8:38-39 says nothing in all creation will be able to separate us from the love of God.",
+        "question": "How does Romans 8:38-39 help you understand the strength of the hand that none can deliver out of?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "remembrance",
+        "because": "the LORD blots out your transgressions for His own sake and remembers your sins no more",
+        "feeling": "shame, guilt",
+        "object": "a past failure",
+        "behavior": "replaying my mistakes",
+        "step": "accept His finished work",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:a past failure} and instead of {behavior:replaying my mistakes}, I will {step:accept His finished work}."
       }
     }
   }

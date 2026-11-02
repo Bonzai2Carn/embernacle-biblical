@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The oppressed have no comforter",
-            "expansion": "Power structures often perpetuate injustice without accountability"
-          },
-          {
-            "id": 2,
-            "text": "Better to have never existed than witness evil",
-            "expansion": "Existential despair can overwhelm the human experience of suffering"
-          },
-          {
-            "id": 3,
-            "text": "Human labor is marked by envy and competition",
-            "expansion": "Our achievements are frequently undermined by our own competitive nature"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human suffering is so prevalent, what transforms mere observation into meaningful action?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine providence with human oppression?",
-        "left_label": "Cosmic Indifference",
-        "right_label": "Purposeful Suffering"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human struggle evolved?",
-        "options": [
-          "Recognize systemic inequalities",
-          "Appreciate individual resilience",
-          "Seek collective solutions",
-          "Embrace compassionate perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering reveals the temporary nature of earthly systems",
           "Divine compassion transcends human oppression and pain"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The Teacher observes",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The Teacher contrasts",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone choosing how to work. You hear that the fool folds his hands and consumes his own flesh, and that one handful with tranquility is better than two handfuls with toil. What would you still wonder about which way of working to take?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Proverbs 14:31",
+        "summary": "The Teacher sees the tears of the oppressed, who have no comforter, while their oppressors hold the power (v. 1). Proverbs says whoever oppresses the poor taunts their Maker, but whoever is kind to the needy honors Him (Proverbs 14:31).",
+        "question": "How does Proverbs 14:31 help you understand the weight of the oppression the Teacher sees in verse 1?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "all labor and success spring from a man's envy of his neighbor",
+        "feeling": "jealousy, discontent",
+        "object": "a neighbor's new house",
+        "behavior": "working harder to outdo them",
+        "step": "thank God for my own portion",
+        "template": "from today I let go of my {feeling:jealousy, discontent} over {object:a neighbor's new house} and instead of {behavior:working harder to outdo them}, I will {step:thank God for my own portion}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine compassion resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's healing power",
-            "expansion": "Divine restoration transcends physical wellness and touches the soul's deepest wounds."
-          },
-          {
-            "id": 2,
-            "text": "Solidarity with the vulnerable",
-            "expansion": "God's profound identification with those who are marginalized reveals His intimate compassion."
-          },
-          {
-            "id": 3,
-            "text": "Faithful support during betrayal",
-            "expansion": "Even when human relationships fail, divine loyalty remains an unshakable anchor."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine compassion transform our understanding of weakness as an opportunity for grace rather than a limitation?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine sovereignty interact?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Protection"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual resilience evolved?",
-        "options": [
-          "Recognize suffering as a pathway to deeper understanding",
-          "Embrace vulnerability as spiritual strength",
-          "Understand divine compassion beyond transactional relationships",
-          "See betrayal as an opportunity for spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Compassionate actions create spiritual immunity from trials",
           "Divine healing is guaranteed for the righteous"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You begin by asking for healing because of your sin, but you end by knowing God delights in you. What changed in your heart between these two moments?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Proverbs 19:17",
+        "summary": "The psalmist says blessed is the one who cares for the poor, and the LORD will deliver him in the day of trouble (v. 1). Proverbs 19:17 says kindness to the poor is a loan to the LORD, and He will repay the lender.",
+        "question": "How does Proverbs 19:17 help you understand the blessing on the one who cares for the poor in verse 1?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "the LORD will deliver the one who cares for the poor in the day of trouble",
+        "feeling": "indifference, apathy",
+        "object": "the needy person in my path",
+        "behavior": "looking the other way",
+        "step": "find one practical way to help",
+        "template": "from today I bring You my {feeling:indifference, apathy} about {object:the needy person in my path} and instead of {behavior:looking the other way}, I will {step:find one practical way to help}."
       }
     }
   }

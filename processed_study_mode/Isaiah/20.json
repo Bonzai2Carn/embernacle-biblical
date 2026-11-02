@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about prophetic symbolism in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine instruction through personal embodiment",
-            "expansion": "The prophet becomes a living metaphor, sacrificing personal comfort to communicate spiritual truth."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability as prophetic communication",
-            "expansion": "Isaiah's nakedness represents spiritual exposure and national humiliation."
-          },
-          {
-            "id": 3,
-            "text": "Geopolitical prophecy through symbolic action",
-            "expansion": "Physical demonstration predicts complex international power shifts and divine judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal discomfort serve a greater communicative purpose beyond individual experience?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal dignity be sacrificed for prophetic witness?",
-        "left_label": "Personal Dignity",
-        "right_label": "Divine Message"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication shifted?",
-        "options": [
-          "More aware of symbolic communication",
-          "Recognize deeper layers of spiritual messaging",
-          "Appreciate prophetic vulnerability",
-          "Understand geopolitical dynamics through spiritual lens"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual cultural communication strategies",
           "Psychological demonstrations of prophetic sensitivity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the captives of Egypt and Cush, led away naked and barefoot. What does this sign, given through Isaiah, tell you about the shame that comes to Egypt?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Ezekiel 4:1-17",
+        "summary": "The LORD has Isaiah go naked and barefoot as a sign and omen against Egypt and Cush (vv. 2-3). In Ezekiel 4 the LORD tells Ezekiel to draw Jerusalem on a brick and besiege it with an iron plate, and says 'This will be a sign to the house of Israel.'",
+        "question": "How does Ezekiel being told to act out a siege as a sign help you understand why Isaiah acted out a sign for three years?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "those who made Cush their hope and Egypt their boast will be dismayed and ashamed",
+        "feeling": "anxiety, fear",
+        "object": "the money I rely on for safety",
+        "behavior": "checking my balance every hour",
+        "step": "rest in God's provision",
+        "template": "from today I bring my {feeling:anxiety, fear} about {object:the money I rely on for safety} into the light and instead of {behavior:checking my balance every hour}, I will {step:rest in God's provision}."
       }
     }
   }

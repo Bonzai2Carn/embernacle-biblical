@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual transformation most resonates with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Divine Anger Transformed to Comfort",
-            "expansion": "God's discipline can ultimately lead to profound spiritual healing and reconciliation."
-          },
-          {
-            "id": "b",
-            "text": "Trust Overcoming Fear",
-            "expansion": "Personal faith becomes a powerful antidote to existential anxiety and uncertainty."
-          },
-          {
-            "id": "c",
-            "text": "Personal Testimony as Worship",
-            "expansion": "Sharing God's personal interventions becomes a form of communal spiritual witness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of divine anger change if you viewed it as a pathway to deeper intimacy rather than punishment?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal vulnerability with spiritual confidence?",
-        "left_label": "Vulnerability",
-        "right_label": "Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal redemption evolved?",
-        "options": [
-          "I now see suffering as potentially transformative",
-          "My view of divine mercy has deepened",
-          "I recognize the power of personal testimony",
-          "I understand worship as active engagement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine anger represents a permanent relational rupture",
           "Discipline is a manifestation of God's parental care and restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The people say",
+            "ref": "v. 1",
+            "speaker": "The people"
+          },
+          {
+            "who": "The people declare",
+            "ref": "v. 2",
+            "speaker": "Israel/Judah"
+          }
+        ],
+        "question": "Put yourself in the place of the people. You are facing the reality of God's anger, yet you find comfort. What does this turn from anger to comfort tell you about the nature of the God you are praising?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 30:5",
+        "summary": "The people say that God's anger has turned away and He has comforted them (v. 1). Psalm 30:5 says His anger is fleeting, but His favor lasts a lifetime.",
+        "question": "How does Psalm 30:5 help you understand the comfort that follows God's anger in Isaiah 12?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "trust",
+        "because": "the LORD GOD is my strength and my song",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "relying on my own power",
+        "step": "sing a song of praise",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:relying on my own power}, I will {step:sing a song of praise}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Humility through Wilderness",
-            "expansion": "God intentionally creates circumstances that strip away self-sufficiency to reveal true character."
-          },
-          {
-            "id": 2,
-            "text": "Remembrance as Spiritual Discipline",
-            "expansion": "Deliberate recollection of God's past faithfulness protects against future spiritual amnesia."
-          },
-          {
-            "id": 3,
-            "text": "Testing as Transformational Process",
-            "expansion": "Trials are not punishments but opportunities for spiritual refinement and deeper trust."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows everything, why would He need to 'test' human hearts?"
-      },
-      "moral_slider": {
-        "question": "How do divine provision and human responsibility interact?",
-        "left_label": "God's Complete Sovereignty",
-        "right_label": "Human Free Will"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual growth?",
-        "options": [
-          "I see trials differently now",
-          "My view of God's character has shifted",
-          "I recognize my own spiritual patterns more clearly",
-          "I'm more aware of my need for humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Trials measure genuine faith commitment",
           "Suffering produces spiritual resilience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "You might say in your heart",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "But remember that it is the LORD your God who gives you the power to gain wealth",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person who has finally achieved success. When you look at your achievements, how does the LORD's reminder change how you view your own strength?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Matthew 4:4",
+        "summary": "The LORD fed Israel manna in the wilderness to teach that man lives by every word from His mouth (v. 3). Jesus answers with this same truth from Scripture (Matthew 4:4).",
+        "question": "How does Jesus' use of this verse help you understand why the LORD chose hunger as a teacher for His people?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "when you are full and prosperous, your heart will become proud and you will forget the LORD your God",
+        "feeling": "self-importance, arrogance",
+        "object": "my recent successes",
+        "behavior": "taking all the credit",
+        "step": "thank God for His provision",
+        "template": "from today I let go of my {feeling:self-importance, arrogance} over {object:my recent successes} and instead of {behavior:taking all the credit}, I will {step:thank God for His provision}."
       }
     }
   }

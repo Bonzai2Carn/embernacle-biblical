@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment Against Pride",
-            "expansion": "Tyre's arrogant declaration reveals how human hubris can provoke profound spiritual consequences."
-          },
-          {
-            "id": 2,
-            "text": "Geopolitical Prophecy",
-            "expansion": "God's sovereignty transcends human political boundaries and national ambitions."
-          },
-          {
-            "id": 3,
-            "text": "Collective Accountability",
-            "expansion": "Nations can be held spiritually responsible for their collective attitudes and actions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When a civilization believes itself invincible, what invisible forces might be already orchestrating its potential downfall?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and human political dynamics intersect?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic judgment evolved?",
-        "options": [
-          "More nuanced view of spiritual consequences",
-          "Greater appreciation for historical prophetic insights",
-          "Deeper understanding of geopolitical spiritual dynamics",
-          "Recognition of collective moral responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic predictions validate God's sovereign control",
           "Collective punishment demonstrates the communal nature of sin"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Tyre said",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people of Tyre. You said 'Aha!' when Jerusalem lay in ruins and said 'I will be filled.' Now you hear, 'I am against you.' What would you weigh about what you said?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Obadiah 1:12-13",
+        "summary": "Tyre says 'Aha!' over Jerusalem in ruins and says 'I will be filled' (v. 2). Obadiah says not to gloat in a brother's day of misfortune, and not to loot his wealth in the day of his disaster.",
+        "question": "How does Obadiah 1:12-13 help you understand what Tyre said about Jerusalem?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "exposure",
+        "because": "Tyre said of Jerusalem, 'Aha! The gate to the nations is broken'",
+        "feeling": "schadenfreude, pride",
+        "object": "a neighbor's struggle",
+        "behavior": "celebrating their loss",
+        "step": "pray for their restoration",
+        "template": "from today I bring my {feeling:schadenfreude, pride} about {object:a neighbor's struggle} into the light and instead of {behavior:celebrating their loss}, I will {step:pray for their restoration}."
       }
     }
   }

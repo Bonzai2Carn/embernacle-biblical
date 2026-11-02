@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Purifying Personal Space",
-            "expansion": "Removing foreign gods represents intentional spiritual cleansing and commitment."
-          },
-          {
-            "id": 2,
-            "text": "Responding to Divine Invitation",
-            "expansion": "Jacob's willingness to move and rebuild his relationship with God demonstrates spiritual receptivity."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Legacy",
-            "expansion": "The transmission of covenant promises across generations reveals God's persistent faithfulness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal attachments and unresolved histories potentially obstruct your spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do personal accountability and divine grace intersect in spiritual transformation?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of spiritual renewal?",
-        "options": [
-          "Spiritual transformation requires intentional preparation",
-          "God's promises transcend human limitations",
-          "Personal history does not determine future spiritual potential",
-          "Renewal often emerges from moments of vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Comprehensive household leadership in spiritual matters",
           "Radical trust in God's protective providence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jacob told his household",
+            "ref": "v. 2",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "they gave Jacob all their foreign gods",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Jacob's household. You are told to get rid of your foreign gods. What do you weigh before you hand over all your gods and earrings?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "2 Corinthians 5:17",
+        "summary": "God renames Jacob to Israel to mark a new identity (v. 10). Paul says that anyone in Christ is a new creation (2 Corinthians 5:17).",
+        "question": "How does the change in Jacob's name help you understand the nature of being a new creation?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "Jacob told his household to get rid of the foreign gods",
+        "feeling": "attachment, greed",
+        "object": "things I rely on for security",
+        "behavior": "clinging to old comforts",
+        "step": "remove one distraction from my space",
+        "template": "from today I let go of my {feeling:attachment, greed} over {object:things I rely on for security} and instead of {behavior:clinging to old comforts}, I will {step:remove one distraction from my space}."
       }
     }
   }

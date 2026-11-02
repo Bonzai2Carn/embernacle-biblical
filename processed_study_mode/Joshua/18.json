@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual inheritance resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Proactive Land Claiming",
-            "expansion": "Individual tribes must take personal initiative in receiving God's promised territories."
-          },
-          {
-            "id": 2,
-            "text": "Joshua's Leadership Challenge",
-            "expansion": "Leaders must sometimes confront collective spiritual lethargy and motivate action."
-          },
-          {
-            "id": 3,
-            "text": "Divine Inheritance Readiness",
-            "expansion": "God's promises await purposeful engagement, not passive waiting."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What internal resistances prevent you from fully claiming the 'promised land' God has prepared for your life?"
-      },
-      "moral_slider": {
-        "question": "How do divine promises intersect with human responsibility?",
-        "left_label": "Passive Waiting",
-        "right_label": "Active Claiming"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual inheritance?",
-        "options": [
-          "I now see divine promises require personal action",
-          "Leadership plays a crucial role in spiritual momentum",
-          "Collective hesitation can delay individual breakthrough",
-          "God's promises are contingent on faithful engagement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Inheritance is a collaborative process between God and believers",
           "Territorial promises are exclusively metaphorical"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Joshua said to the Israelites",
+            "ref": "v. 3",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The men departed and went throughout the land, mapping it city by city",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites who have not yet received their inheritance. You hear Joshua challenge your delay. What makes you move from waiting to surveying the land?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Deuteronomy 1:21",
+        "summary": "Joshua reminds the tribes that the land is already given to them (v. 3). Moses had previously commanded the people to go up and take possession of the land because the LORD had given it to them (Deuteronomy 1:21).",
+        "question": "How does knowing the land is already a gift change the way you view the work of mapping it out?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the LORD, the God of your fathers, has given you the land",
+        "feeling": "anxiety, hesitation",
+        "object": "a new responsibility",
+        "behavior": "stalling my progress",
+        "step": "take the first step toward possession",
+        "template": "from today I let go of my {feeling:anxiety, hesitation} over {object:a new responsibility} and instead of {behavior:stalling my progress}, I will {step:take the first step toward possession}."
       }
     }
   }

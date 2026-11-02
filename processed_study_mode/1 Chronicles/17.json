@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": "divine_initiative",
-            "text": "God's sovereign planning transcends human expectations",
-            "expansion": "Divine purposes often emerge beyond immediate human strategies or desires."
-          },
-          {
-            "id": "covenant_faithfulness",
-            "text": "God's promise extends through generations",
-            "expansion": "Relational covenants with God are not transactional, but transformational and enduring."
-          },
-          {
-            "id": "humility_before_divine_will",
-            "text": "Human ambitions must submit to divine blueprints",
-            "expansion": "True spiritual maturity recognizes limitations and celebrates God's broader narrative."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God declines your most passionate personal project, might that refusal itself be a profound blessing?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal vision with divine guidance?",
-        "left_label": "Personal Ambition",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication shifted?",
-        "options": [
-          "I see prophecy as more dynamic",
-          "Personal desires don't equal divine mandate",
-          "God's plans are multilayered",
-          "Spiritual leadership requires deep listening"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership requires humility and responsiveness to God's guidance",
           "Covenant promises are more important than ceremonial constructions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in David's place. You intended to build a house for God, but He tells you that you will not build it. Instead, He promises to build a house for you. How does this shift in focus change how you view your own plans?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "2 Samuel 7:8-16",
+        "summary": "The LORD says David's descendant will build a house for Him and that He will establish his throne forever (v. 12). 2 Samuel 7:14-15 adds that the LORD will be his Father, will discipline him when he does wrong, and will never remove His loving devotion from him.",
+        "question": "How does 2 Samuel 7:14-15 help you understand what the LORD means by a throne established forever?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "remembrance",
+        "because": "David asked who he was that God had brought him this far",
+        "feeling": "unworthiness, shame",
+        "object": "my past failures",
+        "behavior": "dwelling on my mistakes",
+        "step": "thank Him for His faithfulness",
+        "template": "from today I let go of my {feeling:unworthiness, shame} over {object:my past failures} and instead of {behavior:dwelling on my mistakes}, I will {step:thank Him for His faithfulness}."
       }
     }
   }

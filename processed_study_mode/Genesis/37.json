@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic in family relationships strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Favoritism's destructive power",
-            "expansion": "Parental preferential treatment can seed profound relational trauma and sibling resentment."
-          },
-          {
-            "id": 2,
-            "text": "The vulnerability of youth",
-            "expansion": "Young people are often subject to complex family dynamics beyond their control or understanding."
-          },
-          {
-            "id": 3,
-            "text": "Envy's transformative potential",
-            "expansion": "Unchecked jealousy can lead humans to profound moral compromise."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might Joseph's dreams of superiority contribute to his brothers' eventual betrayal, and what responsibility does the dreamer bear for provoking others' reactions?"
-      },
-      "moral_slider": {
-        "question": "To what extent is familial loyalty conditional?",
-        "left_label": "Unconditional Love",
-        "right_label": "Transactional Relationships"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of family dynamics shifted?",
-        "options": [
-          "I recognize complexity in sibling relationships",
-          "Parental favoritism has deeper psychological impacts than I realized",
-          "Individual narratives are more nuanced than simple good/bad binaries",
-          "Family conflicts often emerge from unresolved emotional patterns"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine plans emerge through human decisions, not despite them",
           "Individuals are mere instruments without personal agency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Joseph's brothers said",
+            "ref": "v. 20",
+            "speaker": "Joseph's Brothers"
+          },
+          {
+            "who": "Reuben said",
+            "ref": "v. 21",
+            "speaker": "Reuben"
+          }
+        ],
+        "question": "Put yourself in Reuben's place. You hear a plan to murder your brother. What do you weigh when you choose to save his life but let him be cast into a pit?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Genesis 50:20",
+        "summary": "The brothers sell Joseph to the Ishmaelites for twenty shekels of silver (v. 28). Later, Joseph tells them God intended for good what they intended for evil, to preserve many lives (Genesis 50:20).",
+        "question": "How does Joseph's later realization help you understand the brothers' decision in the pit?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "they hated him and could not speak a kind word to him",
+        "feeling": "bitterness, resentment",
+        "object": "someone else's favor",
+        "behavior": "offering harsh words",
+        "step": "speak with kindness",
+        "template": "from today I bring my {feeling:bitterness, resentment} about {object:someone else's favor} into the light and instead of {behavior:offering harsh words}, I will {step:speak with kindness}."
       }
     }
   }

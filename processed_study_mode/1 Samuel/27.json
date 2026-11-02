@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which psychological dynamic most resonates with David's decision to flee to the Philistines?",
-        "choices": [
-          {
-            "id": "fear",
-            "text": "Survival through strategic retreat",
-            "expansion": "David perceives Saul's persistent threat as potentially terminal, choosing pragmatic self-preservation."
-          },
-          {
-            "id": "strategy",
-            "text": "Calculated political maneuvering",
-            "expansion": "David uses his relocation as a geopolitical chess move to disrupt Saul's pursuit and create strategic distance."
-          },
-          {
-            "id": "faith",
-            "text": "Momentary wavering of divine trust",
-            "expansion": "Despite previous prophetic assurances, David momentarily defaults to human reasoning instead of spiritual confidence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does strategic survival become a compromise of one's spiritual integrity?"
-      },
-      "moral_slider": {
-        "question": "How does one balance personal safety with maintaining moral and spiritual principles?",
-        "left_label": "Self-Preservation",
-        "right_label": "Spiritual Conviction"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on David's decision change after deeper reflection?",
-        "options": [
-          "I see it as a moment of human weakness",
-          "I recognize the complexity of survival under persecution",
-          "I appreciate the nuanced political navigation",
-          "I'm more sympathetic to David's psychological state"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The narrative reveals the complexity of faith during persecution",
           "David strategically positioned himself for future leadership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "David said to himself",
+            "ref": "v. 1",
+            "speaker": "David"
+          },
+          {
+            "who": "David set out",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. You tell yourself that one of these days you will be swept away by the hand of Saul, and that nothing is better than escaping to the land of the Philistines. Then you set out with your six hundred men to Achish king of Gath. What would you weigh as you set out?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 56:3-4",
+        "summary": "David tells himself that one of these days he will be swept away by the hand of Saul, and he plans to escape to the land of the Philistines (v. 1). Psalm 56:3-4 says, 'When I am afraid, I put my trust in You,' and asks, 'What can man do to me?'",
+        "question": "How does Psalm 56:3-4 help you weigh what David says to himself in verse 1?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "surrender",
+        "because": "one of these days I will be swept away by the hand of Saul",
+        "feeling": "anxiety, dread",
+        "object": "a threat from a superior",
+        "behavior": "making plans to escape",
+        "step": "rest in God's protection",
+        "template": "from today I release my {feeling:anxiety, dread} over {object:a threat from a superior} and instead of {behavior:making plans to escape}, I will {step:rest in God's protection}."
       }
     }
   }

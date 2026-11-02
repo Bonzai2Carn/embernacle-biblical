@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most resonates about national destiny?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment transcends human military strategy",
-            "expansion": "God's sovereignty operates beyond human political and military calculations."
-          },
-          {
-            "id": 2,
-            "text": "Nations rise and fall according to spiritual alignment",
-            "expansion": "Collective spiritual posture determines a nation's ultimate trajectory."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic warnings are invitations to transformation",
-            "expansion": "Prophecy functions not just as prediction, but as a call to collective repentance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what space remains for human agency and moral responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do national hubris and divine accountability interact?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic narrative shifted?",
-        "options": [
-          "Recognize complexity of geopolitical spiritual dynamics",
-          "Understand prophecy as interpretive lens, not mere prediction",
-          "Appreciate nuanced relationship between human choice and divine plan",
-          "Recognize cosmic scale of spiritual conflict"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As conditional prophecies dependent on national repentance",
           "As metaphorical narratives demonstrating God's ultimate sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 24",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 27",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of Jacob, the LORD's servant. You hear that the Daughter of Egypt will be put to shame, and then you hear, do not be afraid. What would you weigh about that command?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Proverbs 21:1",
+        "summary": "The LORD says He will deliver Pharaoh and Egypt into the hands of Nebuchadnezzar and his officers (v. 26). Proverbs 21:1 says the king's heart is a waterway in the LORD's hand, and He directs it where He pleases.",
+        "question": "How does Proverbs 21:1 help you understand how the LORD directs the kings in this chapter?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "trust",
+        "because": "the LORD will surely save Jacob out of a distant place",
+        "feeling": "dread, dismay",
+        "object": "a looming threat",
+        "behavior": "bracing for the worst alone",
+        "step": "rest in His promise to save me",
+        "template": "from today I entrust my {feeling:dread, dismay} about {object:a looming threat} to God and instead of {behavior:bracing for the worst alone}, I will {step:rest in His promise to save me}."
       }
     }
   }

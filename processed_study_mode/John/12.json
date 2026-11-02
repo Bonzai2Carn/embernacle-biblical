@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound moment most reveals Jesus' character in this chapter?",
-        "choices": [
-          {
-            "id": "mary_anointing",
-            "text": "Mary's extravagant worship",
-            "expansion": "Sacrificial love transcends practical economics and social expectations."
-          },
-          {
-            "id": "jesus_prophecy",
-            "text": "Jesus predicting His death",
-            "expansion": "Spiritual awareness and purposeful surrender demonstrate divine intentionality."
-          },
-          {
-            "id": "crowd_response",
-            "text": "The mixed reactions to Jesus",
-            "expansion": "Humanity's complexity in responding to transformative spiritual encounters."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true worship requires total surrender, what 'costly perfume' are you withholding from your spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and divine purpose intersect in suffering?",
-        "left_label": "Personal Preservation",
-        "right_label": "Sacrificial Mission"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of discipleship?",
-        "options": [
-          "Recognized deeper meaning of sacrifice",
-          "Questioned my own spiritual motivations",
-          "Saw vulnerability as strength",
-          "Understood faith beyond logical reasoning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual kingdom supersedes political liberation",
           "Redemption requires voluntary submission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 24",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 25",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a disciple hearing this. How does the image of a dying seed change how you view the cost of following Him?"
+      },
+      "chain": {
+        "after": 32,
+        "ref": "Isaiah 53:5",
+        "summary": "Jesus says that when He is lifted up from the earth, He will draw everyone to Himself (v. 32). Isaiah says a servant was pierced for our transgressions and crushed for our iniquities, and by His stripes we are healed.",
+        "question": "How does Isaiah 53:5 help you understand what it means that Jesus will draw everyone to Himself when He is lifted up?"
+      },
+      "conviction": {
+        "verse": 43,
+        "frame": "exposure",
+        "because": "they loved praise from men more than praise from God",
+        "feeling": "insecurity, pride",
+        "object": "the opinions of my peers",
+        "behavior": "seeking constant validation",
+        "step": "seek only God's approval",
+        "template": "from today I bring my {feeling:insecurity, pride} about {object:the opinions of my peers} into the light and instead of {behavior:seeking constant validation}, I will {step:seek only God's approval}."
       }
     }
   }

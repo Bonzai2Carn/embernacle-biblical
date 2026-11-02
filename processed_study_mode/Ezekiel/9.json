@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological idea most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment is Precise",
-            "expansion": "God marks and distinguishes those who grieve over societal corruption from those who participate in it."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Accountability is Individual",
-            "expansion": "Each person is evaluated by their own spiritual integrity, not collective identity."
-          },
-          {
-            "id": 3,
-            "text": "God's Mercy Coexists with Judgment",
-            "expansion": "Even in severe punishment, God preserves a remnant marked by spiritual sensitivity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is selective and marked by an invisible sign, what does this reveal about the nature of spiritual discernment?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's compassion with His capacity for judgment?",
-        "left_label": "Divine Mercy",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of divine intervention?",
-        "options": [
-          "I see judgment as more nuanced",
-          "I recognize individual spiritual responsibility",
-          "I understand God's actions are complex",
-          "I'm more aware of spiritual sensitivity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment demonstrates His ultimate commitment to righteousness",
           "Judgment reveals the consequences of persistent, unrepentant sin"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Ezekiel cried out",
+            "ref": "v. 8",
+            "speaker": "Ezekiel"
+          },
+          {
+            "who": "The LORD replied",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Ezekiel's place. You ask whether the entire remnant of Israel will be destroyed. What does the LORD's answer, that the iniquity is exceedingly great, reveal about why the judgment is so heavy?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Revelation 7:3",
+        "summary": "In Ezekiel, a man in linen marks those who grieve over the city's sins (v. 4). In Revelation, an angel places a seal on those who belong to God.",
+        "question": "How does the purpose of the mark in Revelation help you understand the purpose of the mark in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "the Lord puts a mark on the foreheads of the men sighing and groaning over all the abominations",
+        "feeling": "indifference, numbness",
+        "object": "the wrongs in my community",
+        "behavior": "ignoring the pain of others",
+        "step": "pray for those who suffer",
+        "template": "from today I bring my {feeling:indifference, numbness} about {object:the wrongs in my community} into the light and instead of {behavior:ignoring the pain of others}, I will {step:pray for those who suffer}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of judgment most challenges your current perspective?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Self-Awareness",
-            "expansion": "Recognizing personal flaws before critiquing others requires profound humility."
-          },
-          {
-            "id": 2,
-            "text": "Standard of Measurement",
-            "expansion": "The metrics by which we evaluate others will ultimately be applied to ourselves."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Blindness",
-            "expansion": "Our own unresolved issues can dramatically distort how we perceive others' minor faults."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What internal wounds might be driving your impulse to identify and criticize others' imperfections?"
-      },
-      "moral_slider": {
-        "question": "How do you balance discernment and judgment in relationships?",
-        "left_label": "Critical Analysis",
-        "right_label": "Compassionate Understanding"
-      },
-      "reevaluation": {
-        "question": "How might your approach to perceiving others' shortcomings have transformed?",
-        "options": [
-          "I'm more self-reflective",
-          "I practice greater empathy",
-          "I recognize my own limitations",
-          "I seek understanding before critique"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By first addressing personal spiritual blind spots",
           "With a posture of grace and redemptive restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jesus asks",
+            "ref": "v. 3",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus answers",
+            "ref": "v. 5",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the one Jesus describes, looking at the speck in a brother's eye while a beam is in your own. What would you understand from His answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Galatians 6:2",
+        "summary": "Jesus says to do to others as you would have them do to you, for this is the essence of the Law and the Prophets (v. 12). Paul says to carry one another's burdens, and in this way you will fulfill the law of Christ (Galatians 6:2).",
+        "question": "How does Galatians 6:2 help you understand what it looks like to fulfill the law Jesus describes in verse 12?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock",
+        "feeling": "anxiety, fear",
+        "object": "a sudden change in my circumstances",
+        "behavior": "relying on my own strength",
+        "step": "obey the last command I read",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a sudden change in my circumstances} and instead of {behavior:relying on my own strength}, I will {step:obey the last command I read}."
       }
     }
   }

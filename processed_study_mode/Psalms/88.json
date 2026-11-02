@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual suffering resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Persistent Divine Silence",
-            "expansion": "The profound experience of feeling abandoned by God despite continuous prayer."
-          },
-          {
-            "id": 2,
-            "text": "Deep Personal Lament",
-            "expansion": "The raw, unfiltered expression of emotional and spiritual despair."
-          },
-          {
-            "id": 3,
-            "text": "Proximity of Death",
-            "expansion": "The psychological and spiritual wrestle with mortality and potential divine judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prayer feels unanswered, does silence represent rejection or a deeper, unknowable divine process?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile personal suffering with divine love?",
-        "left_label": "Profound Suffering",
-        "right_label": "Unwavering Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Recognized complexity of faith",
-          "Understood vulnerability as strength",
-          "Embraced unanswered questions",
-          "Developed deeper empathy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine silence does not negate God's ultimate presence",
           "Emotional honesty is a valid form of spiritual communication"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who asks whether Your wonders can be known in the darkness. Then you cry for help, and your prayer comes before Him in the morning. What do you weigh more heavily: the darkness, or the prayer you bring?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalm 22:1-2",
+        "summary": "The psalmist in Psalm 88 asks why God hides His face (v. 14). Psalm 22:1-2 asks why God has forsaken the speaker and why He does not answer his cries by day or by night.",
+        "question": "How does Psalm 22:1-2 help you understand the psalmist's cry in verse 14?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "the God of my salvation is the one I cry out to day and night",
+        "feeling": "loneliness, abandonment",
+        "object": "a season of silence",
+        "behavior": "withdrawing from prayer",
+        "step": "cry out to Him anyway",
+        "template": "from today I bring You my {feeling:loneliness, abandonment} about {object:a season of silence} and instead of {behavior:withdrawing from prayer}, I will {step:cry out to Him anyway}."
       }
     }
   }

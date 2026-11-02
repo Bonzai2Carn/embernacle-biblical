@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine relationship resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Patient Complaint",
-            "expansion": "Divine longing reveals a relational God who seeks understanding beyond mere transaction."
-          },
-          {
-            "id": 2,
-            "text": "Historical Redemption Narrative",
-            "expansion": "The liberation from Egypt symbolizes ongoing divine intervention in human struggles."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Accountability",
-            "expansion": "Relationship with God demands active moral responsiveness, not passive ritual."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God were to present a legal case against your spiritual complacency, what evidence would compel your deepest reflection?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine grace with human responsibility?",
-        "left_label": "Unconditional Mercy",
-        "right_label": "Strict Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant transformed?",
-        "options": [
-          "From transactional to relational",
-          "From ritualistic to authentic",
-          "From passive to active engagement",
-          "From external compliance to internal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moral justice and humble walk with God are primary forms of worship",
           "Sacrificial offerings are the ultimate expression of spiritual devotion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The man asks",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one asking, With what shall I come before the LORD? You name burnt offerings, thousands of rams, even your firstborn, and then hear, He has shown you what is good. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Matthew 23:23",
+        "summary": "The LORD answers the man: act justly, love mercy, and walk humbly with your God (v. 8). Jesus says the leaders have disregarded the weightier matters of the law: justice, mercy, and faithfulness (Matthew 23:23).",
+        "question": "How does Matthew 23:23 help you understand what God requires in Micah 6:8?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "the LORD requires a person to act justly, to love mercy, and to walk humbly with his God",
+        "feeling": "indifference, coldness",
+        "object": "someone who has wronged me",
+        "behavior": "seeking my own advantage",
+        "step": "show kindness in a small way",
+        "template": "from today I let go of my {feeling:indifference, coldness} over {object:someone who has wronged me} and instead of {behavior:seeking my own advantage}, I will {step:show kindness in a small way}."
       }
     }
   }

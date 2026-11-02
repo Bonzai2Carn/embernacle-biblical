@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Satan's temporary binding",
-            "expansion": "The cosmic restraint of evil demonstrates God's ultimate control over spiritual forces."
-          },
-          {
-            "id": 2,
-            "text": "The millennial reign",
-            "expansion": "A prophetic vision of Christ's total sovereignty and restorative justice."
-          },
-          {
-            "id": 3,
-            "text": "The final judgment",
-            "expansion": "The moment when every human action is measured against divine righteousness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is perfect, what role does human understanding play in comprehending spiritual consequences?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the tension between divine mercy and divine judgment?",
-        "left_label": "Mercy",
-        "right_label": "Judgment"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual warfare evolved?",
-        "options": [
-          "More aware of cosmic spiritual dynamics",
-          "Recognize complexity of good vs. evil",
-          "Understand divine sovereignty differently",
-          "See personal spiritual responsibility more clearly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Allegorical: Describing the current church age",
           "Futurist: A prophetic event yet to occur in linear time"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "An angel seizes the dragon and binds him",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The angel throws him into the Abyss and seals it",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are John, watching the angel bind the dragon for a thousand years and throw him into the Abyss, shut and sealed over him. What would you understand about what the seal is meant to stop?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Genesis 3:15",
+        "summary": "The dragon is the ancient serpent (v. 2), and he is thrown into the lake of fire (v. 10). In Genesis 3:15, God says there will be enmity between the serpent and the woman, and that her seed 'will crush your head.'",
+        "question": "How does the promise in Genesis 3:15 that the serpent's head will be crushed help you understand the end of the dragon in v. 10?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "remembrance",
+        "because": "if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire",
+        "feeling": "anxiety, fear",
+        "object": "my standing before God",
+        "behavior": "trying to earn my way",
+        "step": "rest in His written record",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:my standing before God} and instead of {behavior:trying to earn my way}, I will {step:rest in His written record}."
       }
     }
   }

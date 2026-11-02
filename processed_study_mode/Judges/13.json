@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine communication resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unexpected divine intervention",
-            "expansion": "God breaks through human limitations to fulfill a greater purpose."
-          },
-          {
-            "id": 2,
-            "text": "Miraculous pregnancy promise",
-            "expansion": "Barrenness becomes a canvas for supernatural transformation."
-          },
-          {
-            "id": 3,
-            "text": "Angelic instruction for consecration",
-            "expansion": "Spiritual preparation precedes extraordinary destiny."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine purpose can emerge from seemingly impossible circumstances, what limitations might you be unnecessarily imposing on your own potential?"
-      },
-      "moral_slider": {
-        "question": "How do human weakness and divine strength interact in personal transformation?",
-        "left_label": "Human Insufficiency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication shifted?",
-        "options": [
-          "I now see unexpected channels of revelation",
-          "Personal limitations do not restrict divine plans",
-          "Spiritual preparation matters more than natural ability",
-          "Miracles can emerge from apparent emptiness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine calling transcends human expectations and limitations",
           "Spiritual potential is determined more by God's grace than personal merit"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Manoah asked",
+            "ref": "v. 12",
+            "speaker": "Manoah"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Manoah's place. You ask what the boy's rule of life and mission will be, and the answer is that your wife is to do everything she was told. What do you understand from that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Genesis 18:10-14",
+        "summary": "The angel tells a barren woman that she will conceive and give birth to a son (v. 3). In Genesis 18:10-14 the LORD tells Abraham that Sarah, past the age of childbearing, will have a son, and asks whether anything is too difficult for Him.",
+        "question": "How does Genesis 18:10-14 help you understand the angel's promise of a son to a barren woman?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "the LORD would not have accepted the burnt offering and the grain offering from our hands",
+        "feeling": "fear, dread",
+        "object": "a sudden change",
+        "behavior": "assuming the worst",
+        "step": "look for His acceptance",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a sudden change} to God and instead of {behavior:assuming the worst}, I will {step:look for His acceptance}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual accountability resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The heart's inherent deceitfulness",
-            "expansion": "Our internal moral landscape can be more treacherous than external challenges"
-          },
-          {
-            "id": 2,
-            "text": "Consequences of communal sin",
-            "expansion": "Individual choices create ripple effects through generations and societies"
-          },
-          {
-            "id": 3,
-            "text": "The power of personal trust in God",
-            "expansion": "True resilience emerges from spiritual rootedness, not worldly security"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If our hearts are fundamentally deceptive, how can we truly know our own motivations?"
-      },
-      "moral_slider": {
-        "question": "To what extent are personal choices shaped by individual will versus systemic spiritual conditions?",
-        "left_label": "Individual Agency",
-        "right_label": "Spiritual Determinism"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of personal and collective spiritual responsibility?",
-        "options": [
-          "Deepened awareness of internal spiritual dynamics",
-          "Recognized broader systemic impacts of personal choices",
-          "Questioned previous assumptions about divine judgment",
-          "Saw more complexity in spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual human effort is sufficient for spiritual renewal",
           "Spiritual transformation requires both divine intervention and human cooperation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a listener hearing both sentences. One man makes the flesh his strength and turns his heart from the LORD; the other trusts in the LORD. What would you weigh about where your own confidence rests?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 4:23",
+        "summary": "The prophet declares that the heart is deceitful and beyond cure (v. 9). The wisdom writer gives a command to guard the heart because it is the wellspring of life.",
+        "question": "How does the warning in Proverbs 4:23 help you understand the danger of the heart described in Jeremiah 17:9?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "the LORD is my praise",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "seeking human approval",
+        "step": "rest in His faithfulness",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult season} to God and instead of {behavior:seeking human approval}, I will {step:rest in His faithfulness}."
       }
     }
   }

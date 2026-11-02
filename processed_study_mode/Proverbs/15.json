@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which communication principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "A soft answer turns away wrath",
-            "expansion": "Gentleness has transformative power in resolving conflicts and healing relationships."
-          },
-          {
-            "id": 2,
-            "text": "The eyes of the Lord are in every place",
-            "expansion": "Divine awareness brings both accountability and profound spiritual intimacy."
-          },
-          {
-            "id": 3,
-            "text": "A wholesome tongue is a tree of life",
-            "expansion": "Words can nurture, heal, and sustain human spirit in profound ways."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your communication style fundamentally change if you truly believed every word was witnessed by a divine presence?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal accountability shape spiritual growth?",
-        "left_label": "External Judgment",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom and communication evolved?",
-        "options": [
-          "I now see words as powerful spiritual instruments",
-          "I recognize the importance of emotional restraint",
-          "I understand wisdom as a practice, not just knowledge",
-          "I am more aware of subtle spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Surveillance implies predetermined spiritual destiny",
           "Individual moral choices remain ultimately significant"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The proverb says",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the middle of an argument. What do you understand about the difference between a gentle answer and a harsh word?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Hebrews 4:13",
+        "summary": "The LORD observes every good and evil deed (v. 3). Hebrews says no creature is hidden from His sight.",
+        "question": "How does knowing that nothing is hidden from Him change how you view your private actions?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "he who is slow to anger calms dispute",
+        "feeling": "irritation, defensiveness",
+        "object": "a sudden criticism",
+        "behavior": "snapping back immediately",
+        "step": "take a breath before speaking",
+        "template": "from today I let go of my {feeling:irritation, defensiveness} over {object:a sudden criticism} and instead of {behavior:snapping back immediately}, I will {step:take a breath before speaking}."
       }
     }
   }

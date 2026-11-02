@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Bold Proclamation of Faith",
-            "expansion": "The apostles fearlessly declare Christ's resurrection despite potential persecution."
-          },
-          {
-            "id": 2,
-            "text": "Community of Shared Resources",
-            "expansion": "Early believers practiced radical economic solidarity and mutual care."
-          },
-          {
-            "id": 3,
-            "text": "Divine Authority Over Human Institutions",
-            "expansion": "Peter demonstrates that spiritual truth transcends political and religious power structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal convictions transform when one chooses principles over personal safety?"
-      },
-      "moral_slider": {
-        "question": "Where do you position institutional compliance versus spiritual conviction?",
-        "left_label": "Institutional Compliance",
-        "right_label": "Spiritual Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian witness evolved?",
-        "options": [
-          "More aware of potential social consequences",
-          "Recognize importance of communal support",
-          "Understand deeper meaning of spiritual courage",
-          "See faith as more than individual experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Rely on divine empowerment rather than human strategies",
           "Separate faith from public discourse to ensure safety"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "The rulers commanded",
+            "ref": "v. 18",
+            "speaker": ""
+          },
+          {
+            "who": "Peter and John replied",
+            "ref": "v. 19",
+            "speaker": "John"
+          }
+        ],
+        "question": "Put yourself in the place of the apostles, commanded not to speak or teach at all in the name of Jesus. What would you weigh as you say, 'Judge for yourselves whether it is right in God's sight to listen to you rather than God'?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Ephesians 6:19-20",
+        "summary": "The rulers see the boldness of Peter and John and realize they had been with Jesus (v. 13). Ephesians 6:19-20 asks for prayer that the gospel be made known boldly and fearlessly by one who is an ambassador in chains.",
+        "question": "How does Ephesians 6:19-20 help you understand the boldness the rulers see in Peter and John?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "practice",
+        "because": "the believers were all filled with the Holy Spirit and spoke the word of God boldly",
+        "feeling": "fear, hesitation",
+        "object": "a difficult conversation",
+        "behavior": "staying quiet to avoid conflict",
+        "step": "speak the truth with grace",
+        "template": "from today I let go of my {feeling:fear, hesitation} over {object:a difficult conversation} and instead of {behavior:staying quiet to avoid conflict}, I will {step:speak the truth with grace}."
       }
     }
   }

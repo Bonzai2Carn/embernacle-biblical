@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of divine protection resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as Fortress",
-            "expansion": "The Lord provides ultimate spiritual shelter from external threats."
-          },
-          {
-            "id": 2,
-            "text": "Righteous Resilience",
-            "expansion": "True faith enables endurance through challenging circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Divine Judgment",
-            "expansion": "God ultimately evaluates and responds to human actions with perfect justice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is assured, why do the righteous still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do human vulnerability and divine sovereignty intersect?",
-        "left_label": "Human Weakness",
-        "right_label": "God's Omnipotence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Recognized deeper layers of faith",
-          "Questioned previous assumptions about divine protection",
-          "Appreciated complexity of spiritual endurance",
-          "Developed more nuanced view of suffering"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding suffering as a potential pathway for spiritual refinement",
           "Maintaining faith despite external pressures and challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The speaker asks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The advisers argue",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one being told to run. You have said that you take refuge in the LORD, and you hear that the foundations are being destroyed. Which of these two claims would you weigh more heavily?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 46:1",
+        "summary": "The psalmist describes a God who sits on a heavenly throne and watches the world (v. 4). Psalm 46:1 describes God as a refuge, a strength, and an ever-present help in times of trouble.",
+        "question": "How does the reality of God's presence in Psalm 46 change how you view His watchful eyes in verse 4?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "the LORD is righteous and loves justice",
+        "feeling": "fear, anxiety",
+        "object": "the unfair treatment of others",
+        "behavior": "seeking my own revenge",
+        "step": "trust His righteous judgment",
+        "template": "from today I bring You my {feeling:fear, anxiety} about {object:the unfair treatment of others} and instead of {behavior:seeking my own revenge}, I will {step:trust His righteous judgment}."
       }
     }
   }

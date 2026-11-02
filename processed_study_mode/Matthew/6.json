@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual authenticity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Private devotion over public performance",
-            "expansion": "True spiritual growth happens in intimate moments unseen by others."
-          },
-          {
-            "id": 2,
-            "text": "Humility in charitable acts",
-            "expansion": "Genuine giving seeks no recognition or personal acclaim."
-          },
-          {
-            "id": 3,
-            "text": "Inner transformation versus external validation",
-            "expansion": "The heart's true motivation matters more than societal perception."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If no one would ever know about your good deeds, would you still perform them with the same passion?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance personal spiritual integrity with communal recognition?",
-        "left_label": "Complete Anonymity",
-        "right_label": "Community Acknowledgment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity evolved?",
-        "options": [
-          "I now value internal motivation more",
-          "Public recognition seems less important",
-          "Genuine compassion transcends visibility",
-          "Spiritual growth is a deeply personal journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual authenticity requires consistent private and public alignment",
           "Motivation determines the spiritual value of religious deeds"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "Jesus says",
+            "ref": "v. 24",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of someone who tries to serve two masters. What would you understand about serving both God and money, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Galatians 1:10",
+        "summary": "Jesus says no one can serve two masters, and you cannot serve both God and money (v. 24). Paul asks whether he seeks the approval of men or of God, and says that if he were still trying to please men, he would not be a servant of Christ (Galatians 1:10).",
+        "question": "How does Galatians 1:10 help you understand what it means to serve one master?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "devotion",
+        "because": "where your treasure is, there your heart will be also",
+        "feeling": "greed, attachment",
+        "object": "my bank account",
+        "behavior": "calculating my own security",
+        "step": "invest in what God values",
+        "template": "from today I let go of my {feeling:greed, attachment} over {object:my bank account} and instead of {behavior:calculating my own security}, I will {step:invest in what God values}."
       }
     }
   }

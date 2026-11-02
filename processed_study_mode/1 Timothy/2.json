@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of prayer and intercession resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Praying for all people, including leaders",
-            "expansion": "Recognizing the universal scope of God's love beyond personal or political boundaries."
-          },
-          {
-            "id": "b",
-            "text": "God's desire for universal salvation",
-            "expansion": "Understanding that divine love extends to every human, regardless of their current spiritual condition."
-          },
-          {
-            "id": "c",
-            "text": "Christ as the singular Mediator",
-            "expansion": "Acknowledging the unique redemptive role of Jesus in bridging humanity and divine relationship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prayer truly influences spiritual realities, how might our intercession transform not just individuals, but entire societal structures?"
-      },
-      "moral_slider": {
-        "question": "How do personal political beliefs intersect with spiritual calling to pray for leaders?",
-        "left_label": "Personal Judgment",
-        "right_label": "Divine Perspective"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and intercession evolved?",
-        "options": [
-          "More comprehensive view of prayer's purpose",
-          "Greater appreciation for spiritual mediation",
-          "Deeper understanding of God's universal love",
-          "Increased commitment to pray for others"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Human free will ultimately determines salvation response",
           "Salvation is a collaborative process between divine invitation and human response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Paul urges",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone told to offer petitions, prayers, intercessions, and thanksgiving for everyone, even for kings and all those in authority. What would you understand from hearing that this is good and pleasing to God our Savior, who wants everyone to be saved?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Acts 4:12",
+        "summary": "Paul says there is one God and one mediator between God and men, the man Christ Jesus (v. 5). Acts 4:12 says salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.",
+        "question": "How does Acts 4:12 help you understand the one mediator Paul names here?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "God our Savior wants everyone to be saved and to come to the knowledge of the truth",
+        "feeling": "resentment, irritation",
+        "object": "a difficult person in my church",
+        "behavior": "criticizing them in my head",
+        "step": "pray for them by name",
+        "template": "from today I let go of my {feeling:resentment, irritation} over {object:a difficult person in my church} and instead of {behavior:criticizing them in my head}, I will {step:pray for them by name}."
       }
     }
   }

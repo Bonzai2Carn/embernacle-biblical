@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Circumcision as Covenant Renewal",
-            "expansion": "Physical marking symbolizes spiritual recommitment and generational continuity."
-          },
-          {
-            "id": 2,
-            "text": "Crossing the Jordan as Transition",
-            "expansion": "Leaving wilderness identity and entering promised destiny represents profound spiritual metamorphosis."
-          },
-          {
-            "id": 3,
-            "text": "Divine Fear Among Enemies",
-            "expansion": "God's supernatural reputation precedes Israel, demonstrating spiritual warfare's psychological dimension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might ritualistic obedience actually represent deeper spiritual surrender?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between divine preparation and human readiness?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transition evolved?",
-        "options": [
-          "Recognizing spiritual markers matter",
-          "Understanding generational healing",
-          "Appreciating ritual's transformative power",
-          "Seeing God's strategic timing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's promises are unconditional regardless of human readiness",
           "Spiritual consecration represents vulnerability before divine assignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Joshua asked",
+            "ref": "v. 13",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The Commander replied",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Joshua's place, near Jericho. You see a man before you with a drawn sword, and you ask whether he is for you or for your enemies. What would you weigh when he answers, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Deuteronomy 30:6",
+        "summary": "The LORD has Joshua circumcise the sons of Israel born in the wilderness at Gilgal (vv. 2-8). Deuteronomy 30:6 says the LORD will circumcise the hearts of His people and their descendants so that they love Him.",
+        "question": "How does the promise of a circumcised heart in Deuteronomy 30:6 help you understand what the LORD wanted from the people at Gilgal?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "repair",
+        "because": "the LORD rolled away the reproach of Egypt from His people",
+        "feeling": "shame, guilt",
+        "object": "an old failure",
+        "behavior": "hiding in silence",
+        "step": "bring it to the LORD in prayer",
+        "template": "from today I turn from my {feeling:shame, guilt} toward {object:an old failure} and instead of {behavior:hiding in silence}, I will {step:bring it to the LORD in prayer}."
       }
     }
   }

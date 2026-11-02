@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most powerfully captures the essence of humanity's place in creation?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Human's humble yet honored status",
-            "expansion": "We are simultaneously small in the cosmic scale yet dramatically significant in divine perspective."
-          },
-          {
-            "id": "B",
-            "text": "God's majestic creative design",
-            "expansion": "The universe reveals intricate purposefulness that suggests intentional, loving craftsmanship."
-          },
-          {
-            "id": "C",
-            "text": "Divine delegation of stewardship",
-            "expansion": "Humans are entrusted with remarkable responsibility to represent God's care for creation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If humans are 'a little lower than the heavenly beings', what divine qualities might we be called to reflect, despite our limitations?"
-      },
-      "moral_slider": {
-        "question": "How do human dignity and human frailty coexist?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human purpose shifted?",
-        "options": [
-          "I see humanity as more sacred",
-          "I recognize our profound interdependence with creation",
-          "I feel a greater sense of spiritual responsibility",
-          "I understand divine love more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Creation exists primarily for human exploitation",
           "Human value is determined by individual achievements"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist beholds",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, looking up at the moon and the stars. After seeing the scale of the heavens, what does his question reveal about how he views his own importance?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Genesis 1:26-28",
+        "summary": "The psalmist describes man as ruler over the works of God's hands and everything under his feet (v. 6). Genesis shows the original assignment of this rule to humanity.",
+        "question": "How does the original mandate in Genesis help you understand the authority God gave to the son of man in this Psalm?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "Your name is majestic in all the earth",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "seeking my own glory",
+        "step": "point others to His greatness",
+        "template": "from today I bring You my {feeling:pride, self-importance} about {object:my own achievements} and instead of {behavior:seeking my own glory}, I will {step:point others to His greatness}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative moment in Mark 10 resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Jesus blesses children",
-            "expansion": "True spiritual reception requires becoming vulnerable and humble like a child."
-          },
-          {
-            "id": "2",
-            "text": "Rich young ruler's dilemma",
-            "expansion": "Genuine discipleship demands radical surrender of material attachments."
-          },
-          {
-            "id": "3",
-            "text": "Healing of blind Bartimaeus",
-            "expansion": "Persistent faith can breakthrough seemingly insurmountable barriers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What prevents you from completely surrendering your perceived securities to follow an unconditional calling?"
-      },
-      "moral_slider": {
-        "question": "How do personal possessions balance with spiritual commitment?",
-        "left_label": "Material Security",
-        "right_label": "Spiritual Abundance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of discipleship shifted?",
-        "options": [
-          "Cost of following is higher than I realized",
-          "True faith requires radical trust",
-          "Spiritual growth involves letting go",
-          "Vulnerability is a strength, not weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption and grace are central even in marital brokenness",
           "Individual interpretation should respect original divine design"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 6",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 9",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a listener who hears Jesus speak about marriage. What would you weigh when you hear that God made them male and female from the beginning, and then that what God has joined together, man should not separate?"
+      },
+      "chain": {
+        "after": 45,
+        "ref": "Matthew 20:25-28",
+        "summary": "Jesus says whoever wants to become great among you must be your servant, and whoever wants to be first must be the slave of all (v. 43-44). Matthew 20:26-28 gives the same teaching, and adds that the Son of Man did not come to be served, but to serve.",
+        "question": "How does Matthew 20:28 help you understand the service Jesus describes for the Son of Man in Mark 10:45?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "devotion",
+        "because": "the Son of Man did not come to be served, but to serve",
+        "feeling": "pride, ambition",
+        "object": "my desire for recognition",
+        "behavior": "pushing to be first",
+        "step": "serve one person without credit",
+        "template": "from today I let go of my {feeling:pride, ambition} over {object:my desire for recognition} and instead of {behavior:pushing to be first}, I will {step:serve one person without credit}."
       }
     }
   }

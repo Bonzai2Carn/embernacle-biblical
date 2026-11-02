@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": "judgment",
-            "text": "Divine Judgment Against Wickedness",
-            "expansion": "The profound cosmic accountability where pride and evil are utterly consumed."
-          },
-          {
-            "id": "redemption",
-            "text": "Healing for the Faithful",
-            "expansion": "The transformative promise of restoration for those who revere God's name."
-          },
-          {
-            "id": "remembrance",
-            "text": "Continuity of Divine Covenant",
-            "expansion": "The enduring connection between God's historical law and future redemptive plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what distinguishes genuine spiritual transformation from mere fear of consequence?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between divine justice and mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Compassionate Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "More aware of personal responsibility",
-          "Recognize systemic spiritual dynamics",
-          "See judgment as ultimately restorative",
-          "Understand divine perspective differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment ultimately serves redemptive purposes",
           "Judgment shows the severity of sin's spiritual consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 1",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The LORD of Hosts promises",
+            "ref": "v. 2",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of someone who fears His name. You hear that the day is coming, burning like a furnace, for every arrogant evildoer. Then you hear that for you the sun of righteousness will rise with healing in its wings. What does that promise show you about how God treats those who fear Him?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "John 8:12",
+        "summary": "Malachi promises that the sun of righteousness will rise with healing in its wings for those who fear His name (v. 2). In John 8:12, Jesus says that He is the light of the world, and that whoever follows Him will not walk in darkness but will have the light of life.",
+        "question": "How does John 8:12 help you understand the light that rises for those who fear God's name in Malachi 4:2?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "pacing",
+        "because": "for those who fear the LORD's name the sun of righteousness will rise with healing in its wings, and they will go out and leap like calves from the stall",
+        "feeling": "dread, heaviness",
+        "object": "news about the world",
+        "behavior": "staying shut in with my worries",
+        "step": "go outside for a walk and pray",
+        "template": "from today I set down my {feeling:dread, heaviness} about {object:news about the world} and instead of {behavior:staying shut in with my worries}, I will {step:go outside for a walk and pray}."
       }
     }
   }

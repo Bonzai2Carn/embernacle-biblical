@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of wilderness survival reveals the most about human nature?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Collective Complaint",
-            "expansion": "Humans instinctively romanticize past hardships when facing present uncertainties."
-          },
-          {
-            "id": 2,
-            "text": "Daily Manna Provision",
-            "expansion": "Trust emerges through experiencing consistent, unexpected grace."
-          },
-          {
-            "id": 3,
-            "text": "Sabbath Rest Command",
-            "expansion": "Spiritual disciplines interrupt survival instincts and restore deeper rhythms."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If freedom requires discomfort, at what point does liberation become more challenging than oppression?"
-      },
-      "moral_slider": {
-        "question": "How do human needs balance against divine providence?",
-        "left_label": "Self-Sufficiency",
-        "right_label": "Complete Dependence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of provision and trust evolved?",
-        "options": [
-          "Recognizing limitations of human planning",
-          "Understanding grace as daily, not occasional",
-          "Seeing community resilience over individual survival",
-          "Appreciating rhythms of rest and work"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Supernatural provision requires active participation and faith",
           "God's mercy transcends human limitations and complaints"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said to Moses",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing God's command. Each day you are to gather enough for that day. What would you weigh about a test of whether you will follow His instructions?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Deuteronomy 8:3",
+        "summary": "The Israelites ask what the manna is, and Moses tells them it is the bread the LORD has given them (v. 15). Deuteronomy 8:3 says He gave manna in their hunger so that they might understand that man does not live on bread alone, but on every word from the mouth of the LORD.",
+        "question": "How does Deuteronomy 8:3 help you understand why God provided manna in the desert?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "practice",
+        "because": "the LORD asks how long the people will refuse to keep His commandments and instructions",
+        "feeling": "anxiety, restlessness",
+        "object": "a looming deadline",
+        "behavior": "working past my limits",
+        "step": "stop and trust His provision",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a looming deadline} and instead of {behavior:working past my limits}, I will {step:stop and trust His provision}."
       }
     }
   }

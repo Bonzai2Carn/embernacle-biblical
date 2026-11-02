@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical insight most resonates with you about divine reshaping?",
-        "choices": [
-          {
-            "id": "potter",
-            "text": "God's sovereignty as a potter remolding clay",
-            "expansion": "Divine creativity allows continuous redemptive reconstruction of human potential"
-          },
-          {
-            "id": "vessel",
-            "text": "Imperfection as an opportunity for transformation",
-            "expansion": "Brokenness becomes a pathway for intentional spiritual redesign"
-          },
-          {
-            "id": "wheel",
-            "text": "Continuous divine crafting of human character",
-            "expansion": "Life's pressures are God's hands gently reforming our spiritual shape"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is constantly reshaping us, what resistance within yourself prevents meaningful transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human free will?",
-        "left_label": "Total Divine Determination",
-        "right_label": "Complete Human Autonomy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal spiritual malleability shifted?",
-        "options": [
-          "I see brokenness differently",
-          "Divine intention feels more personal",
-          "Transformation seems more dynamic",
-          "My agency within God's plan feels more nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption is a collaborative process between God and humanity",
           "Individual spiritual transformation depends solely on divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The people reply",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this warning. You are told to turn from your evil ways, but you reply that it is hopeless and that you will follow your own plans. What would you weigh about turning back?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 64:8",
+        "summary": "The LORD says Israel is like clay in a potter's hand (v. 6). Isaiah confesses that the LORD is the Potter and His people are the clay, the work of His hand (Isaiah 64:8).",
+        "question": "How does Isaiah's plea to the Potter help you understand the authority the LORD claims over Israel in Jeremiah's vision?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "a vessel became flawed in the potter's hand, so it was formed into another vessel",
+        "feeling": "frustration, inadequacy",
+        "object": "a failed project",
+        "behavior": "clinging to my mistakes",
+        "step": "allow God to reshape me",
+        "template": "from today I let go of my {feeling:frustration, inadequacy} over {object:a failed project} and instead of {behavior:clinging to my mistakes}, I will {step:allow God to reshape me}."
       }
     }
   }

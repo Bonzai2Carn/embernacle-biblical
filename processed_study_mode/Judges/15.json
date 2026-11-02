@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human conflict resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cycles of Revenge",
-            "expansion": "Samson's response reveals how personal hurt can escalate into broader tribal conflict."
-          },
-          {
-            "id": 2,
-            "text": "Betrayal of Intimacy",
-            "expansion": "The father's actions demonstrate how familial relationships can become transactional and fragile."
-          },
-          {
-            "id": 3,
-            "text": "Individual Agency in Systemic Oppression",
-            "expansion": "Samson's actions suggest personal resistance against collective power structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal injury occurs, does proportional response exist, or does revenge always transcend its original wound?"
-      },
-      "moral_slider": {
-        "question": "How do personal grievances interact with broader social justice?",
-        "left_label": "Personal Vengeance",
-        "right_label": "Communal Reconciliation"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of conflict resolution?",
-        "options": [
-          "I see more complexity in interpersonal dynamics",
-          "Individual actions have systemic consequences",
-          "Revenge rarely solves underlying relational tensions",
-          "Cultural context deeply shapes conflict interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "A prophetic act symbolizing future deliverance",
           "An example of flawed human agency in divine plans"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The men of Judah asked",
+            "ref": "v. 11",
+            "speaker": "The men of Judah"
+          },
+          {
+            "who": "Samson replied",
+            "ref": "v. 11",
+            "speaker": "Samson"
+          }
+        ],
+        "question": "Put yourself in Samson's place. The men of Judah say the Philistines rule over them and ask what you have done to them. What do you weigh as you answer that you did to the Philistines what they did to you?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Romans 12:19",
+        "summary": "Samson seeks vengeance through his own strength and suffers the consequences of his rage (vv. 7-13). Paul instructs believers to leave vengeance to God.",
+        "question": "How does Romans 12:19 change how you view Samson's decision to take vengeance in verse 7?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "You have accomplished this great deliverance through Your servant",
+        "feeling": "exhaustion, despair",
+        "object": "a period of intense struggle",
+        "behavior": "relying on my own power",
+        "step": "cry out to the LORD",
+        "template": "from today I entrust my {feeling:exhaustion, despair} about {object:a period of intense struggle} to God and instead of {behavior:relying on my own power}, I will {step:cry out to the LORD}."
       }
     }
   }

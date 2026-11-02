@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of priestly consecration most resonates with spiritual transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ritual Purification",
-            "expansion": "Cleansing represents the profound internal work required before serving divine purposes."
-          },
-          {
-            "id": 2,
-            "text": "Sacrificial Offering",
-            "expansion": "Personal surrender demonstrates total commitment beyond symbolic gestures."
-          },
-          {
-            "id": 3,
-            "text": "Anointing with Blood and Oil",
-            "expansion": "Symbolic marking signifies a complete spiritual re-orientation and divine selection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If consecration requires such elaborate preparation, what internal barriers might prevent authentic spiritual service?"
-      },
-      "moral_slider": {
-        "question": "How do ritualistic practices relate to genuine spiritual transformation?",
-        "left_label": "External Formalism",
-        "right_label": "Internal Authenticity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual dedication evolved?",
-        "options": [
-          "Recognize complexity of spiritual commitment",
-          "Understand symbolic significance of ritual",
-          "Appreciate intentionality over mere performance",
-          "Value personal transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Consecration involves both individual commitment and communal recognition",
           "Spiritual leadership demands rigorous preparation and ongoing sanctification"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 45,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 44-45",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 46",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites receiving these instructions for the priests. After hearing how God will dwell among them, what does the memory of their escape from Egypt reveal about why He chooses to stay?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Hebrews 9:22",
+        "summary": "The LORD says the priests eat the things by which atonement was made for their ordination and consecration (v. 33). Hebrews states that without the shedding of blood there is no forgiveness (Hebrews 9:22).",
+        "question": "How does the principle in Hebrews 9:22 help you understand why the priests must eat only what was made with atonement?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "devotion",
+        "because": "God will dwell among the Israelites and be their God",
+        "feeling": "loneliness, isolation",
+        "object": "a new living situation",
+        "behavior": "withdrawing from others",
+        "step": "invite others into my space",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a new living situation} and instead of {behavior:withdrawing from others}, I will {step:invite others into my space}."
       }
     }
   }

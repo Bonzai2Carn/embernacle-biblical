@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply about personal responsibility?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Beware of impulsive financial commitments",
-            "expansion": "Hasty promises can entangle you in unexpected obligations that compromise your integrity."
-          },
-          {
-            "id": 2,
-            "text": "Urgently pursue resolution when in debt",
-            "expansion": "Immediate and humble action prevents long-term relational and economic damage."
-          },
-          {
-            "id": 3,
-            "text": "Guard your personal autonomy",
-            "expansion": "Strategic self-preservation requires wisdom in interpersonal agreements."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do your current commitments potentially restrict your future freedom?"
-      },
-      "moral_slider": {
-        "question": "What matters more: loyalty to a promise or personal protection?",
-        "left_label": "Absolute Commitment",
-        "right_label": "Personal Survival"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal boundaries evolved?",
-        "options": [
-          "I now see promises as sacred covenants",
-          "I recognize the importance of strategic negotiation",
-          "I understand personal risk management",
-          "I value relational transparency more"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintain strict personal boundaries in financial interactions",
           "View financial commitments as opportunities for spiritual growth and trust"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The writer pictures a little more rest",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The writer gives the result",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone folding his hands for a little sleep and a little slumber. What do you understand about how poverty and need will arrive?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Proverbs 10:4",
+        "summary": "Proverbs 6 says a little sleep and a little folding of the hands to rest brings poverty like a robber (vv. 10-11). Proverbs 10:4 says idle hands make one poor, but diligent hands bring wealth.",
+        "question": "How does Proverbs 10:4 help you understand what the small choices in Proverbs 6:10 lead to?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "this commandment is a lamp, this teaching is a light",
+        "feeling": "confusion, doubt",
+        "object": "a difficult decision",
+        "behavior": "ignoring wise counsel",
+        "step": "return to the written Word",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a difficult decision} and instead of {behavior:ignoring wise counsel}, I will {step:return to the written Word}."
       }
     }
   }

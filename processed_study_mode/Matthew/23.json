@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of religious hypocrisy most challenges your spiritual understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "External religious performance",
-            "expansion": "Religious displays often mask internal spiritual emptiness."
-          },
-          {
-            "id": 2,
-            "text": "Burdening others without personal commitment",
-            "expansion": "True spiritual leadership requires empathy and lived example."
-          },
-          {
-            "id": 3,
-            "text": "Seeking human praise over divine approval",
-            "expansion": "Authentic faith prioritizes genuine relationship with God over public perception."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your religious practices were stripped of all external validation, what genuine spiritual core would remain?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual integrity and communal religious tradition balance?",
-        "left_label": "Individual Authenticity",
-        "right_label": "Institutional Conformity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of religious leadership transformed?",
-        "options": [
-          "From performance to genuine service",
-          "From external compliance to internal transformation",
-          "From seeking human recognition to divine alignment",
-          "From rigid rules to compassionate guidance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Transparent accountability and humility",
           "Consistent alignment between teachings and personal conduct"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Jesus quotes the oath teaching",
+            "ref": "v. 16",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus asks which is greater",
+            "ref": "v. 17",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of someone who swears by the gold of the temple. What would you understand from Jesus' question about which is greater, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Isaiah 29:13",
+        "summary": "Jesus calls the scribes and Pharisees hypocrites, because they have disregarded justice, mercy, and faithfulness (v. 23). Isaiah says these people honor God with their lips, but their hearts are far from Him, and their worship is rules taught by men (Isaiah 29:13).",
+        "question": "How does Isaiah 29:13 help you understand Jesus's charge against the Pharisees?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "the inside of the cup and dish must be cleaned first",
+        "feeling": "pride, pretension",
+        "object": "my public reputation",
+        "behavior": "polishing my image",
+        "step": "ask God to examine my motives",
+        "template": "from today I let go of my {feeling:pride, pretension} over {object:my public reputation} and instead of {behavior:polishing my image}, I will {step:ask God to examine my motives}."
       }
     }
   }

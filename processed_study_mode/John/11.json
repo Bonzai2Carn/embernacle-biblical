@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound moment in Jesus' interaction with Mary and Martha resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jesus weeping with compassion",
-            "expansion": "Divine empathy transcends theological understanding and reveals God's emotional connection to human suffering."
-          },
-          {
-            "id": 2,
-            "text": "Lazarus' resurrection as a sign of power",
-            "expansion": "The miracle demonstrates Jesus' authority over death and foreshadows his own resurrection."
-          },
-          {
-            "id": 3,
-            "text": "Martha's declaration of faith",
-            "expansion": "Her proclamation 'I believe that you are the Christ' represents a profound theological affirmation amid personal grief."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Jesus loved Lazarus, why did he deliberately delay coming until after his death - what deeper purpose might transcend immediate human understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal grief and spiritual trust interact when facing profound loss?",
-        "left_label": "Emotional Despair",
-        "right_label": "Spiritual Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on death, faith, and divine intervention shifted after reflecting on this passage?",
-        "options": [
-          "More open to mysterious divine timing",
-          "Recognize deeper emotional complexity of faith",
-          "Understand suffering as potentially transformative",
-          "See compassion as a profound spiritual response"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faith is critical in experiencing miraculous transformation",
           "God's purposes transcend immediate human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Martha replied",
+            "ref": "v. 24",
+            "speaker": "Martha"
+          },
+          {
+            "who": "Jesus said to her",
+            "ref": "v. 25",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Martha's place, clinging to a distant hope of the future. What does Jesus' claim about life and death change about the reality you are facing right now?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Revelation 1:18",
+        "summary": "Jesus says everyone who lives and believes in Him will never die (v. 26). In Revelation He says He was dead, is alive forever and ever, and holds the keys of Death and Hades.",
+        "question": "How does Jesus holding the keys of Death and Hades in Revelation 1:18 help you understand His words to Martha in verse 26?"
+      },
+      "conviction": {
+        "verse": 40,
+        "frame": "trust",
+        "because": "if you believed, you would see the glory of God",
+        "feeling": "doubt, hesitation",
+        "object": "a difficult situation",
+        "behavior": "waiting for a perfect sign",
+        "step": "remove the stone of my unbelief",
+        "template": "from today I entrust my {feeling:doubt, hesitation} about {object:a difficult situation} to God and instead of {behavior:waiting for a perfect sign}, I will {step:remove the stone of my unbelief}."
       }
     }
   }

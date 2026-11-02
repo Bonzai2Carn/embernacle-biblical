@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about leadership succession and familial dynamics?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inherited Power Dynamics",
-            "expansion": "Power transferred through birthright can create complex familial tensions and potential corruption."
-          },
-          {
-            "id": 2,
-            "text": "Parental Legacy Distribution",
-            "expansion": "How parents allocate resources and opportunities reveals profound relational priorities."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Inheritance",
-            "expansion": "Leadership succession carries profound spiritual and moral responsibilities beyond mere bloodline."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When power is inherited rather than earned, does legitimate authority emerge naturally, or must it be consciously cultivated?"
-      },
-      "moral_slider": {
-        "question": "How do familial obligations balance against individual moral accountability?",
-        "left_label": "Family Loyalty",
-        "right_label": "Personal Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership succession evolved?",
-        "options": [
-          "Power is more complex than simple inheritance",
-          "Moral character matters more than birthright",
-          "Family dynamics profoundly shape leadership potential",
-          "Spiritual legacy transcends genetic lineage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment transcends hereditary privileges",
           "Leadership requires active spiritual commitment beyond birthright"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Jehoram walked in the ways of the kings of Israel",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "the LORD was unwilling to destroy the house of David",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people of Judah. Your king walks in the ways of the house of Ahab and does evil, yet the LORD is unwilling to destroy the house of David because of His covenant. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "1 Kings 22:51-53",
+        "summary": "Jehoram walks in the ways of the house of Ahab (v. 6) and causes Judah to prostitute itself (v. 13). 1 Kings 22:51-53 says Ahaziah son of Ahab did evil, walked in the ways of his father and mother, and served and worshiped Baal.",
+        "question": "How does 1 Kings 22:51-53 help you understand what it means that Jehoram walked in the ways of the house of Ahab?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "Jehoram had forsaken the LORD, the God of his fathers",
+        "feeling": "indifference, apathy",
+        "object": "the habits of my family",
+        "behavior": "drifting into old ways",
+        "step": "return to the truth I know",
+        "template": "from today I bring my {feeling:indifference, apathy} about {object:the habits of my family} into the light and instead of {behavior:drifting into old ways}, I will {step:return to the truth I know}."
       }
     }
   }

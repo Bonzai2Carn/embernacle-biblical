@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which concept of divine selection resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Being a 'special treasure'",
-            "expansion": "Understanding chosenness not as superiority, but as sacred responsibility."
-          },
-          {
-            "id": 2,
-            "text": "Holiness through dietary discipline",
-            "expansion": "Recognizing spiritual boundaries through intentional, mindful consumption."
-          },
-          {
-            "id": 3,
-            "text": "Separation from mourning practices",
-            "expansion": "Experiencing grief while maintaining spiritual identity beyond cultural norms."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If being 'chosen' implies unique responsibility, how does your everyday conduct reflect that spiritual distinction?"
-      },
-      "moral_slider": {
-        "question": "How do religious dietary laws balance cultural identity and spiritual discipline?",
-        "left_label": "Cultural Constraint",
-        "right_label": "Spiritual Elevation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of religious identity evolved?",
-        "options": [
-          "More appreciative of spiritual boundaries",
-          "Recognize deeper meanings in ritual practices",
-          "See communal identity as transformative",
-          "Understand chosenness as collective responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Provide practical health guidelines for ancient communities",
           "Represent metaphorical boundaries between sacred and profane"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Moses commands",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Moses reminds",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing these commands. You are told not to cut yourselves for the dead, because you are a people holy to the LORD. What would you weigh most about being His prized possession?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Leviticus 11:44",
+        "summary": "Deuteronomy 14 forbids eating any detestable thing, then lists the clean and unclean animals (vv. 3-21). Leviticus gives the reason for these distinctions: be holy, because the LORD is holy (Leviticus 11:44).",
+        "question": "How does the command to be holy in Leviticus 11:44 help you understand why you must not eat any detestable thing in Deuteronomy 14 (v. 3)?"
+      },
+      "conviction": {
+        "verse": 29,
+        "frame": "practice",
+        "because": "the LORD your God will bless all the work of your hands when the Levite, the foreigner, the fatherless, and the widow come and eat and are satisfied",
+        "feeling": "selfishness, greed",
+        "object": "my extra resources",
+        "behavior": "hoarding what I have",
+        "step": "share a meal with someone in need",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my extra resources} and instead of {behavior:hoarding what I have}, I will {step:share a meal with someone in need}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of unintentional sin resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Accountability",
-            "expansion": "Even unconscious transgressions require intentional reconciliation with divine standards."
-          },
-          {
-            "id": 2,
-            "text": "Communal Consequence",
-            "expansion": "Individual sins can create spiritual ripple effects impacting entire communities."
-          },
-          {
-            "id": 3,
-            "text": "Ritual Restoration",
-            "expansion": "Structured sacrificial processes provide a pathway to spiritual healing and reconnection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sin can occur unintentionally, how responsible are we truly for our actions?"
-      },
-      "moral_slider": {
-        "question": "How do unintentional sins reflect human spiritual complexity?",
-        "left_label": "Human Frailty",
-        "right_label": "Divine Expectation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sin and redemption shifted?",
-        "options": [
-          "More aware of subtle moral nuances",
-          "Recognize complexity of spiritual accountability",
-          "Understand importance of intentional restoration",
-          "Appreciate structured path to spiritual healing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Believers must remain vigilant and self-examining to minimize unintentional sins",
           "The Old Testament sin offering system is no longer applicable in the New Covenant"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says the whole congregation may stray",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD requires a young bull from the assembly",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are part of a community that has wandered away without even realizing it. What does the requirement for a young bull tell you about the weight of a shared mistake?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "Hebrews 9:22",
+        "summary": "The priest puts blood on the horns of the altar and pours out the rest at its base (v. 30). Hebrews says nearly everything must be purified with blood, and without the shedding of blood there is no forgiveness.",
+        "question": "How does Hebrews 9:22 help you understand why blood is poured out at the base of the altar?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "practice",
+        "because": "the priest will make atonement for him for the sin he has committed, and he will be forgiven",
+        "feeling": "guilt, shame",
+        "object": "a recent failure",
+        "behavior": "hiding my mistakes",
+        "step": "bring my truth to God",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recent failure} and instead of {behavior:hiding my mistakes}, I will {step:bring my truth to God}."
       }
     }
   }

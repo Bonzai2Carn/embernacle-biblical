@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about economic justice most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Debt Forgiveness as Spiritual Practice",
-            "expansion": "Releasing debts represents a profound spiritual reset that transcends mere economic transaction."
-          },
-          {
-            "id": 2,
-            "text": "Communal Economic Solidarity",
-            "expansion": "The community's collective prosperity depends on mutual care and economic interdependence."
-          },
-          {
-            "id": 3,
-            "text": "Divine Provision through Generosity",
-            "expansion": "Radical economic generosity is a demonstration of trust in God's continuous abundance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If economic systems are designed to create interdependence, how might true freedom be understood beyond individual accumulation?"
-      },
-      "moral_slider": {
-        "question": "How do personal economic interests balance against communal economic justice?",
-        "left_label": "Individual Financial Security",
-        "right_label": "Collective Economic Welfare"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on economic relationships shifted?",
-        "options": [
-          "I see economic interactions as more spiritually significant",
-          "I recognize systemic inequalities more clearly",
-          "I understand generosity as a form of spiritual discipline",
-          "I'm more aware of interdependence"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Principles as moral guidance for corporate and individual financial practices",
           "Contextual application considering contemporary economic complexities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Moses commands",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Moses warns",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of someone with a poor brother within your gates as the seventh year draws near. You are told not to harden your heart or shut your hand, and not to harbor the thought that the year of release is near so you give him nothing. What would you weigh most about his crying out to the LORD against you?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Proverbs 19:17",
+        "summary": "Deuteronomy 15 commands a generous hand toward the needy (v. 10). Proverbs says that kindness to the poor is a loan to the LORD, and He will repay the lender.",
+        "question": "How does Proverbs 19:17 change how you view the person you are helping in verse 10?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "remembrance",
+        "because": "the LORD your God redeemed you",
+        "feeling": "selfishness, stinginess",
+        "object": "those in need",
+        "behavior": "withholding my resources",
+        "step": "give liberally to others",
+        "template": "from today I let go of my {feeling:selfishness, stinginess} over {object:those in need} and instead of {behavior:withholding my resources}, I will {step:give liberally to others}."
       }
     }
   }

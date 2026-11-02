@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacred service resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Age Requirements",
-            "expansion": "Spiritual readiness is a carefully defined journey with specific seasons of preparedness."
-          },
-          {
-            "id": 2,
-            "text": "Specific Tribal Responsibilities",
-            "expansion": "Each person has a unique role in collective spiritual work that cannot be substituted."
-          },
-          {
-            "id": 3,
-            "text": "Reverent Handling of Holy Objects",
-            "expansion": "Proximity to sacred things demands extraordinary care and intentionality."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might carefully defined service protect both the individual and the community's spiritual integrity?"
-      },
-      "moral_slider": {
-        "question": "What balances personal autonomy with communal spiritual discipline?",
-        "left_label": "Individual Freedom",
-        "right_label": "Institutional Structure"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual service shifted?",
-        "options": [
-          "More appreciation for structured roles",
-          "Deeper respect for generational wisdom",
-          "Recognition of nuanced spiritual preparation",
-          "Understanding of collective responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Specific roles highlight the interconnectedness of community service",
           "Meticulous instructions reveal God's commitment to holiness and preparation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 15,
+        "ref": "Hebrews 9:4-5",
+        "summary": "Aaron and his sons cover the ark with the veil before the camp sets out (v. 5). Hebrews names the golden altar of incense and the gold-covered ark of the covenant, with the gold jar of manna and Aaron's budded staff inside the ark (Hebrews 9:4).",
+        "question": "How does Hebrews 9:4 help you understand the weight of the ark that Numbers 4 says must be covered?"
+      },
+      "conviction": {
+        "verse": 49,
+        "frame": "practice",
+        "because": "each one was assigned his work and burden, as the LORD had commanded",
+        "feeling": "anxiety, overwhelm",
+        "object": "my current responsibilities",
+        "behavior": "trying to do everything myself",
+        "step": "do only what is assigned to me",
+        "template": "from today I let go of my {feeling:anxiety, overwhelm} over {object:my current responsibilities} and instead of {behavior:trying to do everything myself}, I will {step:do only what is assigned to me}."
       }
     }
   }

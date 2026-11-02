@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual moment resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Reassurance",
-            "expansion": "God personally comforts Jacob, dispelling fear about transitioning to a new land."
-          },
-          {
-            "id": 2,
-            "text": "Family Reunion Promise",
-            "expansion": "The promise that Joseph will personally care for Jacob in his final moments represents profound familial love."
-          },
-          {
-            "id": 3,
-            "text": "Generational Continuity",
-            "expansion": "The detailed genealogy demonstrates God's commitment to tracking and preserving Israel's lineage."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine promises transcend immediate circumstances, how might your present challenges be part of a larger, unseen narrative?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal fear with spiritual trust during major life transitions?",
-        "left_label": "Personal Anxiety",
-        "right_label": "Divine Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance shifted after examining this chapter?",
-        "options": [
-          "Recognize God's personal involvement in individual journeys",
-          "Understand that transitions can be spiritually transformative",
-          "Appreciate the importance of familial connections",
-          "See genealogy as more than just historical record"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual inheritance is maintained through obedient response",
           "Supernatural protection accompanies covenant relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "The text counts Jacob's family",
+            "ref": "v. 27",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one of Jacob's sons, named in this count. Two sons born to Joseph in Egypt are added to the family. What do you weigh when you see the family counted at seventy?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Genesis 15:13-14",
+        "summary": "God tells Jacob not to be afraid to go down to Egypt, where He will make him a great nation (v. 3). Earlier, God told Abram that his descendants would be strangers in a land not their own, and that they would leave with many possessions (Genesis 15:13-14).",
+        "question": "How does God's word to Abram help you understand why Jacob is told not to be afraid to go down to Egypt?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "surrender",
+        "because": "God told Jacob not to be afraid to go down to Egypt",
+        "feeling": "fear, anxiety",
+        "object": "a move to a new country",
+        "behavior": "clinging to what I know",
+        "step": "go where God sends me",
+        "template": "from today I release my {feeling:fear, anxiety} over {object:a move to a new country} and instead of {behavior:clinging to what I know}, I will {step:go where God sends me}."
       }
     }
   }

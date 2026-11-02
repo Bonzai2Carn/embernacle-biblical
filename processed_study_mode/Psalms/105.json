@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theme of God's faithfulness resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Covenant Remembrance",
-            "expansion": "Divine promises transcend generations, showing persistent love beyond human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Historical Redemption Narrative",
-            "expansion": "Each historical moment reveals God's strategic intervention in human affairs."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Divine Protection",
-            "expansion": "God's protective power actively shields and guides His chosen people through impossible circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine faithfulness is constant, what role do human choices truly play in spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human free will?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of God's relationship with humanity shifted?",
-        "options": [
-          "More appreciation for historical continuity",
-          "Deeper understanding of covenant dynamics",
-          "Recognition of divine patience",
-          "Awareness of collective spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises transcend historical-cultural limitations",
           "Covenant relationships demonstrate God's redemptive purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist explains",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the nations who hear His deeds made known. You are called to give thanks, and you learn that He remembers His covenant forever. What do you weigh more: the deeds you are told to make known or the covenant He remembers forever?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Genesis 12:1-3",
+        "summary": "The psalmist says the LORD remembers the covenant He made with Abraham, and the oath He swore to Isaac (v. 9). Genesis 12:1-3 records the LORD telling Abram that He will make him a great nation and bless him, and that all the families of the earth will be blessed through him.",
+        "question": "How does Genesis 12:1-3 help you understand the covenant the psalmist says the LORD remembers in verse 9?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "remembrance",
+        "because": "the wonders He has done and His marvels are to be remembered",
+        "feeling": "ingratitude, forgetfulness",
+        "object": "the blessings I take for granted",
+        "behavior": "letting His past mercies slip away",
+        "step": "write down one mercy from this week",
+        "template": "from today I bring You my {feeling:ingratitude, forgetfulness} about {object:the blessings I take for granted} and instead of {behavior:letting His past mercies slip away}, I will {step:write down one mercy from this week}."
       }
     }
   }

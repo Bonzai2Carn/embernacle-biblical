@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty in conquest",
-            "expansion": "Divine power transcends human limitations and directly intervenes in historical events."
-          },
-          {
-            "id": 2,
-            "text": "Israel's unworthiness before God",
-            "expansion": "National blessing comes not through inherent merit but through divine grace and covenant."
-          },
-          {
-            "id": 3,
-            "text": "The danger of self-righteousness",
-            "expansion": "Human beings must remain humble, recognizing their persistent tendency toward rebellion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's promise is certain, why must Israel still participate in the conquest?"
-      },
-      "moral_slider": {
-        "question": "How do divine election and human responsibility intersect?",
-        "left_label": "Predestination",
-        "right_label": "Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention changed?",
-        "options": [
-          "More aware of God's active role in history",
-          "Recognize human weakness more clearly",
-          "See covenant relationship as dynamic",
-          "Understand grace beyond personal merit"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine selection demonstrates God's redemptive strategy beyond individual merit",
           "National election guarantees automatic spiritual blessing"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The people ask",
+            "ref": "v. 2",
+            "speaker": "The people"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people who ask who can stand up to the sons of Anak. You hear that the LORD your God goes ahead of you as a consuming fire. What would you weigh most about facing a people strong and tall?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Ephesians 2:8-9",
+        "summary": "Moses tells the people not to claim their success is due to their own righteousness (v. 4-6). Paul explains that even our salvation is a gift that prevents any reason for boasting.",
+        "question": "How does Paul's description of grace help you understand why Moses forbids the people from taking credit for the land?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "surrender",
+        "because": "the LORD your God gives you this good land though you are a stiff-necked people and not righteous",
+        "feeling": "pride, self-righteousness",
+        "object": "my own success",
+        "behavior": "crediting my own goodness",
+        "step": "thank God for what I did not earn",
+        "template": "from today I release my {feeling:pride, self-righteousness} over {object:my own success} and instead of {behavior:crediting my own goodness}, I will {step:thank God for what I did not earn}."
       }
     }
   }

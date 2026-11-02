@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which underlying dynamic most captures the chapter's essence?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Misinterpreted Intentions",
-            "expansion": "Hanun misunderstands David's genuine diplomatic gesture as potential subterfuge."
-          },
-          {
-            "id": 2,
-            "text": "Escalating Conflict",
-            "expansion": "A misunderstanding quickly transforms into a full-scale military confrontation."
-          },
-          {
-            "id": 3,
-            "text": "Diplomatic Vulnerability",
-            "expansion": "Good faith efforts can be weaponized by suspicious advisors."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do initial perceptions shape conflict, and what responsibility do leaders bear in managing potential misunderstandings?"
-      },
-      "moral_slider": {
-        "question": "How should diplomatic outreach be balanced with potential strategic risks?",
-        "left_label": "Open Trust",
-        "right_label": "Calculated Caution"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of diplomatic engagement have shifted?",
-        "options": [
-          "Recognize the complexity of cross-cultural communication",
-          "Understand how advisors can manipulate leadership perceptions",
-          "See how quickly peaceful intentions can devolve into conflict",
-          "Appreciate the importance of maintaining dignified responses under provocation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize human limitations in perceiving true intentions",
           "Prioritize peaceful resolution over retaliatory actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 2",
+            "speaker": "David"
+          },
+          {
+            "who": "the princes of the Ammonites said to Hanun",
+            "ref": "v. 3",
+            "speaker": "Ammonites"
+          }
+        ],
+        "question": "Put yourself in Hanun's place. You receive a gesture of kindness, but your leaders call it a spy mission. Do you act on the kindness offered or the suspicion raised?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Galatians 6:7",
+        "summary": "Hanun shames David's envoys (v. 4), and the Ammonites then pay for chariots and horsemen to fight Israel (vv. 6-7). Galatians 6:7 says that a man reaps what he sows.",
+        "question": "How does Galatians 6:7 help you understand the cost of the Ammonites' choices in verses 4-7?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "Joab urged the army to fight bravely and asked the LORD to do what is good in His sight",
+        "feeling": "anxiety, dread",
+        "object": "a difficult confrontation",
+        "behavior": "trying to control the outcome",
+        "step": "act bravely for my people",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult confrontation} and instead of {behavior:trying to control the outcome}, I will {step:act bravely for my people}."
       }
     }
   }

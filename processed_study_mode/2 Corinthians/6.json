@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of ministerial integrity resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Enduring Personal Hardship",
-            "expansion": "Recognizing that spiritual work often demands tremendous personal sacrifice and resilience."
-          },
-          {
-            "id": 2,
-            "text": "Maintaining Moral Separation",
-            "expansion": "Understanding the critical boundary between engagement with the world and compromise of spiritual principles."
-          },
-          {
-            "id": 3,
-            "text": "Divine Empowerment in Weakness",
-            "expansion": "Embracing how God's power is most evident through human vulnerability and limitation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of 'ministry' change if you viewed every interaction as a potential divine appointment?"
-      },
-      "moral_slider": {
-        "question": "How do you balance spiritual authenticity with cultural engagement?",
-        "left_label": "Complete Separation",
-        "right_label": "Total Immersion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual service evolved?",
-        "options": [
-          "Recognized the depth of personal sacrifice required",
-          "Understood ministry as holistic, not just programmatic",
-          "Appreciated the spiritual power in vulnerability",
-          "Saw the importance of maintaining spiritual boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual application considering cultural and personal circumstances",
           "Metaphorical understanding of spiritual alignment and worldview"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "vv. 14-15",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answers",
+            "ref": "v. 16",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in the place of a believer looking for common ground. What do these questions reveal about the boundaries of your partnership with others?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "1 John 2:15-17",
+        "summary": "Paul shows that the temple of God cannot agree with idols (v. 16). John explains why: loving the world and its desires is incompatible with the love of the Father (vv. 15-16).",
+        "question": "John identifies the specific things that pull us away from God. How does this help you understand Paul's command to touch no unclean thing?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "devotion",
+        "because": "God's servants have nothing, and yet possess everything",
+        "feeling": "inadequacy, lack",
+        "object": "my current resources",
+        "behavior": "comparing my life to others",
+        "step": "thank God for His presence",
+        "template": "from today I let go of my {feeling:inadequacy, lack} over {object:my current resources} and instead of {behavior:comparing my life to others}, I will {step:thank God for His presence}."
       }
     }
   }

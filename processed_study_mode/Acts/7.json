@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Stephen's historical recounting most resonates with spiritual transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereign guidance through generations",
-            "expansion": "Divine providence operates beyond individual human understanding or timelines."
-          },
-          {
-            "id": 2,
-            "text": "Repeated patterns of rejection faced by prophetic voices",
-            "expansion": "Spiritual truth often confronts established power structures, inviting resistance."
-          },
-          {
-            "id": 3,
-            "text": "The journey of faith as continuous displacement and trust",
-            "expansion": "Authentic spiritual growth requires leaving familiar comfort zones."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might Stephen's comprehensive historical narrative challenge our tendency to understand faith through narrow, personal perspectives?"
-      },
-      "moral_slider": {
-        "question": "Where do you perceive the tension between institutional religious tradition and prophetic spiritual revelation?",
-        "left_label": "Tradition",
-        "right_label": "Prophetic Insight"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual calling shifted after hearing Stephen's speech?",
-        "options": [
-          "More aware of historical continuity in faith",
-          "Recognize the courage required in speaking uncomfortable truths",
-          "Understand faith as a dynamic, evolving journey",
-          "Appreciate the interconnectedness of God's redemptive plan"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Exposes generational patterns of prophetic rejection",
           "Highlights individual faithfulness over collective religious performance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 59,
+        "exchange": [
+          {
+            "who": "Stephen appealed while they stoned him",
+            "ref": "v. 59",
+            "speaker": "Stephen"
+          },
+          {
+            "who": "Stephen cried out",
+            "ref": "v. 60",
+            "speaker": "Stephen"
+          }
+        ],
+        "question": "Put yourself in Stephen's place. While they stone you, you appeal to the Lord to receive your spirit. Then you cry out that He not hold this sin against them. What would you weigh about the people who are harming you?"
+      },
+      "chain": {
+        "after": 52,
+        "ref": "Matthew 23:37",
+        "summary": "Stephen accuses the council of killing the prophets who foretold the Righteous One (v. 52). Matthew 23:37 laments Jerusalem, who kills the prophets and stones those sent to her.",
+        "question": "How does Matthew 23:37 help you understand the charge Stephen brings against the council in v. 52?"
+      },
+      "conviction": {
+        "verse": 55,
+        "frame": "trust",
+        "because": "Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God",
+        "feeling": "fear, dread",
+        "object": "a hostile crowd closing in",
+        "behavior": "watching only the threats around me",
+        "step": "fix my eyes on what God shows me",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a hostile crowd closing in} to God and instead of {behavior:watching only the threats around me}, I will {step:fix my eyes on what God shows me}."
       }
     }
   }

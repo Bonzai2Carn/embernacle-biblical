@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of suffering resonates most deeply?",
-        "choices": [
-          {
-            "id": "resilience",
-            "text": "Enduring oppression without losing hope",
-            "expansion": "The psalmist demonstrates spiritual strength through persistent faith despite prolonged persecution."
-          },
-          {
-            "id": "justice",
-            "text": "Divine retribution against oppressors",
-            "expansion": "The psalm anticipates God's ultimate judgment on those who intentionally harm the righteous."
-          },
-          {
-            "id": "community",
-            "text": "Collective resistance through spiritual solidarity",
-            "expansion": "The communal language suggests suffering is not individual, but a shared experience of faith communities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might persistent suffering transform one's understanding of divine purpose?"
-      },
-      "moral_slider": {
-        "question": "Between personal vindication and compassionate forgiveness, where do you locate spiritual maturity?",
-        "left_label": "Personal Vindication",
-        "right_label": "Compassionate Forgiveness"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on adversity shifted after reflecting on this psalm?",
-        "options": [
-          "I see suffering as more purposeful",
-          "I understand resilience differently",
-          "My view of divine justice has deepened",
-          "I recognize the power of communal strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical oppression demonstrates the resilience of spiritual identity",
           "Divine justice operates on a timeline beyond human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The people declare",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Israel, looking back at a lifetime of attacks. What does it mean for you that the LORD is righteous and has cut you from the cords of the wicked?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Exodus 1:12",
+        "summary": "The psalmist says they have been persecuted from their youth, but have not prevailed (v. 2). Exodus 1:12 says the more the people were oppressed, the more they multiplied and flourished.",
+        "question": "How does the growth of the people in Exodus 1:12 help you understand why they have not been overcome in verse 2?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "the LORD is righteous and has cut me from the cords of the wicked",
+        "feeling": "fear, anxiety",
+        "object": "the pressure of my enemies",
+        "behavior": "trying to fight my own battles",
+        "step": "rest in His righteousness",
+        "template": "from today I bring You my {feeling:fear, anxiety} about {object:the pressure of my enemies} and instead of {behavior:trying to fight my own battles}, I will {step:rest in His righteousness}."
       }
     }
   }

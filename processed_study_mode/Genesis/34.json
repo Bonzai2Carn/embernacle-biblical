@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human response to violation most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Emotional Trauma",
-            "expansion": "The profound psychological impact of violation transcends immediate physical harm"
-          },
-          {
-            "id": 2,
-            "text": "Family Protection",
-            "expansion": "Familial bonds can drive extreme responses to perceived threats against vulnerable members"
-          },
-          {
-            "id": 3,
-            "text": "Cultural Conflict",
-            "expansion": "Intercultural misunderstandings can escalate quickly when fundamental values clash"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does righteous anger transform into disproportionate revenge, and who determines that boundary?"
-      },
-      "moral_slider": {
-        "question": "How do personal justice and communal peace balance when grave wrongs occur?",
-        "left_label": "Individual Retribution",
-        "right_label": "Collective Reconciliation"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of justice and forgiveness?",
-        "options": [
-          "I see more complexity in familial protection",
-          "I recognize the dangers of disproportionate response",
-          "I understand cultural misunderstandings better",
-          "I'm more aware of power dynamics in relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Forgiveness and restoration should be the ultimate spiritual goal",
           "Systemic cultural protections must be established to prevent such violations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 30,
+        "exchange": [
+          {
+            "who": "Jacob said to Simeon and Levi",
+            "ref": "v. 30",
+            "speaker": "Jacob"
+          },
+          {
+            "who": "Simeon and Levi replied",
+            "ref": "v. 31",
+            "speaker": "Simeon and Levi"
+          }
+        ],
+        "question": "Put yourself in Jacob's place, hearing that your household will be destroyed if the people of the land unite against you. What do you make of your sons' reply?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Proverbs 20:22",
+        "summary": "Jacob's sons answer Shechem and his father Hamor deceitfully, because Shechem had defiled their sister (v. 13). Proverbs says: Do not say, I will avenge this evil! Wait on the LORD (Proverbs 20:22).",
+        "question": "How does Proverbs 20:22 help you weigh the methods used by Jacob's sons in this conflict?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "he remained silent about it until they returned",
+        "feeling": "fear, avoidance",
+        "object": "a difficult truth",
+        "behavior": "ignoring the problem",
+        "step": "speak the truth clearly",
+        "template": "from today I bring my {feeling:fear, avoidance} about {object:a difficult truth} into the light and instead of {behavior:ignoring the problem}, I will {step:speak the truth clearly}."
       }
     }
   }

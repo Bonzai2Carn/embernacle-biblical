@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual idolatry resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Hidden Heart Idols",
-            "expansion": "Internal devotions that subtly replace genuine relationship with God"
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Self-Deception",
-            "expansion": "The dangerous pattern of seeking divine guidance while maintaining unrepentant attitudes"
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Spiritual Compromise",
-            "expansion": "How personal compromise creates systemic spiritual erosion"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your inner devotions were transparently visible, what would they reveal about your true spiritual priorities?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual compromises impact communal spiritual integrity?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Spiritual Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity evolved?",
-        "options": [
-          "Recognize subtle forms of idolatry",
-          "Understand deeper spiritual accountability",
-          "Appreciate divine patience with human weakness",
-          "See spiritual integrity as a collective responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ritualistic worship without authentic relationship",
           "Selective obedience that maintains personal comfort"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the elders sitting before the prophet. You have set up idols in your heart. What would you understand about how the Lord will answer your inquiry?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Jeremiah 17:9-10",
+        "summary": "The Lord warns that He will answer people according to the idols in their hearts (v. 4). Jeremiah describes the same hidden reality of the human heart and God's ability to examine it.",
+        "question": "How does Jeremiah's description of the heart's deceitfulness help you understand why the Lord answers the elders according to their idolatry?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "the LORD tells Israel to repent and turn away from its idols and abominations",
+        "feeling": "distraction, apathy",
+        "object": "the things I have prioritized over God",
+        "behavior": "seeking comfort in worldly things",
+        "step": "dedicate my first moments to prayer",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the things I have prioritized over God} and instead of {behavior:seeking comfort in worldly things}, I will {step:dedicate my first moments to prayer}."
       }
     }
   }

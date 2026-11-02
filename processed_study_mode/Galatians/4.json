@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical transformation speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "From Slave to Son",
-            "expansion": "The profound shift from legal obligation to intimate relationship with God"
-          },
-          {
-            "id": 2,
-            "text": "Divine Timing of Redemption",
-            "expansion": "God's strategic intervention at the perfect moment in human history"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Maturity Transition",
-            "expansion": "Moving from childlike spiritual dependence to mature, intentional faith"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current understanding of spiritual freedom be limiting your perception of true divine sonship?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance personal spiritual autonomy with divine guidance?",
-        "left_label": "Legal Constraint",
-        "right_label": "Relational Freedom"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance evolved?",
-        "options": [
-          "I now see faith as a relationship, not a transaction",
-          "I recognize my own potential for spiritual maturity",
-          "I understand God's timing differently",
-          "I'm more aware of my status as an adopted child of God"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates God's intentional plan of intimate relationship restoration",
           "Reveals the transformative power of divine adoption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Paul points to what is written",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who wants to be under the law, asked whether you understand what the law says. What would you make of being told that Abraham had two sons, one by the slave woman and the other by the free woman?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 8:15",
+        "summary": "God sent His Son to redeem those under the law so that we might receive adoption as sons (vv. 4-5), and the Spirit of His Son cries out 'Abba, Father!' in our hearts (v. 6). Romans 8:15 says we did not receive a spirit of slavery that returns us to fear, but the Spirit of sonship, by whom we cry 'Abba! Father!'",
+        "question": "How does Romans 8:15 help you understand the cry of 'Abba, Father' in verse 6?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "the one who has received the Spirit of God's Son is no longer a slave, but a son and an heir through God",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "trying to earn God's favor",
+        "step": "rest in my identity as an heir",
+        "template": "from today I let go of my {feeling:shame, inadequacy} over {object:my past failures} and instead of {behavior:trying to earn God's favor}, I will {step:rest in my identity as an heir}."
       }
     }
   }

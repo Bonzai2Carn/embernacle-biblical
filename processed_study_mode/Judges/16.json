@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human vulnerability resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Samson's Physical Strength vs Emotional Weakness",
-            "expansion": "Raw power cannot compensate for spiritual and emotional fragility."
-          },
-          {
-            "id": 2,
-            "text": "Delilah's Persistent Manipulation",
-            "expansion": "Emotional vulnerability can be systematically exploited through strategic psychological pressure."
-          },
-          {
-            "id": 3,
-            "text": "Divine Purpose Despite Personal Failures",
-            "expansion": "God's plans transcend individual human moral shortcomings."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do our deepest personal weaknesses become the very channels through which transformative lessons are learned?"
-      },
-      "moral_slider": {
-        "question": "To what extent can personal betrayal be redemptive?",
-        "left_label": "Destruction",
-        "right_label": "Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of strength and vulnerability shifted?",
-        "options": [
-          "Strength is more than physical power",
-          "Emotional intelligence matters more than raw capability",
-          "Spiritual resilience transcends personal failures",
-          "Betrayal can be a pathway to deeper understanding"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine calling can persist despite repeated human failures",
           "Spiritual gifts do not guarantee spiritual maturity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Delilah cries out",
+            "ref": "v. 20",
+            "speaker": "Delilah"
+          },
+          {
+            "who": "Samson thought",
+            "ref": "v. 20",
+            "speaker": "Samson"
+          }
+        ],
+        "question": "Put yourself in Samson's place as you wake to the cry that the Philistines are here. You think you will escape as you did before. What do you weigh in that thought?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "James 1:14-15",
+        "summary": "Delilah presses Samson daily with her words until he is sick to death (v. 16). James says each one is tempted when lured and enticed by his own evil desires, and that full-grown sin gives birth to death.",
+        "question": "How does James 1:14-15 help you understand what was happening as Samson gave in to Delilah?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "exposure",
+        "because": "my strength will leave me if I am shaved",
+        "feeling": "fear, dread",
+        "object": "someone who keeps pressing me",
+        "behavior": "telling them everything",
+        "step": "guard the secrets God has entrusted to me",
+        "template": "from today I bring my {feeling:fear, dread} about {object:someone who keeps pressing me} into the light and instead of {behavior:telling them everything}, I will {step:guard the secrets God has entrusted to me}."
       }
     }
   }

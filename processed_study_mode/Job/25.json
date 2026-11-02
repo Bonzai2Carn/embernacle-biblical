@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective about human insignificance resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cosmic Humility",
-            "expansion": "Humans are infinitesimally small compared to divine magnitude and universal complexity."
-          },
-          {
-            "id": 2,
-            "text": "Divine Sovereignty",
-            "expansion": "God's armies and power transcend human comprehension and moral judgment."
-          },
-          {
-            "id": 3,
-            "text": "Inherent Imperfection",
-            "expansion": "Human beings are fundamentally limited and tainted by their mortal origin."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If perfection is unattainable, what meaning can human striving possibly hold?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human limitation with spiritual aspiration?",
-        "left_label": "Total Human Inadequacy",
-        "right_label": "Potential for Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human worth shifted?",
-        "options": [
-          "I feel more humble",
-          "I recognize divine complexity",
-          "I see limitations as part of growth",
-          "I'm more accepting of uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment requires absolute perfection",
           "Redemption transforms human moral capacity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Bildad said",
+            "ref": "v. 2",
+            "speaker": "Bildad"
+          },
+          {
+            "who": "Bildad asked",
+            "ref": "v. 4",
+            "speaker": "Bildad"
+          }
+        ],
+        "question": "Put yourself in Job's place. Bildad says dominion and awe belong to God, then asks how a man can be just before Him. What would you weigh about your own standing before God?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 51:5",
+        "summary": "Bildad asks how one born of woman can be pure (v. 4) and says even the stars are not pure in His sight (v. 5). Psalm 51:5 says the psalmist was brought forth in iniquity and was sinful when his mother conceived him.",
+        "question": "How does Psalm 51:5 help you understand Bildad's view of one born of woman?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "a man cannot be just before God, and one born of woman cannot be pure",
+        "feeling": "shame, self-doubt",
+        "object": "my own failures",
+        "behavior": "hiding my flaws",
+        "step": "bring my flaws to God in prayer",
+        "template": "from today I bring my {feeling:shame, self-doubt} about {object:my own failures} into the light and instead of {behavior:hiding my flaws}, I will {step:bring my flaws to God in prayer}."
       }
     }
   }

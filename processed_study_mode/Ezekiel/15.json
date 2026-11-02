@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical insight resonates most about spiritual usefulness?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Potential without purpose is worthless",
-            "expansion": "A life without spiritual productivity is as disposable as an unproductive vine branch."
-          },
-          {
-            "id": 2,
-            "text": "Judgment begins with apparent privilege",
-            "expansion": "Even chosen vessels can be discarded if they do not bear meaningful fruit."
-          },
-          {
-            "id": 3,
-            "text": "Utility defines spiritual value",
-            "expansion": "Divine assessment centers on actual contribution, not merely potential or status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your spiritual life were evaluated purely by its tangible outcomes, what would remain?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance between potential and performance?",
-        "left_label": "Grace for Potential",
-        "right_label": "Demand for Results"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual productivity shifted?",
-        "options": [
-          "I now see purpose as more critical than position",
-          "Metaphorical language reveals deeper spiritual truths",
-          "Divine judgment is more nuanced than I previously understood",
-          "My own spiritual effectiveness requires honest self-examination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual unproductiveness can lead to severe consequences",
           "External religious practices are insufficient without internal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of a listener hearing about the vine wood. Once it is cast into the fire and charred, what do you understand about its usefulness?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "John 15:6",
+        "summary": "The LORD describes the vine wood as useless and destined for the fire (v. 6). Jesus uses the same image to describe the consequence of not remaining in Him (John 15:6).",
+        "question": "How does Jesus' warning about being cast away help you understand the fate of the people in Ezekiel's vision?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "exposure",
+        "because": "the people have acted unfaithfully",
+        "feeling": "guilt, shame",
+        "object": "a hidden compromise",
+        "behavior": "pretending everything is fine",
+        "step": "confess it to God",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a hidden compromise} into the light and instead of {behavior:pretending everything is fine}, I will {step:confess it to God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine instruction in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Direct Commandment",
-            "expansion": "Divine instructions come with precise, unambiguous directives about collective action."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Unity in Warfare",
-            "expansion": "Each tribe contributes equally, demonstrating communal responsibility and shared purpose."
-          },
-          {
-            "id": 3,
-            "text": "Vengeance as Spiritual Obligation",
-            "expansion": "Retribution can be framed as a sacred duty rather than personal revenge."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we discern between divine instruction and human interpretation of divine will?"
-      },
-      "moral_slider": {
-        "question": "To what extent is collective punishment justifiable?",
-        "left_label": "Individual Mercy",
-        "right_label": "Communal Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine justice evolved?",
-        "options": [
-          "More nuanced about proportionality",
-          "Recognize complexity of tribal/collective accountability",
-          "See tension between mercy and judgment",
-          "Understand historical context matters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "These accounts reflect ancient cultural perspectives about conflict and divine intervention",
           "These stories demonstrate God's ultimate authority over human moral boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Moses was angry with the officers",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "Moses asked if they had spared all the women",
+            "ref": "v. 15",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the returning officers. You have come back from the battle, yet your leader confronts you with anger. What do you understand about the reason for his anger?"
+      },
+      "chain": {
+        "after": 53,
+        "ref": "Joshua 6:17-21",
+        "summary": "The commanders bring gold to the LORD to make atonement for themselves (v. 50), and Moses and Eleazar place it in the Tent of Meeting as a memorial (v. 54). Joshua 6 says all the silver and gold are holy to the LORD and must go into His treasury (v. 19).",
+        "question": "How does Joshua 6:17-21 help you understand the weight of the gold the officers brought to the LORD?"
+      },
+      "conviction": {
+        "verse": 54,
+        "frame": "remembrance",
+        "because": "Moses and Eleazar the priest brought the gold into the Tent of Meeting as a memorial for the Israelites before the LORD",
+        "feeling": "pride, self-importance",
+        "object": "my recent success",
+        "behavior": "claiming the credit",
+        "step": "point the glory back to God",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my recent success} and instead of {behavior:claiming the credit}, I will {step:point the glory back to God}."
       }
     }
   }

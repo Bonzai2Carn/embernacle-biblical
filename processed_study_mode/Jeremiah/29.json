@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic perspective resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Seeking peace in exile",
-            "expansion": "Finding purpose and spiritual growth even in challenging circumstances"
-          },
-          {
-            "id": 2,
-            "text": "God's long-term promise of restoration",
-            "expansion": "Trusting divine plans that transcend immediate suffering"
-          },
-          {
-            "id": 3,
-            "text": "Maintaining hope amid displacement",
-            "expansion": "Preserving cultural and spiritual identity under external pressures"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might temporary displacement be an opportunity for deeper spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between resignation and active hope?",
-        "left_label": "Resignation",
-        "right_label": "Active Hope"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and divine purpose shifted?",
-        "options": [
-          "Suffering is not punishment but potential growth",
-          "God's plans are often larger than our immediate perception",
-          "Community resilience matters more than individual comfort",
-          "Patience and faith are interconnected spiritual practices"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Immediate resistance and confrontation",
           "Strategic prayer and cultural integration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "vv. 4-7",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "vv. 8-9",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the exiles. You are told to build houses, plant gardens, and seek the prosperity of the city where you were sent, and also not to listen to the dreams you elicit from the prophets among you. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Isaiah 46:10",
+        "summary": "The LORD says He knows the plans He has for the exiles, plans to give them a future and a hope (v. 11). Isaiah says God declares the end from the beginning and that His purpose will stand.",
+        "question": "How does God's declaring the end from the beginning help you understand the plans He announces for the exiles in verse 11?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "the LORD says the one who searches for Him with all the heart will find Him",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "skimming through prayers",
+        "step": "seek Him with focus",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning routine} and instead of {behavior:skimming through prayers}, I will {step:seek Him with focus}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of distress and deliverance resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Crying out to God in personal anguish",
-            "expansion": "The psalmist demonstrates raw, unfiltered communication with the divine during moments of profound emotional struggle."
-          },
-          {
-            "id": 2,
-            "text": "Experiencing deception from surrounding cultures",
-            "expansion": "The psalm reveals the psychological toll of living among people who speak falsely and promote conflict."
-          },
-          {
-            "id": 3,
-            "text": "Longing for peace in a hostile environment",
-            "expansion": "The deep human desire for tranquility emerges as a fundamental spiritual and emotional need."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do your personal struggles reveal your deepest spiritual vulnerabilities?"
-      },
-      "moral_slider": {
-        "question": "To what extent do external conflicts shape your inner spiritual landscape?",
-        "left_label": "Victim of Circumstances",
-        "right_label": "Master of Inner Peace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Recognized the power of honest lament",
-          "Understood suffering as a pathway to deeper connection",
-          "Learned that divine comfort transcends external circumstances",
-          "Embraced vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moral integrity serves as a shield against spiritual attacks",
           "Transformation occurs through understanding divine perspective"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The psalmist laments",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You are for peace, yet when you speak, they want war. What do you weigh more heavily in that moment: the people who hate peace, or the LORD who answers when you cry to Him in distress?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 34:17",
+        "summary": "The psalmist cries to the LORD in his distress, and the LORD answers him (v. 1). Psalm 34:17 says the righteous cry out, the LORD hears, and He delivers them from all their troubles.",
+        "question": "How does Psalm 34:17 help you understand the answer the psalmist receives in verse 1?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "in my distress I cried to the LORD, and He answered me",
+        "feeling": "resentment, bitterness",
+        "object": "people who speak lies",
+        "behavior": "answering their lies with my own words",
+        "step": "call on the LORD in prayer",
+        "template": "from today I bring You my {feeling:resentment, bitterness} about {object:people who speak lies} and instead of {behavior:answering their lies with my own words}, I will {step:call on the LORD in prayer}."
       }
     }
   }

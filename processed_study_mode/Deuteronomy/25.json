@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which judicial principle resonates most deeply?",
-        "choices": [
-          {
-            "id": "proportionality",
-            "text": "Punishment must be proportional to the offense",
-            "expansion": "Justice demands measured response, preventing excess or arbitrary punishment."
-          },
-          {
-            "id": "dignity",
-            "text": "Even condemned persons retain human dignity",
-            "expansion": "Legal consequences should not strip away fundamental human respect."
-          },
-          {
-            "id": "accountability",
-            "text": "Personal responsibility is paramount",
-            "expansion": "Individual actions have direct, predictable consequences within a structured legal framework."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If justice is about restoration rather than punishment, how might these legal prescriptions transform societal understanding of accountability?"
-      },
-      "moral_slider": {
-        "question": "How do legal boundaries balance individual freedom with communal order?",
-        "left_label": "Personal Liberty",
-        "right_label": "Collective Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on justice evolved after examining these principles?",
-        "options": [
-          "More empathetic towards legal process",
-          "Recognize complexity of moral judgments",
-          "Appreciate nuanced approaches to accountability",
-          "See law as a tool for communal healing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Community welfare requires active participation and mutual protection",
           "Systemic compassion is a fundamental expression of spiritual maturity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The law commands",
+            "ref": "vv. 13-14",
+            "speaker": ""
+          },
+          {
+            "who": "The reason given is",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person setting up a household. What does this requirement for honest weights change about how you handle your daily business?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Proverbs 11:1",
+        "summary": "Moses says everyone who deals dishonestly with weights and measures is detestable to the LORD (v. 16). Proverbs says dishonest scales are an abomination to the LORD, but an accurate weight is His delight.",
+        "question": "How does Proverbs 11:1 help you understand what the LORD thinks of honest weights, beyond the warning in verse 16?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "accurate and honest weights and measures allow you to live long in the land",
+        "feeling": "greed, selfishness",
+        "object": "a small advantage in a deal",
+        "behavior": "cutting corners to win",
+        "step": "give honest weight in every sale",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:a small advantage in a deal} and instead of {behavior:cutting corners to win}, I will {step:give honest weight in every sale}."
       }
     }
   }

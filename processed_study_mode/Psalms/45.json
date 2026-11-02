@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of royal/messianic imagery resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Beauty of the King",
-            "expansion": "The poetic description suggests transcendent grace beyond mere human appearance"
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Anticipation",
-            "expansion": "The psalm seems to point toward a future messianic figure of extraordinary significance"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Wedding Metaphor",
-            "expansion": "The royal marriage symbolizes deeper spiritual covenant and relationship"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine beauty manifest differently than human aesthetic standards?"
-      },
-      "moral_slider": {
-        "question": "How do earthly and divine kingship intersect?",
-        "left_label": "Human Power",
-        "right_label": "Divine Authority"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic poetry shifted?",
-        "options": [
-          "Recognized deeper symbolic layers",
-          "Appreciated poetic metaphorical complexity",
-          "Saw messianic anticipation more clearly",
-          "Understood spiritual allegory"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Royal imagery demonstrates Christ's ultimate authority and victory",
           "The prophetic text highlights the spiritual and political dimensions of messianic prophecy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The singer proclaims",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The singer gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the singer. You hear of a throne that lasts forever (v. 6), and then you hear the reason for the king's anointing (v. 7). What does his love for righteousness tell you about the nature of his kingdom?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Hebrews 1:8-9",
+        "summary": "The psalmist says God's throne endures forever and justice is the scepter of His kingdom (v. 6). Hebrews 1:8-9 says God speaks these words about the Son.",
+        "question": "How does Hebrews 1:8-9 change how you hear the words about an eternal throne in verse 6?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "grace has anointed the king's lips",
+        "feeling": "bitterness, harshness",
+        "object": "a difficult conversation",
+        "behavior": "speaking sharp words",
+        "step": "speak with grace",
+        "template": "from today I bring You my {feeling:bitterness, harshness} about {object:a difficult conversation} and instead of {behavior:speaking sharp words}, I will {step:speak with grace}."
       }
     }
   }

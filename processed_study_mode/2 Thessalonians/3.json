@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea most resonates with your spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Faithfulness",
-            "expansion": "God remains constant even when human faith wavers."
-          },
-          {
-            "id": 2,
-            "text": "Persistent Prayer",
-            "expansion": "Intercession creates spiritual momentum and protection."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Resilience",
-            "expansion": "Maintaining spiritual integrity amidst challenging circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal limitations interact with divine purpose when spreading spiritual truth?"
-      },
-      "moral_slider": {
-        "question": "Where do individual spiritual responsibility and divine intervention intersect?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare and divine protection evolved?",
-        "options": [
-          "Recognize spiritual battles are real",
-          "Understand prayer as active resistance",
-          "Trust divine faithfulness over personal fear",
-          "See challenges as opportunities for growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual preservation depends entirely on individual merit",
           "God's faithfulness is contextual and situational"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Paul asks for prayer",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul declares",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Thessalonians. You hear Paul's request for protection from wicked men, but then he speaks of the Lord's faithfulness. What does this shift tell you about where your security lies?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Colossians 4:3",
+        "summary": "Paul asks the brothers to pray that the word of the Lord may spread quickly and be held in honor (v. 1). Colossians 4:3 asks for prayer that God may open a door for the word, so that they may proclaim the mystery of Christ.",
+        "question": "How does Colossians 4:3 help you understand what Paul wants from the prayer he asks for in v. 1?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "brothers must not grow weary in well-doing",
+        "feeling": "exhaustion, discouragement",
+        "object": "a long season of service",
+        "behavior": "quitting when results are slow",
+        "step": "complete my current task with care",
+        "template": "from today I let go of my {feeling:exhaustion, discouragement} over {object:a long season of service} and instead of {behavior:quitting when results are slow}, I will {step:complete my current task with care}."
       }
     }
   }

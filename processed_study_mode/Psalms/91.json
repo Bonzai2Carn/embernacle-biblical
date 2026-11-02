@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply in Psalms 91?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection",
-            "expansion": "God's shelter is an impenetrable fortress against all spiritual and physical threats."
-          },
-          {
-            "id": 2,
-            "text": "Absolute Trust",
-            "expansion": "Radical confidence emerges when one fully surrenders to divine providence."
-          },
-          {
-            "id": 3,
-            "text": "Supernatural Security",
-            "expansion": "Spiritual alignment creates an invisible but powerful protective barrier against adversity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine protection is guaranteed, why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal responsibility with divine protection?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual protection evolved?",
-        "options": [
-          "More skeptical of supernatural intervention",
-          "Increased appreciation for metaphorical protection",
-          "Deepened belief in literal divine guardianship",
-          "Recognize protection as inner peace, not external shield"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's protection is conditional upon perfect obedience",
           "Protection involves spiritual strength more than physical preservation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The speaker says",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 14-15",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one who first declares God a refuge. What does the Lord's later promise to answer those who call to Him change about your declaration?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 46:1",
+        "summary": "Psalm 91 says God covers the one who trusts Him with His feathers, and under His wings there is refuge (v. 4). Psalm 46:1 calls God our refuge and strength, an ever-present help in times of trouble.",
+        "question": "How does Psalm 46:1 help you understand His covering over you in verse 4?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "trust",
+        "because": "the LORD is my refuge and my fortress",
+        "feeling": "anxiety, dread",
+        "object": "the news on my phone",
+        "behavior": "scrolling for reassurance",
+        "step": "speak His name aloud",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the news on my phone} and instead of {behavior:scrolling for reassurance}, I will {step:speak His name aloud}."
       }
     }
   }

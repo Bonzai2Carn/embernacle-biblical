@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply with you in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Calling",
-            "expansion": "Sometimes spiritual purpose emerges when we are least expecting it, even in moments of vulnerability."
-          },
-          {
-            "id": 2,
-            "text": "Mentorship and Guidance",
-            "expansion": "Spiritual wisdom often requires patient transmission from one generation to another through humble listening."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Receptivity",
-            "expansion": "Hearing God's voice requires a posture of openness and willingness to be interrupted."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might Samuel's initial confusion about hearing God's voice reflect our own struggles with discerning spiritual direction?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate yourself between passive reception and active spiritual seeking?",
-        "left_label": "Passive Waiting",
-        "right_label": "Active Pursuit"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual calling shifted?",
-        "options": [
-          "I see calling as more mysterious",
-          "I recognize the importance of mentorship",
-          "I'm more attentive to unexpected moments",
-          "I understand spiritual listening differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Direct supernatural communication",
           "Community discernment processes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Samuel ran to Eli and said",
+            "ref": "v. 5",
+            "speaker": "Samuel"
+          },
+          {
+            "who": "Eli replied",
+            "ref": "v. 5",
+            "speaker": "Eli"
+          }
+        ],
+        "question": "Imagine you are Samuel, running to the person you trust to help you. What do you understand about the voice you heard when your mentor tells you he did not call you?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Isaiah 6:8",
+        "summary": "Samuel responds to the LORD with a posture of a servant ready to listen (v. 10). Isaiah hears the LORD's call and offers the same immediate response.",
+        "question": "How does Isaiah's response help you understand the weight of the words Samuel heard in the night?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "the LORD will do what is good in His eyes",
+        "feeling": "anxiety, dread",
+        "object": "a difficult outcome",
+        "behavior": "trying to change the result",
+        "step": "accept what He has decreed",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a difficult outcome} to God and instead of {behavior:trying to change the result}, I will {step:accept what He has decreed}."
       }
     }
   }

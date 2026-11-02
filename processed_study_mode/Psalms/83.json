@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of collective resistance against threats resonates most?",
-        "choices": [
-          {
-            "id": "unity",
-            "text": "Communal solidarity in facing enemies",
-            "expansion": "The psalm reveals how shared vulnerability can forge deeper spiritual bonds"
-          },
-          {
-            "id": "prayer",
-            "text": "Transformative power of passionate intercession",
-            "expansion": "Urgent prayer becomes a strategic spiritual weapon against overwhelming opposition"
-          },
-          {
-            "id": "justice",
-            "text": "Divine accountability for collective aggression",
-            "expansion": "The psalm suggests cosmic moral consequences for organized malevolence"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does passionate resistance become indistinguishable from the very hatred it seeks to oppose?"
-      },
-      "moral_slider": {
-        "question": "How do we balance righteous indignation with compassionate understanding?",
-        "left_label": "Vengeful Confrontation",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual conflict evolved?",
-        "options": [
-          "More aware of collective spiritual dynamics",
-          "Recognize complexity of inter-group tensions",
-          "See prayer as an active spiritual strategy",
-          "Understand vulnerability as a potential strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Diplomatic conflict resolution",
           "Prophetic understanding of geopolitical events"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying. You begin by begging God not to be silent, but you end by asking for a specific result for your enemies. What changed in your heart between these two cries?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "2 Chronicles 20:15",
+        "summary": "The psalmist asks God to pursue the nations with His tempest and terrify them with His storm (v. 15). Second Chronicles 20:15 records the LORD's word to King Jehoshaphat and the people of Judah: do not be afraid, for the battle belongs to God.",
+        "question": "How does 2 Chronicles 20:15 help you hear this plea for God to pursue and terrify His foes?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "devotion",
+        "because": "You alone, whose name is the LORD, are Most High over all the earth",
+        "feeling": "anxiety, fear",
+        "object": "the chaos in the world",
+        "behavior": "worrying about the future",
+        "step": "worship His sovereignty",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the chaos in the world} and instead of {behavior:worrying about the future}, I will {step:worship His sovereignty}."
       }
     }
   }

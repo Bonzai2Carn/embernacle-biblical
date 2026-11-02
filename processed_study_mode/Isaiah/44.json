@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's promise resonates most deeply?",
-        "choices": [
-          {
-            "id": "divine_formation",
-            "text": "God's intimate involvement in personal creation",
-            "expansion": "The Creator shapes each individual with intentional purpose from their earliest moments."
-          },
-          {
-            "id": "spiritual_renewal",
-            "text": "The promise of spiritual refreshment",
-            "expansion": "Divine Spirit brings transformative life to barren spiritual landscapes."
-          },
-          {
-            "id": "chosen_identity",
-            "text": "Being specifically chosen by God",
-            "expansion": "Divine selection transcends human limitations and offers profound belonging."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows and forms us from the womb, how does this challenge our understanding of personal agency and free will?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine selection with individual responsibility?",
-        "left_label": "Predestination",
-        "right_label": "Personal Choice"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your perspective on divine relationship?",
-        "options": [
-          "I see God as more personally invested",
-          "I recognize spiritual renewal is possible",
-          "I feel a deeper sense of being 'chosen'",
-          "I'm questioning previous theological assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Predestination coexists with individual human accountability",
           "Spiritual renewal is solely a divine initiative without human participation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a people whose sins are wiped away like a mist. How does the command to return change your view of the God who redeems you?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Ezekiel 36:25-27",
+        "summary": "The LORD promises to pour His Spirit on the descendants of Israel (v. 3). Ezekiel 36:25-27 has God say He will cleanse them, give them a new heart, and put His Spirit within them.",
+        "question": "How does Ezekiel 36:25-27 help you understand the Spirit poured out in Isaiah 44:3?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "remembrance",
+        "because": "the LORD has blotted out your transgressions like a cloud and redeemed you",
+        "feeling": "guilt, shame",
+        "object": "my past failures",
+        "behavior": "replaying my mistakes",
+        "step": "rest in His redemption",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:my past failures} and instead of {behavior:replaying my mistakes}, I will {step:rest in His redemption}."
       }
     }
   }

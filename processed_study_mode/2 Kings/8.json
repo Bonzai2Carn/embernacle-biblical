@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual lesson resonates most from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Provision During Hardship",
-            "expansion": "God preserves and protects those who trust Him, even through extended periods of scarcity."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Insight into Political Futures",
-            "expansion": "Spiritual leaders can discern geopolitical transformations before they manifest."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Generational Choices",
-            "expansion": "Leadership's moral trajectory can determine long-term national outcomes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal faithfulness intersect with broader societal transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent do prophetic warnings shape human agency?",
-        "left_label": "Predetermined Destiny",
-        "right_label": "Human Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More complex than simplistic cause-and-effect",
-          "Recognizes nuanced spiritual dynamics",
-          "Sees providence working through human actors",
-          "Understands suffering as potential spiritual refinement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Humans can resist or collaborate with divine directives",
           "Prophetic revelations are contextual and subject to interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Hazael asked Elisha",
+            "ref": "v. 13",
+            "speaker": "Hazael"
+          }
+        ],
+        "question": "Put yourself in Hazael's place. You ask how your servant, a mere dog, could do such a monstrous thing. What would you weigh in calling yourself that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "2 Samuel 7:16",
+        "summary": "The text records that the LORD refused to destroy Judah because of a promise to David (v. 19). This reflects the eternal nature of the covenant God made with David's line.",
+        "question": "How does the permanence of God's promise to David help you understand why He spared Judah despite the evil of their kings?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "the woman did as the man of God instructed and lived as a foreigner for seven years",
+        "feeling": "anxiety, fear",
+        "object": "a season of scarcity",
+        "behavior": "trying to control the outcome",
+        "step": "obey the instruction given",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a season of scarcity} and instead of {behavior:trying to control the outcome}, I will {step:obey the instruction given}."
       }
     }
   }

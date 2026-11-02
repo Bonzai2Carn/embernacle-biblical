@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological struggle resonates most in this Psalm of lament?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Abandonment",
-            "expansion": "The psalmist wrestles with feeling God has seemingly forgotten His covenant and people."
-          },
-          {
-            "id": 2,
-            "text": "Communal Suffering",
-            "expansion": "The profound grief over destroyed sacred spaces reflects collective trauma and spiritual devastation."
-          },
-          {
-            "id": 3,
-            "text": "Persistent Hope",
-            "expansion": "Despite overwhelming despair, an underlying faith in God's ultimate restoration remains present."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's faithfulness is eternal, how do we reconcile moments of apparent divine silence during profound communal suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you understand God's relationship to human pain?",
-        "left_label": "Divine Detachment",
-        "right_label": "Divine Companionship"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "Recognize suffering as part of spiritual journey",
-          "Understand lament as a legitimate form of prayer",
-          "Embrace complexity in theological understanding",
-          "Acknowledge limitations of human comprehension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical covenant promises remain valid even during periods of apparent divine silence",
           "Communal lament is a valid spiritual response to national trauma"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the sheep of His pasture. His anger smolders, and you ask why He has rejected you. What changes when you hear that God is your King from ancient times, working salvation on the earth?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Isaiah 54:7-8",
+        "summary": "The psalmist asks why God has rejected His people forever (v. 1). Isaiah 54:7-8 says God forsook His people for a brief moment, but with great compassion and everlasting kindness He will bring them back.",
+        "question": "How does Isaiah 54:7-8 help you understand the question in verse 1, 'Why have You rejected us forever?'"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "God is my King from ancient times, working salvation on the earth",
+        "feeling": "despair, hopelessness",
+        "object": "the ruins around me",
+        "behavior": "doubting that He is present",
+        "step": "remind myself that God is my King",
+        "template": "from today I bring You my {feeling:despair, hopelessness} about {object:the ruins around me} and instead of {behavior:doubting that He is present}, I will {step:remind myself that God is my King}."
       }
     }
   }

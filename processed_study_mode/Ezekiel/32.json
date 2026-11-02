@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The metaphor of God's net capturing powerful nations",
-            "expansion": "Divine sovereignty transcends human political power and perceived invincibility."
-          },
-          {
-            "id": 2,
-            "text": "The lamentation for fallen rulers",
-            "expansion": "Even mighty empires are ultimately fragile before cosmic spiritual forces."
-          },
-          {
-            "id": 3,
-            "text": "The imagery of destruction as spiritual cleansing",
-            "expansion": "Judgment can be understood as a transformative, purifying process beyond mere punishment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately about restoration, how might destruction serve a redemptive purpose?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the balance between divine justice and divine mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual consequence evolved?",
-        "options": [
-          "Recognize systemic patterns of pride and fall",
-          "Understand judgment as a complex spiritual mechanism",
-          "See divine intervention as more nuanced",
-          "Appreciate metaphorical depth in prophetic language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings demonstrate God's desire for repentance before destruction",
           "Sovereignty transcends human political structures and national identities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 31",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 32",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Pharaoh. You see your multitude and army slain by the sword, and you are comforted. Then you hear that He will spread His terror in the land of the living and lay you to rest with the slain. What would you weigh about that comfort?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Exodus 14:18",
+        "summary": "The LORD says He will make Egypt a desolation, and then they will know that He is the LORD (v. 15). In Exodus 14:18 the LORD says the Egyptians will know that He is the LORD when He is honored through Pharaoh, his chariots, and his horsemen.",
+        "question": "How does Exodus 14:18 help you understand why the LORD says Egypt will know that He is the LORD?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "the mighty will ravage the pride of Egypt",
+        "feeling": "pride, arrogance",
+        "object": "my own achievements",
+        "behavior": "relying on my own strength",
+        "step": "acknowledge my need for God",
+        "template": "from today I bring my {feeling:pride, arrogance} about {object:my own achievements} into the light and instead of {behavior:relying on my own strength}, I will {step:acknowledge my need for God}."
       }
     }
   }

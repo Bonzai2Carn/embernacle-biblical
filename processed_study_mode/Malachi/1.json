@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most deeply in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Unconditional Love",
-            "expansion": "God's love persists despite human spiritual indifference and ritualistic worship."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Selectivity",
-            "expansion": "God's sovereign choice of relationship transcends human understanding of fairness."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Confrontation",
-            "expansion": "Divine communication exposes spiritual complacency and calls for genuine repentance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's love is unconditional, why does He seem to distinguish between Jacob and Esau?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human free will?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of divine relationship?",
-        "options": [
-          "I see God's love as more complex",
-          "I recognize my own spiritual complacency",
-          "I understand divine selection differently",
-          "I'm more aware of covenant responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship transcends human genealogical expectations",
           "Theological understanding requires humility about God's mysterious ways"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD points to Esau",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing God say He has loved you. You ask how He has loved you, and He points to Jacob and Esau. What do you weigh when you hear that He loved Jacob, yet hated Esau?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "1 Samuel 15:22",
+        "summary": "The LORD of Hosts asks the priests where His honor is found (v. 6). Samuel shows that God values obedience over the outward performance of religious duties.",
+        "question": "How does the priority of obedience in 1 Samuel 15:22 help you understand why God rejects the priests' defiled offerings in Malachi 1?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "exposure",
+        "because": "the LORD says the people call His worship a nuisance and turn up their noses at it",
+        "feeling": "boredom, apathy",
+        "object": "my daily devotions",
+        "behavior": "rushing through the words",
+        "step": "sit quietly with one verse",
+        "template": "from today I bring my {feeling:boredom, apathy} about {object:my daily devotions} into the light and instead of {behavior:rushing through the words}, I will {step:sit quietly with one verse}."
       }
     }
   }

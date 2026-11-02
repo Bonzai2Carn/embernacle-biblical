@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which vision of God's restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Peace",
-            "expansion": "The prophecy suggests a transformative global reconciliation beyond tribal boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Divine Instruction",
-            "expansion": "God's teachings will become a universal pathway for human understanding and harmony."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Pilgrimage",
-            "expansion": "Nations will voluntarily seek divine wisdom, creating a voluntary spiritual migration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine peace is inevitable, what personal responsibility remains for individual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do human efforts and divine intervention intersect in creating social change?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How might this prophetic vision challenge your current understanding of global reconciliation?",
-        "options": [
-          "Expanded view of spiritual unity",
-          "Skepticism about universal peace",
-          "Renewed hope in collective human potential",
-          "Recognition of divine orchestration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Progressive unfolding of divine redemptive purposes",
           "Symbolic expression of ultimate cosmic reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Many nations say",
+            "ref": "v. 2",
+            "speaker": "Many nations"
+          },
+          {
+            "who": "The LORD will judge between peoples",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the nations going up to the mountain. You say, He will teach us His ways, and then you hear that He will judge between many peoples and swords will become plowshares. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Isaiah 2:2-4",
+        "summary": "Micah says many nations will come to the mountain of the LORD to learn His ways (v. 2), and they will beat their swords into plowshares (v. 3). Isaiah 2:2-4 has nearly the same words and adds that in the last days the mountain of the house of the LORD will be raised above the hills.",
+        "question": "How does Isaiah 2:2-4 help you understand what the nations seek on the mountain of the LORD in Micah 4?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "we who belong to the LORD our God will walk in His name forever and ever",
+        "feeling": "confusion, doubt",
+        "object": "the paths others take",
+        "behavior": "comparing my progress to theirs",
+        "step": "fix my eyes on His character",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:the paths others take} and instead of {behavior:comparing my progress to theirs}, I will {step:fix my eyes on His character}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Job's lament resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling oppressed by divine judgment",
-            "expansion": "The profound human struggle of perceiving God's actions as unfair or incomprehensible."
-          },
-          {
-            "id": 2,
-            "text": "Challenging divine perspective",
-            "expansion": "Job's radical questioning of whether God truly understands human suffering from a mortal perspective."
-          },
-          {
-            "id": 3,
-            "text": "Expressing raw emotional vulnerability",
-            "expansion": "The courageous act of presenting unfiltered pain and confusion directly to the divine."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your suffering does not make sense to you, does that necessarily mean it lacks divine purpose?"
-      },
-      "moral_slider": {
-        "question": "To what degree can human beings legitimately question divine actions?",
-        "left_label": "Total Submission",
-        "right_label": "Radical Questioning"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your understanding of suffering and divine interaction?",
-        "options": [
-          "I see suffering as more potentially meaningful",
-          "I feel more permission to express raw emotional truth",
-          "I recognize the complexity of theological understanding",
-          "I'm more comfortable with spiritual uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine love permits temporary pain for ultimate spiritual growth",
           "Believers must maintain unquestioning acceptance of all circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Job asked",
+            "ref": "vv. 2-3",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job said",
+            "ref": "vv. 6-7",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You are asking for a reason for your suffering, yet you claim God already knows you are not guilty. What does this reveal about how you view His search for your sin?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 103:8-14",
+        "summary": "Job describes God's care as having granted him life and loving devotion (v. 12). The Psalmist describes the same care through God's mercy and His memory of our frame as dust (vv. 8-14).",
+        "question": "How does the Psalmist's description of God's mercy help you understand the care Job acknowledges in his current affliction?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "even if I am righteous, I cannot lift my head",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from others",
+        "step": "confess my need for grace",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my past failures} into the light and instead of {behavior:hiding from others}, I will {step:confess my need for grace}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Joseph's emotional revelation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Forgiveness despite profound betrayal",
-            "expansion": "Joseph chooses compassion over vengeance after years of familial rejection."
-          },
-          {
-            "id": 2,
-            "text": "Divine providence through suffering",
-            "expansion": "Joseph recognizes God's larger plan through his personal trials."
-          },
-          {
-            "id": 3,
-            "text": "Emotional vulnerability of a powerful leader",
-            "expansion": "Joseph publicly weeps, revealing his deep human sensitivity beneath his authoritative position."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If reconciliation were entirely in your hands, what would prevent you from extending grace to those who wounded you most deeply?"
-      },
-      "moral_slider": {
-        "question": "How do personal trauma and spiritual forgiveness intersect?",
-        "left_label": "Personal Injury",
-        "right_label": "Divine Perspective"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of forgiveness shifted?",
-        "options": [
-          "Forgiveness requires emotional healing",
-          "Forgiveness is a spiritual choice independent of feelings",
-          "Reconciliation is a gradual, complex process",
-          "True forgiveness transforms both the forgiver and forgiven"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation occurs through radical acceptance and love",
           "Human intentions can be overcome by God's ultimate redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Joseph said to his brothers",
+            "ref": "v. 3",
+            "speaker": "Joseph"
+          },
+          {
+            "who": "Joseph said",
+            "ref": "v. 5",
+            "speaker": "Joseph"
+          }
+        ],
+        "question": "Put yourself in the place of the brothers. The man says he is Joseph, the one you sold into this place. Then he tells you that God sent him before you to save lives. How does this change how you see your own past?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Genesis 50:20",
+        "summary": "Joseph tells his brothers that God, not they, sent him here (v. 8). Later, Joseph tells them God intended for good what they intended for evil, to preserve many lives (Genesis 50:20).",
+        "question": "How does seeing the finished purpose in Genesis 50:20 help you understand how Joseph views what his brothers did in verse 8?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "remembrance",
+        "because": "the spirit of Jacob was revived when he saw the wagons Joseph had sent",
+        "feeling": "despair, hopelessness",
+        "object": "a long season of loss",
+        "behavior": "clinging to old grief",
+        "step": "notice the good sent to me",
+        "template": "from today I let go of my {feeling:despair, hopelessness} over {object:a long season of loss} and instead of {behavior:clinging to old grief}, I will {step:notice the good sent to me}."
       }
     }
   }

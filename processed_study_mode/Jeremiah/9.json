@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response to societal corruption resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Profound Sorrow",
-            "expansion": "Recognizing the spiritual devastation of a community losing its moral compass."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Lament",
-            "expansion": "Experiencing grief as a spiritual response to collective spiritual betrayal."
-          },
-          {
-            "id": 3,
-            "text": "Desire for Separation",
-            "expansion": "Feeling the urgent need to distance oneself from systemic spiritual corruption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal integrity function as resistance against collective moral decay?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the boundary between divine judgment and divine compassion?",
-        "left_label": "Judgment",
-        "right_label": "Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal spiritual responsibility shifted?",
-        "options": [
-          "Recognize individual accountability",
-          "Understand collective spiritual consequences",
-          "Appreciate prophetic perspective",
-          "See complexity of divine-human relationship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates the inherent consequences of human free will",
           "God's judgment is a complex theological concept beyond complete human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The question is asked",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one who asks why the land is destroyed and scorched like a desert. You hear the answer: they have forsaken My law and have not walked in it or obeyed My voice. What would you still wonder?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Hosea 4:1-2",
+        "summary": "The LORD says His people bend their tongues like bows, and lies prevail over truth in the land (v. 3). Hosea describes a land with no truth and no knowledge of God, where cursing, lying, and murder are rampant (Hosea 4:1-2).",
+        "question": "How does Hosea 4:1-2 help you understand the weight of the LORD's charge in Jeremiah 9?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "devotion",
+        "because": "a wise man should not boast in his wisdom, nor a strong man in his strength, nor a wealthy man in his riches",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own accomplishments",
+        "behavior": "relying on my intellect",
+        "step": "seek to know the LORD",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my own accomplishments} and instead of {behavior:relying on my intellect}, I will {step:seek to know the LORD}."
       }
     }
   }

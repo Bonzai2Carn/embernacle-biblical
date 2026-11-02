@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human mortality resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Humans are transient like flowers",
-            "expansion": "Our brief existence is ephemeral and fragile, quickly passing like a momentary bloom."
-          },
-          {
-            "id": "2",
-            "text": "Divine limits constrain human life",
-            "expansion": "God predetermined the boundaries of human existence with precise, predetermined parameters."
-          },
-          {
-            "id": "3",
-            "text": "Life is characterized by inherent trouble",
-            "expansion": "Human experience is fundamentally marked by struggle, limitation, and imperfection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human life is so brief and troubled, what gives meaning to our existence?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human brevity with divine awareness?",
-        "left_label": "Insignificance",
-        "right_label": "Sacred Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of mortality shifted?",
-        "options": [
-          "I now see life as more precious",
-          "I'm more aware of existential limitations",
-          "I recognize human vulnerability",
-          "I'm more curious about divine perspectives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty does not negate human responsibility",
           "Suffering reveals the complex relationship between human weakness and spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Job asks",
+            "ref": "v. 14",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job answers",
+            "ref": "v. 15",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask whether a man who dies will live again, and you say you will wait until your renewal comes. Then you say, \"You will call, and I will answer.\" What would you hope for as you wait?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalm 103:14",
+        "summary": "Job says a man lies down and does not rise (v. 12), then asks if a man who dies will live again (v. 14). Psalm 103:14 says the LORD knows our frame and is mindful that we are dust.",
+        "question": "How does Psalm 103:14 help you understand the question Job asks in verse 14?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "exposure",
+        "because": "man is short of days and full of trouble",
+        "feeling": "anxiety, dread",
+        "object": "the length of my life",
+        "behavior": "striving for control",
+        "step": "rest in His sovereignty",
+        "template": "from today I bring my {feeling:anxiety, dread} about {object:the length of my life} into the light and instead of {behavior:striving for control}, I will {step:rest in His sovereignty}."
       }
     }
   }

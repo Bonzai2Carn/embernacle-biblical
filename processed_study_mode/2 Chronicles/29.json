@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative leadership principle resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Restoration",
-            "expansion": "Hezekiah systematically restored religious practices after periods of neglect."
-          },
-          {
-            "id": 2,
-            "text": "Communal Accountability",
-            "expansion": "The king mobilized priests and Levites to collectively recommit to their spiritual responsibilities."
-          },
-          {
-            "id": 3,
-            "text": "Generational Renewal",
-            "expansion": "Hezekiah demonstrated how new leadership can dramatically reshape institutional culture."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When systemic spiritual decay exists, is individual courage or collective action more powerful in initiating transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal convictions interact with institutional change?",
-        "left_label": "Individual Conviction",
-        "right_label": "Systemic Reformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership requires vision beyond personal comfort",
-          "Restoration demands systematic, intentional effort",
-          "Spiritual renewal is fundamentally communal",
-          "True change requires confronting historical patterns"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Genuine worship emerges from sincere repentance and consecration",
           "Spiritual renewal is a cyclical process of returning to covenant foundations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Hezekiah said",
+            "ref": "v. 6",
+            "speaker": "Hezekiah"
+          },
+          {
+            "who": "Hezekiah said",
+            "ref": "v. 10",
+            "speaker": "Hezekiah"
+          }
+        ],
+        "question": "Put yourself in Hezekiah's place. Your fathers were unfaithful and turned their backs on the dwelling place of the LORD. Now it is in your heart to make a covenant with the LORD so that His fierce anger will turn away. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "James 4:8",
+        "summary": "Hezekiah tells the Levites to consecrate themselves and the house of the LORD and to remove every impurity (v. 5). James 4:8 says to draw near to God and He will draw near to you, and to cleanse your hands and purify your hearts.",
+        "question": "How does James 4:8 help you understand Hezekiah's call to consecrate and remove every impurity?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "remembrance",
+        "because": "everything had been accomplished so quickly",
+        "feeling": "anxiety, doubt",
+        "object": "a massive task ahead",
+        "behavior": "stalling my progress",
+        "step": "start the first step with joy",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a massive task ahead} and instead of {behavior:stalling my progress}, I will {step:start the first step with joy}."
       }
     }
   }

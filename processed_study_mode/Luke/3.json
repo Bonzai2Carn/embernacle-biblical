@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of John the Baptist's message resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Radical Repentance",
-            "expansion": "True transformation requires confronting personal sin without compromise."
-          },
-          {
-            "id": "2",
-            "text": "Social Justice",
-            "expansion": "Authentic spiritual renewal manifests in concrete actions toward equity and compassion."
-          },
-          {
-            "id": "3",
-            "text": "Messianic Expectation",
-            "expansion": "Divine intervention is imminent, requiring spiritual preparedness and humility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true spiritual change demands more than ritual, what internal barriers prevent genuine transformation in your own life?"
-      },
-      "moral_slider": {
-        "question": "How do personal privilege and divine accountability intersect?",
-        "left_label": "Individual Entitlement",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal spiritual growth evolved?",
-        "options": [
-          "Recognizing systemic barriers to change",
-          "Understanding repentance as action, not just feeling",
-          "Seeing personal transformation as communal responsibility",
-          "Acknowledging spiritual renewal requires radical honesty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the importance of personal accountability",
           "Reveals divine preparation preceding messianic manifestation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The crowds asked him",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "John replied",
+            "ref": "v. 11",
+            "speaker": "John"
+          }
+        ],
+        "question": "Put yourself in the place of someone in the crowd who has just heard John's warning. You ask him what you should do. What does his answer show you about how repentance looks in ordinary life?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Acts 2:38",
+        "summary": "John preaches a baptism of repentance for the forgiveness of sins (v. 3). Acts 2:38 has Peter tell the crowd to repent and be baptized for the forgiveness of their sins, and to receive the gift of the Holy Spirit.",
+        "question": "How does Acts 2:38 help you understand the repentance and forgiveness that John preaches in Luke 3:3?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "whoever has two tunics should share with him who has none, and whoever has food should do the same",
+        "feeling": "greed, selfishness",
+        "object": "my spare clothes and food",
+        "behavior": "keeping extra things for myself",
+        "step": "give to someone who has none",
+        "template": "from today I let go of my {feeling:greed, selfishness} over {object:my spare clothes and food} and instead of {behavior:keeping extra things for myself}, I will {step:give to someone who has none}."
       }
     }
   }

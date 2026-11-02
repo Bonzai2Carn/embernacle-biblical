@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine communication resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God speaks through dreams and visions",
-            "expansion": "Divine communication transcends human limitations and traditional understanding."
-          },
-          {
-            "id": 2,
-            "text": "The Spirit provides direct spiritual insight",
-            "expansion": "Spiritual wisdom emerges from God's breath and creative power."
-          },
-          {
-            "id": 3,
-            "text": "Suffering can be a redemptive spiritual process",
-            "expansion": "Personal trials might serve as transformative encounters with divine instruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current understanding of suffering limit your perception of divine intervention?"
-      },
-      "moral_slider": {
-        "question": "To what extent do human experiences reveal or obscure divine wisdom?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine communication shifted?",
-        "options": [
-          "More open to spiritual interpretation",
-          "Recognize complexity of divine messaging",
-          "Understand suffering as potential spiritual dialogue",
-          "Appreciate personal spiritual experiences differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By interpreting life circumstances",
           "Through personal internal spiritual discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Elihu challenges Job",
+            "ref": "v. 13",
+            "speaker": "Elihu"
+          },
+          {
+            "who": "Elihu answers",
+            "ref": "v. 14",
+            "speaker": "Elihu"
+          }
+        ],
+        "question": "Put yourself in Job's place, feeling that God remains silent when you call. How does Elihu's claim that God is actually speaking change how you listen to your own life?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Numbers 12:6",
+        "summary": "Elihu claims God uses dreams and visions to warn people (vv. 15-17). Numbers says the LORD reveals Himself to a prophet in a vision and speaks to him in a dream (Numbers 12:6).",
+        "question": "How does Numbers 12:6 help you weigh Elihu's claim that God speaks in ways no one notices?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "God speaks to turn a man from wrongdoing and keep him from pride",
+        "feeling": "pride, self-importance",
+        "object": "a recent success",
+        "behavior": "ignoring warnings",
+        "step": "seek correction from others",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:a recent success} and instead of {behavior:ignoring warnings}, I will {step:seek correction from others}."
       }
     }
   }

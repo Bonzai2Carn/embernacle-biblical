@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most about inheritance and consequence?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Birthright can be lost through personal failure",
-            "expansion": "Reuben's impulsive actions permanently altered his family's generational trajectory"
-          },
-          {
-            "id": 2,
-            "text": "Divine providence overrides human expectations",
-            "expansion": "God's plans transcend traditional inheritance systems and familial hierarchies"
-          },
-          {
-            "id": 3,
-            "text": "Legacy is more complex than linear succession",
-            "expansion": "Tribal histories reveal intricate patterns of blessing, consequence, and redemption"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your momentary impulse could forfeit your entire inheritance, how might you deliberate differently?"
-      },
-      "moral_slider": {
-        "question": "How do personal mistakes balance against generational potential?",
-        "left_label": "Individual Accountability",
-        "right_label": "Collective Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance shifted?",
-        "options": [
-          "Consequences are more nuanced than I previously thought",
-          "Personal choices have deeper systemic impacts",
-          "Divine grace can restructure seemingly fixed narratives",
-          "Genealogy is a complex spiritual and social mechanism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine sovereignty operates beyond human expectations",
           "Covenant faithfulness determines spiritual inheritance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "The tribes cried out to God",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a warrior in this battle. You cry out to God, and your enemies are delivered into your hands. What do you understand about where the victory came from?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Deuteronomy 3:12-20",
+        "summary": "The text records the tribes living in the lands of Gilead and Bashan (vv. 11-16). Deuteronomy 3:12-20 tells how that land was given to the Reubenites, Gadites, and half-tribe of Manasseh, and that their men of valor were to cross over armed ahead of their brothers.",
+        "question": "How does Deuteronomy 3:12-20 help you understand how these tribes came to hold the land they lived in?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "the tribes put their trust in God, and He answered their prayers",
+        "feeling": "anxiety, doubt",
+        "object": "a looming conflict",
+        "behavior": "relying on my own strength",
+        "step": "call out to Him in prayer",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a looming conflict} and instead of {behavior:relying on my own strength}, I will {step:call out to Him in prayer}."
       }
     }
   }

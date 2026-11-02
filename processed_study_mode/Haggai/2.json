@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of restoration speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Encouragement Despite Perceived Inadequacy",
-            "expansion": "God affirms potential even when human perspective sees limitation"
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Promise of Future Glory",
-            "expansion": "Current struggles do not define ultimate destiny or potential"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Resilience in Rebuilding",
-            "expansion": "Collective commitment can transform seemingly impossible challenges"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do your current perceptions of 'smallness' potentially blind you to divine possibilities?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human disappointment with divine promise?",
-        "left_label": "Human Limitation",
-        "right_label": "Supernatural Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of restoration shifted?",
-        "options": [
-          "I now see challenges as opportunities",
-          "I recognize divine perspective differs from human perspective",
-          "Collective hope matters more than individual doubt",
-          "Spiritual momentum matters more than visible progress"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God values faithfulness and obedience over visible outcomes",
           "Prophetic vision transcends current limitations and circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD tells the people to be strong",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 9",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the people. You are told to be strong and to work, because the LORD is with you. What do you weigh when you hear that the latter glory of this house will be greater than the former?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Hebrews 12:26-28",
+        "summary": "The LORD says He will shake the heavens and the earth, and the treasures of the nations will come (vv. 6-7). Hebrews quotes the promise, Once more I will shake the earth and the heaven, and explains that Once more marks the removal of what can be shaken, so the unshakable remains (Hebrews 12:26-27).",
+        "question": "How does Hebrews 12:26-28 help you understand what the shaking of heaven and earth in verse 6 is for?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "surrender",
+        "because": "the LORD's Spirit remains among the people",
+        "feeling": "fear, anxiety",
+        "object": "a daunting task",
+        "behavior": "waiting until I feel strong",
+        "step": "take one step of work",
+        "template": "from today I release my {feeling:fear, anxiety} over {object:a daunting task} and instead of {behavior:waiting until I feel strong}, I will {step:take one step of work}."
       }
     }
   }

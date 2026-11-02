@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic dynamic most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The tension between true and false prophecy",
-            "expansion": "Recognizing authentic spiritual guidance requires discernment beyond surface-level proclamations."
-          },
-          {
-            "id": 2,
-            "text": "Political alliances versus divine will",
-            "expansion": "Human strategic partnerships can conflict with deeper spiritual trajectories."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of ignoring prophetic warning",
-            "expansion": "Spiritual resistance often leads to unforeseen personal and collective consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we distinguish between counsel that serves personal ambition versus genuine divine guidance?"
-      },
-      "moral_slider": {
-        "question": "How do political pragmatism and spiritual integrity intersect?",
-        "left_label": "Political Compromise",
-        "right_label": "Spiritual Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication evolved?",
-        "options": [
-          "Recognized complexity of spiritual discernment",
-          "Understand the role of personal bias in interpretation",
-          "Appreciate nuanced communication between divine and human realms",
-          "Recognize consequences of spiritual disobedience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic words are conditional and can be mitigated through genuine repentance",
           "Divine foreknowledge does not negate human responsibility for choices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "the messenger who had gone to call Micaiah instructed him",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "Micaiah said",
+            "ref": "v. 14",
+            "speaker": "Micaiah"
+          }
+        ],
+        "question": "Put yourself in Micaiah's place. A messenger asks you to say what the other prophets say. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Jeremiah 23:16-22",
+        "summary": "A spirit offers to entice the king through the prophets (vv. 21-22). Jeremiah 23:16-22 has the LORD say that prophets who speak visions from their own minds, and promise no harm will come, were not sent by Him.",
+        "question": "How does Jeremiah 23:16-22 help you weigh the words of the four hundred prophets in this chapter?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "Micaiah said he would speak whatever the LORD tells him",
+        "feeling": "fear, anxiety",
+        "object": "the disapproval of others",
+        "behavior": "altering my message to please people",
+        "step": "speak the truth plainly",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:the disapproval of others} and instead of {behavior:altering my message to please people}, I will {step:speak the truth plainly}."
       }
     }
   }

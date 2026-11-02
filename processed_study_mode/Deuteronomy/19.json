@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which principle of justice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cities of Refuge demonstrate divine mercy",
-            "expansion": "God provides sanctuary even for unintentional wrongdoers"
-          },
-          {
-            "id": 2,
-            "text": "Proportional justice protects community stability",
-            "expansion": "Legal systems must balance accountability with compassion"
-          },
-          {
-            "id": 3,
-            "text": "Witnesses carry profound moral responsibility",
-            "expansion": "Individual testimony can fundamentally alter communal justice"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does the concept of intentionality transform our understanding of moral culpability?"
-      },
-      "moral_slider": {
-        "question": "Where do individual rights intersect with communal safety?",
-        "left_label": "Individual Protection",
-        "right_label": "Collective Security"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on justice evolved?",
-        "options": [
-          "More nuanced understanding of intent",
-          "Greater appreciation for systemic compassion",
-          "Recognized complexity of moral judgment",
-          "Deeper respect for legal protections"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mercy should be conditional on genuine repentance",
           "Societal peace requires consistent, fair judicial processes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Moses describes",
+            "ref": "vv. 11-12",
+            "speaker": ""
+          },
+          {
+            "who": "You must show him no pity",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the community. You see a man flee to a city of refuge after a premeditated murder. What makes the command to hand him over so necessary for the land?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Matthew 18:16",
+        "summary": "Moses says a lone witness is not enough; a matter must be established by two or three witnesses (v. 15). Jesus quotes this standard when someone will not listen: take one or two others along (Matthew 18:16).",
+        "question": "How does Jesus quoting this standard help you understand why one voice is not enough to settle a matter?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "a false witness has done to him what he intended to do to his brother",
+        "feeling": "spite, malice",
+        "object": "someone's false accusation",
+        "behavior": "seeking revenge",
+        "step": "seek the truth through witnesses",
+        "template": "from today I let go of my {feeling:spite, malice} over {object:someone's false accusation} and instead of {behavior:seeking revenge}, I will {step:seek the truth through witnesses}."
       }
     }
   }

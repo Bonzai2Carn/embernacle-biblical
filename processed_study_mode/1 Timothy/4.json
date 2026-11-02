@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which warning about spiritual deception resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "False doctrines emerge from deceiving spirits",
-            "expansion": "Spiritual deception often masquerades as truth, requiring discernment and spiritual wisdom."
-          },
-          {
-            "id": 2,
-            "text": "Conscience can become 'seared' and unresponsive",
-            "expansion": "Repeated rejection of truth can gradually desensitize one's moral and spiritual perception."
-          },
-          {
-            "id": 3,
-            "text": "Legalistic restrictions misrepresent God's grace",
-            "expansion": "Arbitrary religious rules can obscure the genuine freedom found in authentic faith."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you distinguish between genuine spiritual guidance and manipulative religious rhetoric?"
-      },
-      "moral_slider": {
-        "question": "What determines the authenticity of spiritual teaching?",
-        "left_label": "Human Tradition",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discernment evolved?",
-        "options": [
-          "I now recognize subtle spiritual deceptions",
-          "I'm more cautious about legalistic interpretations",
-          "I value personal spiritual growth over external rules",
-          "I seek deeper understanding of scriptural context"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Practice communal accountability within church leadership",
           "Prioritize personal prayer and spiritual discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The Spirit says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears that in later times some will abandon the faith to follow deceitful spirits, and then hears, 'Reject irreverent, silly myths. Instead, train yourself for godliness.' What would you understand about how to stay with the faith?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "1 John 4:1",
+        "summary": "The Spirit says some will abandon the faith to follow deceitful spirits and the teachings of demons (v. 1). 1 John 4:1 says not to believe every spirit, but to test the spirits to see whether they are from God, for many false prophets have gone out into the world.",
+        "question": "How does 1 John 4:1 help you understand what to do about the deceitful spirits the Spirit warns of here?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "we have set our hope on the living God, who is the Savior of everyone",
+        "feeling": "weariness, discouragement",
+        "object": "work that seems fruitless",
+        "behavior": "giving up",
+        "step": "do the next task for Him",
+        "template": "from today I let go of my {feeling:weariness, discouragement} over {object:work that seems fruitless} and instead of {behavior:giving up}, I will {step:do the next task for Him}."
       }
     }
   }

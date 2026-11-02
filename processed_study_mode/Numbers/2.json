@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about divine organization resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Arrangement",
-            "expansion": "God values intentional order and strategic positioning in community life."
-          },
-          {
-            "id": 2,
-            "text": "Tribal Identity",
-            "expansion": "Each group has a unique role and place within the larger collective purpose."
-          },
-          {
-            "id": 3,
-            "text": "Leadership Structure",
-            "expansion": "Designated leadership provides clarity, direction, and accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine organization demands such meticulous placement, what might that reveal about the nature of individual purpose within a larger community?"
-      },
-      "moral_slider": {
-        "question": "How do personal preferences balance with communal divine design?",
-        "left_label": "Individual Freedom",
-        "right_label": "Collective Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community shifted?",
-        "options": [
-          "More appreciation for structured community",
-          "Greater understanding of individual roles",
-          "Deeper respect for divine organizational principles",
-          "Recognition of intentional spiritual positioning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Leadership requires strategic intentionality",
           "Proximity to God's presence determines spiritual influence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 17,
+        "ref": "1 Corinthians 14:40",
+        "summary": "The LORD tells the Israelites to camp around the Tent of Meeting, each man under his standard (v. 2). Paul writes that everything must be done in a proper and orderly manner (1 Corinthians 14:40).",
+        "question": "How does Paul's call for a proper and orderly manner help you understand why each tribe camped under its own standard?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "practice",
+        "because": "the Israelites did everything the LORD commanded Moses",
+        "feeling": "anxiety, confusion",
+        "object": "a new responsibility",
+        "behavior": "trying to control the outcome",
+        "step": "follow the instructions I have",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a new responsibility} and instead of {behavior:trying to control the outcome}, I will {step:follow the instructions I have}."
       }
     }
   }

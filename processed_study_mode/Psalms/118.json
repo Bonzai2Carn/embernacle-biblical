@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of divine love and deliverance resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's enduring mercy",
-            "expansion": "The repeated refrain 'His love endures forever' reveals God's unconditional commitment to humanity."
-          },
-          {
-            "id": 2,
-            "text": "Triumph over adversity",
-            "expansion": "The psalm demonstrates how faith transforms seemingly insurmountable challenges into opportunities for divine intervention."
-          },
-          {
-            "id": 3,
-            "text": "Human vulnerability and divine protection",
-            "expansion": "The poet portrays human weakness contrasted against God's powerful, protective nature."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine deliverance is assured, why do believers still experience profound suffering?"
-      },
-      "moral_slider": {
-        "question": "How do personal trials relate to spiritual growth?",
-        "left_label": "Suffering diminishes faith",
-        "right_label": "Suffering refines faith"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "I see suffering as more purposeful",
-          "I recognize personal limitations more clearly",
-          "I trust in unseen spiritual processes",
-          "I am more open to mysterious workings of grace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine deliverance often occurs through unexpected means",
           "Suffering and redemption are interconnected spiritual experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 22",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist responds",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who saw the rejected stone become the cornerstone. What does this miracle reveal about how God works in the things people cast aside?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Isaiah 28:16",
+        "summary": "The stone the builders rejected has become the cornerstone (v. 22). Isaiah 28:16 has the Lord GOD say He lays a stone in Zion, a tested stone, a precious cornerstone, a sure foundation, and the one who believes will never be shaken.",
+        "question": "How does Isaiah 28:16 help you understand the cornerstone in verse 22?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "trust",
+        "because": "the LORD is on my side",
+        "feeling": "anxiety, dread",
+        "object": "the opposition of others",
+        "behavior": "shrinking back in fear",
+        "step": "stand firm in His presence",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the opposition of others} and instead of {behavior:shrinking back in fear}, I will {step:stand firm in His presence}."
       }
     }
   }

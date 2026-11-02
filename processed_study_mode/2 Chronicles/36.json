@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual lesson resonates most from the final chapter of Chronicles?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Patience with Human Failure",
-            "expansion": "God's persistent mercy endures even through repeated national disobedience."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Systemic Spiritual Decay",
-            "expansion": "Generational leadership failures can lead to catastrophic national collapse."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Historical Providence",
-            "expansion": "Even in exile and destruction, God maintains His covenant and ultimate redemptive plan."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does a society's spiritual compromise become irreversible, and who bears responsibility for its moral trajectory?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy intersect in national spiritual accountability?",
-        "left_label": "Strict Divine Judgment",
-        "right_label": "Unconditional Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical spiritual leadership transformed?",
-        "options": [
-          "Recognize the profound impact of individual moral choices",
-          "Understand cycles of national spiritual decline",
-          "Appreciate God's long-suffering nature",
-          "Recognize the importance of prophetic warning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment reveals His commitment to moral righteousness",
           "Judgment is a manifestation of God's ultimate sovereignty over human affairs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The LORD sent word through His messengers",
+            "ref": "v. 15",
+            "speaker": ""
+          },
+          {
+            "who": "The people mocked the messengers",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people. Again and again the LORD sends word to you because He had compassion on you, and you mock His messengers and despise His words. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Jeremiah 25:11-12",
+        "summary": "The land enjoys its Sabbath rest until seventy years are completed, in fulfillment of the word of the LORD through Jeremiah (v. 21). Jeremiah 25:11-12 says the land will become a desolate wasteland and the nations will serve the king of Babylon for seventy years.",
+        "question": "How does Jeremiah 25:11-12 help you understand the seventy years the land lay desolate (v. 21)?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "repair",
+        "because": "Zedekiah did not humble himself before the prophet who spoke for the LORD",
+        "feeling": "pride, stubbornness",
+        "object": "a correction from a prophet",
+        "behavior": "ignoring the truth",
+        "step": "listen with a soft heart",
+        "template": "from today I turn from my {feeling:pride, stubbornness} toward {object:a correction from a prophet} and instead of {behavior:ignoring the truth}, I will {step:listen with a soft heart}."
       }
     }
   }

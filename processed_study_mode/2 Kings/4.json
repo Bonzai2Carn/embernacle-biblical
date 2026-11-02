@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative idea resonates most from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Provision in Scarcity",
-            "expansion": "God can multiply limited resources when faith and obedience are present."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Compassion",
-            "expansion": "Spiritual leaders can intercede practically for those in desperate circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Miraculous Redemption",
-            "expansion": "Seemingly hopeless situations can be dramatically reversed through supernatural intervention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of 'having nothing' actually be a potential gateway for miraculous provision?"
-      },
-      "moral_slider": {
-        "question": "To what extent does human desperation invite divine intervention?",
-        "left_label": "Personal Helplessness",
-        "right_label": "Divine Sufficiency"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of spiritual resources?",
-        "options": [
-          "I see miracles differently now",
-          "I recognize the power of faith over circumstances",
-          "I understand divine help can come unexpectedly",
-          "I'm more aware of potential unseen solutions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Supernatural provision exists but operates differently in modern contexts",
           "Miracles demonstrate God's unchanging nature across all generations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Elisha asks the woman",
+            "ref": "v. 2",
+            "speaker": "Elisha"
+          }
+        ],
+        "question": "Put yourself in the woman's place. Elisha asks what you have in the house, and you have nothing but a jar of oil. What would you weigh about the little you still have?"
+      },
+      "chain": {
+        "after": 43,
+        "ref": "John 6:11",
+        "summary": "Elisha feeds a crowd from twenty loaves of barley bread (v. 42-43). John 6:11 says Jesus took the loaves and fish, gave thanks, and gave the people as much as they wanted.",
+        "question": "How does Jesus' miracle help you understand the scale of what Elisha did with the twenty loaves?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "everything is all right",
+        "feeling": "anxiety, dread",
+        "object": "a sudden crisis",
+        "behavior": "panicking and complaining",
+        "step": "speak words of peace",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a sudden crisis} to God and instead of {behavior:panicking and complaining}, I will {step:speak words of peace}."
       }
     }
   }

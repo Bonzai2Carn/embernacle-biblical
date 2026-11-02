@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which image of divine judgment resonates most profoundly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Scattered bones exposed to celestial judgment",
-            "expansion": "The cosmic humiliation of those who abandoned covenant loyalty reveals the profound spiritual consequences of idolatry."
-          },
-          {
-            "id": 2,
-            "text": "Unburied remains as ultimate dishonor",
-            "expansion": "The denial of proper burial symbolizes complete spiritual rejection and disconnection from community and divine relationship."
-          },
-          {
-            "id": 3,
-            "text": "Worship of celestial entities over God",
-            "expansion": "Misplaced devotion transforms potential sources of wonder into instruments of condemnation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately about restoring relationship, how might exposure and vulnerability serve a redemptive purpose?"
-      },
-      "moral_slider": {
-        "question": "How do personal choices construct collective spiritual consequences?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual consequences evolved?",
-        "options": [
-          "Recognize deeper interconnectedness of personal actions",
-          "Understand judgment as transformative, not merely punitive",
-          "See spiritual consequences as systemic, not individualistic",
-          "Appreciate complexity of divine relationship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Via spiritual disconnection from divine covenant",
           "Through generational spiritual consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD asks",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD answers",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those hearing these questions. What would you weigh in your mind when the LORD compares a simple return to a refusal to turn back?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Hosea 4:6",
+        "summary": "Even the stork keeps its seasons, but the LORD's people do not know His requirements (v. 7). Hosea says the people are destroyed for lack of knowledge and have forgotten the law of their God.",
+        "question": "How does Hosea 4:6 help you understand why the people in Jeremiah do not know the requirements of the LORD (v. 7)?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "exposure",
+        "because": "the wound of the LORD's people is dressed with very little care, and 'Peace, peace' is said when there is no peace",
+        "feeling": "indifference, numbness",
+        "object": "the pain of a friend",
+        "behavior": "offering shallow words",
+        "step": "face the truth of the hurt",
+        "template": "from today I bring my {feeling:indifference, numbness} about {object:the pain of a friend} into the light and instead of {behavior:offering shallow words}, I will {step:face the truth of the hurt}."
       }
     }
   }

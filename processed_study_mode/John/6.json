@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound moment in John 6 most captures your spiritual imagination?",
-        "choices": [
-          {
-            "id": "bread_of_life",
-            "text": "Jesus as the Bread of Life",
-            "expansion": "Divine sustenance transcends physical hunger and speaks to our deepest existential needs."
-          },
-          {
-            "id": "walking_on_water",
-            "text": "Jesus Walking on Water",
-            "expansion": "Supernatural manifestation reveals Christ's power beyond human comprehension."
-          },
-          {
-            "id": "difficult_teaching",
-            "text": "The Challenging Discourse on Consuming His Flesh",
-            "expansion": "Metaphorical language that tests disciples' understanding and commitment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual nourishment requires complete surrender, what parts of your life are you still attempting to control?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between literal interpretation and spiritual metaphor?",
-        "left_label": "Literal Interpretation",
-        "right_label": "Symbolic Understanding"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of discipleship shifted after reflecting on John 6?",
-        "options": [
-          "Deeper appreciation of commitment",
-          "Recognition of spiritual complexity",
-          "Increased comfort with mystery",
-          "Willingness to embrace challenging teachings"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrates that salvation is through faith, not works",
           "Reveals the metaphysical nature of spiritual sustenance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 29,
+        "exchange": [
+          {
+            "who": "The people inquired",
+            "ref": "v. 28",
+            "speaker": "The people"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 29",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the crowd as you ask what you must do to perform the works of God. What would you weigh when the answer is to believe in the One He has sent?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Deuteronomy 8:3",
+        "summary": "The people point to the manna their ancestors ate in the wilderness (v. 31). Deuteronomy says the LORD fed Israel manna so they would learn that man does not live on bread alone, but on every word from the LORD (Deuteronomy 8:3).",
+        "question": "How does the purpose of manna in Deuteronomy 8:3 help you understand why Jesus calls Himself the true bread from heaven?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "devotion",
+        "because": "whoever comes to Me will never hunger, and whoever believes in Me will never thirst",
+        "feeling": "restlessness, dissatisfaction",
+        "object": "the pursuit of temporary comforts",
+        "behavior": "searching for fulfillment in things that fade",
+        "step": "rest in His sufficiency",
+        "template": "from today I let go of my {feeling:restlessness, dissatisfaction} over {object:the pursuit of temporary comforts} and instead of {behavior:searching for fulfillment in things that fade}, I will {step:rest in His sufficiency}."
       }
     }
   }

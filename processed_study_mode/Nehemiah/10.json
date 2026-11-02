@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of covenant commitment resonates most deeply?",
-        "choices": [
-          {
-            "id": "collective",
-            "text": "Community-wide recommitment",
-            "expansion": "The entire community's unified decision to realign with God's expectations demonstrates transformative spiritual leadership."
-          },
-          {
-            "id": "personal",
-            "text": "Individual accountability",
-            "expansion": "Each seal represents a personal, intentional choice to honor sacred promises and spiritual disciplines."
-          },
-          {
-            "id": "systemic",
-            "text": "Structural renewal",
-            "expansion": "The document represents a holistic approach to rebuilding social and spiritual infrastructure."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine spiritual renewal differ from mere ritualistic compliance?"
-      },
-      "moral_slider": {
-        "question": "What motivates deeper spiritual commitment: fear of consequences or love of divine relationship?",
-        "left_label": "Consequence-driven Obedience",
-        "right_label": "Relationship-driven Devotion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant evolved?",
-        "options": [
-          "More aware of communal spiritual responsibility",
-          "Recognize complexity of spiritual transformation",
-          "Appreciate intentional recommitment processes",
-          "Understanding personal accountability differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Shared commitments strengthen community spiritual identity",
           "Formal covenants represent symbolic rather than literal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "The leaders and people",
+            "ref": "vv. 28-29",
+            "speaker": ""
+          },
+          {
+            "who": "The people",
+            "ref": "vv. 30-31",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of the people who took this sworn oath to follow the Law. You then promise not to buy on the Sabbath, to let the fields lie fallow every seventh year, and to cancel every debt. What would you weigh about these promises, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 29,
+        "ref": "Exodus 24:7",
+        "summary": "The people bind themselves with a sworn oath to follow the Law of God given through Moses (v. 29). When Moses read the Book of the Covenant to the people, they answered that they would do all the LORD had spoken and be obedient (Exodus 24:7).",
+        "question": "How does the people's answer to the Book of the Covenant in Exodus 24:7 help you understand the weight of the oath in Nehemiah 10?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "practice",
+        "because": "we will not neglect the house of our God",
+        "feeling": "indifference, apathy",
+        "object": "my spiritual responsibilities",
+        "behavior": "skipping my time of prayer",
+        "step": "set a fixed time to seek Him",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my spiritual responsibilities} and instead of {behavior:skipping my time of prayer}, I will {step:set a fixed time to seek Him}."
       }
     }
   }

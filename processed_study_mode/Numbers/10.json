@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about divine communication resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Structured Communication Method",
-            "expansion": "The trumpets represent a deliberate, organized way God guides His people's movements and gatherings."
-          },
-          {
-            "id": 2,
-            "text": "Leadership Signaling",
-            "expansion": "Different trumpet sounds convey distinct messages, revealing the nuanced nature of spiritual leadership."
-          },
-          {
-            "id": 3,
-            "text": "Intentional Coordination",
-            "expansion": "God's instructions demonstrate meticulous planning in community organization and spiritual journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine guidance requires such precise communication, what subtle signals might we be missing in our own spiritual journeys?"
-      },
-      "moral_slider": {
-        "question": "How do structured religious practices balance between divine mystery and human understanding?",
-        "left_label": "Rigid Interpretation",
-        "right_label": "Spiritual Flexibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership and divine guidance shifted?",
-        "options": [
-          "More appreciation for intentional communication",
-          "Recognize complexity of community coordination",
-          "See divine guidance as both structured and mysterious",
-          "Understand leadership requires clear, deliberate signals"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership demands clear, consistent signaling",
           "Communal movement reflects theological unity and purpose"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 30,
+        "exchange": [
+          {
+            "who": "Moses invited Hobab to come along",
+            "ref": "v. 29",
+            "speaker": "Moses"
+          },
+          {
+            "who": "Hobab refused",
+            "ref": "v. 30",
+            "speaker": "Hobab"
+          }
+        ],
+        "question": "Put yourself in Moses's place. You tell Hobab that the LORD has promised good things to Israel and ask him to come with you. He answers that he is going back to his own land and his own people. What would you weigh about his answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 35,
+        "ref": "Psalm 68:1",
+        "summary": "Whenever the ark set out, Moses said, Rise up, O LORD! May Your enemies be scattered (v. 35). Psalm 68 begins by saying God arises, His enemies are scattered, and those who hate Him flee His presence (Psalm 68:1).",
+        "question": "How does Psalm 68:1 help you understand what Moses asked of the LORD whenever the ark set out in Numbers 10:35?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "when Israel sounds short blasts on the trumpets in battle, the LORD remembers them and saves them from their enemies",
+        "feeling": "anxiety, dread",
+        "object": "a new conflict",
+        "behavior": "relying on my own strength",
+        "step": "sound the trumpet of prayer",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a new conflict} and instead of {behavior:relying on my own strength}, I will {step:sound the trumpet of prayer}."
       }
     }
   }

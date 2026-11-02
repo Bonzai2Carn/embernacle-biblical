@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about the Transfiguration?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Glory Revealed",
-            "expansion": "Jesus' supernatural transformation suggests His divine nature transcends human limitations."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Continuity",
-            "expansion": "Moses and Elijah's presence connects Jesus to Israel's prophetic tradition and redemptive history."
-          },
-          {
-            "id": 3,
-            "text": "Disciples' Witness",
-            "expansion": "Peter, James, and John are granted a profound spiritual experience that challenges their understanding of Jesus."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine revelation is momentary, how do we sustain spiritual transformation in ordinary moments?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine mystery with human understanding?",
-        "left_label": "Skepticism",
-        "right_label": "Reverence"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your perception of spiritual experience?",
-        "options": [
-          "I see divine encounters as more dynamic",
-          "I recognize the limitations of human comprehension",
-          "I'm more open to unexpected spiritual manifestations",
-          "I understand discipleship requires profound humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals the prophetic lineage and messianic fulfillment",
           "Illustrates the intimate relationship between God the Father and Son"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "The disciples asked",
+            "ref": "v. 19",
+            "speaker": "The disciples"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 20",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the disciples' place. You ask, Why couldn't we drive it out? and He answers, Because you have so little faith. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "2 Peter 1:16-18",
+        "summary": "On the mountain Jesus is transfigured and a voice comes from a cloud (vv. 2-5). 2 Peter 1:16-18 says 'we' were eyewitnesses of His majesty and heard the voice from heaven when we were with Him on the holy mountain.",
+        "question": "How does 2 Peter 1:16-18 help you understand what the disciples saw and heard on the mountain?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move",
+        "feeling": "doubt, hesitation",
+        "object": "a difficult task",
+        "behavior": "relying on my own strength",
+        "step": "trust His power to act",
+        "template": "from today I let go of my {feeling:doubt, hesitation} over {object:a difficult task} and instead of {behavior:relying on my own strength}, I will {step:trust His power to act}."
       }
     }
   }

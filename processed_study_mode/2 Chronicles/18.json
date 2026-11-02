@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Dangerous Alliances",
-            "expansion": "Strategic partnerships can compromise spiritual integrity when not rooted in godly wisdom."
-          },
-          {
-            "id": 2,
-            "text": "False Prophetic Voices",
-            "expansion": "Political manipulation often disguises itself as spiritual counsel."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Compromise",
-            "expansion": "Moral concessions can lead to unexpected and devastating outcomes."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does collaboration become spiritual capitulation, and how do we discern the difference between strategic unity and moral compromise?"
-      },
-      "moral_slider": {
-        "question": "How much should political pragmatism influence spiritual decision-making?",
-        "left_label": "Political Expediency",
-        "right_label": "Spiritual Purity"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of leadership and spiritual discernment?",
-        "options": [
-          "Recognizing the danger of unequal spiritual partnerships",
-          "Understanding the subtlety of false prophetic voices",
-          "Seeing how political alliances can cloud spiritual judgment",
-          "Appreciating the importance of independent spiritual counsel"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence can override human plans",
           "Prophetic truth often conflicts with popular opinion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Ahab king of Israel asked",
+            "ref": "v. 3",
+            "speaker": "Ahab"
+          },
+          {
+            "who": "Jehoshaphat replied",
+            "ref": "v. 3",
+            "speaker": "Jehoshaphat"
+          }
+        ],
+        "question": "Put yourself in Jehoshaphat's place. Ahab asks you to go to war, and you reply that your people are his people. What would you weigh before you answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "1 Kings 22:19-23",
+        "summary": "Micaiah describes a vision of a spirit that will entice Ahab to fall (vv. 19-21). This vision explains why the four hundred prophets all spoke the same favorable message (v. 11).",
+        "question": "How does this vision help you understand why the other prophets were so certain of victory?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "I will speak whatever my God tells me",
+        "feeling": "fear, anxiety",
+        "object": "the pressure to fit in",
+        "behavior": "altering my message to please others",
+        "step": "speak the truth plainly",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:the pressure to fit in} and instead of {behavior:altering my message to please others}, I will {step:speak the truth plainly}."
       }
     }
   }

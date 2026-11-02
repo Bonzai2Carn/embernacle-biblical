@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most from Asa's actions?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Relying on human alliances instead of God",
-            "expansion": "Political maneuvers can often replace genuine spiritual trust"
-          },
-          {
-            "id": 2,
-            "text": "The consequences of departing from faith",
-            "expansion": "Spiritual regression has tangible, painful consequences"
-          },
-          {
-            "id": 3,
-            "text": "Pride blocking divine guidance",
-            "expansion": "Personal ego can blind us to spiritual wisdom and correction"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you feel threatened, do you first seek human solutions or divine intervention?"
-      },
-      "moral_slider": {
-        "question": "How do political pragmatism and spiritual integrity balance?",
-        "left_label": "Pragmatic Compromise",
-        "right_label": "Uncompromising Faith"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on leadership and trust in God have shifted?",
-        "options": [
-          "I see the danger of trusting human strategies over divine guidance",
-          "I recognize how pride can block spiritual wisdom",
-          "I understand that consequences follow spiritual disobedience",
-          "I am more aware of the subtlety of spiritual drift"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leaders are accountable for their spiritual and political decisions",
           "Divine guidance should precede human reasoning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Hanani the seer told King Asa",
+            "ref": "v. 7",
+            "speaker": "Hanani the seer"
+          },
+          {
+            "who": "Hanani the seer said",
+            "ref": "v. 8",
+            "speaker": "Hanani the seer"
+          }
+        ],
+        "question": "Put yourself in Asa's place. You hear that you relied on the king of Aram and not on the LORD, and then that when you relied on the LORD He delivered the vast army of the Cushites and Libyans into your hand. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Jeremiah 17:5",
+        "summary": "Hanani tells Asa he relied on the king of Aram and not on the LORD (v. 7). Jeremiah 17:5 says cursed is the man who trusts in mankind, makes the flesh his strength, and turns his heart from the LORD.",
+        "question": "How does Jeremiah 17:5 help you understand what it means that Asa relied on the king of Aram?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "Asa did not seek the LORD even in his illness, but only the physicians",
+        "feeling": "anxiety, fear",
+        "object": "a physical ailment",
+        "behavior": "looking only for human solutions",
+        "step": "pray for strength first",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a physical ailment} and instead of {behavior:looking only for human solutions}, I will {step:pray for strength first}."
       }
     }
   }

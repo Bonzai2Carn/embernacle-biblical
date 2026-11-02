@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human moral nature resonates most?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Humanity's inherent corruption",
-            "expansion": "The psalm suggests universal moral decay and separation from divine wisdom."
-          },
-          {
-            "id": "b",
-            "text": "Divine judgment of systemic wickedness",
-            "expansion": "God sees and evaluates collective human behavior beyond individual actions."
-          },
-          {
-            "id": "c",
-            "text": "Potential for redemptive transformation",
-            "expansion": "Even in widespread moral darkness, hope for spiritual renewal remains possible."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If everyone acts corruptly, as the psalm suggests, what gives you hope for genuine human goodness?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human moral failure with divine expectations?",
-        "left_label": "Total Human Depravity",
-        "right_label": "Inherent Human Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human nature evolved after reflecting on this psalm?",
-        "options": [
-          "More aware of systemic moral challenges",
-          "Increased compassion for human weakness",
-          "Recognized need for personal spiritual accountability",
-          "Deepened understanding of divine perspective"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual actions determine spiritual standing",
           "Divine grace transcends human limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist describes God",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist observes",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the sons of men whom God looks down upon. What do you understand when you hear that He searches for anyone who seeks Him, and that all have turned away?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Romans 3:10-12",
+        "summary": "Psalm 53 says no one does good, not even one (v. 3). Paul quotes this same thought in Romans 3:10-12: no one is righteous, no one understands or seeks God, and all have turned away.",
+        "question": "How does Romans 3:10-12 help you understand what God finds when He looks down from heaven (v. 2)?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "repair",
+        "because": "all have turned away, and no one does good, not even one",
+        "feeling": "pride, complacency",
+        "object": "God's mercy",
+        "behavior": "comparing myself with others",
+        "step": "ask God to restore my heart",
+        "template": "from today I turn from my {feeling:pride, complacency} toward {object:God's mercy} and instead of {behavior:comparing myself with others}, I will {step:ask God to restore my heart}."
       }
     }
   }

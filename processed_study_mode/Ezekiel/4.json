@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic symbol in Ezekiel's dramatic demonstration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Siege Tablet Representation",
-            "expansion": "God uses tangible, visceral imagery to communicate spiritual judgment's impending reality."
-          },
-          {
-            "id": 2,
-            "text": "Prolonged Physical Positioning",
-            "expansion": "The prophet's bodily endurance symbolizes Israel's sustained period of spiritual punishment."
-          },
-          {
-            "id": 3,
-            "text": "Rationed Defiled Bread",
-            "expansion": "The contaminated food represents spiritual and physical scarcity resulting from communal disobedience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophetic communication requires such extreme personal sacrifice, what does genuine spiritual witness actually demand of us?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment reflect corrective love versus punitive anger?",
-        "left_label": "Punitive Judgment",
-        "right_label": "Redemptive Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic symbolism transformed?",
-        "options": [
-          "I now see metaphorical communication as profoundly meaningful",
-          "Physical embodiment can communicate deeper spiritual truths",
-          "Prophetic messages often transcend literal interpretation",
-          "Personal discomfort can be a valid communication strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic actions engage multiple sensory experiences",
           "Metaphorical representations challenge audience perception"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are Ezekiel, tasked to lie on your side to bear the sins of a nation. What does the specific number of days tell you about the weight of the iniquity you must carry?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Leviticus 26:39",
+        "summary": "The LORD shows Ezekiel how the people will eat defiled bread among the nations (v. 13). Leviticus says that those who survive among their enemies will waste away in their iniquity and in the sins of their fathers (Leviticus 26:39).",
+        "question": "How does Leviticus's warning about wasting away in iniquity help you understand why Ezekiel must bear the iniquity of Israel?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "exposure",
+        "because": "Ezekiel said he had never defiled himself and had never eaten unclean meat from his youth",
+        "feeling": "pride, self-righteousness",
+        "object": "my religious habits",
+        "behavior": "judging others' failures",
+        "step": "examine my own heart",
+        "template": "from today I bring my {feeling:pride, self-righteousness} about {object:my religious habits} into the light and instead of {behavior:judging others' failures}, I will {step:examine my own heart}."
       }
     }
   }

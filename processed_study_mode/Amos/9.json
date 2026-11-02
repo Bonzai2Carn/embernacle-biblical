@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment most resonates with your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inescapability of Divine Judgment",
-            "expansion": "God's omnipresence means no human can truly hide from accountability."
-          },
-          {
-            "id": 2,
-            "text": "Sovereignty of God's Intervention",
-            "expansion": "Divine power transcends human attempts to control or escape consequences."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Vision of Absolute Justice",
-            "expansion": "The prophet reveals a cosmic perspective where no transgression remains unaddressed."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms this from a terrifying concept to a potentially redemptive one?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Punishment",
-        "right_label": "Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine accountability shifted?",
-        "options": [
-          "I see judgment as more comprehensive",
-          "I recognize human limitations more clearly",
-          "I appreciate the deeper spiritual dynamics",
-          "I feel more personally responsible"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates God's ultimate sovereignty over human rebellion",
           "Punishment is balanced with the possibility of restoration and grace"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 8-9",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the people who say disaster will never come. What do you understand about the difference between the destruction promised to the sinful kingdom and the fate of those who claim safety?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Hebrews 4:13",
+        "summary": "The LORD declares that His eyes are on the sinful kingdom (v. 8). Hebrews reminds us that nothing in creation is hidden from the sight of God.",
+        "question": "How does the reality that nothing is hidden help you weigh the certainty of the judgment described in Amos?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "My people Israel will rebuild and inhabit the ruined cities",
+        "feeling": "hopelessness, despair",
+        "object": "a broken relationship",
+        "behavior": "avoiding the mess",
+        "step": "approach the ruins with prayer",
+        "template": "from today I let go of my {feeling:hopelessness, despair} over {object:a broken relationship} and instead of {behavior:avoiding the mess}, I will {step:approach the ruins with prayer}."
       }
     }
   }

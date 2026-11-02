@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Ritual without genuine heart transformation is empty",
-            "expansion": "External religious practices mean little without internal spiritual authenticity"
-          },
-          {
-            "id": 2,
-            "text": "God values justice and mercy over ceremonial observance",
-            "expansion": "True worship manifests through compassionate treatment of others"
-          },
-          {
-            "id": 3,
-            "text": "Historical patterns of disobedience can be interrupted through genuine repentance",
-            "expansion": "Spiritual renewal requires deliberate breaking of generational cycles of spiritual apathy"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you perform religious practices, are you genuinely seeking transformation or merely maintaining a comfortable ritual?"
-      },
-      "moral_slider": {
-        "question": "How do external religious observances relate to internal spiritual authenticity?",
-        "left_label": "Ritualistic Compliance",
-        "right_label": "Genuine Heart Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship evolved?",
-        "options": [
-          "I now see worship as more than just external actions",
-          "Justice and mercy are central to true spiritual life",
-          "Personal transformation matters more than tradition",
-          "Historical patterns can be consciously changed through spiritual intentionality"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Consistency between internal spiritual commitment and external actions",
           "Adherence to traditional religious protocols"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The people of Bethel asked",
+            "ref": "v. 3",
+            "speaker": "The people of Bethel"
+          },
+          {
+            "who": "The LORD of Hosts answered",
+            "ref": "vv. 5-6",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the people of Bethel. You ask whether to keep weeping and fasting, and you are asked whether your fasting was really for Him. What would you weigh in answering?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Micah 6:6-8",
+        "summary": "The LORD of Hosts commands justice and compassion in Zechariah (v. 9-10). Micah says what the LORD requires: to act justly, love mercy, and walk humbly with God (Mic 6:8).",
+        "question": "How does Micah 6:8 help you understand the weight of the commands given to the people in Zechariah 7:9-10?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "the LORD of Hosts says to administer true justice and show loving devotion and compassion",
+        "feeling": "indifference, coldness",
+        "object": "the needs of my neighbors",
+        "behavior": "looking the other way",
+        "step": "act with compassion toward someone in need",
+        "template": "from today I let go of my {feeling:indifference, coldness} over {object:the needs of my neighbors} and instead of {behavior:looking the other way}, I will {step:act with compassion toward someone in need}."
       }
     }
   }

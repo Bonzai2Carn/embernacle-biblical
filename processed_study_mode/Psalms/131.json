@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea in Psalm 131 most resonates with personal humility?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Quieting my soul",
-            "expansion": "Inner stillness as a spiritual discipline of surrendering control and ego"
-          },
-          {
-            "id": 2,
-            "text": "Not being preoccupied with great matters",
-            "expansion": "Recognizing human limitations and the wisdom of accepting one's appropriate sphere of influence"
-          },
-          {
-            "id": 3,
-            "text": "Trusting like a weaned child",
-            "expansion": "Developing a mature spiritual dependency that transcends childish demands"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal ambitions be preventing you from experiencing genuine spiritual peace?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal aspiration with spiritual humility?",
-        "left_label": "Aggressive Self-Determination",
-        "right_label": "Surrendered Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual maturity shifted?",
-        "options": [
-          "From performance to presence",
-          "From complexity to simplicity",
-          "From control to trust",
-          "From external validation to internal peace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual maturity is measured by internal peace, not external accomplishments",
           "Childlike trust represents a more profound wisdom than worldly strategy"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the person calling Israel to hope. How does the psalmist's personal quietness lead to this command for a whole nation?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Matthew 18:3-4",
+        "summary": "The psalmist describes a soul that is stilled and quieted like a weaned child (v. 2). Matthew 18:3-4 says that unless you change and become like little children you will never enter the kingdom of heaven, and that whoever humbles himself like a little child is the greatest in it.",
+        "question": "How does the description of a little child in Matthew 18:3-4 help you understand the soul the psalmist describes in verse 2?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "surrender",
+        "because": "my heart is not proud and my eyes are not haughty",
+        "feeling": "ambition, restlessness",
+        "object": "attaining more status",
+        "behavior": "chasing after lofty things",
+        "step": "rest in what I have",
+        "template": "from today I bring You my {feeling:ambition, restlessness} about {object:attaining more status} and instead of {behavior:chasing after lofty things}, I will {step:rest in what I have}."
       }
     }
   }

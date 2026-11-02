@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic of human relationships most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family Competition",
-            "expansion": "The intense sibling rivalry between Rachel and Leah reveals how deeply personal validation can drive human behavior."
-          },
-          {
-            "id": 2,
-            "text": "Reproductive Desperation",
-            "expansion": "Rachel's profound emotional distress about childlessness illuminates the societal pressures surrounding fertility in ancient cultures."
-          },
-          {
-            "id": 3,
-            "text": "Negotiated Relationships",
-            "expansion": "Jacob's complex familial arrangements demonstrate how transactional human connections can become when social survival is at stake."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal desires for validation potentially distort our understanding of divine providence?"
-      },
-      "moral_slider": {
-        "question": "To what extent are human strategies for achieving desired outcomes morally justifiable?",
-        "left_label": "Personal Agency",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on family dynamics shifted after examining this narrative?",
-        "options": [
-          "Increased empathy for complex family structures",
-          "Recognized the psychological complexity of human motivations",
-          "Understood historical contexts of marriage and reproduction",
-          "Challenged my assumptions about biblical family narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As morally neutral cultural practices distinct from modern ethical standards",
           "As evidence of spiritual immaturity in biblical patriarchal families"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Rachel said to Jacob",
+            "ref": "v. 1",
+            "speaker": "Rachel"
+          },
+          {
+            "who": "Jacob became angry with Rachel and said",
+            "ref": "v. 2",
+            "speaker": "Jacob"
+          }
+        ],
+        "question": "Put yourself in Rachel's place. You cry out for children, and Jacob answers that God has withheld them. What would you weigh about his answer?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Genesis 16:1-4",
+        "summary": "Rachel gives her maidservant Bilhah to Jacob so that through her she can build a family (v. 3). Genesis 16:1-4 shows Sarai doing the same, giving her maidservant Hagar to Abram because she had borne no children.",
+        "question": "How does Genesis 16:1-4 help you understand Rachel's choice to give Bilhah to Jacob?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "God has taken away my shame",
+        "feeling": "shame, inadequacy",
+        "object": "a season of waiting",
+        "behavior": "comparing my life to others",
+        "step": "thank Him for His faithfulness",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:a season of waiting} into the light and instead of {behavior:comparing my life to others}, I will {step:thank Him for His faithfulness}."
       }
     }
   }

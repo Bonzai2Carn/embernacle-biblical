@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective about God's nature resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "God's omnipotence includes compassionate understanding",
-            "expansion": "Divine power is not just about strength, but nuanced comprehension of human complexity."
-          },
-          {
-            "id": "B",
-            "text": "Righteousness emerges from divine perspective, not human judgment",
-            "expansion": "True understanding requires transcending limited human perceptions."
-          },
-          {
-            "id": "C",
-            "text": "Suffering can be instructional rather than punitive",
-            "expansion": "Divine correction aims at redemption and growth, not mere condemnation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine knowledge is perfect, how do human limitations shape our perception of suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's power with human vulnerability?",
-        "left_label": "Divine Inscrutability",
-        "right_label": "Intimate Divine Relationship"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of divine justice?",
-        "options": [
-          "Recognized complexity of theological interpretation",
-          "Questioned previous assumptions about suffering",
-          "Appreciated nuanced divine perspective",
-          "Felt more comfortable with theological uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine discipline represents God's love and commitment to human transformation",
           "Suffering is random and has no spiritual significance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Elihu says",
+            "ref": "vv. 11-12",
+            "speaker": "Elihu"
+          },
+          {
+            "who": "Elihu says",
+            "ref": "v. 15",
+            "speaker": "Elihu"
+          }
+        ],
+        "question": "Put yourself in the place of someone facing hardship. What would you weigh about the claim that obedience brings prosperity and disobedience brings death, against the words that God rescues the afflicted by their affliction?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Elihu says God is great beyond our knowledge (v. 26). Isaiah has the LORD say His thoughts are not our thoughts and His ways are higher than our ways.",
+        "question": "How does Isaiah 55:8-9 help you understand why God is beyond our knowledge in Elihu's words?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "devotion",
+        "because": "God is exalted in His power",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "demanding recognition",
+        "step": "praise Him for one thing He has done",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my own achievements} and instead of {behavior:demanding recognition}, I will {step:praise Him for one thing He has done}."
       }
     }
   }

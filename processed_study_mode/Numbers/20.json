@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response resonates most with the Israelites' experience?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Frustration with leadership",
-            "expansion": "Their repeated challenges to Moses reveal deeper systemic distrust and spiritual fatigue."
-          },
-          {
-            "id": 2,
-            "text": "Collective generational suffering",
-            "expansion": "The wilderness journey represents a profound metaphor of transformation through adversity."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual exhaustion",
-            "expansion": "The lack of water symbolizes their deeper thirst for divine guidance and resolution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What transformative potential lies within moments of apparent hopelessness?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations intersect with divine providence?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How might my understanding of leadership and community resilience shift after examining this narrative?",
-        "options": [
-          "Recognize collective trauma",
-          "Understand cyclical spiritual challenges",
-          "Appreciate leadership's complex emotional burden",
-          "Acknowledge the role of perseverance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moses shows inappropriate emotional response to congregational challenges",
           "Moses reveals prophetic intercession despite personal struggles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD said to Moses",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses said to them",
+            "ref": "v. 10",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the assembly's place. You hear the LORD tell Moses to speak to the rock so that it pours out water, then you hear Moses call you rebels. What do you weigh as you hear this, and what do you still wonder about?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Psalm 106:32-33",
+        "summary": "At the waters of Meribah the people quarreled with the LORD, and He showed His holiness there (v. 13). Psalm 106 says the people angered the LORD at Meribah, and Moses spoke rashly with his lips (Psalm 106:32-33).",
+        "question": "How does the psalmist's account of Meribah help you understand the weight of the rebellion at the rock?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "Moses and Aaron did not trust the LORD to show His holiness in the sight of the Israelites",
+        "feeling": "impatience, frustration",
+        "object": "a delay in my plans",
+        "behavior": "taking matters into my own hands",
+        "step": "wait for the Lord's timing",
+        "template": "from today I bring my {feeling:impatience, frustration} about {object:a delay in my plans} into the light and instead of {behavior:taking matters into my own hands}, I will {step:wait for the Lord's timing}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's faithfulness to His promises",
-            "expansion": "Divine commitments transcend human limitations and generational timelines."
-          },
-          {
-            "id": 2,
-            "text": "The significance of sacred space",
-            "expansion": "Physical temples represent symbolic spaces where humanity encounters divine presence."
-          },
-          {
-            "id": 3,
-            "text": "Corporate spiritual leadership",
-            "expansion": "Leaders like Solomon carry collective spiritual responsibility for their community's relationship with God."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God does not dwell exclusively in temples, what truly constitutes a 'dwelling place' for the divine?"
-      },
-      "moral_slider": {
-        "question": "How do human intentions align with divine purposes?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of worship and divine relationship?",
-        "options": [
-          "Recognize divine presence beyond physical structures",
-          "Understand leadership as spiritual mediation",
-          "Appreciate covenant continuity across generations",
-          "Recognize prayer as relational communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The temple symbolizes a mediatorial system for approaching divine holiness",
           "Worship spaces are primarily architectural expressions of human religious aspiration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Solomon asks",
+            "ref": "v. 18",
+            "speaker": "Solomon"
+          },
+          {
+            "who": "Solomon pleads",
+            "ref": "v. 19",
+            "speaker": "Solomon"
+          }
+        ],
+        "question": "Put yourself in Solomon's place, standing before the temple you built. You say that even the highest heaven cannot contain God, and then you ask Him to hear your prayer. What would you weigh in those two lines, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "2 Samuel 7:12-16",
+        "summary": "Solomon says God has kept His promise to David with His hand this day (v. 15). 2 Samuel 7:12-16 records God saying He will raise up David's descendant to build a house for His Name, and that David's house and kingdom will endure forever.",
+        "question": "How does 2 Samuel 7:12-16 help you understand the promise Solomon says God has fulfilled?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "exposure",
+        "because": "You alone know the hearts of men",
+        "feeling": "shame, guilt",
+        "object": "a hidden mistake",
+        "behavior": "pretending everything is fine",
+        "step": "bring it to Him in prayer",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a hidden mistake} into the light and instead of {behavior:pretending everything is fine}, I will {step:bring it to Him in prayer}."
       }
     }
   }

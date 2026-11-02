@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about idolatry in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human-made objects cannot truly represent divine power",
-            "expansion": "Manufactured idols reveal more about human limitations than spiritual truth"
-          },
-          {
-            "id": 2,
-            "text": "Cultural practices can distract from genuine worship",
-            "expansion": "External rituals often mask internal spiritual emptiness"
-          },
-          {
-            "id": 3,
-            "text": "True divine power transcends human craftsmanship",
-            "expansion": "The living God cannot be contained or represented by static, constructed images"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If an idol cannot speak, move, or create, what does that reveal about the nature of genuine divinity?"
-      },
-      "moral_slider": {
-        "question": "How do cultural traditions influence spiritual authenticity?",
-        "left_label": "Cultural Conformity",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your understanding of worship?",
-        "options": [
-          "Recognizing the emptiness of materialism",
-          "Understanding spiritual authenticity",
-          "Questioning inherited religious practices",
-          "Seeing beyond cultural conditioning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Creating symbolic representations that replace genuine spiritual connection",
           "Developing ritualistic practices disconnected from authentic relationship with God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The prophet declares",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone hearing both descriptions. The idols are shaped by a craftsman, cannot speak, and must be carried; the LORD is the true God, the living God and eternal King. What would you weigh as you hear them side by side?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Colossians 1:15-17",
+        "summary": "The LORD made the earth by His power, established the world by His wisdom, and stretched out the heavens (v. 12); He is the Maker of all things (v. 16). Colossians says all things were created in, through, and for the Son, and in Him all things hold together.",
+        "question": "How does Colossians 1:15-17 help you understand the reach of the LORD's making of all things in verses 12 and 16?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "surrender",
+        "because": "a man's way is not his own",
+        "feeling": "anxiety, confusion",
+        "object": "my future plans",
+        "behavior": "trying to force my own path",
+        "step": "ask for His direction",
+        "template": "from today I release my {feeling:anxiety, confusion} over {object:my future plans} and instead of {behavior:trying to force my own path}, I will {step:ask for His direction}."
       }
     }
   }

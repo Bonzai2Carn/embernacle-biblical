@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your understanding of righteousness?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The righteous perish unseen",
-            "expansion": "Goodness often goes unrecognized in a world that values spectacle over substance."
-          },
-          {
-            "id": 2,
-            "text": "Peace comes to the upright",
-            "expansion": "Integrity provides an inner tranquility that external chaos cannot disturb."
-          },
-          {
-            "id": 3,
-            "text": "Generational patterns of transgression",
-            "expansion": "Sin can create inherited spiritual landscapes that require conscious transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If righteousness is often invisible, how do we validate its inherent worth beyond societal recognition?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy intersect in spiritual accountability?",
-        "left_label": "Strict Judgment",
-        "right_label": "Infinite Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual inheritance shifted?",
-        "options": [
-          "Recognize generational patterns",
-          "Understand personal spiritual agency",
-          "Appreciate hidden righteousness",
-          "Reframe divine expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritizing external religious performance over internal spiritual growth",
           "Treating divine covenant as transactional rather than relational"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "God says",
+            "ref": "v. 17",
+            "speaker": "God"
+          },
+          {
+            "who": "God says",
+            "ref": "v. 18",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of the one who keeps turning back to his own desires. You hear that God was enraged and struck him. What would you weigh when you hear next that God has seen his ways and will heal him?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "2 Corinthians 1:3-4",
+        "summary": "God says He will heal the one who keeps turning back and restore comfort to him and his mourners (v. 18). 2 Corinthians 1:3-4 calls God the God of all comfort, who comforts us in all our troubles so we can comfort others.",
+        "question": "How does 2 Corinthians 1:3-4 help you understand the comfort God gives to the mourners in Isaiah 57?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "repair",
+        "because": "God dwells with the humble in spirit and revives the heart of the contrite",
+        "feeling": "self-pity, despair",
+        "object": "my own failures",
+        "behavior": "hiding my heart from God",
+        "step": "bring my contrite heart to Him",
+        "template": "from today I turn from my {feeling:self-pity, despair} toward {object:my own failures} and instead of {behavior:hiding my heart from God}, I will {step:bring my contrite heart to Him}."
       }
     }
   }

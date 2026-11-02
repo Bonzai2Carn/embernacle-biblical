@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of consecration resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Separation",
-            "expansion": "Intentional withdrawal from worldly distractions to focus on spiritual devotion"
-          },
-          {
-            "id": 2,
-            "text": "Voluntary Commitment",
-            "expansion": "Choosing a deliberate path of spiritual discipline through personal sacrifice"
-          },
-          {
-            "id": 3,
-            "text": "Sacred Boundaries",
-            "expansion": "Creating spiritual distinctions that mark one's relationship with the divine"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might temporary abstinence reveal deeper truths about permanent transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal spiritual practices be visible or private?",
-        "left_label": "Individual Privacy",
-        "right_label": "Community Witness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual dedication shifted?",
-        "options": [
-          "I see consecration as more intentional",
-          "I recognize the complexity of spiritual boundaries",
-          "I understand sacrifice differently",
-          "I value personal spiritual journeys more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic commitment demonstrating spiritual priorities",
           "Literal replication of ancient votive practices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are a person set apart for God. A close family member dies. What do you weigh first, and what do you still wonder about?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Psalm 121:7-8",
+        "summary": "The LORD tells Aaron to bless the people: to keep them, to shine His face on them, and to give them peace (vv. 24-26). Psalm 121 says the LORD will guard you from all evil, preserve your soul, and watch over your coming and going (Psalm 121:7-8).",
+        "question": "How does Psalm 121:7-8 help you understand what it means for the LORD to bless and keep His people in Numbers 6?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "devotion",
+        "because": "the LORD's blessing for His people is that He would bless them and keep them",
+        "feeling": "anxiety, restlessness",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:an uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His presence}."
       }
     }
   }

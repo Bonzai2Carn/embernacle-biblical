@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight from the drought narrative resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Environmental suffering reflects spiritual disconnection",
-            "expansion": "The land's barrenness symbolizes the people's spiritual emptiness and separation from God."
-          },
-          {
-            "id": 2,
-            "text": "Communal lament precedes individual transformation",
-            "expansion": "Collective mourning can be a pathway to recognizing systemic spiritual brokenness."
-          },
-          {
-            "id": 3,
-            "text": "Divine judgment operates through natural consequences",
-            "expansion": "God's discipline often manifests through observable environmental and societal disruptions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might a community's spiritual state fundamentally alter its material reality?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine accountability override human agency?",
-        "left_label": "Human Responsibility",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine-human relationship shifted?",
-        "options": [
-          "Recognized complexity of spiritual consequences",
-          "Appreciated metaphorical dimensions of environmental suffering",
-          "Understood collective spiritual accountability",
-          "Reconsidered interpretations of divine judgment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment demonstrates His commitment to covenant faithfulness",
           "Suffering reveals the depth of human spiritual brokenness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Jeremiah replied",
+            "ref": "v. 13",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place. You are told not to pray for the well-being of this people, and then you say the prophets are promising them lasting peace. What would you still wonder about the peace those prophets promise?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Daniel 9:18",
+        "summary": "The people in Jeremiah's day admit their rebellions and sins (v. 7). Daniel makes a similar plea, asking God to hear and answer not because of their righteousness, but because of His mercies.",
+        "question": "How does Daniel's focus on God's mercy help you understand the people's plea to act for the sake of His name?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "trust",
+        "because": "the LORD our God sends the rain, and our hope is in Him",
+        "feeling": "anxiety, dread",
+        "object": "a season of lack",
+        "behavior": "searching for easy fixes",
+        "step": "rest in His proven faithfulness",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a season of lack} to God and instead of {behavior:searching for easy fixes}, I will {step:rest in His proven faithfulness}."
       }
     }
   }

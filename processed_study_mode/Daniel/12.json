@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic concept resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Record-Keeping",
-            "expansion": "The metaphor of being 'written in the book' suggests ultimate spiritual accountability."
-          },
-          {
-            "id": 2,
-            "text": "Resurrection's Duality",
-            "expansion": "Some awaken to eternal life, others to eternal contempt, revealing profound spiritual consequences."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Luminosity",
-            "expansion": "The wise 'shining like the firmament' suggests transformation through spiritual enlightenment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is certain, how does that awareness transform your present moment's ethical choices?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine foreknowledge with human free will?",
-        "left_label": "Predestination",
-        "right_label": "Personal Agency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual destiny evolved?",
-        "options": [
-          "More aware of cosmic spiritual dynamics",
-          "Increased sense of personal accountability",
-          "Deeper appreciation of supernatural dimensions",
-          "Challenged by complexity of divine judgment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic prophecy about national Israel's restoration",
           "Apocalyptic vision describing cosmic spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "One of them asked",
+            "ref": "v. 6",
+            "speaker": "One of them"
+          },
+          {
+            "who": "The man answered",
+            "ref": "v. 7",
+            "speaker": "The man"
+          }
+        ],
+        "question": "Put yourself in Daniel's place, watching this exchange. You see a question about when wonders will be fulfilled, and you hear an answer about a time of shattering. What does this answer make you wonder about the duration of hardship?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Matthew 25:46",
+        "summary": "The man in linen describes an awakening where some rise to everlasting life and others to shame (v. 2). Jesus says some will go away into eternal punishment and the righteous into eternal life.",
+        "question": "How does Jesus' description of the two destinies help you weigh the two awakenings Daniel saw?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "trust",
+        "because": "you will arise to your inheritance at the end of the days",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in what is promised",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in what is promised}."
       }
     }
   }

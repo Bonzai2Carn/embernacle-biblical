@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What does human ambition reveal about our relationship with God?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human pride and self-sufficiency",
-            "expansion": "The tower represents humanity's attempt to define its own significance independent of divine purpose."
-          },
-          {
-            "id": 2,
-            "text": "Collective human potential",
-            "expansion": "The builders demonstrated remarkable unity and collaborative capability before divine intervention."
-          },
-          {
-            "id": 3,
-            "text": "Fear of dispersion and insignificance",
-            "expansion": "The people's primary motivation was maintaining collective identity and preventing social fragmentation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If unity can achieve remarkable things, why might God perceive human consolidation of power as potentially dangerous?"
-      },
-      "moral_slider": {
-        "question": "To what extent should human ambition be moderated by spiritual humility?",
-        "left_label": "Unbridled Ambition",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collective human potential shifted?",
-        "options": [
-          "More aware of human limitations",
-          "Recognize the importance of spiritual perspective",
-          "Appreciate the complexity of divine intervention",
-          "Understand the risks of unchecked collective pride"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Cultural and linguistic diversity is part of God's intentional design",
           "Collaborative human efforts can be misaligned with divine purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The people said",
+            "ref": "v. 4",
+            "speaker": "The people"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "vv. 6-7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the builders. You set a goal to make a name for yourselves and stay together. What do you understand about why the LORD responds by breaking your unity?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 33:10",
+        "summary": "The people in Shinar plan a city and a tower to establish their own name (v. 4). The psalmist shows that God has a different power over the plans of nations (v. 10).",
+        "question": "How does the psalmist's description of God's power help you view the builders' attempt to reach the heavens?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "the people said, let us build a city and a tower so that we may make a name for ourselves",
+        "feeling": "pride, insecurity",
+        "object": "my personal achievements",
+        "behavior": "seeking constant recognition",
+        "step": "work for His glory",
+        "template": "from today I let go of my {feeling:pride, insecurity} over {object:my personal achievements} and instead of {behavior:seeking constant recognition}, I will {step:work for His glory}."
       }
     }
   }

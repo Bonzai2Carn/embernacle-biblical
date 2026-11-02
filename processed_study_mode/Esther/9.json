@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What powerful theme emerges from the Jews' reversal of fortune?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Providence",
-            "expansion": "God orchestrates protection for His people even in seemingly impossible circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Collective Resilience",
-            "expansion": "Community solidarity can transform potential destruction into survival and empowerment."
-          },
-          {
-            "id": 3,
-            "text": "Transformative Justice",
-            "expansion": "The oppressed can become agents of their own deliverance through strategic, principled action."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you discern between justified self-defense and vengeful retaliation?"
-      },
-      "moral_slider": {
-        "question": "What is the ethical boundary between protecting oneself and inflicting harm?",
-        "left_label": "Pacifism",
-        "right_label": "Self-Preservation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More nuanced about God's mysterious workings",
-          "Recognize complexity of historical deliverance",
-          "Appreciate human agency within providential contexts",
-          "Understand collective resilience differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare requires both prayer and practical preparation",
           "Preservation of community is paramount in facing existential threats"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 25,
+        "exchange": [
+          {
+            "who": "Haman had plotted",
+            "ref": "v. 24",
+            "speaker": ""
+          },
+          {
+            "who": "the king commanded",
+            "ref": "v. 25",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the Jews facing Haman's plot. How does seeing the scheme return upon the plotter change how you view the king's command?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Genesis 50:20",
+        "summary": "The enemies of the Jews had hoped to overpower them, but their plan was overturned (v. 1). Genesis 50:20 says what was intended for evil, God intended for good, to preserve the lives of many people.",
+        "question": "How does Genesis 50:20 help you understand the reversal of Haman's plot in this chapter?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "remembrance",
+        "because": "the Jews saw their sorrow turn to joy and their mourning into a holiday",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "forgetting God's past faithfulness",
+        "step": "list one way He has helped me before",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult season} and instead of {behavior:forgetting God's past faithfulness}, I will {step:list one way He has helped me before}."
       }
     }
   }

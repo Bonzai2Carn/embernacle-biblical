@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ's complete submission to the Father's will",
-            "expansion": "Jesus demonstrates radical obedience as the ultimate model of spiritual surrender."
-          },
-          {
-            "id": 2,
-            "text": "The profound nature of eternal life as knowing God",
-            "expansion": "True life is not about duration, but intimate relationship with the divine."
-          },
-          {
-            "id": 3,
-            "text": "Jesus interceding for His disciples' unity and protection",
-            "expansion": "Christ's prayer reveals His deep compassion and spiritual covering for believers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If knowing God is eternal life, how might your current understanding limit or expand your spiritual perception?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine sovereignty with human agency?",
-        "left_label": "Human Free Will",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and spiritual intimacy shifted?",
-        "options": [
-          "More aware of prayer as relationship, not transaction",
-          "Recognize deeper spiritual unity among believers",
-          "See Christ's intercession as personally meaningful",
-          "Understand spiritual authority differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Salvation is a collaborative process between divine initiative and human cooperation",
           "Eternal life is exclusively determined by God's sovereign choice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jesus says",
+            "ref": "v. 3",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus says",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a disciple listening to this definition of life. How does Jesus's description of his own completed work change what you understand about knowing God?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Ephesians 5:26",
+        "summary": "Jesus asks the Father to sanctify His followers by the truth, and says the Father's word is truth (v. 17). Ephesians says Christ gave Himself up to sanctify the church, cleansing her by the washing with water through the word.",
+        "question": "How does Ephesians 5:26 help you understand what it means to be sanctified through the word?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "surrender",
+        "because": "I am not asking that You take them out of the world, but that You keep them from the evil one",
+        "feeling": "fear, anxiety",
+        "object": "a difficult environment",
+        "behavior": "trying to escape my responsibilities",
+        "step": "ask for protection in the midst of it",
+        "template": "from today I release my {feeling:fear, anxiety} over {object:a difficult environment} and instead of {behavior:trying to escape my responsibilities}, I will {step:ask for protection in the midst of it}."
       }
     }
   }

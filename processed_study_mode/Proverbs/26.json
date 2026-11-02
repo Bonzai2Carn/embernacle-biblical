@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical wisdom resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Honor is inappropriate for a fool",
-            "expansion": "Misplaced recognition can distort genuine merit and understanding."
-          },
-          {
-            "id": 2,
-            "text": "A rod for the fool's back",
-            "expansion": "Correction requires direct, sometimes uncomfortable intervention to reshape destructive behaviors."
-          },
-          {
-            "id": 3,
-            "text": "Responding to a fool's folly",
-            "expansion": "Wisdom demands nuanced communication that neither enables nor escalates foolishness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of wisdom change if you recognized that true understanding requires both compassion and firm boundaries?"
-      },
-      "moral_slider": {
-        "question": "How do you balance confronting foolishness with maintaining human dignity?",
-        "left_label": "Harsh Correction",
-        "right_label": "Gentle Guidance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom and correction evolved?",
-        "options": [
-          "I now see wisdom as more contextual",
-          "I recognize the complexity of human behavior",
-          "I understand correction requires emotional intelligence",
-          "I'm more aware of my own potential for foolishness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Completely avoid engagement",
           "Pray for transformative understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The writer says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears both sayings about answering a fool. One warns that you will be like him, the other that he will become wise in his own eyes. What would you weigh in each reason?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 14:1",
+        "summary": "A man wise in his own eyes has less hope than a fool (v. 12). Psalm 14:1 describes the fool who says in his heart that there is no God.",
+        "question": "How does the fool's denial of God in Psalm 14:1 help you understand the hopelessness of the man in Proverbs?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "without gossip, a conflict ceases",
+        "feeling": "irritation, anger",
+        "object": "a rumor about a friend",
+        "behavior": "repeating the news",
+        "step": "stop the conversation",
+        "template": "from today I let go of my {feeling:irritation, anger} over {object:a rumor about a friend} and instead of {behavior:repeating the news}, I will {step:stop the conversation}."
       }
     }
   }

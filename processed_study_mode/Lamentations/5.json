@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotion resonates most from the community's suffering?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Abandonment",
-            "expansion": "The profound sense of being forgotten by both human and divine protection"
-          },
-          {
-            "id": 2,
-            "text": "Exhaustion",
-            "expansion": "The crushing weight of continuous oppression without relief or hope"
-          },
-          {
-            "id": 3,
-            "text": "Displacement",
-            "expansion": "The traumatic loss of homeland, identity, and generational inheritance"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When systemic suffering occurs, who bears ultimate responsibility: the oppressors, the oppressed, or the silent witnesses?"
-      },
-      "moral_slider": {
-        "question": "How does communal suffering test the boundaries of theological understanding?",
-        "left_label": "Divine Abandonment",
-        "right_label": "Redemptive Purpose"
-      },
-      "reevaluation": {
-        "question": "How has this text transformed your understanding of collective trauma?",
-        "options": [
-          "Deepened empathy for marginalized communities",
-          "Recognized complexity of historical suffering",
-          "Questioned simplistic theological explanations",
-          "Seen resilience in communal lament"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering reveals human limitation and divine sovereignty",
           "National trauma represents a pathway to spiritual renewal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The people cry",
+            "ref": "v. 20",
+            "speaker": ""
+          },
+          {
+            "who": "The people pray",
+            "ref": "v. 21",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one crying out. You feel abandoned and forgotten, yet you ask to be restored so you may return. What does this turn from a complaint to a plea tell you about what remains?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Psalm 79:8-9",
+        "summary": "The people admit their guilt: the crown has fallen from their head, and they have sinned (v. 16). The psalmist asks God not to hold past sins against His people (Psalm 79:8).",
+        "question": "How does the psalmist's request for mercy help you understand the plea for restoration in Lamentations 5:21?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "trust",
+        "because": "You, O LORD, reign forever; Your throne endures from generation to generation",
+        "feeling": "anxiety, dread",
+        "object": "a changing world",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His eternal rule",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a changing world} and instead of {behavior:trying to control every outcome}, I will {step:rest in His eternal rule}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most from Balaam's prophecy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine guidance overrides human intention",
-            "expansion": "Even a non-Israelite prophet can be a conduit for God's authentic message."
-          },
-          {
-            "id": 2,
-            "text": "Israel's destiny is supernaturally protected",
-            "expansion": "Despite external attempts to curse, God's chosen people remain blessed."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic vision transcends immediate circumstances",
-            "expansion": "True spiritual insight reveals long-term divine purposes beyond current political tensions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophecy can emerge through unexpected vessels like Balaam, what limits might we be placing on how divine communication can occur?"
-      },
-      "moral_slider": {
-        "question": "How much agency do humans have when God's predetermined plans are in motion?",
-        "left_label": "Complete Human Free Will",
-        "right_label": "Divine Sovereign Control"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication shifted?",
-        "options": [
-          "I see prophecy as more dynamic and unpredictable",
-          "Divine messages can come through unexpected channels",
-          "Spiritual insights transcend personal beliefs or intentions",
-          "Prophecy is about revealing deeper spiritual realities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine inspiration temporarily suspends human consciousness",
           "Prophetic messages represent a collaborative spiritual experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Balak said",
+            "ref": "v. 11",
+            "speaker": "Balak"
+          },
+          {
+            "who": "Balaam answered Balak",
+            "ref": "vv. 12-13",
+            "speaker": "Balaam"
+          }
+        ],
+        "question": "Put yourself in Balaam's place. Balak tells you to flee home because the LORD has denied your reward. You answer that even a house full of silver and gold could not make you go beyond the command of the LORD. What would you weigh about your answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Matthew 2:2",
+        "summary": "Balaam says a star will come forth from Jacob and a scepter will arise from Israel (v. 17). In Matthew, men ask where the One born King of the Jews is, saying they saw His star in the east and came to worship Him (Matthew 2:2).",
+        "question": "How does the star seen in the east in Matthew 2:2 help you understand the star Balaam speaks of in Numbers 24:17?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "surrender",
+        "because": "no one can live unless God has ordained it",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His sovereign plan",
+        "template": "from today I release my {feeling:anxiety, dread} over {object:an uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His sovereign plan}."
       }
     }
   }

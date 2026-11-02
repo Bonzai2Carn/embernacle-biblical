@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual judgment challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Social status blindness",
-            "expansion": "Recognizing how unconscious biases distort spiritual perception"
-          },
-          {
-            "id": 2,
-            "text": "Preferential treatment",
-            "expansion": "Understanding how subtle discrimination undermines Christian community"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual authenticity",
-            "expansion": "Examining whether external actions truly reflect internal faith"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your faith were put on trial, would your actions be sufficient evidence of genuine belief?"
-      },
-      "moral_slider": {
-        "question": "How do personal preferences influence spiritual discernment?",
-        "left_label": "Subjective Judgment",
-        "right_label": "Divine Perspective"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual equality evolved?",
-        "options": [
-          "Recognize inherent human dignity",
-          "Challenge personal prejudices",
-          "Develop more inclusive community practices",
-          "Seek transformative understanding beyond social markers"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christian community should reflect radical inclusivity",
           "Genuine discipleship requires active compassion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears that loving your neighbor as yourself is doing well, and then that favoritism is sin. What would you weigh about how you treat the people in front of you?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Ephesians 2:8-10",
+        "summary": "James says faith by itself, if it does not result in action, is dead (v. 17). Ephesians 2:8-10 says we are saved by grace through faith, not by works, and are created in Christ Jesus to do good works.",
+        "question": "How does Ephesians 2:8-10 help you understand why faith must result in action?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "mercy triumphs over judgment",
+        "feeling": "indignation, anger",
+        "object": "someone who wronged me",
+        "behavior": "seeking retribution",
+        "step": "offer a kind word",
+        "template": "from today I let go of my {feeling:indignation, anger} over {object:someone who wronged me} and instead of {behavior:seeking retribution}, I will {step:offer a kind word}."
       }
     }
   }

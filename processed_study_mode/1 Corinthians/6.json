@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christians should resolve conflicts internally",
-            "expansion": "The church community has the spiritual maturity to mediate disputes more effectively than secular courts."
-          },
-          {
-            "id": 2,
-            "text": "Our bodies are temples of the Holy Spirit",
-            "expansion": "Personal holiness and bodily integrity are profound spiritual responsibilities."
-          },
-          {
-            "id": 3,
-            "text": "Believers will ultimately judge spiritual realms",
-            "expansion": "Our current spiritual development prepares us for cosmic judicial responsibilities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Christians are called to judge spiritual matters, what qualifies us beyond our own imperfections?"
-      },
-      "moral_slider": {
-        "question": "How do personal freedom and spiritual accountability balance?",
-        "left_label": "Individual Liberty",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community and personal conduct shifted?",
-        "options": [
-          "More aware of spiritual responsibility",
-          "Recognize deeper interconnectedness",
-          "Value internal conflict resolution",
-          "Understand bodily holiness differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mediate conflicts through spiritually mature church leadership",
           "Avoid confrontation and ignore interpersonal challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The wicked",
+            "ref": "vv. 9-10",
+            "speaker": ""
+          },
+          {
+            "who": "Some of you",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who were once defined by these lists of sins. What does the change in your identity tell you about the power of what happened to you?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Matthew 18:15-17",
+        "summary": "Paul asks whether there is no one among them wise enough to settle a dispute between brothers (v. 5). Jesus gives a way to handle a brother's wrong, starting with going to him alone (Matthew 18:15).",
+        "question": "How does Matthew 18:15-17 help you understand why Paul asks for a wise judge in verse 5?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "devotion",
+        "because": "I was bought at a price",
+        "feeling": "shame, guilt",
+        "object": "my past mistakes",
+        "behavior": "hiding from God",
+        "step": "offer my body to His service",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past mistakes} and instead of {behavior:hiding from God}, I will {step:offer my body to His service}."
       }
     }
   }

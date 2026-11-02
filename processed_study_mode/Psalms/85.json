@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine restoration speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "God's Forgiveness of National Sin",
-            "expansion": "The psalm reveals divine mercy that covers collective transgression, offering hope beyond human failure."
-          },
-          {
-            "id": "b",
-            "text": "Restoration of Relationship with God",
-            "expansion": "The psalm portrays a profound reconciliation between humanity and the divine, healing spiritual separation."
-          },
-          {
-            "id": "c",
-            "text": "Divine Justice and Mercy Intersecting",
-            "expansion": "The text beautifully illustrates how God's righteousness and compassion can coexist in redemptive action."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is assured, what personal responsibility remains for spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do divine intervention and human agency balance in spiritual renewal?",
-        "left_label": "Total Divine Determination",
-        "right_label": "Human Collaborative Effort"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine restoration evolved?",
-        "options": [
-          "More aware of collective spiritual dynamics",
-          "Recognize complexity of divine mercy",
-          "See personal transformation as interactive process",
-          "Understand spiritual renewal as holistic experience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Restoring broken relationships with God and community",
           "Transforming collective national/cultural spiritual identity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist resolves",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one asking whether God's anger will last through all generations. You resolve to listen for what God will say. What would you hope to hear Him speak?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Micah 7:18-19",
+        "summary": "The psalmist says God forgave the iniquity of His people and covered all their sin (v. 2). Micah 7:18-19 describes the LORD who pardons iniquity and does not retain His anger forever, and who casts our sins into the depths of the sea.",
+        "question": "How does Micah 7:18-19 help you understand the forgiveness described in verse 2?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "repair",
+        "because": "the LORD withheld all His fury and turned from His burning anger",
+        "feeling": "resentment, bitterness",
+        "object": "the person who wronged me",
+        "behavior": "replaying the offense",
+        "step": "pray for them by name",
+        "template": "from today I bring You my {feeling:resentment, bitterness} about {object:the person who wronged me} and instead of {behavior:replaying the offense}, I will {step:pray for them by name}."
       }
     }
   }

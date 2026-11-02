@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply with the chapter's message?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment of Pride",
-            "expansion": "Pride blinds spiritual perception and invites inevitable consequences."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Drunkenness as Metaphor",
-            "expansion": "Intoxication represents moral and spiritual disorientation from God's truth."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning as Redemptive Communication",
-            "expansion": "God's harsh words are ultimately an invitation to transformation, not mere condemnation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current cultural assumptions about prosperity and success blind you to deeper spiritual realities?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the balance between divine judgment and divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Boundless Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual accountability shifted?",
-        "options": [
-          "I now see judgment as more nuanced",
-          "I recognize personal responsibility more deeply",
-          "I understand prophetic language differently",
-          "I'm more aware of systemic spiritual decay"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Discipline reveals God's ultimate love and commitment to spiritual transformation",
           "Discipline is arbitrary and unpredictable"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The people said",
+            "ref": "v. 15",
+            "speaker": "The people"
+          },
+          {
+            "who": "The Lord GOD says",
+            "ref": "v. 16",
+            "speaker": "The Lord GOD"
+          }
+        ],
+        "question": "Put yourself in the place of those who built a refuge out of lies. When you see the Lord laying a stone that cannot be shaken, how does it change your view of the safety you tried to build for yourself?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "James 4:6",
+        "summary": "The Lord offered a place of rest to a people who refused to listen (v. 12). James writes that God opposes the proud but gives grace to the humble (James 4:6).",
+        "question": "How does the promise of grace in James 4:6 help you understand why the people in Isaiah 28 failed to find their place of repose?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "the farmer's God instructs and teaches him properly",
+        "feeling": "anxiety, confusion",
+        "object": "a difficult season",
+        "behavior": "trying to force my own way",
+        "step": "wait for His instruction",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a difficult season} and instead of {behavior:trying to force my own way}, I will {step:wait for His instruction}."
       }
     }
   }

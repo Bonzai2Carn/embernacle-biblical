@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's ultimate sovereignty",
-            "expansion": "The complete manifestation of divine judgment demonstrates total cosmic authority."
-          },
-          {
-            "id": 2,
-            "text": "Victorious saints' worship",
-            "expansion": "Those who overcome evil find profound communion through collective praise."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic symbolism",
-            "expansion": "The sea of glass represents transcendent spiritual transformation beyond earthly struggles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might experiencing divine judgment transform one's understanding of mercy?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between divine justice and divine love?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual conflict evolved?",
-        "options": [
-          "More aware of spiritual warfare",
-          "Recognize complexity of divine intervention",
-          "Understand personal spiritual resilience",
-          "See larger cosmic narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "The plagues demonstrate God's commitment to ultimate justice",
           "Judgment reveals God's holiness and the consequences of rejecting His grace"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The victorious believers sang",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among those singing this song. You declare that God's works are great and His ways are just and true. What would you understand about who alone is holy?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 15:1-21",
+        "summary": "The believers sing a song of Moses and the Lamb (v. 3) that celebrates God's victory. Moses led Israel in a similar song after they crossed the sea and saw God's power over their enemies (Exodus 15:1-11).",
+        "question": "How does the memory of Moses' song help you understand the song the believers sing in heaven?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "devotion",
+        "because": "just and true are Your ways",
+        "feeling": "doubt, confusion",
+        "object": "the way my life is unfolding",
+        "behavior": "questioning God's goodness",
+        "step": "declare His righteousness",
+        "template": "from today I let go of my {feeling:doubt, confusion} over {object:the way my life is unfolding} and instead of {behavior:questioning God's goodness}, I will {step:declare His righteousness}."
       }
     }
   }

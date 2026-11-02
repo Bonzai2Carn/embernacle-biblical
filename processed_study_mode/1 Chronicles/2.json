@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which genealogical insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine judgment of wickedness",
-            "expansion": "God actively intervenes to remove those who persistently oppose His standards."
-          },
-          {
-            "id": 2,
-            "text": "Redemptive lineage through imperfect people",
-            "expansion": "Even complicated family histories can be part of God's larger narrative of salvation."
-          },
-          {
-            "id": 3,
-            "text": "Importance of genealogical record-keeping",
-            "expansion": "Individual stories matter within the broader context of communal identity and divine purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do individual moral choices ripple through generations, and can divine judgment be simultaneously an act of justice and mercy?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal character determine divine blessing?",
-        "left_label": "Individual Weakness",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical genealogy shifted?",
-        "options": [
-          "Recognize complexity of human relationships",
-          "Appreciate divine sovereignty",
-          "Understand narrative continuity",
-          "See individual stories within collective context"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Genealogical selection implies unconditional election",
           "Individual moral choices remain critically important alongside divine planning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 15,
+        "ref": "Matthew 1:1-17",
+        "summary": "The chronicler traces the line of Judah through Ram and Amminadab to David (vv. 10-15). Matthew traces this same line from Abraham to Jesus, through Boaz, Obed, and Jesse to David.",
+        "question": "How does Matthew's list of names help you understand where this line of Judah leads?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "remembrance",
+        "because": "the LORD saw that Er was wicked and put him to death",
+        "feeling": "indifference",
+        "object": "a habit I know is wrong",
+        "behavior": "excusing it",
+        "step": "name it and turn from it today",
+        "template": "from today I let go of my {feeling:indifference} over {object:a habit I know is wrong} and instead of {behavior:excusing it}, I will {step:name it and turn from it today}."
       }
     }
   }

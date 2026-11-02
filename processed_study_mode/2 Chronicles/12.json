@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Consequences of Abandoning Divine Guidance",
-            "expansion": "Spiritual drift inevitably leads to vulnerability and loss"
-          },
-          {
-            "id": 2,
-            "text": "Divine Mercy in Partial Judgment",
-            "expansion": "God's correction is calibrated to invite restoration, not total destruction"
-          },
-          {
-            "id": 3,
-            "text": "Leadership's Spiritual Responsibility",
-            "expansion": "A leader's spiritual condition profoundly impacts their entire community"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you observe decline in personal or communal faithfulness, what subtle compromises typically precede significant spiritual collapse?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy intersect in moments of collective unfaithfulness?",
-        "left_label": "Strict Accountability",
-        "right_label": "Gracious Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "Recognize subtle spiritual drift",
-          "Understand collective spiritual consequences",
-          "Appreciate nuanced divine correction",
-          "Value proactive spiritual leadership"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment is proportional to communal spiritual commitment",
           "Repentance and humility can redirect potential divine punishment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Shemaiah the prophet said to Rehoboam and the leaders",
+            "ref": "v. 5",
+            "speaker": "Shemaiah the prophet"
+          },
+          {
+            "who": "The LORD saw that they had humbled themselves",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Rehoboam's place. You hear that you have forsaken the LORD and that He gave you into the hand of Shishak. Then you hear that you have humbled yourselves and that He will not destroy you. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Psalm 103:8-10",
+        "summary": "The LORD says He will not destroy the people who humbled themselves (v. 7). Psalm 103:8-10 says the LORD is compassionate, gracious, and slow to anger, and that He does not deal with us according to our sins.",
+        "question": "How does Psalm 103:8-10 help you understand the LORD's decision not to destroy the people who humbled themselves?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "repair",
+        "because": "Rehoboam humbled himself, and the anger of the LORD turned away from him",
+        "feeling": "pride, stubbornness",
+        "object": "a rebuke from a prophet",
+        "behavior": "rejecting correction",
+        "step": "humble myself and listen",
+        "template": "from today I turn from my {feeling:pride, stubbornness} toward {object:a rebuke from a prophet} and instead of {behavior:rejecting correction}, I will {step:humble myself and listen}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which parable or teaching in Luke 8 resonates most deeply with your spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Parable of the Sower",
-            "expansion": "Understanding one's spiritual receptivity as varying ground conditions for divine truth."
-          },
-          {
-            "id": 2,
-            "text": "Jesus Calming the Storm",
-            "expansion": "Recognizing divine peace and authority amidst life's chaotic circumstances."
-          },
-          {
-            "id": 3,
-            "text": "Healing the Demon-Possessed Man",
-            "expansion": "Exploring the transformative power of spiritual liberation and restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual receptivity is like soil, what subtle barriers might prevent your heart from fully embracing transformative truth?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal faith with rational understanding?",
-        "left_label": "Intellectual Skepticism",
-        "right_label": "Pure Spiritual Trust"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual growth shifted after reflecting on Luke 8?",
-        "options": [
-          "More aware of inner spiritual barriers",
-          "Recognize divine power beyond human limitations",
-          "Understand faith as an active, dynamic process",
-          "Appreciate spiritual transformation as gradual"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Intentional spiritual cultivation enables deeper revelation",
           "Persistent faith overcomes spiritual obstacles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "His disciples asked Him",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 11",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the disciples who ask Jesus what this parable means. He tells you that the seed is the word of God. What does that answer change about how you listen to His stories?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Mark 4:20",
+        "summary": "Jesus says the seed on good soil is the one with a noble and good heart, which holds the word and produces a crop (v. 15). Mark 4:20 says those sown on good soil hear the word, receive it, and produce a crop.",
+        "question": "How does Mark 4:20 help you understand what it means to hold the word with a noble and good heart in Luke 8:15?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "whoever has will be given more, but whoever does not have, even what he thinks he has will be taken away from him",
+        "feeling": "distraction, carelessness",
+        "object": "sermons and Bible reading",
+        "behavior": "half-listening while my mind wanders",
+        "step": "write down one verse I heard",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:sermons and Bible reading} and instead of {behavior:half-listening while my mind wanders}, I will {step:write down one verse I heard}."
       }
     }
   }

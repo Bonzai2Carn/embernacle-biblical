@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's nature resonates most deeply?",
-        "choices": [
-          {
-            "id": "compassion",
-            "text": "God's Compassion",
-            "expansion": "Divine mercy transcends human limitations and embraces our deepest vulnerabilities."
-          },
-          {
-            "id": "healing",
-            "text": "God's Healing Power",
-            "expansion": "Restoration is fundamental to God's character, renewing what human brokenness has damaged."
-          },
-          {
-            "id": "justice",
-            "text": "God's Redemptive Justice",
-            "expansion": "Divine justice is not punitive, but transformative and ultimately restorative."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God 'remembers that we are dust', how might this perspective change our understanding of human frailty and divine grace?"
-      },
-      "moral_slider": {
-        "question": "How do divine mercy and personal accountability intersect?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Personal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your previous understanding of divine relationship?",
-        "options": [
-          "Recognized God's deeper compassion",
-          "Understood personal limitations more clearly",
-          "Saw divine love as more comprehensive",
-          "Challenged previous transactional view of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mercy is universally available, not restricted to specific groups",
           "Forgiveness requires complete human transformation before acceptance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist commands his soul",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist names the kind deeds",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the psalmist telling your own soul not to forget His kind deeds. You then name them: He forgives all your iniquities, heals your diseases, and redeems your life from the Pit. Which of these would you least want to forget?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Exodus 34:6-7",
+        "summary": "The psalmist says the LORD is compassionate and gracious, slow to anger, abounding in loving devotion (v. 8). Exodus 34:6-7 has the LORD passing in front of Moses and calling out these same words.",
+        "question": "How does Exodus 34:6-7 help you understand the character the psalmist names in verse 8?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "remembrance",
+        "because": "my soul must not forget all His kind deeds",
+        "feeling": "cynicism, numbness",
+        "object": "a difficult season",
+        "behavior": "complaining about my lack",
+        "step": "list three specific blessings",
+        "template": "from today I bring You my {feeling:cynicism, numbness} about {object:a difficult season} and instead of {behavior:complaining about my lack}, I will {step:list three specific blessings}."
       }
     }
   }

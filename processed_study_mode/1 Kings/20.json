@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of power dynamics most intrigues you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Submission",
-            "expansion": "Ahab's initial capitulation reveals the complex psychological landscape of oppression and survival."
-          },
-          {
-            "id": 2,
-            "text": "Divine Intervention",
-            "expansion": "God's strategic involvement suggests that political outcomes are not merely human constructs."
-          },
-          {
-            "id": 3,
-            "text": "Negotiated Conflict",
-            "expansion": "The repeated diplomatic exchanges highlight the ritualistic nature of ancient warfare and diplomacy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does strategic compromise become moral surrender, and who determines that boundary?"
-      },
-      "moral_slider": {
-        "question": "How do you balance national preservation with personal dignity?",
-        "left_label": "Survival at All Costs",
-        "right_label": "Principled Resistance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and power shifted?",
-        "options": [
-          "I see more nuance in diplomatic negotiations",
-          "Power is more contextual than absolute",
-          "Divine guidance can supersede human strategy",
-          "Vulnerability can be a form of strategic wisdom"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic guidance can redirect national trajectories",
           "God's redemptive plans transcend individual moral failures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Ben-hadad threatened",
+            "ref": "v. 10",
+            "speaker": "Ben-hadad"
+          },
+          {
+            "who": "The messengers relayed Ahab's reply",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Ahab's place, facing a threat of total destruction. What does his sharp response reveal about his stance toward this enemy?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "2 Chronicles 20:15",
+        "summary": "The Arameans believe the LORD is a god of the hills, not of the valleys (v. 28). In Judah, the LORD tells the people that the battle belongs to God and not to them (2 Chronicles 20:15).",
+        "question": "How does the promise that the battle belongs to the LORD help you understand why God used the Arameans' own logic to defeat them?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "exposure",
+        "because": "the king let slip from his hand the man the LORD had devoted to destruction",
+        "feeling": "guilt, regret",
+        "object": "a missed opportunity to do right",
+        "behavior": "making excuses for my compromise",
+        "step": "obey the next command I receive",
+        "template": "from today I bring my {feeling:guilt, regret} about {object:a missed opportunity to do right} into the light and instead of {behavior:making excuses for my compromise}, I will {step:obey the next command I receive}."
       }
     }
   }

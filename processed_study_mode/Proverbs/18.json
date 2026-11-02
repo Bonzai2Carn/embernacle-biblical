@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on personal wisdom resonates most deeply?",
-        "choices": [
-          {
-            "id": "isolation",
-            "text": "Personal isolation leads to self-centered judgment",
-            "expansion": "Withdrawing from community diminishes our capacity for true understanding."
-          },
-          {
-            "id": "words",
-            "text": "Our words reveal the depths of our inner character",
-            "expansion": "Speech is a window into the spiritual and emotional reservoirs of our being."
-          },
-          {
-            "id": "judgment",
-            "text": "True wisdom requires impartiality and discernment",
-            "expansion": "Righteous judgment transcends personal bias and seeks objective truth."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your desire for personal autonomy actually be limiting your growth and understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do you balance individual expression with communal wisdom?",
-        "left_label": "Personal Impulse",
-        "right_label": "Collective Insight"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous understanding of wisdom?",
-        "options": [
-          "I recognize my tendency towards self-isolation",
-          "I'm more aware of the power of my words",
-          "I see the importance of impartial judgment",
-          "I understand wisdom as a collaborative journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Community engagement is essential for biblical discipleship",
           "Personal autonomy supersedes communal spiritual connections"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a man whose heart is growing proud. What do you understand about what comes before a downfall, and what comes before honor?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "James 1:19",
+        "summary": "Proverbs 18 says answering a matter before hearing it is folly and disgrace (v. 13). James says everyone should be quick to listen, slow to speak, and slow to anger (1:19).",
+        "question": "How does James 1:19 help you understand why hearing a matter fully comes before answering it?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "pacing",
+        "because": "answering a matter before hearing it is folly and disgrace",
+        "feeling": "impatience, eagerness to win",
+        "object": "a friend describing a problem",
+        "behavior": "interrupting with my answer",
+        "step": "let them finish before I respond",
+        "template": "from today I set down my {feeling:impatience, eagerness to win} about {object:a friend describing a problem} and instead of {behavior:interrupting with my answer}, I will {step:let them finish before I respond}."
       }
     }
   }

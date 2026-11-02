@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's absolute sovereignty reveals His capacity to decisively address historical transgressions."
-          },
-          {
-            "id": 2,
-            "text": "Obedience vs. Personal Interpretation",
-            "expansion": "Human rationalization can fatally undermine explicit divine commandments."
-          },
-          {
-            "id": 3,
-            "text": "Leadership Accountability",
-            "expansion": "Spiritual leadership carries profound responsibility beyond personal convenience or strategic calculation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine instructions seem ethically challenging, who determines the boundaries between obedience and moral reasoning?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's command for total destruction with contemporary understanding of mercy?",
-        "left_label": "Absolute Mercy",
-        "right_label": "Absolute Justice"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine instruction potentially shifted?",
-        "options": [
-          "Recognize complexity of biblical narratives",
-          "Understand deeper layers of spiritual accountability",
-          "Appreciate nuanced interpretation of historical texts",
-          "Wrestle with theological tensions more openly"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Mercy can supersede strict divine judgment",
           "Prophetic guidance provides contextual understanding of divine will"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Saul answered",
+            "ref": "v. 15",
+            "speaker": "Saul"
+          },
+          {
+            "who": "Samuel declared",
+            "ref": "v. 22",
+            "speaker": "Samuel"
+          }
+        ],
+        "question": "Put yourself in Saul's place, explaining your choice to keep the best livestock. How does Samuel's response change how you view your sacrifice?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Hosea 6:6",
+        "summary": "Samuel tells Saul that obedience is better than sacrifice (v. 22). Hosea 6:6 says the LORD desires mercy, not sacrifice, and the knowledge of God rather than burnt offerings.",
+        "question": "How does Hosea 6:6 help you understand Samuel's words to Saul about sacrifice and obedience?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "obedience is better than sacrifice",
+        "feeling": "anxiety, pressure",
+        "object": "the need to please others",
+        "behavior": "cutting corners to avoid conflict",
+        "step": "follow the clear command",
+        "template": "from today I let go of my {feeling:anxiety, pressure} over {object:the need to please others} and instead of {behavior:cutting corners to avoid conflict}, I will {step:follow the clear command}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of the Word's nature most intrigues you?",
-        "choices": [
-          {
-            "id": "divine_origin",
-            "text": "The Word was with God and was God",
-            "expansion": "The mysterious co-eternal and co-equal nature of divine personhood challenges linear human understanding."
-          },
-          {
-            "id": "creative_power",
-            "text": "All things were made through Him",
-            "expansion": "The creative agency of the Word reveals divine intentionality in universal design."
-          },
-          {
-            "id": "light_metaphor",
-            "text": "The life was the light of men",
-            "expansion": "Light represents comprehension, revelation, and spiritual illumination beyond mere physical perception."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the Word existed before creation, what does this suggest about the nature of existence itself?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine transcendence with personal relationship?",
-        "left_label": "Distant Absolute",
-        "right_label": "Intimate Presence"
-      },
-      "reevaluation": {
-        "question": "How has this passage reshaped your understanding of divine identity?",
-        "options": [
-          "I see divinity as more complex",
-          "I recognize deeper mystical dimensions",
-          "I'm more aware of symbolic spiritual language",
-          "I'm challenged to think beyond literal interpretations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ is a metaphorical representation of divine wisdom",
           "Christ is a separate entity from God with distinct purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The Jews of Jerusalem asked",
+            "ref": "v. 22",
+            "speaker": "The Jews of Jerusalem"
+          },
+          {
+            "who": "John answered",
+            "ref": "v. 23",
+            "speaker": "John"
+          }
+        ],
+        "question": "Put yourself among those who sent us to ask John who he is. What would you weigh about his answer, I am a voice of one calling in the wilderness?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Colossians 1:16-17",
+        "summary": "John says that all things were made through the Word, and nothing was made without Him (v. 3). Colossians adds that all things were created through Him and for Him, and that in Him all things hold together (Colossians 1:16-17).",
+        "question": "How does Colossians 1:16-17 help you understand the claim that through the Word all things were made?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "the light shines in the darkness, and the darkness has not overcome it",
+        "feeling": "anxiety, dread",
+        "object": "a dark season that feels endless",
+        "behavior": "assuming the darkness will win",
+        "step": "name one place where light is shining",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a dark season that feels endless} to God and instead of {behavior:assuming the darkness will win}, I will {step:name one place where light is shining}."
       }
     }
   }

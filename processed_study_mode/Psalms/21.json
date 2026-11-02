@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine relationship resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Divine Empowerment",
-            "expansion": "God provides strength beyond human limitations, transforming weakness into victory."
-          },
-          {
-            "id": "B",
-            "text": "Royal Blessing",
-            "expansion": "Divine favor elevates human leadership through supernatural intervention."
-          },
-          {
-            "id": "C",
-            "text": "Triumph over Adversity",
-            "expansion": "Faithful trust leads to ultimate conquest against seemingly insurmountable challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does acknowledging divine sovereignty reshape our understanding of personal agency and responsibility?"
-      },
-      "moral_slider": {
-        "question": "What is the balance between divine intervention and human effort?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine relationship evolved?",
-        "options": [
-          "Deepened appreciation of God's strategic involvement",
-          "Recognized personal limitations more clearly",
-          "Understood leadership as spiritual stewardship",
-          "Embraced vulnerability as strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Collaborative partnership between divine grace and human obedience",
           "Leadership success is independent of spiritual alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist exclaims",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people, hearing that the king rejoices in the LORD's strength. What do you understand about why he will not be shaken?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Psalm 18:35",
+        "summary": "The king trusts in the LORD and will not be shaken (v. 7). Psalm 18:35 says God's shield of salvation and right hand uphold the psalmist, and His gentleness exalts him.",
+        "question": "How does God's right hand upholding the psalmist in Psalm 18:35 help you understand why the king in Psalm 21 will not be shaken?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the king trusts in the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a threat to my position",
+        "behavior": "relying on my own strength",
+        "step": "hand my plans to Him in prayer",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a threat to my position} and instead of {behavior:relying on my own strength}, I will {step:hand my plans to Him in prayer}."
       }
     }
   }

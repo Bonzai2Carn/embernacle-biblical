@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Incomplete Understanding of Faith",
-            "expansion": "Recognizing that initial spiritual knowledge can be partial and requires deeper revelation."
-          },
-          {
-            "id": 2,
-            "text": "Power of Authentic Spiritual Encounter",
-            "expansion": "True transformation occurs through genuine engagement with the Holy Spirit, not just ritual."
-          },
-          {
-            "id": 3,
-            "text": "Confronting Systemic Spiritual Darkness",
-            "expansion": "Spiritual growth often involves challenging entrenched cultural and religious misconceptions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual maturity requires constant unlearning, what comfortable beliefs might you need to re-examine?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate between respecting traditional religious practices and pursuing deeper spiritual truth?",
-        "left_label": "Religious Tradition",
-        "right_label": "Spiritual Innovation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "I now see faith as a journey of continuous learning",
-          "I'm more open to challenging my existing spiritual frameworks",
-          "I recognize the importance of authentic spiritual experience",
-          "I understand that spiritual growth requires humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Consistent religious ritual and practice",
           "Personal moral transformation and spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Paul asked",
+            "ref": "v. 2",
+            "speaker": "Paul"
+          }
+        ],
+        "question": "Put yourself in the place of these believers. Paul asks whether you received the Holy Spirit when you became believers. How would you answer him, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 8:9",
+        "summary": "Paul asks whether these men received the Holy Spirit, and they answer that they have not even heard there is one (v. 2). Paul writes to the believers in Rome that anyone without the Spirit of Christ does not belong to Him.",
+        "question": "How does Romans 8:9 help you understand why Paul asks these believers about the Holy Spirit (v. 2)?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "those who practiced magic arts brought their books and burned them in front of everyone",
+        "feeling": "attachment, greed",
+        "object": "valuable possessions",
+        "behavior": "clinging to old comforts",
+        "step": "discard what hinders my devotion",
+        "template": "from today I let go of my {feeling:attachment, greed} over {object:valuable possessions} and instead of {behavior:clinging to old comforts}, I will {step:discard what hinders my devotion}."
       }
     }
   }

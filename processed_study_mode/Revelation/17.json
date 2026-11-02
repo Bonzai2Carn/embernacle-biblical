@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What symbolism resonates most deeply about spiritual corruption?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Harlot's Global Influence",
-            "expansion": "Power manifests through seduction and systemic manipulation"
-          },
-          {
-            "id": 2,
-            "text": "The Beast's Collaborative Nature",
-            "expansion": "Political and spiritual powers often conspire in destructive symbiosis"
-          },
-          {
-            "id": 3,
-            "text": "The Wilderness Setting",
-            "expansion": "Spiritual revelation often occurs in places of isolation and radical perspective"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual corruption operates through seduction, what invisible mechanisms might currently entice collective humanity away from authentic truth?"
-      },
-      "moral_slider": {
-        "question": "How do systems of power compromise spiritual integrity?",
-        "left_label": "Institutional Compromise",
-        "right_label": "Prophetic Resistance"
-      },
-      "reevaluation": {
-        "question": "What insights about power dynamics have emerged from studying this chapter?",
-        "options": [
-          "Recognize subtle spiritual manipulation",
-          "Understand systemic corruption's complexity",
-          "Distinguish between external power and internal integrity",
-          "Remain vigilant against deceptive narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize personal spiritual integrity over institutional alignment",
           "Understand God's ultimate sovereignty in exposing and judging spiritual corruption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "John sees a name written on her forehead",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The angel explains who she is",
+            "ref": "v. 18",
+            "speaker": "The Angel"
+          }
+        ],
+        "question": "Put yourself in John's place. You see a woman with a name written on her forehead. What would you understand about her when you hear that she is a great city that rules over the kings of the earth?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Jeremiah 51:7",
+        "summary": "The woman holds a golden cup full of abominations and immorality (v. 4), and the dwellers on the earth are intoxicated with the wine of her immorality (v. 2). Jeremiah calls Babylon a gold cup in the LORD's hand that made the whole earth drunk (Jeremiah 51:7).",
+        "question": "How does Jeremiah's picture of Babylon as a golden cup help you understand the cup the woman holds in this chapter?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "the Lamb will triumph over those who make war against Him, for He is Lord of lords and King of kings",
+        "feeling": "fear, dread",
+        "object": "a powerful alliance against me",
+        "behavior": "bowing to whoever seems strongest",
+        "step": "speak to the Lamb about this fear in prayer",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a powerful alliance against me} to God and instead of {behavior:bowing to whoever seems strongest}, I will {step:speak to the Lamb about this fear in prayer}."
       }
     }
   }

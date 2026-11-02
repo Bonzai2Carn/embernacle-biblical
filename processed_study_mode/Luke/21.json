@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most challenges your understanding of giving and sacrifice?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The widow's total surrender of resources",
-            "expansion": "True generosity emerges not from abundance, but from complete trust"
-          },
-          {
-            "id": 2,
-            "text": "Jesus' radical reframing of economic value",
-            "expansion": "Spiritual worth transcends material measurement"
-          },
-          {
-            "id": 3,
-            "text": "The prophetic warning about temple destruction",
-            "expansion": "External structures are temporary, but inner commitment endures"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacrifice is measured by proportion rather than amount, how might your understanding of personal worth be fundamentally transformed?"
-      },
-      "moral_slider": {
-        "question": "How do personal resources relate to spiritual devotion?",
-        "left_label": "Material Security",
-        "right_label": "Radical Trust"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your perspective on giving?",
-        "options": [
-          "I see giving as more about heart than amount",
-          "Sacrifice requires genuine vulnerability",
-          "Spiritual wealth differs from financial wealth",
-          "True generosity challenges social expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Sacrificial giving reflects true discipleship",
           "Wealth can be a spiritual distraction from genuine worship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 3",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus explained",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of someone watching the widow. Jesus says she has put in more than all the others, because they gave out of their surplus and she gave all she had to live on. What do you weigh about what you saw them give?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Isaiah 40:8",
+        "summary": "Jesus says heaven and earth will pass away, but His words will never pass away (v. 33). Isaiah 40:8 says the grass withers and the flowers fall, but the word of our God stands forever.",
+        "question": "How does Isaiah 40:8 help you understand why Jesus says His words will never pass away in Luke 21:33?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "practice",
+        "because": "if you do not watch yourselves, your hearts will be weighed down by dissipation, drunkenness, and the worries of life",
+        "feeling": "anxiety, dread",
+        "object": "my daily responsibilities",
+        "behavior": "becoming distracted by trivial things",
+        "step": "set time aside for prayer",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:my daily responsibilities} and instead of {behavior:becoming distracted by trivial things}, I will {step:set time aside for prayer}."
       }
     }
   }

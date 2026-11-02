@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual insight resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "True refuge is in God alone",
-            "expansion": "Recognizing divine sufficiency beyond human systems or personal strength."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability before God brings peace",
-            "expansion": "Surrendering control allows authentic spiritual connection and inner tranquility."
-          },
-          {
-            "id": 3,
-            "text": "Power ultimately belongs to God",
-            "expansion": "Human constructs of power are temporary compared to divine sovereignty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true security cannot be found in human institutions, what fundamentally sustains your sense of worth and direction?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine providence?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "Recognize limitations of personal strength",
-          "Embrace vulnerability as spiritual wisdom",
-          "See challenges as opportunities for deeper trust",
-          "Understand peace comes from surrender"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Critiques materialistic worldviews that prioritize wealth and status",
           "Promotes radical trust in spiritual rather than temporal resources"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist calls his soul",
+            "ref": "v. 5",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You hear your own soul called to rest in God alone. What do you understand about where your salvation and honor rest?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Proverbs 18:10",
+        "summary": "The psalmist calls God his rock and his fortress (v. 2). Proverbs 18:10 says the name of the LORD is a strong tower, and the righteous run to it and are safe.",
+        "question": "How does the promise of a strong tower in Proverbs 18:10 help you understand the psalmist's claim that he will never be shaken?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "if my riches increase, I am not to set my heart upon them",
+        "feeling": "anxiety, greed",
+        "object": "a sudden windfall",
+        "behavior": "counting my worth by my bank account",
+        "step": "give something away to someone in need",
+        "template": "from today I bring You my {feeling:anxiety, greed} about {object:a sudden windfall} and instead of {behavior:counting my worth by my bank account}, I will {step:give something away to someone in need}."
       }
     }
   }

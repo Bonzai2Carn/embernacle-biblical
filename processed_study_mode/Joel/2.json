@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic imagery most challenges your understanding of divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The locust army as divine judgment",
-            "expansion": "God uses unexpected agents to communicate spiritual transformation and consequences."
-          },
-          {
-            "id": 2,
-            "text": "The promise of restoration after devastation",
-            "expansion": "Divine mercy can emerge even in the most catastrophic spiritual landscapes."
-          },
-          {
-            "id": 3,
-            "text": "The outpouring of God's Spirit on all people",
-            "expansion": "Spiritual empowerment transcends traditional human barriers of age, gender, and social status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately restorative, how might our perception of 'punishment' be fundamentally misunderstood?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's judgment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Unconditional Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "I see judgment as more complex than punishment",
-          "Restoration is possible after profound spiritual devastation",
-          "Divine intervention can be both uncomfortable and redemptive",
-          "Spiritual renewal transcends human expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine discipline reflects God's passionate love and desire for relationship",
           "The passage reveals God's sovereignty over historical and spiritual processes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD calls",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD gives the reason",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people called to return with fasting, weeping, and mourning. What would you weigh about returning to Him, knowing that He is gracious, compassionate, and slow to anger?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Jeremiah 29:12-13",
+        "summary": "The LORD calls His people to return to Him with all their heart, with fasting, weeping, and mourning (v. 12). Jeremiah records the LORD's promise that those who seek Him with all their heart will find Him (Jeremiah 29:13).",
+        "question": "How does Jeremiah 29:13 help you understand the call to return with all your heart?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "repair",
+        "because": "the LORD is gracious and compassionate, slow to anger, abounding in loving devotion",
+        "feeling": "guilt, shame",
+        "object": "a wrong I have not confessed",
+        "behavior": "hiding my failure from others",
+        "step": "return to the LORD in prayer",
+        "template": "from today I turn from my {feeling:guilt, shame} toward {object:a wrong I have not confessed} and instead of {behavior:hiding my failure from others}, I will {step:return to the LORD in prayer}."
       }
     }
   }

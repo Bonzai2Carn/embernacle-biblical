@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "True worship requires authentic transformation",
-            "expansion": "Ritual without inner change is meaningless to God."
-          },
-          {
-            "id": 2,
-            "text": "Religious institutions can become false sources of security",
-            "expansion": "Structural religion does not guarantee divine protection or favor."
-          },
-          {
-            "id": 3,
-            "text": "Moral accountability supersedes religious heritage",
-            "expansion": "Lineage and tradition cannot override personal spiritual responsibility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you distinguish between genuine spiritual practice and performative religious behavior?"
-      },
-      "moral_slider": {
-        "question": "What balance exists between divine judgment and divine mercy?",
-        "left_label": "Strict Judgment",
-        "right_label": "Unconditional Love"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your current understanding of spiritual life?",
-        "options": [
-          "My religious practices need more internal authenticity",
-          "I recognize institutional religious comfort can be misleading",
-          "Personal moral transformation is more important than ritual",
-          "Divine expectations are more nuanced than I previously understood"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "National spiritual decline often precedes divine intervention or judgment",
           "True worship requires personal accountability and systemic ethical reform"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD asks",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people standing in this house. You hear 'Correct your ways and deeds, and I will let you live in this place,' and then the question about coming to say, 'We are delivered, so we can continue with all these abominations.' What would you weigh about your own words in that house?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Micah 6:6-8",
+        "summary": "The LORD says the people must act justly toward one another and stop oppressing the foreigner, the fatherless, and the widow (vv. 5-6). Micah names what the LORD requires: to act justly, love mercy, and walk humbly with God (Micah 6:8).",
+        "question": "How does Micah 6:6-8 help you understand what the LORD requires of you in this chapter?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "exposure",
+        "because": "trusting in deceptive words comes to no avail",
+        "feeling": "complacency, false security",
+        "object": "a comforting religious phrase",
+        "behavior": "repeating empty words",
+        "step": "speak honestly to God about my ways",
+        "template": "from today I bring my {feeling:complacency, false security} about {object:a comforting religious phrase} into the light and instead of {behavior:repeating empty words}, I will {step:speak honestly to God about my ways}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine promise resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God as Personal Shield",
-            "expansion": "The divine protection transcends physical circumstance and speaks to spiritual covering."
-          },
-          {
-            "id": 2,
-            "text": "Promise of Descendants",
-            "expansion": "The covenant of continuation represents hope beyond immediate perceived limitations."
-          },
-          {
-            "id": 3,
-            "text": "Inheritance Beyond Blood",
-            "expansion": "Spiritual inheritance can supersede biological inheritance in profound ways."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we reconcile our human perceptions of impossibility with divine promises that seem to defy logical understanding?"
-      },
-      "moral_slider": {
-        "question": "To what degree does trust overcome practical uncertainty?",
-        "left_label": "Rational Skepticism",
-        "right_label": "Transcendent Faith"
-      },
-      "reevaluation": {
-        "question": "How might this narrative challenge your understanding of divine interaction?",
-        "options": [
-          "Expanded view of personal covenant",
-          "Recognized limits of human perspective",
-          "Appreciated nuanced divine communication",
-          "Understood generational spiritual promises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant involves supernatural, not merely transactional interaction",
           "Faith precedes and enables miraculous intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Abram replied",
+            "ref": "v. 2",
+            "speaker": "Abram"
+          },
+          {
+            "who": "The LORD said to Abram",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Abram's place, looking at your empty house and your current heir. What does God's promise change about your view of your circumstances?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Romans 4:18-21",
+        "summary": "Abram believed the LORD, and it was credited to him as righteousness (v. 6). Paul says Abraham did not waver through disbelief, was strengthened in his faith, and was fully persuaded that God was able to do what He had promised (Romans 4:18-21).",
+        "question": "How does Romans 4:18-21 help you understand what Abram's belief in verse 6 looked like?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "the LORD is a shield and a very great reward to Abram",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to protect myself",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:an uncertain future} to God and instead of {behavior:trying to protect myself}, I will {step:rest in His protection}."
       }
     }
   }

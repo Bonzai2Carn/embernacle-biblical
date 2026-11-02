@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of divine power resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's overwhelming strength",
-            "expansion": "Divine power transcends human comprehension and cannot be challenged"
-          },
-          {
-            "id": "2",
-            "text": "Human vulnerability before God",
-            "expansion": "Humanity's limitations are starkly revealed in confrontation with ultimate cosmic power"
-          },
-          {
-            "id": "3",
-            "text": "The mystery of divine justice",
-            "expansion": "Human righteousness seems insignificant when measured against divine wisdom"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If righteousness cannot be self-established before God, how do we understand personal moral accountability?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine power with human suffering?",
-        "left_label": "Divine Arbitrariness",
-        "right_label": "Cosmic Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine-human relationships evolved?",
-        "options": [
-          "More aware of human limitations",
-          "Recognize deeper complexity of spiritual experience",
-          "Appreciate the mystery of divine interaction",
-          "Feel more humbled by cosmic perspectives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering does not necessarily indicate divine punishment",
           "Humble submission is the appropriate human response to divine mystery"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Job asked",
+            "ref": "v. 2",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job answered",
+            "ref": "vv. 13-14",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask how a mortal can be righteous before God, and you see that God does not restrain His anger. What would you say when you cannot even choose your arguments against Him?"
+      },
+      "chain": {
+        "after": 33,
+        "ref": "Hebrews 7:23-25",
+        "summary": "Job says there is no mediator between him and God to lay a hand on both (v. 33). Hebrews 7:23-25 says Jesus lives forever, has a permanent priesthood, and always lives to intercede for those who draw near to God through Him.",
+        "question": "How does Hebrews 7:23-25 help you understand the gap Job feels between himself and God in verse 33?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "even if I were right, I could not answer",
+        "feeling": "defensiveness, pride",
+        "object": "my need to be proven right",
+        "behavior": "arguing my case to others",
+        "step": "beg my Judge for mercy",
+        "template": "from today I bring my {feeling:defensiveness, pride} about {object:my need to be proven right} into the light and instead of {behavior:arguing my case to others}, I will {step:beg my Judge for mercy}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic symbol resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Ram representing Media-Persia",
-            "expansion": "Power structures often emerge through unexpected partnerships and strategic alignments."
-          },
-          {
-            "id": 2,
-            "text": "The Goat representing Greece",
-            "expansion": "Rapid transformation can dismantle seemingly invincible existing power systems."
-          },
-          {
-            "id": 3,
-            "text": "The Little Horn symbolizing human arrogance",
-            "expansion": "Spiritual pride can blind individuals to their own limitations and ultimate accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine revelations challenge our human understanding of geopolitical progression and spiritual warfare?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human leadership be trusted versus divine sovereignty?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prophetic interpretation shifted?",
-        "options": [
-          "More appreciative of symbolic complexity",
-          "Recognize limitations of human understanding",
-          "See deeper interconnections between spiritual and political realms",
-          "Understand prophecy as multilayered communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As metaphorical narratives demonstrating God's sovereignty",
           "As cryptic messages requiring specialized theological interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "A holy one asked",
+            "ref": "v. 13",
+            "speaker": "Another holy"
+          },
+          {
+            "who": "One having the appearance of a man answered",
+            "ref": "v. 14",
+            "speaker": "One having the appearance of a man"
+          }
+        ],
+        "question": "Put yourself in the place of the one asking. You see the destruction of the sanctuary and the trampling of the host. What does the specific length of time given in the answer change about how you view this desolation?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Isaiah 46:9-10",
+        "summary": "Gabriel tells Daniel that the vision concerns the appointed time of the end (v. 19). Isaiah describes God as the one who declares the end from the beginning.",
+        "question": "How does Isaiah's claim that God declares the end from the beginning help you understand why Daniel is shown a specific timeline for these future events?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "exposure",
+        "because": "the vision was beyond understanding",
+        "feeling": "confusion, anxiety",
+        "object": "a situation I cannot control",
+        "behavior": "trying to figure it all out",
+        "step": "return to my daily duties",
+        "template": "from today I bring my {feeling:confusion, anxiety} about {object:a situation I cannot control} into the light and instead of {behavior:trying to figure it all out}, I will {step:return to my daily duties}."
       }
     }
   }

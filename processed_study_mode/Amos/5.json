@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine judgment in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "National Collapse",
-            "expansion": "The prophecy reveals how systemic societal sin leads to catastrophic national disintegration."
-          },
-          {
-            "id": 2,
-            "text": "Seek Me and Live",
-            "expansion": "Divine mercy offers redemption even amidst impending judgment through genuine spiritual seeking."
-          },
-          {
-            "id": 3,
-            "text": "Ritual vs Authentic Worship",
-            "expansion": "Religious practices are meaningless without genuine heart transformation and social justice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transformative actions could interrupt its predetermined course?"
-      },
-      "moral_slider": {
-        "question": "How do national sin and individual responsibility intersect?",
-        "left_label": "Collective Guilt",
-        "right_label": "Personal Accountability"
-      },
-      "reevaluation": {
-        "question": "How might this prophecy challenge your understanding of divine relationships?",
-        "options": [
-          "God's judgment is more nuanced than I previously understood",
-          "Spiritual authenticity matters more than religious ritual",
-          "Systemic injustice has profound spiritual consequences",
-          "Mercy remains possible even in dire circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintaining authentic relationship with divine presence",
           "Challenging systemic oppression and inequity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. He says your transgressions are many and that you oppress the righteous. What do you weigh when He then says, Seek good, not evil, so that you may live?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 1:16-17",
+        "summary": "The LORD tells Israel to hate evil, love good, and establish justice in the gate (v. 15). Isaiah tells the people to learn to do right, seek justice, and defend the fatherless.",
+        "question": "How does Isaiah's call to learn to do right and seek justice help you understand the command to seek good in Amos 5?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "justice is to roll on like a river and righteousness like an ever-flowing stream",
+        "feeling": "indifference, complacency",
+        "object": "injustice I see at work",
+        "behavior": "keeping quiet about wrongs",
+        "step": "speak up for the poor where I work",
+        "template": "from today I let go of my {feeling:indifference, complacency} over {object:injustice I see at work} and instead of {behavior:keeping quiet about wrongs}, I will {step:speak up for the poor where I work}."
       }
     }
   }

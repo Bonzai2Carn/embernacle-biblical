@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of divine encounter resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Moses' role as intermediary",
-            "expansion": "Moses represents the crucial bridge between divine instruction and human understanding."
-          },
-          {
-            "id": 2,
-            "text": "The collective people's commitment",
-            "expansion": "The Israelites' unified declaration of obedience reveals the power of communal spiritual covenant."
-          },
-          {
-            "id": 3,
-            "text": "The sacred mountain encounter",
-            "expansion": "The mountain symbolizes the liminal space between human limitation and divine transcendence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine communication requires separation (Moses alone approaching), what does this reveal about the nature of spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual experiences balance with communal religious commitment?",
-        "left_label": "Individual Revelation",
-        "right_label": "Collective Covenant"
-      },
-      "reevaluation": {
-        "question": "How has your perception of divine communication transformed?",
-        "options": [
-          "More aware of spiritual boundaries",
-          "Recognize complexity of sacred encounters",
-          "Appreciate leadership's interpretive role",
-          "Understand covenant as dynamic relationship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates progressive revelation of divine expectations",
           "Highlights the role of communal commitment in spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The people responded",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Moses said",
+            "ref": "v. 8",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the people who answered, 'All the words that the LORD has spoken, we will do.' When Moses says, 'This is the blood of the covenant,' what does that change about your commitment?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Hebrews 9:18-20",
+        "summary": "Moses sprinkles blood on the people to seal the covenant (v. 8). The author of Hebrews points to this same act of sprinkling blood to show that even the first covenant required blood for its initiation.",
+        "question": "How does the necessity of blood in the first covenant help you understand the weight of the words Moses proclaimed to the people?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the people answered with one voice that they would do all the words the LORD has spoken",
+        "feeling": "indifference, apathy",
+        "object": "the daily scripture reading",
+        "behavior": "skimming the text",
+        "step": "pause to meditate on one phrase",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:the daily scripture reading} and instead of {behavior:skimming the text}, I will {step:pause to meditate on one phrase}."
       }
     }
   }

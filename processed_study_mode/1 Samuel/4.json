@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply about divine presence and human conflict?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Presence Cannot Be Manipulated",
-            "expansion": "The Ark of God is not a magical weapon to be used mechanically, but a sacred symbol representing covenant relationship."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Consequences of Military Strategy",
-            "expansion": "Battles are ultimately spiritual conflicts that transcend human tactical planning."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "The spiritual legacy of leadership profoundly impacts collective destinies."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence cannot be controlled, what truly determines spiritual outcomes: human actions or divine sovereignty?"
-      },
-      "moral_slider": {
-        "question": "How do human expectations intersect with divine sovereignty during conflict?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual warfare shifted?",
-        "options": [
-          "Recognized limits of human strategic planning",
-          "Understood deeper spiritual dynamics beyond physical conflict",
-          "Appreciated complexity of divine-human interaction",
-          "Acknowledged role of spiritual leadership's integrity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Importance of authentic spiritual relationship over ritualistic practices",
           "Consequences of treating sacred objects as magical instruments"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The elders of Israel asked",
+            "ref": "v. 3",
+            "speaker": "The elders of Israel"
+          },
+          {
+            "who": "the people brought back the ark",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the elders. You see a great defeat and decide to bring the ark so that it may go with you and save you. What does this choice reveal about how you view the presence of God?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "1 Samuel 2:12-17",
+        "summary": "The ark is captured and Eli's sons, Hophni and Phinehas, die (v. 11). The earlier account says Eli's sons were wicked men who had no regard for the LORD (1 Samuel 2:12).",
+        "question": "How does the description of Eli's sons in 1 Samuel 2:12-17 help you understand why the loss of the ark was so devastating to Israel?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "the glory has departed from Israel, and the ark of God had been captured",
+        "feeling": "fear, dread",
+        "object": "the loss of the ark",
+        "behavior": "clinging to empty rituals",
+        "step": "seek the true presence of God",
+        "template": "from today I bring my {feeling:fear, dread} about {object:the loss of the ark} into the light and instead of {behavior:clinging to empty rituals}, I will {step:seek the true presence of God}."
       }
     }
   }

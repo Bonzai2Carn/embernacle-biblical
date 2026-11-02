@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jesus' message most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Validation Through Works",
-            "expansion": "Jesus demonstrates messianic identity through tangible, compassionate actions that restore human dignity."
-          },
-          {
-            "id": 2,
-            "text": "The Complexity of Faith and Doubt",
-            "expansion": "John's questioning reveals that spiritual uncertainty can coexist with profound devotion."
-          },
-          {
-            "id": 3,
-            "text": "God's Mysterious Revelation",
-            "expansion": "Divine truth is simultaneously hidden from the 'wise' and revealed to the spiritually humble."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If miracles do not automatically produce faith, what truly transforms human hearts?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine power with apparent human limitation?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this chapter reshaped your understanding of spiritual journey?",
-        "options": [
-          "Recognizing complexity in faith",
-          "Understanding divine compassion",
-          "Embracing spiritual mystery",
-          "Challenging previous assumptions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual understanding is predetermined without human agency",
           "Divine revelation is universally accessible regardless of individual spiritual condition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "John's disciples asked",
+            "ref": "v. 3",
+            "speaker": "Unknown"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "vv. 4-5",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of John's disciples. You ask, Are You the One who was to come, or should we look for someone else? and He tells you to report what you hear and see. What would you understand from that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Isaiah 61:1-2",
+        "summary": "Jesus tells John's disciples what they see: the blind receive sight, and the good news is preached to the poor (v. 5). Isaiah says the Spirit of the Lord is on Him to preach good news to the poor and proclaim liberty to the captives (Isaiah 61:1).",
+        "question": "How does Isaiah 61:1-2 help you recognize the works Jesus describes?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "surrender",
+        "because": "Jesus will give rest to all who come to Him weary and burdened",
+        "feeling": "anxiety, exhaustion",
+        "object": "my heavy responsibilities",
+        "behavior": "trying to carry it all alone",
+        "step": "bring my burdens to Him",
+        "template": "from today I release my {feeling:anxiety, exhaustion} over {object:my heavy responsibilities} and instead of {behavior:trying to carry it all alone}, I will {step:bring my burdens to Him}."
       }
     }
   }

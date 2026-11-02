@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response resonates most with David's prayer?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Betrayal's Deep Pain",
-            "expansion": "The raw vulnerability of feeling wounded by a trusted friend cuts to the heart of human emotional complexity."
-          },
-          {
-            "id": 2,
-            "text": "Seeking Divine Refuge",
-            "expansion": "In moments of profound distress, turning to God becomes the ultimate act of spiritual resilience."
-          },
-          {
-            "id": 3,
-            "text": "Righteous Anger",
-            "expansion": "The legitimate human impulse to desire justice when experiencing profound personal violation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do we reconcile the desire for personal vindication with spiritual teachings of forgiveness?"
-      },
-      "moral_slider": {
-        "question": "Where do personal emotional wounds intersect with spiritual healing?",
-        "left_label": "Human Suffering",
-        "right_label": "Divine Restoration"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on conflict and betrayal shift after deeply reflecting on this psalm?",
-        "options": [
-          "More compassionate understanding",
-          "Greater emotional vulnerability",
-          "Increased spiritual dependence",
-          "Deeper capacity for forgiveness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Forgiveness supersedes personal revenge",
           "Divine timing reveals ultimate redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 12-13",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you face betrayal from a close friend. How does the reality of this broken fellowship change the way you view the God who hears your cry?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Peter 5:7",
+        "summary": "The psalmist says to cast your burden upon the LORD, who will sustain you (v. 22). 1 Peter 5:7 says to cast all your anxiety on Him, because He cares for you.",
+        "question": "How does 1 Peter 5:7 help you understand why the psalmist casts his burden on the LORD (v. 22)?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "trust",
+        "because": "the LORD will never let the righteous be shaken",
+        "feeling": "anxiety, dread",
+        "object": "a looming deadline",
+        "behavior": "trying to control the outcome",
+        "step": "hand the result to Him",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a looming deadline} and instead of {behavior:trying to control the outcome}, I will {step:hand the result to Him}."
       }
     }
   }

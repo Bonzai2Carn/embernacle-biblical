@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative concept resonates most deeply about divine boundaries?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Sexual Ethics as Spiritual Purity",
-            "expansion": "Boundaries represent holiness and maintain communal spiritual integrity."
-          },
-          {
-            "id": "2",
-            "text": "Cultural Distinctiveness",
-            "expansion": "Israelites are called to transcend surrounding cultural practices through divine guidance."
-          },
-          {
-            "id": "3",
-            "text": "Relational Consecration",
-            "expansion": "Intimate relationships reflect deeper spiritual commitments beyond mere physical interaction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine sexual boundaries actually protect human dignity rather than restrict personal freedom?"
-      },
-      "moral_slider": {
-        "question": "To what extent do universal moral principles transcend cultural relativism?",
-        "left_label": "Cultural Context",
-        "right_label": "Absolute Moral Standard"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacred intimacy and relational boundaries shifted?",
-        "options": [
-          "Deeper respect for interpersonal boundaries",
-          "Recognition of spiritual dimensions in relationships",
-          "Appreciation for communal holiness",
-          "Questioning previous assumptions about personal autonomy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual understanding recognizing cultural and historical distinctions",
           "Theological framework emphasizing God's design for human relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You are told to reject the customs of the lands you just left and the lands you are entering. What is the specific promise that makes following these laws worth the cost of leaving your old ways behind?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "1 Thessalonians 4:3-5",
+        "summary": "The LORD tells Israel not to follow the practices of Egypt or Canaan or walk in their customs (v. 3). Paul says it is God's will that you be holy and abstain from sexual immorality, not in lustful passion like the Gentiles who do not know God.",
+        "question": "How does 1 Thessalonians 4:3-5 help you understand the call in Leviticus 18 to turn from the customs of the nations around Israel?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "the nations the LORD is driving out have defiled themselves with these practices",
+        "feeling": "craving, envy",
+        "object": "a popular but harmful trend",
+        "behavior": "mimicking the crowd",
+        "step": "set boundaries based on His word",
+        "template": "from today I let go of my {feeling:craving, envy} over {object:a popular but harmful trend} and instead of {behavior:mimicking the crowd}, I will {step:set boundaries based on His word}."
       }
     }
   }

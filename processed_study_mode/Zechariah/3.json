@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element most resonates with spiritual transformation?",
-        "choices": [
-          {
-            "id": "filthy_garments",
-            "text": "The filthy garments representing sin",
-            "expansion": "Sin can be completely replaced by divine righteousness through grace."
-          },
-          {
-            "id": "divine_rebuke",
-            "text": "The Lord's direct rebuke of Satan",
-            "expansion": "Spiritual warfare occurs at a metaphysical level beyond human perception."
-          },
-          {
-            "id": "brand_plucked",
-            "text": "Joshua as a 'brand plucked from the fire'",
-            "expansion": "Redemption is a radical rescue from certain destruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your most shameful moments were publicly displayed, how would divine mercy recontextualize your perceived failures?"
-      },
-      "moral_slider": {
-        "question": "How does personal culpability balance against divine restoration?",
-        "left_label": "Personal Guilt",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual cleansing evolved?",
-        "options": [
-          "I see redemption as more comprehensive",
-          "Divine intervention feels more personally relevant",
-          "Spiritual transformation is less about my effort, more about grace",
-          "I recognize the spiritual battle underlying personal struggles"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption involves active divine intervention",
           "Spiritual renewal requires complete removal of past identities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Satan stood to accuse Joshua",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD rebuked Satan",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Joshua's place, seeing your accuser standing right beside you. What does the LORD's rebuke tell you about how He views your standing before Him?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Isaiah 6:5-7",
+        "summary": "Joshua stands in filthy garments before the angel (v. 3). Isaiah says he is a man of unclean lips when he sees the King (Isa 6:5), and a seraph touches his mouth with a coal and removes his iniquity (Isa 6:7).",
+        "question": "How does the removal of guilt in Isaiah's vision help you understand the angel's command to take off Joshua's filthy clothes?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "remembrance",
+        "because": "the LORD will remove the iniquity of this land in a single day",
+        "feeling": "shame, guilt",
+        "object": "my past failures",
+        "behavior": "hiding from God",
+        "step": "rest in His finished work",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past failures} and instead of {behavior:hiding from God}, I will {step:rest in His finished work}."
       }
     }
   }

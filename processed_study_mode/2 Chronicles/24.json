@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative aspect of leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Youthful Potential",
-            "expansion": "Joash's early ascension demonstrates that spiritual leadership can transcend age and experience."
-          },
-          {
-            "id": 2,
-            "text": "Institutional Renewal",
-            "expansion": "The temple's restoration symbolizes how systemic spiritual transformation requires intentional investment."
-          },
-          {
-            "id": 3,
-            "text": "Mentorship's Power",
-            "expansion": "Jehoiada's guidance reveals how wise counsel can shape a leader's entire trajectory."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does institutional loyalty become spiritual complacency?"
-      },
-      "moral_slider": {
-        "question": "How do external influences compromise internal integrity?",
-        "left_label": "External Pressure",
-        "right_label": "Personal Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Recognize the fragility of moral consistency",
-          "Understand the importance of sustained mentorship",
-          "Appreciate the long-term consequences of spiritual choices",
-          "Acknowledge the complexity of institutional faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Institutional structures matter more than individual spiritual commitment",
           "External pressures are more influential than internal spiritual dynamics"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Joash did what was right",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "After Jehoiada's death the officials came and the king listened to them",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Joash's place. You did what was right in the eyes of the LORD all the days of Jehoiada. After his death the officials come and pay homage, and you listen to them. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Jeremiah 2:19",
+        "summary": "Zechariah warns that forsaking the LORD leads to a lack of prosperity (v. 20). Jeremiah describes a similar reality: the very sins of a people become their own punishment.",
+        "question": "How does Jeremiah's description of forsaking the LORD as evil and bitter help you understand the consequence Zechariah announces to the people?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "remembrance",
+        "because": "Joash failed to remember the kindness that Jehoiada had extended to him",
+        "feeling": "ingratitude, bitterness",
+        "object": "a person who helped me",
+        "behavior": "ignoring their past support",
+        "step": "thank them for their kindness",
+        "template": "from today I let go of my {feeling:ingratitude, bitterness} over {object:a person who helped me} and instead of {behavior:ignoring their past support}, I will {step:thank them for their kindness}."
       }
     }
   }

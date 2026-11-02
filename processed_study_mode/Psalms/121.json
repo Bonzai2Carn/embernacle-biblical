@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine protection most resonates with you?",
-        "choices": [
-          {
-            "id": "guardian",
-            "text": "God as a constant guardian",
-            "expansion": "The psalm emphasizes God's unceasing vigilance and protection over His people."
-          },
-          {
-            "id": "shade",
-            "text": "Divine protection from life's harsh elements",
-            "expansion": "The imagery of God as shade suggests protection from overwhelming challenges and vulnerabilities."
-          },
-          {
-            "id": "eternal",
-            "text": "Perpetual, timeless divine care",
-            "expansion": "The psalm highlights God's protection that transcends temporal limitations and personal circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God is truly our perpetual guardian, why do faithful people still experience suffering?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine protection with personal human vulnerability?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Strength"
-      },
-      "reevaluation": {
-        "question": "How has this psalm challenged your understanding of divine care?",
-        "options": [
-          "I see protection differently now",
-          "My concept of divine intervention has shifted",
-          "I recognize more nuanced spiritual support",
-          "I'm more aware of subtle spiritual guidance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's watchfulness is conditional upon human performance",
           "Protection implies absence of challenges or suffering"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist asks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist answers",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one looking at the hills. You ask where help is found, and then you find the answer. What does the identity of this Helper change about the hills you are watching?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Jeremiah 32:17",
+        "summary": "The psalmist says his help comes from the LORD, the Maker of heaven and earth (v. 2). Jeremiah 32:17 says the LORD made the heavens and the earth by His great power and outstretched arm, and that nothing is too difficult for Him.",
+        "question": "How does Jeremiah 32:17 help you understand why the psalmist looks to the Maker of heaven and earth for help (v. 2)?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "the LORD will watch over your coming and going both now and forevermore",
+        "feeling": "anxiety, dread",
+        "object": "a new season of life",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His constant presence",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a new season of life} and instead of {behavior:trying to control every outcome}, I will {step:rest in His constant presence}."
       }
     }
   }

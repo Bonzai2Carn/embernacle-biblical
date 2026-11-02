@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of offering first fruits most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Acknowledging Divine Provision",
-            "expansion": "Recognizing God's sovereignty in providing land and harvest demonstrates profound spiritual humility."
-          },
-          {
-            "id": 2,
-            "text": "Communal Worship Ritual",
-            "expansion": "The prescribed offering creates a shared cultural and spiritual experience that binds community together."
-          },
-          {
-            "id": 3,
-            "text": "Gratitude as Spiritual Practice",
-            "expansion": "Intentionally presenting first fruits transforms economic transaction into a spiritual discipline of thanksgiving."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If giving represents a spiritual act of remembrance, what memories are you choosing to honor through your current practices?"
-      },
-      "moral_slider": {
-        "question": "How do personal economic interests balance with spiritual obligations?",
-        "left_label": "Individual Economic Security",
-        "right_label": "Spiritual Generosity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of offering and worship transformed?",
-        "options": [
-          "I see offering as more than a transaction",
-          "I recognize deeper communal connections",
-          "I understand spiritual practices as holistic",
-          "I appreciate ancestral spiritual wisdom more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Connecting personal prosperity to divine covenant",
           "Practicing communal worship through material offering"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Moses calls you to rejoice",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the foreigner invited to rejoice before the LORD. You are called to rejoice in the good things He has given to the household. What would you weigh most about sharing that joy?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Psalm 105:8-11",
+        "summary": "Israel declares that the LORD brought them to this place and gave them this land flowing with milk and honey (vv. 8-9). Psalm 105 says the LORD remembers His covenant forever and gives the land of Canaan as the portion of their inheritance (Psalm 105:8-11).",
+        "question": "How does Psalm 105:8-11 help you understand why this land is brought back to the LORD as a gift in Deuteronomy 26?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "devotion",
+        "because": "you have proclaimed that the LORD is your God and that you will walk in His ways",
+        "feeling": "half-heartedness, doubt",
+        "object": "my daily promises to God",
+        "behavior": "making vows and forgetting them",
+        "step": "keep one of His commandments this week",
+        "template": "from today I bring You my {feeling:half-heartedness, doubt} about {object:my daily promises to God} and instead of {behavior:making vows and forgetting them}, I will {step:keep one of His commandments this week}."
       }
     }
   }

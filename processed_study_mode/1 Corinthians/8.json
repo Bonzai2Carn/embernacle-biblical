@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual knowledge resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Knowledge without love is empty",
-            "expansion": "Understanding spiritual truths requires compassionate application, not mere intellectual superiority."
-          },
-          {
-            "id": 2,
-            "text": "Individual conscience matters",
-            "expansion": "Personal spiritual growth involves respecting others' developmental stages and sensitivities."
-          },
-          {
-            "id": 3,
-            "text": "Idols have no ultimate power",
-            "expansion": "True spiritual freedom comes from recognizing the supremacy of God over cultural constructs."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If knowledge can potentially harm relationships, what transforms information into wisdom?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual freedoms intersect with communal spiritual responsibility?",
-        "left_label": "Individual Liberty",
-        "right_label": "Communal Consideration"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your previous understanding of spiritual knowledge?",
-        "options": [
-          "I now see knowledge requires love",
-          "I'm more aware of potential spiritual stumbling blocks",
-          "I recognize the importance of considering others' spiritual journeys",
-          "I understand spiritual maturity is relational, not just intellectual"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek comprehensive understanding before making decisions",
           "Defer to community leadership's guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone in Corinth who knows the truth about food sacrificed to idols. When you hear that knowledge puffs up but love builds up, and that the one who thinks he knows something does not yet know as he ought, what do you weigh about your own knowing?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Romans 14:13-23",
+        "summary": "Paul explains in 1 Corinthians that your rights can harm a brother (v. 9). Romans 14 adds the weight of this responsibility: do not do anything that causes another to fall (v. 13).",
+        "question": "How does the warning in Romans 14 help you weigh the value of your own freedom?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "knowledge puffs up, but love builds up",
+        "feeling": "pride, arrogance",
+        "object": "being right in an argument",
+        "behavior": "correcting others to show my expertise",
+        "step": "look for a way to encourage",
+        "template": "from today I let go of my {feeling:pride, arrogance} over {object:being right in an argument} and instead of {behavior:correcting others to show my expertise}, I will {step:look for a way to encourage}."
       }
     }
   }

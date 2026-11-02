@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical layer of leadership and judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Shepherds as Corrupt Leaders",
-            "expansion": "Those entrusted with care can become instruments of exploitation and destruction."
-          },
-          {
-            "id": 2,
-            "text": "Divine Judgment Through Symbolic Actions",
-            "expansion": "God communicates profound spiritual truths through prophetic, seemingly obscure demonstrations."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Abandonment and Consequences",
-            "expansion": "Rejection of divine guidance inevitably leads to systemic breakdown and communal suffering."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If leadership is a sacred trust, at what point does accountability become divine judgment?"
-      },
-      "moral_slider": {
-        "question": "How do spiritual responsibility and human free will intersect in divine judgment?",
-        "left_label": "Individual Accountability",
-        "right_label": "Systemic Consequences"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Leaders are more accountable than I previously understood",
-          "Spiritual metaphors reveal complex theological dynamics",
-          "Divine judgment is nuanced and multidimensional",
-          "Prophetic communication transcends literal interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationships require mutual faithfulness",
           "Prophetic warnings precede transformative judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The shepherd says they weighed out his wages",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD tells him to throw the silver",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one receiving this payment. What would you weigh as the LORD calls thirty pieces of silver this magnificent price at which they valued me?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Matthew 27:3-10",
+        "summary": "The prophet shows a shepherd being valued at thirty pieces of silver (v. 12-13). Matthew shows Judas returning those thirty pieces of silver, and the chief priests using them to buy a potter's field (Matt 27:3-7).",
+        "question": "How does the fulfillment of this specific price in Matthew help you see the weight of the rejection in Zechariah?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "the shepherd took two staffs, one called Favor and the other Union, to pasture the flock marked for slaughter",
+        "feeling": "bitterness, resentment",
+        "object": "a broken relationship",
+        "behavior": "withdrawing my kindness",
+        "step": "act with fairness and peace",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:a broken relationship} and instead of {behavior:withdrawing my kindness}, I will {step:act with fairness and peace}."
       }
     }
   }

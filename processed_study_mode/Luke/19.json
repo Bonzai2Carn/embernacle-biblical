@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment reveals the most profound spiritual transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Zacchaeus's curiosity to see Jesus",
-            "expansion": "Spiritual seeking often begins with simple human curiosity and desire."
-          },
-          {
-            "id": 2,
-            "text": "Jesus's direct personal invitation",
-            "expansion": "Divine grace reaches out personally, transcending social barriers."
-          },
-          {
-            "id": 3,
-            "text": "Zacchaeus's radical repentance",
-            "expansion": "True transformation manifests through concrete actions of restitution and humility."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your own social status or reputation prevent you from genuinely encountering the divine?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal redemption require public demonstration?",
-        "left_label": "Private Transformation",
-        "right_label": "Public Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of grace and redemption?",
-        "options": [
-          "I see divine acceptance as more unconditional",
-          "Social marginalization does not limit spiritual potential",
-          "Genuine repentance involves tangible restitution",
-          "Personal encounters with Jesus can instantly transform lives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Genuine repentance leads to radical lifestyle changes",
           "God's redemptive purpose includes marginalized individuals"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The crowd complained",
+            "ref": "v. 7",
+            "speaker": "The crowd"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 10",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the crowd, grumbling that Jesus has gone to be the guest of a sinful man. How does Jesus's reason for coming change what you see in that man?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Corinthians 5:17",
+        "summary": "Zacchaeus says he will give half his possessions to the poor and repay fourfold anyone he cheated (v. 8), and Jesus says salvation has come to his house (v. 9). 2 Corinthians 5:17 says that anyone in Christ is a new creation: the old has passed away and the new has come.",
+        "question": "How does 2 Corinthians 5:17 help you understand what Zacchaeus says and Jesus answers in Luke 19:8-9?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "the Son of Man came to seek and to save the lost",
+        "feeling": "shame, hopelessness",
+        "object": "my failures and wrong turns",
+        "behavior": "assuming I am too lost to reach",
+        "step": "tell Him where I have gone astray",
+        "template": "from today I entrust my {feeling:shame, hopelessness} about {object:my failures and wrong turns} to God and instead of {behavior:assuming I am too lost to reach}, I will {step:tell Him where I have gone astray}."
       }
     }
   }

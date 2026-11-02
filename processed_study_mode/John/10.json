@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphor of Jesus speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Good Shepherd",
-            "expansion": "Jesus intimately knows and protects His followers, guiding them with personal care."
-          },
-          {
-            "id": 2,
-            "text": "The Gate/Door",
-            "expansion": "Jesus represents the exclusive pathway to salvation, defining authentic spiritual access."
-          },
-          {
-            "id": 3,
-            "text": "Laying Down His Life",
-            "expansion": "Christ's voluntary sacrifice demonstrates ultimate love through intentional self-surrender."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a shepherd truly knows each sheep, how deeply does God actually know you, beyond surface-level understanding?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine protection and human free will?",
-        "left_label": "Complete Divine Control",
-        "right_label": "Total Human Autonomy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "I see leadership as sacrificial service",
-          "I recognize spiritual authority comes through relationship, not position",
-          "I understand vulnerability is a form of strength",
-          "I appreciate the difference between hired hands and true shepherds"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True shepherds prioritize individual care over institutional maintenance",
           "Authentic spiritual guidance requires complete self-surrender"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Jesus says",
+            "ref": "v. 9",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus contrasts",
+            "ref": "v. 10",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself among those looking for life. What would you weigh about the thief who comes only to steal, kill, and destroy, set against the One who came that you may have life in all its fullness?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Romans 8:38-39",
+        "summary": "Jesus promises that no one can snatch his sheep from his hand (v. 28). Paul lists things that cannot separate believers from the love of God in Christ Jesus, leaving nothing out (Romans 8:38-39).",
+        "question": "How does Paul's list of powers and forces help you trust the promise that no one can snatch you from Jesus' hand?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "Jesus' sheep listen to His voice and follow Him",
+        "feeling": "anxiety, confusion",
+        "object": "the many loud opinions around me",
+        "behavior": "chasing after every new idea",
+        "step": "pause to recognize His voice",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:the many loud opinions around me} and instead of {behavior:chasing after every new idea}, I will {step:pause to recognize His voice}."
       }
     }
   }

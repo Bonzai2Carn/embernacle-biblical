@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of character transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Abigail's Wisdom",
-            "expansion": "Her strategic intervention reveals how emotional intelligence can defuse potentially destructive conflicts."
-          },
-          {
-            "id": 2,
-            "text": "David's Potential for Vengeful Action",
-            "expansion": "The narrative explores how leadership requires restraint and the ability to pause before reactive violence."
-          },
-          {
-            "id": 3,
-            "text": "Nabal's Foolishness",
-            "expansion": "His arrogant dismissal of David demonstrates how pride can lead to catastrophic misjudgments."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible forces of character determine the trajectory of human interactions more powerfully than immediate circumstances?"
-      },
-      "moral_slider": {
-        "question": "How do personal honor and communal responsibility balance when confronted with potential threat?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Protection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of conflict resolution evolved?",
-        "options": [
-          "Diplomacy can be more powerful than force",
-          "Wisdom often resides in unexpected sources",
-          "Emotional restraint is a form of strength",
-          "Community dynamics are complex and nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By revealing character and spiritual maturity",
           "Through unexpected leadership and mediation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Nabal answered David's young men",
+            "ref": "vv. 10-11",
+            "speaker": "Nabal"
+          },
+          {
+            "who": "David ordered his men to arm",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of David's men. Nabal asks who David is and refuses to give his bread and water to David's men. Then David tells you to strap on your swords. What do you weigh in that moment?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Proverbs 15:1",
+        "summary": "Abigail bows before David and takes the blame on herself (v. 24). Proverbs says a gentle answer turns away wrath, but a harsh word stirs up anger (Proverbs 15:1).",
+        "question": "How does Proverbs 15:1 help you understand the way Abigail's words turned David away from bloodshed?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "surrender",
+        "because": "the LORD has held David back from bloodshed and from avenging himself with his own hand",
+        "feeling": "bitterness, rage",
+        "object": "someone who wrongs me",
+        "behavior": "avenging myself with my own hand",
+        "step": "leave the repayment to the LORD",
+        "template": "from today I release my {feeling:bitterness, rage} over {object:someone who wrongs me} and instead of {behavior:avenging myself with my own hand}, I will {step:leave the repayment to the LORD}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine revelation resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The mysterious, overwhelming nature of God's presence",
-            "expansion": "Divine encounters transcend human comprehension and challenge our limited perceptions."
-          },
-          {
-            "id": 2,
-            "text": "The complexity and interconnectedness of spiritual manifestations",
-            "expansion": "Spiritual reality is multidimensional, with intricate symbolic connections beyond linear understanding."
-          },
-          {
-            "id": 3,
-            "text": "The prophet's vulnerability in receiving a profound spiritual vision",
-            "expansion": "True prophetic experience requires radical openness and surrender to transcendent communication."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal spiritual experiences challenge our institutionalized understanding of divine communication?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human language and perception accurately represent divine reality?",
-        "left_label": "Limited Human Comprehension",
-        "right_label": "Divine Revelation's Clarity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual encounters evolved after reflecting on Ezekiel's vision?",
-        "options": [
-          "I recognize divine communication as more mysterious",
-          "I'm more open to non-literal spiritual experiences",
-          "I see symbolism as a profound language of revelation",
-          "I'm humbled by the limitations of human perception"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine revelations transcend literal, empirical interpretations",
           "Spiritual perception requires openness to metaphorical divine communication"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "Ezekiel fell facedown",
+            "ref": "v. 28",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Ezekiel's place. You see a brilliant light like a rainbow, and it is the likeness of the glory of the LORD. What does your falling facedown tell you about the weight of that glory?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Revelation 4:6-8",
+        "summary": "Ezekiel sees living creatures with four faces and wings that move with the spirit (vv. 5-12). John sees four living creatures in heaven with similar characteristics (vv. 6-8).",
+        "question": "How does John's description of these creatures in heaven help you understand the nature of the vision Ezekiel saw by the River Kebar?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "surrender",
+        "because": "Ezekiel saw the likeness of the glory of the LORD and fell facedown",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "seeking my own glory",
+        "step": "bow before His presence",
+        "template": "from today I release my {feeling:pride, self-importance} over {object:my own achievements} and instead of {behavior:seeking my own glory}, I will {step:bow before His presence}."
       }
     }
   }

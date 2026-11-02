@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human Power is Ultimately Illusory",
-            "expansion": "Military might and political alliances crumble when disconnected from divine providence."
-          },
-          {
-            "id": 2,
-            "text": "God's Wisdom Transcends Human Strategy",
-            "expansion": "Divine intelligence operates beyond human comprehension and strategic planning."
-          },
-          {
-            "id": 3,
-            "text": "Trust in Divine Protection Supersedes Worldly Security",
-            "expansion": "Authentic safety emerges from spiritual alignment, not technological or military advantages."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you seek protection or solutions, are you more likely to trust human systems or spiritual principles?"
-      },
-      "moral_slider": {
-        "question": "How do human agency and divine sovereignty interact?",
-        "left_label": "Human Control",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has this text challenged your understanding of security and trust?",
-        "options": [
-          "Recognized limitations of human power",
-          "Deepened spiritual perspective",
-          "Questioned previous assumptions about protection",
-          "Seen divine wisdom in a new light"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Develop discernment to distinguish between worldly wisdom and spiritual truth",
           "Maintain faith regardless of apparent geopolitical complexities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The prophet warns",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people looking for safety in Egypt. What does the difference between flesh and spirit reveal about the strength of your chosen allies?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Jeremiah 17:5-8",
+        "summary": "Isaiah warns against trusting in horses and the abundance of chariots (v. 1). Jeremiah describes the same danger of trusting in man and flesh (v. 5).",
+        "question": "How does Jeremiah's description of the desert shrub help you understand the fate of those who rely on Egypt (v. 1)?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "those who rely on horses and chariots do not look to the Holy One of Israel",
+        "feeling": "anxiety, dread",
+        "object": "a looming crisis",
+        "behavior": "seeking human solutions first",
+        "step": "seek the LORD in prayer",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a looming crisis} and instead of {behavior:seeking human solutions first}, I will {step:seek the LORD in prayer}."
       }
     }
   }

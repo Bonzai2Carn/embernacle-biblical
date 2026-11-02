@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation most resonates with you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Becoming God's Child",
-            "expansion": "Recognizing our profound identity shift from outsiders to divine family members."
-          },
-          {
-            "id": "b",
-            "text": "Purifying Hope",
-            "expansion": "Understanding hope as an active process of internal spiritual refinement."
-          },
-          {
-            "id": "c",
-            "text": "Overcoming Lawlessness",
-            "expansion": "Transforming from self-centered rebellion to purposeful alignment with divine principles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If being a child of God fundamentally changes our nature, how might that challenge your current self-perception?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between inherited sin and potential holiness?",
-        "left_label": "Inherent Brokenness",
-        "right_label": "Transformative Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual identity evolved?",
-        "options": [
-          "I see myself more as a spiritual being",
-          "My view of personal transformation has deepened",
-          "I understand sin differently",
-          "I'm more aware of divine love's complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual moral effort is the primary mechanism of transformation",
           "Spiritual identity is purely forensic/positional, with no practical implications"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a reader who hears that anyone who does not love his brother is not of God. What do you weigh when the next line calls this the message heard from the beginning: we should love one another?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "John 1:12-13",
+        "summary": "The author says we are called children of God because of the Father's love (v. 1). John 1:12-13 says those who received Him and believed in His name were given the right to become children of God, born of God.",
+        "question": "How does John 1:12-13 help you understand what it means to be called children of God in 1 John 3:1?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "we should love not in word and speech, but in action and truth",
+        "feeling": "indifference, apathy",
+        "object": "a person in need",
+        "behavior": "offering empty platitudes",
+        "step": "provide a tangible gift",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:a person in need} and instead of {behavior:offering empty platitudes}, I will {step:provide a tangible gift}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic most resonates with human nature in this narrative?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sibling Rivalry",
-            "expansion": "The profound psychological complexity of competition and comparison between siblings"
-          },
-          {
-            "id": 2,
-            "text": "Divine Expectations",
-            "expansion": "The subtle nuances of how human offerings and intentions are perceived by a transcendent perspective"
-          },
-          {
-            "id": 3,
-            "text": "Emotional Consequence of Rejection",
-            "expansion": "How unmet expectations and perceived unfairness can trigger destructive emotional responses"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God saw Cain's heart before the murder, what internal struggle might have preceded his violent action?"
-      },
-      "moral_slider": {
-        "question": "What determines the true value of an offering or sacrifice?",
-        "left_label": "External Performance",
-        "right_label": "Internal Intention"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of human nature and divine interaction?",
-        "options": [
-          "I see deeper emotional complexity in human motivations",
-          "I recognize the subtlety of spiritual accountability",
-          "I understand how unprocessed emotions can lead to destructive actions",
-          "I appreciate the psychological depth of biblical narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine acceptance is not automatic but requires spiritual sincerity",
           "Worship is a relational act that reflects one's internal spiritual condition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD asked",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Cain's place, facing these questions from the LORD. What does His warning about sin crouching at your door reveal about the choice you are currently facing?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "1 John 3:11-12",
+        "summary": "Cain invites Abel out to the field and kills him there (v. 8). 1 John 3:11-12 says Cain belonged to the evil one and murdered his brother, because his own deeds were evil while his brother's were righteous.",
+        "question": "How does 1 John 3:11-12 help you understand what happened between Cain and Abel in the field?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "sin is crouching at the door of the one who refuses to do what is right, and it desires him",
+        "feeling": "anger, resentment",
+        "object": "a perceived slight",
+        "behavior": "letting my temper flare",
+        "step": "master the impulse",
+        "template": "from today I let go of my {feeling:anger, resentment} over {object:a perceived slight} and instead of {behavior:letting my temper flare}, I will {step:master the impulse}."
       }
     }
   }

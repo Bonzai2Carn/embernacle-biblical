@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual rebellion resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Willful Spiritual Blindness",
-            "expansion": "People often choose not to perceive divine warnings despite clear signs."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Symbolic Action",
-            "expansion": "God uses embodied experiences to communicate profound spiritual truths."
-          },
-          {
-            "id": 3,
-            "text": "Inevitability of Judgment",
-            "expansion": "Persistent rebellion ultimately leads to consequences, not as punishment, but as transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you were aware of an impending spiritual catastrophe, how would you communicate its urgency without being dismissed as alarmist?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist in moments of national spiritual crisis?",
-        "left_label": "Harsh Judgment",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of prophetic communication?",
-        "options": [
-          "I see symbolic actions as legitimate spiritual language",
-          "I recognize the complexity of conveying spiritual warnings",
-          "I understand spiritual blindness as a collective, not just individual, phenomenon",
-          "I appreciate the patience inherent in prophetic ministry"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Visual parables can transcend linguistic and cultural barriers",
           "Symbolic prophecy reveals God's desire for genuine spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The LORD asks about the proverb",
+            "ref": "v. 22",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 23",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those who recite the proverb 'The days go by, and every vision fails.' When you hear the LORD's answer, what do you weigh about the days that are at hand?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Matthew 13:14-15",
+        "summary": "The LORD calls Israel a rebellious house that has eyes to see but does not see and ears to hear but does not hear (v. 2). Matthew 13 quotes a prophecy of a people ever hearing but never understanding, whose hearts have grown callous.",
+        "question": "How does the prophecy quoted in Matthew 13 help you understand why the LORD calls the house of Israel a rebellious house with eyes that do not see?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "remembrance",
+        "because": "none of My words will be delayed any longer",
+        "feeling": "cynicism, doubt",
+        "object": "a promise I have waited for",
+        "behavior": "treating God's word as a distant possibility",
+        "step": "trust the timing of His word",
+        "template": "from today I let go of my {feeling:cynicism, doubt} over {object:a promise I have waited for} and instead of {behavior:treating God's word as a distant possibility}, I will {step:trust the timing of His word}."
       }
     }
   }

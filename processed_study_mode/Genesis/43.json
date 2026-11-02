@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of family dynamics resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Judah's Personal Responsibility",
-            "expansion": "Judah emerges as a transformative leader who takes accountability for familial survival and reconciliation."
-          },
-          {
-            "id": 2,
-            "text": "Jacob's Protective Hesitation",
-            "expansion": "A father's profound grief and fear of losing another son creates paralyzing emotional complexity."
-          },
-          {
-            "id": 3,
-            "text": "Brothers' Collective Survival Strategy",
-            "expansion": "Siblings must collaborate and overcome past betrayals to navigate existential challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do unresolved personal histories unconsciously shape our present negotiations and relationships?"
-      },
-      "moral_slider": {
-        "question": "To what extent should family loyalty supersede individual self-preservation?",
-        "left_label": "Individual Survival",
-        "right_label": "Family Solidarity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of familial reconciliation evolved?",
-        "options": [
-          "Forgiveness requires mutual vulnerability",
-          "Time naturally heals relational wounds",
-          "Accountability precedes genuine restoration",
-          "Survival can force unexpected transformations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption requires active human participation",
           "Spiritual transformation happens through relational restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Israel asked",
+            "ref": "v. 6",
+            "speaker": "Israel"
+          },
+          {
+            "who": "Israel said",
+            "ref": "v. 14",
+            "speaker": "Israel"
+          }
+        ],
+        "question": "Put yourself in Israel's place. You pray that God Almighty grants mercy before the man, that your other son may be released along with Benjamin. What do you weigh when your prayer is all you can offer?"
+      },
+      "chain": {
+        "after": 29,
+        "ref": "Psalm 103:13",
+        "summary": "Joseph sees his brother Benjamin and says, May God be gracious to you, my son (v. 29). Psalm 103:13 says that as a father has compassion on his children, so the LORD has compassion on those who fear Him.",
+        "question": "How does Psalm 103:13 help you understand the kindness Joseph shows Benjamin?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "Judah guaranteed Benjamin's safety and said he would bear the guilt all his life if he failed",
+        "feeling": "fear, avoidance",
+        "object": "a promise I made",
+        "behavior": "backing out when it gets costly",
+        "step": "keep my word to the end",
+        "template": "from today I let go of my {feeling:fear, avoidance} over {object:a promise I made} and instead of {behavior:backing out when it gets costly}, I will {step:keep my word to the end}."
       }
     }
   }

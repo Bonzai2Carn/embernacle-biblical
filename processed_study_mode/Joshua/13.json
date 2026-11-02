@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine promises and human limitations?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God acknowledges human aging",
-            "expansion": "Divine plans transcend individual human capacity and timelines"
-          },
-          {
-            "id": 2,
-            "text": "Unfinished territorial conquests",
-            "expansion": "Spiritual journeys often involve ongoing challenges and incomplete missions"
-          },
-          {
-            "id": 3,
-            "text": "Detailed land allocation",
-            "expansion": "God's precision reveals intentional care for each tribe's inheritance"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine promises persist when human abilities diminish?"
-      },
-      "moral_slider": {
-        "question": "To what extent does human limitation impact divine purpose?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of generational transition?",
-        "options": [
-          "Recognized divine continuity beyond individual leaders",
-          "Understood the importance of gradual conquest",
-          "Appreciated detailed inheritance planning",
-          "Saw aging as a natural part of spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Land promises demonstrate God's faithfulness across generations",
           "Territorial claims represent metaphorical spiritual battles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The Israelites had conquered",
+            "ref": "vv. 10-12",
+            "speaker": ""
+          },
+          {
+            "who": "the Israelites did not drive out",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are an Israelite leader looking at the land. You see the territories won by Moses and the areas still occupied by others. What does this failure to remove certain groups suggest about the work left for your generation?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Deuteronomy 1:8",
+        "summary": "The LORD lists the land that remains to be possessed (vv. 2-7). Deuteronomy 1:8 says the LORD placed the land before Israel and told them to enter and possess it, as He swore to Abraham, Isaac, and Jacob.",
+        "question": "How does the command in Deuteronomy 1:8 help you understand why the LORD is directing the division of the land in this chapter?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "devotion",
+        "because": "the LORD, the God of Israel, was the inheritance of the tribe of Levi",
+        "feeling": "anxiety, greed",
+        "object": "a lack of material security",
+        "behavior": "chasing after more possessions",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:anxiety, greed} over {object:a lack of material security} and instead of {behavior:chasing after more possessions}, I will {step:rest in His presence}."
       }
     }
   }

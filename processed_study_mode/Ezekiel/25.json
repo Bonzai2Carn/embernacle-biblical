@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine perspective about judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's response to national arrogance",
-            "expansion": "Divine judgment emerges when nations mock sacred spaces and suffering."
-          },
-          {
-            "id": 2,
-            "text": "Consequence of spiritual indifference",
-            "expansion": "Nations are accountable for their treatment of God's chosen people."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic warning as redemptive communication",
-            "expansion": "Prophecy serves not just as condemnation, but as an invitation to spiritual recalibration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do collective national attitudes reveal deeper spiritual conditions?"
-      },
-      "moral_slider": {
-        "question": "To what extent should divine judgment be understood as punitive versus reformative?",
-        "left_label": "Punitive Judgment",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic messaging evolved?",
-        "options": [
-          "More nuanced view of divine communication",
-          "Deeper appreciation for historical context",
-          "Recognizing complexity of spiritual accountability",
-          "Understanding judgment as a form of divine engagement"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Highlight the importance of national spiritual accountability",
           "Show God's commitment to ultimate restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Ammonites. You clapped your hands and rejoiced over the land of Israel with contempt. What does this promise of being given as plunder tell you about the weight of your contempt?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Obadiah 1:12-13",
+        "summary": "The LORD judges the Ammonites because they cried 'Aha!' when the sanctuary was profaned and the house of Judah went into exile (v. 3). Obadiah says what must not be done in the day of Judah's destruction: gloating, rejoicing, boasting, and looting.",
+        "question": "How does Obadiah 1:12-13 help you understand why the Ammonites' rejoicing over Israel's ruin is counted against them?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "you rejoiced with a heart full of contempt",
+        "feeling": "schadenfreude, pride",
+        "object": "someone else's failure",
+        "behavior": "mocking their struggle",
+        "step": "pray for their restoration",
+        "template": "from today I bring my {feeling:schadenfreude, pride} about {object:someone else's failure} into the light and instead of {behavior:mocking their struggle}, I will {step:pray for their restoration}."
       }
     }
   }

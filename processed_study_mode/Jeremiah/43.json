@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which human tendency emerges most powerfully in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Prideful Rejection of Divine Guidance",
-            "expansion": "Humans often dismiss prophetic warnings when they conflict with personal preferences."
-          },
-          {
-            "id": 2,
-            "text": "Fear-Driven Decision Making",
-            "expansion": "Anxiety can lead people to choose seemingly safe paths that ultimately lead away from God's protection."
-          },
-          {
-            "id": 3,
-            "text": "Collective Delusion",
-            "expansion": "Groups can mutually reinforce misguided beliefs, drowning out individual prophetic voices."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you feel certain about a course of action, what inner mechanisms might be preventing you from hearing alternative perspectives?"
-      },
-      "moral_slider": {
-        "question": "How do personal interpretations of safety interact with spiritual obedience?",
-        "left_label": "Human Strategy",
-        "right_label": "Divine Guidance"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of leadership and spiritual discernment shift after studying this chapter?",
-        "options": [
-          "Recognize the dangers of group-think",
-          "Understand the complexity of prophetic communication",
-          "Appreciate the courage required to speak unpopular truths",
-          "Acknowledge the human tendency to rationalize disobedience"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual humility requires careful examination of prophetic counsel",
           "Context and personal circumstances can modify prophetic interpretation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Azariah and the men said",
+            "ref": "v. 2",
+            "speaker": "Azariah"
+          },
+          {
+            "who": "Johanan and the commanders disobeyed",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the leaders of Judah. You hear the command to stay in the land, and you are told the prophet is lying. What would you weigh before you decide whether the command is from the LORD?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Isaiah 30:1-2",
+        "summary": "The leaders entered Egypt because they did not obey the LORD (v. 7). Isaiah warns a rebellious people who go down to Egypt without asking the LORD's counsel and seek shelter under Pharaoh (Isa 30:1-2).",
+        "question": "How does Isaiah's warning about trusting in Egypt help you understand the consequence of the leaders' flight in this chapter?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "the commanders disobeyed the command of the LORD to stay in the land",
+        "feeling": "fear, anxiety",
+        "object": "a looming crisis",
+        "behavior": "running toward a temporary escape",
+        "step": "stay where God has placed me",
+        "template": "from today I let go of my {feeling:fear, anxiety} over {object:a looming crisis} and instead of {behavior:running toward a temporary escape}, I will {step:stay where God has placed me}."
       }
     }
   }

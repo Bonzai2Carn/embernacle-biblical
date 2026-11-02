@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of tribal leadership and offering resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tribal Leaders' Synchronized Offerings",
-            "expansion": "Each tribal leader brought identical offerings, symbolizing unity and collective spiritual commitment."
-          },
-          {
-            "id": 2,
-            "text": "Meticulous Divine Instructions",
-            "expansion": "God's precise requirements reveal the importance of intentional, structured worship."
-          },
-          {
-            "id": 3,
-            "text": "Ceremonial Dedication of the Tabernacle",
-            "expansion": "The elaborate ritual demonstrates how sacred spaces are consecrated through deliberate communal action."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are so specific, what might that suggest about the relationship between human intention and spiritual practice?"
-      },
-      "moral_slider": {
-        "question": "How do ritualistic practices balance between genuine spiritual connection and potentially mechanical observance?",
-        "left_label": "Mechanical Ritual",
-        "right_label": "Genuine Spiritual Connection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal worship transformed?",
-        "options": [
-          "Recognize deeper symbolism in ritual",
-          "Appreciate collective spiritual commitment",
-          "Understand importance of structured worship",
-          "See value in precise spiritual instructions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership contributions represent communal responsibility",
           "Ritualistic practices establish spiritual accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD said to Moses",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses took the carts and oxen and gave them to the Levites",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Levites receiving these gifts. How does the specific assignment of these carts and oxen change how you view your responsibility to the Tabernacle?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Exodus 25:2",
+        "summary": "Moses gives the carts and oxen to the Levites, each according to his service (vv. 5-6). In Exodus the LORD asks the Israelites for an offering from every man whose heart compels him (Exodus 25:2).",
+        "question": "How does the willing offering in Exodus 25:2 help you understand the gifts brought for the Tent of Meeting in Numbers 7?"
+      },
+      "conviction": {
+        "verse": 89,
+        "frame": "devotion",
+        "because": "the LORD spoke to Moses from between the two cherubim",
+        "feeling": "distraction, apathy",
+        "object": "my quiet time",
+        "behavior": "rushing through my prayers",
+        "step": "listen for His voice",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my quiet time} and instead of {behavior:rushing through my prayers}, I will {step:listen for His voice}."
       }
     }
   }

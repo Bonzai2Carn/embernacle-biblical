@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which wisdom insight resonates most deeply with personal transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Words create consequences",
-            "expansion": "Our speech is a powerful creative force that shapes our destiny and character."
-          },
-          {
-            "id": 2,
-            "text": "Diligence breeds prosperity",
-            "expansion": "Consistent effort and discipline are the true pathways to meaningful achievement."
-          },
-          {
-            "id": 3,
-            "text": "Wisdom begins with listening",
-            "expansion": "Humility to receive correction is the first step toward genuine personal growth."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your words are truly the 'fruit' of your character, what harvest are you currently cultivating?"
-      },
-      "moral_slider": {
-        "question": "How do personal discipline and divine grace interact in personal transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal responsibility shifted?",
-        "options": [
-          "I see my choices more critically",
-          "I recognize the power of self-discipline",
-          "I understand consequences differently",
-          "I'm more aware of my speech's impact"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine guidance transforms speech patterns",
           "Personal accountability determines spiritual growth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a son hearing his father's words. What do you understand about the difference between heeding discipline and refusing rebuke?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Ephesians 6:1-4",
+        "summary": "Proverbs 13 says he who loves his son disciplines him diligently (v. 24). Ephesians 6:1-4 tells children to obey their parents in the Lord (v. 1), and tells fathers not to provoke their children to wrath but to bring them up in the discipline and instruction of the Lord (v. 4).",
+        "question": "How does Ephesians 6:1-4 help you understand the discipline a father gives his son?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "he who walks with the wise will become wise",
+        "feeling": "loneliness, isolation",
+        "object": "a group of cynical friends",
+        "behavior": "joining their complaints",
+        "step": "seek out a mentor",
+        "template": "from today I let go of my {feeling:loneliness, isolation} over {object:a group of cynical friends} and instead of {behavior:joining their complaints}, I will {step:seek out a mentor}."
       }
     }
   }

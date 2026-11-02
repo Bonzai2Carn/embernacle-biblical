@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about God's promise of restoration?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Memory of Covenant",
-            "expansion": "God remembers His promises across generations, even when humanity forgets."
-          },
-          {
-            "id": 2,
-            "text": "Transformation of Desolation",
-            "expansion": "Wilderness experiences can become places of profound spiritual renewal."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "Faith is a legacy passed through ancestral spiritual foundations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God can transform a desert into Eden, what 'wilderness' in your life might be waiting for divine restoration?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine providence?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance shifted?",
-        "options": [
-          "I see my faith as more connected to historical roots",
-          "I recognize the power of generational spiritual memory",
-          "I understand divine promises transcend individual lifetimes",
-          "I feel more personally responsible for spiritual legacy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption is a progressive, generational process",
           "God's restoration plan transcends immediate historical context"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The redeemed of the LORD will return",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the redeemed returning to Zion. After experiencing such joy, how does the LORD's question about mortal men change how you view your fears?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Revelation 21:4",
+        "summary": "The LORD promises to comfort Zion and make her wilderness like Eden (v. 3). Revelation 21:4 says He will wipe away every tear and there will be no more death, mourning, crying or pain.",
+        "question": "How does Revelation 21:4 help you understand the comfort the LORD promises to Zion?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "the LORD's people who know what is right have His law in their hearts",
+        "feeling": "anxiety, shame",
+        "object": "a harsh criticism",
+        "behavior": "withdrawing from others",
+        "step": "stand firm in what is right",
+        "template": "from today I let go of my {feeling:anxiety, shame} over {object:a harsh criticism} and instead of {behavior:withdrawing from others}, I will {step:stand firm in what is right}."
       }
     }
   }

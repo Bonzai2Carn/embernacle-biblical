@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership dynamic most resonates with the power transition in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Gradual Strategic Consolidation",
-            "expansion": "David's patient approach demonstrates how true leadership emerges through persistent, principled growth rather than sudden takeover."
-          },
-          {
-            "id": 2,
-            "text": "Political Fragmentation and Reconciliation",
-            "expansion": "The complex negotiations between Abner and David reveal the intricate dance of power and potential redemption."
-          },
-          {
-            "id": 3,
-            "text": "Personal Tragedy within Political Transformation",
-            "expansion": "Joab's revenge against Abner highlights how personal vendettas can destabilize larger political transitions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If power is gradually transferred through relationship and reputation, what truly defines legitimate leadership beyond mere title or inheritance?"
-      },
-      "moral_slider": {
-        "question": "How do personal grievances balance against collective peace during political transitions?",
-        "left_label": "Individual Justice",
-        "right_label": "Communal Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership complexity evolved after examining this chapter?",
-        "options": [
-          "Recognized the nuanced nature of political reconciliation",
-          "Understood the personal cost of systemic change",
-          "Appreciated the importance of strategic patience",
-          "Seen how revenge can undermine broader goals"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence and human free will coexist dynamically",
           "Political transitions occur through purely human mechanisms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Ish-bosheth questioned Abner",
+            "ref": "v. 7",
+            "speaker": "Ish-bosheth"
+          },
+          {
+            "who": "Abner was furious and defended his loyalty",
+            "ref": "v. 8",
+            "speaker": "Abner"
+          }
+        ],
+        "question": "Put yourself in Ish-bosheth's place. You ask Abner why he slept with your father's concubine, and he answers in fury about his loyalty. What do you weigh in his reply?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 75:6-7",
+        "summary": "Abner declares his intent to transfer the kingdom to David according to what the LORD has sworn (v. 10). The Psalmist shows that the rise of leaders does not come from human effort, but from God's hand.",
+        "question": "How does Psalm 75:6-7 help you view Abner's sudden shift in loyalty to David?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "exposure",
+        "because": "David admits he is weak and the sons of Zeruiah are too fierce for him",
+        "feeling": "fear, inadequacy",
+        "object": "a person who opposes me",
+        "behavior": "trying to control the outcome",
+        "step": "leave the judgment to the LORD",
+        "template": "from today I bring my {feeling:fear, inadequacy} about {object:a person who opposes me} into the light and instead of {behavior:trying to control the outcome}, I will {step:leave the judgment to the LORD}."
       }
     }
   }

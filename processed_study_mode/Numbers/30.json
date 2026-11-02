@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on vows and promises resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Accountability",
-            "expansion": "Individual responsibility for commitments transcends immediate circumstances."
-          },
-          {
-            "id": 2,
-            "text": "Familial Authority",
-            "expansion": "Family structures can validate or nullify personal commitments."
-          },
-          {
-            "id": 3,
-            "text": "Divine Expectation",
-            "expansion": "Vows made to God carry profound spiritual and ethical weight."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If personal promises are sacred, how do we reconcile contexts where those promises might cause harm or cannot be ethically fulfilled?"
-      },
-      "moral_slider": {
-        "question": "How do individual autonomy and communal/familial oversight balance in making spiritual commitments?",
-        "left_label": "Personal Freedom",
-        "right_label": "Communal Governance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of promises and spiritual commitments shifted?",
-        "options": [
-          "I see vows as more nuanced",
-          "Family plays a critical role in personal commitments",
-          "Spiritual promises require deeper consideration",
-          "Individual integrity matters more than I previously understood"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal autonomy supersedes communal spiritual accountability",
           "Divine grace provides redemptive pathways for challenging vows"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Moses commands",
+            "ref": "v. 2",
+            "speaker": "Moses"
+          },
+          {
+            "who": "Moses gives the exception",
+            "ref": "v. 5",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of a daughter who made a vow. You hear that a vow must be kept, and that if your father prohibits you on the day he hears of it, your vows do not stand. What do you understand about when a vow binds you and when it does not?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Ecclesiastes 5:4-5",
+        "summary": "Moses explains that a man must do everything he has promised (v. 2). The Teacher in Ecclesiastes warns that it is better to hold back than to make a vow and fail to pay it.",
+        "question": "How does the warning in Ecclesiastes help you weigh the importance of the promises described in Numbers 30?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "a man must do everything he has promised",
+        "feeling": "guilt, shame",
+        "object": "a small commitment I missed",
+        "behavior": "making excuses",
+        "step": "make it right",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a small commitment I missed} and instead of {behavior:making excuses}, I will {step:make it right}."
       }
     }
   }

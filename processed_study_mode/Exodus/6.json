@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine promise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Persistent Covenant",
-            "expansion": "The divine commitment transcends generations, revealing an unbreakable relationship."
-          },
-          {
-            "id": 2,
-            "text": "Transformation of Identity",
-            "expansion": "God reveals a deeper understanding of His name and nature beyond previous generations' comprehension."
-          },
-          {
-            "id": 3,
-            "text": "Liberation as Spiritual Promise",
-            "expansion": "Freedom is not merely physical, but a profound spiritual metamorphosis orchestrated by divine intervention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine timing challenge human expectations of immediate resolution?"
-      },
-      "moral_slider": {
-        "question": "To what extent do generational promises shape individual spiritual understanding?",
-        "left_label": "Personal Experience",
-        "right_label": "Inherited Covenant"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine intervention shifted?",
-        "options": [
-          "More understanding of patient redemption",
-          "Recognizing complexity of spiritual promises",
-          "Appreciating multigenerational divine strategies",
-          "Seeing suffering as part of transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationships are fundamentally based on God's initiative",
           "Personal understanding of God can evolve through historical experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "God said",
+            "ref": "v. 6",
+            "speaker": "God"
+          },
+          {
+            "who": "The Israelites did not listen",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing these promises of redemption and deliverance. Why would their broken spirit and heavy bondage make it so hard to believe what God promised?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 105:8-11",
+        "summary": "God tells Moses He has remembered His covenant with the patriarchs (v. 5). The Psalmist shows how this same covenant remained a constant reality for generations of Israel.",
+        "question": "The Psalmist describes God remembering His word to Abraham, Isaac, and Jacob (vv. 8-11). How does this help you see the weight of the promise given to Moses in verse 5?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "surrender",
+        "because": "Moses said he was unskilled in speech and asked why Pharaoh would listen to him",
+        "feeling": "inadequacy, shame",
+        "object": "a difficult conversation",
+        "behavior": "avoiding the person",
+        "step": "speak the truth simply",
+        "template": "from today I release my {feeling:inadequacy, shame} over {object:a difficult conversation} and instead of {behavior:avoiding the person}, I will {step:speak the truth simply}."
       }
     }
   }

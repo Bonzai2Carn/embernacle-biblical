@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine attribute of God most deeply resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Jealous Passion",
-            "expansion": "Divine zealousness represents an intense commitment to His own glory and covenant."
-          },
-          {
-            "id": 2,
-            "text": "God's Measured Anger",
-            "expansion": "Divine patience coexists with ultimate accountability for persistent wickedness."
-          },
-          {
-            "id": 3,
-            "text": "God's Sovereign Power",
-            "expansion": "Natural elements fundamentally submit to God's supreme control and governance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately about restoring cosmic justice, how might mercy and judgment simultaneously exist in the same divine act?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between God's love and God's judgment?",
-        "left_label": "Pure Mercy",
-        "right_label": "Absolute Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine character shifted after studying this chapter?",
-        "options": [
-          "I see God's complexity more deeply",
-          "I recognize divine sovereignty more clearly",
-          "I understand judgment differently",
-          "I'm more aware of spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates God's commitment to cosmic justice",
           "Wrath reveals God's passionate love for righteousness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The prophet describes God's wrath",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet declares God's goodness",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those facing God's power. How does the description of His fury change when you hear that He is good and cares for those who trust in Him?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Exodus 34:6-7",
+        "summary": "Nahum says the LORD is slow to anger and great in power, and He will by no means leave the guilty unpunished (v. 3). Exodus says the LORD passed before Moses and proclaimed Himself compassionate and gracious, slow to anger, yet He will by no means leave the guilty unpunished (Exodus 34:6-7).",
+        "question": "How does Exodus 34:6-7 help you understand why the LORD, slow to anger, will not leave the guilty unpunished?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the LORD cares for those who trust in Him",
+        "feeling": "anxiety, dread",
+        "object": "a looming crisis",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming crisis} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His strength}."
       }
     }
   }

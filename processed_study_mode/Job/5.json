@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about human vulnerability in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sudden destruction of the foolish",
-            "expansion": "Prosperity can collapse quickly when wisdom is absent."
-          },
-          {
-            "id": 2,
-            "text": "No external deliverance",
-            "expansion": "When systemic challenges overwhelm, personal resources may prove insufficient."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability of inheritance",
-            "expansion": "Generational achievements can be rapidly eroded by misfortune."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment operates through natural consequences, how much personal agency truly exists in one's fate?"
-      },
-      "moral_slider": {
-        "question": "How do suffering and justice intersect in human experience?",
-        "left_label": "Random Suffering",
-        "right_label": "Purposeful Refinement"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of adversity shifted?",
-        "options": [
-          "More aware of life's unpredictability",
-          "Recognize systemic vulnerabilities",
-          "See suffering as potentially instructive",
-          "Understand limitations of personal control"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering reveals complex spiritual dynamics beyond simple cause-and-effect",
           "Personal righteousness guarantees protection from life's challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Eliphaz says",
+            "ref": "v. 6",
+            "speaker": "Eliphaz"
+          },
+          {
+            "who": "Eliphaz says",
+            "ref": "v. 7",
+            "speaker": "Eliphaz"
+          }
+        ],
+        "question": "Put yourself in the place of someone facing hardship. Eliphaz claims trouble does not spring from the dust, yet he says man is born to trouble. Which side of his argument feels more true to your current struggle?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Hebrews 12:6",
+        "summary": "Eliphaz claims that God corrects and disciplines the man (v. 17). Hebrews explains that this discipline is a sign of God's love for His children.",
+        "question": "How does knowing that God acts out of love change how you hear Eliphaz's words about His discipline?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "God wounds, but He also binds; He strikes, but His hands also heal",
+        "feeling": "despair, hopelessness",
+        "object": "a season of loss",
+        "behavior": "pulling away from God",
+        "step": "rest in His healing",
+        "template": "from today I entrust my {feeling:despair, hopelessness} about {object:a season of loss} to God and instead of {behavior:pulling away from God}, I will {step:rest in His healing}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual struggle resonates most deeply in this psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Urgent need for divine rescue",
-            "expansion": "The psalmist's raw cry for immediate intervention reveals humanity's fundamental vulnerability."
-          },
-          {
-            "id": 2,
-            "text": "Confronting adversarial forces",
-            "expansion": "The plea against those who seek to harm reveals the persistent spiritual warfare in human experience."
-          },
-          {
-            "id": 3,
-            "text": "Desperate dependence on God",
-            "expansion": "The psalm demonstrates the soul's ultimate reliance on divine grace in moments of profound weakness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the urgency of the psalmist's plea challenge our contemporary understanding of patient, comfortable spirituality?"
-      },
-      "moral_slider": {
-        "question": "Between personal vindication and divine justice, where does true spiritual resolution lie?",
-        "left_label": "Personal Vindication",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine assistance shifted after reflecting on this psalm?",
-        "options": [
-          "I see prayer as more urgent and direct",
-          "I recognize my own vulnerability more clearly",
-          "I understand spiritual struggle differently",
-          "I'm more aware of seeking divine intervention"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention depends on personal righteousness",
           "Persistent prayer transforms challenging circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist prays against his enemies",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist turns",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. People seek your life and wish you harm. What changes when you say, 'You are my help and my deliverer'?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 22:19",
+        "summary": "The psalmist prays for God to make haste and hurry to help him (v. 1). Psalm 22:19 asks the LORD not to be far off, and calls Him 'my Strength' who should come quickly to help.",
+        "question": "How does Psalm 22:19 help you understand the plea for God to hurry in verse 1?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "God is my help and my deliverer",
+        "feeling": "panic, desperation",
+        "object": "enemies who seek my life",
+        "behavior": "hiding from my enemies",
+        "step": "ask Him to hurry to help me",
+        "template": "from today I bring You my {feeling:panic, desperation} about {object:enemies who seek my life} and instead of {behavior:hiding from my enemies}, I will {step:ask Him to hurry to help me}."
       }
     }
   }

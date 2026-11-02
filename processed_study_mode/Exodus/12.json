@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative aspect of the Passover narrative resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection",
-            "expansion": "The blood on doorposts represents God's supernatural preservation of the faithful."
-          },
-          {
-            "id": 2,
-            "text": "Liberation Narrative",
-            "expansion": "The exodus symbolizes radical freedom from systemic oppression and spiritual bondage."
-          },
-          {
-            "id": 3,
-            "text": "Ritual Remembrance",
-            "expansion": "Establishing commemorative practices ensures generational transmission of sacred memory."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might an act of collective vulnerability transform a community's understanding of redemption?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine intervention justify collective consequence?",
-        "left_label": "Individual Mercy",
-        "right_label": "Systemic Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of liberation evolved?",
-        "options": [
-          "Recognized deeper spiritual meaning",
-          "Understood collective transformation",
-          "Appreciated ritual's power",
-          "Questioned divine judgment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates divine protection through sacrificial mechanism",
           "Highlights the necessity of faith and obedience in salvation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD commands",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites receiving this command. How does knowing that the blood will mark your house change how you view putting it on the doorframes?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "1 Corinthians 5:7",
+        "summary": "The LORD tells Israel to put the lamb's blood on the doorframes and promises to pass over when He sees it (vv. 7, 13). Paul says Christ, our Passover lamb, has been sacrificed.",
+        "question": "How does Paul's naming of Christ as our Passover lamb help you understand the lamb and the blood in this chapter?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "practice",
+        "because": "the Israelites went and did just what the LORD had commanded",
+        "feeling": "doubt, hesitation",
+        "object": "a new instruction from God",
+        "behavior": "waiting for more proof",
+        "step": "obey the very next thing I hear",
+        "template": "from today I let go of my {feeling:doubt, hesitation} over {object:a new instruction from God} and instead of {behavior:waiting for more proof}, I will {step:obey the very next thing I hear}."
       }
     }
   }

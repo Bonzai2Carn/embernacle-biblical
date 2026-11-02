@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Preparing the Next Generation",
-            "expansion": "David's intentional guidance of Solomon demonstrates the profound responsibility of mentoring future leaders."
-          },
-          {
-            "id": 2,
-            "text": "Vision Beyond Personal Achievement",
-            "expansion": "David's willingness to pass his dream of building the temple to his son reveals true spiritual leadership."
-          },
-          {
-            "id": 3,
-            "text": "Divine Alignment in Purpose",
-            "expansion": "David's recognition that God chooses leaders and assigns specific missions highlights spiritual discernment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal ambitions intersect with divine calling, and who truly determines the trajectory of one's life purpose?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal desires yield to spiritual directives?",
-        "left_label": "Individual Will",
-        "right_label": "Divine Guidance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and succession changed?",
-        "options": [
-          "Leadership is more about preparation than personal glory",
-          "Spiritual inheritance matters more than material inheritance",
-          "Vision requires generational perspective",
-          "True leadership is about serving a larger purpose"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance is predetermined regardless of individual actions",
           "Character and obedience are essential complements to divine appointment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 2",
+            "speaker": "David"
+          },
+          {
+            "who": "David reports what God said to him",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. You had prepared to build a house for God, and now you hear that you are not to build it because you are a man of war who has spilled blood. How do you respond?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 16:9",
+        "summary": "David explains how God chose his successor and set a specific path for the temple (vv. 5-6). Proverbs shows how a person plans their way while the Lord directs their steps.",
+        "question": "How does the reality of God directing steps help you understand why David's own plans for the temple were redirected to Solomon?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "the LORD searches every heart and understands the intent of every thought",
+        "feeling": "anxiety, shame",
+        "object": "my private failures",
+        "behavior": "hiding my true motives",
+        "step": "bring my whole self to Him",
+        "template": "from today I let go of my {feeling:anxiety, shame} over {object:my private failures} and instead of {behavior:hiding my true motives}, I will {step:bring my whole self to Him}."
       }
     }
   }

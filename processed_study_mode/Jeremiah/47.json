@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image most powerfully represents divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Waters rising from the north",
-            "expansion": "Divine judgment often arrives unexpectedly, like a flood overwhelming human defenses."
-          },
-          {
-            "id": 2,
-            "text": "Stampeding horse hooves",
-            "expansion": "The violent momentum of conquest symbolizes the unstoppable nature of prophetic proclamation."
-          },
-          {
-            "id": 3,
-            "text": "Men crying and inhabitants wailing",
-            "expansion": "Collective human suffering reveals the profound emotional landscape of divine intervention."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do external forces of destruction potentially serve as instruments of spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent are nations responsible for their collective spiritual trajectory?",
-        "left_label": "Individual Fate",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic judgment evolved?",
-        "options": [
-          "More nuanced view of divine intervention",
-          "Greater appreciation for historical context",
-          "Deeper understanding of collective consequences",
-          "Increased empathy for generational suffering"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings provide opportunities for repentance",
           "Historical consequences reveal spiritual principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The cry to the sword",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The answer given",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people of Ashkelon. You hear the cry for the sword to return to its sheath, and then you hear that it cannot rest because the LORD has commanded it against your city. What would you weigh in that answer?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 93:3-4",
+        "summary": "The prophet describes waters rising from the north and the rumbling of stallions and chariots (vv. 2-3). Psalm 93:3-4 describes floodwaters and roaring seas, yet the LORD on high is majestic above the roar of many waters.",
+        "question": "How does Psalm 93:3-4 help you understand the rising waters in this chapter?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "surrender",
+        "because": "the LORD has commanded the sword and appointed it against Ashkelon",
+        "feeling": "anxiety, fear",
+        "object": "a coming storm",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His sovereignty",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:a coming storm} and instead of {behavior:trying to control the outcome}, I will {step:rest in His sovereignty}."
       }
     }
   }

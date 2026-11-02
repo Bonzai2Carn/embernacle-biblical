@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which poetic image of love resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The lover as a garden of precious spices",
-            "expansion": "Love cultivates rich inner landscapes of beauty and complexity"
-          },
-          {
-            "id": 2,
-            "text": "The beloved compared to an army with banners",
-            "expansion": "Passionate love carries both vulnerability and profound strength"
-          },
-          {
-            "id": 3,
-            "text": "The mutual declaration: 'I am my beloved's, and my beloved is mine'",
-            "expansion": "True intimacy requires complete reciprocal surrender and commitment"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does desire transform our perception of beauty, and what distinguishes genuine love from mere aesthetic appreciation?"
-      },
-      "moral_slider": {
-        "question": "To what extent does passionate love require individual identity versus complete mutual absorption?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Complete Union"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of intimate connection evolved?",
-        "options": [
-          "Recognize love as a dynamic, evolving experience",
-          "Understand vulnerability as strength",
-          "Appreciate metaphorical language about intimacy",
-          "See love as a spiritual, not just physical, connection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Transformative nature of divine love",
           "Symbolic representation of Christ's love for the Church"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The bridegroom praises her",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "He asks her to turn her eyes away",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the woman being praised. He calls you as lovely as Jerusalem, then asks you to turn your eyes away because they have overcome him. What would you weigh about your eyes overcoming him?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Isaiah 43:1",
+        "summary": "The woman says she belongs to her beloved and he belongs to her (v. 3). The LORD says to His people, 'I have called you by your name; you are Mine!' (Isa 43:1).",
+        "question": "How does Isaiah 43:1 help you understand the belonging the woman describes in 6:3?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "devotion",
+        "because": "I belong to my beloved and he belongs to me",
+        "feeling": "insecurity, fear",
+        "object": "my standing with God",
+        "behavior": "seeking approval from others",
+        "step": "rest in His ownership of me",
+        "template": "from today I bring You my {feeling:insecurity, fear} about {object:my standing with God} and instead of {behavior:seeking approval from others}, I will {step:rest in His ownership of me}."
       }
     }
   }

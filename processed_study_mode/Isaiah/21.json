@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic image most powerfully reveals divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The treacherous dealer's inevitable downfall",
-            "expansion": "Human schemes ultimately collapse under divine sovereignty"
-          },
-          {
-            "id": 2,
-            "text": "The painful labor-like prophetic vision",
-            "expansion": "Spiritual revelation often comes through profound personal anguish"
-          },
-          {
-            "id": 3,
-            "text": "The wilderness as a metaphor of judgment",
-            "expansion": "Desolation represents the spiritual consequence of systemic betrayal"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal emotional responses to divine revelation transform prophetic understanding?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human empathy comprehend divine judgment?",
-        "left_label": "Human Compassion",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of prophecy?",
-        "options": [
-          "Recognized complexity of spiritual suffering",
-          "Understood judgment as transformative process",
-          "Appreciated prophetic emotional vulnerability",
-          "Seen geopolitical events through spiritual lens"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As metaphorical warnings about systemic injustice",
           "As predictive prophecies with eschatological implications"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The lookout shouted",
+            "ref": "v. 8",
+            "speaker": "The lookout"
+          },
+          {
+            "who": "An unknown person answered",
+            "ref": "v. 9",
+            "speaker": "Unknown"
+          }
+        ],
+        "question": "Put yourself in the place of the lookout on the tower. You have stood your post day and night, and now you hear that Babylon has fallen. What do you understand about the news you are reporting?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Habakkuk 2:8",
+        "summary": "The Lord declares that all the glory of Kedar will be gone within one year (v. 16-17). Habakkuk warns that a conqueror who plundered many nations will himself be plundered (Habakkuk 2:8).",
+        "question": "How does Habakkuk's description of a plunderer help you understand the end of glory promised in Isaiah?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "exposure",
+        "because": "my body is filled with anguish",
+        "feeling": "dismay, bewilderment",
+        "object": "the news of a crisis",
+        "behavior": "withdrawing from others",
+        "step": "speak the truth of what I see",
+        "template": "from today I bring my {feeling:dismay, bewilderment} about {object:the news of a crisis} into the light and instead of {behavior:withdrawing from others}, I will {step:speak the truth of what I see}."
       }
     }
   }

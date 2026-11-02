@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine confidence resonates most?",
-        "choices": [
-          {
-            "id": "praise",
-            "text": "Praising God despite circumstances",
-            "expansion": "Worship transcends current emotional or situational limitations"
-          },
-          {
-            "id": "victory",
-            "text": "Anticipating divine victory",
-            "expansion": "Faith sees triumph before physical manifestation occurs"
-          },
-          {
-            "id": "sovereignty",
-            "text": "God's supreme control over nations",
-            "expansion": "Divine power ultimately orchestrates global destinies beyond human perception"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal limitations contrast with divine capabilities in your understanding of spiritual warfare?"
-      },
-      "moral_slider": {
-        "question": "To what degree do human efforts complement divine intervention?",
-        "left_label": "Complete Human Dependency",
-        "right_label": "Total Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual resilience shifted?",
-        "options": [
-          "Deeper understanding of praise as a weapon",
-          "Recognizing God's strategic positioning",
-          "Embracing uncertainty with faith",
-          "Acknowledging personal weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual confidence emerges from theological understanding",
           "Praise is a strategic spiritual weapon"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the singer calling the harp and lyre to wake the dawn. You hear that His loving devotion extends beyond the heavens and His faithfulness reaches to the clouds. What would that add to your song?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalm 36:5-6",
+        "summary": "The psalmist says God's loving devotion extends beyond the heavens and His faithfulness reaches to the clouds (v. 4). Psalm 36:5-6 says His loving devotion reaches to the heavens, His righteousness is like the highest mountains, and His judgments are like the deepest sea.",
+        "question": "How does Psalm 36:5-6 help you picture the reach of His loving devotion in verse 4?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "my heart is steadfast, O God",
+        "feeling": "distraction, doubt",
+        "object": "the noise of my circumstances",
+        "behavior": "wandering in my thoughts",
+        "step": "fix my eyes on Him",
+        "template": "from today I bring You my {feeling:distraction, doubt} about {object:the noise of my circumstances} and instead of {behavior:wandering in my thoughts}, I will {step:fix my eyes on Him}."
       }
     }
   }

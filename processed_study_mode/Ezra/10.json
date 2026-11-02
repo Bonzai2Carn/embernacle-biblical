@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of communal repentance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Collective Accountability",
-            "expansion": "The entire community takes responsibility for spiritual compromise, not just individuals."
-          },
-          {
-            "id": 2,
-            "text": "Radical Transformation",
-            "expansion": "Genuine repentance requires decisive and sometimes painful corrective action."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Restoration",
-            "expansion": "Returning to God's original design requires intentional separation from destructive influences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does genuine spiritual renewal challenge our comfortable compromises?"
-      },
-      "moral_slider": {
-        "question": "What is the appropriate balance between grace and accountability?",
-        "left_label": "Mercy",
-        "right_label": "Discipline"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal spiritual responsibility evolved?",
-        "options": [
-          "I see the importance of collective spiritual health",
-          "Personal choices have broader communal consequences",
-          "True repentance requires radical, uncomfortable change",
-          "Spiritual compromise gradually erodes community integrity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritizing internal spiritual transformation over external rules",
           "Contextualizing biblical principles for modern cross-cultural interactions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Shecaniah said to Ezra",
+            "ref": "v. 2",
+            "speaker": "Shecaniah"
+          },
+          {
+            "who": "Shecaniah said",
+            "ref": "v. 3",
+            "speaker": "Shecaniah"
+          }
+        ],
+        "question": "Put yourself in Shecaniah's place. You see a community broken by unfaithfulness, yet you see a way to fix it. What does this plan require of you and your people?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Chronicles 7:14",
+        "summary": "Ezra tells the people to make a confession to the LORD and to separate themselves from the people of the land and their foreign wives (v. 11). 2 Chronicles 7:14 says that if God's people humble themselves, pray, seek His face and turn from their wicked ways, He will hear from heaven and forgive their sin.",
+        "question": "How does 2 Chronicles 7:14 help you understand the purpose behind the heavy task Ezra set before the assembly?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the whole assembly answered in a loud voice that they must do as Ezra says",
+        "feeling": "reluctance, hesitation",
+        "object": "a difficult command",
+        "behavior": "making excuses",
+        "step": "obey with a willing heart",
+        "template": "from today I let go of my {feeling:reluctance, hesitation} over {object:a difficult command} and instead of {behavior:making excuses}, I will {step:obey with a willing heart}."
       }
     }
   }

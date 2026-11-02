@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's direct assurance of victory",
-            "expansion": "Divine promise transforms human fear into courageous action."
-          },
-          {
-            "id": 2,
-            "text": "Complete deliverance of enemies",
-            "expansion": "Theological understanding of comprehensive redemption through divine power."
-          },
-          {
-            "id": 3,
-            "text": "Strategic military guidance",
-            "expansion": "Providence manifests through practical, tactical spiritual leadership."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do you reconcile the apparent contradiction between divine love and the seemingly violent conquest narratives?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine mandate justify military action?",
-        "left_label": "Pacifism",
-        "right_label": "Righteous Warfare"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "More nuanced view of biblical narrative",
-          "Greater appreciation for historical context",
-          "Deeper understanding of spiritual warfare",
-          "Increased complexity in theological interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Conquests represent judgement against pagan nations",
           "Israel's obedience determines divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Moses recalls telling Joshua",
+            "ref": "v. 21",
+            "speaker": "The Lord"
+          },
+          {
+            "who": "Moses tells Joshua",
+            "ref": "v. 22",
+            "speaker": "The Lord"
+          }
+        ],
+        "question": "Put yourself in Joshua's place, looking back at the two kings you have already seen defeated. How does being told the same will happen to every kingdom ahead, and not to be afraid, change how you look at them?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Psalm 136:19-20",
+        "summary": "Moses recounts the defeat of Sihon and Og (vv. 1-3). Psalm 136 names Sihon king of the Amorites and Og king of Bashan, and says of each that His loving devotion endures forever (Psalm 136:19-20).",
+        "question": "How does Psalm 136:19-20 help you understand what the defeat of Sihon and Og shows about the LORD?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "trust",
+        "because": "the LORD my God himself will fight for me",
+        "feeling": "anxiety, dread",
+        "object": "a looming challenge",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming challenge} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His strength}."
       }
     }
   }

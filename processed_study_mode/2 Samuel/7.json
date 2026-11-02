@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty in choosing leaders",
-            "expansion": "Divine selection transcends human planning or ambition"
-          },
-          {
-            "id": 2,
-            "text": "Covenant promises are eternal",
-            "expansion": "God's commitments extend beyond individual lifetimes into generational promises"
-          },
-          {
-            "id": 3,
-            "text": "Human plans must submit to divine will",
-            "expansion": "Human desires are secondary to God's ultimate redemptive strategy"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God declines your most passionate project, might the decline itself be part of a greater blessing?"
-      },
-      "moral_slider": {
-        "question": "How do human aspirations align with divine purposes?",
-        "left_label": "Personal Ambition",
-        "right_label": "Divine Alignment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine guidance shifted?",
-        "options": [
-          "I now see plans differently",
-          "Waiting matters more than doing",
-          "God's perspective transcends my immediate desires",
-          "Covenant promises are deeply personal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "It shows divine promises are not dependent on human worthiness",
           "The covenant represents a paradigm shift in understanding redemptive history"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "David said to Nathan the prophet",
+            "ref": "v. 2",
+            "speaker": "David"
+          },
+          {
+            "who": "The LORD said to Nathan",
+            "ref": "vv. 5-6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in David's place, wanting to build a house for God. What do you understand from the LORD's question about who should build it?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Luke 1:32-33",
+        "summary": "The LORD promises to raise up David's descendant and establish his kingdom (vv. 12-13). Luke 1:32-33 says a coming child will be given the throne of His father David, will reign over the house of Jacob forever, and His kingdom will never end.",
+        "question": "How does Luke 1:32-33 help you understand how far the promise to David reaches?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "remembrance",
+        "because": "You have brought me this far",
+        "feeling": "unworthiness, shame",
+        "object": "my past failures",
+        "behavior": "dwelling on my mistakes",
+        "step": "thank Him for His faithfulness",
+        "template": "from today I let go of my {feeling:unworthiness, shame} over {object:my past failures} and instead of {behavior:dwelling on my mistakes}, I will {step:thank Him for His faithfulness}."
       }
     }
   }

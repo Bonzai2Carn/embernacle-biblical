@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply in David's cry for mercy?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Protection",
-            "expansion": "God serves as a sanctuary amid overwhelming human vulnerability and threat."
-          },
-          {
-            "id": 2,
-            "text": "Praise in Difficulty",
-            "expansion": "Worship emerges not from comfortable circumstances, but from profound trust during crisis."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Resilience",
-            "expansion": "Inner strength comes from believing in God's unchanging character even when external conditions seem hopeless."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine vulnerability before God paradoxically become a source of unexpected strength?"
-      },
-      "moral_slider": {
-        "question": "Between personal desperation and divine sovereignty, where does authentic spiritual experience reside?",
-        "left_label": "Human Desperation",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer and struggle shifted?",
-        "options": [
-          "I see prayer as more honest dialogue",
-          "Suffering can be a pathway to deeper spiritual insight",
-          "Vulnerability is not weakness but courage",
-          "God's presence transcends circumstantial challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Challenges are opportunities for deepening faith and trust in God",
           "Spiritual growth occurs independently of external circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you feel trapped by a net and a pit. What changes in your mind when you move from describing your despondent soul to declaring a steadfast heart?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 91:4",
+        "summary": "The psalmist seeks shelter in the shadow of God's wings (v. 1). Psalm 91 describes how God uses those same wings to cover and protect you.",
+        "question": "How does the image of God's wings in Psalm 91 help you understand the refuge the psalmist finds in verse 1?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "trust",
+        "because": "in You my soul takes refuge",
+        "feeling": "panic, dread",
+        "object": "a sudden crisis",
+        "behavior": "running to my own solutions",
+        "step": "wait for the danger to pass",
+        "template": "from today I bring You my {feeling:panic, dread} about {object:a sudden crisis} and instead of {behavior:running to my own solutions}, I will {step:wait for the danger to pass}."
       }
     }
   }

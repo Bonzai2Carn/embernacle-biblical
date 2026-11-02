@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Name Change as Identity Shift",
-            "expansion": "Personal identity can fundamentally transform through spiritual encounter."
-          },
-          {
-            "id": 2,
-            "text": "Covenant as Ongoing Promise",
-            "expansion": "Divine promises transcend human limitations and timelines."
-          },
-          {
-            "id": 3,
-            "text": "Obedience Through Uncertainty",
-            "expansion": "Faith often requires surrendering to divine guidance without complete understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God demands radical transformation, what parts of yourself are you truly willing to surrender?"
-      },
-      "moral_slider": {
-        "question": "How much personal agency do humans have in a divine covenant?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your understanding of personal potential?",
-        "options": [
-          "I see transformation as more possible",
-          "I recognize divine timing is complex",
-          "I'm more aware of spiritual calling",
-          "I understand faith requires vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship involves mutual commitment and responsive faith",
           "Spiritual inheritance is exclusively predetermined"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 19,
+        "exchange": [
+          {
+            "who": "Abraham said to God",
+            "ref": "v. 18",
+            "speaker": "Abraham"
+          },
+          {
+            "who": "God replied",
+            "ref": "v. 19",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Abraham's place: you ask for a blessing on the son you already have. What does God's answer reveal about the specific promise He is making?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Romans 4:17",
+        "summary": "God promises to make Abraham the father of many nations (v. 5). Paul describes God as the one who gives life to the dead and calls things that are not as though they were (Romans 4:17).",
+        "question": "How does Paul's description of God's power help you understand how Abraham could believe a child would come to Sarah (v. 17)?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "the LORD appeared to Abram at ninety-nine and said that He is God Almighty",
+        "feeling": "anxiety, doubt",
+        "object": "my uncertain future",
+        "behavior": "worrying about every detail",
+        "step": "trust His power to sustain me",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:my uncertain future} and instead of {behavior:worrying about every detail}, I will {step:trust His power to sustain me}."
       }
     }
   }

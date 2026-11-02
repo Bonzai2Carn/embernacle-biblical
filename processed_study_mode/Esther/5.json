@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment of courage resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Esther's risky approach to the king",
-            "expansion": "Stepping into potential death requires extraordinary inner strength and trust."
-          },
-          {
-            "id": 2,
-            "text": "Esther's strategic invitation to Haman",
-            "expansion": "Wisdom often manifests through patient, calculated movements rather than impulsive actions."
-          },
-          {
-            "id": 3,
-            "text": "Haman's pride before potential downfall",
-            "expansion": "Hubris can blind individuals to their imminent vulnerability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal risk become a catalyst for collective liberation?"
-      },
-      "moral_slider": {
-        "question": "What determines the ethics of strategic manipulation?",
-        "left_label": "Personal Survival",
-        "right_label": "Communal Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of courage evolved?",
-        "options": [
-          "Courage is more nuanced than I previously thought",
-          "Strategic patience matters as much as bold action",
-          "Personal risk can serve collective transformation",
-          "Wisdom requires both emotional intelligence and timing"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence operates through individual human choices",
           "Faithful risk-taking aligns with God's redemptive purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The king inquired",
+            "ref": "v. 3",
+            "speaker": "The king"
+          },
+          {
+            "who": "Esther replied",
+            "ref": "v. 4",
+            "speaker": "Esther"
+          }
+        ],
+        "question": "Imagine you are Esther. The king offers you up to half the kingdom. What would you weigh before you ask him to come to a banquet with Haman?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Proverbs 16:18",
+        "summary": "Haman boasts of his wealth and honors (v. 11), yet says none of it satisfies him while he sees Mordecai at the king's gate (v. 13). Proverbs says pride goes before destruction, and a haughty spirit before a fall.",
+        "question": "How does Proverbs 16:18 help you understand Haman's boasting and his anger at Mordecai?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "exposure",
+        "because": "Haman says that none of this satisfies him while Mordecai the Jew sits at the king's gate",
+        "feeling": "dissatisfaction, discontent",
+        "object": "the success of others",
+        "behavior": "comparing my life to theirs",
+        "step": "find joy in what I have",
+        "template": "from today I bring my {feeling:dissatisfaction, discontent} about {object:the success of others} into the light and instead of {behavior:comparing my life to theirs}, I will {step:find joy in what I have}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound element of divine communication resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's patience with human uncertainty",
-            "expansion": "Divine compassion persists even when human leaders struggle with trust."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic signs as communication strategy",
-            "expansion": "Symbolic actions can convey deeper spiritual messages beyond verbal explanation."
-          },
-          {
-            "id": 3,
-            "text": "Political intrigue meets spiritual prophecy",
-            "expansion": "Geopolitical tensions often serve as backdrops for profound spiritual transformations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might fear distort our perception of divine guidance when confronting seemingly insurmountable challenges?"
-      },
-      "moral_slider": {
-        "question": "Between national security and spiritual trust, where does true protection originate?",
-        "left_label": "Human Strategy",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of prophetic communication?",
-        "options": [
-          "Recognize complexity of divine messages",
-          "Understand symbolic communication",
-          "Appreciate historical context",
-          "Recognize human vulnerability in spiritual encounters"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic messages frequently combine historical context with eschatological hope",
           "Spiritual discernment is critical during national uncertainties"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD said to Ahaz",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Ahaz replied",
+            "ref": "v. 12",
+            "speaker": "Ahaz"
+          }
+        ],
+        "question": "Put yourself in Ahaz's place. You are told to ask the LORD for a sign, as high as heaven or as deep as Sheol. What do you weigh about refusing to ask?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Matthew 1:22-23",
+        "summary": "Isaiah promises a sign of a virgin who will bear a son called Immanuel (v. 14). Matthew 1:22-23 quotes these words as what the Lord said through the prophet, and says Immanuel means God with us.",
+        "question": "How does Matthew's quotation and the meaning 'God with us' help you understand the sign given to Ahaz?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "the Lord GOD says the plot against Judah will not arise and will not happen",
+        "feeling": "anxiety, dread",
+        "object": "a threat from others",
+        "behavior": "panicking at every rumor",
+        "step": "stand firm in my faith",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a threat from others} and instead of {behavior:panicking at every rumor}, I will {step:stand firm in my faith}."
       }
     }
   }

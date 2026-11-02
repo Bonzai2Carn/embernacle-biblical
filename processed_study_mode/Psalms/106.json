@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme from Israel's historical reflection resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Divine Mercy Despite Human Failure",
-            "expansion": "God's persistent compassion continues even when humanity repeatedly falls short of covenant expectations."
-          },
-          {
-            "id": "b",
-            "text": "Generational Pattern of Rebellion",
-            "expansion": "The recurring cycle of sin, punishment, repentance, and restoration reveals deep spiritual dynamics."
-          },
-          {
-            "id": "c",
-            "text": "Remembrance as Spiritual Discipline",
-            "expansion": "Honestly recounting historical mistakes serves as a profound mechanism for spiritual growth and transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine patience is infinite, what responsibility do humans bear for repeatedly breaking sacred trust?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine judgment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Unlimited Forgiveness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of collective spiritual responsibility shifted?",
-        "options": [
-          "I now see individual actions as interconnected",
-          "Historical patterns reveal deeper spiritual truths",
-          "Repentance is more nuanced than I previously understood",
-          "Community accountability matters more than personal righteousness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Redemption is always possible through genuine repentance",
           "Historical patterns reveal cyclical spiritual dynamics"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 44,
+        "exchange": [
+          {
+            "who": "The psalmist confesses",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist remembers",
+            "ref": "v. 44",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people confessing. You say, we have sinned like our fathers and acted wickedly. Then you hear that the LORD heard their cry. What do you weigh more heavily: your own wrongdoing or the cry He heard?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Exodus 32:9-14",
+        "summary": "Psalm 106 says Moses stood in the breach to turn away the LORD's wrath from destroying Israel (v. 23). Exodus 32:9-14 records the LORD's anger over the people, Moses' plea to turn from His fierce anger, and the LORD relenting.",
+        "question": "How does Exodus 32:9-14 help you understand Moses standing in the breach?"
+      },
+      "conviction": {
+        "verse": 45,
+        "frame": "repair",
+        "because": "the LORD remembered His covenant with them and relented by the abundance of His loving devotion",
+        "feeling": "guilt, shame",
+        "object": "my repeated failures",
+        "behavior": "hiding my wrongs",
+        "step": "confess one wrong to God",
+        "template": "from today I bring You my {feeling:guilt, shame} about {object:my repeated failures} and instead of {behavior:hiding my wrongs}, I will {step:confess one wrong to God}."
       }
     }
   }

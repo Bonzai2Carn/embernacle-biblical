@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic symbol most powerfully reveals God's judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Broken Clay Flask",
-            "expansion": "Symbolizes the irreparable destruction of Judah's social and spiritual structures"
-          },
-          {
-            "id": 2,
-            "text": "The Valley of Hinnom",
-            "expansion": "Represents the geographical site of horrific idolatrous practices and future divine punishment"
-          },
-          {
-            "id": 3,
-            "text": "The Potsherd Gate",
-            "expansion": "Signifies the broken remnants of a civilization that has rejected divine covenant"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do societal practices become so corrupted that divine intervention becomes necessary?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment reflect love versus punishment?",
-        "left_label": "Harsh Retribution",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic warning changed?",
-        "options": [
-          "More aware of spiritual accountability",
-          "Recognize collective consequences of communal sin",
-          "Understand metaphorical language of judgment",
-          "See divine communication as multi-layered"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Destruction serves as a corrective measure to redirect a wayward people",
           "Judgment reveals the inevitable consequences of sustained rebellion against divine principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are one of the men standing beside the prophet as the jar is shattered. You hear that the nation and this city will be shattered like a potter's jar that can never again be repaired. What would you weigh?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Deuteronomy 28:15-68",
+        "summary": "The LORD charges the kings and residents of Jerusalem with abandoning Him for other gods (v. 4). Deuteronomy lists the specific disasters and curses that follow such abandonment.",
+        "question": "How does the list of curses in Deuteronomy help you understand the specific disasters the LORD promises to bring upon Jerusalem in this chapter?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "the people of this city have stiffened their necks so as not to heed the LORD's words",
+        "feeling": "defiance, pride",
+        "object": "a correction from a friend",
+        "behavior": "ignoring the truth",
+        "step": "listen and submit",
+        "template": "from today I bring my {feeling:defiance, pride} about {object:a correction from a friend} into the light and instead of {behavior:ignoring the truth}, I will {step:listen and submit}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God opposes systemic oppression",
-            "expansion": "Divine justice actively confronts structural inequities that exploit the vulnerable."
-          },
-          {
-            "id": 2,
-            "text": "Moral accountability begins in private moments",
-            "expansion": "The seeds of wickedness are sown in personal contemplation before public action."
-          },
-          {
-            "id": 3,
-            "text": "Hubris precedes destruction",
-            "expansion": "Arrogance blinds people to their own impending judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you quietly plan actions that might harm others, how do you distinguish between strategic thinking and moral transgression?"
-      },
-      "moral_slider": {
-        "question": "How do personal property rights balance against communal welfare?",
-        "left_label": "Individual Ownership",
-        "right_label": "Collective Justice"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of power and accountability?",
-        "options": [
-          "I recognize my own potential for subtle oppression",
-          "I see how systemic injustice operates",
-          "I'm more aware of personal moral responsibility",
-          "I understand divine judgment differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Collective community resistance through legal and peaceful means",
           "Prayer and intercession for societal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD announces disaster",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD describes the lament",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people the LORD addresses. He says a disaster is coming from which you cannot free your necks, and that in that day a proverb will be taken up against you: We are utterly ruined! What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Isaiah 46:10",
+        "summary": "The LORD promises to gather the remnant of Israel like sheep in a pen (v. 12). Isaiah says God declares the end from the beginning, and His purpose will stand (Isaiah 46:10).",
+        "question": "How does knowing that His purpose will stand help you trust His promise to gather the remnant of Israel?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "those who plot evil on their beds carry it out at morning's light because the power is in their hands",
+        "feeling": "greed, ambition",
+        "object": "a way to get ahead",
+        "behavior": "using my influence for myself",
+        "step": "seek what is right and fair",
+        "template": "from today I let go of my {feeling:greed, ambition} over {object:a way to get ahead} and instead of {behavior:using my influence for myself}, I will {step:seek what is right and fair}."
       }
     }
   }

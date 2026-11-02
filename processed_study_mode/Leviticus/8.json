@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine preparation most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Divine Instructions",
-            "expansion": "God's meticulous guidance suggests transformation requires careful, intentional steps."
-          },
-          {
-            "id": 2,
-            "text": "Community Witnessing",
-            "expansion": "Communal presence transforms personal consecration into a collective spiritual experience."
-          },
-          {
-            "id": 3,
-            "text": "Ritual of Ordination",
-            "expansion": "Sacred ceremonies symbolize the profound boundary between ordinary and holy status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine selection requires such elaborate preparation, what invisible preparations might be required in your own spiritual journey?"
-      },
-      "moral_slider": {
-        "question": "How much personal agency exists within divine calling?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership shifted?",
-        "options": [
-          "More aware of responsibility",
-          "Recognize complexity of sacred roles",
-          "Appreciate symbolic significance",
-          "Understand spiritual transformation requires intentionality"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God values precise obedience and ceremonial dedication",
           "Priesthood represents a bridge between humanity and divine presence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Moses said to them",
+            "ref": "v. 5",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the assembly gathered at the entrance. The LORD's instruction names Aaron, his sons, their garments, the oil, the bull, the rams and the bread (v. 2). Then Moses tells you, This is what the LORD has commanded to be done. What do you weigh in hearing that?"
+      },
+      "chain": {
+        "after": 30,
+        "ref": "1 Peter 2:9",
+        "summary": "Moses sprinkles anointing oil and blood on Aaron, his sons, and their garments to consecrate them (v. 30). Peter calls his readers a chosen people, a royal priesthood, a holy nation.",
+        "question": "How does Peter's description of a royal priesthood help you understand why Aaron and his sons were marked with blood and oil?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "practice",
+        "because": "Aaron and his sons did everything the LORD had commanded",
+        "feeling": "impatience, doubt",
+        "object": "a difficult instruction",
+        "behavior": "skipping the small details",
+        "step": "follow the word exactly",
+        "template": "from today I let go of my {feeling:impatience, doubt} over {object:a difficult instruction} and instead of {behavior:skipping the small details}, I will {step:follow the word exactly}."
       }
     }
   }

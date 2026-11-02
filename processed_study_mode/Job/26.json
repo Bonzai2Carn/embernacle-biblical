@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What profound insight emerges from Job's rhetorical critique?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Powerlessness of human counsel",
-            "expansion": "Human wisdom crumbles when confronting profound existential suffering."
-          },
-          {
-            "id": "B",
-            "text": "Limitations of human understanding",
-            "expansion": "Our intellectual frameworks are inadequate for comprehending divine mysteries."
-          },
-          {
-            "id": "C",
-            "text": "Spiritual realm's complexity",
-            "expansion": "Unseen spiritual dimensions transcend human perception and comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you claim to offer wisdom, from what source do you truly speak - personal experience or genuine understanding?"
-      },
-      "moral_slider": {
-        "question": "How do human attempts at explanation relate to divine mystery?",
-        "left_label": "Human Reasoning",
-        "right_label": "Divine Incomprehensibility"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual counsel shifted?",
-        "options": [
-          "More humble about my insights",
-          "More aware of complexity",
-          "More respectful of mystery",
-          "More open to uncertainty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Authentic spiritual insight requires humility and divine revelation",
           "Theological debates can obscure genuine spiritual understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "Job asked",
+            "ref": "v. 4",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job said",
+            "ref": "v. 14",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in the place of Bildad. Job asks whose spirit spoke through you, and then says the thunder of God's power is beyond understanding. What would you weigh about what you can say of God?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 147:5",
+        "summary": "Job says God stirred the sea and shattered Rahab by His power and understanding (v. 12). Psalm 147:5 says the LORD's understanding has no limit.",
+        "question": "How does Psalm 147:5 help you understand the power Job describes in verse 12?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "exposure",
+        "because": "the whisper we hear of Him is faint, and no one can understand the thunder of His power",
+        "feeling": "pride, self-certainty",
+        "object": "my own explanations",
+        "behavior": "claiming to know God's ways fully",
+        "step": "admit how little of His ways I understand",
+        "template": "from today I bring my {feeling:pride, self-certainty} about {object:my own explanations} into the light and instead of {behavior:claiming to know God's ways fully}, I will {step:admit how little of His ways I understand}."
       }
     }
   }

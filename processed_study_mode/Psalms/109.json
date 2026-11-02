@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional layer of this psalm resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Justice Seeking",
-            "expansion": "The psalmist's raw plea for God to address profound personal betrayal and injustice."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability in Prayer",
-            "expansion": "The unfiltered emotional transparency of crying out to God without sanitizing human pain."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Imprecation",
-            "expansion": "The dramatic invocation of spiritual consequences for those who harm the righteous."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In what ways might intense emotional prayer reveal more about the pray-er's inner landscape than about divine intervention?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and spiritual response intersect?",
-        "left_label": "Personal Vengeance",
-        "right_label": "Divine Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of lament and spiritual struggle evolved?",
-        "options": [
-          "Recognized complexity of human emotional experience",
-          "Understood prayer as a space for raw honesty",
-          "Challenged previous assumptions about spiritual composure",
-          "Seen vulnerability as spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As a prophetic foreshadowing of Christ's ultimate judgment",
           "As an example of human limitation in understanding divine justice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 16-18",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 21",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one being attacked. You are calling for justice against a cruel enemy, yet you suddenly turn to ask for kindness. What changes in your heart between these two moments?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Romans 12:19",
+        "summary": "The psalmist asks that this be the LORD's reward to his accusers (v. 20). Romans 12:19 says not to avenge yourselves but to leave room for God's wrath, for vengeance is the Lord's.",
+        "question": "How does Romans 12:19 help you understand the psalmist leaving his accusers' reward to the LORD in verse 20?"
+      },
+      "conviction": {
+        "verse": 30,
+        "frame": "devotion",
+        "because": "I will thank the LORD profusely",
+        "feeling": "bitterness, resentment",
+        "object": "the unfair treatment of others",
+        "behavior": "complaining about my lot",
+        "step": "praise Him in the presence of many",
+        "template": "from today I bring You my {feeling:bitterness, resentment} about {object:the unfair treatment of others} and instead of {behavior:complaining about my lot}, I will {step:praise Him in the presence of many}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual principle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Accountability",
-            "expansion": "Each individual bears responsibility for their actions and their impact on others' spiritual journey."
-          },
-          {
-            "id": 2,
-            "text": "Radical Forgiveness",
-            "expansion": "True spiritual maturity requires extending grace even when repeated offenses challenge our patience."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Sensitivity",
-            "expansion": "Recognizing how our actions might cause spiritual harm to vulnerable believers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If forgiveness is limitless, at what point does accountability become meaningless?"
-      },
-      "moral_slider": {
-        "question": "How do you balance justice and mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual responsibility evolved?",
-        "options": [
-          "I now see the importance of personal accountability",
-          "I recognize forgiveness as a profound spiritual practice",
-          "I understand the potential spiritual impact of my actions",
-          "I'm more aware of protecting vulnerable believers"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Balance justice with mercy, seeking genuine repentance and transformation",
           "Prioritize personal safety and spiritual well-being over repeated reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Jesus asked",
+            "ref": "v. 9",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 10",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the servant who has done everything commanded of him. The master asks whether he thanks the servant for doing what he was told. What would you weigh when you are told to say, 'We are unworthy servants; we have only done our duty'?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Matthew 18:21-22",
+        "summary": "Jesus says to forgive a brother who sins against you seven times in a day and returns to say, 'I repent' (v. 4). Matthew 18:21-22 records Peter asking whether he should forgive up to seven times, and Jesus answers, 'I tell you, seventy-seven times!'",
+        "question": "How does Matthew 18:21-22 help you understand the forgiveness Jesus asks for in Luke 17:4?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "repair",
+        "because": "a brother who sins against you seven times in a day and returns to say 'I repent' must still be forgiven",
+        "feeling": "resentment, bitterness",
+        "object": "a brother who keeps hurting me",
+        "behavior": "keeping a count of his offenses",
+        "step": "forgive him and speak kindly to him",
+        "template": "from today I turn from my {feeling:resentment, bitterness} toward {object:a brother who keeps hurting me} and instead of {behavior:keeping a count of his offenses}, I will {step:forgive him and speak kindly to him}."
       }
     }
   }

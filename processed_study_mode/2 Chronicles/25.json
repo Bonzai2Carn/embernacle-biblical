@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Following divine law in justice",
-            "expansion": "Amaziah's adherence to Mosaic law regarding punishment demonstrates principled leadership."
-          },
-          {
-            "id": 2,
-            "text": "Maintaining national strength",
-            "expansion": "His military campaigns and strategic thinking reveal a desire to establish national power."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual inconsistency",
-            "expansion": "Despite doing 'right', Amaziah's heart was not fully committed to God's path."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does partial obedience differ fundamentally from true spiritual commitment?"
-      },
-      "moral_slider": {
-        "question": "To what extent can a leader's personal spiritual compromise affect a nation's destiny?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Spiritual Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed after examining this text?",
-        "options": [
-          "Leaders must balance justice and mercy",
-          "Spiritual integrity matters more than external actions",
-          "Personal faith directly impacts national outcomes",
-          "Consistency between internal motivation and external behavior is crucial"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God evaluates heart motivation beyond ritualistic compliance",
           "Leadership requires holistic spiritual integrity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Amaziah asked",
+            "ref": "v. 9",
+            "speaker": "Amaziah"
+          },
+          {
+            "who": "The man of God replied",
+            "ref": "v. 9",
+            "speaker": "The man of God"
+          }
+        ],
+        "question": "Put yourself in Amaziah's place. You ask what to do about the hundred talents you gave to the army of Israel, and the man of God says the LORD is able to give you much more than this. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "1 Samuel 16:7",
+        "summary": "Amaziah did what was right in the eyes of the LORD, but not wholeheartedly (v. 2). In 1 Samuel 16:7 the LORD says man sees the outward appearance, but the LORD sees the heart.",
+        "question": "How does 1 Samuel 16:7 help you understand what it means to do right in the LORD's eyes, but not wholeheartedly?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "Amaziah did what was right in the eyes of the LORD, but not wholeheartedly",
+        "feeling": "indifference, apathy",
+        "object": "my daily devotions",
+        "behavior": "going through the motions",
+        "step": "offer my full attention to Him",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:my daily devotions} and instead of {behavior:going through the motions}, I will {step:offer my full attention to Him}."
       }
     }
   }

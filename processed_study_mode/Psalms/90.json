@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human mortality resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Human life is brief and fragile",
-            "expansion": "Our existence is like grass that flourishes and then quickly withers away."
-          },
-          {
-            "id": "b",
-            "text": "God's eternal perspective transcends human time",
-            "expansion": "A thousand years are like a passing day in God's eternal consciousness."
-          },
-          {
-            "id": "c",
-            "text": "Wisdom comes from understanding life's brevity",
-            "expansion": "Recognizing our limited time helps us cultivate genuine spiritual perspective."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If time is so fleeting, what truly matters in our momentary human experience?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human transience with divine eternity?",
-        "left_label": "Existential Despair",
-        "right_label": "Transcendent Hope"
-      },
-      "reevaluation": {
-        "question": "How might understanding mortality transform your current life choices?",
-        "options": [
-          "Prioritize spiritual growth",
-          "Live with greater intentionality",
-          "Release attachment to temporary achievements",
-          "Cultivate deeper relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding God's timelessness reduces anxiety about personal mortality",
           "Embracing eternal hope transforms our interpretation of present circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying. You ask how long the struggle will last, and then you ask for satisfaction in God's devotion. What does this shift tell you about where the psalmist finds hope?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 40:6-8",
+        "summary": "The psalmist describes human life as grass that springs up in the morning and fades by evening (v. 5-6). Isaiah 40:6-8 uses the image of grass: the grass withers, the people are grass, but the word of our God stands forever.",
+        "question": "How does Isaiah 40:6-8 help you understand the passing days described in this Psalm?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "being taught to number our days gives us a heart of wisdom",
+        "feeling": "anxiety, restlessness",
+        "object": "a busy schedule",
+        "behavior": "rushing through my tasks",
+        "step": "pause to acknowledge God's presence",
+        "template": "from today I bring You my {feeling:anxiety, restlessness} about {object:a busy schedule} and instead of {behavior:rushing through my tasks}, I will {step:pause to acknowledge God's presence}."
       }
     }
   }

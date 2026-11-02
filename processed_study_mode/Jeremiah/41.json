@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound aspect of human betrayal resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Treachery",
-            "expansion": "Ishmael's assassination of Gedaliah reveals how political ambition can destroy collaborative leadership."
-          },
-          {
-            "id": 2,
-            "text": "Violation of Hospitality",
-            "expansion": "The murder occurs during a shared meal, violating sacred social trust and friendship bonds."
-          },
-          {
-            "id": 3,
-            "text": "Cyclical Violence",
-            "expansion": "Ishmael's actions perpetuate a destructive pattern of revenge and retribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal grievance justifies violence, where do we draw the ethical boundary between legitimate resistance and destructive revenge?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact collective community survival?",
-        "left_label": "Individual Agency",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of loyalty and betrayal shifted?",
-        "options": [
-          "Recognized complexity of historical conflict",
-          "Understood vulnerability of leadership",
-          "Seen how personal motives destabilize communities",
-          "Recognized cycles of inherited trauma"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faithful individuals can maintain hope and integrity during systemic chaos",
           "Divine judgment is sometimes executed through human instruments of conflict"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Ten men among them said to Ishmael",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "All the people Ishmael had taken captive turned away",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one of the captives. You see ten men spared because they offer hidden treasure, and then the whole group turns to Johanan. What would you weigh before you choose a side?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Genesis 4:8",
+        "summary": "Ishmael eats a meal with Gedaliah, then strikes him down and kills the men with him (vv. 1-3). Genesis 4:8 tells of Cain speaking to his brother Abel, then rising against him and killing him.",
+        "question": "How does Genesis 4:8 help you understand the violence Ishmael does after the meal in verse 1?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "exposure",
+        "because": "ten men had hidden treasure in the field",
+        "feeling": "greed, fear",
+        "object": "a threat to my life",
+        "behavior": "clinging to what remains",
+        "step": "surrender my need for security",
+        "template": "from today I bring my {feeling:greed, fear} about {object:a threat to my life} into the light and instead of {behavior:clinging to what remains}, I will {step:surrender my need for security}."
       }
     }
   }

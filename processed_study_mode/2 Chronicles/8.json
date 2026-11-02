@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What speaks most profoundly about Solomon's leadership in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic City Building",
-            "expansion": "Solomon's urban development reveals intentional infrastructure planning as a form of national strength."
-          },
-          {
-            "id": 2,
-            "text": "Faithful Implementation of Divine Plans",
-            "expansion": "Each construction project represents obedience to God's broader covenant with David's lineage."
-          },
-          {
-            "id": 3,
-            "text": "Economic and Territorial Expansion",
-            "expansion": "Solomon transforms inherited territories into structured, fortified settlements demonstrating political vision."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do physical constructions reflect spiritual commitments, and can architectural achievements truly represent divine favor?"
-      },
-      "moral_slider": {
-        "question": "To what extent does national prosperity reflect spiritual righteousness?",
-        "left_label": "Prosperity is Worldly",
-        "right_label": "Prosperity is Divine Blessing"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership changed after examining Solomon's approach?",
-        "options": [
-          "Leadership is more about strategic vision",
-          "Spiritual alignment matters more than physical achievements",
-          "Infrastructure development is a form of national worship",
-          "Political power requires multifaceted planning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Military and infrastructural developments are direct manifestations of divine blessing",
           "Leadership success emerges from alignment with divine strategic purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The record names the nations that remained",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Solomon conscripted them as forced laborers",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the people who remained in the land, not an Israelite. You hear that the Israelites were unable to destroy you and that Solomon conscripts you as a forced laborer. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Deuteronomy 7:1-2",
+        "summary": "Solomon makes the remaining people who were not Israelites into forced laborers (vv. 7-8). Deuteronomy 7:1-2 names these same nations and tells Israel to devote them to complete destruction and make no treaty with them.",
+        "question": "How does Moses' command in Deuteronomy 7:1-2 help you weigh the way Solomon treats the people who remained in the land?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "the places the ark of the LORD has entered are holy",
+        "feeling": "indifference, carelessness",
+        "object": "my private spaces",
+        "behavior": "treating everything as common",
+        "step": "set aside time for reverence",
+        "template": "from today I let go of my {feeling:indifference, carelessness} over {object:my private spaces} and instead of {behavior:treating everything as common}, I will {step:set aside time for reverence}."
       }
     }
   }

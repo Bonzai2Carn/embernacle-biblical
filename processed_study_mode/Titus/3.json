@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative insight resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's mercy transcends human merit",
-            "expansion": "Divine grace operates independently of our accomplishments or worthiness."
-          },
-          {
-            "id": 2,
-            "text": "Personal transformation begins with humility",
-            "expansion": "Recognizing our past failures creates space for genuine spiritual growth."
-          },
-          {
-            "id": 3,
-            "text": "Community requires active gentleness",
-            "expansion": "Peaceful interactions emerge from intentional, compassionate engagement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If salvation is not earned through works, what then motivates genuine spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal accountability and divine grace coexist?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal redemption shifted?",
-        "options": [
-          "I see my past failures more compassionately",
-          "I understand grace as unmerited gift",
-          "I recognize the importance of community healing",
-          "I'm more aware of systemic human brokenness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Grace is primarily judicial, legally declaring righteousness",
           "Grace is a gradual process of spiritual reformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul describes our former state",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Paul describes God's rescue",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who once lived in malice and envy. How does the appearance of God's kindness change how you view your own past?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Ephesians 2:8-9",
+        "summary": "God saved us, not by the righteous deeds we had done, but according to His mercy (v. 5). This passage says we are saved by grace through faith, as the gift of God, not by works, so that no one can boast (Eph 2:8-9).",
+        "question": "How does Ephesians 2:8-9 help you understand why Titus 3:5 says God saved us not by the righteous deeds we had done?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "devoting ourselves to good works that meet pressing needs keeps us from being unfruitful",
+        "feeling": "indifference, apathy",
+        "object": "a neighbor in need",
+        "behavior": "ignoring the request",
+        "step": "offer my time and resources",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:a neighbor in need} and instead of {behavior:ignoring the request}, I will {step:offer my time and resources}."
       }
     }
   }

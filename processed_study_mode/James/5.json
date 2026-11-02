@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on wealth most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Wealth can become a moral trap",
-            "expansion": "Material accumulation without ethical consideration corrupts the soul's spiritual landscape."
-          },
-          {
-            "id": 2,
-            "text": "Divine justice sees economic oppression",
-            "expansion": "God hears the unspoken cries of the marginalized and exploited workers."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual wealth transcends material possessions",
-            "expansion": "True richness emerges from character, compassion, and spiritual integrity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your current economic practices were publicly displayed, would they reflect justice or exploitation?"
-      },
-      "moral_slider": {
-        "question": "How do personal economic choices intersect with spiritual accountability?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has this chapter reshaped your understanding of wealth and ethics?",
-        "options": [
-          "I recognize economic actions have spiritual consequences",
-          "I'm more aware of systemic economic injustice",
-          "I feel challenged to examine my own economic behaviors",
-          "I see wealth as a potential spiritual test"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Economic success is a direct sign of God's favor",
           "Wealth should be viewed as a temporary stewardship with ultimate spiritual responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "James says",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "James says",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those suffering in affliction. You look to the prophets for an example of patience, but then you see the end of Job's story. What does the outcome of his life reveal about the character of the Lord?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Matthew 6:19-20",
+        "summary": "James says the riches have rotted and moths have eaten the clothes (vv. 2-3). Matthew 6:19-20 says not to store up treasures on earth where moth and rust destroy, but to store up treasures in heaven.",
+        "question": "How does Matthew 6:19-20 help you weigh the riches described in James 5:2-3?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "the prayer of a righteous man has great power to prevail",
+        "feeling": "guilt, shame",
+        "object": "a mistake I made",
+        "behavior": "hiding my struggle",
+        "step": "confess it to a trusted brother",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a mistake I made} and instead of {behavior:hiding my struggle}, I will {step:confess it to a trusted brother}."
       }
     }
   }

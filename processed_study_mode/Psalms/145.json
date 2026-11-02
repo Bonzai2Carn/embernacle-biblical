@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine attribute resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's Compassion",
-            "expansion": "The infinite tenderness of divine mercy transcends human understanding."
-          },
-          {
-            "id": "2",
-            "text": "God's Sovereignty",
-            "expansion": "The eternal reign of God encompasses all creation with purposeful governance."
-          },
-          {
-            "id": "3",
-            "text": "God's Faithfulness",
-            "expansion": "Divine commitment remains constant despite human frailty and inconsistency."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is a continuous act of worship, what prevents us from experiencing divine presence in every moment?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine greatness with personal humility?",
-        "left_label": "Human Insignificance",
-        "right_label": "Divine Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship transformed?",
-        "options": [
-          "Deeper appreciation of divine complexity",
-          "Recognizing praise as a transformative practice",
-          "Understanding worship beyond ritualistic performance",
-          "Embracing vulnerability in spiritual connection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worship is a continuous state, not merely an event",
           "God's character remains constant despite human circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the singer. You promise to bless His name forever, yet you also state His greatness is unsearchable. How do you praise something that has no end to its greatness?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Revelation 4:8-11",
+        "summary": "The psalmist says all the LORD has made will give Him thanks (v. 10) and every creature should bless His holy name (v. 21). Revelation 4:8-11 shows the living creatures never stopping their praise and the elders casting their crowns before the throne.",
+        "question": "How does Revelation 4:8-11 help you understand the scope of the praise in this psalm?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "trust",
+        "because": "the LORD is near to all who call on Him",
+        "feeling": "loneliness, abandonment",
+        "object": "a difficult season",
+        "behavior": "withdrawing from prayer",
+        "step": "call out to Him in truth",
+        "template": "from today I bring You my {feeling:loneliness, abandonment} about {object:a difficult season} and instead of {behavior:withdrawing from prayer}, I will {step:call out to Him in truth}."
       }
     }
   }

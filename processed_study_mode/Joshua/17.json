@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of tribal inheritance speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Complex Family Lineage",
-            "expansion": "The meticulous tracking of genealogical lines reveals divine precision in allocation."
-          },
-          {
-            "id": 2,
-            "text": "Land Distribution Justice",
-            "expansion": "Even daughters received inheritance, challenging patriarchal norms of the time."
-          },
-          {
-            "id": 3,
-            "text": "Warrior Privilege",
-            "expansion": "Machir's military prowess directly influenced his territorial allocation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal capability transform divine promise from theoretical to tangible?"
-      },
-      "moral_slider": {
-        "question": "To what extent does individual effort complement divine allocation?",
-        "left_label": "Predetermined Destiny",
-        "right_label": "Personal Initiative"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of inheritance and promise shifted?",
-        "options": [
-          "Recognize divine intentionality",
-          "Appreciate generational complexity",
-          "Understand merit-based blessing",
-          "Value individual agency within divine framework"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine allocation reflects unconditional covenant promises to Israel",
           "Geographical distribution symbolizes spiritual accountability and stewardship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The sons of Joseph said to Joshua",
+            "ref": "v. 14",
+            "speaker": "The sons of Joseph"
+          },
+          {
+            "who": "Joshua answered them",
+            "ref": "v. 15",
+            "speaker": "Joshua"
+          }
+        ],
+        "question": "Put yourself in the place of the sons of Joseph. You have received a great blessing, yet you feel your current portion is too small. How does Joshua's response change how you view your strength and your surroundings?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Numbers 27:1-7",
+        "summary": "The daughters of Zelophehad ask for an inheritance because the LORD commanded Moses to give it (v. 4). Numbers 27 records their request and the LORD's answer that they speak correctly.",
+        "question": "How does the LORD's answer in Numbers 27:1-7 help you understand why Joshua gave the daughters an inheritance?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "the Canaanites have iron chariots and are strong, yet you can drive them out",
+        "feeling": "intimidation, fear",
+        "object": "the obstacles in my path",
+        "behavior": "avoiding hard work",
+        "step": "clear the ground ahead of me",
+        "template": "from today I let go of my {feeling:intimidation, fear} over {object:the obstacles in my path} and instead of {behavior:avoiding hard work}, I will {step:clear the ground ahead of me}."
       }
     }
   }

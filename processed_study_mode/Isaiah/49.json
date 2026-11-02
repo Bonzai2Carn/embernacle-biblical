@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Calling and Purpose",
-            "expansion": "Even before birth, individuals are intentionally designed for significant spiritual missions."
-          },
-          {
-            "id": 2,
-            "text": "Redemptive Suffering",
-            "expansion": "Apparent personal struggles can be part of a larger, transformative divine narrative."
-          },
-          {
-            "id": 3,
-            "text": "Universal Restoration Promise",
-            "expansion": "God's restoration plan transcends individual or national boundaries, offering hope to all peoples."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine purpose precedes our conscious awareness, how might this challenge our understanding of personal agency and free will?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine predestination with human free choice?",
-        "left_label": "Absolute Divine Sovereignty",
-        "right_label": "Human Autonomous Choice"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual calling shifted after reflecting on this chapter?",
-        "options": [
-          "More aware of potential deeper purpose",
-          "Questioning previous understanding of personal mission",
-          "Recognizing complexity of divine-human interaction",
-          "Feeling both challenged and inspired"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Collaborative partnership between divine sovereignty and human responsiveness",
           "Mission is entirely contingent upon human performance and effort"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Zion said",
+            "ref": "v. 14",
+            "speaker": "Zion"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 15",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Zion's place, feeling abandoned and forgotten. What does this response reveal about the depth of God's memory?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Acts 1:8",
+        "summary": "The LORD tells His Servant to be a light for the nations and bring salvation to the ends of the earth (v. 6). Acts 1:8 says they will receive power when the Holy Spirit comes and will be witnesses to the ends of the earth.",
+        "question": "How does Acts 1:8 help you understand the reach of the work described in verse 6?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "trust",
+        "because": "those who hope in the LORD will never be put to shame",
+        "feeling": "anxiety, insecurity",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His faithfulness",
+        "template": "from today I entrust my {feeling:anxiety, insecurity} about {object:my uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His faithfulness}."
       }
     }
   }

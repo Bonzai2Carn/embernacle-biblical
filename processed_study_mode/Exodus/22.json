@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which principle of justice resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "restitution",
-            "text": "Restorative Justice",
-            "expansion": "The idea that harm must be repaired, not just punished"
-          },
-          {
-            "id": "proportionality",
-            "text": "Proportional Consequences",
-            "expansion": "Punishment should match the severity of the transgression"
-          },
-          {
-            "id": "vulnerability",
-            "text": "Protection of the Vulnerable",
-            "expansion": "Legal systems must safeguard those who cannot protect themselves"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does self-defense become disproportionate violence, and who determines that boundary?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal property rights with human dignity?",
-        "left_label": "Individual Property",
-        "right_label": "Communal Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of justice evolved?",
-        "options": [
-          "I see justice as more nuanced",
-          "I recognize contextual complexity",
-          "I appreciate restoration over punishment",
-          "I understand systemic vulnerabilities better"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Legal standards reveal God's protective nature toward vulnerable community members",
           "Compassion and accountability can coexist in divine jurisprudence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 27,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 26",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 27",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the person holding your neighbor's cloak as collateral. You hear that it is the only covering he has and that the LORD will hear if he cries out. What do you weigh about keeping it past sunset?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Leviticus 19:33-34",
+        "summary": "The LORD commands the people not to exploit foreign residents because they were once foreigners in Egypt (v. 21). Leviticus expands this command by telling the people to love the foreigner as themselves.",
+        "question": "How does the command to love the stranger as yourself help you understand the weight of the command not to oppress them?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "practice",
+        "because": "the LORD hears the cry of the one who has no other covering, for He is compassionate",
+        "feeling": "indifference, coldness",
+        "object": "someone in need",
+        "behavior": "ignoring their struggle",
+        "step": "offer what I can",
+        "template": "from today I let go of my {feeling:indifference, coldness} over {object:someone in need} and instead of {behavior:ignoring their struggle}, I will {step:offer what I can}."
       }
     }
   }

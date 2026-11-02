@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which parable reveals the most profound spiritual truth?",
-        "choices": [
-          {
-            "id": "mustard_seed",
-            "text": "Mustard Seed Parable",
-            "expansion": "Small beginnings can yield transformative, unexpected spiritual growth"
-          },
-          {
-            "id": "hidden_treasure",
-            "text": "Hidden Treasure Parable",
-            "expansion": "The kingdom of heaven's immeasurable value supersedes all worldly possessions"
-          },
-          {
-            "id": "sower",
-            "text": "Sower Parable",
-            "expansion": "Spiritual receptivity determines the efficacy of divine message"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine truth is universally available, why do some hearts remain unreceptive?"
-      },
-      "moral_slider": {
-        "question": "How do human limitations interact with divine invitation?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual receptivity evolved?",
-        "options": [
-          "More aware of inner spiritual landscape",
-          "Recognize complexity of spiritual understanding",
-          "See divine invitation as nuanced",
-          "Appreciate metaphorical spiritual insights"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual receptivity matters more than religious pedigree",
           "God's redemptive plan transcends human expectations and institutional boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The disciples asked",
+            "ref": "v. 10",
+            "speaker": "The disciples"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 11",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the disciples' place, wondering why Jesus uses such indirect stories. What does His answer reveal about who is meant to grasp these secrets?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Luke 8:4-15",
+        "summary": "Jesus uses the sower to show how different soils receive the word (vv. 4-8). Luke says the seed among thorns is the one who hears, but the worries, riches, and pleasures of this life choke it (Luke 8:14).",
+        "question": "How does Luke 8:14 help you identify the things that might choke the word in your own life?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "the worries of this life and the deceitfulness of wealth choke the word",
+        "feeling": "anxiety, restlessness",
+        "object": "my financial security",
+        "behavior": "constantly checking my accounts",
+        "step": "trust in His provision",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my financial security} and instead of {behavior:constantly checking my accounts}, I will {step:trust in His provision}."
       }
     }
   }

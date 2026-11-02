@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic action of Ezekiel most powerfully represents divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Burning hair in the city center",
-            "expansion": "Divine judgment begins internally, consuming the heart of the community first."
-          },
-          {
-            "id": 2,
-            "text": "Scattering hair in the wind",
-            "expansion": "Dispersion represents total spiritual disintegration and loss of collective identity."
-          },
-          {
-            "id": 3,
-            "text": "Binding few hairs in garment",
-            "expansion": "Mercy preserves a remnant, even amid overwhelming destruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine punishment is ultimately restorative, what transforms suffering from mere destruction to meaningful correction?"
-      },
-      "moral_slider": {
-        "question": "How do we balance divine justice with divine compassion?",
-        "left_label": "Strict Judgment",
-        "right_label": "Merciful Redemption"
-      },
-      "reevaluation": {
-        "question": "After reflecting on this chapter, how has your understanding of divine discipline shifted?",
-        "options": [
-          "I see judgment as more nuanced",
-          "I recognize the complexity of spiritual consequence",
-          "I understand collective responsibility differently",
-          "I'm more aware of symbolic communication in scripture"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Punishment reveals God's commitment to covenant faithfulness",
           "Divine correction aims to provoke spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the nations watching Jerusalem. You see a city set in the center of the world, yet the LORD says she has rebelled more wickedly than you. What does this reveal about the standard the LORD holds for His own people?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Leviticus 26:14-39",
+        "summary": "The LORD describes the withdrawal of His favor and the coming destruction of Jerusalem (v. 11). Leviticus lists these same consequences for a people who reject His statutes and ordinances.",
+        "question": "How does the list of consequences in Leviticus help you understand the weight of the judgment described in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "the people of Jerusalem rejected the LORD's ordinances and did not walk in His statutes",
+        "feeling": "self-righteousness, pride",
+        "object": "my religious routine",
+        "behavior": "ignoring the small commands",
+        "step": "submit my will to His word",
+        "template": "from today I bring my {feeling:self-righteousness, pride} about {object:my religious routine} into the light and instead of {behavior:ignoring the small commands}, I will {step:submit my will to His word}."
       }
     }
   }

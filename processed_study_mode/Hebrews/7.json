@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Melchizedek's mysterious priesthood intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His lack of genealogical record",
-            "expansion": "Melchizedek represents a priesthood beyond human lineage, pointing to a divine, transcendent order."
-          },
-          {
-            "id": 2,
-            "text": "Being 'made like the Son of God'",
-            "expansion": "His typological similarity to Christ suggests a prophetic foreshadowing of a superior, eternal priesthood."
-          },
-          {
-            "id": 3,
-            "text": "Receiving tithes from Abraham",
-            "expansion": "His ability to receive tribute from the patriarch demonstrates his spiritual authority and significance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a priesthood exists outside traditional religious structures, what might that reveal about the nature of spiritual authority?"
-      },
-      "moral_slider": {
-        "question": "How do you understand the tension between human religious systems and divine spiritual realities?",
-        "left_label": "Rigid Institutional Structure",
-        "right_label": "Fluid Spiritual Essence"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of priesthood and spiritual mediation?",
-        "options": [
-          "I see priesthood as more dynamic and spiritual",
-          "I recognize the limitations of human religious systems",
-          "I'm more open to understanding typological connections",
-          "I appreciate the mysterious nature of divine appointments"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Christ's priesthood demonstrates God's persistent redemptive strategy across biblical epochs",
           "Christ's priesthood primarily represents a spiritual, rather than institutional, approach to reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The author asks",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The author answers",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a listener used to the old system. The author claims the old priesthood could not bring perfection. What does the arrival of a new priest reveal about the necessity of a changed law?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Romans 8:34",
+        "summary": "Hebrews 7 describes a priest who always lives to intercede for His people (v. 25). Paul says Christ Jesus, who was raised to life, is at God's right hand and is interceding for us (Romans 8:34).",
+        "question": "How does Paul's picture of Christ interceding at God's right hand help you understand the power of His intercession in verse 25?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "trust",
+        "because": "Christ always lives to intercede for those who draw near",
+        "feeling": "anxiety, inadequacy",
+        "object": "my failures",
+        "behavior": "hiding from God",
+        "step": "approach His throne",
+        "template": "from today I entrust my {feeling:anxiety, inadequacy} about {object:my failures} to God and instead of {behavior:hiding from God}, I will {step:approach His throne}."
       }
     }
   }

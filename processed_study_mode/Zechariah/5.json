@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight resonates most from this vision of the flying scroll?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment is Precise",
-            "expansion": "The scroll's exact measurements suggest God's meticulous accounting of human moral transgressions."
-          },
-          {
-            "id": 2,
-            "text": "Sin Has Systemic Consequences",
-            "expansion": "The curse enters entire households, revealing how individual moral failures impact broader social structures."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Cleansing Requires Confrontation",
-            "expansion": "The flying scroll symbolizes an active, unavoidable divine process of exposing and removing moral corruption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is so precise, what does that reveal about human capacity for self-deception?"
-      },
-      "moral_slider": {
-        "question": "How do personal moral failures relate to communal spiritual health?",
-        "left_label": "Individual Responsibility",
-        "right_label": "Collective Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this prophetic vision challenged your understanding of divine justice?",
-        "options": [
-          "I see judgment as more nuanced",
-          "I recognize the interconnectedness of moral actions",
-          "I understand divine correction differently",
-          "I'm more aware of hidden spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment is restorative, not merely punitive",
           "Spiritual cleansing requires personal and communal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The angel explains the scroll",
+            "ref": "v. 3",
+            "speaker": "The Angel"
+          },
+          {
+            "who": "The LORD of Hosts declares the curse",
+            "ref": "v. 4",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the man who steals or swears falsely by the LORD's name. What would you weigh about a curse that enters your house and destroys it, down to its timbers and stones?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Galatians 6:7-8",
+        "summary": "The LORD says the curse will enter the house of the thief and of the one who swears falsely, and destroy it (v. 4). This passage says God is not mocked, and whatever a man sows, he will reap in return (Gal 6:7-8).",
+        "question": "How does Galatians 6:7-8 help you understand why the curse enters the house of the thief and of the one who swears falsely?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "repair",
+        "because": "the curse will enter the house of the thief and of the one who swears falsely by the LORD's name",
+        "feeling": "evasion, guilt",
+        "object": "what I took",
+        "behavior": "justifying small dishonesty",
+        "step": "return it and admit what I did",
+        "template": "from today I turn from my {feeling:evasion, guilt} toward {object:what I took} and instead of {behavior:justifying small dishonesty}, I will {step:return it and admit what I did}."
       }
     }
   }

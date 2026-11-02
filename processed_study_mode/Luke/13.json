@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on suffering most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Suffering is not necessarily a direct punishment for personal sin",
-            "expansion": "Divine justice operates beyond simplistic cause-and-effect morality"
-          },
-          {
-            "id": 2,
-            "text": "Universal human vulnerability demands universal repentance",
-            "expansion": "Tragedy reveals our shared mortality and spiritual need"
-          },
-          {
-            "id": 3,
-            "text": "Unexpected death calls us to spiritual readiness",
-            "expansion": "Life's unpredictability demands continuous spiritual preparation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is not a direct measure of personal righteousness, how do we understand divine justice and human accountability?"
-      },
-      "moral_slider": {
-        "question": "What determines spiritual consequence: Individual actions or divine mercy?",
-        "left_label": "Personal Accountability",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has this passage shifted your understanding of suffering and redemption?",
-        "options": [
-          "I see suffering more compassionately",
-          "I recognize the importance of personal repentance",
-          "I understand divine judgment differently",
-          "I'm more aware of life's fragility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As random occurrences without spiritual significance",
           "As tests of faith and spiritual resilience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Some of those present told Jesus",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "vv. 2-3",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of those witnesses. When you hear Jesus reject the idea that tragedy is a direct result of specific sins, what does his warning about repentance change for you?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "John 9:1-3",
+        "summary": "Jesus says the eighteen killed when the tower of Siloam fell were not more sinful than others (v. 4-5). John 9:3 says that a man's blindness happened so that the works of God would be displayed in him.",
+        "question": "How does Jesus' answer in John 9:3 help you understand why He rejects the idea that the victims of the tower's fall were more sinful?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "practice",
+        "because": "many will try to enter and will not be able",
+        "feeling": "complacency, laziness",
+        "object": "my spiritual routine",
+        "behavior": "going through the motions",
+        "step": "seek Him with intentionality",
+        "template": "from today I let go of my {feeling:complacency, laziness} over {object:my spiritual routine} and instead of {behavior:going through the motions}, I will {step:seek Him with intentionality}."
       }
     }
   }

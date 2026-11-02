@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea stays with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine mercy transcends human preferences",
-            "expansion": "God's compassion extends beyond cultural or personal biases."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic obedience requires humility",
-            "expansion": "Personal emotional reactions can obstruct divine mission and understanding."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual growth involves confronting personal prejudices",
-            "expansion": "True transformation happens when we challenge our narrow perspectives."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If mercy is universal, why do we struggle to extend compassion beyond our immediate circle of understanding?"
-      },
-      "moral_slider": {
-        "question": "How do personal emotions interact with divine purpose?",
-        "left_label": "Emotional Autonomy",
-        "right_label": "Spiritual Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your thinking changed?",
-        "options": [
-          "I now see compassion as more expansive",
-          "I recognize my own potential for spiritual resistance",
-          "I understand divine love differently",
-          "I'm more aware of my prejudices"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's compassion is not contingent on human approval",
           "Spiritual maturity involves surrendering personal prejudices"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Jonah prayed",
+            "ref": "v. 2",
+            "speaker": "Jonah"
+          },
+          {
+            "who": "The LORD replied",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Jonah's place. You are venting your frustration to God about His mercy. What does His response force you to weigh?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "2 Peter 3:9",
+        "summary": "Jonah prays that he knew God is gracious and compassionate, slow to anger, and relents from sending disaster, and this is why he fled (v. 2). Peter says the Lord is patient, not wanting anyone to perish but everyone to come to repentance.",
+        "question": "How does 2 Peter 3:9 help you understand the mercy that made Jonah so angry?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "Jonah cared about a plant he neither tended nor made grow",
+        "feeling": "self-righteousness, resentment",
+        "object": "a loss I did not cause",
+        "behavior": "blaming others for my discomfort",
+        "step": "acknowledge God's sovereignty over all things",
+        "template": "from today I bring my {feeling:self-righteousness, resentment} about {object:a loss I did not cause} into the light and instead of {behavior:blaming others for my discomfort}, I will {step:acknowledge God's sovereignty over all things}."
       }
     }
   }

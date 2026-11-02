@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about spiritual leadership resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Servant leadership",
-            "expansion": "True spiritual authority emerges from humble service, not positional power."
-          },
-          {
-            "id": 2,
-            "text": "Divine accountability",
-            "expansion": "Ultimate judgment belongs to God, not human perspectives or self-assessment."
-          },
-          {
-            "id": 3,
-            "text": "Stewardship of mysteries",
-            "expansion": "Spiritual leaders are entrusted with revealing divine truths, not controlling them."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human judgment is unreliable, how can we discern spiritual maturity and leadership effectiveness?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal humility with spiritual confidence?",
-        "left_label": "Self-Doubt",
-        "right_label": "Divine Assurance"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of spiritual authority?",
-        "options": [
-          "Recognize leadership as service",
-          "Understand divine perspective trumps human opinion",
-          "Embrace personal accountability to God",
-          "Release need for external validation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal self-assessment is sufficient for spiritual growth",
           "Divine judgment will reveal hidden motivations and true spiritual effectiveness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place. People judge you, and you do not even judge yourself. What does it change for you that the Lord is the one who judges?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "1 Samuel 16:7",
+        "summary": "Paul asks the Corinthians why they boast about things they did not earn (v. 7). This points back to the truth that while people look at outward appearances, God looks at the heart.",
+        "question": "How does the truth of 1 Samuel 16:7 help you understand why Paul tells the Corinthians not to take pride in one man over another?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "it is required of stewards that they be found faithful",
+        "feeling": "anxiety, inadequacy",
+        "object": "a difficult task at work",
+        "behavior": "seeking constant approval",
+        "step": "focus on being steady and true",
+        "template": "from today I let go of my {feeling:anxiety, inadequacy} over {object:a difficult task at work} and instead of {behavior:seeking constant approval}, I will {step:focus on being steady and true}."
       }
     }
   }

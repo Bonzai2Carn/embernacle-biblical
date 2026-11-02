@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which key aspect of trust in God resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God as ultimate security",
-            "expansion": "Recognizing divine protection transcends human limitations and fears."
-          },
-          {
-            "id": "2",
-            "text": "Finding joy in God's presence",
-            "expansion": "Experiencing spiritual fulfillment beyond material possessions or worldly achievements."
-          },
-          {
-            "id": "3",
-            "text": "Confidence in divine guidance",
-            "expansion": "Trusting that God's counsel provides wisdom and direction in life's uncertain paths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your ultimate security is in God, how does this transform your perception of personal vulnerability and risk?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine sovereignty?",
-        "left_label": "Human Independence",
-        "right_label": "Complete Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual trust evolved?",
-        "options": [
-          "More aware of inner spiritual landscape",
-          "Recognize limitations of self-reliance",
-          "Developed deeper appreciation for divine guidance",
-          "Understand trust as an ongoing journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Understanding spiritual inheritance beyond physical possessions",
           "Embracing vulnerability through faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You hear that sorrows multiply for those who chase other gods, and you say the LORD is your chosen portion. What would you understand about why you hold to the LORD?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Acts 2:25-32",
+        "summary": "The psalmist claims God will not abandon his soul or let His Holy One see decay (v. 10). Acts 2:27 repeats this promise, and Acts 2:31 says David foresaw the resurrection of the Christ.",
+        "question": "How does Acts 2:27-31 help you understand the psalmist's confidence that God will not let His Holy One see decay?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "apart from You I have no good thing",
+        "feeling": "restlessness, discontent",
+        "object": "my pursuit of comfort",
+        "behavior": "seeking satisfaction in things",
+        "step": "thank Him for His presence",
+        "template": "from today I bring You my {feeling:restlessness, discontent} about {object:my pursuit of comfort} and instead of {behavior:seeking satisfaction in things}, I will {step:thank Him for His presence}."
       }
     }
   }

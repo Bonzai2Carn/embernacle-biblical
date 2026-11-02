@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which genealogical theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family Legacy",
-            "expansion": "Generations carry forward not just bloodlines, but potential and purpose."
-          },
-          {
-            "id": 2,
-            "text": "Individual Valor",
-            "expansion": "Each person contributes uniquely to their collective narrative."
-          },
-          {
-            "id": 3,
-            "text": "Historical Continuity",
-            "expansion": "Detailed records preserve identity and divine covenant through time."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do ancestral records reveal more about human potential than mere names?"
-      },
-      "moral_slider": {
-        "question": "To what extent do inherited traits determine personal destiny?",
-        "left_label": "Individual Agency",
-        "right_label": "Genetic Predetermination"
-      },
-      "reevaluation": {
-        "question": "How has this genealogical passage shifted your understanding of personal identity?",
-        "options": [
-          "I see myself as part of a larger narrative",
-          "Individual achievement matters more than lineage",
-          "Historical context deeply shapes personal potential",
-          "Genealogy is less important than personal character"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "They provide historical and cultural context for understanding scripture",
           "They reveal divine precision in preserving spiritual inheritance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 23,
+        "ref": "Genesis 12:2-3",
+        "summary": "The chronicler lists the families of Issachar and other tribes (v. 1). God promised Abraham that He would make him into a great nation and bless the families of the earth through him (Genesis 12:2-3).",
+        "question": "How does the sheer number of men and families listed here help you see the scale of the promise made to Abraham?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "remembrance",
+        "because": "tragedy had come upon Ephraim's house",
+        "feeling": "despair, hopelessness",
+        "object": "a recent loss",
+        "behavior": "withdrawing from others",
+        "step": "accept comfort from my community",
+        "template": "from today I let go of my {feeling:despair, hopelessness} over {object:a recent loss} and instead of {behavior:withdrawing from others}, I will {step:accept comfort from my community}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle from this passage resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sacred Boundaries",
-            "expansion": "Divine spaces require deliberate reverence and precise spiritual protocols."
-          },
-          {
-            "id": 2,
-            "text": "Princely Privilege with Responsibility",
-            "expansion": "Leadership carries unique access but demands corresponding accountability."
-          },
-          {
-            "id": 3,
-            "text": "Consecrated Separation",
-            "expansion": "True holiness emerges from intentional distinction from worldly practices."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacred spaces demand such meticulous boundaries, what interior landscapes within yourself require similar careful guardianship?"
-      },
-      "moral_slider": {
-        "question": "How do divine regulations balance between restrictive constraint and spiritual freedom?",
-        "left_label": "Rigid Legalism",
-        "right_label": "Gracious Liberty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline transformed?",
-        "options": [
-          "More appreciative of structural spiritual boundaries",
-          "Recognize leadership's profound spiritual responsibility",
-          "Understand holiness as active, not passive",
-          "See divine regulations as protective, not punitive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolic boundaries communicate spiritual hierarchy and reverence",
           "Ceremonial regulations are primarily historical and culturally limited"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 10-12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Levites who wandered after idols. You are facing the consequences of your iniquity, yet you are still given a role in the temple. What does this tell you about the limits of their punishment?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Leviticus 21:1-24",
+        "summary": "The LORD gives specific rules for priests regarding marriage and purity (vv. 17-24). Leviticus contains similar laws to set the priests apart for holy service.",
+        "question": "How does the law in Leviticus help you understand the purpose of the specific instructions given to the priests in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "remembrance",
+        "because": "the LORD is the priests' inheritance and their possession",
+        "feeling": "anxiety, greed",
+        "object": "financial instability",
+        "behavior": "hoarding resources",
+        "step": "trust in His provision",
+        "template": "from today I let go of my {feeling:anxiety, greed} over {object:financial instability} and instead of {behavior:hoarding resources}, I will {step:trust in His provision}."
       }
     }
   }

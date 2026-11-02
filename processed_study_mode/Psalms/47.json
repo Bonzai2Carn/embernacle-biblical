@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine sovereignty resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's universal kingship",
-            "expansion": "The psalm emphasizes God's reign extends beyond Israel to all nations and peoples."
-          },
-          {
-            "id": "2",
-            "text": "Communal worship and joy",
-            "expansion": "The collective praise demonstrates how spiritual unity transcends individual experience."
-          },
-          {
-            "id": "3",
-            "text": "Divine election and covenant",
-            "expansion": "God's choice of Israel symbolizes a deeper spiritual inheritance and relationship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's sovereignty is universal, what implications does this have for individual human agency and cultural differences?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine universality with cultural specificity?",
-        "left_label": "Cultural Relativism",
-        "right_label": "Universal Divine Truth"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine sovereignty shifted?",
-        "options": [
-          "More inclusive perspective",
-          "Deeper appreciation for communal worship",
-          "Recognize complexity of spiritual inheritance",
-          "Questioning previous assumptions about God's nature"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine authority is absolute and not negotiable",
           "Praise is a strategic spiritual response to God's power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the crowd hearing this call to sing praises. What do you understand about why God is worth singing to as King of all the earth?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Zechariah 14:9",
+        "summary": "The psalmist says God reigns over the nations and is seated on His holy throne (v. 8). Zechariah 14:9 says that on that day the LORD will become King over all the earth, the LORD alone and His name alone.",
+        "question": "How does Zechariah 14:9 help you understand God reigning over the nations (v. 8)?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "the LORD Most High is the great King over all the earth",
+        "feeling": "anxiety, fear",
+        "object": "the news on my screen",
+        "behavior": "worrying about the future",
+        "step": "declare His greatness out loud",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the news on my screen} and instead of {behavior:worrying about the future}, I will {step:declare His greatness out loud}."
       }
     }
   }

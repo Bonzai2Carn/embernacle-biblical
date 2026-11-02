@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept resonates most deeply with you in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Election",
-            "expansion": "The profound mystery of being chosen by God before time began."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Adoption",
-            "expansion": "The transformative understanding of becoming God's children through grace."
-          },
-          {
-            "id": 3,
-            "text": "Predestination",
-            "expansion": "The sovereign plan of God unfolding through intentional, loving selection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God chose us before the foundation of the world, what does this reveal about human free will and divine sovereignty?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine selection with personal agency?",
-        "left_label": "Human Choice",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of God's relationship with humanity?",
-        "options": [
-          "I see God's love as more intentional",
-          "I'm wrestling with the concept of predestination",
-          "I feel more secure in my spiritual identity",
-          "I'm curious about divine mystery"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Predestination represents God's inclusive invitation to all",
           "Individual human choice ultimately determines salvation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Paul says God has made known the mystery",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says the plan is",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone reading that God has made known the mystery of His will. What do you understand when the plan is to bring all things in heaven and on earth together in Christ?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Romans 8:29-30",
+        "summary": "Paul describes God's work of choosing and predestining us for adoption (v. 4-5). Romans uses the same language to show how God calls, justifies, and glorifies those He knows.",
+        "question": "How does the sequence in Romans 8:29-30 help you understand the purpose of the adoption Paul describes in Ephesians 1?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "remembrance",
+        "because": "God has blessed us in Christ with every spiritual blessing in heaven",
+        "feeling": "inadequacy, lack",
+        "object": "my current circumstances",
+        "behavior": "striving for more",
+        "step": "rest in His finished work",
+        "template": "from today I let go of my {feeling:inadequacy, lack} over {object:my current circumstances} and instead of {behavior:striving for more}, I will {step:rest in His finished work}."
       }
     }
   }

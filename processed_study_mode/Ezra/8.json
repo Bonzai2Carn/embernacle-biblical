@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What stands out most about leadership and community in this genealogical account?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Organizational Precision",
-            "expansion": "Detailed family registrations reveal the importance of knowing one's heritage and communal identity."
-          },
-          {
-            "id": 2,
-            "text": "Collaborative Restoration",
-            "expansion": "Multiple families and lineages working together demonstrate unity in rebuilding their spiritual community."
-          },
-          {
-            "id": 3,
-            "text": "Leadership Responsibility",
-            "expansion": "Ezra's meticulous documentation shows the weight of guiding a community through significant transition."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In what ways might detailed genealogical records represent more than just names, but symbolize collective memory and spiritual continuity?"
-      },
-      "moral_slider": {
-        "question": "How do personal ancestry and collective identity intersect in spiritual renewal?",
-        "left_label": "Individual Identity",
-        "right_label": "Communal Heritage"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of community and spiritual leadership evolved?",
-        "options": [
-          "Recognize importance of historical roots",
-          "Appreciate collaborative spiritual work",
-          "Understand leadership as careful documentation",
-          "Value personal and collective narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizes individual and collective identity in God's redemptive plan",
           "Provides administrative framework for spiritual reconstruction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "Ezra was ashamed to ask the king for protection",
+            "ref": "v. 22",
+            "speaker": "Ezra"
+          },
+          {
+            "who": "the people fasted and petitioned God",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Ezra's place. You were ashamed to ask the king for an escort, since you had told him that God's hand is gracious to all who seek Him. Then you fasted and petitioned, and He granted your request. What would you weigh about the road ahead?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Psalm 121:7-8",
+        "summary": "The hand of God protected the travelers from enemies and bandits (v. 31). The Psalmist promises that the Lord will keep you from all harm and watch over your coming and going.",
+        "question": "How does the Psalmist's promise help you trust God with the specific dangers Ezra faced on the road?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "the silver and gold are a freewill offering to the LORD",
+        "feeling": "selfishness, greed",
+        "object": "my extra resources",
+        "behavior": "keeping everything for myself",
+        "step": "set something aside for His work",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my extra resources} and instead of {behavior:keeping everything for myself}, I will {step:set something aside for His work}."
       }
     }
   }

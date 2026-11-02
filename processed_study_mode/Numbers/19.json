@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic aspect of the red heifer ritual most intrigues you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Ritual Purity Process",
-            "expansion": "The complex purification mechanism reveals divine precision in addressing human spiritual contamination."
-          },
-          {
-            "id": "b",
-            "text": "Sacrifice Outside the Camp",
-            "expansion": "The external sacrifice suggests transformation occurs beyond established religious boundaries."
-          },
-          {
-            "id": "c",
-            "text": "Blood Sprinkling Ritual",
-            "expansion": "The seven-fold blood sprinkling symbolizes complete spiritual restoration and divine completeness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might a ritual designed for purification simultaneously reveal the depth of human spiritual vulnerability?"
-      },
-      "moral_slider": {
-        "question": "To what extent does ritualistic obedience demonstrate genuine spiritual transformation?",
-        "left_label": "External Compliance",
-        "right_label": "Internal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual cleansing evolved?",
-        "options": [
-          "More aware of symbolic complexity",
-          "Recognize deeper spiritual dynamics",
-          "Appreciate ritualistic significance",
-          "Understand divine intentionality"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights the necessity of mediated restoration through prescribed rituals",
           "Emphasizes individual responsibility in maintaining spiritual cleanliness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says the ashes are kept",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Imagine you are an Israelite receiving these instructions. An unblemished red heifer is slaughtered outside the camp, and its ashes are kept by the congregation for the water of purification. What would you weigh about this, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Hebrews 9:13-14",
+        "summary": "The ashes of the heifer are kept to prepare water for purification from sin (v. 9). Hebrews 9:14 says the blood of Christ purifies the conscience from works of death.",
+        "question": "How does the cleansing of the conscience in Hebrews 9:14 help you understand what the ashes in this chapter were for?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "exposure",
+        "because": "anything the unclean person touches will become unclean",
+        "feeling": "shame, guilt",
+        "object": "a past mistake",
+        "behavior": "hiding from others",
+        "step": "tell one trusted person what happened",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:a past mistake} into the light and instead of {behavior:hiding from others}, I will {step:tell one trusted person what happened}."
       }
     }
   }

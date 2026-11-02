@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of musical worship resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Organized Musical Service",
-            "expansion": "Structured worship reveals divine order and intentionality in spiritual expression."
-          },
-          {
-            "id": "b",
-            "text": "Prophetic Musical Calling",
-            "expansion": "Music becomes a conduit for spiritual communication beyond mere performance."
-          },
-          {
-            "id": "c",
-            "text": "Generational Legacy of Worship",
-            "expansion": "Musical gifts are inherited and cultivated across familial generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might artistic expression be a form of spiritual service that transcends traditional religious boundaries?"
-      },
-      "moral_slider": {
-        "question": "To what extent is artistic talent a divine gift versus human skill?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Endowment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship evolved?",
-        "options": [
-          "Worship is more than musical performance",
-          "Artistic gifts can be spiritual callings",
-          "Structured worship has deep theological significance",
-          "Musical ministry requires intentional preparation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Musical service requires professional skill and spiritual sensitivity",
           "Musical worship transcends cultural and generational boundaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 7,
+        "ref": "Colossians 3:16",
+        "summary": "The musicians were all trained and skillful in the songs of the LORD (v. 7). Colossians 3:16 speaks of singing psalms, hymns, and spiritual songs with gratitude in the heart to God while the word of Christ dwells richly within.",
+        "question": "How does Colossians 3:16 help you see what should fill the heart of someone who sings, as these musicians did?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "the musicians were all trained and skillful in the songs of the LORD",
+        "feeling": "laziness, indifference",
+        "object": "my time in prayer",
+        "behavior": "rushing through my devotions",
+        "step": "prepare my heart before I begin",
+        "template": "from today I let go of my {feeling:laziness, indifference} over {object:my time in prayer} and instead of {behavior:rushing through my devotions}, I will {step:prepare my heart before I begin}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core principle of wisdom resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Love of Instruction",
-            "expansion": "Embracing correction reveals humility and potential for genuine personal growth."
-          },
-          {
-            "id": 2,
-            "text": "Righteousness as Foundation",
-            "expansion": "True stability emerges from moral integrity, not temporary worldly strategies."
-          },
-          {
-            "id": 3,
-            "text": "Character Reveals Destiny",
-            "expansion": "One's inner thoughts and intentions ultimately shape external outcomes and relationships."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is so valuable, why do most people instinctively resist correction and constructive feedback?"
-      },
-      "moral_slider": {
-        "question": "How do divine favor and personal accountability interact?",
-        "left_label": "Individual Merit",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How might this chapter challenge your previous understanding of wisdom and personal development?",
-        "options": [
-          "I now see correction as opportunity, not criticism",
-          "Character matters more than external achievements",
-          "Wisdom is a continuous journey of learning",
-          "Integrity creates sustainable personal strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual maturity requires continuous learning",
           "Internal righteousness precedes external success"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The writer says",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who believes their own way is right. What do you understand about the difference between trusting your own eyes and listening to counsel?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Hebrews 12:6",
+        "summary": "Proverbs 12 says whoever loves discipline loves knowledge, but the one who hates correction is stupid (v. 1). Hebrews adds that the Lord disciplines the one He loves and chastises every son He receives (12:6).",
+        "question": "How does Hebrews 12:6 help you understand why discipline is worth loving?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "pacing",
+        "because": "a fool's anger is known at once, but a prudent man overlooks an insult",
+        "feeling": "irritation, anger",
+        "object": "a careless remark from a friend",
+        "behavior": "snapping back at once",
+        "step": "let the insult pass today",
+        "template": "from today I set down my {feeling:irritation, anger} about {object:a careless remark from a friend} and instead of {behavior:snapping back at once}, I will {step:let the insult pass today}."
       }
     }
   }

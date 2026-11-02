@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual leadership challenges you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Integrity of Priestly Duties",
-            "expansion": "True spiritual leadership demands consistent moral alignment beyond ritualistic performance."
-          },
-          {
-            "id": 2,
-            "text": "Honoring Divine Covenant",
-            "expansion": "Maintaining sacred relationships requires deliberate commitment and reverent accountability."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Spiritual Negligence",
-            "expansion": "Institutional religious roles carry profound spiritual and communal responsibilities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal compromises in spiritual leadership potentially corrupt systemic integrity?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious leaders be held to higher moral standards?",
-        "left_label": "Individual Grace",
-        "right_label": "Institutional Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognize deeper personal responsibility",
-          "Understand systemic spiritual consequences",
-          "Appreciate nuanced divine expectations",
-          "Acknowledge complexity of covenant relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Institutional religious roles do not exempt leaders from personal spiritual responsibility",
           "Genuine spiritual leadership prioritizes God's glory over personal reputation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD of Hosts"
+          },
+          {
+            "who": "The LORD of Hosts charges the priests",
+            "ref": "v. 8",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the priests hearing this. You hear that the covenant with Levi was one of life and peace, and that he revered the LORD, and then you hear that you have departed from the way and caused many to stumble. What do you weigh?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Genesis 2:24",
+        "summary": "The LORD has been a witness between the people and the wife of their youth, against whom they have broken faith (v. 14), and He asks whether He has not made them one (v. 15). Genesis 2:24 says a man will leave his father and mother and be united to his wife, and they will become one flesh.",
+        "question": "How does Genesis 2:24 help you understand what it means that the LORD made husband and wife one in Malachi 2:15?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "the LORD, the God of Israel, hates divorce",
+        "feeling": "selfishness, neglect",
+        "object": "my closest relationships",
+        "behavior": "breaking faith in small ways",
+        "step": "keep one promise I have made",
+        "template": "from today I let go of my {feeling:selfishness, neglect} over {object:my closest relationships} and instead of {behavior:breaking faith in small ways}, I will {step:keep one promise I have made}."
       }
     }
   }

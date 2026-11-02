@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about the Israelites' crisis of faith?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Fear of the unknown",
-            "expansion": "The terror of facing uncertain challenges can paralyze collective courage."
-          },
-          {
-            "id": 2,
-            "text": "Collective trauma response",
-            "expansion": "Generational oppression creates deep psychological wounds that manifest as resistance to change."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual immaturity",
-            "expansion": "Trusting divine guidance requires transcending immediate emotional reactions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If freedom requires courage, and comfort requires compliance, what truly defines your personal wilderness?"
-      },
-      "moral_slider": {
-        "question": "How do past traumas influence present faith commitments?",
-        "left_label": "Wounded Skepticism",
-        "right_label": "Transformative Trust"
-      },
-      "reevaluation": {
-        "question": "How might your perspective on challenges have shifted?",
-        "options": [
-          "I see obstacles as opportunities",
-          "I recognize collective fear's destructive power",
-          "I understand faith as an active, courageous choice",
-          "I'm more aware of generational psychological patterns"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Collective unbelief impacts entire community's spiritual trajectory",
           "Individual faithfulness can transcend communal limitation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The congregation said it would be better to go back to Egypt",
+            "ref": "v. 3",
+            "speaker": "The whole congregation"
+          },
+          {
+            "who": "Joshua said the land is good and the LORD will bring them in",
+            "ref": "vv. 7-8",
+            "speaker": "Joshua"
+          }
+        ],
+        "question": "Put yourself among the congregation. You hear the people say it would be better to return to Egypt. Then you hear Joshua say the land is exceedingly good. What would you weigh about each, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 35,
+        "ref": "Hebrews 3:19",
+        "summary": "The LORD says this entire wicked congregation will die in the wilderness (v. 35). Hebrews says that the people were unable to enter because of their unbelief (Hebrews 3:19).",
+        "question": "How does the unbelief named in Hebrews 3:19 help you understand why the congregation could not enter the land in Numbers 14?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "trust",
+        "because": "the LORD is with us, and the protection of the people of the land has been removed",
+        "feeling": "fear, dread",
+        "object": "the people living in the land",
+        "behavior": "grumbling against my leaders",
+        "step": "walk forward with the LORD's presence",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:the people living in the land} to God and instead of {behavior:grumbling against my leaders}, I will {step:walk forward with the LORD's presence}."
       }
     }
   }

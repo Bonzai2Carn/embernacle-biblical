@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What significant theme emerges from Saul's unexpected journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Preparation",
-            "expansion": "God orchestrates seemingly random events to position leaders for His purpose."
-          },
-          {
-            "id": 2,
-            "text": "Humility Before Calling",
-            "expansion": "Saul begins his journey in a humble state of searching for lost donkeys, unaware of his future destiny."
-          },
-          {
-            "id": 3,
-            "text": "Providence in Detail",
-            "expansion": "Even small, mundane tasks can be part of a larger divine narrative of transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might the things we perceive as interruptions or setbacks actually be God's strategic positioning for our ultimate calling?"
-      },
-      "moral_slider": {
-        "question": "To what extent do human plans intersect with divine design?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and calling shifted after examining this passage?",
-        "options": [
-          "Leadership is more about divine selection than human qualification",
-          "Unexpected journeys often precede significant life transformations",
-          "Humility is a prerequisite for meaningful leadership",
-          "God's plans transcend human limitations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine providence transcends human planning and logic",
           "Leadership potential is determined more by character than physical traits"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "The LORD said to Samuel",
+            "ref": "v. 16",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "Samuel saw Saul and the LORD told him",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Samuel's place. The LORD tells you a specific man is coming to lead Israel. When you see Saul, how does that moment change your view of what you just heard?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Proverbs 16:9",
+        "summary": "Saul and his servant set out to find lost donkeys (v. 5), but they end up finding a new king (v. 17). This shows how a person's plans meet a higher purpose.",
+        "question": "How does the outcome of Saul's search for animals help you understand the way a person's steps are directed?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "trust",
+        "because": "the lost donkeys have been found",
+        "feeling": "anxiety, worry",
+        "object": "the donkeys I lost days ago",
+        "behavior": "ruminating on the loss",
+        "step": "rest in His provision",
+        "template": "from today I entrust my {feeling:anxiety, worry} about {object:the donkeys I lost days ago} to God and instead of {behavior:ruminating on the loss}, I will {step:rest in His provision}."
       }
     }
   }

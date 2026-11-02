@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about destruction and generational impact?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Locust devastation as metaphorical destruction",
-            "expansion": "Systemic loss can consume everything progressively, layer by layer."
-          },
-          {
-            "id": "b",
-            "text": "Importance of generational storytelling",
-            "expansion": "Preserving collective memory ensures wisdom's transmission across time."
-          },
-          {
-            "id": "c",
-            "text": "Divine communication through calamity",
-            "expansion": "Profound disruptions might be invitations to deeper spiritual reflection."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If catastrophic loss strips away everything familiar, what truly remains at your core?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's apparent destructiveness with divine love?",
-        "left_label": "Divine Judgment",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has this text transformed your understanding of suffering?",
-        "options": [
-          "Suffering has spiritual purpose",
-          "Collective experience matters more than individual pain",
-          "Resilience emerges through communal storytelling",
-          "Destruction can be a form of spiritual reset"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As random environmental events without spiritual significance",
           "As opportunities for demonstrating divine mercy and restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The prophet cries",
+            "ref": "v. 15",
+            "speaker": ""
+          },
+          {
+            "who": "The people see",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people watching the destruction. What would you weigh about the food cut off before your very eyes, when the prophet calls this day destruction from the Almighty?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Psalm 78:4-7",
+        "summary": "Joel tells the people to tell this devastation to their children, and their children to the next generation (v. 3). The psalmist says they will not hide God's works from their children but will declare them to the next generation.",
+        "question": "How does Psalm 78:4-7 help you understand why Joel wants this devastation told to the next generation?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "remembrance",
+        "because": "fire has consumed the open pastures",
+        "feeling": "panic, helplessness",
+        "object": "a sudden loss",
+        "behavior": "running in circles",
+        "step": "call out to the LORD",
+        "template": "from today I let go of my {feeling:panic, helplessness} over {object:a sudden loss} and instead of {behavior:running in circles}, I will {step:call out to the LORD}."
       }
     }
   }

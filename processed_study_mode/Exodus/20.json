@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine principle most resonates with personal transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Authority",
-            "expansion": "Understanding God's sovereignty as a foundational framework for ethical living."
-          },
-          {
-            "id": 2,
-            "text": "Intergenerational Accountability",
-            "expansion": "Recognizing how personal choices impact familial and communal legacy."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Exclusivity",
-            "expansion": "Embracing the radical commitment of monotheism in a polytheistic world."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine commandments are universal, how do individual cultural contexts negotiate their interpretation and implementation?"
-      },
-      "moral_slider": {
-        "question": "How do personal freedom and divine prescription coexist?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine relationship evolved?",
-        "options": [
-          "More aware of personal responsibility",
-          "Deeper appreciation for spiritual boundaries",
-          "Reconsidering transactional versus transformational faith",
-          "Recognizing complexity of moral frameworks"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The commandments establish foundational principles for human relationships",
           "They illustrate God's redemptive purpose in establishing covenant guidelines"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "God says",
+            "ref": "v. 8",
+            "speaker": "God"
+          },
+          {
+            "who": "God says",
+            "ref": "v. 11",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite hearing this command. The LORD tells you to remember the Sabbath day and keep it holy. What does it mean to rest, knowing that He rested on the seventh day after making the heavens and the earth?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Matthew 22:37-40",
+        "summary": "The commandments open with having no other gods before the LORD (v. 3) and close with not coveting a neighbor's house or wife (v. 17). Jesus names love for God as the greatest command and love for one's neighbor as the second like it (Matthew 22:37-40).",
+        "question": "How does Jesus' summary of love for God and neighbor help you understand the purpose of the commandments in Exodus 20?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "the Sabbath day must be remembered and kept holy",
+        "feeling": "distraction, restlessness",
+        "object": "a crowded week",
+        "behavior": "filling my day of rest with errands",
+        "step": "set aside one day for rest",
+        "template": "from today I let go of my {feeling:distraction, restlessness} over {object:a crowded week} and instead of {behavior:filling my day of rest with errands}, I will {step:set aside one day for rest}."
       }
     }
   }

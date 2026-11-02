@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual hospitality resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Supporting traveling missionaries",
-            "expansion": "Practical faith means creating tangible pathways for spiritual work to continue."
-          },
-          {
-            "id": 2,
-            "text": "Walking in truth authentically",
-            "expansion": "Personal integrity is the foundational cornerstone of genuine spiritual witness."
-          },
-          {
-            "id": 3,
-            "text": "Loving beyond immediate community",
-            "expansion": "True Christian love transcends personal familiarity and extends to strangers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual truth is a journey, how do we distinguish between genuine hospitality and mere performative kindness?"
-      },
-      "moral_slider": {
-        "question": "How do personal comfort and spiritual service balance?",
-        "left_label": "Personal Comfort",
-        "right_label": "Sacrificial Service"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your understanding of Christian community?",
-        "options": [
-          "I see hospitality more as an active verb",
-          "Truth requires both words and actions",
-          "Supporting missionaries matters deeply",
-          "Love extends beyond familiar circles"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Truth is exclusively about personal spiritual experiences",
           "Truth requires both theological understanding and missional action"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The elder describes Diotrephes",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "The elder says",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the church receiving these words. You hear of a man who slanders, refuses the brothers, and puts people out. What do you understand when you are told not to imitate what is evil, but what is good?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Matthew 25:40",
+        "summary": "The elder praises Gaius for his faithfulness to the brothers, especially since they are strangers to him (v. 5). Matthew 25:40 says the King will reply that whatever you did for one of the least of these brothers of His, you did for Him.",
+        "question": "How does Matthew 25:40 help you understand the weight of Gaius's care for the brothers?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "the one who does good is of God",
+        "feeling": "jealousy, competition",
+        "object": "someone else's success",
+        "behavior": "seeking recognition",
+        "step": "praise their progress",
+        "template": "from today I let go of my {feeling:jealousy, competition} over {object:someone else's success} and instead of {behavior:seeking recognition}, I will {step:praise their progress}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most challenges your understanding of divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's comprehensive judgment against Babylon",
-            "expansion": "Divine justice operates beyond immediate human comprehension, targeting systemic evil."
-          },
-          {
-            "id": 2,
-            "text": "The inevitability of imperial decline",
-            "expansion": "Power structures that oppose divine moral order are ultimately transient."
-          },
-          {
-            "id": 3,
-            "text": "The role of prophetic warning",
-            "expansion": "Prophecy serves as both a cautionary message and a mechanism of spiritual accountability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately restorative, not merely punitive, how might our understanding of consequence transform?"
-      },
-      "moral_slider": {
-        "question": "How do national accountability and individual responsibility intersect in divine justice?",
-        "left_label": "Collective Guilt",
-        "right_label": "Individual Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on historical cycles of power shifted?",
-        "options": [
-          "Recognize deeper spiritual dynamics in geopolitical events",
-          "Understand justice as more complex than simple retribution",
-          "See prophecy as interpretive lens, not merely prediction",
-          "Appreciate the long-arc perspective of spiritual transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant Faithfulness: Shows God's ongoing commitment to Israel",
           "Redemptive Purpose: Indicates God's transformative plan beyond destruction"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The helpers say",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those who hear a call to get balm for her pain, in case she can be healed. Then you say, \"We tried to heal Babylon, but she could not be healed.\" What would you weigh before you abandon her?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 43:1-3",
+        "summary": "The LORD made the earth by His power and stretched out the heavens by His understanding (v. 15). Isaiah says the LORD who formed Jacob calls His people by name and promises that the waters will not overwhelm them (Isa 43:1-2).",
+        "question": "How does Isaiah 43:1-3 help you trust the power that made the earth in verse 15?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "remembrance",
+        "because": "Israel and Judah have not been abandoned by their God",
+        "feeling": "loneliness, abandonment",
+        "object": "a season of silence",
+        "behavior": "doubting His presence",
+        "step": "recall His past faithfulness",
+        "template": "from today I let go of my {feeling:loneliness, abandonment} over {object:a season of silence} and instead of {behavior:doubting His presence}, I will {step:recall His past faithfulness}."
       }
     }
   }

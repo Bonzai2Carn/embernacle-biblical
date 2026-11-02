@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's judgment of oppressive leadership",
-            "expansion": "Power corrupts, and systemic injustice invites divine correction."
-          },
-          {
-            "id": 2,
-            "text": "The vulnerability of the marginalized",
-            "expansion": "Social structures that exploit the weak reveal fundamental spiritual brokenness."
-          },
-          {
-            "id": 3,
-            "text": "Inevitable consequences of unrighteous actions",
-            "expansion": "Moral choices create trajectories with inescapable spiritual momentum."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is real, how do we distinguish between legitimate accountability and vengeful punishment?"
-      },
-      "moral_slider": {
-        "question": "How do societal power structures relate to spiritual accountability?",
-        "left_label": "Individual Responsibility",
-        "right_label": "Systemic Culpability"
-      },
-      "reevaluation": {
-        "question": "How has this passage transformed your understanding of justice?",
-        "options": [
-          "I see systemic oppression more clearly",
-          "I recognize spiritual consequences more deeply",
-          "I understand divine judgment differently",
-          "I feel more empathy for the marginalized"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic judgment represents symbolic rather than literal geopolitical processes",
           "Divine interventions are primarily metaphorical representations of spiritual principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The king of Assyria says",
+            "ref": "vv. 13-14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who hear that the LORD will punish the king of Assyria, and then hear the king say his own hand and wisdom did all this. What do you weigh about his claim?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Habakkuk 1:6-11",
+        "summary": "The LORD calls Assyria the rod of His anger (v. 5), and the king boasts 'By the strength of my hand I have done this' (v. 13). Habakkuk 1 has the LORD raising up the Chaldeans, a ruthless nation, and says of them, 'their own strength is their god.'",
+        "question": "How does Habakkuk's description of a nation whose own strength is its god help you understand the king's boast in Isaiah 10?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "remembrance",
+        "because": "on that day the burden will be lifted from the shoulders and the yoke broken from the neck",
+        "feeling": "anxiety, dread",
+        "object": "a heavy season of pressure",
+        "behavior": "trying to carry it all alone",
+        "step": "hand each burden to God in prayer",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a heavy season of pressure} and instead of {behavior:trying to carry it all alone}, I will {step:hand each burden to God in prayer}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical element resonates most with intimate spiritual connection?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The lover waiting outside",
-            "expansion": "Symbolizes divine presence seeking intimate communion beyond physical barriers"
-          },
-          {
-            "id": 2,
-            "text": "The nighttime encounter",
-            "expansion": "Represents spiritual revelations emerging in moments of vulnerability and darkness"
-          },
-          {
-            "id": 3,
-            "text": "The reluctance to immediately respond",
-            "expansion": "Illustrates human hesitation in fully surrendering to spiritual intimacy"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What prevents us from immediately recognizing and responding to transformative spiritual invitations?"
-      },
-      "moral_slider": {
-        "question": "How do human emotional barriers intersect with spiritual receptivity?",
-        "left_label": "Personal Resistance",
-        "right_label": "Divine Intimacy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual connection evolved through this passage?",
-        "options": [
-          "More aware of nuanced spiritual intimacy",
-          "Recognize complexity of human-divine relationship",
-          "Understand vulnerability as spiritual strength",
-          "Appreciate metaphorical language of connection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Symbolizes Christ's persistent love despite human weakness",
           "Illustrates the mutual longing between believers and their Savior"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The daughters of Jerusalem ask",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "The bride answers",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the daughters of Jerusalem. You ask how her beloved is better than others. What would you still weigh after hearing that he is outstanding among ten thousand?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Isaiah 62:5",
+        "summary": "The bride describes her beloved as outstanding among ten thousand (v. 10). Isaiah says that as a bridegroom rejoices over his bride, so God will rejoice over His people (Isa 62:5).",
+        "question": "How does Isaiah 62:5 help you understand the delight in the bride's description of her beloved?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "my beloved's mouth is most sweet, and he is altogether lovely",
+        "feeling": "distraction, discontent",
+        "object": "the beauty of the world",
+        "behavior": "seeking satisfaction in things",
+        "step": "read Song 5:16 aloud each morning",
+        "template": "from today I bring You my {feeling:distraction, discontent} about {object:the beauty of the world} and instead of {behavior:seeking satisfaction in things}, I will {step:read Song 5:16 aloud each morning}."
       }
     }
   }

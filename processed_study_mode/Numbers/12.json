@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership and divine communication resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Moses' Extraordinary Humility",
-            "expansion": "True leadership emerges not from self-promotion, but from profound inner quietness and divine trust."
-          },
-          {
-            "id": 2,
-            "text": "Divine Accountability for Criticism",
-            "expansion": "God directly addresses interpersonal conflicts that challenge legitimate spiritual authority."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected Consequences of Jealousy",
-            "expansion": "Envy can lead to spiritual punishment and relational fracture, even among close family members."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you critique leadership, are you motivated by genuine concern or personal ambition?"
-      },
-      "moral_slider": {
-        "question": "How do you balance respectful disagreement with spiritual authority?",
-        "left_label": "Personal Judgment",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of leadership and divine communication shift after reflecting on this passage?",
-        "options": [
-          "Recognize the importance of humility",
-          "Understand divine perspective transcends human perception",
-          "Appreciate the complexity of spiritual relationships",
-          "Acknowledge the risks of unchecked criticism"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize God's sovereignty in leadership appointments",
           "Avoid gossip and destructive criticism"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Miriam and Aaron said",
+            "ref": "v. 2",
+            "speaker": "Miriam and Aaron"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "vv. 6-8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of Miriam and Aaron. You claim a shared authority with Moses, but the LORD responds by defining Moses's unique closeness to Him. What does this distinction reveal about the nature of the authority you were challenging?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "James 4:6",
+        "summary": "Miriam and Aaron challenged Moses, saying the LORD speaks through them too (v. 2). The LORD answered with judgment, and Miriam became leprous (v. 10). James writes that God opposes the proud but gives grace to the humble (James 4:6).",
+        "question": "How does the promise of grace to the humble in James 4:6 help you view the LORD's response to Miriam and Aaron?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "Moses was a very humble man",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "seeking credit from others",
+        "step": "quietly serve someone in need",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my own achievements} and instead of {behavior:seeking credit from others}, I will {step:quietly serve someone in need}."
       }
     }
   }

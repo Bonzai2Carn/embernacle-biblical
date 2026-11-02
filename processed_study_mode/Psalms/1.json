@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on wisdom resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Avoiding negative influences",
-            "expansion": "Wisdom begins by understanding who and what to distance oneself from."
-          },
-          {
-            "id": 2,
-            "text": "Delighting in divine instruction",
-            "expansion": "True joy emerges from alignment with spiritual principles."
-          },
-          {
-            "id": 3,
-            "text": "Recognizing life's fundamental distinctions",
-            "expansion": "There are fundamental differences between righteous and unrighteous paths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is a choice, what invisible pressures unconsciously guide your current path?"
-      },
-      "moral_slider": {
-        "question": "How do personal choices shape spiritual trajectory?",
-        "left_label": "Circumstantial Determinism",
-        "right_label": "Intentional Spiritual Agency"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of personal growth have shifted?",
-        "options": [
-          "Recognizing spiritual development as intentional",
-          "Understanding wisdom as active, not passive",
-          "Seeing life choices as interconnected",
-          "Appreciating nuanced paths of righteousness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual disciplines determine long-term life outcomes",
           "Personal choices reflect deeper spiritual alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist describes the righteous",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes the wicked",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself beside a stream, watching a tree that bears fruit in season and then chaff driven off by the wind. What do you understand about why the two are so different?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Jeremiah 17:7-8",
+        "summary": "Psalm 1 describes a tree planted by streams of water that does not wither (v. 3). Jeremiah uses this same image to describe the man who trusts in the LORD.",
+        "question": "How does Jeremiah 17:8 add more detail to the image of the tree in Psalm 1:3?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "the man does not walk in the counsel of the wicked",
+        "feeling": "cynicism, doubt",
+        "object": "the opinions of my peers",
+        "behavior": "listening to their advice",
+        "step": "return to the Law of the LORD",
+        "template": "from today I let go of my {feeling:cynicism, doubt} over {object:the opinions of my peers} and instead of {behavior:listening to their advice}, I will {step:return to the Law of the LORD}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound insight resonates most about spiritual leadership?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Shepherds exploiting their followers",
-            "expansion": "Power can corrupt leaders who prioritize personal gain over genuine care and nurturing."
-          },
-          {
-            "id": 2,
-            "text": "Divine accountability for leadership",
-            "expansion": "God holds spiritual guides responsible for the spiritual and practical welfare of their community."
-          },
-          {
-            "id": 3,
-            "text": "Restoration of the vulnerable",
-            "expansion": "True leadership means healing, strengthening, and restoring those who are marginalized or wounded."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leadership is meant to serve, how do we distinguish between genuine care and self-interested manipulation?"
-      },
-      "moral_slider": {
-        "question": "How do institutional power and spiritual authenticity coexist?",
-        "left_label": "Institutional Control",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognize systemic exploitation",
-          "Understand divine expectations of leaders",
-          "Prioritize compassion over hierarchy",
-          "See leadership as sacred responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Congregants share responsibility in holding leaders accountable",
           "Divine grace supersedes human leadership shortcomings"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 8-9",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the shepherds being judged. The LORD declares His opposition to you because of how you treated the flock. What does His plan to remove you from tending them reveal about His true heart for the sheep?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "John 10:11-16",
+        "summary": "The LORD promises to personally search for and seek out His scattered sheep (v. 11-12). Jesus describes Himself as the Good Shepherd who knows His sheep and lays down His life for them (v. 11, 14).",
+        "question": "How does Jesus' description of His relationship to His sheep help you understand the LORD's promise to rescue them from the places where they were scattered?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "the shepherds did not strengthen the weak or bring back the strays",
+        "feeling": "indifference, selfishness",
+        "object": "someone in need of help",
+        "behavior": "ignoring their struggle",
+        "step": "seek them out and offer support",
+        "template": "from today I let go of my {feeling:indifference, selfishness} over {object:someone in need of help} and instead of {behavior:ignoring their struggle}, I will {step:seek them out and offer support}."
       }
     }
   }

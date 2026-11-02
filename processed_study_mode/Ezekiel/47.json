@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual imagery in this water vision most resonates with your understanding of divine transformation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Waters incrementally deepening",
-            "expansion": "Spiritual growth happens progressively, not instantaneously"
-          },
-          {
-            "id": 2,
-            "text": "Waters bringing life everywhere they flow",
-            "expansion": "Divine presence transforms even the most barren landscapes of human experience"
-          },
-          {
-            "id": 3,
-            "text": "Waters healing the Dead Sea",
-            "expansion": "God's redemptive power can restore the most seemingly hopeless situations"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual transformation is like a gradually deepening river, what personal 'terrain' in your life might still resist being nourished?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine healing and human participation in restoration?",
-        "left_label": "Passive Reception",
-        "right_label": "Active Collaboration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual renewal shifted after reflecting on this passage?",
-        "options": [
-          "More aware of gradual transformation",
-          "Recognize divine power beyond human limitations",
-          "See potential for healing in seemingly dead spaces",
-          "Understand spirituality as an active, dynamic process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Universal healing demonstrates divine restoration potential",
           "Temple origin indicates centrality of divine presence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The guide explains",
+            "ref": "v. 8",
+            "speaker": "Unidentified Guide"
+          },
+          {
+            "who": "God says",
+            "ref": "v. 9",
+            "speaker": "God"
+          }
+        ],
+        "question": "Imagine you are beside this river. You hear that its water becomes fresh when it empties into the Sea. What would you expect to flourish wherever the river flows?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Revelation 22:1-2",
+        "summary": "The river from the sanctuary feeds fruit trees that bear fruit each month and have leaves for healing (v. 12). Revelation describes the tree of life bearing its fruit each month, with leaves for the healing of the nations (Rev 22:2).",
+        "question": "How does Revelation 22:1-2 help you understand the healing leaves that Ezekiel describes?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "the water from the sanctuary flows to the trees, so their leaves will not wither and their fruit will not fail",
+        "feeling": "hopelessness, resignation",
+        "object": "a dry season",
+        "behavior": "giving up on growth",
+        "step": "keep tending one small habit each week",
+        "template": "from today I entrust my {feeling:hopelessness, resignation} about {object:a dry season} to God and instead of {behavior:giving up on growth}, I will {step:keep tending one small habit each week}."
       }
     }
   }

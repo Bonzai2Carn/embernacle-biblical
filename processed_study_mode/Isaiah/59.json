@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual separation speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Sin's barrier between humanity and God",
-            "expansion": "The profound distance created by human moral failure disrupts divine connection."
-          },
-          {
-            "id": 2,
-            "text": "Collective spiritual blindness",
-            "expansion": "Societal moral decay undermines individual and communal spiritual perception."
-          },
-          {
-            "id": 3,
-            "text": "Divine readiness to redeem",
-            "expansion": "God's capacity for restoration remains constant despite human brokenness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If our own righteousness is as 'filthy rags', what transformative power could possibly restore genuine spiritual alignment?"
-      },
-      "moral_slider": {
-        "question": "To what degree do personal sins genuinely interrupt divine communication?",
-        "left_label": "Total Separation",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "Recognize deeper personal responsibility",
-          "Understand systemic spiritual brokenness",
-          "Appreciate divine mercy more profoundly",
-          "See redemption as an active process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal accountability is central to spiritual restoration",
           "Collective national sin impacts spiritual climate"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The prophet describes",
+            "ref": "v. 15",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those looking for an intercessor. When you see that no human is found to stand in the gap, how does the sight of God acting on His own change your view of the problem?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 66:18",
+        "summary": "The prophet explains that sins create a barrier that prevents God from hearing (v. 2). The psalmist shows the consequence of holding onto sin in the heart.",
+        "question": "How does the psalmist's warning about the heart help you understand why the people's sins hid God's face from them in Isaiah?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "remembrance",
+        "because": "the LORD's words that He put in your mouth will not depart from your mouth or from the mouths of your children",
+        "feeling": "anxiety, fear",
+        "object": "the future of my family",
+        "behavior": "worrying about their faith",
+        "step": "speak His promises over them",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the future of my family} and instead of {behavior:worrying about their faith}, I will {step:speak His promises over them}."
       }
     }
   }

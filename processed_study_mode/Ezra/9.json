@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual compromise most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cultural intermarriage risks spiritual dilution",
-            "expansion": "Blending spiritual boundaries can gradually erode core theological commitments."
-          },
-          {
-            "id": 2,
-            "text": "Communal accountability for collective spiritual drift",
-            "expansion": "Individual choices create ripple effects that impact entire community's spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Profound grief over spiritual unfaithfulness",
-            "expansion": "Genuine repentance emerges from deep emotional recognition of deviation from divine standards."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible boundaries do we unconsciously cross that compromise our spiritual authenticity?"
-      },
-      "moral_slider": {
-        "question": "How do we balance cultural engagement with spiritual distinctiveness?",
-        "left_label": "Cultural Assimilation",
-        "right_label": "Spiritual Separation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual compromise evolved?",
-        "options": [
-          "More aware of subtle spiritual drift",
-          "Recognize community's collective responsibility",
-          "Understanding cultural boundaries differently",
-          "Seeing repentance as a transformative process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Missional proximity without compromising theological foundations",
           "Contextual interpretation based on specific cultural environments"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The leaders said",
+            "ref": "v. 1",
+            "speaker": "The leaders"
+          },
+          {
+            "who": "Ezra said",
+            "ref": "vv. 6-7",
+            "speaker": "Ezra"
+          }
+        ],
+        "question": "Put yourself in Ezra's place, hearing that the people have not kept themselves separate. As you pray, ashamed to lift up your face, what would you understand about the guilt that has reached the heavens?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Deuteronomy 7:3-4",
+        "summary": "The people have taken foreign wives, so the holy seed is mixed with the people of the land, and the leaders took the lead in this unfaithfulness (v. 2). Deuteronomy warns that such marriages will turn your sons away from following God (vv. 3-4).",
+        "question": "How does the warning in Deuteronomy help you understand why Ezra is so horrified by these marriages?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "exposure",
+        "because": "our guilt makes it so no one can stand before You",
+        "feeling": "shame, inadequacy",
+        "object": "my recent failures",
+        "behavior": "hiding from God",
+        "step": "approach Him in honesty",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my recent failures} into the light and instead of {behavior:hiding from God}, I will {step:approach Him in honesty}."
       }
     }
   }

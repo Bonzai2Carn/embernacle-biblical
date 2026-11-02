@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative moment resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Esther's courageous vulnerability",
-            "expansion": "Her strategic disclosure reveals how personal truth can dismantle systemic oppression."
-          },
-          {
-            "id": 2,
-            "text": "The king's sudden moral awakening",
-            "expansion": "Powerful leaders can pivot dramatically when confronted with profound human suffering."
-          },
-          {
-            "id": 3,
-            "text": "Haman's catastrophic reversal of fortune",
-            "expansion": "Malevolent intentions often become the architect of their own destruction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal risk become the catalyst for collective liberation?"
-      },
-      "moral_slider": {
-        "question": "What weighs more: individual safety or community preservation?",
-        "left_label": "Personal Preservation",
-        "right_label": "Communal Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of courage evolved?",
-        "options": [
-          "Courage is more strategic than heroic",
-          "Vulnerability can be a powerful form of strength",
-          "Systemic change requires personal sacrifice",
-          "Moral clarity emerges through difficult confrontations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine empowerment of marginalized individuals",
           "Prophetic confrontation of systemic injustice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The king asked",
+            "ref": "v. 2",
+            "speaker": "The king"
+          },
+          {
+            "who": "Esther replied",
+            "ref": "vv. 3-4",
+            "speaker": "Esther"
+          }
+        ],
+        "question": "Put yourself in Esther's place. The king has promised to grant your request, up to half the kingdom. What would you weigh before you ask for your life and the lives of your people?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 26:27",
+        "summary": "Haman built a gallows to destroy Mordecai (v. 9). The wisdom of Proverbs shows that the trap he set for another person becomes his own undoing.",
+        "question": "How does this proverb help you see the end of Haman's plot?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "remembrance",
+        "because": "Haman was hanged on the gallows he had prepared for Mordecai",
+        "feeling": "anxiety, dread",
+        "object": "a threat from an enemy",
+        "behavior": "trying to control the outcome",
+        "step": "rest in God's justice",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a threat from an enemy} and instead of {behavior:trying to control the outcome}, I will {step:rest in God's justice}."
       }
     }
   }

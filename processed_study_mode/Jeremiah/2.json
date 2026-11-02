@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic speaks most powerfully to you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Forgotten Covenant Love",
-            "expansion": "Israel's abandonment of God reveals how quickly human hearts can drift from initial passionate commitment."
-          },
-          {
-            "id": 2,
-            "text": "Divine Remembrance",
-            "expansion": "God recalls the intimate early relationship, demonstrating His enduring memory of covenant connections."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Adultery",
-            "expansion": "The metaphor of infidelity powerfully illustrates humanity's tendency to chase alternative spiritual loyalties."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God were to publicly recount your spiritual journey, what moments of faithfulness and betrayal might He highlight?"
-      },
-      "moral_slider": {
-        "question": "How do you balance divine grace with necessary spiritual accountability?",
-        "left_label": "Unconditional Mercy",
-        "right_label": "Righteous Judgment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of covenant relationship shifted?",
-        "options": [
-          "I now see relationships as more complex",
-          "Divine love is more nuanced than I previously understood",
-          "Personal accountability matters more than I realized",
-          "Spiritual drift happens subtly and gradually"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Syncretistic blending of diverse spiritual practices",
           "Institutional religious performance without genuine heart transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this charge. The LORD names two evils: leaving the fountain of living water, and digging cisterns that cannot hold water. What would you weigh as you hear it?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "James 4:4",
+        "summary": "The LORD charges His people with forsaking Him, the fountain of living water, for broken cisterns (v. 13). James says friendship with the world is hostility toward God.",
+        "question": "How does James 4:4 help you see the gravity of the two evils mentioned in Jeremiah 2:13?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "exposure",
+        "because": "the LORD will judge the one who says, I have not sinned",
+        "feeling": "pride, denial",
+        "object": "a repeated mistake",
+        "behavior": "making excuses",
+        "step": "admit the truth to God",
+        "template": "from today I bring my {feeling:pride, denial} about {object:a repeated mistake} into the light and instead of {behavior:making excuses}, I will {step:admit the truth to God}."
       }
     }
   }

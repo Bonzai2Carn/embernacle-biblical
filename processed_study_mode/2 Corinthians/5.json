@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphor of transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Earthly tent vs. Eternal building",
-            "expansion": "Our physical existence is temporary, while spiritual reality offers permanent, divine construction."
-          },
-          {
-            "id": 2,
-            "text": "Clothing of mortality vs. Life's garment",
-            "expansion": "We are constantly being transformed, exchanging limited human experience for divine potential."
-          },
-          {
-            "id": 3,
-            "text": "Reconciliation through Christ",
-            "expansion": "Our fundamental identity shifts from self-centered to Christ-centered existence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If our physical life is merely a 'tent', what truly constitutes our essential self?"
-      },
-      "moral_slider": {
-        "question": "How do you balance earthly concerns with eternal perspectives?",
-        "left_label": "Temporal Urgency",
-        "right_label": "Eternal Consciousness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal transformation evolved?",
-        "options": [
-          "Recognized life's impermanence",
-          "Understood spiritual metamorphosis",
-          "Embraced divine reconciliation",
-          "Shifted from self to transcendent purpose"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation includes complete bodily renewal",
           "Mortality is temporary, and eternal existence is God's ultimate design"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Paul says we regard no one according to the flesh",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says anyone in Christ is a new creation",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who once regarded others, and even Christ, according to the flesh. You hear that if anyone is in Christ he is a new creation, the old has passed away. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Romans 5:10",
+        "summary": "Paul says Christ's love compels us, and that He died for all so that those who live no longer live for themselves (vv. 14-15). Romans 5:10 says we were reconciled to God through the death of His Son while we were enemies of God.",
+        "question": "How does the reality of being reconciled while still an enemy help you understand why Christ's love compels us (v. 14)?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "those who live should no longer live for themselves, but for Him who died for them",
+        "feeling": "selfishness, pride",
+        "object": "my own comfort",
+        "behavior": "seeking my own glory",
+        "step": "ask how I can serve others",
+        "template": "from today I let go of my {feeling:selfishness, pride} over {object:my own comfort} and instead of {behavior:seeking my own glory}, I will {step:ask how I can serve others}."
       }
     }
   }

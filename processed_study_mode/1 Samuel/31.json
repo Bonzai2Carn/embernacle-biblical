@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most deeply about leadership's ultimate moments?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Tragic Defeat",
-            "expansion": "Leaders sometimes face irreversible moments where their entire legacy can crumble suddenly."
-          },
-          {
-            "id": 2,
-            "text": "Personal Honor",
-            "expansion": "Saul's request to die with dignity reflects the profound human need to control one's final narrative."
-          },
-          {
-            "id": 3,
-            "text": "Collective Vulnerability",
-            "expansion": "The comprehensive defeat of Israel reveals how interconnected communal fate can be."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does preserving personal dignity become more important than surviving potential humiliation?"
-      },
-      "moral_slider": {
-        "question": "Is suicide in battle an honorable escape or a spiritual compromise?",
-        "left_label": "Personal Agency",
-        "right_label": "Divine Preservation"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of leadership's complexity?",
-        "options": [
-          "Leadership isn't always about winning",
-          "Vulnerability is inherent in human struggle",
-          "Personal integrity transcends outcome",
-          "Collective fate matters more than individual survival"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's plans transcend individual leadership or military outcomes",
           "Spiritual disobedience ultimately leads to national consequences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Saul said to his armor-bearer",
+            "ref": "v. 4",
+            "speaker": "Saul"
+          },
+          {
+            "who": "his armor-bearer was terrified and refused to do it",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the armor-bearer's place. Saul says, 'Draw your sword and run it through me, or these uncircumcised men will come and run me through and torture me!' What do you weigh as you stand there, terrified?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "2 Samuel 1:23",
+        "summary": "Saul and his three sons die together that same day (v. 6). 2 Samuel 1:23 says Saul and Jonathan, beloved and delightful in life, were not divided in death.",
+        "question": "How does 2 Samuel 1:23 help you see what was lost when Saul and his sons died together?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "remembrance",
+        "because": "Saul, his three sons, his armor-bearer, and all his men died together",
+        "feeling": "regret, shame",
+        "object": "a failed effort",
+        "behavior": "dwelling on the end",
+        "step": "name one thing God still asks me to do",
+        "template": "from today I let go of my {feeling:regret, shame} over {object:a failed effort} and instead of {behavior:dwelling on the end}, I will {step:name one thing God still asks me to do}."
       }
     }
   }

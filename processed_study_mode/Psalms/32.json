@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual idea from Psalm 32 resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Forgiveness",
-            "expansion": "The transformative power of God's grace in releasing human guilt and shame."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Transparency",
-            "expansion": "The healing that comes from honest confession and vulnerability before God."
-          },
-          {
-            "id": 3,
-            "text": "Guidance through Relationship",
-            "expansion": "How intimacy with God provides direction and wisdom beyond human understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If confession brings healing, what might you be withholding that prevents your own spiritual restoration?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate personal responsibility in experiencing divine mercy?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual brokenness and redemption shifted?",
-        "options": [
-          "I see confession as more liberating",
-          "I understand grace more deeply",
-          "I recognize my own vulnerability",
-          "I'm more aware of spiritual transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual growth requires ongoing self-examination and repentance",
           "God's guidance is most clear when personal integrity is maintained"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist describes his silence",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes his confession",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You tried to hide your sin and felt the weight of it. What changes in your spirit when you stop hiding and start confessing?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "1 John 1:9",
+        "summary": "The psalmist acknowledged his sin and the LORD forgave the guilt (v. 5). First John 1:9 says that if we confess our sins, He is faithful and just to forgive us and cleanse us.",
+        "question": "How does 1 John 1:9 help you understand the forgiveness that followed the psalmist's confession in Psalm 32:5?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "loving devotion surrounds him who trusts in the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a difficult season",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His presence",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a difficult season} and instead of {behavior:trying to control every outcome}, I will {step:rest in His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of territorial conquest resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Promise Fulfilled",
-            "expansion": "God's covenant with Israel transcends mere geographic boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Historical Documentation",
-            "expansion": "Precise recording of conquered territories reveals the meticulous nature of biblical narrative."
-          },
-          {
-            "id": 3,
-            "text": "Generational Legacy",
-            "expansion": "Each conquered land represents a chapter in Israel's ongoing spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine mandate justifies territorial conquest, what distinguishes sacred intervention from human aggression?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine instruction with territorial displacement?",
-        "left_label": "Human Compassion",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical conquest evolved?",
-        "options": [
-          "More nuanced historical perspective",
-          "Deeper appreciation for divine providence",
-          "Increased complexity in interpreting sacred texts",
-          "Greater empathy for displaced peoples"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Recognize complex historical-redemptive theological contexts",
           "Examine moral implications of divine directives regarding territorial acquisition"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Moses and the Israelites struck down the kings beyond the Jordan to the east",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Joshua and the Israelites conquered the kings to the west",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are an Israelite reading this list. The kings to the east were struck down under Moses, and the kings to the west were conquered under Joshua. What do you understand about who led each conquest, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Deuteronomy 7:2",
+        "summary": "Israel struck down the kings east of the Jordan (v. 6) and conquered the kings to the west (v. 7). Deuteronomy 7:2 gives the command to devote these nations to complete destruction and to make no treaty with them.",
+        "question": "How does Deuteronomy 7:2 help you understand why these kings were struck down and their lands taken?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "devotion",
+        "because": "Moses, the servant of the LORD, struck down the kings and gave their land as an inheritance",
+        "feeling": "envy, comparison",
+        "object": "what others have been given",
+        "behavior": "measuring my portion against theirs",
+        "step": "thank God for my portion today",
+        "template": "from today I let go of my {feeling:envy, comparison} over {object:what others have been given} and instead of {behavior:measuring my portion against theirs}, I will {step:thank God for my portion today}."
       }
     }
   }

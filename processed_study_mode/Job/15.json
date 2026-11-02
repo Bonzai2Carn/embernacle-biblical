@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about human knowledge and divine perspective?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Human wisdom is limited",
-            "expansion": "Our understanding is finite compared to God's infinite wisdom"
-          },
-          {
-            "id": 2,
-            "text": "Speech reveals inner character",
-            "expansion": "Our words often expose the true state of our heart and spiritual condition"
-          },
-          {
-            "id": 3,
-            "text": "Pride disrupts spiritual perception",
-            "expansion": "Arrogance blinds us to genuine spiritual insights and divine guidance"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your current understanding of suffering were completely wrong, what might that reveal about your spiritual assumptions?"
-      },
-      "moral_slider": {
-        "question": "How do human suffering and divine justice intersect?",
-        "left_label": "Human Randomness",
-        "right_label": "Divine Order"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on suffering and wisdom shifted?",
-        "options": [
-          "I recognize the limits of human understanding",
-          "I'm more humble about explaining divine actions",
-          "I see wisdom as a journey, not a destination",
-          "I'm more patient with complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine justice is ultimately mysterious and beyond human comprehension",
           "Suffering reveals more about human character than divine intention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Eliphaz asked",
+            "ref": "vv. 12-13",
+            "speaker": "Eliphaz"
+          },
+          {
+            "who": "Eliphaz claims",
+            "ref": "v. 14",
+            "speaker": "Eliphaz"
+          }
+        ],
+        "question": "Put yourself in Job's place. You are being accused of turning your spirit against God. How does Eliphaz's claim about human corruption change how you hear your own words?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Psalm 138:6",
+        "summary": "Eliphaz claims no man can be pure or righteous before God (v. 14). The Psalmist shows that God still looks upon the lowly and cares for them.",
+        "question": "How does the Psalmist's experience of God's care help you weigh Eliphaz's claim about human corruption?"
+      },
+      "conviction": {
+        "verse": 31,
+        "frame": "exposure",
+        "because": "emptiness will be the reward of trusting in emptiness",
+        "feeling": "anxiety, pride",
+        "object": "my own cleverness",
+        "behavior": "relying on my own understanding",
+        "step": "seek the truth in His word",
+        "template": "from today I bring my {feeling:anxiety, pride} about {object:my own cleverness} into the light and instead of {behavior:relying on my own understanding}, I will {step:seek the truth in His word}."
       }
     }
   }

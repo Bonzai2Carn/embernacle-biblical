@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of divine providence most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over earthly kingdoms",
-            "expansion": "Divine power can work through unexpected political leaders to fulfill prophetic promises."
-          },
-          {
-            "id": 2,
-            "text": "The stirring of human spirits toward restoration",
-            "expansion": "God can supernaturally motivate human hearts toward reconciliation and redemption."
-          },
-          {
-            "id": 3,
-            "text": "The fulfillment of prophetic prediction",
-            "expansion": "Historical events can demonstrate the precise orchestration of divine planning."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal comfort and national identity compete with or complement spiritual calling?"
-      },
-      "moral_slider": {
-        "question": "To what degree do human political actions reflect divine will?",
-        "left_label": "Purely Human Agency",
-        "right_label": "Direct Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical providence shifted?",
-        "options": [
-          "I see more complexity in divine-human interactions",
-          "Political events might have deeper spiritual significance",
-          "Prophecy can be precisely fulfilled across generations",
-          "Individual leaders can be instruments of larger spiritual purposes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic predictions are retrospectively aligned with historical events",
           "Divine intervention is subtle and requires spiritual discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD stirred the spirit of Cyrus",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The family heads, priests, and Levites prepared to go",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the family heads of Judah. You hear that the LORD stirred the spirit of Cyrus, and you find your own spirit stirred by God. What would you weigh as you prepare to go up?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Proverbs 21:1",
+        "summary": "Cyrus believes the LORD has given him all the kingdoms of the earth and appointed him to build a house (v. 2). Proverbs shows that even the heart of a king is like a stream of water in the hand of the LORD.",
+        "question": "How does knowing the LORD directs the heart of a king help you understand why Cyrus issued this proclamation?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "everyone whose spirit God had stirred prepared to go",
+        "feeling": "indifference, apathy",
+        "object": "a need in my community",
+        "behavior": "waiting for someone else to act",
+        "step": "take one small step toward helping",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:a need in my community} and instead of {behavior:waiting for someone else to act}, I will {step:take one small step toward helping}."
       }
     }
   }

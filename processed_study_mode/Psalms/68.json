@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theological idea resonates most from Psalm 68?",
-        "choices": [
-          {
-            "id": "divine_sovereignty",
-            "text": "God's supreme authority over all nations",
-            "expansion": "The psalm portrays God as a universal king who transcends earthly power structures."
-          },
-          {
-            "id": "divine_protection",
-            "text": "God as a defender of the vulnerable",
-            "expansion": "The text emphasizes God's special care for orphans, widows, and those marginalized by society."
-          },
-          {
-            "id": "redemptive_journey",
-            "text": "Israel's historical narrative of deliverance",
-            "expansion": "The psalm recounts God's transformative interventions in Israel's collective experience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine power is so comprehensive, why do suffering and injustice persist in human experience?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's love with God's judgment?",
-        "left_label": "Divine Mercy",
-        "right_label": "Divine Justice"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of divine interaction with humanity?",
-        "options": [
-          "God is more active than I previously believed",
-          "Divine intervention is nuanced and complex",
-          "Historical narrative reveals deeper spiritual truths",
-          "Personal perspective on suffering has evolved"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Theological understanding of strength must integrate both justice and compassion",
           "Spiritual victory transcends physical warfare"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who sing. You are told to exalt Him who rides the clouds. What does His character as a father to the fatherless make you understand about why you sing?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Psalm 146:5",
+        "summary": "The psalmist praises God for bearing our burdens daily (v. 19). Psalm 146:5 calls blessed the one whose help is the God of Jacob and whose hope is in the LORD his God.",
+        "question": "How does Psalm 146:5 help you trust the God who bears your burdens in verse 19?"
+      },
+      "conviction": {
+        "verse": 35,
+        "frame": "devotion",
+        "because": "the God of Israel Himself gives strength and power to His people",
+        "feeling": "exhaustion, inadequacy",
+        "object": "a difficult task ahead",
+        "behavior": "relying on my own energy",
+        "step": "ask Him for His power",
+        "template": "from today I bring You my {feeling:exhaustion, inadequacy} about {object:a difficult task ahead} and instead of {behavior:relying on my own energy}, I will {step:ask Him for His power}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theme resonates most deeply in this moment of David's crisis?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Resilience in Devastating Loss",
-            "expansion": "David's ability to find strength when everything seems destroyed represents profound human spiritual endurance."
-          },
-          {
-            "id": 2,
-            "text": "Divine Guidance in Uncertain Moments",
-            "expansion": "Seeking God's direction becomes critical when human strategies seem insufficient."
-          },
-          {
-            "id": 3,
-            "text": "Collective Restoration",
-            "expansion": "The community's shared suffering and subsequent recovery reveals the power of unified purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal devastation strikes, does one's response reveal character or create character?"
-      },
-      "moral_slider": {
-        "question": "How does one balance personal grief with communal responsibility?",
-        "left_label": "Individual Suffering",
-        "right_label": "Collective Action"
-      },
-      "reevaluation": {
-        "question": "How might this narrative transform your understanding of leadership and faith?",
-        "options": [
-          "Leadership emerges through crisis",
-          "Faith is tested in moments of profound loss",
-          "Community resilience matters more than individual pain",
-          "Divine guidance transcends human limitation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual resilience determines the trajectory of restoration",
           "Suffering is always a direct consequence of personal failure"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "David inquired of the LORD",
+            "ref": "v. 8",
+            "speaker": "David"
+          },
+          {
+            "who": "the LORD replied, Pursue them",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in David's place. You ask whether you should pursue these raiders and whether you will overtake them. The answer is to pursue, for you will surely overtake them and rescue the captives. What does that answer settle for you, and what does it leave for you to do?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Proverbs 24:16",
+        "summary": "David is greatly distressed, with the people speaking of stoning him, yet he finds strength in the LORD his God (v. 6), and he strikes down the raiders (v. 17). Proverbs 24:16 says a righteous man may fall seven times, yet he still gets up.",
+        "question": "How does Proverbs 24:16 help you view David getting up after the distress in this chapter?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "practice",
+        "because": "the LORD has protected us and delivered into our hands the raiders",
+        "feeling": "bitterness, resentment",
+        "object": "people who did less than I did",
+        "behavior": "keeping what I earned to myself",
+        "step": "share what the LORD gave with everyone",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:people who did less than I did} and instead of {behavior:keeping what I earned to myself}, I will {step:share what the LORD gave with everyone}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight about the Suffering Servant resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His unexpected appearance",
-            "expansion": "The Messiah emerges not as a triumphant king, but as an unimpressive, overlooked figure."
-          },
-          {
-            "id": 2,
-            "text": "Vicarious suffering",
-            "expansion": "He bears collective human pain and sin, transforming personal tragedy into universal redemption."
-          },
-          {
-            "id": 3,
-            "text": "Silent dignity",
-            "expansion": "Despite profound rejection, he maintains profound composure and purposeful surrender."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine purpose can manifest through apparent weakness and suffering, what might this reveal about our conventional understanding of strength?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive divine justice in sacrificial redemption?",
-        "left_label": "Personal Accountability",
-        "right_label": "Transformative Grace"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on redemptive suffering shifted?",
-        "options": [
-          "More empathetic toward human brokenness",
-          "Deeper appreciation for spiritual mystery",
-          "Recognizing strength in vulnerability",
-          "Questioning previous assumptions about divine intervention"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Messiah's identity is defined by sacrifice, not triumphant conquest",
           "Spiritual restoration requires complete identification with human brokenness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The people considered",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those watching Him. You see a man struck down by God, yet the text says His wounds brought you peace. How do you reconcile the sight of His suffering with the result of your healing?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "1 Peter 2:24",
+        "summary": "Isaiah says the LORD has laid the iniquity of us all upon Him (v. 6). 1 Peter 2:24 says He Himself bore our sins in His body on the tree so that we might die to sin and live to righteousness.",
+        "question": "How does 1 Peter 2:24 help you understand the iniquity laid upon Him in Isaiah 53:6?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "we all like sheep have gone astray, each one has turned to his own way",
+        "feeling": "shame, guilt",
+        "object": "my secret failures",
+        "behavior": "hiding my true self",
+        "step": "confess them to the Lord",
+        "template": "from today I bring my {feeling:shame, guilt} about {object:my secret failures} into the light and instead of {behavior:hiding my true self}, I will {step:confess them to the Lord}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine sovereignty over human pride",
-            "expansion": "God challenges human arrogance by demonstrating ultimate control over nations and rulers."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of self-aggrandizement",
-            "expansion": "Pharaoh's belief in personal ownership of the Nile represents the universal human tendency to overestimate personal power."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic judgment as redemptive process",
-            "expansion": "Divine correction aims not merely at punishment, but at revealing deeper spiritual truths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you claim ownership over your resources, are you truly their master, or merely a temporary steward?"
-      },
-      "moral_slider": {
-        "question": "How do national pride and divine accountability interact?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of power shifted?",
-        "options": [
-          "Recognized limits of human control",
-          "Understood deeper spiritual dynamics",
-          "Appreciate prophetic perspective",
-          "Questioned previous assumptions about leadership"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual pride precipitates divine intervention",
           "Prophetic warnings serve as redemptive opportunities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 10",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the king who claims ownership over his resources. What does God's response reveal about the true owner of the river?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 2:12",
+        "summary": "The LORD promises to diminish Egypt so that it never again exalts itself above the nations (v. 15). Isaiah describes the Day of the LORD of Hosts coming against all the proud and lofty, which will be humbled (Isa 2:12).",
+        "question": "How does the promise of a day of humbling help you understand why God diminishes this kingdom?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "exposure",
+        "because": "Pharaoh says, 'The Nile is mine; I made it myself'",
+        "feeling": "pride, self-importance",
+        "object": "my own achievements",
+        "behavior": "taking all the credit",
+        "step": "acknowledge God's hand in my success",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:my own achievements} into the light and instead of {behavior:taking all the credit}, I will {step:acknowledge God's hand in my success}."
       }
     }
   }

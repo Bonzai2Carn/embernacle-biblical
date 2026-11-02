@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response in this chapter resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mordecai's public lament",
-            "expansion": "Grief can be a prophetic act of resistance against systemic oppression"
-          },
-          {
-            "id": 2,
-            "text": "The communal Jewish mourning",
-            "expansion": "Collective suffering creates profound solidarity and shared spiritual consciousness"
-          },
-          {
-            "id": 3,
-            "text": "Esther's initial hesitation",
-            "expansion": "Personal safety often conflicts with larger moral responsibilities"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does personal risk become a moral imperative for collective salvation?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions intersect with communal destiny?",
-        "left_label": "Self-Preservation",
-        "right_label": "Sacrificial Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of courage shifted?",
-        "options": [
-          "Courage is not absence of fear",
-          "Leadership requires vulnerability",
-          "Systemic change demands personal risk",
-          "Faith manifests through action"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership requires personal risk and sacrifice",
           "Suffering can be a catalyst for transformative action"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Mordecai sent back to her this reply",
+            "ref": "vv. 13-14",
+            "speaker": "Mordecai"
+          },
+          {
+            "who": "Esther sent this reply to Mordecai",
+            "ref": "v. 16",
+            "speaker": "Esther"
+          }
+        ],
+        "question": "Put yourself in Esther's place. You face a law that carries a death sentence, yet you hear a warning that your safety is an illusion. Which path would you choose?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Genesis 50:20",
+        "summary": "Mordecai tells Esther that relief will arise from another place, and asks who knows if she came to the kingdom for such a time as this (v. 14). Genesis 50:20 says what was intended for evil, God intended for good, to preserve the lives of many people.",
+        "question": "How does Genesis 50:20 help you understand Mordecai's words about 'such a time as this'?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "devotion",
+        "because": "Esther will go to the king, even though it is against the law",
+        "feeling": "fear, hesitation",
+        "object": "a difficult conversation",
+        "behavior": "staying silent to stay safe",
+        "step": "speak the truth clearly",
+        "template": "from today I let go of my {feeling:fear, hesitation} over {object:a difficult conversation} and instead of {behavior:staying silent to stay safe}, I will {step:speak the truth clearly}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention strikes you most?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Unexpected Deliverance",
-            "expansion": "God can solve impossible situations through the most unlikely agents or circumstances."
-          },
-          {
-            "id": "b",
-            "text": "Prophetic Credibility",
-            "expansion": "Elisha's prophecy demonstrates the precise and verifiable nature of prophetic revelation."
-          },
-          {
-            "id": "c",
-            "text": "Social Transformation",
-            "expansion": "Marginalized individuals (the lepers) become unexpected instruments of communal salvation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If miraculous provision is possible, what limits do we artificially impose on divine intervention?"
-      },
-      "moral_slider": {
-        "question": "How do human skepticism and divine promise coexist?",
-        "left_label": "Cynicism",
-        "right_label": "Trust"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of divine providence?",
-        "options": [
-          "I see divine intervention more dynamically",
-          "I recognize unexpected agents of change",
-          "I understand prophecy differently",
-          "I'm more open to miraculous possibilities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine provision is not constrained by natural limitations",
           "Spiritual perception trumps logical skepticism"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The king asked Elisha",
+            "ref": "v. 2",
+            "speaker": "The king"
+          }
+        ],
+        "question": "Put yourself in the king's place. You ask whether the LORD could make such a thing happen, and you hear that you will see it with your own eyes but will not eat any of it. What would you weigh more: your doubt or the prophet's words?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Isaiah 46:10",
+        "summary": "Elisha announces a specific change in the price of food (v. 16) that happens exactly as the LORD declared. Isaiah describes a God who declares the end from the beginning and tells of things not yet done.",
+        "question": "How does Isaiah's description of God's power help you understand the certainty of the prophecy Elisha gave to the king?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "today is a day of good news",
+        "feeling": "guilt, shame",
+        "object": "a missed opportunity to help",
+        "behavior": "keeping a secret",
+        "step": "speak the truth to someone",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a missed opportunity to help} and instead of {behavior:keeping a secret}, I will {step:speak the truth to someone}."
       }
     }
   }

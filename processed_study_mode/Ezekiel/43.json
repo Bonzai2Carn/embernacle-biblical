@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which element of divine restoration resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's returning glory",
-            "expansion": "The transformative power of divine presence reclaiming sacred spaces"
-          },
-          {
-            "id": 2,
-            "text": "Detailed restoration of worship practices",
-            "expansion": "Precision in spiritual reconstruction reveals divine intentionality"
-          },
-          {
-            "id": 3,
-            "text": "The prophetic vision of renewal",
-            "expansion": "Symbolic representations communicate deeper spiritual truths beyond literal reconstruction"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine glory can transform a desolate space, what in your inner landscape awaits restoration?"
-      },
-      "moral_slider": {
-        "question": "How do human imperfections interact with divine perfection in worship?",
-        "left_label": "Human Inadequacy",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual restoration shifted?",
-        "options": [
-          "More aware of symbolic meanings",
-          "Recognize complexity of divine restoration",
-          "Understand worship as relational, not just ritualistic",
-          "Appreciate prophetic vision's multilayered significance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals the prophetic promise of future reconciliation",
           "Symbolizes the ultimate renewal of the divine-human relationship"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 9",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people who once lived alongside God's presence but brought defilement. What does this change in God's requirement reveal about how He intends to dwell among them now?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Ezekiel 36:26-27",
+        "summary": "In Ezekiel 43, the glory of the LORD enters the temple to dwell among the people forever (v. 4-5). In Ezekiel 36, God promises to provide the heart and the Spirit necessary to live by His statutes (vv. 26-27).",
+        "question": "How does the promise of a new heart in Ezekiel 36 help you understand the people's ability to keep the design and laws of the temple described here?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "practice",
+        "because": "if the house of Israel is ashamed of all it has done, the LORD tells it to make known the temple's whole design and write it down",
+        "feeling": "pride, self-righteousness",
+        "object": "my past mistakes",
+        "behavior": "making excuses",
+        "step": "write down the truth of His ways",
+        "template": "from today I let go of my {feeling:pride, self-righteousness} over {object:my past mistakes} and instead of {behavior:making excuses}, I will {step:write down the truth of His ways}."
       }
     }
   }

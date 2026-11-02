@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which architectural detail of the temple vision most captures your imagination?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise Measurements",
-            "expansion": "The meticulous documentation suggests divine precision matters deeply to God."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Restoration",
-            "expansion": "The detailed temple plan represents hope for Israel's spiritual reconstruction."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Vision's Complexity",
-            "expansion": "The intricate description reveals the profound spiritual communication between divine and human realms."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God communicates through such specific architectural instructions, what might that reveal about the nature of divine communication and human understanding?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile the tension between literal architectural description and spiritual metaphorical meaning?",
-        "left_label": "Literal Interpretation",
-        "right_label": "Symbolic Interpretation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on biblical prophecy shifted after examining this detailed vision?",
-        "options": [
-          "More appreciative of prophetic complexity",
-          "Challenged by the level of architectural detail",
-          "Recognized deeper symbolic meaning",
-          "Uncertain about complete interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Metaphorical blueprint of divine order and relationship",
           "Prophetic allegory demonstrating God's redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 46,
+        "exchange": [
+          {
+            "who": "The man says",
+            "ref": "v. 46",
+            "speaker": "The man"
+          }
+        ],
+        "question": "Put yourself in the place of a Levite who is not a son of Zadok. You hear that only the sons of Zadok may approach the LORD to minister before Him. What would you weigh about your own place before Him?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "1 Kings 6:1-38",
+        "summary": "Ezekiel measures the gateway, its chambers, and its portico one piece at a time (v. 15). First Kings gives the measured length, width, and height of Solomon's temple (1 Kings 6:1-38).",
+        "question": "How does 1 Kings 6:1-38 help you understand the careful measuring of the temple in Ezekiel 40?"
+      },
+      "conviction": {
+        "verse": 41,
+        "frame": "practice",
+        "because": "eight tables in all were set for slaughtering the sacrifices",
+        "feeling": "frustration, impatience",
+        "object": "a long list of chores",
+        "behavior": "rushing through my tasks",
+        "step": "finish one task at a time",
+        "template": "from today I let go of my {feeling:frustration, impatience} over {object:a long list of chores} and instead of {behavior:rushing through my tasks}, I will {step:finish one task at a time}."
       }
     }
   }

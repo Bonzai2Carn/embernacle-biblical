@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual conflict resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The beast's power comes from the dragon",
-            "expansion": "Spiritual powers often derive authority through delegated, seemingly legitimate channels."
-          },
-          {
-            "id": 2,
-            "text": "Global worship of worldly power",
-            "expansion": "Systemic cultural narratives can subtly replace genuine spiritual devotion."
-          },
-          {
-            "id": 3,
-            "text": "The mark of economic control",
-            "expansion": "Societal systems can weaponize economic participation as a mechanism of spiritual compliance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In what ways might contemporary systems mirror the symbolic beast's method of universal control?"
-      },
-      "moral_slider": {
-        "question": "How do individual choices interact with larger systemic spiritual pressures?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Systemic Conformity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resistance shifted?",
-        "options": [
-          "Recognize subtle forms of cultural manipulation",
-          "Understand power dynamics beyond surface appearances",
-          "Appreciate complexity of spiritual warfare",
-          "Recognize individual agency within larger systems"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Cyclical pattern of anti-Christian power structures",
           "Symbolic warning about compromising spiritual integrity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The dragon gave the beast his power",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The worshippers asked",
+            "ref": "v. 4",
+            "speaker": "Worshippers"
+          }
+        ],
+        "question": "Put yourself in the place of those worshippers. You see that the dragon gave the beast his power and his throne and great authority, and you ask, 'Who is like the beast, and who can wage war against it?' What would you weigh about where that power comes from?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Daniel 7:8",
+        "summary": "The beast rises out of the sea with ten horns, seven heads, and ten royal crowns on its horns (v. 1). In Daniel, a little horn comes up among the others, uproots three of the first horns, and has eyes like a man and a mouth that speaks arrogance (Daniel 7:8).",
+        "question": "How does Daniel's picture of a horn with a mouth of arrogance help you recognize the beast in this chapter?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "the saints must have perseverance and faith",
+        "feeling": "fear, dread",
+        "object": "difficult trials",
+        "behavior": "looking for an easy way out",
+        "step": "remain steady in my devotion",
+        "template": "from today I let go of my {feeling:fear, dread} over {object:difficult trials} and instead of {behavior:looking for an easy way out}, I will {step:remain steady in my devotion}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with this chapter's message?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment is Inevitable",
-            "expansion": "When systemic sin reaches critical mass, consequences become unavoidable."
-          },
-          {
-            "id": 2,
-            "text": "Leadership Accountability",
-            "expansion": "Political and religious leaders are ultimately responsible for collective spiritual direction."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning as Mercy",
-            "expansion": "God's prophetic messages, even when harsh, represent an opportunity for redemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine intervention is always possible, why do human societies persist in paths of destruction?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human free will interact during national crisis?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Determinism"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic warning shifted?",
-        "options": [
-          "Prophecy is more nuanced than simple prediction",
-          "Spiritual consequences are real and measurable",
-          "Leadership bears profound spiritual responsibility",
-          "Divine communication is fundamentally about redemption"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates God's commitment to holiness",
           "Prophetic warnings are opportunities for repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Zedekiah's messengers asked",
+            "ref": "v. 2",
+            "speaker": "Zedekiah's Messengers"
+          },
+          {
+            "who": "Jeremiah answered",
+            "ref": "vv. 4-6",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in the place of the messengers. You ask for a wonder that would make Nebuchadnezzar withdraw, but you receive a word that God will fight against your own weapons. What does this change about what you hope for?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Deuteronomy 28:45-48",
+        "summary": "The LORD presents a choice between life and death to the people in the city (v. 8-9). Deuteronomy lists the specific curses and disasters that follow when a people reject His commands.",
+        "question": "How does the reality of these curses help you understand why the LORD says He has set His face against the city to bring disaster (v. 10)?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "the LORD warns that His wrath burns like fire unless justice is administered every morning and the robbed are rescued from their oppressors",
+        "feeling": "indifference, apathy",
+        "object": "someone in need",
+        "behavior": "looking the other way",
+        "step": "act with fairness and courage",
+        "template": "from today I let go of my {feeling:indifference, apathy} over {object:someone in need} and instead of {behavior:looking the other way}, I will {step:act with fairness and courage}."
       }
     }
   }

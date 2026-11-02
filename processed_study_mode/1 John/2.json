@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight most resonates with you about knowing Christ?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Obedience reveals true relationship",
-            "expansion": "Keeping Christ's commandments is the authentic proof of genuine spiritual connection."
-          },
-          {
-            "id": 2,
-            "text": "Christ as our Advocate",
-            "expansion": "Jesus intercedes personally and continuously on our behalf before the Father."
-          },
-          {
-            "id": 3,
-            "text": "Universal redemptive scope",
-            "expansion": "Christ's propitiation extends beyond individual salvation to encompass the entire world's potential reconciliation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If claiming to know Christ requires obedience, how do you reconcile human imperfection with spiritual authenticity?"
-      },
-      "moral_slider": {
-        "question": "Where do you currently stand between legalistic obedience and grace-filled transformation?",
-        "left_label": "Rule-following",
-        "right_label": "Heart transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual intimacy with Christ evolved?",
-        "options": [
-          "Deeper appreciation of grace",
-          "Increased emphasis on personal responsibility",
-          "More holistic view of redemption",
-          "Greater understanding of Christ's advocacy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine advocacy requires corresponding human responsiveness and repentance",
           "Advocacy is primarily a judicial transaction with minimal personal transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Someone says",
+            "ref": "v. 4",
+            "speaker": "Unknown"
+          },
+          {
+            "who": "The author says",
+            "ref": "vv. 5-6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who says, I know Him. What do you weigh when you hear that the love of God is perfected in the one who keeps His word, and that whoever claims to abide in Him must walk as Jesus walked?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "James 4:4",
+        "summary": "The author says that if anyone loves the world, the love of the Father is not in him (v. 15). James 4:4 says friendship with the world is hostility toward God.",
+        "question": "How does James 4:4 help you understand why love for the world and love of the Father do not go together?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "whoever does the will of God remains forever",
+        "feeling": "anxiety, restlessness",
+        "object": "temporary successes",
+        "behavior": "chasing after what fades",
+        "step": "fix my eyes on His commands",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:temporary successes} and instead of {behavior:chasing after what fades}, I will {step:fix my eyes on His commands}."
       }
     }
   }

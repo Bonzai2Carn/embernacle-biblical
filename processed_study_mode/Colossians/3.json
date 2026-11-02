@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation concept resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Dying to old self",
-            "expansion": "Surrendering earthly desires represents radical personal rebirth."
-          },
-          {
-            "id": 2,
-            "text": "Heavenly perspective",
-            "expansion": "Orienting consciousness toward divine realm reframes mundane existence."
-          },
-          {
-            "id": 3,
-            "text": "Christ-centered identity",
-            "expansion": "True self emerges when understood through redemptive relationship with Christ."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your current life practices were audited against your spiritual ideals, what would be revealed about your authentic commitments?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against spiritual transformation?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Divine Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "More aware of internal spiritual battles",
-          "Recognize complexity of personal change",
-          "Understand grace as transformative process",
-          "See spiritual growth as continuous journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Instantaneous moral perfection upon conversion",
           "Selective application of biblical principles based on personal comfort"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer told not to lie because you have taken off the old self. What do you understand about the new self being renewed in the image of its Creator, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Ephesians 2:6",
+        "summary": "Colossians says you died and your life is now hidden with Christ in God (v. 3). Ephesians says God raised us up with Christ and seated us with Him in Christ Jesus.",
+        "question": "How does Ephesians 2:6 help you understand what it means that your life is hidden with Christ in God?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "whatever you do is done in the name of the Lord Jesus",
+        "feeling": "anxiety, dread",
+        "object": "a difficult task",
+        "behavior": "complaining under my breath",
+        "step": "offer a word of thanks",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult task} and instead of {behavior:complaining under my breath}, I will {step:offer a word of thanks}."
       }
     }
   }

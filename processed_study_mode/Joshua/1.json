@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which leadership transition moment resonates most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Succession",
-            "expansion": "God directly affirms Joshua's leadership after Moses, demonstrating continuous divine guidance."
-          },
-          {
-            "id": 2,
-            "text": "Territorial Promise",
-            "expansion": "Every place touched becomes inheritance, symbolizing active faith and divine partnership."
-          },
-          {
-            "id": 3,
-            "text": "Courage Command",
-            "expansion": "God repeatedly instructs Joshua to be strong and courageous, revealing inner spiritual preparation matters more than external circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does inheriting a vision differ from creating your own, and what transformative challenges emerge in that transition?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal hesitation with divine calling?",
-        "left_label": "Personal Limitation",
-        "right_label": "Transcendent Potential"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and spiritual inheritance shifted?",
-        "options": [
-          "Leadership is more about divine empowerment than personal capability",
-          "Courage is an internal choice, not determined by external circumstances",
-          "Spiritual inheritance requires active participation",
-          "Transitions are opportunities for renewed purpose"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership is an inherited, genetic privilege",
           "Transitions represent moments of divine recalibration and renewed mission"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Joshua said to the Reubenites, Gadites, and half-tribe of Manasseh",
+            "ref": "vv. 14-15",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The Reubenites answered",
+            "ref": "v. 16",
+            "speaker": "Reubenites"
+          }
+        ],
+        "question": "Imagine you are one of the tribes already settled east of the Jordan. You are asked to leave your families and go to war for your brothers. What does their response tell you about the weight of this commitment?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Deuteronomy 31:23",
+        "summary": "The LORD commands Joshua to be strong and courageous because He will be with him (v. 9). The LORD gave Joshua this same charge when He commissioned him to bring Israel into the land (Deuteronomy 31:23).",
+        "question": "How does Deuteronomy 31:23 help you understand the continuity of God's presence with Joshua?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "this book of the law must not depart from your mouth",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "skimming the words",
+        "step": "meditate on one verse",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning routine} and instead of {behavior:skimming the words}, I will {step:meditate on one verse}."
       }
     }
   }

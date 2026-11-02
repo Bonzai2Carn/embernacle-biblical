@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply in Jeremiah's message about Babylon?",
-        "choices": [
-          {
-            "id": "divine_judgment",
-            "text": "Divine Judgment Against Imperial Power",
-            "expansion": "God ultimately holds nations accountable for their systemic oppression and moral corruption."
-          },
-          {
-            "id": "restoration",
-            "text": "Promised Restoration of Israel",
-            "expansion": "Even after severe punishment, divine mercy provides a pathway for redemption and renewal."
-          },
-          {
-            "id": "cosmic_justice",
-            "text": "Universal Principle of Moral Consequences",
-            "expansion": "Every civilization's actions generate corresponding spiritual and historical repercussions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment targets imperial hubris, what invisible mechanisms of power might currently challenge spiritual integrity?"
-      },
-      "moral_slider": {
-        "question": "How do collective national sins relate to individual moral responsibility?",
-        "left_label": "Individual Innocence",
-        "right_label": "Collective Guilt"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of historical judgment evolved?",
-        "options": [
-          "Recognize patterns of imperial decline",
-          "Understand spiritual dynamics beyond political events",
-          "Appreciate complexity of divine intervention",
-          "Recognize human agency within prophetic narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention reveals God's commitment to covenant promises",
           "Prophetic warnings provide opportunities for repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 4-5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the nations hearing this news. You hear that Babylon is captured and made a desolation, and then that Israel and Judah will come weeping to seek the LORD. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Ezekiel 36:22-32",
+        "summary": "The LORD says a search will be made for Israel's guilt and none will be found, for He will forgive the remnant (v. 20). Ezekiel 36 says the LORD will cleanse His people and give them a new heart and a new spirit.",
+        "question": "How does the new heart and cleansing in Ezekiel 36:22-32 help you understand the forgiveness promised in verse 20?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "trust",
+        "because": "the Redeemer of Israel and Judah is strong",
+        "feeling": "anxiety, helplessness",
+        "object": "a situation I cannot control",
+        "behavior": "trying to fix it myself",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:anxiety, helplessness} about {object:a situation I cannot control} to God and instead of {behavior:trying to fix it myself}, I will {step:rest in His strength}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphor of protection resonates most with you?",
-        "choices": [
-          {
-            "id": "fingers",
-            "text": "Binding wisdom on your fingers",
-            "expansion": "Physical proximity suggests constant, tactile remembrance of moral guidance."
-          },
-          {
-            "id": "heart",
-            "text": "Writing commands on the heart's tablet",
-            "expansion": "Internalization implies wisdom becomes an intrinsic part of one's character."
-          },
-          {
-            "id": "kin",
-            "text": "Treating wisdom as a familial relationship",
-            "expansion": "Personal connection transforms abstract principles into intimate, trustworthy counsel."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If temptation speaks with such persuasive language, what deeper hunger might it be masking?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against ethical boundaries?",
-        "left_label": "Individual Freedom",
-        "right_label": "Moral Constraint"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of vulnerability shifted?",
-        "options": [
-          "More aware of subtle seductions",
-          "Recognize internal emotional triggers",
-          "Value preventative wisdom",
-          "Understand self-protection strategies"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "View as culturally specific guidance with timeless moral principles",
           "Recognize as psychological insight into human vulnerability and moral weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The writer describes her",
+            "ref": "vv. 21-22",
+            "speaker": ""
+          },
+          {
+            "who": "The text describes",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are the young man hearing these flattering words. What do you see in his movement that he does not see in himself?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "James 1:14-15",
+        "summary": "The young man follows an impulse toward a trap (v. 22) and finds death (v. 27). James describes the same process of how desire leads to sin and death.",
+        "question": "How does James 1:14-15 help you recognize the danger in the paths described in this chapter?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "the teaching is to be tied to the fingers and written on the tablet of the heart",
+        "feeling": "distraction, apathy",
+        "object": "the truth I have read",
+        "behavior": "forgetting what I learned",
+        "step": "repeat a verse to myself",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the truth I have read} and instead of {behavior:forgetting what I learned}, I will {step:repeat a verse to myself}."
       }
     }
   }

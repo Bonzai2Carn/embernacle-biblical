@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic of Babylon's fall resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Economic Judgment",
-            "expansion": "The systemic collapse of global commerce reveals deeper spiritual bankruptcy"
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Desolation",
-            "expansion": "Babylon becomes a metaphorical wasteland of spiritual corruption"
-          },
-          {
-            "id": 3,
-            "text": "Divine Accountability",
-            "expansion": "God's ultimate reckoning exposes hidden structures of power and manipulation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What hidden systems of oppression might exist today that parallel Babylon's spiritual and economic exploitation?"
-      },
-      "moral_slider": {
-        "question": "How do human economic systems relate to spiritual integrity?",
-        "left_label": "Worldly Power",
-        "right_label": "Spiritual Alignment"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your understanding of global systems?",
-        "options": [
-          "Recognizing systemic spiritual corruption",
-          "Understanding divine judgment",
-          "Questioning economic structures",
-          "Seeing beyond material prosperity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As a cyclical pattern of divine judgment throughout history",
           "As a symbolic warning against compromising spiritual integrity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Babylon says",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Another voice from heaven says",
+            "ref": "v. 8",
+            "speaker": "Another voice from heaven"
+          }
+        ],
+        "question": "Put yourself in the position of the city that feels untouchable and secure. What does the sudden arrival of these plagues reveal about the reality of the queen's claim?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "1 John 2:15-17",
+        "summary": "An angel calls God's people to come out of the great city, so that they will not share in her sins or receive her plagues (v. 4). John says the world and its desires are passing away, and that the love of the Father is not in anyone who loves the world (1 John 2:15-17).",
+        "question": "How does John's warning about the passing nature of the world help you understand the angel's command to come out of the city?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "surrender",
+        "because": "the great city will be cast down, never to be seen again",
+        "feeling": "anxiety, fear",
+        "object": "a collapsing situation",
+        "behavior": "clinging to what is breaking",
+        "step": "place my trust in what remains",
+        "template": "from today I release my {feeling:anxiety, fear} over {object:a collapsing situation} and instead of {behavior:clinging to what is breaking}, I will {step:place my trust in what remains}."
       }
     }
   }

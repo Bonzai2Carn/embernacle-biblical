@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual insight from this chapter most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "External rituals do not define true spiritual purity",
-            "expansion": "True holiness emerges from the heart's intention, not mechanical observances."
-          },
-          {
-            "id": 2,
-            "text": "God's grace transcends cultural and religious boundaries",
-            "expansion": "Divine love cannot be contained by human-constructed religious limitations."
-          },
-          {
-            "id": 3,
-            "text": "Religious traditions can sometimes obstruct genuine spiritual connection",
-            "expansion": "Human traditions may inadvertently create barriers between people and authentic spiritual experience."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If religious practices are meant to draw us closer to God, how do we discern when they become barriers instead of bridges?"
-      },
-      "moral_slider": {
-        "question": "How do human traditions interact with divine commandments?",
-        "left_label": "Tradition Paramount",
-        "right_label": "Divine Principle Supreme"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual authenticity shifted after reflecting on this chapter?",
-        "options": [
-          "I now see ritual differently",
-          "I understand heart-motivation more deeply",
-          "I recognize cultural biases in my spiritual practice",
-          "I'm more aware of grace beyond boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Replacing genuine relationship with God through ritualistic performance",
           "Marginalizing individuals based on cultural or ethnic backgrounds"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The Pharisees and scribes questioned Jesus",
+            "ref": "v. 5",
+            "speaker": "The Pharisees and scribes"
+          },
+          {
+            "who": "Jesus answered them",
+            "ref": "vv. 6-8",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of a Pharisee who asked why the disciples eat with defiled hands. You hear Jesus say that these people honor God with their lips while their hearts are far from Him, and that you have disregarded the commandment of God to keep the tradition of men. What do you weigh?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "1 Samuel 16:7",
+        "summary": "Jesus teaches that true defilement starts in the human heart (vv. 21-23). Samuel learned that God looks past the outward appearance to see the heart.",
+        "question": "How does the focus on the heart in 1 Samuel 16:7 help you understand why Jesus ignores the unwashed hands of the disciples?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "evil thoughts, sexual immorality, theft, murder, and adultery come from within the hearts of men",
+        "feeling": "pride, self-righteousness",
+        "object": "my outward religious performance",
+        "behavior": "judging the motives of others",
+        "step": "ask God to search my heart",
+        "template": "from today I bring my {feeling:pride, self-righteousness} about {object:my outward religious performance} into the light and instead of {behavior:judging the motives of others}, I will {step:ask God to search my heart}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of divine leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Righteous Governance",
-            "expansion": "Leadership that prioritizes justice for the marginalized and oppressed"
-          },
-          {
-            "id": "2",
-            "text": "Universal Peace",
-            "expansion": "A vision of leadership that transcends borders and brings harmony among all peoples"
-          },
-          {
-            "id": "3",
-            "text": "Divine Sovereignty",
-            "expansion": "Understanding leadership as ultimately guided by God's eternal perspective"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true leadership be measured not by power accumulated, but by compassion distributed?"
-      },
-      "moral_slider": {
-        "question": "To what extent should political power serve spiritual principles?",
-        "left_label": "Political Pragmatism",
-        "right_label": "Spiritual Idealism"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership transformed?",
-        "options": [
-          "More empathetic towards the vulnerable",
-          "Recognize leadership as stewardship",
-          "See power as a responsibility, not a privilege",
-          "Understand leadership through a spiritual lens"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness and justice are core attributes of authentic leadership",
           "Political authority is ultimately accountable to divine moral standards"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The psalmist prays",
+            "ref": "vv. 12-14",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one praying for this king. You ask for his rescue of the needy and the oppressed, then you shift to praising God himself. What does this shift tell you about who actually accomplishes these deeds?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Isaiah 9:6-7",
+        "summary": "The psalmist prays that the king's name endure forever and that in him all nations be blessed (v. 17). Isaiah 9:6-7 says a child is born and a son given, and of the increase of His government and peace there will be no end.",
+        "question": "How does Isaiah 9:6-7 help you understand the king whose name is to endure forever (v. 17)?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "devotion",
+        "because": "the blood of the oppressed is precious in the king's sight",
+        "feeling": "indifference, apathy",
+        "object": "the suffering of others",
+        "behavior": "looking the other way",
+        "step": "seek a way to help",
+        "template": "from today I bring You my {feeling:indifference, apathy} about {object:the suffering of others} and instead of {behavior:looking the other way}, I will {step:seek a way to help}."
       }
     }
   }

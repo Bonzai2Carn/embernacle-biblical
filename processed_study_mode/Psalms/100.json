@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of worship resonates most deeply with you?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Universal Joy in God's Presence",
-            "expansion": "Recognizing that worship transcends individual experience and invites collective celebration."
-          },
-          {
-            "id": "2",
-            "text": "Gratitude as a Spiritual Discipline",
-            "expansion": "Understanding thanksgiving as a deliberate act of spiritual alignment and humility."
-          },
-          {
-            "id": "3",
-            "text": "God's Eternal Faithfulness",
-            "expansion": "Acknowledging that divine constancy provides profound comfort amidst human uncertainty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If worship is truly about acknowledging God's goodness, how might our understanding of 'praise' transform beyond ritualistic performance?"
-      },
-      "moral_slider": {
-        "question": "How do personal emotions intersect with genuine spiritual thanksgiving?",
-        "left_label": "Emotional Authenticity",
-        "right_label": "Disciplined Reverence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on worship evolved?",
-        "options": [
-          "I see worship as more communal now",
-          "I understand thanksgiving as a spiritual practice",
-          "I recognize worship's emotional and intellectual dimensions",
-          "I feel more connected to a larger spiritual narrative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Corporate praise reflects spiritual authenticity",
           "Gratitude is a fundamental posture of faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one called to serve the LORD with gladness. You are told to come before Him with joyful songs, and then you hear that He made you and you are His people. What do you weigh more heavily: the joy of the songs or the fact that you belong to Him?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "1 Peter 2:9-10",
+        "summary": "Psalm 100 says the LORD made His people and they are the sheep of His pasture (v. 3). First Peter 2:9-10 calls its readers a people for God's own possession, and says they are now the people of God.",
+        "question": "How does 1 Peter 2:9-10 help you understand the reason the psalmist gives in verse 3?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "trust",
+        "because": "the LORD is good, and His loving devotion endures forever",
+        "feeling": "worry, fear",
+        "object": "my uncertain future",
+        "behavior": "doubting His goodness",
+        "step": "thank Him for one good thing",
+        "template": "from today I bring You my {feeling:worry, fear} about {object:my uncertain future} and instead of {behavior:doubting His goodness}, I will {step:thank Him for one good thing}."
       }
     }
   }

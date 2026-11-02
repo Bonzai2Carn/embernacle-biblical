@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of ritual purity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Physical Boundaries of Holiness",
-            "expansion": "Ritual separation creates sacred spaces of spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Feminine Experience of Motherhood",
-            "expansion": "Biological processes are intrinsically connected to spiritual restoration."
-          },
-          {
-            "id": 3,
-            "text": "Divine Attention to Personal Transition",
-            "expansion": "God's meticulous care extends to individual life cycles and intimate experiences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual impurity is not about moral judgment, but spiritual attunement, how might we reframe our understanding of bodily experiences as sacred?"
-      },
-      "moral_slider": {
-        "question": "How do cultural practices of ritual purification balance between communal protection and individual dignity?",
-        "left_label": "External Regulation",
-        "right_label": "Personal Autonomy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on bodily processes and spiritual holiness shifted?",
-        "options": [
-          "More appreciative of complex spiritual transitions",
-          "Recognize deeper symbolic meanings in ritual practices",
-          "Understand interconnectedness of physical and spiritual realms",
-          "Recognize divine compassion in detailed instructions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "They represent the distinction between ceremonial and moral holiness",
           "They illustrate the comprehensive nature of God's redemptive plan"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "vv. 2-5",
+            "speaker": ""
+          },
+          {
+            "who": "The priest will present them",
+            "ref": "vv. 6-7",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a woman following these instructions for purification. You have completed your period of uncleanness, and now you must bring offerings. What does the priest's action accomplish for you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Luke 2:22-24",
+        "summary": "Leviticus 12 describes the purification and offerings required after childbirth (v. 6). Luke says that when the time of purification was complete, His parents brought Jesus to Jerusalem and offered a pair of turtledoves or two young pigeons.",
+        "question": "How does seeing Jesus' parents keep this law help you understand the offerings required in Leviticus 12?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "the priest will make atonement for her, and she will be clean",
+        "feeling": "shame, inadequacy",
+        "object": "my limited resources",
+        "behavior": "withdrawing from others",
+        "step": "approach the altar with what I have",
+        "template": "from today I let go of my {feeling:shame, inadequacy} over {object:my limited resources} and instead of {behavior:withdrawing from others}, I will {step:approach the altar with what I have}."
       }
     }
   }

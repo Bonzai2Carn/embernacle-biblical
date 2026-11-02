@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Moses' final journey resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Divine Perspective of the Promised Land",
-            "expansion": "Moses sees the entire landscape of promise from God's panoramic view, symbolizing spiritual vision beyond personal limitation."
-          },
-          {
-            "id": "2",
-            "text": "Leadership Transition",
-            "expansion": "Moses accepts his role is ending and gracefully prepares for Joshua's succession, demonstrating profound spiritual maturity."
-          },
-          {
-            "id": "3",
-            "text": "Mortality and Divine Covenant",
-            "expansion": "Moses dies on the mountain, yet witnesses God's enduring promise continuing beyond his individual life."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you knew you could see your life's ultimate purpose but not complete it, would you still choose to climb the mountain?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal desire with divine purpose?",
-        "left_label": "Personal Ambition",
-        "right_label": "Spiritual Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and legacy shifted?",
-        "options": [
-          "Leadership is about vision, not just personal achievement",
-          "Spiritual journeys transcend individual lifespans",
-          "Acceptance of limitations can be a form of spiritual strength",
-          "Succession is a sacred act of trust"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Reveals the importance of leadership accountability",
           "Illustrates the complexity of divine judgment and grace"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD said to him",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Moses's place. The LORD lets you see the land with your own eyes, but says you will not cross into it. What would you weigh most about seeing a promise you cannot enter?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Numbers 27:12-14",
+        "summary": "The text records the death of Moses in Moab (v. 5). Numbers 27 says the LORD told Moses he would see the land and be gathered to his people, because both he and Aaron rebelled against the LORD's command at the waters of Meribah (vv. 12-14).",
+        "question": "How does knowing why the LORD said this to Moses help you understand the scene in Deuteronomy 34?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "Joshua was filled with the spirit of wisdom, for Moses had laid his hands on him",
+        "feeling": "insecurity, doubt",
+        "object": "a new responsibility",
+        "behavior": "trying to do it alone",
+        "step": "look for wisdom in those God has appointed",
+        "template": "from today I let go of my {feeling:insecurity, doubt} over {object:a new responsibility} and instead of {behavior:trying to do it alone}, I will {step:look for wisdom in those God has appointed}."
       }
     }
   }

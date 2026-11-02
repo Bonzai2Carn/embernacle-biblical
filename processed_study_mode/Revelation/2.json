@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual authenticity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Testing False Apostles",
-            "expansion": "Discernment requires courageous spiritual scrutiny beyond surface appearances."
-          },
-          {
-            "id": 2,
-            "text": "Persevering Under Hardship",
-            "expansion": "Spiritual endurance emerges not from comfort, but from unwavering commitment."
-          },
-          {
-            "id": 3,
-            "text": "Losing First Love",
-            "expansion": "Institutional righteousness can subtly replace genuine spiritual intimacy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Can passionate doctrinal correctness paradoxically become a barrier to authentic spiritual connection?"
-      },
-      "moral_slider": {
-        "question": "How do spiritual discernment and grace coexist?",
-        "left_label": "Strict Judgment",
-        "right_label": "Unconditional Acceptance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual authenticity transformed?",
-        "options": [
-          "Recognized the difference between performance and genuine devotion",
-          "Understood spiritual testing requires compassion",
-          "Realized institutional righteousness can mask spiritual emptiness",
-          "Acknowledged the complexity of maintaining spiritual passion"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Persecution endurance does not guarantee intimate relationship with Christ",
           "Theological discernment must be balanced with divine love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The speaker commends the church",
+            "ref": "vv. 2-3",
+            "speaker": ""
+          },
+          {
+            "who": "The speaker issues a warning",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the church in Ephesus. You hear that you have labored, persevered, and exposed false apostles, and then, 'You have abandoned your first love.' What do you understand about what you have lost?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "1 Peter 4:12",
+        "summary": "The church in Smyrna is told not to fear the suffering ahead, including prison and ten days of tribulation (v. 10). 1 Peter 4:12 tells believers not to be surprised at the fiery trial that has come upon them, as though something strange were happening.",
+        "question": "How does 1 Peter 4:12 help you understand how the church in Smyrna is told to face the suffering ahead (v. 10)?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "trust",
+        "because": "the crown of life is given to the one who stays faithful even unto death",
+        "feeling": "fear, dread",
+        "object": "the suffering ahead",
+        "behavior": "backing away from faithfulness",
+        "step": "choose one faithful act this week",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:the suffering ahead} to God and instead of {behavior:backing away from faithfulness}, I will {step:choose one faithful act this week}."
       }
     }
   }

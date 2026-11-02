@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about divine communication resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God speaks through unexpected means",
-            "expansion": "Divine messages can emerge through surprising channels, even a talking donkey."
-          },
-          {
-            "id": 2,
-            "text": "Human intentions can be overruled by divine purpose",
-            "expansion": "Individual plans often collide with larger spiritual trajectories."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual perception requires humility",
-            "expansion": "Recognizing divine guidance demands openness beyond rational understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might our fear of the unknown blind us to divine interventions happening right before our eyes?"
-      },
-      "moral_slider": {
-        "question": "To what extent can human free will coexist with divine predetermined plans?",
-        "left_label": "Complete Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual communication shifted?",
-        "options": [
-          "I see divine guidance as more nuanced",
-          "I recognize unexpected spiritual messengers",
-          "I'm more aware of my own perceptual limitations",
-          "I understand divine plans transcend human comprehension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine guidance works collaboratively with human understanding",
           "Spiritual gifts operate independently of moral character"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The princes of Moab said",
+            "ref": "vv. 16-17",
+            "speaker": "The princes of Moab"
+          },
+          {
+            "who": "Balaam replied",
+            "ref": "v. 18",
+            "speaker": "Balaam"
+          }
+        ],
+        "question": "Put yourself in Balaam's place. The princes say Balak will honor you richly and do whatever you say if you come and put a curse on this people. You answer that even a house full of silver and gold could not make you go beyond the command of the LORD your God. What would you weigh about your answer, and what would you still wonder about?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "2 Peter 2:15-16",
+        "summary": "God's anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him (v. 22). Peter says Balaam loved the wages of wickedness and was rebuked by a donkey that spoke with a man's voice (2 Peter 2:15-16).",
+        "question": "How does 2 Peter 2:15-16 help you understand why the angel stood in the road to oppose Balaam?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "practice",
+        "because": "I must speak only the word that God puts in my mouth",
+        "feeling": "anxiety, pressure",
+        "object": "the need to please others",
+        "behavior": "saying what people want to hear",
+        "step": "speak only what is true",
+        "template": "from today I let go of my {feeling:anxiety, pressure} over {object:the need to please others} and instead of {behavior:saying what people want to hear}, I will {step:speak only what is true}."
       }
     }
   }

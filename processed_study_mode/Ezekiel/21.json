@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine judgment theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Universal Accountability",
-            "expansion": "God's judgment transcends individual righteousness and targets systemic spiritual corruption."
-          },
-          {
-            "id": 2,
-            "text": "Sword as Divine Instrument",
-            "expansion": "Metaphorical sword represents God's decisive, impartial intervention in human affairs."
-          },
-          {
-            "id": 3,
-            "text": "Collective Consequence",
-            "expansion": "Entire communities bear responsibility for spiritual and moral decay."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transforms punishment from mere retribution to redemptive opportunity?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine justice with seemingly indiscriminate judgment?",
-        "left_label": "Randomness/Unfairness",
-        "right_label": "Sovereign Purpose"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment shifted?",
-        "options": [
-          "More nuanced view of spiritual accountability",
-          "Greater appreciation for systemic spiritual dynamics",
-          "Increased respect for divine perspective",
-          "Recognition of communal spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's ultimate commitment to righteousness",
           "Judgment serves as a corrective mechanism for human behavior"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD commands",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the people who see the prophet groan before them. When they ask why, you hear that every heart will melt and every hand will go limp. What would you weigh about the news that is coming?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Romans 2:11",
+        "summary": "The LORD says He will draw His sword and cut off both the righteous and the wicked (vv. 3-4). Paul writes that God does not show favoritism (Rom 2:11).",
+        "question": "How does Romans 2:11 help you understand the sword that cuts off both the righteous and the wicked?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "exposure",
+        "because": "every heart will melt, and every hand will go limp",
+        "feeling": "fear, dread",
+        "object": "bad news I hear",
+        "behavior": "freezing up in fear",
+        "step": "pray through the news with God",
+        "template": "from today I bring my {feeling:fear, dread} about {object:bad news I hear} into the light and instead of {behavior:freezing up in fear}, I will {step:pray through the news with God}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of leadership stands out most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Empowerment",
-            "expansion": "Solomon's strength comes directly from God's presence and exaltation."
-          },
-          {
-            "id": 2,
-            "text": "Collective Consultation",
-            "expansion": "Solomon involves national leaders in significant spiritual moments."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Seeking",
-            "expansion": "Solomon demonstrates humility by approaching God at the high place of Gibeon."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true leadership emerge not from personal ambition, but from genuine spiritual alignment?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine favor depend on human initiative versus pure grace?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership shifted?",
-        "options": [
-          "Recognized importance of communal spiritual moments",
-          "Appreciated divine empowerment over individual capability",
-          "Understood leadership as spiritual seeking",
-          "Saw humility as a precondition for true power"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual leadership requires simultaneous divine grace and human cooperation",
           "Theological authority is exclusively determined by institutional appointment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Solomon asked",
+            "ref": "v. 10",
+            "speaker": "Solomon"
+          },
+          {
+            "who": "God said to Solomon",
+            "ref": "vv. 11-12",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in Solomon's place. You ask for the ability to lead a great people. What does God's response reveal about what He values in your request?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "James 1:5",
+        "summary": "Solomon asks for wisdom and knowledge to govern the people (v. 10). James tells believers that God gives wisdom generously to anyone who asks Him.",
+        "question": "How does James 1:5 change how you view the way Solomon approached God in Gibeon?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "no one is able to govern this great people of Yours",
+        "feeling": "inadequacy, fear",
+        "object": "a new responsibility",
+        "behavior": "relying on my own strength",
+        "step": "ask for wisdom and knowledge",
+        "template": "from today I let go of my {feeling:inadequacy, fear} over {object:a new responsibility} and instead of {behavior:relying on my own strength}, I will {step:ask for wisdom and knowledge}."
       }
     }
   }

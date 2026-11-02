@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of spiritual hardness most challenges you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Moral Blindness",
-            "expansion": "When people become so desensitized that they cannot recognize their own spiritual decay."
-          },
-          {
-            "id": 2,
-            "text": "Systemic Corruption",
-            "expansion": "The profound interconnectedness of societal sin that normalizes spiritual compromise."
-          },
-          {
-            "id": 3,
-            "text": "Divine Judgment",
-            "expansion": "The painful process of God revealing human weakness through consequential discipline."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If truth were a living person walking through your community, would they find anyone who genuinely seeks understanding?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact collective spiritual accountability?",
-        "left_label": "Personal Innocence",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your previous understanding of divine mercy?",
-        "options": [
-          "God's patience has limits",
-          "Collective sin affects entire communities",
-          "Spiritual numbness is a gradual process",
-          "Judgment can be an act of ultimate love"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal repentance can mitigate communal judgment",
           "Prophetic warnings are ultimately deterministic"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Jeremiah said",
+            "ref": "v. 4",
+            "speaker": "Jeremiah"
+          },
+          {
+            "who": "Jeremiah said",
+            "ref": "v. 5",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in Jeremiah's place. You find that the poor do not know the way of the LORD. What would you still wonder about the powerful, who surely know it?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Isaiah 59:1-2",
+        "summary": "The LORD says the people's iniquities have diverted good things from them and their sins have deprived them of His bounty (v. 25). Isaiah says iniquities build barriers between people and God, and sins hide His face so that He does not hear (Isaiah 59:2).",
+        "question": "How does Isaiah's description of a barrier help you understand why the people's sins deprived them of God's bounty (v. 25)?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "devotion",
+        "because": "the One who set the sand as the boundary for the sea is to be feared",
+        "feeling": "anxiety, dread",
+        "object": "the rising tides of life",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His established boundaries",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the rising tides of life} and instead of {behavior:trying to control the outcome}, I will {step:rest in His established boundaries}."
       }
     }
   }

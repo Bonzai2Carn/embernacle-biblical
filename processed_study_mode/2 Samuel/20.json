@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic of leadership challenges you most in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Political Fracture",
-            "expansion": "How quickly allegiances can dissolve under perceived injustice or opportunism"
-          },
-          {
-            "id": 2,
-            "text": "Ruthless Pragmatism",
-            "expansion": "The brutal calculations leaders must sometimes make to preserve broader stability"
-          },
-          {
-            "id": 3,
-            "text": "Internal Betrayal",
-            "expansion": "The psychological trauma of being abandoned by your own people"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "At what point does preserving national unity become more important than individual moral considerations?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal loyalty against national interest?",
-        "left_label": "Individual Loyalty",
-        "right_label": "Collective Survival"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership complexity shifted?",
-        "options": [
-          "Leadership requires uncomfortable compromises",
-          "Emotional intelligence matters more than strict protocol",
-          "Power is always fragile and contextual",
-          "Conflict resolution demands strategic empathy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Internal division can rapidly destabilize a nation's spiritual and political foundations",
           "Individual actions have profound consequences for collective community well-being"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "The wise woman said to Joab",
+            "ref": "v. 19",
+            "speaker": "Wise Woman"
+          },
+          {
+            "who": "The people cut off Sheba's head",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people of the city. A wise woman tells Joab that your city is a mother in Israel and asks why he would destroy it. What would you weigh before you answer her?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 133:1",
+        "summary": "Sheba calls Israel away from David, and only the men of Judah stay with their king (vv. 1-2). Psalm 133:1 says how good and pleasant it is when brothers live together in harmony.",
+        "question": "How does Psalm 133:1 help you understand what is lost when Israel turns from David and Judah stays?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "the men of Judah stayed by their king all the way from the Jordan to Jerusalem",
+        "feeling": "loneliness, abandonment",
+        "object": "friends drifting away from me",
+        "behavior": "following the crowd out the door",
+        "step": "stay loyal to those who stay with me",
+        "template": "from today I let go of my {feeling:loneliness, abandonment} over {object:friends drifting away from me} and instead of {behavior:following the crowd out the door}, I will {step:stay loyal to those who stay with me}."
       }
     }
   }

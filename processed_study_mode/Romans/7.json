@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological idea about law and relationship most resonates?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Legal bondage versus spiritual freedom",
-            "expansion": "The metaphor of marriage reveals how deeply we are bound before spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Death as a pathway to new relationship",
-            "expansion": "Our old self must symbolically 'die' to enter a new covenant with Christ."
-          },
-          {
-            "id": 3,
-            "text": "Internal struggle between desire and action",
-            "expansion": "The spiritual conflict within reveals our profound need for grace."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If the law reveals our weakness, how can it simultaneously be holy and expose our spiritual brokenness?"
-      },
-      "moral_slider": {
-        "question": "To what degree does human effort contribute to spiritual transformation?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "I now see internal conflict as normal",
-          "Grace matters more than perfect performance",
-          "Transformation is a journey, not an instant",
-          "My identity is not defined by my failures"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Law serves as a diagnostic tool for spiritual condition",
           "Law is completely abolished for believers"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Paul asks if the law is sin",
+            "ref": "v. 7",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains what sin did with the command",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears the command, 'Do not covet.' Then you learn that sin used that very command to produce every kind of covetous desire in you. What would you weigh about the command itself?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "James 4:1",
+        "summary": "Paul describes another law at work in his body, warring against the law of his mind (v. 23). James asks what causes the conflicts among you, and says they come from passions at war within you (James 4:1).",
+        "question": "How does James's picture of passions at war within you help you understand the struggle Paul describes in this chapter?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "surrender",
+        "because": "a wretched man asks who will rescue him from this body of death",
+        "feeling": "shame, self-loathing",
+        "object": "my repeated failures",
+        "behavior": "trying to fix myself by my own effort",
+        "step": "thank God for rescue through Jesus Christ",
+        "template": "from today I release my {feeling:shame, self-loathing} over {object:my repeated failures} and instead of {behavior:trying to fix myself by my own effort}, I will {step:thank God for rescue through Jesus Christ}."
       }
     }
   }

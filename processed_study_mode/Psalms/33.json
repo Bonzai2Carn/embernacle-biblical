@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which central theme of praise resonates most strongly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Creative Power",
-            "expansion": "The universe emerges from divine intentionality and sovereign design."
-          },
-          {
-            "id": 2,
-            "text": "Divine Faithfulness",
-            "expansion": "God's steadfast love transcends human limitation and temporal constraints."
-          },
-          {
-            "id": 3,
-            "text": "Human Dependence",
-            "expansion": "Human strength is ultimately illusory compared to divine providential care."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine sovereignty is absolute, what meaningful role remains for human agency and responsibility?"
-      },
-      "moral_slider": {
-        "question": "How do divine plans intersect with human free will?",
-        "left_label": "Predetermined Destiny",
-        "right_label": "Open Human Choice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship evolved?",
-        "options": [
-          "Recognizing worship as intellectual engagement",
-          "Understanding praise as transformative action",
-          "Seeing divine relationship as dynamic, not static",
-          "Appreciating complexity of theological mystery"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Humans have complete autonomy independent of divine influence",
           "Divine providence operates through human decisions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the singers' place. You are called to sing a new song and play with skill. What does the character of God's word and work make you want to sing about?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Genesis 1:1",
+        "summary": "The psalmist says the heavens were made by the word of the LORD (v. 6). Genesis 1:1 says God created the heavens and the earth in the beginning.",
+        "question": "How does seeing the origin of the world in Genesis help you weigh the power of the breath of His mouth in this psalm?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "trust",
+        "because": "no king is saved by his vast army",
+        "feeling": "anxiety, insecurity",
+        "object": "my own resources",
+        "behavior": "relying on my own strength",
+        "step": "rest in His protection",
+        "template": "from today I bring You my {feeling:anxiety, insecurity} about {object:my own resources} and instead of {behavior:relying on my own strength}, I will {step:rest in His protection}."
       }
     }
   }

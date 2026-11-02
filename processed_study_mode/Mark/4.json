@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual receptivity resonates most deeply?",
-        "choices": [
-          {
-            "id": "wayside",
-            "text": "The Hard-Hearted Ground",
-            "expansion": "Some hearts are so defended that transformative seeds cannot penetrate their predetermined narratives."
-          },
-          {
-            "id": "rocky",
-            "text": "The Shallow Ground",
-            "expansion": "Initial enthusiasm without deep roots creates spiritual volatility and eventual withering."
-          },
-          {
-            "id": "good_soil",
-            "text": "The Fertile Heart",
-            "expansion": "True spiritual growth requires vulnerability, patience, and intentional cultivation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible barriers prevent divine wisdom from taking root in your inner landscape?"
-      },
-      "moral_slider": {
-        "question": "How consciously do you cultivate spiritual receptivity?",
-        "left_label": "Passive Listener",
-        "right_label": "Active Cultivator"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "I recognize my own spiritual soil types",
-          "I see transformation as a intentional process",
-          "External conditions matter less than internal preparation",
-          "Small seeds can yield profound harvests"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal choice plays a critical role in spiritual development",
           "Divine election predetermines spiritual receptivity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Jesus asked them",
+            "ref": "v. 13",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus explained",
+            "ref": "vv. 14-15",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the disciples who asked Him about the parable. He asks whether you understand it, then explains that the farmer sows the word. What does that explanation open up for you, and what would you still ask Him?"
+      },
+      "chain": {
+        "after": 24,
+        "ref": "Galatians 6:7",
+        "summary": "Jesus says, 'Pay attention to what you hear. With the measure you use, it will be measured to you' (v. 24). Galatians 6:7 says God is not mocked, and whatever a man sows, he will reap in return.",
+        "question": "How does Galatians 6:7 help you understand the weight of how you attend to what you hear in Mark 4:24?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "the worries of this life and the deceitful nature of wealth choke the word",
+        "feeling": "anxiety, greed",
+        "object": "my financial security",
+        "behavior": "striving for more",
+        "step": "rest in His provision",
+        "template": "from today I let go of my {feeling:anxiety, greed} over {object:my financial security} and instead of {behavior:striving for more}, I will {step:rest in His provision}."
       }
     }
   }

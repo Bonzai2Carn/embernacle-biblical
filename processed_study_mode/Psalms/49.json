@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound perspective about wealth and mortality resonates most?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Wealth cannot redeem one's soul",
-            "expansion": "Material possessions are ultimately transient against the backdrop of eternal spiritual realities."
-          },
-          {
-            "id": "B",
-            "text": "Death is the great equalizer",
-            "expansion": "Both wealthy and poor ultimately face the same mortal destiny, rendering earthly status meaningless."
-          },
-          {
-            "id": "C",
-            "text": "True wisdom transcends financial measures",
-            "expansion": "Understanding spiritual truths matters more than accumulating worldly resources."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wealth cannot purchase immortality, what truly gives human life enduring significance?"
-      },
-      "moral_slider": {
-        "question": "How do we balance pursuing earthly success with spiritual understanding?",
-        "left_label": "Worldly Ambition",
-        "right_label": "Spiritual Perspective"
-      },
-      "reevaluation": {
-        "question": "How has this Psalm challenged your previous assumptions about value and meaning?",
-        "options": [
-          "Reconsidered the importance of material wealth",
-          "Gained perspective on mortality",
-          "Recognized spiritual wisdom's supremacy",
-          "Understood life's transient nature more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Financial prosperity indicates God's approval of an individual's life",
           "Spiritual richness matters more than monetary wealth"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The psalmist observes",
+            "ref": "vv. 10-11",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist concludes",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone watching wise men and fools alike die and leave their wealth to others. What do you understand when you hear that a man, despite his wealth, cannot endure and is like the beasts that perish?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Psalm 73:23-24",
+        "summary": "The psalmist says Sheol will be the end of those who trust in themselves, but God will redeem his life from Sheol and take him to Himself (vv. 14-15). Psalm 73:23-24 says, 'You hold my right hand. You guide me with Your counsel, and later receive me in glory.'",
+        "question": "How does Psalm 73:23-24 help you understand the psalmist's confidence that God will take him to Himself (v. 15)?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "remembrance",
+        "because": "a rich man will carry nothing away when he dies",
+        "feeling": "anxiety, greed",
+        "object": "accumulating more possessions",
+        "behavior": "working for temporary security",
+        "step": "give generously to someone in need",
+        "template": "from today I let go of my {feeling:anxiety, greed} over {object:accumulating more possessions} and instead of {behavior:working for temporary security}, I will {step:give generously to someone in need}."
       }
     }
   }

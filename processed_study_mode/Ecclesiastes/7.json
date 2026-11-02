@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound truth about human experience resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "A good name matters more than temporary pleasures",
-            "expansion": "Character and reputation outlast momentary gratifications"
-          },
-          {
-            "id": 2,
-            "text": "Sorrow teaches more than constant happiness",
-            "expansion": "Profound wisdom often emerges through experiencing life's difficulties"
-          },
-          {
-            "id": 3,
-            "text": "Humility is wiser than pride",
-            "expansion": "Recognizing human limitations leads to genuine understanding"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom emerges from suffering, what transformative insights might pain be attempting to communicate that comfort cannot?"
-      },
-      "moral_slider": {
-        "question": "Where do you position yourself between accepting life's imperfections and striving for personal improvement?",
-        "left_label": "Acceptance",
-        "right_label": "Transformation"
-      },
-      "reevaluation": {
-        "question": "How has reflecting on these insights shifted your perspective on life's meaning?",
-        "options": [
-          "I see life's challenges more philosophically",
-          "I'm more aware of wisdom's subtle teachings",
-          "I recognize the value of emotional depth",
-          "I'm less driven by superficial achievements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Pain is a random occurrence with no inherent spiritual significance",
           "Suffering represents an opportunity for deeper communion with Christ's redemptive work"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The Teacher says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The Teacher says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears a wise man's rebuke while others sing the song of fools. What would you weigh more heavily, and why?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "1 John 1:8",
+        "summary": "The Teacher says there is no righteous man on earth who does good and never sins (v. 20). John says that if we say we have no sin, we deceive ourselves and the truth is not in us.",
+        "question": "How does John's statement about saying we have no sin help you understand the Teacher's words in verse 20?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "anger settles in the lap of a fool",
+        "feeling": "impatience, irritation",
+        "object": "a slow driver",
+        "behavior": "snapping at others",
+        "step": "take a slow breath",
+        "template": "from today I let go of my {feeling:impatience, irritation} over {object:a slow driver} and instead of {behavior:snapping at others}, I will {step:take a slow breath}."
       }
     }
   }

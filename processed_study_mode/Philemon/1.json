@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic resonates most powerfully in this introduction?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Paul's Gratitude",
-            "expansion": "Thanksgiving emerges as a profound spiritual practice that transforms perspective and relationship."
-          },
-          {
-            "id": 2,
-            "text": "Community Connection",
-            "expansion": "The interconnected nature of early Christian relationships transcends social boundaries and hierarchies."
-          },
-          {
-            "id": 3,
-            "text": "Grace as Foundation",
-            "expansion": "Divine grace precedes and enables all authentic human interaction and spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal affection and spiritual calling intertwine to create transformative human relationships?"
-      },
-      "moral_slider": {
-        "question": "Where do personal relationships intersect with spiritual accountability?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community shifted?",
-        "options": [
-          "More aware of relational dynamics",
-          "Recognize deeper spiritual interconnectedness",
-          "Value personal narrative in faith journey",
-          "See leadership as servanthood"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritizes redemptive relationships over legal/social distinctions",
           "Reveals transformative power of Christian love and reconciliation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Philemon's place. Paul has the authority to command you, yet he chooses to appeal to your love instead. What does this choice reveal about how he wants you to act?"
+      },
+      "chain": {
+        "after": 16,
+        "ref": "Galatians 3:28",
+        "summary": "Paul tells Philemon to receive Onesimus no longer as a slave, but as a beloved brother (v. 16). Galatians says that in Christ Jesus there is neither slave nor free, because you are all one in Him.",
+        "question": "How does Galatians 3:28 help you understand the new relationship Paul is asking you to accept?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "repair",
+        "because": "anything Onesimus owes Philemon is charged to Paul's own account",
+        "feeling": "resentment, bitterness",
+        "object": "a person who hurt me",
+        "behavior": "demanding they pay me back",
+        "step": "absorb the cost myself",
+        "template": "from today I turn from my {feeling:resentment, bitterness} toward {object:a person who hurt me} and instead of {behavior:demanding they pay me back}, I will {step:absorb the cost myself}."
       }
     }
   }

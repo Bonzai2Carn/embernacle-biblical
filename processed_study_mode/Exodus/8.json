@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine confrontation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's direct challenge to oppressive power",
-            "expansion": "Divine intervention confronts systemic injustice through supernatural demonstration."
-          },
-          {
-            "id": 2,
-            "text": "Moses as an imperfect messenger",
-            "expansion": "Leadership emerges not from personal perfection, but willingness to be an instrument."
-          },
-          {
-            "id": 3,
-            "text": "Pharaoh's hardened heart",
-            "expansion": "Repeated exposure to truth can paradoxically increase resistance rather than provoke transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When divine intervention seems overwhelming, what determines whether one transforms or becomes more resistant?"
-      },
-      "moral_slider": {
-        "question": "How do supernatural demonstrations relate to authentic spiritual transformation?",
-        "left_label": "External Coercion",
-        "right_label": "Internal Conviction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine communication evolved?",
-        "options": [
-          "Recognize complexity of spiritual resistance",
-          "Understand leadership as courage, not perfection",
-          "See confrontation as potential pathway to liberation",
-          "Appreciate metaphorical power of supernatural narratives"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Miraculous interventions demonstrate God's commitment to covenant promises",
           "Plagues represent symbolic spiritual warfare against spiritual strongholds"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Pharaoh summoned Moses and Aaron and said",
+            "ref": "v. 8",
+            "speaker": "Pharaoh"
+          },
+          {
+            "who": "Moses said to Pharaoh",
+            "ref": "v. 9",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in Moses's place. Pharaoh asks you to pray that the frogs be removed and promises to let the people go. What would you weigh as you ask Pharaoh to name the time for your prayer?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Psalm 105:26-36",
+        "summary": "The LORD says He will send swarms of flies on Egypt but give special treatment to the land of Goshen (vv. 21-22). Psalm 105:26-36 lists the signs He sent through Moses and Aaron, including frogs, gnats, hail and locusts.",
+        "question": "How does the Psalmist's list of what God sent into Egypt help you see the weight of the plagues in this chapter?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "exposure",
+        "because": "the magicians said that the plague was the finger of God",
+        "feeling": "skepticism, doubt",
+        "object": "a strange coincidence",
+        "behavior": "dismissing God's work",
+        "step": "look for His hand in the small details",
+        "template": "from today I bring my {feeling:skepticism, doubt} about {object:a strange coincidence} into the light and instead of {behavior:dismissing God's work}, I will {step:look for His hand in the small details}."
       }
     }
   }

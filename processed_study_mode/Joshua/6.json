@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual strategy most resonates with your understanding of divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unconventional Obedience",
-            "expansion": "Following God's seemingly illogical instructions requires radical trust beyond human strategic reasoning."
-          },
-          {
-            "id": 2,
-            "text": "Collective Spiritual Action",
-            "expansion": "Unity and synchronized spiritual effort can overcome seemingly insurmountable obstacles."
-          },
-          {
-            "id": 3,
-            "text": "Divine Timing and Patience",
-            "expansion": "Spiritual victories often require precise obedience and waiting on God's specific instructions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of 'impossible' barriers change if you viewed them through a lens of faith rather than human limitation?"
-      },
-      "moral_slider": {
-        "question": "How do divine commands intersect with human ethical understanding?",
-        "left_label": "Human Moral Reasoning",
-        "right_label": "Divine Sovereign Authority"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of spiritual warfare and obedience?",
-        "options": [
-          "Reconsidered the role of faith in overcoming obstacles",
-          "Recognized the importance of collective spiritual action",
-          "Understood divine strategies differ from human logic",
-          "Reflected on the relationship between obedience and miracle"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God often works in ways that defy human logic and expectation",
           "Spiritual battles require complete trust and submission to Divine guidance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Joshua commanded the people",
+            "ref": "v. 10",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "the people shouted",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Israelite soldiers. You were told not to let one word come out of your mouth until the day you are told to shout. What do you understand as the horns sound and you finally shout, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Zechariah 4:6",
+        "summary": "The LORD tells Joshua He has already delivered Jericho into his hand (v. 2). Zechariah 4:6 gives the word of the LORD: not by might nor by power, but by His Spirit.",
+        "question": "How does the word 'not by might nor by power, but by My Spirit' help you understand the unusual way Israel was told to take the city?"
+      },
+      "conviction": {
+        "verse": 27,
+        "frame": "devotion",
+        "because": "the LORD was with Joshua",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult task",
+        "behavior": "relying on my own plans",
+        "step": "trust His presence",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a difficult task} and instead of {behavior:relying on my own plans}, I will {step:trust His presence}."
       }
     }
   }

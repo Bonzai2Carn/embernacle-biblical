@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What aspect of Paul's emotional connection to his heritage strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "His profound sorrow for his people",
-            "expansion": "Paul's deep love transcends personal theology, revealing a heart genuinely broken for his kinsmen."
-          },
-          {
-            "id": 2,
-            "text": "His willingness to be 'accursed' for others",
-            "expansion": "This radical self-sacrifice mirrors Christ's redemptive love and demonstrates ultimate spiritual empathy."
-          },
-          {
-            "id": 3,
-            "text": "The rich spiritual inheritance of Israel",
-            "expansion": "Paul acknowledges the profound historical and covenantal significance of his people's spiritual journey."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's sovereign election is not dependent on human merit, what does this reveal about the nature of grace itself?"
-      },
-      "moral_slider": {
-        "question": "How do divine sovereignty and human responsibility interact in salvation?",
-        "left_label": "Total Divine Predestination",
-        "right_label": "Human Free Will"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of God's relationship with Israel evolved?",
-        "options": [
-          "More appreciative of Israel's unique covenant",
-          "Recognizing complexity of divine election",
-          "Understanding God's mysterious redemptive plan",
-          "Seeing beyond ethnic boundaries to spiritual realities"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,37 @@
           "Divine election and human responsibility coexist mysteriously",
           "Salvation is a collaborative process between God and human will"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Paul asks the objection",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "and answers it",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one raising that objection. Does Paul's answer settle it for you? What does it clear up, and what would you still want to ask him?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Galatians 3:29",
+        "summary": "Paul says God's children are counted by promise, not by birth: *the children of the promise who are regarded as offspring* (v. 8). In Galatians, Paul says who those children are.",
+        "question": "Who does Galatians count as Abraham's seed, and how does that help you understand where you stand in v. 8?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "pacing",
+        "because": "it does not depend on our desire or effort, but on God's mercy",
+        "template": "from today I set down my {feeling:anxiety, guilt} about {object:being good enough for God} and instead of {behavior:keeping score of my effort}, I will {step:thank Him for one mercy each night}."
       }
     }
   }

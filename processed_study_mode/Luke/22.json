@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment reveals the deepest human struggle in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Judas's betrayal",
-            "expansion": "The complexity of human weakness and moral compromise emerges through a calculated act of treachery."
-          },
-          {
-            "id": 2,
-            "text": "Peter's denial",
-            "expansion": "The fragility of human courage confronts us when personal safety conflicts with loyalty."
-          },
-          {
-            "id": 3,
-            "text": "Jesus's prayer in Gethsemane",
-            "expansion": "The profound internal conflict between divine mission and human vulnerability becomes starkly visible."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine foreknowledge exists, does human agency truly matter in moments of critical moral choice?"
-      },
-      "moral_slider": {
-        "question": "How do personal loyalty and spiritual commitment balance in moments of extreme pressure?",
-        "left_label": "Individual Survival",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacrifice and commitment shifted?",
-        "options": [
-          "Recognized the complexity of human weakness",
-          "Understood spiritual strength requires vulnerability",
-          "Saw how personal fear can override moral conviction",
-          "Appreciated the depth of Jesus's compassion"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual warfare is manifested through Christ's internal struggle",
           "Divine foreknowledge does not eliminate genuine human experience of pain"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 26,
+        "exchange": [
+          {
+            "who": "Jesus declared",
+            "ref": "v. 25",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus said",
+            "ref": "v. 26",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the disciples. Jesus says that the kings of the Gentiles lord it over others and call themselves benefactors. What would you weigh about leadership when you hear that the greatest among you should be like the youngest, and the one who leads like the one who serves?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Hebrews 9:15",
+        "summary": "Jesus says the cup is the new covenant in His blood, which is poured out for you (v. 20). Hebrews 9:15 says that Christ is the mediator of a new covenant, and that He has died to redeem people from the transgressions committed under the first covenant.",
+        "question": "How does Hebrews 9:15 help you understand the new covenant Jesus names over the cup in Luke 22:20?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "surrender",
+        "because": "Jesus said, Father, if You are willing, take this cup from Me, yet not My will, but Yours be done",
+        "feeling": "anxiety, dread",
+        "object": "a difficult path ahead",
+        "behavior": "trying to control the outcome",
+        "step": "submit my plans to Him",
+        "template": "from today I release my {feeling:anxiety, dread} over {object:a difficult path ahead} and instead of {behavior:trying to control the outcome}, I will {step:submit my plans to Him}."
       }
     }
   }

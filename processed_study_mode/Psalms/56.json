@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core emotional experience resonates most from David's psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Vulnerability in Persecution",
-            "expansion": "David acknowledges human fragility while trusting divine protection"
-          },
-          {
-            "id": 2,
-            "text": "Transformative Trust",
-            "expansion": "Personal weakness becomes a pathway to profound spiritual strength"
-          },
-          {
-            "id": 3,
-            "text": "Emotional Honesty with God",
-            "expansion": "Raw, unfiltered communication with the divine reveals authentic spiritual relationship"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might vulnerability be paradoxically interpreted as spiritual courage rather than weakness?"
-      },
-      "moral_slider": {
-        "question": "Where do human fear and divine protection intersect?",
-        "left_label": "Human Vulnerability",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "Recognizing struggle as part of faith journey",
-          "Understanding emotional transparency with God",
-          "Seeing challenges as opportunities for growth",
-          "Embracing uncertainty as a spiritual discipline"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God is distant and uninvolved in human pain",
           "Persecution reveals the depth of one's faith commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place, hounded all day long by proud enemies. What do you understand when you say, 'When I am afraid, I put my trust in You'?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Psalm 139:16",
+        "summary": "The psalmist asks God to put his tears in His bottle and asks whether they are not in His book (v. 8). Psalm 139:16 says God's eyes saw the psalmist's unformed body, and all his days were written in God's book before one of them came to be.",
+        "question": "How does Psalm 139:16 help you understand the psalmist's tears being in God's book (v. 8)?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "in God, whose word I praise, I trust and will not be afraid",
+        "feeling": "panic, dread",
+        "object": "a threat from others",
+        "behavior": "looking for an escape",
+        "step": "say God's word out loud",
+        "template": "from today I bring You my {feeling:panic, dread} about {object:a threat from others} and instead of {behavior:looking for an escape}, I will {step:say God's word out loud}."
       }
     }
   }

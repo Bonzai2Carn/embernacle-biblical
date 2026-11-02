@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theme resonates most deeply in this psalm of spiritual resilience?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Divine Protection Throughout Life",
-            "expansion": "The psalmist's conviction that God has been a refuge from youth to old age reveals an unwavering trust in continuous divine care."
-          },
-          {
-            "id": "2",
-            "text": "Persistence in Praise Despite Challenges",
-            "expansion": "Even amid persecution and personal struggles, the author maintains a commitment to declaring God's righteousness and faithfulness."
-          },
-          {
-            "id": "3",
-            "text": "Generational Testimony of God's Power",
-            "expansion": "The psalm emphasizes proclaiming God's mighty acts not just for oneself, but as a testimony to future generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might one's perception of divine protection change when experiencing prolonged suffering or seemingly unanswered prayers?"
-      },
-      "moral_slider": {
-        "question": "What is the relationship between personal vulnerability and spiritual strength?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has this psalm challenged your understanding of spiritual resilience?",
-        "options": [
-          "Recognized the importance of continuous trust",
-          "Understood suffering as a potential pathway to deeper faith",
-          "Appreciated the value of intergenerational spiritual storytelling",
-          "Saw vulnerability as a strength, not a weakness"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine protection guarantees complete immunity from challenges",
           "Adversity reveals God's transformative power in human experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "His enemies say",
+            "ref": "v. 11",
+            "speaker": "My enemies"
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You hear your enemies say, 'God has forsaken him.' What do you weigh as you answer, 'I will always hope and will praise You more and more'?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "Lamentations 3:22-23",
+        "summary": "The psalmist says God will revive him once again and bring him back up from the depths (v. 20). Lamentations 3:22-23 says that because of the LORD's loving devotion we are not consumed, His mercies never fail, and they are new every morning.",
+        "question": "How does Lamentations 3:22-23 help you understand the psalmist's expectation of being brought back up (v. 20)?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "You are my hope, O Lord GOD, my confidence from my youth",
+        "feeling": "anxiety, fear",
+        "object": "an uncertain future",
+        "behavior": "worrying about every detail",
+        "step": "rest in Your faithfulness",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:an uncertain future} and instead of {behavior:worrying about every detail}, I will {step:rest in Your faithfulness}."
       }
     }
   }

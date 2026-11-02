@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual vision most captures your imagination?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Four Chariots representing Divine Providence",
-            "expansion": "These chariots symbolize God's dynamic, omnipresent oversight of global spiritual movements."
-          },
-          {
-            "id": 2,
-            "text": "The Branch emerging as a royal-priestly figure",
-            "expansion": "This prophetic image reveals a messianic figure who embodies both governmental and spiritual authority."
-          },
-          {
-            "id": 3,
-            "text": "The cosmic spiritual mechanisms between heaven and earth",
-            "expansion": "The supernatural chariots suggest intricate spiritual realms beyond human comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine sovereignty coexist with human free will, given the predetermined nature of these spiritual chariots?"
-      },
-      "moral_slider": {
-        "question": "To what extent do you perceive divine intervention in historical processes?",
-        "left_label": "Minimal Direct Intervention",
-        "right_label": "Constant Divine Orchestration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic vision evolved?",
-        "options": [
-          "Recognize symbolic complexity",
-          "Appreciate metaphysical dimensions",
-          "Understand prophetic communication nuances",
-          "Embrace mystery in spiritual revelation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Demonstrate God's sovereignty over geopolitical movements",
           "Indicate prophetic timing of end-times events"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The LORD names the Branch",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises the Branch's rule",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing that a man called the Branch will build the LORD's temple. What would you still wonder about a ruler who is also a priest on his throne?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Zechariah 3:8",
+        "summary": "The LORD says the Branch will build the temple, sit and rule on His throne, and be a priest on it (v. 13). Zechariah 3:8 earlier calls the Branch the LORD's servant.",
+        "question": "How does Zechariah 3:8 help you understand who the Branch is in this vision?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "those far away will come and build the temple of the LORD if you diligently obey the voice of the LORD your God",
+        "feeling": "laziness, complacency",
+        "object": "a long unfinished project",
+        "behavior": "waiting for someone else to start",
+        "step": "obey one command I have delayed today",
+        "template": "from today I let go of my {feeling:laziness, complacency} over {object:a long unfinished project} and instead of {behavior:waiting for someone else to start}, I will {step:obey one command I have delayed today}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's sovereignty transcends human political boundaries and national pride."
-          },
-          {
-            "id": 2,
-            "text": "Collective Consequence",
-            "expansion": "Nations are spiritually interconnected, with actions having far-reaching communal impacts."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning",
-            "expansion": "Spiritual messengers provide critical insights into potential future calamities through divine revelation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what transformative power exists in prophetic warning?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and mercy interact in moments of national reckoning?",
-        "left_label": "Absolute Judgment",
-        "right_label": "Redemptive Possibility"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual accountability shifted?",
-        "options": [
-          "Recognized deeper patterns of collective responsibility",
-          "Understood prophetic messages as nuanced, not merely punitive",
-          "Saw geopolitical events through a spiritual lens",
-          "Appreciated complexity of divine interventions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's judgment demonstrates His commitment to ultimate cosmic justice",
           "Prophecies of judgment are primarily metaphorical, representing spiritual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 6-7",
+            "speaker": "Son of man"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the nations watching Egypt fall. As their strength and cities are destroyed, what is the purpose behind the fire and the shattering of their helpers?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Nahum 3:8-10",
+        "summary": "The LORD declares He will break the arms of Pharaoh and make his sword fall (vv. 21-22). Nahum describes Thebes, a city whose strength and allies could not keep it from exile (Nahum 3:8-10).",
+        "question": "How does Nahum 3:8-10 help you understand the broken strength of Egypt's king?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "exposure",
+        "because": "the LORD is against Pharaoh king of Egypt and will break his arms and make the sword fall from his hand",
+        "feeling": "pride, self-reliance",
+        "object": "my own plans",
+        "behavior": "clinging to my own strength",
+        "step": "surrender my control to Him",
+        "template": "from today I bring my {feeling:pride, self-reliance} about {object:my own plans} into the light and instead of {behavior:clinging to my own strength}, I will {step:surrender my control to Him}."
       }
     }
   }

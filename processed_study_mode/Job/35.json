@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human righteousness resonates most?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Our actions do not fundamentally change God's nature",
-            "expansion": "Human moral performance is ultimately insignificant compared to divine sovereignty"
-          },
-          {
-            "id": "B",
-            "text": "Righteousness is about relationship, not transactional merit",
-            "expansion": "Spiritual integrity matters more than performative religious gestures"
-          },
-          {
-            "id": "C",
-            "text": "Divine justice transcends human understanding",
-            "expansion": "Our limited perspective cannot fully comprehend God's complex moral calculus"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your righteousness does not 'profit' God, what truly motivates genuine spiritual pursuit?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine justice intersect?",
-        "left_label": "Individual Victimhood",
-        "right_label": "Universal Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "I see my actions as less transactional",
-          "I recognize human limitations more clearly",
-          "I'm more humble about my moral standing",
-          "I understand divine perspective differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness is measured by divine standards, not human perception",
           "Human beings cannot fully comprehend divine moral calculations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Elihu confronts Job",
+            "ref": "v. 2",
+            "speaker": "Elihu"
+          },
+          {
+            "who": "Elihu answers",
+            "ref": "v. 7",
+            "speaker": "Elihu"
+          }
+        ],
+        "question": "Put yourself in Job's place. You say you are more righteous than God. What would you weigh about what your righteousness could give Him, or what He could receive from your hand?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 143:2",
+        "summary": "Elihu quotes Job's claim to be more righteous than God (v. 2). The psalmist asks God not to judge His servant, for no one alive is righteous before Him (Psalm 143:2).",
+        "question": "How does Psalm 143:2 help you weigh Job's claim that he is more righteous than God?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "my case is before God, and I must wait for Him",
+        "feeling": "impatience, frustration",
+        "object": "a prayer that seems unanswered",
+        "behavior": "demanding an answer on my own timing",
+        "step": "wait on Him in prayer",
+        "template": "from today I entrust my {feeling:impatience, frustration} about {object:a prayer that seems unanswered} to God and instead of {behavior:demanding an answer on my own timing}, I will {step:wait on Him in prayer}."
       }
     }
   }

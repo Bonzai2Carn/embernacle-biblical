@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual concept most resonates with your understanding of Christian freedom?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Liberty in Christ",
-            "expansion": "Freedom is not about removing constraints, but being liberated from legalistic obligations to pursue genuine spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Grace Over Law",
-            "expansion": "Salvation emerges through faith and relationship, not mechanical adherence to ritualistic requirements."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Identity",
-            "expansion": "Our fundamental worth comes from Christ's redemption, not external religious performances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If religious practices could never earn salvation, what truly defines authentic spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal spiritual freedom with community religious expectations?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Communal Accountability"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your previous understanding of spiritual growth?",
-        "options": [
-          "Recognizing grace over legalism",
-          "Understanding spiritual freedom",
-          "Redefining personal righteousness",
-          "Embracing transformative faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Liberation from external religious rituals and regulations",
           "Unrestricted personal interpretation of scripture"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 17,
+        "exchange": [
+          {
+            "who": "Paul said",
+            "ref": "v. 16",
+            "speaker": ""
+          },
+          {
+            "who": "Paul gave the reason",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Galatians, hearing Paul say to walk by the Spirit. What would you understand about why you do not do what you want when the flesh and the Spirit are opposed?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Romans 8:2",
+        "summary": "Paul says Christ has set us free for freedom (v. 1). Romans says the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death (Romans 8:2).",
+        "question": "How does Romans 8:2 help you understand what it means that Christ has set us free?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "believers were called to freedom, but not to use that freedom as an opportunity for the flesh",
+        "feeling": "self-indulgence, entitlement",
+        "object": "my freedom in Christ",
+        "behavior": "indulging the flesh",
+        "step": "serve others in love",
+        "template": "from today I let go of my {feeling:self-indulgence, entitlement} over {object:my freedom in Christ} and instead of {behavior:indulging the flesh}, I will {step:serve others in love}."
       }
     }
   }

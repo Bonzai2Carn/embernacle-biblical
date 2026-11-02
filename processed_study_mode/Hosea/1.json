@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine messaging resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's willingness to use personal suffering as prophetic communication",
-            "expansion": "Hosea's marriage becomes a living metaphor for divine relationship with Israel."
-          },
-          {
-            "id": 2,
-            "text": "The symbolic renaming of children as prophetic signs",
-            "expansion": "Each child's name represents a different dimension of God's judgment and eventual restoration."
-          },
-          {
-            "id": 3,
-            "text": "Divine patience despite repeated human unfaithfulness",
-            "expansion": "God continues to speak and engage even when His people repeatedly turn away."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God asked you to live out a painful personal metaphor to communicate a spiritual truth, would obedience or personal comfort prevail?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist in this narrative?",
-        "left_label": "Harsh Judgment",
-        "right_label": "Redemptive Love"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication shifted?",
-        "options": [
-          "Recognized God's willingness to use personal stories",
-          "Understood metaphorical communication more deeply",
-          "Saw divine love through a more complex lens",
-          "Appreciated prophetic vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic symbolism can transcend personal comfort and social norms",
           "Divine instructions sometimes defy human moral expectations to reveal deeper spiritual realities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The LORD said",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD said",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this message. How does the promise of a massive, unmeasurable future (v. 10) change your view of the rejection you just heard (v. 9)?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Romans 9:25-26",
+        "summary": "The LORD says those told 'You are not My people' will be called 'sons of the living God' (v. 10). Romans 9:25-26 quotes this promise from Hosea, and also includes I will call them 'My People' who are not My people.",
+        "question": "How does Romans 9:25-26 help you understand the promise to those who were called 'not My people' in verse 9?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the LORD will save the house of Judah, not by bow or sword or war, but by the LORD their God",
+        "feeling": "anxiety, fear",
+        "object": "a looming conflict",
+        "behavior": "relying on my own strength",
+        "step": "rest in His protection",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a looming conflict} to God and instead of {behavior:relying on my own strength}, I will {step:rest in His protection}."
       }
     }
   }

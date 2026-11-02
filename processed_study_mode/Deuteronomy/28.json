@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine covenant most resonates with you?",
-        "choices": [
-          {
-            "id": "blessings",
-            "text": "Blessings for Obedience",
-            "expansion": "Divine rewards emerge from faithful alignment with spiritual principles."
-          },
-          {
-            "id": "consequences",
-            "text": "Consequences of Disobedience",
-            "expansion": "Personal and collective choices create cascading spiritual outcomes."
-          },
-          {
-            "id": "relationship",
-            "text": "Covenant as Relationship",
-            "expansion": "The divine-human connection transcends transactional reward and punishment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine blessing is conditional, does that make grace less meaningful or more intentional?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact communal spiritual destiny?",
-        "left_label": "Personal Freedom",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "More aware of personal choices",
-          "Recognize systemic spiritual dynamics",
-          "See interconnectedness of actions",
-          "Understand nuanced divine relationship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual transformation requires both blessing and challenging experiences",
           "Individual faithfulness determines collective national outcomes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 1-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 15-16",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself among the people hearing this law. You hear that obeying brings the blessings, and disobeying brings curses, in the city and in the country. What would you weigh most as you choose between them?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Leviticus 26:3-13",
+        "summary": "The LORD promises blessings for obedience: blessed in the city and in the country (vv. 3-6). Leviticus 26 lists the results of keeping His statutes, such as rain in season, harvest, and peace in the land.",
+        "question": "How does the promise of rain, harvest, and peace in Leviticus 26 help you understand the weight of the blessings promised in Deuteronomy 28?"
+      },
+      "conviction": {
+        "verse": 47,
+        "frame": "devotion",
+        "because": "you did not serve the LORD your God with joy and gladness of heart",
+        "feeling": "bitterness, resentment",
+        "object": "my daily responsibilities",
+        "behavior": "grumbling through my tasks",
+        "step": "offer a prayer of thanks",
+        "template": "from today I let go of my {feeling:bitterness, resentment} over {object:my daily responsibilities} and instead of {behavior:grumbling through my tasks}, I will {step:offer a prayer of thanks}."
       }
     }
   }

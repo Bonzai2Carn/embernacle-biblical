@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Jerusalem's significance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unity of Believers",
-            "expansion": "The city represents collective spiritual identity and communal connection."
-          },
-          {
-            "id": 2,
-            "text": "Divine Testimony",
-            "expansion": "Jerusalem embodies God's historical covenant and ongoing relationship with His people."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Pilgrimage",
-            "expansion": "The journey to Jerusalem symbolizes intentional spiritual seeking and transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If Jerusalem represents spiritual unity, how do we transcend geographical and denominational boundaries in authentic worship?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual experiences balance with communal worship traditions?",
-        "left_label": "Individual Spirituality",
-        "right_label": "Collective Religious Practice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual community evolved?",
-        "options": [
-          "Deeper appreciation for collective worship",
-          "Recognizing universal spiritual connections",
-          "Understanding symbolic significance of sacred spaces",
-          "Embracing diversity within spiritual traditions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The psalm's communal worship model is exclusively historical and not applicable today",
           "Jerusalem represents the collective spiritual experience of believers worldwide"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist remembers",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes the tribes",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one who was glad to hear, 'Let us go to the house of the LORD.' You see the tribes go up as a testimony for Israel, to give thanks to the name of the LORD. What do you understand about why they go?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Isaiah 56:7",
+        "summary": "The psalmist was glad to hear 'Let us go to the house of the LORD' (v. 1). Isaiah 56:7 says God will bring people to His holy mountain and make them joyful in His house of prayer.",
+        "question": "How does Isaiah 56:7 help you understand the gladness of going to the house of the LORD in verse 1?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "for the sake of the house of the LORD our God I seek Jerusalem's prosperity",
+        "feeling": "indifference, selfishness",
+        "object": "the needs of my community",
+        "behavior": "focusing only on my own comfort",
+        "step": "ask one neighbor what they need",
+        "template": "from today I bring You my {feeling:indifference, selfishness} about {object:the needs of my community} and instead of {behavior:focusing only on my own comfort}, I will {step:ask one neighbor what they need}."
       }
     }
   }

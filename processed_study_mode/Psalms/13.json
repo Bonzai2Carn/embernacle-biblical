@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional aspect of David's lament resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling Forgotten by God",
-            "expansion": "The experience of perceived divine absence and silence in personal suffering"
-          },
-          {
-            "id": 2,
-            "text": "Persistent Prayer Despite Struggle",
-            "expansion": "Maintaining spiritual dialogue even when feeling spiritually disconnected"
-          },
-          {
-            "id": 3,
-            "text": "Transformative Hope",
-            "expansion": "The radical shift from despair to trust, demonstrating spiritual resilience"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might persistent questioning of divine silence actually be a form of profound spiritual engagement?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate your trust when experiencing divine silence?",
-        "left_label": "Personal Doubt",
-        "right_label": "Unconditional Trust"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Suffering is not a sign of abandonment",
-          "Questioning is part of spiritual growth",
-          "Emotional honesty matters more than performative piety",
-          "Hope can coexist with deep pain"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine timing frequently differs from human expectations of immediate intervention",
           "Persistent faith can coexist with genuine emotional struggle and doubt"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You feel forgotten and overwhelmed by sorrow. What does the shift to trust in His devotion tell you about how the psalmist views God's character?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Psalm 22:1-2",
+        "summary": "The psalmist asks how long God will hide His face (vv. 1-2). Psalm 22:1-2 asks why God has forsaken him and says he cries out by day but God does not answer.",
+        "question": "How does Psalm 22:1-2 help you understand the silence the psalmist feels in Psalm 13?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "remembrance",
+        "because": "the LORD has been good to me",
+        "feeling": "despair, hopelessness",
+        "object": "a season of waiting",
+        "behavior": "focusing on my losses",
+        "step": "list one past mercy",
+        "template": "from today I bring You my {feeling:despair, hopelessness} about {object:a season of waiting} and instead of {behavior:focusing on my losses}, I will {step:list one past mercy}."
       }
     }
   }

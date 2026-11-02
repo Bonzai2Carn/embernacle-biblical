@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about leadership transition?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Inherited Expectations",
-            "expansion": "The people's memory of Solomon's demanding reign shapes Rehoboam's initial challenge."
-          },
-          {
-            "id": 2,
-            "text": "Generational Wisdom Disconnect",
-            "expansion": "Young leaders often struggle to understand the nuanced counsel of elder advisors."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Pride",
-            "expansion": "Rehoboam's rejection of humble negotiation leads to national fracture."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does maintaining traditional power become more destructive than adaptive compromise?"
-      },
-      "moral_slider": {
-        "question": "How should a new leader balance tradition with progressive reform?",
-        "left_label": "Rigid Preservation",
-        "right_label": "Radical Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership changed?",
-        "options": [
-          "Power is more fragile than I realized",
-          "Listening matters more than commanding",
-          "Generational perspectives create inevitable tensions",
-          "Wisdom often comes from unexpected sources"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Political outcomes are solely result of human wisdom/folly",
           "Divine prophecy operates independently of human agency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The elders replied",
+            "ref": "v. 7",
+            "speaker": "The elders"
+          },
+          {
+            "who": "Rehoboam rejected the advice",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Rehoboam's place. You are presented with a way to secure your people through service, yet you choose a different path. What does this choice reveal about what you valued in that moment?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Isaiah 46:10",
+        "summary": "The division of the kingdom happens as a fulfillment of what the LORD had already spoken to Jeroboam (v. 15). Isaiah describes a God who declares the end from the beginning.",
+        "question": "How does knowing that God declares the end from the beginning help you understand why this rebellion was part of His word to Jeroboam?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "the king answered the people harshly",
+        "feeling": "impatience, irritation",
+        "object": "a difficult conversation",
+        "behavior": "speaking sharp words",
+        "step": "listen to wise counsel",
+        "template": "from today I let go of my {feeling:impatience, irritation} over {object:a difficult conversation} and instead of {behavior:speaking sharp words}, I will {step:listen to wise counsel}."
       }
     }
   }

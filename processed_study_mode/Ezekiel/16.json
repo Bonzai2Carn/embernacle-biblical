@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which metaphorical aspect of God's relationship with Israel resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Abandoned Infant",
-            "expansion": "The profound image of God rescuing and nurturing a helpless, unwanted child represents divine compassion."
-          },
-          {
-            "id": 2,
-            "text": "Unfaithful Bride",
-            "expansion": "The metaphor of Israel as an unfaithful spouse highlights the deep emotional pain of spiritual betrayal."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Restoration",
-            "expansion": "The promise of ultimate reconciliation demonstrates God's unconditional love beyond human failure."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal and collective moral failures intersect with divine grace in this narrative?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment reflect love versus punishment?",
-        "left_label": "Retributive Justice",
-        "right_label": "Redemptive Love"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine relationship changed after reflecting on this chapter?",
-        "options": [
-          "More aware of personal spiritual vulnerability",
-          "Recognize complexity of divine-human covenant",
-          "Understand grace as transformative process",
-          "See judgment as ultimately restorative"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As prophetic allegory demonstrating divine love's persistence",
           "As metaphorical language revealing complex divine-human relationship dynamics"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the abandoned child. You lie in an open field, wallowing in your blood, yet someone passes by and says, 'Live!' What does that word change about your view of your own survival?"
+      },
+      "chain": {
+        "after": 60,
+        "ref": "Jeremiah 31:3",
+        "summary": "In Ezekiel, God promises to remember His covenant and establish an everlasting one (v. 60). Jeremiah shows the heart behind this promise, where God reveals His eternal affection for His people.",
+        "question": "How does the eternal love described in Jeremiah 31:3 help you understand why God establishes an everlasting covenant after such great betrayal?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "remembrance",
+        "because": "Jerusalem did not remember the days of her youth, when she was naked and wallowing in her blood",
+        "feeling": "pride, self-sufficiency",
+        "object": "my current successes",
+        "behavior": "forgetting where I came from",
+        "step": "thank God for His past faithfulness",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my current successes} and instead of {behavior:forgetting where I came from}, I will {step:thank God for His past faithfulness}."
       }
     }
   }

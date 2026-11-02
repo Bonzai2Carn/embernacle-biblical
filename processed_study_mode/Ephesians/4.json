@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological concept most challenges your understanding of Christian unity?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "One Body, One Spirit",
-            "expansion": "The radical interconnectedness of believers transcends individual differences and cultural boundaries."
-          },
-          {
-            "id": 2,
-            "text": "Walking Worthy of Calling",
-            "expansion": "Personal spiritual maturity requires intentional alignment with divine purpose and communal responsibility."
-          },
-          {
-            "id": 3,
-            "text": "Unity Through Humility",
-            "expansion": "Genuine spiritual community emerges from genuine self-awareness and mutual grace."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true spiritual unity requires 'lowliness and gentleness', how might your current approach to disagreement reveal hidden pride?"
-      },
-      "moral_slider": {
-        "question": "How do individual spiritual gifts balance with collective church unity?",
-        "left_label": "Individual Expression",
-        "right_label": "Communal Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of Christian community evolved?",
-        "options": [
-          "More aware of spiritual interconnectedness",
-          "Recognize importance of humility",
-          "Understand diversity within unity",
-          "See beyond personal preferences"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Diversity reflects God's creative design within spiritual harmony",
           "Ministerial roles are hierarchically structured without mutual interdependence"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 20,
+        "exchange": [
+          {
+            "who": "Paul warns",
+            "ref": "vv. 17-19",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 20",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of those who were once part of that way of life. What does Paul's distinction reveal about the change that has happened in you?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "1 Corinthians 12:12-13",
+        "summary": "Paul explains that Christ gives various gifts to individuals (v. 11). Paul also shows how these different parts are joined into one single body (1 Corinthians 12:12-13).",
+        "question": "How does 1 Corinthians 12:12-13 help you understand the purpose of the different roles Paul lists in verse 11?"
+      },
+      "conviction": {
+        "verse": 32,
+        "frame": "repair",
+        "because": "God forgave you in Christ",
+        "feeling": "resentment, bitterness",
+        "object": "a person who hurt me",
+        "behavior": "replaying their mistake",
+        "step": "extend a kind word",
+        "template": "from today I turn from my {feeling:resentment, bitterness} toward {object:a person who hurt me} and instead of {behavior:replaying their mistake}, I will {step:extend a kind word}."
       }
     }
   }

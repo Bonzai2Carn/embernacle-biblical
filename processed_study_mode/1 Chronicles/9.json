@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of community restoration speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Genealogical Continuity",
-            "expansion": "Tracing lineage preserves historical identity and spiritual inheritance."
-          },
-          {
-            "id": 2,
-            "text": "Communal Resettlement",
-            "expansion": "Rebuilding together represents collective resilience after traumatic displacement."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Leadership Restoration",
-            "expansion": "Reinstating priests and Levites symbolizes recommitting to divine covenant."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of community change if you viewed your identity not as an individual, but as part of a continuous ancestral narrative?"
-      },
-      "moral_slider": {
-        "question": "How do past failures balance against potential for redemption?",
-        "left_label": "Historical Failure",
-        "right_label": "Future Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on community and spiritual inheritance shifted?",
-        "options": [
-          "I now see lineage as more significant",
-          "Collective resilience matters more than individual achievement",
-          "Spiritual leadership requires deep historical understanding",
-          "Community restoration is a complex, multilayered process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Spiritual leadership is critical for community regeneration",
           "Individual and collective repentance enables restoration"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 1,
+        "ref": "Ezra 2:70",
+        "summary": "The first verse records why Judah was exiled to Babylon: their unfaithfulness (v. 1). Ezra 2:70 says the priests, Levites, and others settled in their own towns.",
+        "question": "How does Ezra 2:70 help you understand the people settling in their own towns after the exile described in 1 Chronicles 9:1?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "remembrance",
+        "because": "the LORD was with Phinehas son of Eleazar",
+        "feeling": "anxiety, doubt",
+        "object": "a new responsibility",
+        "behavior": "trying to do it alone",
+        "step": "rest in His presence",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a new responsibility} and instead of {behavior:trying to do it alone}, I will {step:rest in His presence}."
       }
     }
   }

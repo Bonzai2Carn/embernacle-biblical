@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on divine sovereignty resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's ultimate control",
-            "expansion": "The psalm emphasizes that human political schemes are ultimately futile against divine providence."
-          },
-          {
-            "id": 2,
-            "text": "Human rebellion against divine order",
-            "expansion": "Nations and leaders consistently position themselves in opposition to God's established kingdom."
-          },
-          {
-            "id": 3,
-            "text": "Divine humor in human resistance",
-            "expansion": "God's response to human political machinations is portrayed as almost bemused derision."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine authority is absolute, what becomes of human free will and political agency?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine love?",
-        "left_label": "Punitive Justice",
-        "right_label": "Redemptive Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of power dynamics shifted?",
-        "options": [
-          "Recognize spiritual dimensions beyond political structures",
-          "Understand leadership as stewardship, not personal domain",
-          "Appreciate paradoxical nature of divine intervention",
-          "Acknowledge limits of human strategic planning"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's chosen Messiah transcends temporal political structures",
           "Divine judgment is a present and ongoing process, not just a future event"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The psalmist calls the kings",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist warns, then blesses",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one being told to serve the LORD with fear. What would you weigh in choosing between rebellion and refuge in the Son?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Hebrews 1:5",
+        "summary": "The LORD declares to the king, You are My Son; today I have become Your Father (v. 7). Hebrews 1:5 repeats these words and asks to which of the angels God ever said them.",
+        "question": "How does Hebrews 1:5 help you understand the decree the LORD speaks in Psalm 2:7?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "blessed are all who take refuge in the Son",
+        "feeling": "anxiety, fear",
+        "object": "the chaos of the world",
+        "behavior": "trying to control outcomes",
+        "step": "rest in His protection",
+        "template": "from today I bring You my {feeling:anxiety, fear} about {object:the chaos of the world} and instead of {behavior:trying to control outcomes}, I will {step:rest in His protection}."
       }
     }
   }

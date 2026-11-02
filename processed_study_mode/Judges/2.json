@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine guidance resonates most profoundly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Covenant Faithfulness",
-            "expansion": "God's commitment transcends human inconsistency and repeated failures."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of Disobedience",
-            "expansion": "Spiritual compromise creates generational spiritual vulnerability."
-          },
-          {
-            "id": 3,
-            "text": "Divine Warning Mechanism",
-            "expansion": "Prophetic messages serve as redemptive interventions before complete moral collapse."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions are clear, why do humans persistently create alternative paths of compromise?"
-      },
-      "moral_slider": {
-        "question": "How do divine expectations balance with human frailty?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Standard"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual obedience transformed?",
-        "options": [
-          "Recognize subtle spiritual compromises",
-          "Understand generational spiritual patterns",
-          "Appreciate prophetic warnings",
-          "See covenant as dynamic, not static"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant faithfulness requires complete, not partial, obedience",
           "Divine judgment reveals God's commitment to holiness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The angel of the LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The angel of the LORD"
+          },
+          {
+            "who": "The people wept",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the Israelites as the angel speaks. You hear that you were not to make a covenant with the people of this land, and that the LORD will not drive them out. Then the people lift up their voices and weep. What do you understand by that weeping, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 78:9-11",
+        "summary": "A new generation rises up that does not know the works of the LORD (v. 10). The Psalmist describes this kind of generation: they failed to keep God's covenant and forgot what He had done (Psalm 78:10-11).",
+        "question": "The Psalmist points to a failure of memory in this generation. How does his description help you understand why the people turned to the Baals in verse 11?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "repair",
+        "because": "they would not give up their evil practices and stubborn ways",
+        "feeling": "stubbornness, pride",
+        "object": "a recurring mistake",
+        "behavior": "repeating the same error",
+        "step": "ask for help to change",
+        "template": "from today I turn from my {feeling:stubbornness, pride} toward {object:a recurring mistake} and instead of {behavior:repeating the same error}, I will {step:ask for help to change}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's military strategy reveals deeper spiritual significance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic military conquest",
-            "expansion": "David's victories demonstrate how divine alignment can transform political leadership"
-          },
-          {
-            "id": 2,
-            "text": "Tribute and diplomacy",
-            "expansion": "Subduing nations through strategic conquest creates pathways for cultural and economic integration"
-          },
-          {
-            "id": 3,
-            "text": "Territorial expansion",
-            "expansion": "Geographical dominance represents not just physical control, but symbolic spiritual authority"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When military power is wielded, how do we distinguish between necessary defense and imperial aggression?"
-      },
-      "moral_slider": {
-        "question": "How do divine mandate and human agency interact in territorial conquest?",
-        "left_label": "Human Ambition",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and divine purpose shifted?",
-        "options": [
-          "Recognize complexity of spiritual authority",
-          "Understand nuanced relationship between military power and divine calling",
-          "Appreciate historical context of territorial expansion",
-          "Reflect on leadership as a spiritual responsibility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As historical context-specific divine intervention",
           "As a complex narrative of redemptive historical progression"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The chronicler records David's victory over the Philistines",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The chronicler says the LORD made David victorious",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place, after taking Gath and receiving tribute from Aram. When the record says the LORD made you victorious wherever you went, what do you understand about these wins?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "2 Samuel 7:9",
+        "summary": "David brought gold shields to Jerusalem and dedicated the silver, gold, and bronze he took to the LORD (vv. 7-11). In 2 Samuel 7:9 the LORD says He has been with David wherever he went and will make him a name like the greatest in the land.",
+        "question": "How does 2 Samuel 7:9 help you see who was with David in the victories behind these spoils?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "David reigned over all Israel and administered justice and righteousness for all his people",
+        "feeling": "selfishness, greed",
+        "object": "my own interests",
+        "behavior": "ignoring the needs of others",
+        "step": "act with fairness toward everyone",
+        "template": "from today I let go of my {feeling:selfishness, greed} over {object:my own interests} and instead of {behavior:ignoring the needs of others}, I will {step:act with fairness toward everyone}."
       }
     }
   }

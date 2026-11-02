@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Partial Faithfulness",
-            "expansion": "Amaziah did right, yet not completely, revealing the complexity of spiritual leadership"
-          },
-          {
-            "id": 2,
-            "text": "Generational Patterns",
-            "expansion": "Kings often repeated the patterns of their predecessors, showing the profound influence of inherited traditions"
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Pride",
-            "expansion": "Amaziah's military hubris led to conflict and eventual defeat, demonstrating the dangers of unchecked ambition"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Can true righteousness exist alongside compromise, or does compromise inherently undermine spiritual integrity?"
-      },
-      "moral_slider": {
-        "question": "How do imperfect leaders navigate spiritual responsibility?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Expectation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership evolved?",
-        "options": [
-          "Leadership requires nuanced spiritual discernment",
-          "Historical patterns reveal recurring human struggles",
-          "Personal pride can sabotage collective well-being",
-          "Incremental faithfulness matters more than perfection"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's mercy allows for gradual spiritual transformation",
           "Incomplete faithfulness risks divine judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "Amaziah sent messengers to the king of Israel, saying",
+            "ref": "v. 8",
+            "speaker": "Amaziah"
+          },
+          {
+            "who": "Jehoash king of Israel replied",
+            "ref": "vv. 9-10",
+            "speaker": "Jehoash"
+          }
+        ],
+        "question": "Put yourself in Amaziah's place, seeking a meeting after defeating Edom. How does the king of Israel's comparison of you to a thistle change how you view your own success?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "2 Chronicles 25:2",
+        "summary": "The text notes that Amaziah did what was right but not as his father David had done (v. 3). 2 Chronicles 25:2 adds that he did so without a whole heart.",
+        "question": "How does knowing the state of his heart help you understand why the high places remained in Judah (v. 4)?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "Amaziah's heart has become proud after defeating Edom",
+        "feeling": "self-importance, arrogance",
+        "object": "a recent achievement",
+        "behavior": "boasting to others",
+        "step": "seek a way to serve",
+        "template": "from today I bring my {feeling:self-importance, arrogance} about {object:a recent achievement} into the light and instead of {behavior:boasting to others}, I will {step:seek a way to serve}."
       }
     }
   }

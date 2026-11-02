@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea most resonates with your understanding of leadership?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Solomon's diplomatic marriage with Egypt",
-            "expansion": "Political alliances can be strategic pathways to peace and national stability."
-          },
-          {
-            "id": 2,
-            "text": "Solomon's love for God despite imperfect worship practices",
-            "expansion": "Devotion can coexist with human imperfection and evolving spiritual understanding."
-          },
-          {
-            "id": 3,
-            "text": "Building infrastructure before religious institutions",
-            "expansion": "Practical governance and spiritual development can occur simultaneously but with different priorities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal compromise in one area of spiritual life subtly erode deeper commitments?"
-      },
-      "moral_slider": {
-        "question": "How do cultural adaptations interact with spiritual authenticity?",
-        "left_label": "Cultural Compromise",
-        "right_label": "Spiritual Purity"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on leadership and faithfulness shifted?",
-        "options": [
-          "More understanding of human complexity",
-          "Recognize nuanced paths of spiritual growth",
-          "Appreciate strategic long-term vision",
-          "Recognize imperfection as part of spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seeking divine guidance proactively",
           "Understanding leadership as a sacred responsibility"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "God said",
+            "ref": "v. 5",
+            "speaker": "God"
+          },
+          {
+            "who": "Solomon replied",
+            "ref": "vv. 7-9",
+            "speaker": "Solomon"
+          }
+        ],
+        "question": "Put yourself in Solomon's place. God says, Ask, and I will give it to you. What do you weigh as you say you are only a little child and ask for an understanding heart?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "James 1:5",
+        "summary": "God promises Solomon a wise and discerning heart because he asked for it (v. 12). James 1:5 says that anyone who lacks wisdom should ask God, who gives generously to all without finding fault.",
+        "question": "How does James 1:5 help you understand why Solomon asks for wisdom and receives it?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "an understanding heart is needed to discern between good and evil",
+        "feeling": "anxiety, confusion",
+        "object": "a difficult decision",
+        "behavior": "relying on my own logic",
+        "step": "ask for God's discernment",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a difficult decision} and instead of {behavior:relying on my own logic}, I will {step:ask for God's discernment}."
       }
     }
   }

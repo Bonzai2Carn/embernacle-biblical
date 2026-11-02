@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual metaphor resonates most with your journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Running the Race of Faith",
-            "expansion": "Recognizing life as a disciplined spiritual marathon requiring continuous focus and endurance."
-          },
-          {
-            "id": 2,
-            "text": "Enduring Divine Discipline",
-            "expansion": "Understanding suffering as a transformative process of spiritual growth and refinement."
-          },
-          {
-            "id": 3,
-            "text": "Following Christ's Example",
-            "expansion": "Embracing challenges by looking to Jesus' ultimate model of perseverance and sacrifice."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If discipline is truly an expression of love, how might your perspective on personal struggles change?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal comfort with spiritual growth?",
-        "left_label": "Comfort",
-        "right_label": "Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "I now see challenges as opportunities",
-          "My perspective on suffering has deepened",
-          "I'm more aware of spiritual endurance",
-          "I recognize the importance of community support"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As random experiences with no deeper spiritual significance",
           "As proofs of personal spiritual failure or divine displeasure"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The author says",
+            "ref": "v. 11",
+            "speaker": ""
+          },
+          {
+            "who": "The author says",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone under discipline. After reading that discipline is painful and not enjoyable, how does the command to strengthen your limp hands and weak knees change how you view your current struggle?"
+      },
+      "chain": {
+        "after": 25,
+        "ref": "Exodus 19:16-19",
+        "summary": "Hebrews sets the fire, gloom, and storm of Sinai against Mount Zion (vv. 18, 22). Exodus shows the people trembling at the thunder and the mountain wrapped in smoke, with God answering Moses in the thunder (Exodus 19:16-19).",
+        "question": "How does the terror at the mountain help you understand the weight of the warning to not refuse Him who speaks?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "we are receiving an unshakable kingdom",
+        "feeling": "anxiety, restlessness",
+        "object": "the shifting circumstances of life",
+        "behavior": "clinging to what is temporary",
+        "step": "worship God with reverence and awe",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:the shifting circumstances of life} and instead of {behavior:clinging to what is temporary}, I will {step:worship God with reverence and awe}."
       }
     }
   }

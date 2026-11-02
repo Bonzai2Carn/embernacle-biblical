@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of universal praise resonates most with you?",
-        "choices": [
-          {
-            "id": "celestial",
-            "text": "Celestial Praise",
-            "expansion": "The heavenly bodies and cosmic elements praising God reveal a transcendent worship beyond human understanding."
-          },
-          {
-            "id": "earthly",
-            "text": "Earthly Creation Worship",
-            "expansion": "Every created being—from mountains to tiny creatures—demonstrates an inherent divine connection through praise."
-          },
-          {
-            "id": "hierarchical",
-            "text": "Hierarchical Worship",
-            "expansion": "Leaders and common people alike are called to recognize God's supreme authority and glorify His name."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If all creation is constantly praising God, what might that suggest about the nature of existence and meaning?"
-      },
-      "moral_slider": {
-        "question": "How does universal praise relate to individual spiritual autonomy?",
-        "left_label": "Individual Choice",
-        "right_label": "Cosmic Obligation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on worship changed after reflecting on this psalm?",
-        "options": [
-          "More aware of creation's inherent spirituality",
-          "Recognize praise as a universal language",
-          "See worship as beyond human-centric perspectives",
-          "Understand divine glory as interconnected"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Every element of existence has theological significance",
           "God's sovereignty transcends human-centric theological perspectives"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among those in the heavens who are called to praise the LORD. You hear why: He gave the command and they were created. What do you understand about the One whose command made you?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Revelation 4:11",
+        "summary": "The psalmist says the LORD gave the command, and all things were created (v. 5). The elders say to the Lord that He created all things, and by His will they exist and came to be (Revelation 4:11).",
+        "question": "How does Revelation 4:11 help you understand the command to praise in verse 5?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "the LORD's name alone is exalted, and His splendor is above the earth and the heavens",
+        "feeling": "pride, self-importance",
+        "object": "praise from others",
+        "behavior": "building up my own name",
+        "step": "speak the LORD's name aloud in prayer",
+        "template": "from today I bring You my {feeling:pride, self-importance} about {object:praise from others} and instead of {behavior:building up my own name}, I will {step:speak the LORD's name aloud in prayer}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about spiritual transformation in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Counting worldly achievements as loss",
-            "expansion": "Recognizing that spiritual growth requires radical reframing of personal value and success."
-          },
-          {
-            "id": 2,
-            "text": "Pressing toward the upward call in Christ",
-            "expansion": "Understanding spiritual journey as continuous movement and aspiration beyond current limitations."
-          },
-          {
-            "id": 3,
-            "text": "Rejecting confidence in external religious markers",
-            "expansion": "True spiritual identity emerges from internal transformation, not ritualistic performance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your greatest achievements were suddenly meaningless, what would define your sense of worth?"
-      },
-      "moral_slider": {
-        "question": "How do religious traditions balance heritage and personal spiritual authenticity?",
-        "left_label": "Tradition",
-        "right_label": "Personal Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "I see achievement differently",
-          "Internal transformation matters more",
-          "Religious identity is more complex",
-          "Spiritual journey is continuous"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Faith transcends cultural and religious boundaries",
           "Righteousness is primarily obtained through personal effort"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul lists his credentials",
+            "ref": "vv. 4-6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul counts them as loss",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place, looking at a list of your greatest achievements and religious honors. What does it mean to weigh those successes against the value of knowing Christ?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Galatians 2:16",
+        "summary": "Paul explains that he no longer relies on his own righteousness from the law (v. 9). Galatians shows that this same truth applies to everyone, as no one is justified by works of the law.",
+        "question": "How does Galatians 2:16 help you understand why Paul rejects his own religious pedigree?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "Paul forgets what is behind and strains toward what is ahead",
+        "feeling": "regret, shame",
+        "object": "past failures",
+        "behavior": "dwelling on old mistakes",
+        "step": "focus on Christ's current work",
+        "template": "from today I let go of my {feeling:regret, shame} over {object:past failures} and instead of {behavior:dwelling on old mistakes}, I will {step:focus on Christ's current work}."
       }
     }
   }

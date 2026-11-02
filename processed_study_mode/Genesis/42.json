@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about family dynamics in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family survival under economic pressure",
-            "expansion": "Economic challenges can reveal deeper family tensions and survival strategies."
-          },
-          {
-            "id": 2,
-            "text": "Unresolved guilt and past betrayals",
-            "expansion": "Past familial sins create long-lasting psychological and relational consequences."
-          },
-          {
-            "id": 3,
-            "text": "Protective parental instincts",
-            "expansion": "Parents often make complex decisions to shield their most vulnerable children."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might unacknowledged past sins continue to shape present family relationships?"
-      },
-      "moral_slider": {
-        "question": "To what extent should family reconciliation depend on confronting historical wrongs?",
-        "left_label": "Forgiveness without Accountability",
-        "right_label": "Full Disclosure and Repentance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of family dynamics shifted after studying this chapter?",
-        "options": [
-          "Recognize complexity of sibling relationships",
-          "Understand generational impact of betrayal",
-          "Appreciate subtle dynamics of forgiveness",
-          "See economic pressures as relational catalysts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty and human responsibility coexist mysteriously",
           "Events are purely random without divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The brothers said to one another",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "They did not realize that Joseph understood them",
+            "ref": "v. 23",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the brothers. You say to one another that you saw his anguish and would not listen, and you do not know the man in front of you understands every word. What do you weigh as you speak?"
+      },
+      "chain": {
+        "after": 28,
+        "ref": "Genesis 50:20",
+        "summary": "The brothers tremble when they find silver in their sacks, and ask what God has done to them (v. 28). Later, Joseph tells them God intended for good what they intended for harm (Genesis 50:20).",
+        "question": "How does Joseph's later explanation help you view the brothers' fear in this moment?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "exposure",
+        "because": "Jacob said that everything was going against him",
+        "feeling": "despair, dread",
+        "object": "a series of losses",
+        "behavior": "withdrawing from others",
+        "step": "speak the truth of my grief",
+        "template": "from today I bring my {feeling:despair, dread} about {object:a series of losses} into the light and instead of {behavior:withdrawing from others}, I will {step:speak the truth of my grief}."
       }
     }
   }

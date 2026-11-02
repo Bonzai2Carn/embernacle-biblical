@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine transformation resonates most?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "God's ability to turn mourning into dancing",
-            "expansion": "Suffering can be transformed into unexpected joy through divine intervention."
-          },
-          {
-            "id": "2",
-            "text": "The momentary nature of divine anger",
-            "expansion": "God's anger is fleeting, but His favor offers profound restoration."
-          },
-          {
-            "id": "3",
-            "text": "Personal testimony of deliverance",
-            "expansion": "Sharing personal experiences of divine rescue can inspire deeper spiritual understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If joy emerges from periods of suffering, what might that suggest about the purpose of human adversity?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human vulnerability with divine strength?",
-        "left_label": "Human Weakness",
-        "right_label": "Divine Power"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience evolved?",
-        "options": [
-          "Recognizing divine timing",
-          "Understanding suffering as transformative",
-          "Embracing vulnerability",
-          "Witnessing unexpected redemption"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine intervention always eliminates suffering immediately",
           "Personal testimony of healing serves as a prophetic witness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who cried for help. How does the promise of a lasting favor change how you view the night of weeping?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Psalm 34:6",
+        "summary": "The psalmist cried to the LORD for help and was healed (v. 2). Psalm 34:6 says this poor man called out, and the LORD heard him and saved him from all his troubles.",
+        "question": "How does Psalm 34:6 help you understand the psalmist's cry for help and healing in Psalm 30:2?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "devotion",
+        "because": "my heart may sing Your praises and not be silent",
+        "feeling": "shame, regret",
+        "object": "a past failure",
+        "behavior": "hiding from others",
+        "step": "speak of His goodness",
+        "template": "from today I bring You my {feeling:shame, regret} about {object:a past failure} and instead of {behavior:hiding from others}, I will {step:speak of His goodness}."
       }
     }
   }

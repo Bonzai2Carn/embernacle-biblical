@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Solomon's temple preparation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Resource Management",
-            "expansion": "Solomon's precise selection of workers reveals extraordinary organizational leadership."
-          },
-          {
-            "id": 2,
-            "text": "Collaborative International Relationships",
-            "expansion": "Solomon's diplomatic outreach to Hiram demonstrates wisdom beyond immediate national boundaries."
-          },
-          {
-            "id": 3,
-            "text": "Dedicating Efforts to Divine Purpose",
-            "expansion": "The temple's construction is fundamentally an act of spiritual devotion, transcending mere architectural achievement."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In pursuing grand spiritual projects, at what point does human ambition potentially eclipse divine intention?"
-      },
-      "moral_slider": {
-        "question": "How do human skills and divine calling intersect in meaningful work?",
-        "left_label": "Human Capability",
-        "right_label": "Divine Inspiration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of purposeful work evolved?",
-        "options": [
-          "Recognize collaboration as spiritual practice",
-          "Understand planning as an act of reverence",
-          "See large-scale projects as communal spiritual expressions",
-          "Appreciate strategic thinking as potentially holy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Highlights interdependence of diverse communities in kingdom work",
           "Symbolizes transitional moment from nomadic to established worship paradigm"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Solomon said",
+            "ref": "v. 5",
+            "speaker": "Solomon"
+          },
+          {
+            "who": "Solomon said",
+            "ref": "v. 6",
+            "speaker": "Solomon"
+          }
+        ],
+        "question": "Put yourself in Solomon's place. You are preparing to build something massive for God. How does your view of God's greatness change your view of your own ability to build for Him?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Exodus 25:8-9",
+        "summary": "Solomon plans a house for the Name of the LORD for incense, showbread, and offerings (v. 4). In Exodus 25:8-9 the LORD asks for a sanctuary so that He may dwell among them, built according to the pattern He shows.",
+        "question": "How does Exodus 25:8-9 help you understand the house Solomon plans for the Name of the LORD?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "devotion",
+        "because": "our God is greater than all gods",
+        "feeling": "pride, self-importance",
+        "object": "my own accomplishments",
+        "behavior": "seeking my own glory",
+        "step": "point others to His greatness",
+        "template": "from today I let go of my {feeling:pride, self-importance} over {object:my own accomplishments} and instead of {behavior:seeking my own glory}, I will {step:point others to His greatness}."
       }
     }
   }

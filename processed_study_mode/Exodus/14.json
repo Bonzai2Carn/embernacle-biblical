@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine strategy resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Positioning",
-            "expansion": "God deliberately places Israel in a seemingly vulnerable position to demonstrate ultimate sovereignty."
-          },
-          {
-            "id": 2,
-            "text": "Hardening Pharaoh's Heart",
-            "expansion": "Divine intervention transforms human resistance into a platform for revealing supernatural power."
-          },
-          {
-            "id": 3,
-            "text": "Demonstrating God's Identity",
-            "expansion": "The entire exodus narrative is fundamentally about revealing God's true nature to multiple nations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows the outcome in advance, what purpose does human fear and uncertainty serve in spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "How do you understand divine intervention versus human agency?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine guidance shifted?",
-        "options": [
-          "I see divine strategy as more nuanced",
-          "I recognize complexity in spiritual journeys",
-          "I understand fear as part of transformation",
-          "I appreciate unexpected pathways"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's interventions are meticulously planned, not random or accidental",
           "Theological transformation occurs through experiencing divine limitations and breakthroughs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The Israelites cried out to the LORD",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Moses told the people",
+            "ref": "vv. 13-14",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites seeing the Egyptian army approach. When you look at your circumstances and cry out in fear, what does Moses' command to be still reveal about where your focus should be?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Psalm 77:19-20",
+        "summary": "The sea is divided and the Israelites go through it (vv. 21-22). Psalm 77:19-20 says God's path led through the sea, though His footprints were not to be found, and that He led His people like a flock by the hand of Moses and Aaron.",
+        "question": "How does Psalm 77:19-20 help you understand what the Israelites walked through in this chapter?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "the LORD will fight for you and you need only to be still",
+        "feeling": "anxiety, panic",
+        "object": "a mounting crisis",
+        "behavior": "trying to fix everything myself",
+        "step": "stop and wait for His direction",
+        "template": "from today I let go of my {feeling:anxiety, panic} over {object:a mounting crisis} and instead of {behavior:trying to fix everything myself}, I will {step:stop and wait for His direction}."
       }
     }
   }

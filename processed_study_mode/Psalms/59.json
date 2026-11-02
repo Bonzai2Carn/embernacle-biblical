@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional response to persecution resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Seeking Divine Protection",
-            "expansion": "Recognizing God as ultimate refuge amidst human threats and violence."
-          },
-          {
-            "id": "B",
-            "text": "Expressing Raw Emotional Honesty",
-            "expansion": "David's unfiltered cry reveals the authenticity of spiritual wrestling with danger."
-          },
-          {
-            "id": "C",
-            "text": "Trusting in God's Ultimate Justice",
-            "expansion": "Believing that divine judgment will ultimately vindicate the righteous and punish the wicked."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal experiences of threat and vulnerability reveal deeper spiritual truths about human dependency?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal self-defense with spiritual non-violence?",
-        "left_label": "Human Vengeance",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and divine protection evolved?",
-        "options": [
-          "I see suffering as more complex than simple punishment",
-          "Divine protection doesn't mean absence of conflict",
-          "Personal resilience and spiritual trust are interconnected",
-          "Emotional honesty is a form of spiritual strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine protection manifests through supernatural and natural means",
           "Believers should passively wait for God's intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. Fierce men lie in wait and conspire against you, though you have done no sin. What does it change for you to hear that the LORD laughs at them?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Romans 12:19",
+        "summary": "The psalmist asks God to rouse Himself to punish all the nations (v. 5). Romans 12:19 says not to avenge yourselves but to leave room for God's wrath, since the Lord says, 'Vengeance is Mine; I will repay.'",
+        "question": "How does Romans 12:19 help you understand the psalmist asking God, not himself, to punish (v. 5)?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "devotion",
+        "because": "You, O God, are my fortress",
+        "feeling": "anxiety, dread",
+        "object": "a sudden crisis",
+        "behavior": "panicking in isolation",
+        "step": "sing of His strength",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a sudden crisis} and instead of {behavior:panicking in isolation}, I will {step:sing of His strength}."
       }
     }
   }

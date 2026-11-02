@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What core theological assumption emerges in Eliphaz's argument?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's justice requires human perfection",
-            "expansion": "Eliphaz suggests divine correction stems from human moral failure"
-          },
-          {
-            "id": 2,
-            "text": "Righteousness cannot genuinely benefit God",
-            "expansion": "Human virtue is ultimately inconsequential to the divine perspective"
-          },
-          {
-            "id": 3,
-            "text": "Suffering indicates hidden sin",
-            "expansion": "Theological assumption that personal affliction reveals moral deficiency"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is not about human benefit, what truly motivates God's engagement with humanity?"
-      },
-      "moral_slider": {
-        "question": "To what extent does human moral behavior influence divine perception?",
-        "left_label": "Human Actions Irrelevant",
-        "right_label": "Human Actions Determinative"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of divine justice have shifted?",
-        "options": [
-          "Recognize complexity of theological interpretation",
-          "Challenge simplistic cause-and-effect spiritual frameworks",
-          "Appreciate nuanced perspectives on suffering",
-          "Resist reductive moral explanations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's justice requires immediate punishment for unrighteousness",
           "Divine discipline is primarily restorative, not punitive"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Eliphaz asks",
+            "ref": "v. 5",
+            "speaker": "Eliphaz"
+          },
+          {
+            "who": "Eliphaz urges",
+            "ref": "v. 21",
+            "speaker": "Eliphaz"
+          }
+        ],
+        "question": "Put yourself in Job's place. You are asked whether your wickedness is great and your iniquities endless, and then told to reconcile and be at peace with Him. What would you weigh in that charge and that offer?"
+      },
+      "chain": {
+        "after": 23,
+        "ref": "Isaiah 64:6",
+        "summary": "Eliphaz claims Job's suffering comes from great wickedness and endless iniquities (vv. 5-6). Isaiah describes the state of all people as having righteousness that withers like a leaf.",
+        "question": "How does Isaiah's view of human righteousness change how you hear Eliphaz's accusation against Job?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "instruction can be received from God's mouth and His words laid up in the heart",
+        "feeling": "distraction, apathy",
+        "object": "the morning news",
+        "behavior": "skimming through the day",
+        "step": "memorize one verse",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the morning news} and instead of {behavior:skimming through the day}, I will {step:memorize one verse}."
       }
     }
   }

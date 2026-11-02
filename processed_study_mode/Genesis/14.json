@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about power dynamics in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Regional Political Complexity",
-            "expansion": "The intricate alliance of kings reveals how geopolitical tensions emerge from competing territorial interests."
-          },
-          {
-            "id": 2,
-            "text": "Individual Agency in Conflict",
-            "expansion": "Abram's strategic intervention demonstrates how personal courage can dramatically alter collective outcomes."
-          },
-          {
-            "id": 3,
-            "text": "Divine Providence in Human Affairs",
-            "expansion": "Even amidst political chaos, God's underlying guidance seems to protect and direct His chosen people."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When territorial conflicts arise, what determines whether intervention is moral or merely opportunistic?"
-      },
-      "moral_slider": {
-        "question": "How do personal risk and collective responsibility balance in confronting systemic injustice?",
-        "left_label": "Personal Safety",
-        "right_label": "Communal Rescue"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and intervention shifted?",
-        "options": [
-          "Recognized complexity of ancient political landscapes",
-          "Appreciated individual agency in systemic challenges",
-          "Understood strategic wisdom beyond pure military might",
-          "Seen interconnectedness of regional power dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine sovereignty and human responsibility coexist dynamically",
           "Political events are random and meaningless"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 23,
+        "exchange": [
+          {
+            "who": "The king of Sodom said to Abram",
+            "ref": "v. 21",
+            "speaker": "The king of Sodom"
+          },
+          {
+            "who": "Abram replied to the king of Sodom",
+            "ref": "vv. 22-23",
+            "speaker": "Abram"
+          }
+        ],
+        "question": "Put yourself in Abram's place, told by the king of Sodom to take the goods for yourself. What would you weigh when you have raised your hand to the LORD God Most High?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Hebrews 7:1-3",
+        "summary": "Melchizedek meets Abram with bread and wine and blesses him as a priest of God Most High (v. 18-19). The author of Hebrews describes this same figure as a priest without beginning or end of days.",
+        "question": "How does the description of Melchizedek in Hebrews help you understand the significance of his meeting with Abram?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "I have raised my hand to the LORD God Most High",
+        "feeling": "greed, discontent",
+        "object": "an easy way to profit",
+        "behavior": "accepting dishonest gain",
+        "step": "refuse anything that compromises my oath",
+        "template": "from today I let go of my {feeling:greed, discontent} over {object:an easy way to profit} and instead of {behavior:accepting dishonest gain}, I will {step:refuse anything that compromises my oath}."
       }
     }
   }

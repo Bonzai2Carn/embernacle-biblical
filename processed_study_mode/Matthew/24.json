@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The inevitability of tribulation",
-            "expansion": "Suffering is not optional, but a predicted pathway of spiritual refinement."
-          },
-          {
-            "id": 2,
-            "text": "False prophets will arise",
-            "expansion": "Spiritual deception requires constant discernment and grounded scriptural understanding."
-          },
-          {
-            "id": 3,
-            "text": "The unpredictability of Christ's return",
-            "expansion": "Preparedness matters more than precise prediction in spiritual readiness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophetic signs are clearly visible, does that not contradict the concept of unexpected divine intervention?"
-      },
-      "moral_slider": {
-        "question": "How do you balance apocalyptic warning with hope?",
-        "left_label": "Fear of Judgment",
-        "right_label": "Confidence in Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of end-times prophecy evolved?",
-        "options": [
-          "More cautious about specific interpretations",
-          "Increased focus on personal spiritual preparedness",
-          "Greater appreciation for divine mystery",
-          "More skeptical of dramatic eschatological claims"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Generational warnings about recurring historical patterns",
           "Specific predictive roadmap for final generation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The disciples asked",
+            "ref": "v. 3",
+            "speaker": "The disciples"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the disciples' place, looking for signs of the end. When Jesus answers with a warning against deception instead of a date, what does that change about how you watch for Him?"
+      },
+      "chain": {
+        "after": 36,
+        "ref": "Mark 13:32-37",
+        "summary": "Jesus tells His disciples that no one knows the day or the hour (v. 36). Mark records this same teaching and adds the command to stay awake and be on guard.",
+        "question": "How does the command to stay awake in Mark 13 help you understand the purpose of Jesus' warning about the unknown hour?"
+      },
+      "conviction": {
+        "verse": 44,
+        "frame": "practice",
+        "because": "the Son of Man will come at an hour you do not expect",
+        "feeling": "anxiety, dread",
+        "object": "the future",
+        "behavior": "procrastinating my obedience",
+        "step": "serve others with integrity",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the future} and instead of {behavior:procrastinating my obedience}, I will {step:serve others with integrity}."
       }
     }
   }

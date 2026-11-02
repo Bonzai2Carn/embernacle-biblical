@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative promise resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "A New Heaven and Earth",
-            "expansion": "Total cosmic renewal suggests God's capacity to completely remake existence beyond current limitations."
-          },
-          {
-            "id": 2,
-            "text": "God Dwelling with Humanity",
-            "expansion": "The intimate presence of the Divine signals ultimate reconciliation and relational restoration."
-          },
-          {
-            "id": 3,
-            "text": "Wiping Away Every Tear",
-            "expansion": "Divine compassion transcends suffering, promising comprehensive emotional healing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence eliminates all suffering, what fundamental human experience is being transformed?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the relationship between divine sovereignty and human free will?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Determinism"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption evolved?",
-        "options": [
-          "More cosmic in scope",
-          "More personally intimate",
-          "More spiritually transformative",
-          "More mysteriously profound"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic allegory of God's ultimate redemptive plan",
           "Metaphorical description of collective spiritual experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The One seated on the throne said",
+            "ref": "v. 5",
+            "speaker": "The One seated on the throne"
+          },
+          {
+            "who": "He told me",
+            "ref": "v. 6",
+            "speaker": "The One seated on the throne"
+          }
+        ],
+        "question": "Put yourself in the place of the one hearing this command. You are told to write these words down because they are faithful and true. What would you weigh about the words you are being told to record?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Ezekiel 37:27",
+        "summary": "The voice from the throne promises that God will dwell with His people (v. 3). Ezekiel records a similar promise where God says His dwelling place will be with them and they will be His people.",
+        "question": "How does Ezekiel's promise help you understand the weight of the arrival of the new Jerusalem?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "God will wipe away every tear from the eyes of His people",
+        "feeling": "sorrow, grief",
+        "object": "a recent loss",
+        "behavior": "clinging to despair",
+        "step": "rest in His promise",
+        "template": "from today I entrust my {feeling:sorrow, grief} about {object:a recent loss} to God and instead of {behavior:clinging to despair}, I will {step:rest in His promise}."
       }
     }
   }

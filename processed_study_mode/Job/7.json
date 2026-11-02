@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional state resonates most with Job's suffering?",
-        "choices": [
-          {
-            "id": "exhaustion",
-            "text": "Total Emotional Exhaustion",
-            "expansion": "The profound weariness that comes from sustained, unrelenting pain and uncertainty."
-          },
-          {
-            "id": "despair",
-            "text": "Existential Despair",
-            "expansion": "Questioning the purpose of continued struggle when life seems fundamentally unfair and meaningless."
-          },
-          {
-            "id": "resilience",
-            "text": "Silent Resilience",
-            "expansion": "The underlying strength to continue enduring despite experiencing overwhelming suffering."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is universal, what transforms mere endurance into meaningful experience?"
-      },
-      "moral_slider": {
-        "question": "How do human suffering and divine providence coexist?",
-        "left_label": "Randomness/Injustice",
-        "right_label": "Purposeful Design"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal struggle evolved?",
-        "options": [
-          "More compassionate toward human vulnerability",
-          "Recognize deeper emotional complexity in suffering",
-          "Understand suffering as potentially transformative",
-          "See life's challenges as opportunities for growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Trials demonstrate spiritual warfare",
           "Pain is inherently meaningless and random"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Job",
+            "ref": "vv. 3-4",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job",
+            "ref": "v. 11",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You are tossing and turning in misery and futility. What makes you decide to stop restraining your mouth and speak in your anguish?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Psalm 8:4",
+        "summary": "Job asks why God sets His heart on man and tests him every moment (vv. 17-18). Psalm 8:4 asks a similar question about man: what is man that God is mindful of him?",
+        "question": "How does Psalm 8:4 change how you hear Job's complaint that God tests him every moment?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "exposure",
+        "because": "soon I will lie down in the dust",
+        "feeling": "anxiety, dread",
+        "object": "the uncertainty of tomorrow",
+        "behavior": "clinging to my own control",
+        "step": "rest in His mercy",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the uncertainty of tomorrow} and instead of {behavior:clinging to my own control}, I will {step:rest in His mercy}."
       }
     }
   }

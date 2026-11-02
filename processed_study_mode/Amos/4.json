@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most challenges your understanding of divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Confrontation of Social Injustice",
-            "expansion": "God directly addresses systemic oppression of the vulnerable through prophetic critique."
-          },
-          {
-            "id": 2,
-            "text": "Ritual without Genuine Transformation",
-            "expansion": "Performative religious acts mean nothing without authentic moral reformation."
-          },
-          {
-            "id": 3,
-            "text": "Consequences of Spiritual Complacency",
-            "expansion": "Persistent rejection of divine guidance leads to inevitable structural breakdown."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If your religious practices do not transform your moral character, are they truly worship?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and mercy coexist in prophetic proclamation?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic critique evolved?",
-        "options": [
-          "Recognize systemic injustice more deeply",
-          "Understand worship as transformative action",
-          "See divine communication as fundamentally relational",
-          "Appreciate the complexity of spiritual accountability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment demonstrates God's indifference to human suffering",
           "Judgment is a random expression of divine power"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD declares",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You have endured cleanness of teeth and lack of bread, yet you did not return to Him. What does the command to prepare to meet your God change about how you view those hardships?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Isaiah 3:14-15",
+        "summary": "The LORD describes the coming judgment on Israel through famine (v. 6) and commands them to prepare to meet Him (v. 12). Isaiah shows the LORD bringing a charge against the elders and leaders who devour the vineyard and crush the poor.",
+        "question": "How does the LORD's charge against the leaders in Isaiah help you understand the weight of the command to prepare in Amos 4?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "the LORD tells Israel to prepare to meet their God",
+        "feeling": "indifference, numbness",
+        "object": "the recurring hardships in my life",
+        "behavior": "ignoring the lessons",
+        "step": "turn back to Him in prayer",
+        "template": "from today I bring my {feeling:indifference, numbness} about {object:the recurring hardships in my life} into the light and instead of {behavior:ignoring the lessons}, I will {step:turn back to Him in prayer}."
       }
     }
   }

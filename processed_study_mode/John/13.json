@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of Jesus' love most challenges you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Serving despite knowing betrayal",
-            "expansion": "Jesus washes Judas' feet, fully aware of his impending betrayal, revealing radical unconditional love."
-          },
-          {
-            "id": 2,
-            "text": "Loving to the absolute end",
-            "expansion": "Christ's love transcends human limitation, extending completely without reservation or self-protection."
-          },
-          {
-            "id": 3,
-            "text": "Vulnerability before departure",
-            "expansion": "Jesus transforms His imminent suffering into an opportunity for profound intimacy and teaching."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you knew someone would deeply wound you, how might embracing them transform both your understanding of love and their potential?"
-      },
-      "moral_slider": {
-        "question": "How does vulnerability relate to authentic leadership?",
-        "left_label": "Control",
-        "right_label": "Surrender"
-      },
-      "reevaluation": {
-        "question": "How has your perception of leadership changed after reflecting on Jesus' example?",
-        "options": [
-          "Leadership is about power",
-          "Leadership is about service",
-          "Leadership requires emotional intelligence",
-          "Leadership means bearing others' burdens"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Demonstrates sacrificial love as core Christian ethic",
           "Symbolizes ongoing sanctification process for believers"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Simon Peter asked",
+            "ref": "v. 6",
+            "speaker": "Simon Peter"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 7",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in Peter's place, asking whether the Lord will wash your feet. What would you understand about the timing of His work when He says you will understand later?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Philippians 2:7-8",
+        "summary": "Jesus gets up from supper, wraps a towel around His waist (v. 4) and tells the disciples to wash one another's feet as He did (vv. 14-15). Philippians says He emptied Himself, took the form of a servant, and humbled Himself to death on a cross.",
+        "question": "How does Philippians 2:7-8 help you understand Jesus taking a servant's place and telling the disciples to wash one another's feet?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "practice",
+        "because": "Jesus commands His followers to love one another as He has loved them",
+        "feeling": "indifference, coldness",
+        "object": "a difficult person in my circle",
+        "behavior": "keeping my distance",
+        "step": "perform a small act of service",
+        "template": "from today I let go of my {feeling:indifference, coldness} over {object:a difficult person in my circle} and instead of {behavior:keeping my distance}, I will {step:perform a small act of service}."
       }
     }
   }

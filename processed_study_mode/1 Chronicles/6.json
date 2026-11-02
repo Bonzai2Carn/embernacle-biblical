@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of lineage speaks most deeply to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Priestly Succession",
-            "expansion": "The careful tracing of Aaron's bloodline reveals divine intentionality in spiritual leadership."
-          },
-          {
-            "id": 2,
-            "text": "Generational Continuity",
-            "expansion": "Each generation carries forward not just genetic inheritance, but spiritual responsibility."
-          },
-          {
-            "id": 3,
-            "text": "Tribal Identity",
-            "expansion": "The Levitical tribe represents a unique covenant relationship with God beyond mere genealogy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual leadership is inherited, what transforms genetic descent into genuine spiritual calling?"
-      },
-      "moral_slider": {
-        "question": "How much should family heritage determine one's spiritual destiny?",
-        "left_label": "Individual Choice",
-        "right_label": "Ancestral Calling"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance evolved?",
-        "options": [
-          "I see deeper intentionality in historical genealogies",
-          "Family background matters more than I previously thought",
-          "Personal commitment transcends ancestral patterns",
-          "Divine selection operates beyond human lineage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Highlights the significance of documenting spiritual heritage",
           "Underscores the principle of preparation and generational training in ministry"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 32,
+        "ref": "Numbers 3:5-10",
+        "summary": "The chronicler lists the Levite clans by their sons (vv. 17-19) and the singers who ministered before the tabernacle (vv. 31-32). Numbers describes how the Levites were given to Aaron and his sons to assist them (Numbers 3:5-10).",
+        "question": "How does the specific assignment of duties in Numbers 3 help you see the importance of the names listed in this genealogy?"
+      },
+      "conviction": {
+        "verse": 49,
+        "frame": "practice",
+        "because": "Aaron and his sons did all the work of the Most Holy Place",
+        "feeling": "indifference",
+        "object": "my daily responsibilities",
+        "behavior": "skipping the small details",
+        "step": "perform my tasks with care",
+        "template": "from today I let go of my {feeling:indifference} over {object:my daily responsibilities} and instead of {behavior:skipping the small details}, I will {step:perform my tasks with care}."
       }
     }
   }

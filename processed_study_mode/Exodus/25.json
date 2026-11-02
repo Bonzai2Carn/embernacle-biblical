@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What does genuine offering reveal about human-divine relationship?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Voluntary Heart-Giving",
-            "expansion": "True worship emerges from internal motivation, not external compulsion."
-          },
-          {
-            "id": 2,
-            "text": "Material as Spiritual Metaphor",
-            "expansion": "Physical offerings symbolize deeper spiritual surrenders and transformations."
-          },
-          {
-            "id": 3,
-            "text": "Divine Collaboration",
-            "expansion": "God invites human participation in sacred design through intentional contribution."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine instructions require specific materials, does this suggest spirituality is more structured or more relational?"
-      },
-      "moral_slider": {
-        "question": "How does individual intention balance with communal sacred purpose?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Collective Worship"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of 'offering' have transformed?",
-        "options": [
-          "Offering is transactional",
-          "Offering reflects inner transformation",
-          "Offering connects human and divine realms",
-          "Offering requires personal vulnerability"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Offerings are purely symbolic gestures",
           "Offerings reveal God's material needs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 2",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD explains",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of an Israelite whose heart compels you to give. You hear that the offering goes toward a sanctuary where the LORD may dwell among you. What do you understand about what you are giving toward?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Hebrews 8:5",
+        "summary": "God gives Moses a specific pattern for the tabernacle and its furnishings (v. 9). Hebrews explains that the earthly structure was a copy and a shadow of things in heaven.",
+        "question": "How does the idea of a heavenly pattern help you view the specific instructions for the gold, wood, and linens in this chapter?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "devotion",
+        "because": "every man whose heart compels him is to bring an offering",
+        "feeling": "reluctance, hesitation",
+        "object": "a request to serve",
+        "behavior": "calculating the cost",
+        "step": "give what I have with joy",
+        "template": "from today I let go of my {feeling:reluctance, hesitation} over {object:a request to serve} and instead of {behavior:calculating the cost}, I will {step:give what I have with joy}."
       }
     }
   }

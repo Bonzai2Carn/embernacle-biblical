@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Warning Before Judgment",
-            "expansion": "God's mercy precedes consequence, offering opportunity for repentance before inevitable consequences."
-          },
-          {
-            "id": 2,
-            "text": "Prophetic Courage in Hostile Environments",
-            "expansion": "Speaking truth requires tremendous moral fortitude, even when facing potential personal destruction."
-          },
-          {
-            "id": 3,
-            "text": "Collective Spiritual Accountability",
-            "expansion": "A community's spiritual trajectory depends on collective response to prophetic message, not individual exemption."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a prophet's message challenges your most deeply held communal beliefs, what determines whether you listen or reject?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and human mercy intersect in prophetic confrontation?",
-        "left_label": "Absolute Judgment",
-        "right_label": "Compassionate Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication evolved?",
-        "options": [
-          "Recognize complexity of spiritual messaging",
-          "Understand risk prophets undertake",
-          "Appreciate nuanced divine communication",
-          "Value courage over comfort"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophets bear ultimate responsibility for national spiritual transformation",
           "God's predetermined plans cannot be altered by human response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The priests and prophets said",
+            "ref": "v. 11",
+            "speaker": "The priests and prophets"
+          },
+          {
+            "who": "Jeremiah said",
+            "ref": "v. 12",
+            "speaker": "Jeremiah"
+          }
+        ],
+        "question": "Put yourself in the place of the officials listening to this trial. One group says this man is worthy of death for prophesying against the city, and the man says the LORD sent him to speak all these words. What would you weigh as you hear both?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Ezekiel 3:17-19",
+        "summary": "Jeremiah tells the people to correct their ways and obey the LORD so that He might relent of the disaster (v. 13). Ezekiel is made a watchman who must give the LORD's warning, and is held responsible if he does not warn the wicked man.",
+        "question": "How does Ezekiel 3:17-19 help you understand the weight of the warning Jeremiah gives in verse 13?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "the LORD told His messenger to speak all the words He commanded and not omit a word",
+        "feeling": "fear, hesitation",
+        "object": "speaking a difficult truth",
+        "behavior": "softening the message",
+        "step": "speak exactly what is true",
+        "template": "from today I let go of my {feeling:fear, hesitation} over {object:speaking a difficult truth} and instead of {behavior:softening the message}, I will {step:speak exactly what is true}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dynamic in family relationships most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jacob's strategic negotiation with Laban",
-            "expansion": "Personal agency can emerge through cunning and calculated maneuvering."
-          },
-          {
-            "id": 2,
-            "text": "Rachel's secret theft of her father's household gods",
-            "expansion": "Complex family loyalty can manifest through unexpected, even deceptive actions."
-          },
-          {
-            "id": 3,
-            "text": "Divine intervention protecting Jacob's journey",
-            "expansion": "Supernatural guidance often operates through subtle, strategic redirections."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal grievances and divine providence intersect in moments of familial conflict?"
-      },
-      "moral_slider": {
-        "question": "To what extent is personal survival justified against familial manipulation?",
-        "left_label": "Individual Survival",
-        "right_label": "Familial Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of family dynamics shifted?",
-        "options": [
-          "Recognizing complex emotional landscapes",
-          "Understanding power dynamics in relationships",
-          "Appreciating subtle forms of negotiation",
-          "Seeing divine guidance in personal conflicts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance matters more than material wealth",
           "God's promises are not dependent on human perfect behavior"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 31,
+        "exchange": [
+          {
+            "who": "Laban said to Jacob",
+            "ref": "v. 26",
+            "speaker": "Laban"
+          },
+          {
+            "who": "Jacob answered",
+            "ref": "v. 31",
+            "speaker": "Jacob"
+          }
+        ],
+        "question": "Put yourself in Jacob's place, hearing Laban say you have deceived him and carried off his daughters like captives of war. What would you say about why you left as you did?"
+      },
+      "chain": {
+        "after": 42,
+        "ref": "Psalm 105:14-15",
+        "summary": "Jacob says that if God had not been with him, Laban would have sent him away empty-handed, and that God has seen his affliction and rendered judgment (v. 42). Psalm 105:14-15 says God let no man oppress them, rebuked kings on their behalf, and said, 'Do not touch My anointed ones! Do no harm to My prophets!'",
+        "question": "How does Psalm 105:14-15 help you understand Jacob's claim that God kept Laban from sending him away empty-handed?"
+      },
+      "conviction": {
+        "verse": 42,
+        "frame": "remembrance",
+        "because": "God has seen my affliction and the toil of my hands",
+        "feeling": "bitterness, exhaustion",
+        "object": "unfair treatment at work",
+        "behavior": "complaining to everyone",
+        "step": "thank Him for His past faithfulness",
+        "template": "from today I let go of my {feeling:bitterness, exhaustion} over {object:unfair treatment at work} and instead of {behavior:complaining to everyone}, I will {step:thank Him for His past faithfulness}."
       }
     }
   }

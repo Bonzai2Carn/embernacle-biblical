@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual longing resonates most deeply in this psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Desire for God's dwelling place",
-            "expansion": "The psalmist's profound yearning to be in God's presence transcends physical location and becomes a spiritual hunger."
-          },
-          {
-            "id": 2,
-            "text": "Finding strength in spiritual journey",
-            "expansion": "Even through challenging passages, the believer discovers inner resilience through trust in divine guidance."
-          },
-          {
-            "id": 3,
-            "text": "Worship as transformative experience",
-            "expansion": "Authentic worship is not merely ritual, but a profound encounter that reshapes human consciousness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If true worship is about intimate connection rather than physical location, how might we redefine spiritual 'sanctuary' beyond traditional religious spaces?"
-      },
-      "moral_slider": {
-        "question": "To what extent does spiritual longing overcome life's practical challenges?",
-        "left_label": "Worldly Pragmatism",
-        "right_label": "Transcendent Yearning"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual dwelling evolved?",
-        "options": [
-          "Recognize spirituality beyond physical structures",
-          "Understand worship as internal transformation",
-          "Appreciate pilgrimage as metaphorical journey",
-          "Embrace vulnerability in spiritual seeking"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine presence transforms life's challenging valleys",
           "Worship is a holistic lifestyle, not merely a religious activity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 10,
+        "exchange": [
+          {
+            "who": "The psalmist exclaims",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 10",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one who loves the LORD's house. You call its dwelling place lovely, and then you hear that one day in His courts is better than a thousand elsewhere. What would you weigh more heavily: a thousand days somewhere else or one day in His courts?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 27:4",
+        "summary": "The psalmist says that those who dwell in the LORD's house are blessed, for they are ever praising Him (v. 4). Psalm 27:4 records one thing the psalmist asks of the LORD: to dwell in His house all the days of his life.",
+        "question": "How does Psalm 27:4 help you understand the blessing of dwelling in the LORD's house?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "devotion",
+        "because": "one day in the LORD's courts is better than a thousand elsewhere",
+        "feeling": "distraction, restlessness",
+        "object": "the constant demands of my week",
+        "behavior": "letting busy days crowd out worship",
+        "step": "set aside one unhurried hour to pray",
+        "template": "from today I bring You my {feeling:distraction, restlessness} about {object:the constant demands of my week} and instead of {behavior:letting busy days crowd out worship}, I will {step:set aside one unhurried hour to pray}."
       }
     }
   }

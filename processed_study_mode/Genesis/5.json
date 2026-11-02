@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human generational continuity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Biological Legacy",
-            "expansion": "Each generation carries the image and potential of its predecessors."
-          },
-          {
-            "id": 2,
-            "text": "Mortality's Persistence",
-            "expansion": "Despite long lifespans, death remains an inescapable human reality."
-          },
-          {
-            "id": 3,
-            "text": "Divine Image Transmission",
-            "expansion": "Humans inherently reflect God's creative design through generational reproduction."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If human lifespans have dramatically shortened, what might that reveal about our understanding of divine purpose and human limitation?"
-      },
-      "moral_slider": {
-        "question": "How do you perceive the relationship between human mortality and divine promise?",
-        "left_label": "Finite Existence",
-        "right_label": "Eternal Potential"
-      },
-      "reevaluation": {
-        "question": "How has this genealogical passage transformed your perspective on human lineage?",
-        "options": [
-          "Recognize deeper spiritual inheritance",
-          "Appreciate generational continuity",
-          "Understand human fragility",
-          "Contemplate divine design in reproduction"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Metaphorical narrative demonstrating spiritual lineage",
           "Theological explanation of human generational decline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 24,
+        "exchange": [
+          {
+            "who": "The text says of Enoch",
+            "ref": "v. 24",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the names in this lineage, hearing that Enoch walked with God. What would you understand about his end, when he was no more because God had taken him away?"
+      },
+      "chain": {
+        "after": 29,
+        "ref": "Psalm 90:10",
+        "summary": "The lineage lists lives of hundreds of years, and each one ends with 'and then he died' (v. 5), except Enoch, whom God took (v. 24). Psalm 90:10 says our days are seventy years, or eighty if we are strong, and they quickly pass.",
+        "question": "How does Psalm 90:10 help you view the long lives and the repeated deaths in this list?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "devotion",
+        "because": "Enoch walked with God, and God took him away",
+        "feeling": "loneliness, fear",
+        "object": "a season of isolation",
+        "behavior": "withdrawing from others",
+        "step": "seek His presence in the quiet",
+        "template": "from today I let go of my {feeling:loneliness, fear} over {object:a season of isolation} and instead of {behavior:withdrawing from others}, I will {step:seek His presence in the quiet}."
       }
     }
   }

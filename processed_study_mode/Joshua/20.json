@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Compassionate Protection",
-            "expansion": "God provides sanctuary for those who unintentionally cause harm."
-          },
-          {
-            "id": 2,
-            "text": "Systematic Legal Mercy",
-            "expansion": "The cities of refuge represent a structured approach to preventing retaliatory violence."
-          },
-          {
-            "id": 3,
-            "text": "Intentional Community Care",
-            "expansion": "The tribes collectively create safe spaces for vulnerable individuals."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true justice balance protection of the innocent with accountability for harmful actions?"
-      },
-      "moral_slider": {
-        "question": "Where does mercy intersect with legal consequence?",
-        "left_label": "Absolute Punishment",
-        "right_label": "Restorative Grace"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of justice evolved?",
-        "options": [
-          "More nuanced view of intentionality",
-          "Greater appreciation for communal responsibility",
-          "Deeper understanding of divine compassion",
-          "Recognizing complexity in moral judgment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "These cities represent a prophetic model of Christ's ultimate refuge for sinners",
           "The design reveals God's desire for community healing over pure retribution"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 3-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The elders must",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the elders at the city gate. You see a man fleeing for his life. What is your duty to him, and what is the reason the text gives for protecting him?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Deuteronomy 19:1-13",
+        "summary": "Cities are set apart in the hill country for someone who kills unintentionally (v. 7). Deuteronomy 19:1-13 gives the reason for such cities: otherwise the avenger of blood might pursue the manslayer in a rage (v. 6).",
+        "question": "How does the reason given in Deuteronomy 19 help you understand why these cities were set apart?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "practice",
+        "because": "anyone who kills a person unintentionally may flee to the appointed cities and not die by the avenger of blood",
+        "feeling": "anxiety, fear",
+        "object": "a mistake I made",
+        "behavior": "hiding from others",
+        "step": "seek a fair hearing",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:a mistake I made} and instead of {behavior:hiding from others}, I will {step:seek a fair hearing}."
       }
     }
   }

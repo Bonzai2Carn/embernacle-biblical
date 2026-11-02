@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation insight resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Radical personal redemption is possible",
-            "expansion": "Manasseh's complete spiritual reversal demonstrates God's capacity to transform even the most hardened heart."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of generational sin",
-            "expansion": "Manasseh's evil actions created long-term spiritual damage that impacted his descendants and kingdom."
-          },
-          {
-            "id": 3,
-            "text": "Humility precedes restoration",
-            "expansion": "Manasseh's genuine repentance while captive showed true spiritual transformation requires profound personal brokenness."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "Can genuine spiritual transformation occur without experiencing profound personal suffering?"
-      },
-      "moral_slider": {
-        "question": "How much does personal accountability matter in spiritual restoration?",
-        "left_label": "Grace Overwhelms All",
-        "right_label": "Personal Responsibility Required"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of redemption shifted?",
-        "options": [
-          "Redemption is always possible",
-          "Some sins are unforgivable",
-          "True repentance requires complete behavioral change",
-          "Divine mercy transcends human expectations"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine discipline is ultimately restorative, not merely punitive",
           "Personal transformation is possible even after extensive spiritual rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD spoke to Manasseh and his people, but they did not listen",
+            "ref": "v. 10",
+            "speaker": ""
+          },
+          {
+            "who": "Manasseh sought the favor of the LORD and humbled himself",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Manasseh's place. The LORD spoke to you and your people and you did not listen. Then in your distress you seek the favor of the LORD and earnestly humble yourself before the God of your fathers. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "1 John 1:9",
+        "summary": "Manasseh's prayer was heard and his plea was received after his great sin (vv. 12-13). John promises that God is faithful to cleanse us when we confess.",
+        "question": "How does the promise of cleansing in 1 John 1:9 help you understand the result of Manasseh's prayer?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "exposure",
+        "because": "Manasseh sought the favor of the LORD his God and earnestly humbled himself",
+        "feeling": "pride, self-sufficiency",
+        "object": "my recent failures",
+        "behavior": "hiding my mistakes",
+        "step": "confess them to God",
+        "template": "from today I bring my {feeling:pride, self-sufficiency} about {object:my recent failures} into the light and instead of {behavior:hiding my mistakes}, I will {step:confess them to God}."
       }
     }
   }

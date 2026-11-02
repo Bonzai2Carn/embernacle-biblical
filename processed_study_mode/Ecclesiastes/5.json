@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine encounter resonates most deeply?",
-        "choices": [
-          {
-            "id": "reverence",
-            "text": "Approaching God with profound reverence",
-            "expansion": "True worship begins with humility and understanding one's smallness before the divine."
-          },
-          {
-            "id": "caution",
-            "text": "Being cautious with spiritual promises",
-            "expansion": "Vows made to God are sacred commitments that reflect the integrity of one's heart."
-          },
-          {
-            "id": "silence",
-            "text": "Finding wisdom in restraining speech",
-            "expansion": "Genuine spiritual understanding often emerges from contemplative silence rather than verbose declarations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God values sincerity over elaborate ritual, what truly constitutes meaningful spiritual practice?"
-      },
-      "moral_slider": {
-        "question": "How do human intentions align with divine expectations?",
-        "left_label": "Human Imperfection",
-        "right_label": "Divine Standards"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and spiritual commitment evolved?",
-        "options": [
-          "I recognize the importance of inner sincerity",
-          "I am more aware of the weight of my spiritual promises",
-          "I value contemplative listening over performative religiosity",
-          "I understand the need for humility in spiritual practice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ritualistic language matters more than genuine heart posture",
           "Divine communication transcends human linguistic constraints"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The teacher observes",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The teacher commands",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one overwhelmed by many cares. What does the command to fear God tell you about the weight of your own words?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "James 1:19",
+        "summary": "The teacher warns against being quick to speak before God (v. 2). James gives a specific way to practice this restraint.",
+        "question": "How does James's instruction to be slow to speak help you apply the teacher's warning about hasty words?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "he who loves money is never satisfied by money",
+        "feeling": "dissatisfaction, greed",
+        "object": "my current bank balance",
+        "behavior": "chasing more income",
+        "step": "thank God for what I have",
+        "template": "from today I let go of my {feeling:dissatisfaction, greed} over {object:my current bank balance} and instead of {behavior:chasing more income}, I will {step:thank God for what I have}."
       }
     }
   }

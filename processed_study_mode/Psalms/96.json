@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core message of praise resonates most deeply?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Global worship proclamation",
-            "expansion": "The psalm calls for universal acknowledgment of God's glory beyond cultural boundaries."
-          },
-          {
-            "id": "2",
-            "text": "Divine majesty transcending human understanding",
-            "expansion": "God's greatness overwhelms and surpasses all earthly comprehension."
-          },
-          {
-            "id": "3",
-            "text": "Transformative power of praise",
-            "expansion": "Worship has the potential to reshape perspectives and invite divine presence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If praise is a universal language, what prevents authentic worship from connecting all humanity?"
-      },
-      "moral_slider": {
-        "question": "How do personal limitations impact one's capacity for genuine spiritual praise?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Transcendence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship evolved?",
-        "options": [
-          "More inclusive of diverse expressions",
-          "Deeper appreciation for communal worship",
-          "Recognize worship as transformative action",
-          "Understand praise as spiritual alignment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Creation itself is a medium of divine communication",
           "Universal praise transcends individual religious experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist calls",
+            "ref": "vv. 1-3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "vv. 4-5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the nations hearing this call to sing. You hear that the LORD is great, to be feared above all gods, and that the gods of the nations are idols. What would you weigh in your own mind?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Isaiah 2:2-4",
+        "summary": "The psalmist declares that the LORD reigns and judges the peoples with equity (v. 10). Isaiah describes a time when all nations will stream to this same mountain to learn His ways and walk in His paths (vv. 2-3).",
+        "question": "How does Isaiah's vision of nations walking in God's paths help you understand the scope of the LORD's reign in this psalm?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "practice",
+        "because": "the LORD's salvation is to be proclaimed day after day",
+        "feeling": "apathy, indifference",
+        "object": "the goodness of God",
+        "behavior": "keeping it to myself",
+        "step": "tell someone a true thing about Him",
+        "template": "from today I bring You my {feeling:apathy, indifference} about {object:the goodness of God} and instead of {behavior:keeping it to myself}, I will {step:tell someone a true thing about Him}."
       }
     }
   }

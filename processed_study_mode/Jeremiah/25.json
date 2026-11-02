@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic insight most resonates with divine judgment?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's patience has limits",
-            "expansion": "Divine mercy coexists with inevitable consequences for sustained rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Collective responsibility of a nation",
-            "expansion": "Communities bear communal accountability for systemic spiritual negligence."
-          },
-          {
-            "id": 3,
-            "text": "Inevitable historical cycles of judgment",
-            "expansion": "Empires rise and fall according to spiritual and moral alignment with divine principles."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophetic warnings are consistently ignored, at what point does divine intervention become not punishment, but merciful redirection?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and compassion balance in moments of national reckoning?",
-        "left_label": "Retributive Justice",
-        "right_label": "Redemptive Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic witness evolved?",
-        "options": [
-          "Recognized complexity of spiritual accountability",
-          "Understood nuance between judgment and restoration",
-          "Appreciated long-term perspective of divine communication",
-          "Recognized prophetic role as communal warning system"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic warnings demonstrate God's desire for repentance",
           "Consequences reveal the serious nature of spiritual rebellion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "God says",
+            "ref": "v. 5",
+            "speaker": "God"
+          },
+          {
+            "who": "God declares",
+            "ref": "v. 7",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. You hear that turning from your evil ways would let you stay in the land, and then that you have not listened and have provoked the LORD with the works of your hands. What would you weigh about the offer you did not take?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Habakkuk 1:6",
+        "summary": "The LORD says He will send for His servant Nebuchadnezzar king of Babylon and bring him against this land (v. 9). In Habakkuk the LORD says He is raising up the Chaldeans, a ruthless and impetuous nation that marches to seize dwellings not its own.",
+        "question": "How does Habakkuk 1:6 help you understand the nation the LORD says He will bring in verse 9?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "exposure",
+        "because": "the LORD sent the prophets again and again, but the people have not listened or inclined their ear",
+        "feeling": "indifference, apathy",
+        "object": "a warning in Scripture",
+        "behavior": "ignoring the truth",
+        "step": "stop and listen",
+        "template": "from today I bring my {feeling:indifference, apathy} about {object:a warning in Scripture} into the light and instead of {behavior:ignoring the truth}, I will {step:stop and listen}."
       }
     }
   }

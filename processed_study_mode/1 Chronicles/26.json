@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of organizational structure in this chapter most resonates with your understanding of service?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Detailed Family Lineage",
-            "expansion": "Recognizing the importance of heritage and generational commitment to sacred responsibilities."
-          },
-          {
-            "id": 2,
-            "text": "Systematic Administrative Roles",
-            "expansion": "Understanding how structured assignments create effective communal functioning."
-          },
-          {
-            "id": 3,
-            "text": "Divine Assignment of Duties",
-            "expansion": "Acknowledging that leadership and service are ultimately determined by spiritual calling."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might consistent, seemingly mundane roles like gatekeeping actually represent profound spiritual significance?"
-      },
-      "moral_slider": {
-        "question": "To what extent do organizational structures reflect spiritual authenticity?",
-        "left_label": "Bureaucratic Formalism",
-        "right_label": "Spiritual Vitality"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on service and organizational roles shifted?",
-        "options": [
-          "I now see administrative roles as spiritually meaningful",
-          "I recognize the importance of generational continuity",
-          "I understand leadership is about faithful execution, not just visibility",
-          "I appreciate the complexity of community organization"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Faithful service matters more than the specific assignment",
           "Spiritual gifts are predetermined and unchangeable"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 12,
+        "ref": "1 Corinthians 12:28",
+        "summary": "The text lists families and individuals assigned to the gates and treasuries of the house of the LORD (vv. 12-20). 1 Corinthians 12:28 lists roles God has appointed in the church, including helping and administration.",
+        "question": "How does that list of church roles help you see the value of these named gatekeepers?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "the descendants of Obed-edom were capable men with strength to do the work",
+        "feeling": "inadequacy, doubt",
+        "object": "a difficult task at work",
+        "behavior": "making excuses to avoid it",
+        "step": "approach it with steady effort",
+        "template": "from today I let go of my {feeling:inadequacy, doubt} over {object:a difficult task at work} and instead of {behavior:making excuses to avoid it}, I will {step:approach it with steady effort}."
       }
     }
   }

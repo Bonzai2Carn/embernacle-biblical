@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight most resonates with your understanding of divine gifts?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Diversity of Gifts",
-            "expansion": "Unity emerges not from sameness, but from intentional collaboration of unique talents."
-          },
-          {
-            "id": 2,
-            "text": "Holy Spirit's Sovereignty",
-            "expansion": "Divine empowerment transcends human limitations and cultural boundaries."
-          },
-          {
-            "id": 3,
-            "text": "Interdependent Body",
-            "expansion": "Individual spiritual gifts find meaning only in collective purpose and mutual support."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual gifts are truly from God, why do we often compare or rank them hierarchically?"
-      },
-      "moral_slider": {
-        "question": "How do personal spiritual gifts relate to communal spiritual health?",
-        "left_label": "Individual Expression",
-        "right_label": "Collective Harmony"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual gifting evolved?",
-        "options": [
-          "I now see gifts as collaborative, not competitive",
-          "I recognize my unique contribution matters",
-          "I understand spiritual gifts transcend personal merit",
-          "I'm more open to diverse expressions of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize manifestation over theological understanding",
           "Develop comprehensive equipping processes that validate and validate spiritual gifts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Paul says the eye cannot say to the hand",
+            "ref": "v. 21",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a part of the body that seems weaker. What do you understand about your own place when the body is told the weaker parts are indispensable?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Romans 12:4-5",
+        "summary": "Paul describes how many parts form one single body in Christ (v. 12). He later explains how these many members belong to one another in a single body (vv. 4-5).",
+        "question": "How does Romans 12:4-5 help you understand the connection between the many parts described in 1 Corinthians 12:12?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "practice",
+        "because": "there should be no division in the body, but that its members should have mutual concern for one another",
+        "feeling": "indifference, jealousy",
+        "object": "a brother or sister in need",
+        "behavior": "ignoring their struggle",
+        "step": "reach out with a kind word",
+        "template": "from today I let go of my {feeling:indifference, jealousy} over {object:a brother or sister in need} and instead of {behavior:ignoring their struggle}, I will {step:reach out with a kind word}."
       }
     }
   }

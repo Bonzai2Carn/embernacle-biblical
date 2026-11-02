@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of wisdom's pursuit resonates most deeply?",
-        "choices": [
-          {
-            "id": "A",
-            "text": "Active Seeking",
-            "expansion": "Wisdom requires intentional, energetic pursuit, like searching for hidden treasure."
-          },
-          {
-            "id": "B",
-            "text": "Inner Transformation",
-            "expansion": "True understanding begins when wisdom penetrates the heart and changes internal perspectives."
-          },
-          {
-            "id": "C",
-            "text": "Reverent Learning",
-            "expansion": "The fear of the Lord represents the fundamental starting point of genuine knowledge."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom is available to all, why do so few genuinely seek it with passionate commitment?"
-      },
-      "moral_slider": {
-        "question": "How do personal effort and divine grace intersect in acquiring wisdom?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of wisdom's acquisition evolved?",
-        "options": [
-          "I now see wisdom as an active, intentional pursuit",
-          "I recognize wisdom requires humility",
-          "I understand wisdom is both intellectual and spiritual",
-          "I see wisdom as a lifelong journey, not a destination"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Wisdom is predetermined and cannot be actively pursued",
           "Emotional commitment matters more than disciplined learning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The writer lists the seeker's actions",
+            "ref": "vv. 1-4",
+            "speaker": ""
+          },
+          {
+            "who": "The writer gives the result",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the seeker who accepts the words, calls out to insight, and searches like it is hidden treasure. What do you understand you will discern and discover?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "James 1:5",
+        "summary": "Proverbs 2 says the LORD gives wisdom and knowledge comes from His mouth (v. 6). James tells us how to approach this same God when we lack what we need.",
+        "question": "How does James 1:5 change how you approach the LORD for the wisdom described in these verses?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "wisdom will enter your heart, and knowledge will delight your soul",
+        "feeling": "boredom, apathy",
+        "object": "reading the Scriptures",
+        "behavior": "rushing through the words",
+        "step": "linger on one verse",
+        "template": "from today I let go of my {feeling:boredom, apathy} over {object:reading the Scriptures} and instead of {behavior:rushing through the words}, I will {step:linger on one verse}."
       }
     }
   }

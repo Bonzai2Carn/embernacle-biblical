@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational concept about spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": "death_to_sin",
-            "text": "Dying to Sin",
-            "expansion": "Recognizing sin's power is fundamentally broken through Christ's redemptive work."
-          },
-          {
-            "id": "baptismal_identity",
-            "text": "Baptismal Union with Christ",
-            "expansion": "Our spiritual identity is radically redefined through mystical participation in Christ's death and resurrection."
-          },
-          {
-            "id": "grace_transformation",
-            "text": "Grace as Transformative Power",
-            "expansion": "Divine grace is not passive permission, but an active regenerative force reshaping human potential."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sin no longer has dominion over you, what internal narratives are you still allowing to define your worth and potential?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between divine grace and personal responsibility?",
-        "left_label": "Unconditional Grace",
-        "right_label": "Personal Accountability"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "Recognize sin's power is broken",
-          "Understand baptism as identity shift",
-          "See grace as empowerment, not permission",
-          "Embrace radical spiritual renewal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Salvation automatically eliminates all sinful tendencies",
           "Personal effort alone can overcome sinful patterns"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The question is asked",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The answer is given",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the reader hearing this. Having heard that you have died to sin, what do you understand about your ability to live in it?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Galatians 2:20",
+        "summary": "Paul says sin shall not be your master because you are under grace (v. 14), then asks whether we should sin because we are under grace (v. 15). Galatians 2:20 says, 'I have been crucified with Christ, and I no longer live, but Christ lives in me.'",
+        "question": "How does the statement in Galatians 2:20 that Christ lives in me help you understand why sin shall not be your master (v. 14)?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "practice",
+        "because": "those brought from death to life present the parts of their body to God as instruments of righteousness",
+        "feeling": "guilt, shame",
+        "object": "a past mistake",
+        "behavior": "hiding from others",
+        "step": "offer my actions to God",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a past mistake} and instead of {behavior:hiding from others}, I will {step:offer my actions to God}."
       }
     }
   }

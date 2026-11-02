@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Solomon's spiritual decline resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal compromise",
-            "expansion": "How small compromises can gradually erode one's spiritual integrity"
-          },
-          {
-            "id": 2,
-            "text": "Foreign influence",
-            "expansion": "The subtle power of cultural and relational pressures to shift one's core beliefs"
-          },
-          {
-            "id": 3,
-            "text": "Systemic vulnerability",
-            "expansion": "How even the wisest leaders can become susceptible to moral and spiritual drift"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If wisdom and divine blessing do not guarantee spiritual fidelity, what truly sustains one's commitment to core values?"
-      },
-      "moral_slider": {
-        "question": "How much personal autonomy should be balanced against spiritual discipline?",
-        "left_label": "Individual Freedom",
-        "right_label": "Spiritual Constraint"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual vulnerability shifted?",
-        "options": [
-          "I recognize my own potential for gradual compromise",
-          "I see the importance of guarding spiritual boundaries",
-          "I understand leadership requires constant self-examination",
-          "I appreciate the complexity of human spiritual journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Even spiritually mature individuals are susceptible to moral drift",
           "Sustained proximity to alternative spiritual perspectives can undermine theological integrity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The LORD said to Solomon",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promised to spare a portion for David's sake",
+            "ref": "v. 12",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Solomon's place, hearing that your kingdom will be torn away. What does it mean to you that God spares a portion for the sake of your father David?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "1 Samuel 15:22-23",
+        "summary": "Solomon's wives turned his heart after other gods, and he was not wholeheartedly devoted to the LORD (v. 4). In 1 Samuel 15:22-23 Samuel says obedience is better than sacrifice, and that because you have rejected the word of the LORD, He has rejected you as king.",
+        "question": "How does Samuel's statement that obedience is better than sacrifice help you understand the weight of Solomon's turning after other gods?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "Solomon did not follow the LORD completely",
+        "feeling": "distraction, apathy",
+        "object": "my morning prayer",
+        "behavior": "checking my phone first",
+        "step": "sit in silence for five minutes",
+        "template": "from today I bring my {feeling:distraction, apathy} about {object:my morning prayer} into the light and instead of {behavior:checking my phone first}, I will {step:sit in silence for five minutes}."
       }
     }
   }

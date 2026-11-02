@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which moment reveals the most about divine intervention in human affairs?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Nebuchadnezzar's disturbed dream",
-            "expansion": "Dreams often represent liminal spaces where human uncertainty meets potential spiritual revelation."
-          },
-          {
-            "id": 2,
-            "text": "Daniel's request for time to interpret",
-            "expansion": "Seeking divine wisdom requires intentional pause and spiritual receptivity."
-          },
-          {
-            "id": 3,
-            "text": "The supernatural stone's destruction of earthly kingdoms",
-            "expansion": "God's kingdom operates beyond human political constructs and temporal power structures."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might human limitations actually create space for divine revelation?"
-      },
-      "moral_slider": {
-        "question": "What determines true power: human strategy or spiritual alignment?",
-        "left_label": "Human Calculation",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual wisdom shifted?",
-        "options": [
-          "I recognize spiritual insight transcends human expertise",
-          "Divine intervention can occur through unexpected channels",
-          "Humility precedes supernatural understanding",
-          "Prophetic revelation requires collaborative discernment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic insights validate God's ultimate redemptive plan",
           "Spiritual revelations confirm God's intimate involvement in human affairs"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The astrologers answered the king",
+            "ref": "v. 11",
+            "speaker": "The astrologers"
+          },
+          {
+            "who": "the king gave orders to destroy all the wise men of Babylon",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the wise men. You have just admitted that no human can fulfill the king's demand. What do you expect to happen next?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Corinthians 2:10",
+        "summary": "Daniel says God reveals the deep and hidden things, and that light dwells with Him (v. 22). Paul writes that God has revealed it to us by the Spirit, who searches even the deep things of God.",
+        "question": "How does Paul's description of the Spirit help you understand how God reveals deep and hidden things?"
+      },
+      "conviction": {
+        "verse": 21,
+        "frame": "trust",
+        "because": "God changes the times and seasons, and removes kings and establishes them",
+        "feeling": "anxiety, fear",
+        "object": "a sudden change in leadership",
+        "behavior": "worrying about the future",
+        "step": "rest in His sovereignty",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a sudden change in leadership} to God and instead of {behavior:worrying about the future}, I will {step:rest in His sovereignty}."
       }
     }
   }

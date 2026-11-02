@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What strikes you most about Abram's journey?",
-        "choices": [
-          {
-            "id": "wealth",
-            "text": "Accumulation of Wealth",
-            "expansion": "Material prosperity can be a blessing, but also a potential source of relational complexity."
-          },
-          {
-            "id": "relationship",
-            "text": "Peaceful Separation with Lot",
-            "expansion": "Mature relationships sometimes require graceful distance to preserve mutual respect."
-          },
-          {
-            "id": "spirituality",
-            "text": "Returning to Place of Previous Worship",
-            "expansion": "Spiritual continuity involves consciously returning to places of previous divine encounter."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might abundance test one's character differently than scarcity?"
-      },
-      "moral_slider": {
-        "question": "When is separation a form of wisdom versus a breakdown of relationship?",
-        "left_label": "Conflict Avoidance",
-        "right_label": "Principled Boundaries"
-      },
-      "reevaluation": {
-        "question": "How has this passage reshaped your understanding of personal growth?",
-        "options": [
-          "Wealth does not define spiritual maturity",
-          "Relationships require mutual respect and space",
-          "Returning to spiritual roots is important",
-          "Conflict can be resolved through generosity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seeking peaceful resolution through humility",
           "Trusting God's sovereignty beyond immediate circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "Abram said to Lot",
+            "ref": "vv. 8-9",
+            "speaker": "Abram"
+          },
+          {
+            "who": "Lot chose the whole plain of the Jordan",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Abram, offering your relative the choice of land. What would you understand when Lot chooses the whole plain of the Jordan for himself and you part company?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Psalm 115:14",
+        "summary": "The LORD tells Abram that He will give all the land he sees to him and his offspring forever (v. 15). Psalm 115:14 says, 'May the LORD give you increase, both you and your children.'",
+        "question": "How does Psalm 115:14 help you see why the LORD's promise to Abram reaches his offspring too?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "surrender",
+        "because": "the whole land lay before Lot to choose from",
+        "feeling": "anxiety, greed",
+        "object": "a limited resource",
+        "behavior": "clinging to my portion",
+        "step": "offer the other person first choice",
+        "template": "from today I release my {feeling:anxiety, greed} over {object:a limited resource} and instead of {behavior:clinging to my portion}, I will {step:offer the other person first choice}."
       }
     }
   }

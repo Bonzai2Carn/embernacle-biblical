@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about David's lineage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Family Complexity",
-            "expansion": "David's multiple marriages reveal the intricate social and political dynamics of royal relationships."
-          },
-          {
-            "id": 2,
-            "text": "Generational Continuity",
-            "expansion": "The detailed genealogy demonstrates how individual stories connect within a broader divine narrative."
-          },
-          {
-            "id": 3,
-            "text": "Leadership Inheritance",
-            "expansion": "Royal bloodlines were seen as sacred pathways for transmitting leadership and divine purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal choices in relationships shape collective destiny?"
-      },
-      "moral_slider": {
-        "question": "To what extent do individual actions define or transcend familial legacy?",
-        "left_label": "Personal Agency",
-        "right_label": "Generational Destiny"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of biblical genealogy shifted?",
-        "options": [
-          "More appreciative of historical complexity",
-          "Recognize deeper spiritual significance",
-          "See individual stories within collective narrative",
-          "Understand divine providence through human relationships"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Individual character matters more than ancestral heritage",
           "Generational patterns reveal spiritual inheritance principles"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 10,
+        "ref": "Matthew 1:1-17",
+        "summary": "The chronicler lists David's sons, born in Hebron and then in Jerusalem (vv. 1-9). Matthew traces David's line through Solomon to Jesus (Matthew 1:6-16).",
+        "question": "How does Matthew's line through Solomon help you understand the sons David had in Hebron and Jerusalem?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "remembrance",
+        "because": "four sons were born to David in Jerusalem, and each one is named",
+        "feeling": "insignificance",
+        "object": "being overlooked in a long list",
+        "behavior": "assuming my name does not matter",
+        "step": "write down names of people who shaped me",
+        "template": "from today I let go of my {feeling:insignificance} over {object:being overlooked in a long list} and instead of {behavior:assuming my name does not matter}, I will {step:write down names of people who shaped me}."
       }
     }
   }

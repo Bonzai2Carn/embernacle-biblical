@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Faith as transformative power",
-            "expansion": "Understanding grace transcends ritualistic compliance"
-          },
-          {
-            "id": 2,
-            "text": "Freedom from legalistic religious systems",
-            "expansion": "Recognizing Christ's redemption breaks external religious constraints"
-          },
-          {
-            "id": 3,
-            "text": "Spiritual inheritance through promise",
-            "expansion": "Experiencing divine covenant as relational, not transactional"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If faith precedes works, how might your understanding of spiritual transformation fundamentally change?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate spiritual authenticity?",
-        "left_label": "Legal Obedience",
-        "right_label": "Transformative Faith"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual growth shifted?",
-        "options": [
-          "Recognize grace over performance",
-          "Understand faith as relational",
-          "Reject legalistic religious frameworks",
-          "Embrace spiritual freedom"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Emphasizes personal relationship with Christ over ritualistic compliance",
           "Recognizes grace as the foundational mechanism of redemption"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Paul asks",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul asks",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Galatians, hearing Paul ask how you received the Spirit. Having started in the Spirit, what would you still wonder about finishing in the flesh?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Genesis 12:1-3",
+        "summary": "Paul says the Scripture foretold to Abraham, 'All nations will be blessed through you' (v. 8). Genesis 12:1-3 gives the LORD's words to Abram: leave your country, and all the families of the earth will be blessed through you.",
+        "question": "How does Genesis 12:1-3 help you understand what Paul means when he says Scripture foretold the gospel to Abraham?"
+      },
+      "conviction": {
+        "verse": 28,
+        "frame": "devotion",
+        "because": "there is neither Jew nor Greek, slave nor free, male nor female, for all are one in Christ Jesus",
+        "feeling": "insecurity, inadequacy",
+        "object": "my social standing",
+        "behavior": "seeking approval from others",
+        "step": "rest in my identity in Him",
+        "template": "from today I let go of my {feeling:insecurity, inadequacy} over {object:my social standing} and instead of {behavior:seeking approval from others}, I will {step:rest in my identity in Him}."
       }
     }
   }

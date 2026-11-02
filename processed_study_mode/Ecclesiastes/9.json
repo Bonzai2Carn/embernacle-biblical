@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on life's uncertainty resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "All share the same ultimate fate",
-            "expansion": "Death equalizes human experience, transcending social distinctions and personal achievements."
-          },
-          {
-            "id": 2,
-            "text": "Wisdom is valuable but not guaranteed",
-            "expansion": "Intelligence does not protect one from life's unpredictable circumstances or inevitable mortality."
-          },
-          {
-            "id": 3,
-            "text": "Living fully despite uncertainty",
-            "expansion": "Embrace joy and purpose knowing life's brevity and inherent limitations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If all ultimately face the same mortal conclusion, what gives meaning to individual human striving?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine providence with apparent randomness in human experience?",
-        "left_label": "Chaos/Randomness",
-        "right_label": "Divine Order"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of life's purpose?",
-        "options": [
-          "Recognized life's inherent unpredictability",
-          "Appreciated moments of joy more deeply",
-          "Questioned previous assumptions about fairness",
-          "Accepted mortality with greater peace"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Life events are fundamentally random",
           "Providence operates through complex, unseen spiritual mechanisms"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The Teacher observes",
+            "ref": "vv. 2-3",
+            "speaker": ""
+          },
+          {
+            "who": "The Teacher says",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone facing a common, grim fate. How does the existence of hope for the living change how you view the certainty of death?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "James 4:14",
+        "summary": "The Teacher observes that time and chance happen to all (v. 11) and that no man knows his time (v. 12). James says you do not know what will happen tomorrow, and that life is a mist that appears for a little while and then vanishes.",
+        "question": "James describes life as a mist. How does this image help you understand the unpredictable nature of the race and the battle mentioned in verse 11?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "practice",
+        "because": "whatever you find to do with your hands, do it with all your might",
+        "feeling": "apathy, boredom",
+        "object": "a repetitive daily task",
+        "behavior": "doing things half-heartedly",
+        "step": "give my full attention to the work",
+        "template": "from today I let go of my {feeling:apathy, boredom} over {object:a repetitive daily task} and instead of {behavior:doing things half-heartedly}, I will {step:give my full attention to the work}."
       }
     }
   }

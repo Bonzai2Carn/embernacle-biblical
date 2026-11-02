@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformational image most resonates with your spiritual journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The desert blossoming",
-            "expansion": "Even seemingly barren seasons of life can unexpectedly produce beauty and renewal."
-          },
-          {
-            "id": 2,
-            "text": "Strengthening weak hands and feeble knees",
-            "expansion": "Divine empowerment often comes through acknowledging our current weakness."
-          },
-          {
-            "id": 3,
-            "text": "God coming with both vengeance and healing",
-            "expansion": "Divine justice and mercy are simultaneously present in redemptive moments."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If hope can transform a literal desert into a blooming landscape, what internal 'wilderness' might be waiting for your belief to make it flourish?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal vulnerability with spiritual strength?",
-        "left_label": "Weakness",
-        "right_label": "Courage"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine restoration shifted?",
-        "options": [
-          "I see suffering as potentially transformative",
-          "Divine timing feels more nuanced",
-          "Personal weakness can be a pathway to strength",
-          "Hope transcends current circumstances"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic promises demonstrate God's redemptive character",
           "Supernatural hope transcends current circumstances"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 4",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those with anxious hearts. What does this command to be strong and not fear reveal about the God who is coming to save you?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Revelation 21:4",
+        "summary": "Isaiah promises a day when sorrow and sighing will flee (v. 10). Revelation 21:4 says God will wipe away every tear, and there will be no more death, mourning, crying or pain.",
+        "question": "How does Revelation 21:4 help you understand the sorrow and sighing that will flee in this chapter?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "your God will come to save you",
+        "feeling": "anxiety, dread",
+        "object": "a coming trial",
+        "behavior": "fretting over the outcome",
+        "step": "rest in His strength",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a coming trial} to God and instead of {behavior:fretting over the outcome}, I will {step:rest in His strength}."
       }
     }
   }

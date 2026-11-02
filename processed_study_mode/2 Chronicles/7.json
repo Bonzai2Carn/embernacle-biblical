@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological moment resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Fire Consuming Sacrifices",
-            "expansion": "God's tangible presence transforms human offerings into sacred communion."
-          },
-          {
-            "id": 2,
-            "text": "God's Promise of Conditional Blessing",
-            "expansion": "Covenant relationship requires mutual commitment and spiritual accountability."
-          },
-          {
-            "id": 3,
-            "text": "Collective Worship Response",
-            "expansion": "Authentic spiritual encounter generates spontaneous, unified communal reverence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine presence is so overwhelming that priests cannot enter the temple, how do we reconcile intimacy with transcendence in our spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and divine mercy coexist in spiritual relationship?",
-        "left_label": "Strict Accountability",
-        "right_label": "Unconditional Grace"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of worship and divine interaction?",
-        "options": [
-          "Recognized God's sovereignty more deeply",
-          "Understood worship as transformative experience",
-          "Appreciated covenant complexity",
-          "Saw spiritual commitment as reciprocal process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual covenant is primarily based on individual moral performance",
           "Theological understanding of divine relationship is contextually fluid"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 13-14",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD promises",
+            "ref": "v. 15",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people facing drought or plague. What does the LORD's promise to hear and forgive change about how you view those disasters?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Exodus 40:34-35",
+        "summary": "Fire comes down and the glory of the LORD fills the temple when Solomon finishes praying (v. 1). In Exodus 40:34-35 the cloud covers the Tent of Meeting and the glory of the LORD fills the tabernacle, so that Moses is unable to enter.",
+        "question": "How does Exodus 40:34-35 help you understand the glory of the LORD filling the temple (v. 1)?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "practice",
+        "because": "if the LORD's people humble themselves and pray and seek His face, He will hear from heaven, forgive their sin, and heal their land",
+        "feeling": "pride, self-sufficiency",
+        "object": "my own plans",
+        "behavior": "relying on my own strength",
+        "step": "seek His face in prayer",
+        "template": "from today I let go of my {feeling:pride, self-sufficiency} over {object:my own plans} and instead of {behavior:relying on my own strength}, I will {step:seek His face in prayer}."
       }
     }
   }

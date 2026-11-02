@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of worship resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Communal Celebration",
-            "expansion": "David's distribution of bread and meat symbolizes spiritual nourishment and community unity."
-          },
-          {
-            "id": 2,
-            "text": "Musical Worship",
-            "expansion": "The appointed Levites suggest music as a profound spiritual language of praise and connection."
-          },
-          {
-            "id": 3,
-            "text": "Sacrificial Offering",
-            "expansion": "The burnt and peace offerings represent total surrender and relational restoration with God."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "In what ways might public worship reveal more about the worshipper than the deity being worshipped?"
-      },
-      "moral_slider": {
-        "question": "How do personal and communal worship interact?",
-        "left_label": "Individual Spirituality",
-        "right_label": "Collective Ritual"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship transformed?",
-        "options": [
-          "More appreciation for communal expressions",
-          "Deeper understanding of symbolic actions",
-          "Recognizing worship as holistic engagement",
-          "Seeing spiritual leadership as service"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Liturgical practices are less important than personal devotion",
           "Worship should commemorate God's historical interventions and promises"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 34,
+        "exchange": [
+          {
+            "who": "David calls the people to give thanks",
+            "ref": "v. 8",
+            "speaker": "David"
+          },
+          {
+            "who": "David gives the reason to give thanks",
+            "ref": "v. 34",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in the crowd hearing this song for the first time. You are told to give thanks and make His deeds known. What do you weigh when you hear that His loving devotion endures forever?"
+      },
+      "chain": {
+        "after": 35,
+        "ref": "Psalm 105:8-11",
+        "summary": "David sings of a covenant He made with Abraham, Isaac, and Jacob (vv. 15-17). Psalm 105 recounts these same promises to show God's faithfulness to His people (vv. 8-11).",
+        "question": "How does seeing the specific names of the patriarchs in the Psalm help you understand the weight of the covenant David describes here?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "devotion",
+        "because": "God is good, and His loving devotion endures forever",
+        "feeling": "anxiety, doubt",
+        "object": "a changing season",
+        "behavior": "clinging to my own plans",
+        "step": "rest in His goodness",
+        "template": "from today I bring You my {feeling:anxiety, doubt} about {object:a changing season} and instead of {behavior:clinging to my own plans}, I will {step:rest in His goodness}."
       }
     }
   }

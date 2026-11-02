@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic aspect of the Messiah most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spirit of Wisdom",
-            "expansion": "Divine understanding transcends human limitations of perception and judgment."
-          },
-          {
-            "id": 2,
-            "text": "Perfect Righteousness",
-            "expansion": "Leadership characterized by equity and fairness, not political manipulation."
-          },
-          {
-            "id": 3,
-            "text": "Universal Peace",
-            "expansion": "Radical transformation of nature where predator and prey coexist harmoniously."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine wisdom truly 'rests' upon a leader, how would governance fundamentally change from current human systems?"
-      },
-      "moral_slider": {
-        "question": "How do divine judgment and human mercy intersect?",
-        "left_label": "Strict Justice",
-        "right_label": "Compassionate Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of messianic prophecy shifted?",
-        "options": [
-          "More metaphorical",
-          "More literally expected",
-          "More spiritually nuanced",
-          "More historically contextualized"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Demonstrates supernatural wisdom transcending human intelligence",
           "Presents a holistic approach to justice that considers marginalized populations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "vv. 3-4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the poor and lowly hearing this. You hear that He will not judge by what His eyes see or decide by what His ears hear. How does that change what you expect from a judge?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Isaiah 61:1-3",
+        "summary": "Isaiah 11 describes a Branch from Jesse's stump who judges the poor with righteousness and decides for the lowly (vv. 1-4). Isaiah 61 describes a messenger who brings good news to the poor and comfort to those who mourn.",
+        "question": "How does the work of the messenger in Isaiah 61 help you see the character of the Branch in Isaiah 11?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "trust",
+        "because": "the earth will be full of the knowledge of the LORD",
+        "feeling": "fear, anxiety",
+        "object": "the chaos in the world",
+        "behavior": "scrolling through bad news",
+        "step": "remind myself of His presence",
+        "template": "from today I entrust my {feeling:fear, anxiety} about {object:the chaos in the world} to God and instead of {behavior:scrolling through bad news}, I will {step:remind myself of His presence}."
       }
     }
   }

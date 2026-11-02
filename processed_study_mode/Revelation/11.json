@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element of divine communication most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Measuring Reed",
-            "expansion": "God's precise demarcation between sacred and profane spaces reveals His meticulous sovereignty."
-          },
-          {
-            "id": 2,
-            "text": "The Two Witnesses",
-            "expansion": "Prophetic figures represent divine testimony even in the most hostile spiritual environments."
-          },
-          {
-            "id": 3,
-            "text": "Forty-Two Month Period",
-            "expansion": "Symbolizes a predetermined season of spiritual challenge and divine limitation on worldly powers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine measurement represents spiritual authenticity, by what standards do you assess your own spiritual landscape?"
-      },
-      "moral_slider": {
-        "question": "How do faithful witnesses maintain prophetic integrity under systemic persecution?",
-        "left_label": "Compromise",
-        "right_label": "Unwavering Testimony"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resistance evolved?",
-        "options": [
-          "Recognize spiritual battles transcend physical circumstances",
-          "Understand divine timing is different from human expectations",
-          "Appreciate prophetic witness requires extraordinary courage",
-          "See persecution as a potential catalyst for spiritual transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic symbolism of Israel's restored spiritual witness",
           "Apocalyptic representation of divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The witnesses are killed and their bodies lie in the street",
+            "ref": "vv. 7-9",
+            "speaker": ""
+          },
+          {
+            "who": "The breath of life from God enters them and they stand up",
+            "ref": "v. 11",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone watching the street. You have watched their bodies lie there for three and a half days. What would you weigh when the breath of life from God enters them and they stand on their feet?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Zechariah 2:1-5",
+        "summary": "John is given a measuring rod and told to measure the temple of God and the altar (v. 1). Zechariah sees a man with a measuring line going to measure Jerusalem, and hears that the LORD will be a wall of fire around it (Zechariah 2:1-5).",
+        "question": "How does the man with a measuring line in Zechariah help you understand the measuring of the temple in this chapter?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "devotion",
+        "because": "You have taken Your great power and have begun to reign",
+        "feeling": "anxiety, dread",
+        "object": "the chaos in the world",
+        "behavior": "looking for signs of failure",
+        "step": "worship the One who is in control",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:the chaos in the world} and instead of {behavior:looking for signs of failure}, I will {step:worship the One who is in control}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which resurrection moment resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The angel's supernatural appearance",
-            "expansion": "Divine intervention breaks through human limitations and fear."
-          },
-          {
-            "id": 2,
-            "text": "Jesus' commissioning of the disciples",
-            "expansion": "Transformation from followers to global messengers represents radical spiritual empowerment."
-          },
-          {
-            "id": 3,
-            "text": "The women's initial encounter with the empty tomb",
-            "expansion": "First witnesses represent how marginalized perspectives often reveal profound spiritual truths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If resurrection represents ultimate hope, what fears in your life might represent your personal 'sealed tomb'?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate the tension between direct spiritual experience and theological interpretation?",
-        "left_label": "Personal Encounter",
-        "right_label": "Doctrinal Understanding"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual transformation shifted?",
-        "options": [
-          "I see faith as more dynamic and less static",
-          "Witnessing matters more than intellectual understanding",
-          "Spiritual truth transcends empirical evidence",
-          "Community validation is crucial for personal revelation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Establishes a foundation for personal redemption",
           "Demonstrates God's ultimate sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The angel said to the women",
+            "ref": "v. 5",
+            "speaker": "The angel"
+          },
+          {
+            "who": "The Angel said",
+            "ref": "v. 6",
+            "speaker": "The Angel"
+          }
+        ],
+        "question": "Put yourself in the place of the women. You are looking for Jesus, who was crucified. The angel tells you, He is not here; He has risen, just as He said. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Acts 1:8",
+        "summary": "Jesus says all authority in heaven and on earth has been given to Him (v. 18), and He tells the disciples to make disciples of all nations (v. 19). Acts 1:8 says the disciples will receive power when the Holy Spirit comes upon them, and they will be His witnesses to the ends of the earth.",
+        "question": "How does the promise of power in Acts 1:8 help you understand the weight of the command Jesus gives in Matthew 28:19?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "trust",
+        "because": "Jesus is with us always, even to the end of the age",
+        "feeling": "loneliness, abandonment",
+        "object": "a difficult season",
+        "behavior": "trying to handle it alone",
+        "step": "lean on His presence",
+        "template": "from today I entrust my {feeling:loneliness, abandonment} about {object:a difficult season} to God and instead of {behavior:trying to handle it alone}, I will {step:lean on His presence}."
       }
     }
   }

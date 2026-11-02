@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about suffering and spiritual understanding resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Persecution can come from misguided religious zeal",
-            "expansion": "Those who oppose you might genuinely believe they are serving God's purpose."
-          },
-          {
-            "id": 2,
-            "text": "Christ prepares disciples for inevitable challenges",
-            "expansion": "Forewarning provides spiritual resilience when difficulties emerge."
-          },
-          {
-            "id": 3,
-            "text": "Divine perspective transcends immediate suffering",
-            "expansion": "Temporary trials are contextualized within a larger spiritual narrative."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If those who persecute believers genuinely believe they are serving God, what does this reveal about the nature of spiritual blindness and human certainty?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate between personal comfort and spiritual conviction?",
-        "left_label": "Personal Safety",
-        "right_label": "Spiritual Integrity"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual challenges evolved?",
-        "options": [
-          "I see persecution as an opportunity for growth",
-          "I recognize the complexity of religious misunderstandings",
-          "I appreciate the importance of spiritual preparedness",
-          "I understand suffering can have deeper spiritual meanings"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As an opportunity for gospel witness",
           "As a direct spiritual warfare experience"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "Jesus said",
+            "ref": "v. 20",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "Jesus gives an image",
+            "ref": "v. 21",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the grieving disciples. How does this image of birth change how you weigh the weeping and grief Jesus describes?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "John 14:26",
+        "summary": "Jesus promises the coming of the Advocate to help his followers (v. 7). In John 14, he identifies this Helper as the Spirit who teaches and brings all things to remembrance.",
+        "question": "How does the specific role of the Spirit in John 14:26 help you understand the benefit of Jesus going away in verse 7?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "trust",
+        "because": "in the world you will have tribulation but I have overcome the world",
+        "feeling": "anxiety, fear",
+        "object": "a difficult season",
+        "behavior": "trying to control the outcome",
+        "step": "rest in His victory",
+        "template": "from today I entrust my {feeling:anxiety, fear} about {object:a difficult season} to God and instead of {behavior:trying to control the outcome}, I will {step:rest in His victory}."
       }
     }
   }

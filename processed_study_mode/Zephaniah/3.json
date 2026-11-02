@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual rebellion resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "City's Systemic Corruption",
-            "expansion": "Leadership's moral failure creates cascading spiritual decay through societal institutions."
-          },
-          {
-            "id": 2,
-            "text": "Divine Judgment's Precision",
-            "expansion": "God's righteousness surgically exposes human brokenness without compromise."
-          },
-          {
-            "id": 3,
-            "text": "Potential for Redemption",
-            "expansion": "Even in profound rebellion, restoration remains possible through genuine repentance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When institutional systems fail morally, what internal transformations must first occur for genuine societal renewal?"
-      },
-      "moral_slider": {
-        "question": "How do accountability and divine mercy intersect in spiritual restoration?",
-        "left_label": "Strict Judgment",
-        "right_label": "Graceful Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "Recognize systemic spiritual corruption",
-          "Understand divine judgment's redemptive purpose",
-          "Appreciate personal responsibility",
-          "See hope beyond institutional failures"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Spiritual leadership carries heightened accountability before God",
           "Collective repentance can mitigate corporate judgment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The LORD says what He hoped for",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those hearing the LORD say, Surely you will fear Me and accept correction. What would you weigh when you also hear that they rose early to corrupt all their deeds?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Revelation 21:4",
+        "summary": "The LORD promises to take away punishment and turn back the enemy (v. 15). Revelation says God will wipe away every tear, and there will be no more death, mourning, crying, or pain (Rev 21:4).",
+        "question": "How does the reality of a world without pain help you understand the joy promised to the Daughter of Zion?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "the LORD your God is among you and is mighty to save",
+        "feeling": "anxiety, dread",
+        "object": "a looming crisis",
+        "behavior": "fretting in silence",
+        "step": "rest in His presence",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a looming crisis} to God and instead of {behavior:fretting in silence}, I will {step:rest in His presence}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which parable challenges your understanding of divine invitation most profoundly?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Wedding Feast Parable",
-            "expansion": "God's invitation transcends social status and requires genuine spiritual readiness."
-          },
-          {
-            "id": 2,
-            "text": "Tribute to Caesar",
-            "expansion": "Spiritual allegiance and civic responsibility can coexist through nuanced discernment."
-          },
-          {
-            "id": 3,
-            "text": "Resurrection Debate",
-            "expansion": "Divine reality often challenges human conceptual limitations and presumed understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine invitation is universally offered, what prevents universal acceptance?"
-      },
-      "moral_slider": {
-        "question": "How do personal righteousness and divine grace interact?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual readiness evolved?",
-        "options": [
-          "More aware of personal spiritual preparedness",
-          "Recognize complexity of divine invitation",
-          "Understand limitations of legalistic thinking",
-          "Appreciate nuanced theological interpretation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Salvation is simultaneously a divine initiative and human decision",
           "The parable suggests a limited, predetermined group can enter God's kingdom"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 21,
+        "exchange": [
+          {
+            "who": "The Pharisees' disciples and Herodians asked",
+            "ref": "v. 17",
+            "speaker": "Pharisees' Disciples and Herodians"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 21",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of those who ask, Is it lawful to pay taxes to Caesar or not? Jesus answers, Give to Caesar what is Caesar's, and to God what is God's. What would you understand from that, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Romans 13:7",
+        "summary": "Jesus tells them to give to Caesar what is Caesar's and to God what is God's (v. 21). Paul says to pay everyone what you owe, taxes to whom taxes are due and honor to whom honor is due (Romans 13:7).",
+        "question": "How does Romans 13:7 help you understand what belongs to Caesar in Jesus' answer?"
+      },
+      "conviction": {
+        "verse": 39,
+        "frame": "devotion",
+        "because": "the second commandment is to love your neighbor as yourself",
+        "feeling": "resentment, envy",
+        "object": "a neighbor who annoys me",
+        "behavior": "keeping score of what they owe me",
+        "step": "pray for them by name",
+        "template": "from today I let go of my {feeling:resentment, envy} over {object:a neighbor who annoys me} and instead of {behavior:keeping score of what they owe me}, I will {step:pray for them by name}."
       }
     }
   }

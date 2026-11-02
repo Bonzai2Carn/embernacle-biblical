@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional dynamic in Paul's leadership most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Painful confrontation for growth",
-            "expansion": "Sometimes love requires difficult conversations that temporarily create sorrow but ultimately lead to transformation."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability in leadership",
-            "expansion": "True spiritual leadership involves openly sharing one's own emotional journey and struggles."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive suffering",
-            "expansion": "Personal pain can become a catalyst for collective healing and spiritual maturity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of correction change if you viewed it as an act of profound care rather than punishment?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal emotional protection with spiritual accountability?",
-        "left_label": "Self-Preservation",
-        "right_label": "Communal Transformation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual conflict and reconciliation shifted?",
-        "options": [
-          "I now see conflict as potentially redemptive",
-          "Emotional honesty is more important than maintaining appearances",
-          "Leadership requires courage to address difficult issues",
-          "Suffering can be a pathway to deeper community"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Maintain emotional distance from conflict",
           "Seek comprehensive spiritual healing"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul says the punishment is sufficient",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says to forgive and comfort him",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are a member of the church hearing that the punishment the majority imposed on him is sufficient. Then you are told to forgive and comfort him so that he will not be overwhelmed by excessive sorrow. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Galatians 6:1",
+        "summary": "Paul tells the Corinthians to forgive so that the offender is not overwhelmed by sorrow (v. 7). Galatians describes the specific way to handle a person caught in a sin.",
+        "question": "How does the instruction to restore a person in Galatians 6:1 help you understand the purpose of the forgiveness Paul seeks in verse 7?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "in Christ we speak before God with sincerity",
+        "feeling": "anxiety, pressure",
+        "object": "the need to impress others",
+        "behavior": "altering my message",
+        "step": "speak the truth plainly",
+        "template": "from today I let go of my {feeling:anxiety, pressure} over {object:the need to impress others} and instead of {behavior:altering my message}, I will {step:speak the truth plainly}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Sanctity of Human Life",
-            "expansion": "God demonstrates profound concern for protecting vulnerable human lives from destructive cultural practices."
-          },
-          {
-            "id": 2,
-            "text": "Communal Moral Responsibility",
-            "expansion": "The community bears collective accountability for maintaining spiritual and ethical standards."
-          },
-          {
-            "id": 3,
-            "text": "Radical Separation from Pagan Practices",
-            "expansion": "Israel is called to maintain absolute spiritual distinctiveness from surrounding cultural influences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine boundaries protect human dignity, even when they might initially seem restrictive?"
-      },
-      "moral_slider": {
-        "question": "To what extent should religious communities enforce moral standards?",
-        "left_label": "Individual Freedom",
-        "right_label": "Communal Holiness"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual accountability shifted?",
-        "options": [
-          "I recognize deeper communal responsibilities",
-          "I see spiritual boundaries as protective, not punitive",
-          "I understand divine judgment as rooted in love",
-          "I appreciate the complexity of maintaining spiritual identity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The underlying spiritual principles remain valid, but implementation changes",
           "Divine judgment should be understood through lens of redemptive grace"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites receiving these commands. What is the reason given for the command to be holy and keep these statutes?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "1 Peter 1:15-16",
+        "summary": "The LORD says Israel is to be holy to Him because He is holy, and that He has set them apart from the nations to be His own (v. 26). Peter writes that just as He who called you is holy, so be holy in all you do, for it is written, Be holy, because I am holy.",
+        "question": "How does 1 Peter 1:15-16 help you understand why the LORD ties Israel's holiness to His own (v. 26)?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "practice",
+        "because": "the LORD has set His people apart from the nations to be His own",
+        "feeling": "shame, guilt",
+        "object": "my past mistakes",
+        "behavior": "hiding from others",
+        "step": "walk in the light",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:my past mistakes} and instead of {behavior:hiding from others}, I will {step:walk in the light}."
       }
     }
   }

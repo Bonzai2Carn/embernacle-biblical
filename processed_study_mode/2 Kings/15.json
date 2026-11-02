@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight most resonates from King Azariah's reign?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Consistency in Judgment",
-            "expansion": "Even faithful kings are not exempt from God's disciplinary actions."
-          },
-          {
-            "id": 2,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "Leadership's spiritual trajectory can profoundly influence a nation's destiny."
-          },
-          {
-            "id": 3,
-            "text": "Incomplete Reformation",
-            "expansion": "Partial obedience does not constitute full spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If a leader does 'mostly right', can we consider them truly righteous, or does partial compliance reveal deeper spiritual compromise?"
-      },
-      "moral_slider": {
-        "question": "How does divine judgment balance with divine mercy?",
-        "left_label": "Strict Accountability",
-        "right_label": "Gracious Forbearance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Leadership is more complex than simple good/bad dichotomies",
-          "Spiritual integrity requires consistent, holistic commitment",
-          "Generational patterns significantly shape national spiritual health",
-          "Divine standards are nuanced and deeply personal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual compromise has generational and national implications",
           "Leaders are held to a higher standard of spiritual accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Azariah did what was right in the eyes of the LORD",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "the high places were not taken away",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person living under a king who follows God. What does it mean that the people still chose to worship in the high places?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Daniel 2:21",
+        "summary": "Menahem pays a massive tribute to the king of Assyria to secure his own power (v. 19-20). Daniel shows that God is the one who actually changes times and kingdoms.",
+        "question": "How does Daniel's description of God's power change how you view Menahem's attempt to control his kingdom through silver?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "Azariah did what was right in the eyes of the LORD",
+        "feeling": "anxiety, fear",
+        "object": "the opinions of others",
+        "behavior": "seeking approval from everyone",
+        "step": "act with integrity in secret",
+        "template": "from today I let go of my {feeling:anxiety, fear} over {object:the opinions of others} and instead of {behavior:seeking approval from everyone}, I will {step:act with integrity in secret}."
       }
     }
   }

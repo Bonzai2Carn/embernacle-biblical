@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine comfort resonates most with you?",
-        "choices": [
-          {
-            "id": "personal_comfort",
-            "text": "Personal Comfort in Suffering",
-            "expansion": "God's comfort is first intimate and personal before it becomes transformative for others."
-          },
-          {
-            "id": "communal_healing",
-            "text": "Comfort as a Shared Experience",
-            "expansion": "Our individual trials become resources for collective spiritual resilience."
-          },
-          {
-            "id": "redemptive_suffering",
-            "text": "Suffering as Spiritual Growth",
-            "expansion": "Tribulations are not punishments but opportunities for deeper spiritual understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If comfort is truly transformative, how might your current pain be preparing you to comfort others?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal vulnerability with spiritual strength?",
-        "left_label": "Vulnerability",
-        "right_label": "Resilience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and comfort evolved?",
-        "options": [
-          "I see suffering more as a growth opportunity",
-          "I understand comfort as a communal experience",
-          "I recognize God's presence in difficult moments",
-          "I'm more open to sharing my struggles"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering is random and has no inherent spiritual meaning",
           "Suffering exclusively tests and proves individual faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Paul asks whether he planned carelessly",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "Paul answers that his message is not yes and no",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place. You are asked whether you planned carelessly, saying yes when you mean no. What would you weigh about the faithfulness of your word before you answer?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Psalm 34:18",
+        "summary": "Paul calls God the Father of compassion and the God of all comfort, who comforts us in all our troubles (vv. 3-4). Psalm 34:18 says the LORD is near to the brokenhearted and saves the contrite in spirit.",
+        "question": "How does Psalm 34:18 help you understand the comfort Paul says we receive from God in our troubles?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "trust",
+        "because": "He placed His seal on us and put His Spirit in our hearts as a pledge",
+        "feeling": "anxiety, insecurity",
+        "object": "my uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His finished work",
+        "template": "from today I entrust my {feeling:anxiety, insecurity} about {object:my uncertain future} to God and instead of {behavior:trying to control every outcome}, I will {step:rest in His finished work}."
       }
     }
   }

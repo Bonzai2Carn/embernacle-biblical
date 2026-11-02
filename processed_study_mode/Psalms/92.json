@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine goodness resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's enduring faithfulness",
-            "expansion": "The psalm emphasizes how divine reliability transcends temporal human experiences."
-          },
-          {
-            "id": 2,
-            "text": "Praising God through music and instruments",
-            "expansion": "Worship becomes a profound act of spiritual connection and revelation."
-          },
-          {
-            "id": 3,
-            "text": "The ultimate triumph of righteousness",
-            "expansion": "Wicked actions are transient, while godly purpose remains eternally significant."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might consistent spiritual practice transform one's perception of life's challenges?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the balance between human effort and divine intervention?",
-        "left_label": "Personal Agency",
-        "right_label": "Spiritual Dependency"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of worship and praise evolved?",
-        "options": [
-          "Deeper appreciation of spiritual disciplines",
-          "Recognizing worship as a transformative act",
-          "Understanding praise as resistance against despair",
-          "Seeing music as a spiritual language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual prosperity is immediately visible in material success",
           "The righteous will always experience immediate vindication"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The psalmist calls for praise",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the singer. You are called to praise the LORD, and then you say He has made you glad by His deeds. What does that reason change about how you sing?"
+      },
+      "chain": {
+        "after": 12,
+        "ref": "Psalm 1:3-4",
+        "summary": "The Psalmist describes the righteous flourishing like a palm tree and a cedar (vv. 12-13). Psalm 1 describes a person who is like a tree planted by water, which does not wither.",
+        "question": "How does the image of the tree in Psalm 1 help you see the strength of the righteous in this Psalm?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "devotion",
+        "because": "the LORD is upright and He is my Rock",
+        "feeling": "anxiety, dread",
+        "object": "the chaos around me",
+        "behavior": "looking for a way out",
+        "step": "rest in His stability",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:the chaos around me} and instead of {behavior:looking for a way out}, I will {step:rest in His stability}."
       }
     }
   }

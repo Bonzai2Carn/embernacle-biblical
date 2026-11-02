@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine justice resonates most strongly with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's awareness of human suffering",
-            "expansion": "The prophet recognizes God's intimate knowledge of individual struggles."
-          },
-          {
-            "id": 2,
-            "text": "The apparent prosperity of the wicked",
-            "expansion": "Jeremiah wrestles with the seemingly unfair distribution of worldly success."
-          },
-          {
-            "id": 3,
-            "text": "The testing of personal faith",
-            "expansion": "Divine scrutiny reveals the heart's true spiritual condition."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's justice operates on a timeline beyond human comprehension, how might that transform your understanding of temporary circumstances?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine sovereignty with human free will?",
-        "left_label": "Complete Human Autonomy",
-        "right_label": "Total Divine Predetermination"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous understanding of spiritual struggle?",
-        "options": [
-          "I see suffering differently now",
-          "My concept of divine justice has shifted",
-          "I understand personal faith testing more deeply",
-          "I'm more comfortable with theological complexity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment involves complex spiritual dynamics",
           "Faithful observation requires patient theological discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Jeremiah asks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 14-15",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one who asked why the way of the wicked prospers. You hear that the LORD will uproot the evil neighbors, and that after He has uprooted them He will again have compassion. What would you still wonder?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Psalm 73:2-12",
+        "summary": "Jeremiah asks why the faithless live at ease (v. 1). The psalmist describes the same sight of the prosperity of the wicked (vv. 2-12).",
+        "question": "The psalmist describes the physical ease of the wicked. How does this help you understand the weight of Jeremiah's complaint?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "trust",
+        "because": "compassion returns after the uprooting, and each one goes back to his inheritance and land",
+        "feeling": "despair, hopelessness",
+        "object": "a season of loss",
+        "behavior": "assuming things are finished",
+        "step": "wait for His restoration",
+        "template": "from today I entrust my {feeling:despair, hopelessness} about {object:a season of loss} to God and instead of {behavior:assuming things are finished}, I will {step:wait for His restoration}."
       }
     }
   }

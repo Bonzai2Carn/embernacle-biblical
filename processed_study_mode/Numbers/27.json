@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theme resonates most with you in this narrative of inheritance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Female Agency in Patriarchal Society",
-            "expansion": "The daughters challenge systemic gender limitations by advocating for their familial inheritance rights."
-          },
-          {
-            "id": 2,
-            "text": "Justice Beyond Traditional Structures",
-            "expansion": "Moses seeks divine guidance to resolve a complex legal and social dilemma not previously addressed in existing laws."
-          },
-          {
-            "id": 3,
-            "text": "Generational Continuity and Legacy",
-            "expansion": "The daughters ensure their father's name and lineage will not be forgotten, despite his having no sons."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do societal norms become transformed when marginalized voices persistently speak truth to power?"
-      },
-      "moral_slider": {
-        "question": "To what extent should established legal frameworks be adaptable to emerging social realities?",
-        "left_label": "Rigid Tradition",
-        "right_label": "Dynamic Interpretation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of inheritance and legacy shifted after reflecting on this narrative?",
-        "options": [
-          "I recognize the importance of challenging unjust systems",
-          "I see how divine guidance can resolve complex social challenges",
-          "I understand the power of collective advocacy",
-          "I appreciate the significance of preserving familial memory"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Spiritual inheritance is more important than material inheritance",
           "God values individual merit over generational status"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The daughters of Zelophehad said",
+            "ref": "v. 4",
+            "speaker": "The daughters of Zelophehad"
+          },
+          {
+            "who": "The LORD answered",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of these women. You ask for a way to keep your father's name alive in the land. What does the LORD's response reveal about how He hears your plea?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Acts 1:24-26",
+        "summary": "Moses asks the LORD to appoint a man over the congregation (v. 16). The apostles pray that the LORD will show whom He has chosen, then they cast lots, and Matthias is added to the eleven (Acts 1:24-26).",
+        "question": "How does the apostles' prayer for a chosen leader in Acts 1:24-26 help you see the weight of Moses' request in Numbers 27?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "Moses did as the LORD had commanded him",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult instruction",
+        "behavior": "questioning the purpose",
+        "step": "obey the next command",
+        "template": "from today I let go of my {feeling:anxiety, doubt} over {object:a difficult instruction} and instead of {behavior:questioning the purpose}, I will {step:obey the next command}."
       }
     }
   }

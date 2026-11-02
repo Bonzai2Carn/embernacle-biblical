@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Cleansing of flesh and spirit",
-            "expansion": "Personal holiness requires intentional purification at both physical and spiritual levels."
-          },
-          {
-            "id": 2,
-            "text": "Boldness in relationship",
-            "expansion": "Authentic spiritual community demands transparent, courageous communication."
-          },
-          {
-            "id": 3,
-            "text": "Comfort in reconciliation",
-            "expansion": "True spiritual healing emerges through mutual understanding and grace."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual transformation is constant, what parts of yourself are you currently resisting changing?"
-      },
-      "moral_slider": {
-        "question": "How do personal integrity and communal grace intersect?",
-        "left_label": "Individual Accountability",
-        "right_label": "Collective Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "More aware of internal spiritual work",
-          "Recognize importance of community",
-          "Understand grace more deeply",
-          "See vulnerability as strength"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Worldly sorrow is self-centered, godly sorrow is redemptive and others-focused",
           "Godly sorrow requires divine intervention, worldly sorrow is purely human emotion"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "Paul rejoices",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are Paul, having sent a letter that caused pain. How does seeing the result of that pain change your regret into joy?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "James 4:9-10",
+        "summary": "Paul describes how sorrow led the Corinthians to repentance (v. 9). James calls for a similar mourning and humbling before the Lord (vv. 9-10).",
+        "question": "James describes the inward movement of a person who is broken. How does this help you recognize the difference between the two types of sorrow Paul describes?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "we have these promises",
+        "feeling": "guilt, shame",
+        "object": "a recent failure",
+        "behavior": "hiding from others",
+        "step": "cleanse my heart through confession",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a recent failure} and instead of {behavior:hiding from others}, I will {step:cleanse my heart through confession}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which foundational narrative in this chapter most resonates with your understanding of divine guidance?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Historical Redemption",
-            "expansion": "Tracing Israel's journey from pagan ancestry to chosen people reveals transformative divine intervention."
-          },
-          {
-            "id": 2,
-            "text": "Covenant Renewal",
-            "expansion": "Joshua's final speech represents a critical moment of collective spiritual recommitment and national identity."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Transition",
-            "expansion": "The passage demonstrates how spiritual legacy is consciously transmitted between generations through deliberate remembrance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine providence guided your ancestors through impossible circumstances, what might that suggest about your own potential for transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal choice and divine sovereignty interact in spiritual commitment?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Election"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance shifted after examining this chapter?",
-        "options": [
-          "I recognize my ancestors' spiritual journey matters",
-          "Personal choice is ultimately more important than inherited tradition",
-          "Collective memory shapes individual identity",
-          "Spiritual commitment requires continuous renewal"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Covenant relationship is a collaborative process between divine initiative and human consent",
           "Predestination negates human responsibility in spiritual decision-making"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Joshua said to the people",
+            "ref": "v. 15",
+            "speaker": "Joshua"
+          },
+          {
+            "who": "The people replied",
+            "ref": "v. 16",
+            "speaker": "The people"
+          }
+        ],
+        "question": "Put yourself in the place of the people facing this choice. You hear a leader demand a decision between the gods your fathers served and serving the LORD. What do you weigh before you give your answer?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "1 Kings 18:21",
+        "summary": "The people in Shechem declare their loyalty to the LORD (v. 16). Later, Elijah confronts Israel with a similar demand to stop wavering between two opinions.",
+        "question": "How does Elijah's challenge to a divided nation help you understand Joshua's warning about the difficulty of serving a holy God?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "the LORD drove out the nations before Israel, and Israel will serve Him because He is their God",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "scrolling through my phone",
+        "step": "spend five minutes in prayer",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:my morning routine} and instead of {behavior:scrolling through my phone}, I will {step:spend five minutes in prayer}."
       }
     }
   }

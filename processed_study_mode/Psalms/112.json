@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of righteousness resonates most deeply?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Righteousness as generosity",
-            "expansion": "True righteousness manifests through compassionate giving and supporting those in need."
-          },
-          {
-            "id": "b",
-            "text": "Steadfast faith amid challenges",
-            "expansion": "Maintaining unwavering trust in God's guidance, even when circumstances seem uncertain."
-          },
-          {
-            "id": "c",
-            "text": "Inner peace from divine alignment",
-            "expansion": "Living with integrity creates a profound sense of spiritual and emotional stability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine righteousness transform societal structures if practiced universally?"
-      },
-      "moral_slider": {
-        "question": "Where does personal prosperity intersect with spiritual responsibility?",
-        "left_label": "Individual Success",
-        "right_label": "Community Welfare"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of righteousness evolved?",
-        "options": [
-          "Shifted from legalistic to compassionate perspective",
-          "Recognized interconnectedness of personal and communal spiritual health",
-          "Understood righteousness as active engagement, not passive compliance",
-          "Appreciated the dynamic nature of spiritual growth"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Righteousness creates a spiritual environment for God's blessings",
           "Blessings are predetermined and unaffected by human actions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist describes the man who does not fear bad news",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone facing a sudden crisis. What does this man's reaction teach you about where his true security lies?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Proverbs 3:9-10",
+        "summary": "Psalm 112 says the man has scattered his gifts to the poor (v. 9). Proverbs 3:9-10 says to honor the LORD with your wealth and the firstfruits of all your harvest.",
+        "question": "How does Proverbs 3:9-10 help you understand the man who scatters gifts to the poor in verse 9?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "trust",
+        "because": "the man who fears the LORD has a steadfast heart, trusting in the LORD",
+        "feeling": "anxiety, dread",
+        "object": "a sudden report",
+        "behavior": "panicking about the future",
+        "step": "rest in His faithfulness",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:a sudden report} and instead of {behavior:panicking about the future}, I will {step:rest in His faithfulness}."
       }
     }
   }

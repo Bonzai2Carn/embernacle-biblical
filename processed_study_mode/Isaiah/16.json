@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound theme resonates most in this prophetic passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Compassion for Refugees",
-            "expansion": "The passage emphasizes protecting vulnerable displaced people as a spiritual mandate."
-          },
-          {
-            "id": 2,
-            "text": "Inevitable Geopolitical Judgment",
-            "expansion": "Nations face consequences for their systemic oppression and moral failures."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Hospitality",
-            "expansion": "Offering shelter to the marginalized is a profound expression of spiritual solidarity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If compassion for the vulnerable is a divine attribute, how does human political strategy contradict or align with this spiritual principle?"
-      },
-      "moral_slider": {
-        "question": "How do national security concerns balance against humanitarian obligations?",
-        "left_label": "Strict Border Protection",
-        "right_label": "Unconditional Refugee Welcome"
-      },
-      "reevaluation": {
-        "question": "How might this text transform your understanding of community responsibility?",
-        "options": [
-          "I now see vulnerability differently",
-          "Political borders seem less absolute",
-          "Compassion requires personal risk",
-          "Spiritual principles transcend national interests"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Ethnic boundaries are secondary to spiritual responsiveness",
           "Prophetic warnings serve as opportunities for repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Moab pleads",
+            "ref": "v. 4",
+            "speaker": "Moab"
+          },
+          {
+            "who": "The text promises",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Moab's fugitives. You plead for a refuge from the destroyer. What do you weigh when a throne of loving devotion is promised in the tent of David?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Leviticus 19:33-34",
+        "summary": "Moab begs for shelter and a refuge from the destroyer (v. 3-4). Leviticus commands Israel not to oppress a foreigner who lives among them, but to love him as yourself (Leviticus 19:33-34).",
+        "question": "How does the command to welcome the foreigner in Leviticus help you understand the plea Moab makes in Isaiah 16?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "devotion",
+        "because": "praying at the sanctuary will do Moab no good",
+        "feeling": "indifference, boredom",
+        "object": "my religious routine",
+        "behavior": "going through prayers without heart",
+        "step": "pray with an honest heart",
+        "template": "from today I bring You my {feeling:indifference, boredom} about {object:my religious routine} and instead of {behavior:going through prayers without heart}, I will {step:pray with an honest heart}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea about loyalty and allegiance strikes you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Gathering around a leader despite uncertain circumstances",
-            "expansion": "David attracted diverse warriors united by a shared vision beyond current political structures."
-          },
-          {
-            "id": 2,
-            "text": "Transcending tribal boundaries for a greater purpose",
-            "expansion": "Warriors from different tribes converged, demonstrating unity over historical divisions."
-          },
-          {
-            "id": 3,
-            "text": "Personal skill and collective strength",
-            "expansion": "Each warrior brought unique abilities that contributed to the potential of the whole community."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do individuals recognize legitimate leadership when existing systems seem compromised?"
-      },
-      "moral_slider": {
-        "question": "What determines true allegiance: blood relations or shared principles?",
-        "left_label": "Tribal/Familial Loyalty",
-        "right_label": "Ideological Commitment"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of community and leadership have shifted?",
-        "options": [
-          "Recognized importance of diverse talents",
-          "Understood leadership requires attracting committed individuals",
-          "Saw how personal convictions transcend political boundaries",
-          "Appreciated the complexity of social transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Leadership is fundamentally about heart alignment with God's purposes",
           "Authentic leadership emerges through tested character and demonstrated commitment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "David said",
+            "ref": "v. 17",
+            "speaker": "David"
+          },
+          {
+            "who": "Amasai said",
+            "ref": "v. 18",
+            "speaker": "Amasai"
+          }
+        ],
+        "question": "Put yourself in David's place: you demand a pledge of loyalty to avoid betrayal. What does Amasai's response reveal about the source of the strength behind this new group?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "1 Samuel 22:1-2",
+        "summary": "Men came to David day after day until he had a great army (v. 22). 1 Samuel 22:1-2 tells how it began: in the cave of Adullam, all who were distressed, indebted, or discontented rallied around him, and he became their leader with about four hundred men.",
+        "question": "How does 1 Samuel 22:1-2 help you understand how David's army began before it grew great in verse 22?"
+      },
+      "conviction": {
+        "verse": 38,
+        "frame": "devotion",
+        "because": "all these men of war came fully determined to make David king",
+        "feeling": "distrust, suspicion",
+        "object": "a new responsibility",
+        "behavior": "hesitating to commit",
+        "step": "embrace the task with purpose",
+        "template": "from today I let go of my {feeling:distrust, suspicion} over {object:a new responsibility} and instead of {behavior:hesitating to commit}, I will {step:embrace the task with purpose}."
       }
     }
   }

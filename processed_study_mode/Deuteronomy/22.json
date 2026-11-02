@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply about community responsibility?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Protecting another's property",
-            "expansion": "True compassion means caring for what belongs to others, even when inconvenient."
-          },
-          {
-            "id": 2,
-            "text": "Restoring lost belongings",
-            "expansion": "Integrity means returning things to their rightful owner without expectation of reward."
-          },
-          {
-            "id": 3,
-            "text": "Maintaining community trust",
-            "expansion": "Small acts of faithfulness create a web of mutual care and respect."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If personal convenience conflicts with communal responsibility, what truly defines moral action?"
-      },
-      "moral_slider": {
-        "question": "How do individual rights balance against collective welfare?",
-        "left_label": "Personal Freedom",
-        "right_label": "Community Obligation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of neighborly duty shifted?",
-        "options": [
-          "I recognize deeper interconnectedness",
-          "I see practical wisdom in mutual care",
-          "I understand responsibility extends beyond self",
-          "I appreciate reciprocal social contracts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "These regulations reveal God's holistic view of community harmony",
           "Ethical standards evolve, but underlying spiritual principles remain constant"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The law commands",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The law gives the reason",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone walking along the road who finds a nest with chicks or eggs. The law says you must not take the mother along with the young. What would you still wonder about why this mercy matters?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Galatians 6:2",
+        "summary": "Moses says you must not ignore your brother's fallen donkey or ox, but must help him lift it up (v. 4). Paul tells the Galatians to carry one another's burdens (Galatians 6:2).",
+        "question": "How does Galatians 6:2 help you understand why you must not ignore a brother's fallen animal in Deuteronomy 22 (v. 4)?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "practice",
+        "because": "a railing around your roof keeps bloodguilt off your house if someone falls from it",
+        "feeling": "negligence, carelessness",
+        "object": "my responsibilities at home",
+        "behavior": "ignoring potential dangers",
+        "step": "build a railing around my roof",
+        "template": "from today I let go of my {feeling:negligence, carelessness} over {object:my responsibilities at home} and instead of {behavior:ignoring potential dangers}, I will {step:build a railing around my roof}."
       }
     }
   }

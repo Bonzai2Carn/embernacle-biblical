@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual leadership idea resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Intentional Spiritual Preparation",
-            "expansion": "Josiah meticulously organized the Passover, demonstrating how deliberate planning honors divine expectations."
-          },
-          {
-            "id": 2,
-            "text": "Generational Sacred Responsibility",
-            "expansion": "Returning the ark to its rightful place symbolizes preserving theological traditions across generations."
-          },
-          {
-            "id": 3,
-            "text": "Empowering Ministerial Roles",
-            "expansion": "Encouraging priests and Levites reveals leadership's role in motivating spiritual workers."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine spiritual renewal emerge when leaders prioritize sacred traditions over personal convenience?"
-      },
-      "moral_slider": {
-        "question": "Between institutional ritual and personal spiritual authenticity, where does true worship reside?",
-        "left_label": "Ritualistic Formalism",
-        "right_label": "Heartfelt Devotion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership evolved?",
-        "options": [
-          "Recognize the importance of systematic worship",
-          "Understand leadership as service, not control",
-          "Value collective spiritual responsibility",
-          "Appreciate historical theological continuity"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Shows leadership's role in reestablishing covenant relationship",
           "Reveals worship as a powerful instrument of national spiritual renewal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 22,
+        "exchange": [
+          {
+            "who": "Neco sent messengers to him, saying",
+            "ref": "v. 21",
+            "speaker": "Neco"
+          },
+          {
+            "who": "Josiah, however, did not turn away from him",
+            "ref": "v. 22",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Josiah's place. Neco says he has not come against you, that God told him to hurry, and that you must stop opposing God, who is with him. What would you weigh, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Deuteronomy 16:1-8",
+        "summary": "Josiah leads a Passover celebration with the Israelites who were present (v. 17). Deuteronomy 16:1-8 gives the specific instructions for how the people must observe this same feast.",
+        "question": "How does the requirement to observe the Passover according to the Law help you see the scale of Josiah's obedience?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "exposure",
+        "because": "Josiah did not listen to Neco's words from the mouth of God",
+        "feeling": "pride, stubbornness",
+        "object": "my own intuition",
+        "behavior": "ignoring a clear warning",
+        "step": "stop and listen",
+        "template": "from today I bring my {feeling:pride, stubbornness} about {object:my own intuition} into the light and instead of {behavior:ignoring a clear warning}, I will {step:stop and listen}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight most resonates with your understanding of character?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The wicked flee when no one pursues",
-            "expansion": "Guilt creates an internal persecution more devastating than external threat."
-          },
-          {
-            "id": 2,
-            "text": "Those who forsake the law praise the wicked",
-            "expansion": "Moral relativism emerges when personal convenience supersedes principled living."
-          },
-          {
-            "id": 3,
-            "text": "A poor man who oppresses the poor",
-            "expansion": "Power corrupts even those who have experienced marginalization."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do internal motivations create external realities, and what invisible forces shape your perception of righteousness?"
-      },
-      "moral_slider": {
-        "question": "To what extent does personal integrity determine societal transformation?",
-        "left_label": "Individual Powerlessness",
-        "right_label": "Individual Accountability"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of justice and character?",
-        "options": [
-          "I recognize my own potential for self-deception",
-          "I see the importance of consistent moral standards",
-          "I understand vulnerability as a strength, not weakness",
-          "I'm more aware of systemic moral dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Collective repentance and wisdom can redirect communal trajectories",
           "Righteousness is primarily an individual spiritual journey"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 1,
+        "exchange": [
+          {
+            "who": "The writer contrasts",
+            "ref": "v. 1",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself where no one is chasing you. The wicked flee, but the righteous are as bold as a lion. What do you understand about why they act so differently?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 27:1",
+        "summary": "The righteous are as bold as a lion, while the wicked flee when no one pursues (v. 1). Psalm 27:1 says the LORD is the psalmist's light and salvation, so he asks whom he should fear.",
+        "question": "How does Psalm 27:1 help you understand the boldness of the righteous in Proverbs 28:1?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "surrender",
+        "because": "the one who trusts in himself is a fool",
+        "feeling": "pride, self-reliance",
+        "object": "my own plans",
+        "behavior": "trusting my own judgment alone",
+        "step": "ask a wise friend for counsel",
+        "template": "from today I release my {feeling:pride, self-reliance} over {object:my own plans} and instead of {behavior:trusting my own judgment alone}, I will {step:ask a wise friend for counsel}."
       }
     }
   }

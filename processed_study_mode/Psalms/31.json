@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of God's protection resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Refuge in Divine Shelter",
-            "expansion": "God as an impenetrable fortress protecting the vulnerable from overwhelming challenges."
-          },
-          {
-            "id": 2,
-            "text": "Redemptive Mercy",
-            "expansion": "The transformative power of God's compassion that rescues from personal distress and enemies."
-          },
-          {
-            "id": 3,
-            "text": "Steadfast Love Through Suffering",
-            "expansion": "Experiencing divine faithfulness even amid profound personal struggle and perceived abandonment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If trust is a choice, what internal barriers prevent complete surrender to divine protection?"
-      },
-      "moral_slider": {
-        "question": "How do human vulnerability and divine sovereignty interact in personal suffering?",
-        "left_label": "Human Powerlessness",
-        "right_label": "Divine Control"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual resilience shifted?",
-        "options": [
-          "More aware of inner spiritual strength",
-          "Recognize complexity of faith during hardship",
-          "Appreciate vulnerability as spiritual wisdom",
-          "See suffering as potential for deeper transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Vulnerability is not weakness but an opportunity for divine intervention",
           "Personal trust supersedes situational challenges"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 13",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: you hear slander and terror on every side. What changes when you shift your focus from the plots of others to the reality of God?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "2 Samuel 22:2-3",
+        "summary": "The psalmist commits his spirit into the LORD's hands (v. 5) and asks Him to be a rock of refuge (v. 2). Second Samuel 22:2-3 says the LORD is my rock, my fortress, my deliverer and my shield, in whom I take refuge.",
+        "question": "How does seeing the LORD as a rock and fortress in 2 Samuel 22:2-3 help you understand the psalmist committing his spirit to Him?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "trust",
+        "because": "my times are in Your hands",
+        "feeling": "anxiety, dread",
+        "object": "an uncertain future",
+        "behavior": "trying to control every outcome",
+        "step": "rest in His sovereignty",
+        "template": "from today I bring You my {feeling:anxiety, dread} about {object:an uncertain future} and instead of {behavior:trying to control every outcome}, I will {step:rest in His sovereignty}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most resonates about divine judgment in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over national destinies",
-            "expansion": "Divine intervention transcends human military strategy and political power."
-          },
-          {
-            "id": 2,
-            "text": "The inevitability of consequence for systemic oppression",
-            "expansion": "Historical patterns of violence ultimately provoke transformative judgment."
-          },
-          {
-            "id": 3,
-            "text": "The graphic imagery of military destruction",
-            "expansion": "Prophetic language uses visceral metaphors to communicate spiritual truths."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine justice differ from human concepts of retribution?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine judgment represent redemptive or punitive purposes?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic literature evolved?",
-        "options": [
-          "More nuanced view of biblical narrative",
-          "Greater appreciation for historical context",
-          "Deeper understanding of metaphorical language",
-          "Recognition of complex theological themes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Historical events demonstrate God's specific interventions in geopolitical dynamics",
           "Judgment narratives reveal God's ultimate redemptive purposes for humanity"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The prophet speaks to Nineveh",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet gives the promise",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one who must guard the fortress and watch the road. You hear that the LORD will restore the splendor of Jacob. What would you weigh in that promise, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Joel 2:25-26",
+        "summary": "The LORD will restore the splendor of Jacob, though destroyers have laid them waste (v. 2). In Joel 2:25-26 the LORD says He will repay the years eaten by locusts, and His people will have plenty to eat and never again be put to shame.",
+        "question": "How does Joel 2:25-26 help you understand what the LORD's restoring looks like after destroyers have laid waste?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "repair",
+        "because": "the LORD will restore the splendor of Jacob like the splendor of Israel",
+        "feeling": "envy, bitterness",
+        "object": "someone else's recovery",
+        "behavior": "measuring my restoration against theirs",
+        "step": "thank God for the restoration I already have",
+        "template": "from today I turn from my {feeling:envy, bitterness} toward {object:someone else's recovery} and instead of {behavior:measuring my restoration against theirs}, I will {step:thank God for the restoration I already have}."
       }
     }
   }

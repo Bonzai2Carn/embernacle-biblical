@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual metaphor resonates most deeply with your understanding of discipleship?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Soldier of Christ",
-            "expansion": "Discipleship requires disciplined commitment and strategic spiritual warfare."
-          },
-          {
-            "id": 2,
-            "text": "Trained Athlete",
-            "expansion": "Christian growth demands rigorous training, personal discipline, and adherence to spiritual rules."
-          },
-          {
-            "id": 3,
-            "text": "Faithful Transmitter of Truth",
-            "expansion": "Spiritual legacy involves carefully preserving and passing down transformative teachings."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your personal comfort be hindering your capacity to endure spiritual challenges?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal grace with doctrinal integrity?",
-        "left_label": "Radical Grace",
-        "right_label": "Doctrinal Precision"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual mentorship evolved?",
-        "options": [
-          "More committed to discipleship",
-          "Recognize the importance of theological transmission",
-          "Understand spiritual growth requires intentionality",
-          "Appreciate the multi-generational nature of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "As primarily defensive spiritual warriors",
           "As strategic, disciplined spiritual ambassadors"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 13,
+        "exchange": [
+          {
+            "who": "The saying warns",
+            "ref": "v. 12",
+            "speaker": ""
+          },
+          {
+            "who": "The saying answers",
+            "ref": "v. 13",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a reader of this saying. You read that if we deny Him, He will deny us, and then that if we are faithless, He remains faithful. What do you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Titus 3:9",
+        "summary": "Paul tells Timothy to charge the believers to avoid quarreling over words, which succeeds only in leading the listeners to ruin (v. 14). Titus 3:9 says to avoid foolish controversies and quarrels, because these things are pointless and worthless.",
+        "question": "How does Titus 3:9 help you understand why quarreling over words is to be avoided in v. 14?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "practice",
+        "because": "those who call on the Lord out of a pure heart pursue righteousness, faith, love, and peace together",
+        "feeling": "impatience, irritation",
+        "object": "a difficult person",
+        "behavior": "snapping back with a sharp word",
+        "step": "respond with kindness and patience",
+        "template": "from today I let go of my {feeling:impatience, irritation} over {object:a difficult person} and instead of {behavior:snapping back with a sharp word}, I will {step:respond with kindness and patience}."
       }
     }
   }

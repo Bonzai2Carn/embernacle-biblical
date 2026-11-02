@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological insight resonates most powerfully about Christ's priesthood?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Christ as Superior High Priest",
-            "expansion": "Jesus mediates a more excellent covenant, transcending earthly limitations of religious ritual."
-          },
-          {
-            "id": 2,
-            "text": "The True Tabernacle",
-            "expansion": "God's authentic spiritual dwelling is not constructed by human hands but established directly by divine design."
-          },
-          {
-            "id": 3,
-            "text": "New Covenant Promise",
-            "expansion": "God promises an internalized relationship where His laws are written on hearts, not just external tablets."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God's covenant is now internal and personal, what transformative power does external religious practice still hold?"
-      },
-      "moral_slider": {
-        "question": "How do you navigate between institutional religious practice and personal spiritual intimacy?",
-        "left_label": "Institutional Ritual",
-        "right_label": "Personal Relationship"
-      },
-      "reevaluation": {
-        "question": "How has this chapter challenged your understanding of spiritual mediation?",
-        "options": [
-          "Recognized Christ's superior priesthood",
-          "Understood covenant as more relational than transactional",
-          "Saw spiritual transformation as internal process",
-          "Appreciated God's proactive redemptive strategy"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine relationship is now based on grace, not legalistic performance",
           "Spiritual mediation occurs through personal relationship, not institutional structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "The author states",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "The first covenant was",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a person living under the old system. The new ministry is much more excellent. What do you understand about why a second covenant was needed?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Jeremiah 31:31-34",
+        "summary": "The author quotes the promise of a new covenant where God writes His laws on minds and hearts (v. 10). Jeremiah 31 sets it against the covenant made with their fathers, which they broke (Jeremiah 31:32).",
+        "question": "How does the contrast with the broken covenant in Jeremiah 31:32 help you value the promise in verse 10?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "remembrance",
+        "because": "I will forgive their iniquities and will remember their sins no more",
+        "feeling": "shame, guilt",
+        "object": "a past failure",
+        "behavior": "replaying my mistakes",
+        "step": "accept His forgiveness",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:a past failure} and instead of {behavior:replaying my mistakes}, I will {step:accept His forgiveness}."
       }
     }
   }

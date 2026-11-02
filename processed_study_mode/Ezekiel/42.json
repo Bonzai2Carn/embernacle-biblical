@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which architectural detail of the divine sanctuary most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Precise measurements",
-            "expansion": "Sacred geometry reveals divine order and intentionality beyond human randomness."
-          },
-          {
-            "id": 2,
-            "text": "Separated chambers",
-            "expansion": "Spiritual boundaries represent holiness and the careful distinction between sacred and profane spaces."
-          },
-          {
-            "id": 3,
-            "text": "Three-story structure",
-            "expansion": "Multilayered design symbolizes spiritual complexity and progressive revelation of divine mysteries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine architecture is a metaphor, what invisible structures might be shaping your own spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "How do precise divine instructions relate to spiritual freedom?",
-        "left_label": "Rigid Structure",
-        "right_label": "Spiritual Spontaneity"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine communication shifted?",
-        "options": [
-          "More appreciative of symbolic detail",
-          "Recognizing deeper spiritual metaphors",
-          "Understanding God's meticulous nature",
-          "Seeing architecture as spiritual language"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Detailed measurements represent God's intentional redemptive plan",
           "Structural separation illustrates spiritual holiness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The man describes the holy chambers",
+            "ref": "v. 13",
+            "speaker": "The man"
+          },
+          {
+            "who": "The man gives the rule about garments",
+            "ref": "v. 14",
+            "speaker": "The man"
+          }
+        ],
+        "question": "Put yourself in the place of a priest in these chambers. You may not go out to the outer court until you leave behind your holy garments and put on other clothes before approaching the places for the people. What would you weigh as you change?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Leviticus 10:10",
+        "summary": "The man tells the priests to leave their holy garments behind before they go out to the people (v. 14). Leviticus tells the priests to distinguish between the holy and the common, and between the clean and the unclean (Lev 10:10).",
+        "question": "How does Leviticus 10:10 help you understand the boundary between the holy and the common in Ezekiel 42?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "a wall all around separates the holy from the common",
+        "feeling": "distraction, carelessness",
+        "object": "my time in prayer",
+        "behavior": "rushing into my day",
+        "step": "set aside a quiet moment first",
+        "template": "from today I let go of my {feeling:distraction, carelessness} over {object:my time in prayer} and instead of {behavior:rushing into my day}, I will {step:set aside a quiet moment first}."
       }
     }
   }

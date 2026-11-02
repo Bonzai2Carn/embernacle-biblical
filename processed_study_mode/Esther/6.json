@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about divine timing in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unexpected Royal Recognition",
-            "expansion": "Sometimes vindication comes through unexpected channels and moments."
-          },
-          {
-            "id": 2,
-            "text": "Providential Sleeplessness",
-            "expansion": "God can work through seemingly mundane circumstances to orchestrate larger purposes."
-          },
-          {
-            "id": 3,
-            "text": "Humility's Ultimate Reward",
-            "expansion": "Genuine service often precedes unexpected honor."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current unrecognized faithfulness be preparing you for a future moment of significance?"
-      },
-      "moral_slider": {
-        "question": "To what extent do personal motives versus divine providence shape historical outcomes?",
-        "left_label": "Human Agency",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of waiting and divine timing shifted?",
-        "options": [
-          "I see providence more dynamically",
-          "Timing is more complex than I previously understood",
-          "Small acts can have profound consequences",
-          "Personal humility matters more than immediate recognition"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Human decisions ultimately determine outcomes, with God observing",
           "The chapter demonstrates a mysterious interplay between divine planning and human agency"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The king asked",
+            "ref": "v. 3",
+            "speaker": "Ahasuerus"
+          },
+          {
+            "who": "The king ordered Haman brought in",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the king's place. You ask what honor has been given to Mordecai for his act. When your attendants say Haman is standing in the court, what would you weigh before you say, Bring him in?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Proverbs 16:9",
+        "summary": "Haman tells the king how to honor the man the king delights in (vv. 7-9), and the king tells him to do all of it for Mordecai (v. 10). Proverbs says a man's heart plans his course, but the LORD determines his steps.",
+        "question": "How does Proverbs 16:9 help you understand how Haman's own plan ended up honoring Mordecai?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "exposure",
+        "because": "Haman thought to himself that the king would be delighted to honor no one more than him",
+        "feeling": "pride, conceit",
+        "object": "a lack of recognition",
+        "behavior": "assuming importance",
+        "step": "celebrate someone else's honor",
+        "template": "from today I bring my {feeling:pride, conceit} about {object:a lack of recognition} into the light and instead of {behavior:assuming importance}, I will {step:celebrate someone else's honor}."
       }
     }
   }

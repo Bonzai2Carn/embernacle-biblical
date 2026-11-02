@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What most reveals the spiritual trajectory of King Ahaz?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Idol worship",
-            "expansion": "The deliberate rejection of God's covenant for foreign religious practices represents a profound spiritual rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Child sacrifice",
-            "expansion": "Sacrificing one's own children symbolizes the ultimate moral corruption and spiritual bankruptcy."
-          },
-          {
-            "id": 3,
-            "text": "Political capitulation",
-            "expansion": "Seeking alliances with foreign powers instead of trusting in God reveals a deep spiritual insecurity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When personal desperation confronts spiritual principles, what ultimately determines one's moral choices?"
-      },
-      "moral_slider": {
-        "question": "To what extent can divine judgment be balanced with divine mercy?",
-        "left_label": "Strict Punishment",
-        "right_label": "Restorative Grace"
-      },
-      "reevaluation": {
-        "question": "How might your understanding of leadership and spiritual responsibility have shifted?",
-        "options": [
-          "Personal accountability matters more than institutional position",
-          "Spiritual drift happens incrementally, not suddenly",
-          "Consequences of leadership extend far beyond the individual",
-          "Moral courage requires constant vigilance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment operates through geopolitical and social mechanisms",
           "Spiritual restoration requires intentional repentance and systemic reform"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The Israelites took captives and plunder",
+            "ref": "v. 8",
+            "speaker": ""
+          },
+          {
+            "who": "The men designated by name took charge of the captives and cared for them",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of the men named to take charge of the captives. After seeing captives taken from their own kinsmen, how does your choice to provide clothing and food change the story of this day?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Deuteronomy 28:15-68",
+        "summary": "In one day 120,000 valiant men of Judah are killed, because they forsook the LORD (v. 6). Deuteronomy 28:15-68 lists what comes on those who do not obey the LORD, including being defeated before their enemies (v. 25).",
+        "question": "How does Deuteronomy 28:15-68 help you understand why the text ties this loss to forsaking the LORD (v. 6)?"
+      },
+      "conviction": {
+        "verse": 22,
+        "frame": "exposure",
+        "because": "in the time of his distress, King Ahaz became even more unfaithful to the LORD",
+        "feeling": "anxiety, panic",
+        "object": "a sudden loss",
+        "behavior": "seeking false security",
+        "step": "turn back to the LORD",
+        "template": "from today I bring my {feeling:anxiety, panic} about {object:a sudden loss} into the light and instead of {behavior:seeking false security}, I will {step:turn back to the LORD}."
       }
     }
   }

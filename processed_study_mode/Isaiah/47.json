@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Exposure of Hidden Pride",
-            "expansion": "Babylon's self-perception of invincibility is systematically dismantled by divine revelation."
-          },
-          {
-            "id": 2,
-            "text": "Consequence of Spiritual Arrogance",
-            "expansion": "The chapter illustrates how unchecked imperial hubris inevitably leads to catastrophic downfall."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive Purpose in Judgment",
-            "expansion": "God's judgment is not mere punishment, but a transformative process revealing ultimate sovereignty."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If power and privilege create moral blindness, how can a society recognize its own systemic spiritual corruption?"
-      },
-      "moral_slider": {
-        "question": "How do divine justice and mercy intersect in moments of national reckoning?",
-        "left_label": "Strict Retribution",
-        "right_label": "Redemptive Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment evolved?",
-        "options": [
-          "More nuanced view of God's transformative purposes",
-          "Greater appreciation for prophetic critique",
-          "Deeper understanding of collective spiritual accountability",
-          "Recognition of systemic spiritual patterns"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's redemptive purposes transcend geopolitical conflicts",
           "Systemic oppression ultimately faces supernatural accountability"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the one who feels secure in her own power. What does the LORD's charge reveal about the danger of your own words?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Proverbs 16:18",
+        "summary": "The LORD says she felt secure in her wickedness, told herself 'No one sees me,' and said 'I am, and there is none besides me' (v. 10). Proverbs 16:18 says pride goes before destruction and a haughty spirit before a fall.",
+        "question": "How does Proverbs 16:18 help you understand where the words 'I am, and there is none besides me' lead?"
+      },
+      "conviction": {
+        "verse": 10,
+        "frame": "exposure",
+        "because": "your wisdom and knowledge led you astray",
+        "feeling": "self-importance, pride",
+        "object": "my own cleverness",
+        "behavior": "relying on my own understanding",
+        "step": "ask for His guidance",
+        "template": "from today I bring my {feeling:self-importance, pride} about {object:my own cleverness} into the light and instead of {behavior:relying on my own understanding}, I will {step:ask for His guidance}."
       }
     }
   }

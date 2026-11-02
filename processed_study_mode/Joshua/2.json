@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological idea stays with you from this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Unexpected Agents of God's Plan",
-            "expansion": "Rahab, a marginalized woman, becomes critical to Israel's mission, demonstrating God's unconventional selection of instruments."
-          },
-          {
-            "id": 2,
-            "text": "Courage in Uncertain Moments",
-            "expansion": "The spies trust both their mission and an outsider's protection, revealing faith's complexity."
-          },
-          {
-            "id": 3,
-            "text": "Divine Providence Through Human Agency",
-            "expansion": "God's strategic plan unfolds through human decisions and individual risk-taking."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might someone society considers 'unworthy' actually be essential to transformative spiritual movements?"
-      },
-      "moral_slider": {
-        "question": "Between national security and individual compassion, where does true righteousness reside?",
-        "left_label": "National Loyalty",
-        "right_label": "Humanitarian Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine strategy changed after examining this narrative?",
-        "options": [
-          "God uses unexpected people",
-          "Courage matters more than credentials",
-          "Outsiders can be critical allies",
-          "Faith transcends cultural boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's covenant extends beyond traditional religious boundaries",
           "Spiritual receptivity matters more than social reputation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The king of Jericho said",
+            "ref": "v. 3",
+            "speaker": "The king of Jericho"
+          },
+          {
+            "who": "Rahab said",
+            "ref": "v. 4",
+            "speaker": "Rahab"
+          }
+        ],
+        "question": "Put yourself in Rahab's place. The king demands the men who came to your house, and you answer that they came but you did not know where they were from. What do you weigh as you speak, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Hebrews 11:31",
+        "summary": "Rahab confesses her belief in the power of the LORD and his past works (v. 10-11). Hebrews records her action as a matter of faith.",
+        "question": "How does Hebrews 11:31 help you see the weight of Rahab's confession in her own words?"
+      },
+      "conviction": {
+        "verse": 24,
+        "frame": "trust",
+        "because": "the LORD has surely delivered the entire land into our hands",
+        "feeling": "anxiety, doubt",
+        "object": "a difficult obstacle",
+        "behavior": "calculating every failure",
+        "step": "rest in His victory",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a difficult obstacle} to God and instead of {behavior:calculating every failure}, I will {step:rest in His victory}."
       }
     }
   }

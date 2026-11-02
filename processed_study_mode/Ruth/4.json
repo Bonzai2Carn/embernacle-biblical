@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which redemptive theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Kinsman-Redeemer's Faithful Action",
-            "expansion": "Boaz demonstrates extraordinary commitment beyond legal requirement to restore a family's inheritance."
-          },
-          {
-            "id": 2,
-            "text": "Community Validation of Personal Covenant",
-            "expansion": "The city elders witness and affirm a profound personal restoration narrative."
-          },
-          {
-            "id": 3,
-            "text": "Generational Providence",
-            "expansion": "God's unseen hand guides individual choices toward a larger, transformative purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal sacrifice reveal deeper spiritual truths that transcend immediate self-interest?"
-      },
-      "moral_slider": {
-        "question": "What determines true redemption: legal compliance or compassionate intention?",
-        "left_label": "Legal Obligation",
-        "right_label": "Sacrificial Love"
-      },
-      "reevaluation": {
-        "question": "How has this narrative challenged your understanding of inheritance and restoration?",
-        "options": [
-          "Recognized deeper meaning of familial responsibility",
-          "Saw unexpected paths of divine providence",
-          "Understood covenant beyond transactional relationships",
-          "Appreciated complexity of communal decision-making"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual faithfulness can catalyze broader communal transformation",
           "Divine purposes are accomplished through unexpected human intermediaries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Boaz names the condition",
+            "ref": "v. 5",
+            "speaker": "Boaz"
+          },
+          {
+            "who": "The redeemer replies",
+            "ref": "v. 6",
+            "speaker": "The kinsman-redeemer"
+          }
+        ],
+        "question": "Put yourself in the place of the kinsman-redeemer. You hear that buying the land also means taking the widow. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Leviticus 25:25",
+        "summary": "Boaz tells the nearer redeemer that he is next after him, and asks whether he will buy back Elimelech's land (v. 4). Leviticus says that when a poor brother sells part of his property, his nearest kin may come and redeem what he sold (Leviticus 25:25).",
+        "question": "How does the law of the nearest kin in Leviticus help you understand why this land is offered first to the nearer redeemer?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "remembrance",
+        "because": "the LORD has not left Naomi without a kinsman-redeemer",
+        "feeling": "grief, loneliness",
+        "object": "a long season of loss",
+        "behavior": "assuming no one will provide",
+        "step": "thank God for one faithful friend",
+        "template": "from today I let go of my {feeling:grief, loneliness} over {object:a long season of loss} and instead of {behavior:assuming no one will provide}, I will {step:thank God for one faithful friend}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of personal accountability speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Unintentional Sin Awareness",
-            "expansion": "Even unconscious transgressions carry spiritual and communal consequences."
-          },
-          {
-            "id": "b",
-            "text": "Personal Confession",
-            "expansion": "Acknowledging one's moral failures is the first step towards spiritual restoration."
-          },
-          {
-            "id": "c",
-            "text": "Ritual Cleansing",
-            "expansion": "External purification symbolizes internal spiritual transformation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sin can occur without intentional knowledge, what does this reveal about human moral complexity and divine understanding?"
-      },
-      "moral_slider": {
-        "question": "How do individual actions impact communal spiritual integrity?",
-        "left_label": "Personal Autonomy",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of personal accountability shifted?",
-        "options": [
-          "More aware of unintentional moral consequences",
-          "Recognize importance of immediate confession",
-          "Understand deeper layers of spiritual cleansing",
-          "See sin as more nuanced than black-and-white"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Only deliberate transgressions truly constitute spiritual accountability",
           "Unintentional sins reflect human weakness and require God's grace and understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 1-4",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of someone who has realized they were careless or silent. What does the requirement to confess change about the weight of what you just discovered?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "1 John 1:9",
+        "summary": "Leviticus details the specific offerings required when a person realizes they are guilty of sin (vv. 5-6). John describes the promise of a similar cleansing for those who admit their sins.",
+        "question": "How does the promise of confession in 1 John 1:9 help you understand the purpose of the priest making atonement in Leviticus 5?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "practice",
+        "because": "a man may rashly pronounce an oath even if he is unaware of it",
+        "feeling": "impatience, recklessness",
+        "object": "my daily commitments",
+        "behavior": "making promises I cannot keep",
+        "step": "pause and pray before I speak",
+        "template": "from today I let go of my {feeling:impatience, recklessness} over {object:my daily commitments} and instead of {behavior:making promises I cannot keep}, I will {step:pause and pray before I speak}."
       }
     }
   }

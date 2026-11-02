@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's confrontation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Maintaining integrity under pressure",
-            "expansion": "Paul refuses to compromise his principles despite immediate personal risk."
-          },
-          {
-            "id": 2,
-            "text": "Challenging institutional hypocrisy",
-            "expansion": "Paul directly confronts the spiritual leadership's procedural and ethical inconsistencies."
-          },
-          {
-            "id": 3,
-            "text": "Divine protection amid conflict",
-            "expansion": "Paul experiences supernatural guidance and preservation through complex political/religious tensions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When does righteous indignation become destructive, and how can one discern the difference between prophetic confrontation and personal revenge?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal dignity be balanced against institutional respect?",
-        "left_label": "Individual Authenticity",
-        "right_label": "Institutional Deference"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual leadership transformed?",
-        "options": [
-          "Recognized potential for systemic corruption",
-          "Appreciated complexity of religious institutions",
-          "Understood importance of personal integrity",
-          "Learned about navigating political/spiritual conflicts"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Direct confrontation of spiritual hypocrisy",
           "Peaceful withdrawal and continued mission focus"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "The Lord stood near Paul and said",
+            "ref": "v. 11",
+            "speaker": "Jesus"
+          },
+          {
+            "who": "The Jews formed a conspiracy",
+            "ref": "v. 12",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Paul's place: you just received the promise that you must testify in Rome, yet the very next morning a death plot is revealed. How do you weigh the reality of the threat against the reality of the promise?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Romans 8:28",
+        "summary": "The Lord promises Paul that he must testify in Rome (v. 11). Paul later writes that God works all things together for good for those who love Him.",
+        "question": "How does Romans 8:28 help you understand how a death plot (v. 12) can exist alongside a divine command to continue your mission?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "practice",
+        "because": "I have conducted myself before God in all good conscience",
+        "feeling": "shame, guilt",
+        "object": "a past mistake",
+        "behavior": "hiding from others",
+        "step": "act with integrity in small things",
+        "template": "from today I let go of my {feeling:shame, guilt} over {object:a past mistake} and instead of {behavior:hiding from others}, I will {step:act with integrity in small things}."
       }
     }
   }

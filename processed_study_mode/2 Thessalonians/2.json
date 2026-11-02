@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of prophetic revelation most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The 'falling away' before Christ's return",
-            "expansion": "This suggests a spiritual deterioration precedes ultimate redemption"
-          },
-          {
-            "id": 2,
-            "text": "The 'man of sin' being revealed",
-            "expansion": "Evil will manifest transparently before final judgment"
-          },
-          {
-            "id": 3,
-            "text": "God's sovereign control over prophetic events",
-            "expansion": "Divine plan remains unshakeable despite human uncertainty"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If prophetic revelation is certain, how does human free will interact with predetermined spiritual trajectories?"
-      },
-      "moral_slider": {
-        "question": "How do you balance anticipation of Christ's return with daily faithfulness?",
-        "left_label": "Speculative Prediction",
-        "right_label": "Quiet Preparation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of end-times prophecy evolved?",
-        "options": [
-          "More mystical/symbolic",
-          "More literal/detailed",
-          "More focused on personal spiritual readiness",
-          "Less concerned with specific chronology"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Focusing more on spiritual preparedness than speculative predictions",
           "Comparing multiple scriptural references for comprehensive understanding"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The believers were alarmed by a message",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 3",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Thessalonians receiving a letter that claims the Day of the Lord has already arrived. What does Paul's warning about a specific rebellion change about how you weigh new reports?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Matthew 24:24",
+        "summary": "The coming of the lawless one is accompanied by every kind of power, sign, and false wonder (v. 9). Matthew 24:24 says false Christs and false prophets will appear and perform great signs and wonders that would deceive even the elect, if that were possible.",
+        "question": "How does Matthew 24:24 help you understand the signs and wonders described in v. 9?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "trust",
+        "because": "God has chosen the brothers from the beginning to be saved by faith in the truth",
+        "feeling": "anxiety, doubt",
+        "object": "shifting opinions around me",
+        "behavior": "chasing after every new teaching",
+        "step": "stay with the truth I was taught",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:shifting opinions around me} to God and instead of {behavior:chasing after every new teaching}, I will {step:stay with the truth I was taught}."
       }
     }
   }

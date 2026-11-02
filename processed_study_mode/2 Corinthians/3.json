@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of spiritual transformation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Living Letter of Christ",
-            "expansion": "We are dynamic testimonies, continuously being written by divine presence."
-          },
-          {
-            "id": 2,
-            "text": "Spirit vs. Letter",
-            "expansion": "Internal transformation transcends external religious compliance."
-          },
-          {
-            "id": 3,
-            "text": "Divine Sufficiency",
-            "expansion": "Our capability emerges from divine empowerment, not personal adequacy."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual authenticity is measured by internal transformation rather than external credentials, how might that challenge your current understanding of faith?"
-      },
-      "moral_slider": {
-        "question": "How do human effort and divine grace interact in personal spiritual growth?",
-        "left_label": "Human Striving",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual maturity shifted?",
-        "options": [
-          "More aware of internal transformation",
-          "Recognize limitations of external religious markers",
-          "Understand grace as an active, personal process",
-          "See spiritual growth as collaborative with God"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Direct spiritual connection vs. mediated through priests",
           "Permanent redemption vs. temporary atonement"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul says the letter kills but the Spirit gives life",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says the ministry of death came with glory",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of one receiving this new covenant. You hear that the letter kills but the Spirit gives life, and that the ministry engraved in letters on stone came with a glory the Israelites could not gaze at. What would you understand, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Jeremiah 31:33",
+        "summary": "Paul describes a letter written on human hearts by the Spirit (v. 3). Jeremiah promised a day when God would put His law within people and write it on their hearts.",
+        "question": "How does Jeremiah's promise help you see the reality of the ministry Paul describes here?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "where the Spirit of the Lord is, there is freedom",
+        "feeling": "anxiety, dread",
+        "object": "a difficult conversation",
+        "behavior": "rehearsing my defense",
+        "step": "yield to the Spirit's lead",
+        "template": "from today I let go of my {feeling:anxiety, dread} over {object:a difficult conversation} and instead of {behavior:rehearsing my defense}, I will {step:yield to the Spirit's lead}."
       }
     }
   }

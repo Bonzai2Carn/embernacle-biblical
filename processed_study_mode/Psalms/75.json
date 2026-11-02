@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine justice resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty over human pride",
-            "expansion": "The psalm emphasizes that ultimate power belongs to God, not human leaders."
-          },
-          {
-            "id": 2,
-            "text": "The inevitability of divine judgment",
-            "expansion": "God's judgment is certain and will equalize human inequities."
-          },
-          {
-            "id": 3,
-            "text": "Praising God's transformative power",
-            "expansion": "The psalm celebrates God's ability to elevate the humble and humble the exalted."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of justice change if you truly believed no human power supersedes divine purpose?"
-      },
-      "moral_slider": {
-        "question": "How do you balance human agency with divine intervention?",
-        "left_label": "Complete Human Autonomy",
-        "right_label": "Total Divine Determinism"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine judgment shifted?",
-        "options": [
-          "I see judgment as more redemptive",
-          "I recognize divine perspective beyond human understanding",
-          "I feel more accountable for my actions",
-          "I see justice as ultimately compassionate"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "True power comes from moral integrity, not political manipulation",
           "Leadership is ultimately accountable to divine standards"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "The people declare",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people giving thanks. You are celebrating God's near name, but then you hear Him speak of His own timing and His hold on the shaking earth. How does His power to bear up the pillars change how you view His nearness?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "1 Samuel 2:7-8",
+        "summary": "The psalmist says God judges, bringing down one and exalting another (v. 7). 1 Samuel 2:7-8 says the LORD sends poverty and wealth, and raises the poor from the dust to sit among princes.",
+        "question": "How does 1 Samuel 2:7-8 help you understand God bringing down one and exalting another in verse 7?"
+      },
+      "conviction": {
+        "verse": 9,
+        "frame": "devotion",
+        "because": "I will proclaim Him forever",
+        "feeling": "distraction, apathy",
+        "object": "the noise of the world",
+        "behavior": "forgetting His goodness",
+        "step": "speak His name aloud",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:the noise of the world} and instead of {behavior:forgetting His goodness}, I will {step:speak His name aloud}."
       }
     }
   }

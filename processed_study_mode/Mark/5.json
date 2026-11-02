@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with your understanding of divine intervention?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Confronting spiritual oppression",
-            "expansion": "The power of Christ to liberate individuals from destructive spiritual bondage."
-          },
-          {
-            "id": 2,
-            "text": "Transformative personal encounter",
-            "expansion": "How a single moment of divine interaction can completely reshape human identity."
-          },
-          {
-            "id": 3,
-            "text": "Compassionate boundary-crossing",
-            "expansion": "Jesus' willingness to enter uncomfortable spaces to bring healing and restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "What invisible chains might be constraining your own spiritual freedom that you have not yet acknowledged?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine intervention in healing?",
-        "left_label": "Human Effort",
-        "right_label": "Supernatural Grace"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual warfare and liberation shifted?",
-        "options": [
-          "More aware of spiritual dimensions",
-          "Recognize personal brokenness differently",
-          "See divine power as more immediate",
-          "Understand compassion more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual spiritual oppression can have communal and systemic dimensions",
           "Divine restoration is more comprehensive than mere symptom removal"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "The people began to beg Jesus",
+            "ref": "v. 17",
+            "speaker": ""
+          },
+          {
+            "who": "The man begged to go with Him",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the townspeople. You beg Jesus to leave your region, while the man who had been possessed begs to go with Him. What would you choose, and why?"
+      },
+      "chain": {
+        "after": 20,
+        "ref": "2 Corinthians 5:17",
+        "summary": "The man who had been possessed by the legion of demons is found sitting clothed and in his right mind (v. 15). 2 Corinthians 5:17 says that anyone in Christ is a new creation: the old has passed away and the new has come.",
+        "question": "How does 2 Corinthians 5:17 help you understand the change in the man sitting clothed and in his right mind in Mark 5:15?"
+      },
+      "conviction": {
+        "verse": 36,
+        "frame": "trust",
+        "because": "Jesus told Jairus not to be afraid but just to believe",
+        "feeling": "panic, dread",
+        "object": "a bad report",
+        "behavior": "rushing to fix things myself",
+        "step": "rest in what He has said",
+        "template": "from today I entrust my {feeling:panic, dread} about {object:a bad report} to God and instead of {behavior:rushing to fix things myself}, I will {step:rest in what He has said}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic image from the locusts most resonates with spiritual warfare?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The locusts with human faces",
-            "expansion": "Represents the intelligent, strategic nature of spiritual opposition"
-          },
-          {
-            "id": 2,
-            "text": "The scorpion-like tormenting power",
-            "expansion": "Suggests spiritual attacks target psychological and emotional vulnerability"
-          },
-          {
-            "id": 3,
-            "text": "The smoke obscuring light",
-            "expansion": "Symbolizes how spiritual darkness can cloud human perception and understanding"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is ultimately redemptive, what transformative purpose might these seemingly destructive visions serve?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's judgment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Boundless Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual conflict evolved?",
-        "options": [
-          "More aware of unseen spiritual dimensions",
-          "Recognize complexity of divine judgment",
-          "See spiritual warfare as metaphorical",
-          "Understand suffering as potentially instructive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Metaphorical descriptions of human psychological struggles",
           "Prophetic allegories representing geopolitical conflicts"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The locusts were told",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Men will seek death and will not find it",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone without the seal of God. You will long to die, but death will escape you. What would you understand about the weight of what you are facing?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Joel 2:4-5",
+        "summary": "The locusts looked like horses prepared for battle (v. 7), and the sound of their wings was like many horses and chariots rushing into battle (v. 9). Joel describes an army whose appearance is like horses, with a sound like chariots, like a mighty army deployed for battle (Joel 2:4-5).",
+        "question": "How does Joel's picture of an army that looks like horses and sounds like chariots help you understand the locusts in this chapter?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "exposure",
+        "because": "the rest of mankind still did not repent of the works of their hands",
+        "feeling": "indignation, anger",
+        "object": "the blatant sin of others",
+        "behavior": "judging their worthiness",
+        "step": "focus on my own heart",
+        "template": "from today I bring my {feeling:indignation, anger} about {object:the blatant sin of others} into the light and instead of {behavior:judging their worthiness}, I will {step:focus on my own heart}."
       }
     }
   }

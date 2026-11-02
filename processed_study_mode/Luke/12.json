@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative insight resonates most from Luke 12?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Providence in Daily Life",
-            "expansion": "Trust transcends material anxieties and reveals deeper spiritual dependence."
-          },
-          {
-            "id": 2,
-            "text": "Radical Transparency of Inner Character",
-            "expansion": "Our hidden motivations will ultimately be revealed, challenging surface-level religiosity."
-          },
-          {
-            "id": 3,
-            "text": "Preparedness for Divine Encounter",
-            "expansion": "Spiritual alertness requires constant readiness and faithful stewardship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God knows every detail of your life, how does this transform your understanding of personal autonomy and divine sovereignty?"
-      },
-      "moral_slider": {
-        "question": "How do personal anxiety and divine trust intersect in your spiritual journey?",
-        "left_label": "Human Worry",
-        "right_label": "Divine Confidence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual priorities shifted after reflecting on Luke 12?",
-        "options": [
-          "Increased awareness of spiritual depth",
-          "Reduced attachment to material concerns",
-          "Greater sense of personal accountability",
-          "Deeper trust in divine provision"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "A collaborative partnership between divine guidance and human response",
           "Spiritual preparedness is fundamentally unpredictable"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "Someone in the crowd said to Him",
+            "ref": "v. 13",
+            "speaker": "The crowd"
+          },
+          {
+            "who": "Jesus replied",
+            "ref": "v. 14",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the person asking for justice between siblings. How does Jesus' refusal to act as judge change how you view your demand?"
+      },
+      "chain": {
+        "after": 31,
+        "ref": "Matthew 6:33",
+        "summary": "Jesus tells His followers to seek His kingdom, and these things will be added to them (v. 31). Matthew 6:33 gives the same command: seek first the kingdom of God and His righteousness, and all these things will be added unto you.",
+        "question": "How does Matthew 6:33 help you understand the priority Jesus sets in Luke 12:31?"
+      },
+      "conviction": {
+        "verse": 34,
+        "frame": "devotion",
+        "because": "where your treasure is, there your heart will be also",
+        "feeling": "greed, attachment",
+        "object": "my bank account",
+        "behavior": "hoarding for security",
+        "step": "invest in someone else's need",
+        "template": "from today I let go of my {feeling:greed, attachment} over {object:my bank account} and instead of {behavior:hoarding for security}, I will {step:invest in someone else's need}."
       }
     }
   }

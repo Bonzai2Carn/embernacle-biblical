@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of David's legacy resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Leadership through Divine Inspiration",
-            "expansion": "True leadership emerges from spiritual attunement and God's guidance."
-          },
-          {
-            "id": 2,
-            "text": "The Importance of Just Governance",
-            "expansion": "Rulers are ultimately accountable to divine principles of righteousness."
-          },
-          {
-            "id": 3,
-            "text": "Legacy of Transformative Influence",
-            "expansion": "One's impact transcends personal achievements and touches generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal flaws coexist with prophetic and leadership potential?"
-      },
-      "moral_slider": {
-        "question": "What determines a leader's legitimacy: Divine selection or moral performance?",
-        "left_label": "Divine Election",
-        "right_label": "Ethical Conduct"
-      },
-      "reevaluation": {
-        "question": "How has this passage altered your understanding of leadership?",
-        "options": [
-          "Leadership is primarily spiritual",
-          "Moral integrity matters more than charisma",
-          "Divine inspiration can transcend human limitations",
-          "Personal character shapes collective destiny"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prophetic insight is more important than administrative skill",
           "Divine guidance supersedes personal ambition or political maneuvering"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "David longed for water and said",
+            "ref": "v. 15",
+            "speaker": "David"
+          },
+          {
+            "who": "the three mighty men broke through the Philistine camp, drew water... and brought it back to David",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in David's place. Three men broke through the Philistine camp to bring you this water. What would you weigh before you drink it?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Psalms 89:3-4",
+        "summary": "David says God has established with him an everlasting covenant, ordered and secured in every part (v. 5). Psalm 89:3-4 has the LORD say He has sworn to David His servant to establish his offspring forever and build up his throne for all generations.",
+        "question": "How does Psalm 89:3-4 help you understand the everlasting covenant David describes in v. 5?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "practice",
+        "because": "he who rules the people with justice rules in the fear of God",
+        "feeling": "selfishness, pride",
+        "object": "my influence at work",
+        "behavior": "seeking my own advantage",
+        "step": "act with fairness toward others",
+        "template": "from today I let go of my {feeling:selfishness, pride} over {object:my influence at work} and instead of {behavior:seeking my own advantage}, I will {step:act with fairness toward others}."
       }
     }
   }

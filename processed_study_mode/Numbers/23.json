@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with you in this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine sovereignty overriding human intentions",
-            "expansion": "God controls prophetic messages despite human manipulation attempts"
-          },
-          {
-            "id": 2,
-            "text": "The power of ritual preparation",
-            "expansion": "Seven altars and sacrifices represent intentional spiritual positioning"
-          },
-          {
-            "id": 3,
-            "text": "Unexpected prophetic revelation",
-            "expansion": "Prophecy can emerge through unlikely vessels and unexpected circumstances"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might divine communication be distorted or clarified by human emotional and political agendas?"
-      },
-      "moral_slider": {
-        "question": "To what extent can spiritual insight transcend personal bias?",
-        "left_label": "Completely Subjective",
-        "right_label": "Purely Objective Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication evolved?",
-        "options": [
-          "More aware of divine sovereignty",
-          "Recognize complexity of spiritual messaging",
-          "Understand limitations of human interpretation",
-          "Appreciate unexpected spiritual channels"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine purposes cannot be manipulated by human ritual or strategic positioning",
           "Spiritual blessings are determined by God's sovereign will, not human negotiation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Balak said to Balaam",
+            "ref": "v. 11",
+            "speaker": "Balak"
+          },
+          {
+            "who": "Balaam replied",
+            "ref": "v. 12",
+            "speaker": "Balaam"
+          }
+        ],
+        "question": "Put yourself in Balak's place, seeing your plan to curse your enemies fail. When you confront him, what do you weigh about his answer, and what do you still wonder about?"
+      },
+      "chain": {
+        "after": 19,
+        "ref": "Isaiah 55:11",
+        "summary": "Balaam declares that God's word is certain and cannot be changed (v. 19). Isaiah describes how God's word performs exactly what He intends and does not return empty.",
+        "question": "How does Isaiah's description of God's word help you trust the promises Balaam hears in this oracle?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "trust",
+        "because": "God is not a man, that He should lie, or a son of man, that He should change His mind",
+        "feeling": "anxiety, doubt",
+        "object": "a shifting circumstance",
+        "behavior": "doubting His promises",
+        "step": "rest in His unchanging character",
+        "template": "from today I entrust my {feeling:anxiety, doubt} about {object:a shifting circumstance} to God and instead of {behavior:doubting His promises}, I will {step:rest in His unchanging character}."
       }
     }
   }

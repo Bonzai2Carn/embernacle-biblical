@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership and conflict resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Strategic Military Execution",
-            "expansion": "Joab's tactical leadership demonstrates how strategic planning can decisively transform potential challenges into opportunities."
-          },
-          {
-            "id": 2,
-            "text": "Symbolic Victory Rituals",
-            "expansion": "David's act of wearing the captured king's crown symbolizes how conquests transcend physical battles and enter psychological domains."
-          },
-          {
-            "id": 3,
-            "text": "Spoils of Conflict",
-            "expansion": "The abundant spoils represent how victory often brings unexpected rewards beyond the immediate objectives of confrontation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal ambitions and collective responsibilities intersect when leadership demands both strategic vision and moral restraint?"
-      },
-      "moral_slider": {
-        "question": "To what extent can military conquest be justified as a form of righteous intervention?",
-        "left_label": "Conflict as Destruction",
-        "right_label": "Conflict as Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and conflict evolved?",
-        "options": [
-          "Recognize complexity beyond simple victory narratives",
-          "Understand symbolic power of leadership actions",
-          "Appreciate strategic thinking over emotional reactions",
-          "Acknowledge the psychological dimensions of conflict"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Typological understanding of God's judgement",
           "Contextual application of principles of justice and divine sovereignty"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Joab led the army against Rabbah, but David remained in Jerusalem",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "David took the crown from the head of the Ammonite king",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Imagine you are one of David's soldiers. Your king stays in Jerusalem while Joab leads the army. Then David takes the crown from the head of the Ammonite king. What do you weigh about the king's choices?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Psalm 18:34",
+        "summary": "The descendants of Rapha fall at the hands of David and his servants (v. 8). David sings that the LORD trains his hands for battle (Psalm 18:34).",
+        "question": "How does Psalm 18:34 help you understand the strength behind the victories over the giants in verse 8?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "trust",
+        "because": "the descendants of Rapha fell at the hands of David and his servants",
+        "feeling": "fear, dread",
+        "object": "a giant in my path",
+        "behavior": "avoiding the fight",
+        "step": "ask a trusted friend to stand with me",
+        "template": "from today I entrust my {feeling:fear, dread} about {object:a giant in my path} to God and instead of {behavior:avoiding the fight}, I will {step:ask a trusted friend to stand with me}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic element of the chapter resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The Boiling Pot Metaphor",
-            "expansion": "Jerusalem as a contaminated vessel representing divine judgment and purification"
-          },
-          {
-            "id": 2,
-            "text": "Ezekiel's Personal Loss",
-            "expansion": "The prophet's mandated stoicism in personal grief as a prophetic demonstration"
-          },
-          {
-            "id": 3,
-            "text": "Divine Sovereignty",
-            "expansion": "God's absolute control over historical events and human suffering"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is a refining process, what impurities might be consuming your own spiritual 'pot'?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's judgment with divine compassion?",
-        "left_label": "Punishment",
-        "right_label": "Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline transformed?",
-        "options": [
-          "More aware of personal accountability",
-          "Recognize complexity of divine intervention",
-          "Understand suffering as potential transformation",
-          "See prophecy as multilayered communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine discipline reveals God's commitment to covenant relationships",
           "Suffering is a necessary pathway to national and individual transformation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 13",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 14",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this. God says He tried to cleanse you, but you would not be purified from your filthiness. What do you weigh when He says He will not relent?"
+      },
+      "chain": {
+        "after": 21,
+        "ref": "Lamentations 4:6",
+        "summary": "Ezekiel says the sanctuary will be desecrated and the sons and daughters left behind will fall by the sword (v. 21). Lamentations says the punishment of the daughter of my people is greater than that of Sodom (Lam 4:6).",
+        "question": "How does Lamentations 4:6 help you understand how heavy the fall of the sanctuary and the sword is for the people?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "the people will waste away because of their sins",
+        "feeling": "guilt, shame",
+        "object": "a hidden mistake",
+        "behavior": "hiding my tracks",
+        "step": "tell God and one trusted person what I did",
+        "template": "from today I bring my {feeling:guilt, shame} about {object:a hidden mistake} into the light and instead of {behavior:hiding my tracks}, I will {step:tell God and one trusted person what I did}."
       }
     }
   }

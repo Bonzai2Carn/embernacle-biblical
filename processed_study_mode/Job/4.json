@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What emerges most powerfully in Eliphaz's initial response to Job's suffering?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Past Virtue Contrasted with Present Suffering",
-            "expansion": "Job's previous wisdom and compassion seem ironically reversed in his own moment of crisis."
-          },
-          {
-            "id": 2,
-            "text": "The Fragility of Human Resilience",
-            "expansion": "Even the strongest counselors can be overwhelmed when personal tragedy strikes."
-          },
-          {
-            "id": 3,
-            "text": "Unexpected Vulnerability",
-            "expansion": "Those who once offered strength can suddenly become the ones requiring comfort and support."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How does one's capacity for offering wisdom change when personal suffering transforms perspective?"
-      },
-      "moral_slider": {
-        "question": "How do prior good deeds relate to current suffering?",
-        "left_label": "Earned Suffering",
-        "right_label": "Unmerited Trial"
-      },
-      "reevaluation": {
-        "question": "How might this passage challenge your understanding of personal resilience?",
-        "options": [
-          "Suffering is not always a direct result of personal fault",
-          "Strength can coexist with profound vulnerability",
-          "Compassion requires acknowledging human limitation",
-          "Wisdom emerges through experiencing, not just observing, pain"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal righteousness guarantees immunity from trials",
           "Divine purposes in suffering are ultimately mysterious and beyond human comprehension"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Eliphaz said",
+            "ref": "v. 7",
+            "speaker": "Eliphaz"
+          },
+          {
+            "who": "Eliphaz said",
+            "ref": "v. 8",
+            "speaker": "Eliphaz"
+          }
+        ],
+        "question": "Put yourself in Job's place. You hear Eliphaz ask who, being innocent, has ever perished, and that those who sow trouble reap the same. How do you weigh that claim against your own suffering?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Isaiah 64:6",
+        "summary": "Eliphaz asks whether a mortal can be more righteous than God or purer than his Maker (v. 17). Isaiah 64:6 says each of us has become like something unclean, and all our righteous acts are like filthy rags.",
+        "question": "How does Isaiah 64:6 help you understand Eliphaz's question about a mortal's purity in verse 17?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "exposure",
+        "because": "trouble has come upon Job, and he is weary and dismayed",
+        "feeling": "shame, inadequacy",
+        "object": "my current struggle",
+        "behavior": "hiding my weakness",
+        "step": "bring my weariness to God",
+        "template": "from today I bring my {feeling:shame, inadequacy} about {object:my current struggle} into the light and instead of {behavior:hiding my weakness}, I will {step:bring my weariness to God}."
       }
     }
   }

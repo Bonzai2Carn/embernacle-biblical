@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of sacred construction most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Precision in Design",
-            "expansion": "Every detail of the temple reflects meticulous spiritual intentionality."
-          },
-          {
-            "id": 2,
-            "text": "Sacred Geography of Worship",
-            "expansion": "Mount Moriah represents a profound spiritual intersection between human preparation and divine revelation."
-          },
-          {
-            "id": 3,
-            "text": "Generational Spiritual Inheritance",
-            "expansion": "Solomon continues his father David's prophetic vision through architectural worship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sacred space is truly about divine presence, what makes physical architecture spiritually meaningful beyond mere construction?"
-      },
-      "moral_slider": {
-        "question": "How do human efforts align with divine blueprints?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Perfection"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of sacred space transformed?",
-        "options": [
-          "Recognized architectural symbolism",
-          "Understood generational spiritual continuity",
-          "Appreciated divine-human collaboration",
-          "Saw worship as intentional design"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Symbolizes spiritual accessibility through structured worship",
           "Illustrates the intricate relationship between divine design and human execution"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "Solomon set up the two pillars",
+            "ref": "v. 17",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the people as Solomon sets up the two pillars in front of the temple. He names one Jachin and the other Boaz. What would you understand from those names, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 1,
+        "ref": "Genesis 22:14",
+        "summary": "Solomon begins the house of the LORD on Mount Moriah, where the LORD had appeared to David (v. 1). Genesis 22:14 records Abraham naming a place \"The LORD Will Provide\" and saying, \"On the mountain of the LORD it will be provided.\"",
+        "question": "How does Abraham's naming of that place in Genesis 22:14 help you understand the house Solomon builds on Mount Moriah?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "remembrance",
+        "because": "the LORD had appeared to David at this very place",
+        "feeling": "forgetfulness, complacency",
+        "object": "familiar places where I meet God",
+        "behavior": "treating worship as routine",
+        "step": "name one place where God met me",
+        "template": "from today I let go of my {feeling:forgetfulness, complacency} over {object:familiar places where I meet God} and instead of {behavior:treating worship as routine}, I will {step:name one place where God met me}."
       }
     }
   }

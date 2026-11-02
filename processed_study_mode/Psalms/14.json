@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective on human nature resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Humanity's inherent moral corruption",
-            "expansion": "The psalm suggests humans are fundamentally prone to turning away from God's wisdom and righteousness."
-          },
-          {
-            "id": 2,
-            "text": "Divine judgment of systemic wickedness",
-            "expansion": "God critically examines human behavior and holds collective social structures accountable for moral failings."
-          },
-          {
-            "id": 3,
-            "text": "Hope for redemptive transformation",
-            "expansion": "Despite human weakness, the psalm implies potential for restoration and reconnection with divine purpose."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If everyone acts corruptly as the psalm suggests, how can we simultaneously believe in human potential for goodness?"
-      },
-      "moral_slider": {
-        "question": "To what extent do individual moral failures reflect broader societal spiritual conditions?",
-        "left_label": "Individual Responsibility",
-        "right_label": "Collective Spiritual State"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of human nature?",
-        "options": [
-          "I see more complexity in moral behavior",
-          "I recognize systemic spiritual challenges",
-          "I'm more aware of personal accountability",
-          "I'm hopeful about potential for transformation"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Moral behavior is relative and depends on individual cultural contexts",
           "Human potential for goodness exists but is consistently undermined by spiritual weakness"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The fool speaks",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD looks down",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself among the sons of men while the LORD looks down from heaven. What would He find in your heart: understanding and a seeking heart, or a heart that says there is no God?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "Romans 3:10-12",
+        "summary": "The LORD looks down to see if any understand or seek God (v. 2). Romans 3:10-12 says there is no one who understands and no one who seeks God.",
+        "question": "How does Romans 3:10-12 help you understand the search the LORD makes in Psalm 14:2?"
+      },
+      "conviction": {
+        "verse": 1,
+        "frame": "devotion",
+        "because": "the fool says in his heart there is no God",
+        "feeling": "pride, self-reliance",
+        "object": "my own opinions about God",
+        "behavior": "living as if God is absent",
+        "step": "seek God in prayer each morning",
+        "template": "from today I let go of my {feeling:pride, self-reliance} over {object:my own opinions about God} and instead of {behavior:living as if God is absent}, I will {step:seek God in prayer each morning}."
       }
     }
   }

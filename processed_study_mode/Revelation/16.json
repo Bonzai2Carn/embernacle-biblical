@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's absolute sovereignty",
-            "expansion": "Divine judgment reveals the ultimate power and control of God over human history."
-          },
-          {
-            "id": 2,
-            "text": "Consequences of human rebellion",
-            "expansion": "The bowl judgments demonstrate the profound spiritual and physical repercussions of rejecting divine love."
-          },
-          {
-            "id": 3,
-            "text": "Redemptive purpose in judgment",
-            "expansion": "Even in wrath, God's judgments can be understood as ultimately seeking human restoration."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is an expression of divine love, how might suffering serve a transformative purpose beyond punishment?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's justice with God's mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Boundless Mercy"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine judgment shifted?",
-        "options": [
-          "More nuanced perspective",
-          "Increased theological complexity",
-          "Greater appreciation for divine sovereignty",
-          "Deeper empathy for human frailty"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The bowl judgments represent redemptive opportunities for human repentance",
           "Divine wrath is ultimately an expression of God's righteous love"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "apocalyptic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The people were scorched by intense heat",
+            "ref": "v. 9",
+            "speaker": ""
+          },
+          {
+            "who": "Jesus says",
+            "ref": "v. 15",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of the people scorched by intense heat, who curse the name of God and do not repent. Then you hear, 'I am coming like a thief. Blessed is the one who remains awake and clothed.' What would you weigh about staying awake?"
+      },
+      "chain": {
+        "after": 11,
+        "ref": "Exodus 7:13-14",
+        "summary": "People scorched by heat cursed the name of God and did not repent (v. 9), and those in pain cursed Him and did not repent of what they had done (v. 11). In Exodus, Pharaoh's heart is hardened, and he refuses to listen or let the people go (Exodus 7:13-14).",
+        "question": "How does Pharaoh's hardened heart in Exodus help you understand the refusal to repent in this chapter?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "practice",
+        "because": "the one who remains awake and clothed will not have his shame exposed",
+        "feeling": "distraction, apathy",
+        "object": "the noise of the world",
+        "behavior": "drifting into spiritual sleep",
+        "step": "set a time for prayer",
+        "template": "from today I let go of my {feeling:distraction, apathy} over {object:the noise of the world} and instead of {behavior:drifting into spiritual sleep}, I will {step:set a time for prayer}."
       }
     }
   }

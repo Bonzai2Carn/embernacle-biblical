@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which emotional landscape of David's lament resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Feeling Trapped",
-            "expansion": "The sense of being hemmed in spiritually and physically without clear escape"
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability in Prayer",
-            "expansion": "The raw honesty of exposing one's deepest struggles directly to God"
-          },
-          {
-            "id": 3,
-            "text": "Seeking Refuge",
-            "expansion": "The desperate yearning for divine protection in moments of overwhelming isolation"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When you feel most alone, what prevents you from believing that your solitude is truly absolute?"
-      },
-      "moral_slider": {
-        "question": "How do personal suffering and divine providence intersect?",
-        "left_label": "Individual Pain",
-        "right_label": "God's Sovereign Plan"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prayer transformed after reflecting on this psalm?",
-        "options": [
-          "Prayer is more about raw honesty than polished language",
-          "Vulnerability is a strength in spiritual communication",
-          "Suffering can be a pathway to deeper spiritual connection",
-          "Personal lament is a valid form of worship"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's presence is most evident during moments of extreme challenge",
           "Personal lament demonstrates weakness in faith"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place. You look around and find no refuge and no one to care for you. What changes when you turn your eyes from the empty space on your right to the LORD?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Psalm 34:18",
+        "summary": "The psalmist reveals his trouble and pours out his complaint (vv. 2-3). Psalm 34:18 says the LORD is near to the brokenhearted and saves the contrite in spirit.",
+        "question": "How does the LORD's nearness to the brokenhearted help you when you reveal your trouble to Him?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "devotion",
+        "because": "the righteous will gather around me on account of Your goodness to me",
+        "feeling": "loneliness, isolation",
+        "object": "a season of being overlooked",
+        "behavior": "withdrawing from others",
+        "step": "praise Your name aloud",
+        "template": "from today I bring You my {feeling:loneliness, isolation} about {object:a season of being overlooked} and instead of {behavior:withdrawing from others}, I will {step:praise Your name aloud}."
       }
     }
   }

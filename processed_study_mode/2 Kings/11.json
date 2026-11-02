@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of preservation resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Jehosheba's courageous rescue",
-            "expansion": "Individual moral courage can interrupt seemingly inevitable cycles of violence"
-          },
-          {
-            "id": 2,
-            "text": "Hidden protection in sacred space",
-            "expansion": "Sanctuary can provide refuge when external systems become destructive"
-          },
-          {
-            "id": 3,
-            "text": "Generational survival strategy",
-            "expansion": "Strategic protection of lineage can preserve divine purpose across generations"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "When systems of power become corrupt, what moral obligations do individuals have to interrupt destructive patterns?"
-      },
-      "moral_slider": {
-        "question": "How do we balance personal safety with collective resistance against tyranny?",
-        "left_label": "Self-Preservation",
-        "right_label": "Collective Action"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of leadership and succession changed?",
-        "options": [
-          "Power can be fragile",
-          "Moral courage matters more than bloodline",
-          "Hidden acts of protection have profound consequences",
-          "Divine purpose transcends human schemes"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine protection occurs through strategic human partnerships",
           "Covenant faithfulness transcends individual human limitations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Athaliah proceeded to annihilate all the royal heirs",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "Jehosheba took Joash and stole him away",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the royal family. You see a ruler attempting to wipe out every heir. How does this one act of rescue change your view of the situation?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "2 Chronicles 22:10-12",
+        "summary": "Jehoiada leads the people into a covenant to be the LORD's people (v. 17). 2 Chronicles 22:10-12 tells the same rescue and adds that Joash stayed hidden in the house of God for six years while Athaliah ruled the land.",
+        "question": "How does knowing Joash stayed hidden in the house of God for six years while Athaliah ruled help you see the weight of the covenant Jehoiada makes here?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "practice",
+        "because": "all the people of the land went to the temple of Baal and tore it down",
+        "feeling": "indifference",
+        "object": "the presence of false idols in my life",
+        "behavior": "leaving them untouched",
+        "step": "remove one thing that dishonors God",
+        "template": "from today I let go of my {feeling:indifference} over {object:the presence of false idols in my life} and instead of {behavior:leaving them untouched}, I will {step:remove one thing that dishonors God}."
       }
     }
   }

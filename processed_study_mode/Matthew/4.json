@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual dynamic most resonates with Christ's wilderness experience?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Spiritual Vulnerability",
-            "expansion": "Weakness can be a profound invitation for divine strength to manifest"
-          },
-          {
-            "id": 2,
-            "text": "Intentional Spiritual Resistance",
-            "expansion": "Temptation confronted through scriptural truth reveals deeper spiritual authority"
-          },
-          {
-            "id": 3,
-            "text": "Divine Testing",
-            "expansion": "Challenges are opportunities for spiritual formation and character refinement"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might genuine spiritual power be fundamentally different from performative displays of strength?"
-      },
-      "moral_slider": {
-        "question": "Where does authentic spiritual authority originate?",
-        "left_label": "Human Ambition",
-        "right_label": "Divine Submission"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual struggle evolved?",
-        "options": [
-          "Temptation is more complex than simple resistance",
-          "Scripture is a powerful defensive mechanism",
-          "Spiritual growth often emerges through challenging moments",
-          "Divine identity transcends external challenges"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Illustrates that spiritual warfare requires deep scriptural understanding",
           "Shows that personal hunger and physical needs do not override spiritual priorities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The devil said",
+            "ref": "v. 3",
+            "speaker": "The devil"
+          },
+          {
+            "who": "Jesus answered",
+            "ref": "v. 4",
+            "speaker": "Jesus"
+          }
+        ],
+        "question": "Put yourself in the place of someone who hears the devil say, If You are the Son of God, tell these stones to become bread, and then hears Jesus answer, Man shall not live on bread alone. What would you understand from that answer, and what would you still wonder?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Deuteronomy 8:3",
+        "summary": "Jesus uses a specific scripture to answer the devil's temptation regarding hunger (v. 4). Deuteronomy records the same truth about God feeding His people in the wilderness.",
+        "question": "How does the history of Israel in Deuteronomy 8:3 help you understand why Jesus chose this specific verse to answer the tempter?"
+      },
+      "conviction": {
+        "verse": 20,
+        "frame": "practice",
+        "because": "Simon and Andrew at once left their nets and followed Him",
+        "feeling": "anxiety, hesitation",
+        "object": "a change in my responsibilities",
+        "behavior": "clinging to my old ways",
+        "step": "obey the next prompting",
+        "template": "from today I let go of my {feeling:anxiety, hesitation} over {object:a change in my responsibilities} and instead of {behavior:clinging to my old ways}, I will {step:obey the next prompting}."
       }
     }
   }

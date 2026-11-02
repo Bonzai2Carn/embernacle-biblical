@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of priestly organization most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Systematic Allocation of Duties",
-            "expansion": "Recognizing that divine service requires intentional, structured preparation."
-          },
-          {
-            "id": 2,
-            "text": "Generational Continuity of Priesthood",
-            "expansion": "Understanding how spiritual inheritance transcends individual lifespans."
-          },
-          {
-            "id": 3,
-            "text": "Leadership Through Careful Discernment",
-            "expansion": "Observing how David collaboratively organized sacred responsibilities."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine service requires such meticulous organization, what deeper principles of order might exist in spiritual communities?"
-      },
-      "moral_slider": {
-        "question": "How do inherited roles balance individual calling versus communal responsibility?",
-        "left_label": "Personal Agency",
-        "right_label": "Ancestral Tradition"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual leadership shifted?",
-        "options": [
-          "More appreciative of structured service",
-          "Recognize complexity of succession",
-          "Value collaborative leadership",
-          "Understand importance of intentional organization"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,25 @@
           "Organizational structures should reflect spiritual gifting and calling",
           "Leadership should be democratically determined within faith communities"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "chain": {
+        "after": 19,
+        "ref": "Numbers 3:5-10",
+        "summary": "The text lists the order of service for the priests and Levites by lot (vv. 7-18). Numbers describes the specific duty of the Levites to assist the priests in their service (vv. 5-10).",
+        "question": "How does the specific duty of the Levites in Numbers help you see the purpose of the names and orders listed here?"
+      },
+      "conviction": {
+        "verse": 19,
+        "frame": "practice",
+        "because": "the order of service followed the regulations Aaron prescribed",
+        "feeling": "confusion, doubt",
+        "object": "a new responsibility",
+        "behavior": "making my own rules",
+        "step": "follow the established word",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a new responsibility} and instead of {behavior:making my own rules}, I will {step:follow the established word}."
       }
     }
   }

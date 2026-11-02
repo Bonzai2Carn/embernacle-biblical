@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "What resonates most about Israel's journey?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Documented Journey",
-            "expansion": "Precise record-keeping reveals God's intentional guidance through detailed wilderness wanderings."
-          },
-          {
-            "id": 2,
-            "text": "Liberation Process",
-            "expansion": "The journey represents not just physical movement, but spiritual transformation from slavery to freedom."
-          },
-          {
-            "id": 3,
-            "text": "Historical Testimony",
-            "expansion": "Each campsite becomes a memorial of God's provision and Israel's collective memory."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might meticulously recording life's challenges reveal deeper spiritual patterns you've previously overlooked?"
-      },
-      "moral_slider": {
-        "question": "To what extent do past experiences shape future spiritual understanding?",
-        "left_label": "Circumstantial Randomness",
-        "right_label": "Divine Intentionality"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on personal spiritual journeys shifted?",
-        "options": [
-          "More appreciative of incremental progress",
-          "Recognize divine guidance in seemingly random events",
-          "Understanding suffering as part of transformation",
-          "Seeing life as a purposeful pilgrimage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Reveals patterns of God's transformative processes",
           "Demonstrates the complexity of spiritual pilgrimage"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 55,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 53",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 55",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites receiving these instructions. How does the promise of a gift change your understanding of the cost required to keep it?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Deuteronomy 8:2",
+        "summary": "Moses records every stage of the movement from Egypt (vv. 3-49). Deuteronomy explains why God led them through this specific desert path.",
+        "question": "How does remembering the hardship of the desert help you understand the purpose of the wandering described in this list?"
+      },
+      "conviction": {
+        "verse": 55,
+        "frame": "practice",
+        "because": "the inhabitants you allow to remain will become barbs in your eyes and thorns in your sides",
+        "feeling": "complacency, laziness",
+        "object": "a small compromise",
+        "behavior": "ignoring the problem",
+        "step": "address it with directness",
+        "template": "from today I let go of my {feeling:complacency, laziness} over {object:a small compromise} and instead of {behavior:ignoring the problem}, I will {step:address it with directness}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of accountability most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Restoration of Trust",
-            "expansion": "Genuine restitution requires more than just material compensation, but rebuilding relational integrity."
-          },
-          {
-            "id": 2,
-            "text": "Personal Honesty",
-            "expansion": "Deception fractures not just human relationships, but one's spiritual connection with divine expectations."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Accountability",
-            "expansion": "Individual actions carry profound communal and transcendent consequences beyond immediate circumstances."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal intentions intersect with the objective consequences of our moral transgressions?"
-      },
-      "moral_slider": {
-        "question": "To what extent does intent mitigate the severity of a moral failure?",
-        "left_label": "Pure Intention",
-        "right_label": "Absolute Consequence"
-      },
-      "reevaluation": {
-        "question": "How has this passage reshaped your understanding of personal responsibility?",
-        "options": [
-          "I see accountability more holistically",
-          "I recognize the spiritual dimensions of my actions",
-          "I understand the importance of immediate confession",
-          "I appreciate the complexity of moral restoration"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Personal accountability transcends ritual sacrifice",
           "Divine law prioritizes relational healing over legal precision"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD requires restitution",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the person who has been cheated. What does this requirement for full restitution and an extra fifth tell you about how the LORD views the harm done to your neighbor?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Proverbs 28:13",
+        "summary": "Leviticus says the one who sinned must return what he took and add a fifth of its value (vv. 4-5). Proverbs says he who conceals his sins will not prosper, but whoever confesses and renounces them finds mercy.",
+        "question": "How does Proverbs 28:13 help you understand why Leviticus 6 requires the guilty person to acknowledge guilt and return what was taken?"
+      },
+      "conviction": {
+        "verse": 5,
+        "frame": "practice",
+        "because": "he must make restitution in full, add a fifth of the value, and pay it to the owner",
+        "feeling": "guilt, shame",
+        "object": "a past mistake with money",
+        "behavior": "hiding the truth",
+        "step": "make things right with the person",
+        "template": "from today I let go of my {feeling:guilt, shame} over {object:a past mistake with money} and instead of {behavior:hiding the truth}, I will {step:make things right with the person}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic theme resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment",
-            "expansion": "God's righteousness demands accountability for persistent communal rebellion."
-          },
-          {
-            "id": 2,
-            "text": "Spiritual Deafness",
-            "expansion": "Humans often choose willful ignorance over transformative spiritual listening."
-          },
-          {
-            "id": 3,
-            "text": "Prophetic Warning",
-            "expansion": "True prophecy speaks uncomfortable truth to protect, not merely to condemn."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If warning precedes destruction, what responsibility do individuals bear when collective sin becomes systemic?"
-      },
-      "moral_slider": {
-        "question": "How do divine mercy and divine justice interact in moments of national reckoning?",
-        "left_label": "Mercy",
-        "right_label": "Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic communication shifted?",
-        "options": [
-          "Recognize complexity beyond simple condemnation",
-          "Understand prophecy as invitation, not just prediction",
-          "See spiritual warning as act of love",
-          "Appreciate nuanced divine communication"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Judgment demonstrates God's commitment to justice and spiritual accountability",
           "Prophetic warnings are contextual and may not apply to modern spiritual experiences"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 16",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those standing at the crossroads. You are told to ask for the ancient paths and walk in them to find rest, but you hear the reply, 'We will not walk in it!' What would you weigh when you hear that refusal?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Amos 5:14-15",
+        "summary": "The LORD says they dress the wound of His people with very little care, saying 'Peace, peace,' when there is no peace at all (v. 14). Amos calls the people to seek good and not evil, hate evil, love good, and establish justice in the gate (Amos 5:14-15).",
+        "question": "How does Amos's call to seek good help you understand the false peace described in verse 14?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "practice",
+        "because": "walking in the good way brings rest for the soul",
+        "feeling": "anxiety, restlessness",
+        "object": "my uncertain future",
+        "behavior": "chasing new trends",
+        "step": "return to the ancient paths",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:my uncertain future} and instead of {behavior:chasing new trends}, I will {step:return to the ancient paths}."
       }
     }
   }

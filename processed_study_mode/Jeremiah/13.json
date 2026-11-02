@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which symbolic action most powerfully represents divine communication?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "The unused linen sash",
-            "expansion": "Objects can become profound metaphors for spiritual decay and divine judgment"
-          },
-          {
-            "id": 2,
-            "text": "Hiding the sash by the Euphrates",
-            "expansion": "Physical displacement symbolizes spiritual alienation and potential restoration"
-          },
-          {
-            "id": 3,
-            "text": "The prophet's obedience to unusual instructions",
-            "expansion": "Spiritual leadership often requires surrendering personal understanding to divine guidance"
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might personal pride and spiritual stubbornness prevent one from recognizing divine correction?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine discipline reflect love versus punishment?",
-        "left_label": "Harsh Judgment",
-        "right_label": "Redemptive Correction"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of prophetic symbolism shifted?",
-        "options": [
-          "Symbols are more than literal objects",
-          "Divine communication can be deeply metaphorical",
-          "Obedience sometimes requires trusting beyond rational understanding",
-          "Spiritual messages often transcend immediate comprehension"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Divine judgment is progressive and redemptive, not purely punitive",
           "Spiritual pride fundamentally disrupts covenant relationship with God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 11,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 11",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people the LORD wanted to cling to Him. What would you still wonder when He says they were made for His renown and praise, yet they did not listen?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Ezekiel 16:49",
+        "summary": "The LORD says, 'Listen and give heed. Do not be arrogant, for the LORD has spoken' (v. 15), and that He will weep over their pride (v. 17). Ezekiel names the sins of Sodom: she was arrogant, overfed, and complacent, and did not help the poor and needy.",
+        "question": "How does Ezekiel 16:49 help you understand the arrogance the people are warned against in verse 15?"
+      },
+      "conviction": {
+        "verse": 25,
+        "frame": "remembrance",
+        "because": "forgetting the LORD and trusting in falsehood brings the lot He measures out",
+        "feeling": "anxiety, restlessness",
+        "object": "a new way of living",
+        "behavior": "chasing after temporary comforts",
+        "step": "return to His truth",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a new way of living} and instead of {behavior:chasing after temporary comforts}, I will {step:return to His truth}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of leadership transition most resonates with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Diplomatic Continuity",
-            "expansion": "Hiram's respect for David transfers to honoring Solomon, demonstrating relational leadership."
-          },
-          {
-            "id": 2,
-            "text": "Strategic Vision Fulfillment",
-            "expansion": "Solomon recognizes his divine opportunity to complete his father's interrupted mission of temple construction."
-          },
-          {
-            "id": 3,
-            "text": "Peace as Prerequisite",
-            "expansion": "Solomon understands that significant spiritual projects require periods of political stability."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do inherited challenges become opportunities for transformative leadership?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine approval validate human ambition?",
-        "left_label": "Human Limitation",
-        "right_label": "Divine Empowerment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of generational legacy shifted?",
-        "options": [
-          "Leadership is about completing unfinished work",
-          "Relationships matter more than individual achievements",
-          "Divine timing supersedes human expectations",
-          "Preparation precedes significant spiritual breakthroughs"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Peaceful negotiations as preferable to conflict",
           "Importance of honoring covenantal relationships"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Solomon relayed this message to Hiram",
+            "ref": "v. 3",
+            "speaker": "Solomon"
+          },
+          {
+            "who": "Solomon said",
+            "ref": "v. 4",
+            "speaker": "Solomon"
+          }
+        ],
+        "question": "Put yourself in Hiram's place, receiving news of a new king. How does Solomon's description of his father's wars change how you view this new era of rest?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "2 Samuel 7:12-13",
+        "summary": "Solomon plans to build a house for the Name of the LORD, according to what the LORD said to his father David (v. 5). In 2 Samuel 7:12-13 the LORD says He will raise up David's descendant, who will build a house for His Name.",
+        "question": "How does 2 Samuel 7:12-13 help you understand what Solomon means by 'according to what the LORD said to my father David'?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "devotion",
+        "because": "the LORD has given Solomon rest on every side",
+        "feeling": "anxiety, restlessness",
+        "object": "a looming deadline",
+        "behavior": "rushing through my tasks",
+        "step": "stop to acknowledge His peace",
+        "template": "from today I let go of my {feeling:anxiety, restlessness} over {object:a looming deadline} and instead of {behavior:rushing through my tasks}, I will {step:stop to acknowledge His peace}."
       }
     }
   }

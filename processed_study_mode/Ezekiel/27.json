@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of human achievement most resonates with this passage?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Maritime Commercial Prowess",
-            "expansion": "Tyre represents the pinnacle of mercantile sophistication and global trade networks."
-          },
-          {
-            "id": 2,
-            "text": "Architectural Magnificence",
-            "expansion": "The detailed descriptions of shipbuilding reveal human craftsmanship as a form of divine reflection."
-          },
-          {
-            "id": 3,
-            "text": "Hubris and Fragility",
-            "expansion": "Despite extraordinary achievements, human civilizations remain vulnerable to divine judgment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If material prosperity is ultimately transient, what enduring qualities truly define a civilization's greatness?"
-      },
-      "moral_slider": {
-        "question": "How do human achievements relate to divine purpose?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of power and legacy shifted after studying this passage?",
-        "options": [
-          "Recognize the impermanence of worldly achievements",
-          "Appreciate complexity of divine judgment",
-          "Understand interconnectedness of global systems",
-          "See human creativity as potentially meaningful yet limited"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Stewardship and humility are more important than accumulation",
           "Commercial success can be a platform for kingdom purposes"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 34,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 3",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 34",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the people hearing this message. Tyre said it was perfect in beauty. Now its merchandise has gone down into the depths of the waters. What would you weigh about that claim?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Proverbs 16:18",
+        "summary": "The LORD says an east wind will shatter the ship of Tyre in the heart of the sea (v. 26). Proverbs warns that pride goes before destruction, and a haughty spirit before a fall.",
+        "question": "How does Proverbs 16:18 help you understand the fall the LORD describes for Tyre?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "exposure",
+        "because": "Tyre said, 'I am perfect in beauty'",
+        "feeling": "pride, self-importance",
+        "object": "my recent achievements",
+        "behavior": "seeking praise from others",
+        "step": "admit my need for grace",
+        "template": "from today I bring my {feeling:pride, self-importance} about {object:my recent achievements} into the light and instead of {behavior:seeking praise from others}, I will {step:admit my need for grace}."
       }
     }
   }

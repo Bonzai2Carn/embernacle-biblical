@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine instruction most challenges your understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Complete separation from surrounding cultures",
-            "expansion": "Purity requires radical commitment to spiritual boundaries."
-          },
-          {
-            "id": 2,
-            "text": "God's promise of generational blessing",
-            "expansion": "Faithfulness carries transformative consequences beyond individual experience."
-          },
-          {
-            "id": 3,
-            "text": "Divine mandate for conquest",
-            "expansion": "Theological complexity emerges when understanding divine judgment and national destiny."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do divine commands intersect with human ethical understanding when cultural boundaries seem absolute?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine instruction with contemporary moral sensibilities?",
-        "left_label": "Cultural Relativism",
-        "right_label": "Absolute Divine Mandate"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual identity shifted?",
-        "options": [
-          "Increased understanding of communal spiritual boundaries",
-          "Recognized complexity of divine-human interactions",
-          "Challenged previous assumptions about cultural engagement",
-          "Deepened appreciation for spiritual inheritance"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Contextual interpretation based on cultural differences",
           "Radical commitment to avoiding spiritual compromise"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The LORD commands",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD gives the reason",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a parent with sons and daughters. You are told not to marry into those nations, because they will turn your sons away to serve other gods. What would you weigh most when guarding your sons from other gods?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "2 Corinthians 6:14",
+        "summary": "Moses forbids intermarrying with these nations, because they will turn your sons away from following God (vv. 3-4). Paul says not to be unequally yoked with unbelievers (2 Corinthians 6:14).",
+        "question": "How does Paul's command not to be unequally yoked help you understand the warning about marriage in Deuteronomy 7 (v. 3)?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "remembrance",
+        "because": "you are to remember what the LORD your God did to Pharaoh and all Egypt",
+        "feeling": "fear, dread",
+        "object": "nations greater than me",
+        "behavior": "shrinking back from the task",
+        "step": "recall one way God rescued me",
+        "template": "from today I let go of my {feeling:fear, dread} over {object:nations greater than me} and instead of {behavior:shrinking back from the task}, I will {step:recall one way God rescued me}."
       }
     }
   }

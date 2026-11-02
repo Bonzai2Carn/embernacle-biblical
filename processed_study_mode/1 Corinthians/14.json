@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual gift resonates most with building up the church?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Prophecy",
-            "expansion": "Prophecy provides direct edification, exhortation, and comfort to the entire community of believers."
-          },
-          {
-            "id": 2,
-            "text": "Tongues",
-            "expansion": "Speaking in tongues connects an individual intimately with God's mysterious spiritual realm."
-          },
-          {
-            "id": 3,
-            "text": "Interpretation",
-            "expansion": "Interpretation bridges personal spiritual experience with collective understanding."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If spiritual gifts are meant to build up the church, how might personal spiritual experiences potentially become barriers to communal growth?"
-      },
-      "moral_slider": {
-        "question": "How do individual spiritual experiences balance with corporate spiritual understanding?",
-        "left_label": "Personal Spiritual Experience",
-        "right_label": "Collective Spiritual Edification"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual gifts evolved?",
-        "options": [
-          "More focused on community impact",
-          "Recognize importance of personal spiritual growth",
-          "See gifts as tools for mutual encouragement",
-          "Understand spiritual gifts require humility"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -109,6 +70,41 @@
           "Implement a balanced approach with pastoral oversight",
           "Focus exclusively on gifts that can be objectively interpreted"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a believer in Corinth who speaks in a tongue. What do you weigh when you hear that the one who prophesies edifies the church, and that a tongue builds up the church only when it is interpreted?"
+      },
+      "chain": {
+        "after": 26,
+        "ref": "Colossians 3:16",
+        "summary": "Paul tells the Corinthians that every gift must build up the church (v. 26). Colossians says the word of Christ should dwell richly in believers as they teach and admonish one another.",
+        "question": "How does the presence of the word of Christ in you help you fulfill the command to ensure all things are done for building up the church?"
+      },
+      "conviction": {
+        "verse": 33,
+        "frame": "practice",
+        "because": "God is not a God of disorder, but of peace",
+        "feeling": "anxiety, confusion",
+        "object": "a chaotic situation at work",
+        "behavior": "trying to control every outcome",
+        "step": "bring order through steady prayer",
+        "template": "from today I let go of my {feeling:anxiety, confusion} over {object:a chaotic situation at work} and instead of {behavior:trying to control every outcome}, I will {step:bring order through steady prayer}."
       }
     }
   }

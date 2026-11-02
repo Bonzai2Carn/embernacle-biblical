@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which divine promise in this chapter resonates most with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's zealous restoration of Jerusalem",
-            "expansion": "The profound commitment of God to rebuild and honor His chosen place and people despite past devastation."
-          },
-          {
-            "id": 2,
-            "text": "Promise of peaceful community life",
-            "expansion": "The vision of elderly people safely inhabiting city streets represents ultimate social healing and security."
-          },
-          {
-            "id": 3,
-            "text": "Transformation from curse to blessing",
-            "expansion": "The radical narrative shift from divine judgment to divine favor demonstrates God's restorative power."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is promised, what personal responsibilities do we bear in participating with that restoration?"
-      },
-      "moral_slider": {
-        "question": "How do divine promises interact with human agency in national/communal transformation?",
-        "left_label": "Passive Waiting",
-        "right_label": "Active Collaboration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine restoration evolved?",
-        "options": [
-          "More hopeful about communal healing",
-          "Recognize complexity of spiritual promises",
-          "See personal responsibility in collective transformation",
-          "Understand divine timing differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Ongoing prophetic fulfillment through church history",
           "Eschatological promise of future divine intervention"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD of Hosts says",
+            "ref": "v. 6",
+            "speaker": "The LORD of Hosts"
+          }
+        ],
+        "question": "Put yourself in the place of the remnant. The LORD asks whether what seems impossible in your eyes should also be impossible in His. What would you still wonder about that question?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Ezekiel 37:26-28",
+        "summary": "The LORD promises to bring His people back to dwell in Jerusalem as His faithful God (v. 8). Ezekiel describes a similar restoration where God makes an everlasting covenant and places His sanctuary in their midst.",
+        "question": "How does Ezekiel's vision of a sanctuary that never leaves the people help you understand the permanence of the dwelling God promises in Zechariah?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "practice",
+        "because": "the LORD hates plotting evil in the heart against a neighbor and loving to swear falsely",
+        "feeling": "resentment, suspicion",
+        "object": "a neighbor who wronged me",
+        "behavior": "plotting payback",
+        "step": "speak plainly and fairly to him",
+        "template": "from today I let go of my {feeling:resentment, suspicion} over {object:a neighbor who wronged me} and instead of {behavior:plotting payback}, I will {step:speak plainly and fairly to him}."
       }
     }
   }

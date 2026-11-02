@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human vulnerability resonates most deeply in this narrative?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Lot's hospitality",
-            "expansion": "Offering protection to strangers reveals the profound human capacity for compassion amid moral chaos."
-          },
-          {
-            "id": 2,
-            "text": "The angels' intervention",
-            "expansion": "Divine judgment intersects with human agency, revealing the complex dynamics of spiritual accountability."
-          },
-          {
-            "id": 3,
-            "text": "The destruction of Sodom",
-            "expansion": "Collective moral decay can precipitate systemic consequences that transcend individual actions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If mercy and judgment coexist in this narrative, what determines the threshold between divine patience and divine intervention?"
-      },
-      "moral_slider": {
-        "question": "How do personal ethics interact with communal moral standards?",
-        "left_label": "Individual Autonomy",
-        "right_label": "Collective Responsibility"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine justice evolved after reflecting on this chapter?",
-        "options": [
-          "More nuanced view of judgment",
-          "Greater appreciation for personal moral courage",
-          "Deeper understanding of spiritual accountability",
-          "Reconsidered assumptions about divine intervention"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's mercy is evident even in judgment through Lot's rescue",
           "The narrative warns against cultural moral decay"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 16,
+        "exchange": [
+          {
+            "who": "The two men said to Lot",
+            "ref": "v. 12",
+            "speaker": "The two men"
+          },
+          {
+            "who": "But when Lot hesitated, the men grabbed his hand",
+            "ref": "v. 16",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Lot's place. The men tell you to get your family out of here, yet you hesitate. What would you understand about your hesitation when the men grab your hand and lead you out?"
+      },
+      "chain": {
+        "after": 29,
+        "ref": "Hebrews 13:2",
+        "summary": "The angels arrive at Sodom as strangers to Lot (v. 1). Hebrews reminds us that by showing hospitality to strangers, some have entertained angels without knowing it.",
+        "question": "How does remembering the identity of these visitors change how you view the simple act of welcoming a guest?"
+      },
+      "conviction": {
+        "verse": 26,
+        "frame": "exposure",
+        "because": "Lot's wife looked back, and she became a pillar of salt",
+        "feeling": "longing, attachment",
+        "object": "a life I left behind",
+        "behavior": "glancing back at what was lost",
+        "step": "fix my eyes on the way forward",
+        "template": "from today I bring my {feeling:longing, attachment} about {object:a life I left behind} into the light and instead of {behavior:glancing back at what was lost}, I will {step:fix my eyes on the way forward}."
       }
     }
   }

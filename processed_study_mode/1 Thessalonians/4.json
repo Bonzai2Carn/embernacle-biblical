@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which dimension of spiritual growth resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Personal Sanctification",
-            "expansion": "Recognizing holiness as an intentional, daily commitment to spiritual transformation."
-          },
-          {
-            "id": 2,
-            "text": "Sexual Purity",
-            "expansion": "Understanding bodily discipline as a profound spiritual practice of honoring God."
-          },
-          {
-            "id": 3,
-            "text": "Pleasing God",
-            "expansion": "Viewing every life choice through the lens of divine approval and relationship."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If sanctification is a continual process, at what point does human effort intersect with divine grace?"
-      },
-      "moral_slider": {
-        "question": "How do personal desires balance against spiritual discipline?",
-        "left_label": "Individual Freedom",
-        "right_label": "Spiritual Constraint"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual growth shifted?",
-        "options": [
-          "More aware of personal responsibility",
-          "Recognize divine empowerment",
-          "Understand holiness as relational",
-          "See spiritual growth as progressive"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Grace-filled transformation through spiritual disciplines",
           "Legalistic enforcement of sexual regulations"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "Paul says",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "Paul says",
+            "ref": "v. 8",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of a Thessalonian hearing that it is God's will that you be holy and abstain from sexual immorality. Paul says whoever rejects this command rejects not man but God, who gives you His Holy Spirit. What do you understand about whom you answer to?"
+      },
+      "chain": {
+        "after": 3,
+        "ref": "1 Peter 1:15-16",
+        "summary": "Paul tells the Thessalonians it is God's will that they be holy (v. 3). In 1 Peter 1:15-16 the call is to be holy in all you do, just as He who called you is holy, for it is written, 'Be holy, because I am holy.'",
+        "question": "How does the call to be holy in all you do help you understand the scope of the command Paul gives here?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him",
+        "feeling": "grief, despair",
+        "object": "a loved one's death",
+        "behavior": "grieving like those without hope",
+        "step": "tell someone why I have hope",
+        "template": "from today I entrust my {feeling:grief, despair} about {object:a loved one's death} to God and instead of {behavior:grieving like those without hope}, I will {step:tell someone why I have hope}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of generosity resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Willing Heart",
-            "expansion": "True generosity emerges from internal motivation, not external compulsion."
-          },
-          {
-            "id": 2,
-            "text": "Preparedness",
-            "expansion": "Consistent readiness transforms charitable intention into meaningful action."
-          },
-          {
-            "id": 3,
-            "text": "Communal Accountability",
-            "expansion": "Our giving connects us to broader spiritual networks of mutual support."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your perception of 'giving' change if you viewed resources as divine stewardship rather than personal possession?"
-      },
-      "moral_slider": {
-        "question": "What drives genuine Christian generosity?",
-        "left_label": "Obligation",
-        "right_label": "Joyful Abundance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of giving evolved?",
-        "options": [
-          "From transactional to relational",
-          "From grudging to cheerful",
-          "From individual to communal",
-          "From conditional to unconditional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Financial contributions are primarily about meeting institutional needs",
           "Giving is a voluntary expression of spiritual maturity and kingdom partnership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Paul reminds",
+            "ref": "v. 6",
+            "speaker": ""
+          },
+          {
+            "who": "Paul explains",
+            "ref": "v. 7",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone deciding what to give. What would you weigh about how much you sow, and what would it mean to give cheerfully?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Proverbs 11:24-25",
+        "summary": "Paul says that whoever sows generously will also reap generously (v. 6). Proverbs 11:24-25 says the one who gives freely gains even more, and the generous soul prospers.",
+        "question": "How does the generous soul in Proverbs 11:25 help you understand the harvest Paul describes?"
+      },
+      "conviction": {
+        "verse": 7,
+        "frame": "practice",
+        "because": "each one should give what he has decided in his heart, not out of regret or compulsion",
+        "feeling": "resentment, reluctance",
+        "object": "a request for money",
+        "behavior": "giving grudgingly",
+        "step": "decide my gift in my heart before I give",
+        "template": "from today I let go of my {feeling:resentment, reluctance} over {object:a request for money} and instead of {behavior:giving grudgingly}, I will {step:decide my gift in my heart before I give}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual principle resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Holiness as a Divine Standard",
-            "expansion": "The call to be holy reflects God's transcendent nature and humanity's potential for spiritual elevation."
-          },
-          {
-            "id": 2,
-            "text": "Reverence for Parents and Sacred Time",
-            "expansion": "Honoring familial relationships and observing sacred rhythms connect human experience with spiritual order."
-          },
-          {
-            "id": 3,
-            "text": "Voluntary Spiritual Offerings",
-            "expansion": "True worship emerges from internal motivation rather than external compulsion."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If holiness is a reflection of the divine, what transformative practices might bridge the gap between human limitation and spiritual aspiration?"
-      },
-      "moral_slider": {
-        "question": "How do personal autonomy and divine commandment intersect in spiritual growth?",
-        "left_label": "Individual Freedom",
-        "right_label": "Divine Guidance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual discipline evolved?",
-        "options": [
-          "More appreciative of structured spiritual practice",
-          "Recognizing inner motivation over external rules",
-          "Understanding holiness as relational, not just personal",
-          "Seeing spirituality as a dynamic, evolving journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Holiness is an individual spiritual achievement disconnected from social interactions",
           "Holiness emerges through consistent love and justice towards others"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "law",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "Moses tells the congregation",
+            "ref": "v. 2",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites hearing this command. What is the standard you are being asked to meet, and what does it require of your character?"
+      },
+      "chain": {
+        "after": 18,
+        "ref": "Romans 13:9-10",
+        "summary": "The LORD commands Israel to love their neighbor as themselves (v. 18). Paul later identifies this same command as the fulfillment of all other laws (vv. 9-10).",
+        "question": "How does Paul's summary help you understand the weight of the specific commands found in this chapter?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "repair",
+        "because": "you must directly rebuke your neighbor, so that you will not incur guilt on account of him",
+        "feeling": "resentment, bitterness",
+        "object": "a friend's mistake",
+        "behavior": "keeping silent",
+        "step": "speak the truth in love",
+        "template": "from today I turn from my {feeling:resentment, bitterness} toward {object:a friend's mistake} and instead of {behavior:keeping silent}, I will {step:speak the truth in love}."
       }
     }
   }

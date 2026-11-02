@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which profound emotion resonates most in this Psalm of lament?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Anger at Injustice",
-            "expansion": "The Psalm reveals a deep cry for God's righteous judgment against those who have devastated Jerusalem."
-          },
-          {
-            "id": 2,
-            "text": "Community Suffering",
-            "expansion": "The collective trauma of the people overwhelms individual experience, highlighting communal pain."
-          },
-          {
-            "id": 3,
-            "text": "Desperate Plea for Mercy",
-            "expansion": "The poet urgently seeks God's compassionate intervention despite overwhelming national devastation."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine justice is perfect, why do innocent communities continue to suffer while oppressors seemingly prosper?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile God's love with apparent divine judgment?",
-        "left_label": "Unconditional Love",
-        "right_label": "Righteous Punishment"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of communal suffering and divine response shifted?",
-        "options": [
-          "More aware of historical collective trauma",
-          "Deepened empathy for marginalized communities",
-          "Recognized complexity of theological responses",
-          "Challenged by unresolved theological tensions"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment demonstrates God's ultimate sovereignty",
           "Communal repentance can interrupt cycles of divine discipline"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "lament",
+      "puzzle": {
+        "after": 9,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "vv. 1-3",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist prays",
+            "ref": "v. 9",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the people in the ruined city. You see the temple defiled, the dead unburied, and blood poured out like water. Then you cry out, 'Help us, O God of our salvation.' What do you weigh more heavily: the ruin around you or the God you call on?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Lamentations 1:1-3",
+        "summary": "The psalmist describes a city in ruins and a people in mourning (vv. 1-4). Lamentations describes a lonely city, once full of people, that weeps in the night with no one to comfort her (vv. 1-2).",
+        "question": "How does the imagery in Lamentations help you understand the scale of the devastation described in this Psalm?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "devotion",
+        "because": "we Your people, the sheep of Your pasture, will thank You forever",
+        "feeling": "shame, inadequacy",
+        "object": "my past failures",
+        "behavior": "hiding from Your presence",
+        "step": "declare Your praise",
+        "template": "from today I bring You my {feeling:shame, inadequacy} about {object:my past failures} and instead of {behavior:hiding from Your presence}, I will {step:declare Your praise}."
       }
     }
   }

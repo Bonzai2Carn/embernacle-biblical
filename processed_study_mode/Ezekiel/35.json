@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological theme resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Judgment Against Persistent Hatred",
-            "expansion": "God's response to sustained animosity reveals the profound moral consequences of unrepentant hostility."
-          },
-          {
-            "id": 2,
-            "text": "Accountability for Historical Bloodguilt",
-            "expansion": "Generations of violence carry spiritual consequences that transcend immediate moments of conflict."
-          },
-          {
-            "id": 3,
-            "text": "Sovereignty of God Over Territorial Claims",
-            "expansion": "Divine authority supersedes human territorial ambitions and ethnic rivalries."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is rooted in historical patterns of behavior, what personal patterns might invite spiritual reckoning in your own life?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine judgment with divine mercy?",
-        "left_label": "Strict Justice",
-        "right_label": "Restorative Compassion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of divine intervention evolved?",
-        "options": [
-          "I see God as more actively engaged in human affairs",
-          "I recognize the complexity of spiritual consequences",
-          "I understand historical conflicts differently",
-          "I'm more aware of generational spiritual dynamics"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine judgment reveals God's character of righteousness",
           "Historical conflicts reflect deeper spiritual warfare"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD declares",
+            "ref": "v. 6",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of those hearing this charge. God names a reason, an ancient hatred, and then a consequence, bloodshed. What does this connection tell you about how God weighs hatred?"
+      },
+      "chain": {
+        "after": 13,
+        "ref": "Obadiah 1:10-14",
+        "summary": "The LORD promises to make Mount Seir a desolate waste because of its hatred toward Israel (vv. 3-5). Obadiah describes the same violence against Jacob and the looting of their wealth (Obad 1:10-14).",
+        "question": "How does Obadiah 1:10-14 help you understand the weight of the words in Ezekiel?"
+      },
+      "conviction": {
+        "verse": 13,
+        "frame": "exposure",
+        "because": "Mount Seir boasted against the LORD with its mouth and multiplied its words against Him",
+        "feeling": "pride, arrogance",
+        "object": "my own successes",
+        "behavior": "speaking as if I am in control",
+        "step": "acknowledge God's sovereignty",
+        "template": "from today I bring my {feeling:pride, arrogance} about {object:my own successes} into the light and instead of {behavior:speaking as if I am in control}, I will {step:acknowledge God's sovereignty}."
       }
     }
   }

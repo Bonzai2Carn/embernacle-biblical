@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of Paul's missionary approach most intrigues you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Avoiding Rhetorical Persuasion",
-            "expansion": "Paul deliberately rejected sophisticated argumentation to prevent human wisdom from overshadowing divine revelation."
-          },
-          {
-            "id": 2,
-            "text": "Embracing Personal Vulnerability",
-            "expansion": "Paul's admission of weakness demonstrates spiritual power emerging through human fragility."
-          },
-          {
-            "id": 3,
-            "text": "Focusing Solely on Christ's Crucifixion",
-            "expansion": "The cross becomes the singular theological and transformative message, transcending intellectual complexity."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might human wisdom actually obscure genuine spiritual understanding?"
-      },
-      "moral_slider": {
-        "question": "Where do you position intellectual sophistication relative to spiritual revelation?",
-        "left_label": "Human Wisdom",
-        "right_label": "Divine Revelation"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on spiritual communication shifted?",
-        "options": [
-          "More skeptical of eloquent rhetoric",
-          "Valuing simplicity in spiritual messaging",
-          "Recognizing power beyond intellectual arguments",
-          "Appreciating vulnerability in spiritual leadership"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine understanding requires spiritual transformation",
           "True comprehension comes through humble dependence on God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "Paul resolved",
+            "ref": "v. 2",
+            "speaker": ""
+          },
+          {
+            "who": "Paul's preaching was",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Corinthians, hearing Paul's message. Without human eloquence or persuasive words, what does that leave you to lean on for your faith?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Isaiah 55:8-9",
+        "summary": "Paul speaks of a hidden wisdom that no human heart has imagined (v. 7-9). Isaiah describes how God's thoughts and ways are far above our own.",
+        "question": "How does Isaiah's description of God's unreachable thoughts help you understand why the rulers of this age could not understand the wisdom of the cross?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "practice",
+        "because": "we have received the Spirit who is from God to understand what God has freely given us",
+        "feeling": "confusion, doubt",
+        "object": "a difficult scripture passage",
+        "behavior": "trying to figure it out alone",
+        "step": "ask the Spirit for understanding",
+        "template": "from today I let go of my {feeling:confusion, doubt} over {object:a difficult scripture passage} and instead of {behavior:trying to figure it out alone}, I will {step:ask the Spirit for understanding}."
       }
     }
   }

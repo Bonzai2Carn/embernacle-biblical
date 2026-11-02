@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of human nature emerges most powerfully in this moment of temptation?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Curiosity about forbidden knowledge",
-            "expansion": "The desire to transcend given boundaries reveals a fundamental human impulse toward understanding."
-          },
-          {
-            "id": 2,
-            "text": "Vulnerability to persuasive manipulation",
-            "expansion": "Subtle rhetorical strategies can destabilize deeply held commitments."
-          },
-          {
-            "id": 3,
-            "text": "Desire to be 'like God'",
-            "expansion": "Humans inherently yearn to expand their perceived limitations and achieve transcendent status."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If knowledge itself is not inherently evil, what transforms the act of knowing into a transgressive moment?"
-      },
-      "moral_slider": {
-        "question": "To what extent is disobedience a necessary path to self-awareness?",
-        "left_label": "Compliance",
-        "right_label": "Rebellion"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of choice, consequence, and free will shifted?",
-        "options": [
-          "I see complexity in moral decisions",
-          "I recognize human vulnerability",
-          "I understand temptation differently",
-          "I perceive divine expectations more nuanced"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The narrative reveals a complex interplay between human agency and divine providence",
           "Sin fundamentally alters the relationship between humanity and God"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "The serpent asked the woman",
+            "ref": "v. 1",
+            "speaker": "The serpent"
+          },
+          {
+            "who": "The text says the woman ate",
+            "ref": "v. 6",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the woman's place. You hear the question, 'Did God really say?' What would you weigh when the tree looks good for food and pleasing to the eyes?"
+      },
+      "chain": {
+        "after": 7,
+        "ref": "Romans 5:12",
+        "summary": "The woman takes the fruit and eats it (v. 6). Paul says sin entered the world through one man, and death through sin (Romans 5:12).",
+        "question": "How does Romans 5:12 help you understand the weight of what the woman did in verse 6?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "pacing",
+        "because": "the tree was good for food and pleasing to the eyes",
+        "feeling": "craving, desire",
+        "object": "a tempting thing I see",
+        "behavior": "grabbing what looks good",
+        "step": "pause before I reach for it",
+        "template": "from today I set down my {feeling:craving, desire} about {object:a tempting thing I see} and instead of {behavior:grabbing what looks good}, I will {step:pause before I reach for it}."
       }
     }
   }

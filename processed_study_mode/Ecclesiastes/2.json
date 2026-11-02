@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which perspective of human pursuit most resonates with your understanding of meaning?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Material Achievement is Ultimately Empty",
-            "expansion": "Despite grand constructions and accumulations, true satisfaction remains elusive."
-          },
-          {
-            "id": 2,
-            "text": "Wisdom Transcends Temporary Pleasures",
-            "expansion": "Intellectual discernment offers deeper insight than momentary sensory gratification."
-          },
-          {
-            "id": 3,
-            "text": "Life's Inherent Uncertainty Demands Humility",
-            "expansion": "Human efforts are fundamentally transient against the backdrop of eternal perspectives."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If all your achievements were to vanish tomorrow, what genuine value would remain in your life's purpose?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human ambition with existential meaninglessness?",
-        "left_label": "Futility",
-        "right_label": "Purposefulness"
-      },
-      "reevaluation": {
-        "question": "How has this reflection shifted your understanding of success?",
-        "options": [
-          "Recognize limitations of material pursuits",
-          "Value wisdom over immediate gratification",
-          "Embrace life's inherent unpredictability",
-          "Seek meaning beyond personal achievements"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,36 @@
           "Material achievements cannot substitute for spiritual contentment",
           "True fulfillment originates from relationship with God, not worldly accomplishments"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The Teacher observes",
+            "ref": "v. 14",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the Teacher, watching the wise and the fool. The wise man has eyes in his head, but the fool walks in darkness. Yet one fate overcomes them both. What would you still wonder about the difference between them?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Luke 12:15",
+        "summary": "The Teacher gathers silver, gold, and the treasure of kings for himself (v. 8). Jesus warns against every form of greed, because life does not consist in the abundance of one's possessions (Luke 12:15).",
+        "question": "How does Jesus' warning about greed help you weigh the treasure the Teacher gathered in verse 8?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "surrender",
+        "because": "everything my hands had accomplished was futile, a pursuit of the wind",
+        "feeling": "pride, restlessness",
+        "object": "my accomplishments",
+        "behavior": "measuring my worth by my work",
+        "step": "rest my worth in God",
+        "template": "from today I release my {feeling:pride, restlessness} over {object:my accomplishments} and instead of {behavior:measuring my worth by my work}, I will {step:rest my worth in God}."
       }
     }
   }

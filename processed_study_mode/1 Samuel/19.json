@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which relational dynamic most resonates with you in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Friendship Beyond Family Loyalty",
-            "expansion": "Jonathan chooses friendship and moral integrity over familial allegiance to Saul."
-          },
-          {
-            "id": 2,
-            "text": "Protective Love",
-            "expansion": "Jonathan risks his own standing to protect David from certain death."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Intervention",
-            "expansion": "Divine protection manifests through unexpected human relationships and interventions."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal relationships challenge or transform inherited political/familial expectations?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal loyalty override systemic or familial directives?",
-        "left_label": "Absolute Family Loyalty",
-        "right_label": "Individual Moral Conscience"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of loyalty shifted after examining this chapter?",
-        "options": [
-          "Loyalty is more nuanced than blind obedience",
-          "Moral courage can emerge in unexpected relationships",
-          "Family systems can be deeply conflicted",
-          "True friendship transcends institutional boundaries"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "By transforming adversaries' intentions",
           "Through strategic spiritual positioning"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "Jonathan spoke well of David to his father Saul",
+            "ref": "v. 4",
+            "speaker": "Jonathan"
+          },
+          {
+            "who": "Saul listened to the voice of Jonathan and swore an oath",
+            "ref": "v. 6",
+            "speaker": "Saul"
+          }
+        ],
+        "question": "Put yourself in Jonathan's place, speaking to your father the king. You say David has not sinned against him and his actions have been highly beneficial to him. Then Saul swears, 'As surely as the LORD lives, David will not be put to death.' What do you take from that oath?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Psalm 59:1",
+        "summary": "Saul tries to pin David to the wall with his spear, but David eludes him and escapes that night (v. 10). Psalm 59:1 asks God to deliver the speaker from his enemies and protect him from those who rise against him.",
+        "question": "How does Psalm 59:1 help you understand the danger David faced when Saul's spear struck the wall?"
+      },
+      "conviction": {
+        "verse": 12,
+        "frame": "trust",
+        "because": "Michal lowered David from the window, and he ran away and escaped",
+        "feeling": "panic, dread",
+        "object": "a sudden threat",
+        "behavior": "trying to control the outcome",
+        "step": "trust the way out is provided",
+        "template": "from today I entrust my {feeling:panic, dread} about {object:a sudden threat} to God and instead of {behavior:trying to control the outcome}, I will {step:trust the way out is provided}."
       }
     }
   }

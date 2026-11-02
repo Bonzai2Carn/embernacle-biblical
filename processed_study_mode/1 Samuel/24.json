@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core theme resonates most deeply in this chapter?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Mercy Over Vengeance",
-            "expansion": "David chooses compassion when he could have killed Saul, revealing a profound spiritual maturity."
-          },
-          {
-            "id": 2,
-            "text": "Divine Providence",
-            "expansion": "The unexpected cave encounter suggests God's intricate orchestration of human events."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Leadership",
-            "expansion": "David demonstrates leadership through restraint and moral courage, not through violence."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might true power be more about self-control than the ability to destroy one's enemies?"
-      },
-      "moral_slider": {
-        "question": "How do personal justice and divine justice intersect when facing an adversary?",
-        "left_label": "Human Retribution",
-        "right_label": "Spiritual Forbearance"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of conflict resolution shifted after reflecting on this chapter?",
-        "options": [
-          "I now see the value of restraint",
-          "Revenge is not always the answer",
-          "Spiritual principles can guide difficult decisions",
-          "Leadership requires moral courage"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Seek immediate removal or replacement of the leader",
           "Passively accept the persecution without response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 6,
+        "exchange": [
+          {
+            "who": "David’s men said to him",
+            "ref": "v. 4",
+            "speaker": "David’s men"
+          },
+          {
+            "who": "David said to his men",
+            "ref": "v. 6",
+            "speaker": "David"
+          }
+        ],
+        "question": "Put yourself in David's place. Your men see an opportunity to end your struggle by killing your enemy. What makes you refuse to take the very thing you were able to take?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "Romans 12:19",
+        "summary": "Saul admits that David has rewarded his evil with good (v. 17). Paul tells believers not to avenge themselves but to leave room for God's wrath (Romans 12:19).",
+        "question": "How does Paul's command to leave vengeance to God help you understand why David refused to strike Saul himself?"
+      },
+      "conviction": {
+        "verse": 6,
+        "frame": "practice",
+        "because": "I will not lift my hand against the LORD's anointed",
+        "feeling": "resentment",
+        "object": "someone who treated me unfairly",
+        "behavior": "seeking my own justice",
+        "step": "trust God to judge the situation",
+        "template": "from today I let go of my {feeling:resentment} over {object:someone who treated me unfairly} and instead of {behavior:seeking my own justice}, I will {step:trust God to judge the situation}."
       }
     }
   }

@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most about reconciliation and justice?",
-        "choices": [
-          {
-            "id": "a",
-            "text": "Joab's Strategic Mediation",
-            "expansion": "Human intervention can sometimes create pathways to divine mercy and restoration."
-          },
-          {
-            "id": "b",
-            "text": "David's Unresolved Family Trauma",
-            "expansion": "Unaddressed relational wounds can create generational patterns of dysfunction."
-          },
-          {
-            "id": "c",
-            "text": "Absalom's Exile and Return",
-            "expansion": "Redemption is possible even after grave mistakes, but consequences still linger."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How do personal feelings of compassion potentially compromise true justice?"
-      },
-      "moral_slider": {
-        "question": "To what extent should mercy override legal consequences?",
-        "left_label": "Strict Justice",
-        "right_label": "Compassionate Restoration"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of familial reconciliation shifted?",
-        "options": [
-          "Consequences matter more than intentions",
-          "Mediation can heal deep wounds",
-          "Leadership requires emotional complexity",
-          "Forgiveness is a nuanced process"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "The narrative demonstrates that restoration requires active reconciliation",
           "Absalom's eventual rebellion proves that forced reconciliation is ineffective"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 14,
+        "exchange": [
+          {
+            "who": "The woman from Tekoa asked",
+            "ref": "v. 13",
+            "speaker": "Woman of Tekoah"
+          },
+          {
+            "who": "The woman from Tekoa said",
+            "ref": "v. 14",
+            "speaker": "Woman of Tekoah"
+          }
+        ],
+        "question": "Put yourself in the king's place, hearing a stranger point out your own failure to bring home your banished son. What does her view of God's character reveal about the king's current choice?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Genesis 50:20",
+        "summary": "The woman of Tekoa says God devises ways that the banished one may not be cast out from Him (v. 14). Genesis 50:20 says what was intended for evil, God intended for good, to preserve the lives of many people.",
+        "question": "How does Genesis 50:20 help you understand the woman's hope for the banished son?"
+      },
+      "conviction": {
+        "verse": 14,
+        "frame": "trust",
+        "because": "God does not take away a life; but He devises ways that the banished one may not be cast out from Him",
+        "feeling": "anxiety, dread",
+        "object": "a broken relationship",
+        "behavior": "assuming the worst will happen",
+        "step": "look for His way back to me",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:a broken relationship} to God and instead of {behavior:assuming the worst will happen}, I will {step:look for His way back to me}."
       }
     }
   }

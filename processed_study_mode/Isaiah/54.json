@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which transformative perspective resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Divine Restoration Beyond Current Limitations",
-            "expansion": "The chapter suggests radical potential for growth emerges precisely where perceived emptiness exists."
-          },
-          {
-            "id": 2,
-            "text": "Expansive Promise of Inheritance",
-            "expansion": "Spiritual promises transcend immediate circumstances and project into generational abundance."
-          },
-          {
-            "id": 3,
-            "text": "Overcoming Historical Desolation",
-            "expansion": "Past wounds and barrenness can become platforms for unprecedented future blessing."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current perception of 'lack' actually be preparing you for unexpected abundance?"
-      },
-      "moral_slider": {
-        "question": "How do you balance personal agency with divine promise?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Intervention"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual potential shifted?",
-        "options": [
-          "I see limitations as temporary",
-          "My perspective on generational blessing has expanded",
-          "I recognize unexpected pathways of restoration",
-          "I'm more open to transformative promises"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "God's promises are not bound by previous experiences of failure",
           "Collective redemption is possible even after prolonged suffering"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 8,
+        "exchange": [
+          {
+            "who": "The LORD says",
+            "ref": "v. 7",
+            "speaker": "The LORD"
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 8",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in the place of the deserted wife. You feel the weight of a brief abandonment and a moment of hidden faces. What does the promise of everlasting kindness change about how you view that moment of anger?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Isaiah 43:1-4",
+        "summary": "The LORD promises that His loving devotion will not depart from His people (v. 10). In an earlier word, He calls His people by name and declares they are precious in His sight (vv. 1-4).",
+        "question": "How does knowing you are precious and held in His sight help you trust the stability of His covenant of peace?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "trust",
+        "because": "no weapon formed against you shall prosper",
+        "feeling": "anxiety, dread",
+        "object": "the criticism of others",
+        "behavior": "defending my reputation",
+        "step": "rest in His vindication",
+        "template": "from today I entrust my {feeling:anxiety, dread} about {object:the criticism of others} to God and instead of {behavior:defending my reputation}, I will {step:rest in His vindication}."
       }
     }
   }

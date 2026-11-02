@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine judgment speaks most powerfully to you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's sovereignty in national punishment",
-            "expansion": "Divine judgment operates beyond individual perspectives, affecting entire communities."
-          },
-          {
-            "id": 2,
-            "text": "Remnant preservation amid destruction",
-            "expansion": "Even in catastrophic moments, God preserves a faithful witness."
-          },
-          {
-            "id": 3,
-            "text": "Personal accountability before divine decree",
-            "expansion": "Individual choices contribute to collective consequences."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine judgment is inevitable, what determines one's response: resignation or redemptive transformation?"
-      },
-      "moral_slider": {
-        "question": "How do personal agency and divine providence intersect in moments of national crisis?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Predestination"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and divine purpose shifted?",
-        "options": [
-          "Suffering is random",
-          "Suffering can be redemptive",
-          "Divine purposes transcend human comprehension",
-          "Individual resilience matters more than systemic forces"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Judgment reveals God's commitment to holiness and justice",
           "Judgment provides opportunity for spiritual renewal and repentance"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "record",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "Johanan offered to act",
+            "ref": "v. 15",
+            "speaker": "Johanan"
+          },
+          {
+            "who": "Gedaliah answered",
+            "ref": "v. 16",
+            "speaker": "Gedaliah"
+          }
+        ],
+        "question": "Put yourself in Gedaliah's place. Johanan tells you Ishmael would take your life and scatter the remnant of Judah, and asks to kill him in secret. What would you weigh before you answer?"
+      },
+      "chain": {
+        "after": 14,
+        "ref": "Deuteronomy 28:15-68",
+        "summary": "The captain of the guard notes that the disaster happened because the people did not obey God's voice (v. 3). Deuteronomy lists the specific curses that follow the failure to obey His commands.",
+        "question": "How does the list of consequences in Deuteronomy help you understand the captain's claim that the LORD has fulfilled what He said?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "exposure",
+        "because": "Gedaliah dismissed the warning about Ishmael as a lie",
+        "feeling": "denial, fear",
+        "object": "a warning about a threat",
+        "behavior": "ignoring the truth",
+        "step": "listen to the warning",
+        "template": "from today I bring my {feeling:denial, fear} about {object:a warning about a threat} into the light and instead of {behavior:ignoring the truth}, I will {step:listen to the warning}."
       }
     }
   }

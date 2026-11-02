@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which prophetic promise resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's persistent commitment to restoration",
-            "expansion": "The divine promise of relentless pursuit suggests transformation is not dependent on human worthiness."
-          },
-          {
-            "id": 2,
-            "text": "The promise of a new identity",
-            "expansion": "Being renamed represents a profound spiritual metamorphosis beyond historical limitations."
-          },
-          {
-            "id": 3,
-            "text": "Global recognition of spiritual transformation",
-            "expansion": "The prophecy implies that authentic spiritual renewal becomes a witnessing event observable by all nations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If divine restoration is guaranteed, what personal responsibility remains for individual spiritual transformation?"
-      },
-      "moral_slider": {
-        "question": "To what extent does divine promise override human agency in redemption?",
-        "left_label": "Human Effort",
-        "right_label": "Divine Sovereignty"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual restoration shifted?",
-        "options": [
-          "I now see restoration as more active than passive",
-          "Divine promises feel more personally relevant",
-          "I recognize collective spiritual transformation",
-          "I understand identity can be fundamentally redefined"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises are eternally binding regardless of human performance",
           "Spiritual renewal requires collaborative human-divine partnership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The prophet says",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "The prophet says",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of Zion, who has been called Forsaken. You hear that the LORD will take delight in you. What would you weigh when God rejoices over you as a bridegroom rejoices over his bride?"
+      },
+      "chain": {
+        "after": 4,
+        "ref": "Isaiah 49:14-16",
+        "summary": "Isaiah 62 says Zion will no longer be called Forsaken or Desolate (v. 4). In Isaiah 49:14-15, Zion cries that the LORD has forsaken her, and the LORD answers that He will not forget her.",
+        "question": "How does Isaiah 49:14-16 help you understand the change promised to Zion in verse 4?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "remembrance",
+        "because": "you will no longer be called Forsaken or your land named Desolate",
+        "feeling": "shame, hopelessness",
+        "object": "a name others give me",
+        "behavior": "defining myself by my losses",
+        "step": "accept the name the LORD gives",
+        "template": "from today I let go of my {feeling:shame, hopelessness} over {object:a name others give me} and instead of {behavior:defining myself by my losses}, I will {step:accept the name the LORD gives}."
       }
     }
   }

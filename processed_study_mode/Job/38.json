@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine perspective resonates most deeply?",
-        "choices": [
-          {
-            "id": "cosmic_scale",
-            "text": "The immensity of God's creative power",
-            "expansion": "Recognizing human limitations against the infinite complexity of universal design."
-          },
-          {
-            "id": "divine_questioning",
-            "text": "God's direct confrontation of human presumption",
-            "expansion": "Understanding wisdom emerges from humility, not intellectual arrogance."
-          },
-          {
-            "id": "mysterious_order",
-            "text": "The intricate, unknowable systemic governance of creation",
-            "expansion": "Embracing that some divine mechanisms transcend human comprehension."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If you cannot explain the fundamental mechanisms of existence, by what authority do you judge the nature of divine action?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile human suffering with divine sovereignty?",
-        "left_label": "Human Autonomy",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of human knowledge changed?",
-        "options": [
-          "Recognize profound limitations of human understanding",
-          "Appreciate mystery as a form of wisdom",
-          "Develop deeper humility about intellectual claims",
-          "Understand knowledge as a collaborative, humble journey"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,37 @@
           "God's sovereignty does not require human understanding or approval",
           "Theological explanations are often inadequate to explain divine mysteries"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 3,
+        "exchange": [
+          {
+            "who": "Job had asked",
+            "ref": "Job 31:35",
+            "speaker": "Job"
+          },
+          {
+            "who": "The LORD answered, out of the whirlwind",
+            "ref": "vv. 2-3",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself in Job's place: you asked for an answer, and these are the first words you hear. What do they tell you about the kind of answer that is coming?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Isaiah 40:12-14",
+        "summary": "God's questions to Job are about measurements: *who fixed its measurements*, *who stretched a measuring line across it* (vv. 4–5). Isaiah asks the same kind of questions, to a nation in exile that felt God had forgotten them.",
+        "question": "Isaiah used these questions to comfort the forgotten. How does that help you hear God's questions to Job?"
+      },
+      "conviction": {
+        "verse": 4,
+        "frame": "trust",
+        "because": "God laid the foundations of the earth when I was not there",
+        "template": "from today I entrust my {feeling:frustration, bitterness} about {object:an unanswered prayer} to God and instead of {behavior:replaying why it happened}, I will {step:name one thing I know is in His hands}."
       }
     }
   }

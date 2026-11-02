@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which theological perspective resonates most in this psalm?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Transcendence",
-            "expansion": "Divine judgment emerges not from ritual, but from genuine heart transformation."
-          },
-          {
-            "id": 2,
-            "text": "Authentic Worship",
-            "expansion": "True sacrifice involves thanksgiving and inner spiritual integrity."
-          },
-          {
-            "id": 3,
-            "text": "Covenant Accountability",
-            "expansion": "Relationship with God demands moral alignment, not just ceremonial performance."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If ritual sacrifice doesn't impress God, what truly demonstrates spiritual authenticity?"
-      },
-      "moral_slider": {
-        "question": "How do external religious practices relate to internal spiritual transformation?",
-        "left_label": "Ritualistic Compliance",
-        "right_label": "Genuine Heart Change"
-      },
-      "reevaluation": {
-        "question": "How might this psalm challenge your understanding of worship?",
-        "options": [
-          "Recognizing worship as more than external actions",
-          "Understanding God's deeper expectations",
-          "Embracing personal spiritual accountability",
-          "Redefining religious commitment"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Financial contributions",
           "Institutional religious membership"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "God commands",
+            "ref": "v. 14",
+            "speaker": "God"
+          },
+          {
+            "who": "God promises",
+            "ref": "v. 15",
+            "speaker": "God"
+          }
+        ],
+        "question": "Put yourself among the people hearing God's words. You are told to sacrifice a thank offering and fulfill your vows (v. 14). What do you weigh when God promises to deliver those who call on Him in the day of trouble (v. 15)?"
+      },
+      "chain": {
+        "after": 8,
+        "ref": "Micah 6:8",
+        "summary": "God says He does not rebuke His people for their sacrifices, and that He has no need for a bull from their stall or goats from their pens (vv. 8-9). Micah 6:8 says the LORD requires only that we act justly, love mercy, and walk humbly with our God.",
+        "question": "How does Micah 6:8 help you understand what the LORD requires when He has no need for bulls and goats (v. 9)?"
+      },
+      "conviction": {
+        "verse": 15,
+        "frame": "trust",
+        "because": "God will deliver me when I call upon Him in the day of trouble",
+        "feeling": "panic, self-reliance",
+        "object": "a sudden crisis",
+        "behavior": "handling every crisis alone",
+        "step": "pray first when trouble comes",
+        "template": "from today I entrust my {feeling:panic, self-reliance} about {object:a sudden crisis} to God and instead of {behavior:handling every crisis alone}, I will {step:pray first when trouble comes}."
       }
     }
   }

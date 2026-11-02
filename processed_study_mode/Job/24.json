@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of social injustice resonates most powerfully?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Exploitation of the vulnerable",
-            "expansion": "The powerful systematically marginalize those without social protection."
-          },
-          {
-            "id": 2,
-            "text": "Divine seeming silence amid suffering",
-            "expansion": "God appears to permit injustice without immediate intervention."
-          },
-          {
-            "id": 3,
-            "text": "Survival strategies of the oppressed",
-            "expansion": "The poor develop resilient mechanisms to endure systemic challenges."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If God sees all injustice, why does the mechanism of divine accountability seem so opaque to human perception?"
-      },
-      "moral_slider": {
-        "question": "How do you reconcile divine omniscience with apparent social inequity?",
-        "left_label": "Absolute Divine Indifference",
-        "right_label": "Providential Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of suffering and social justice evolved?",
-        "options": [
-          "Recognized systemic complexity",
-          "Increased empathy for marginalized groups",
-          "Challenged previous theological assumptions",
-          "Seen human resilience in new light"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Suffering reveals deeper spiritual transformation opportunities",
           "Prophetic witness and social action are divine mandates against injustice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "debate",
+      "puzzle": {
+        "after": 12,
+        "exchange": [
+          {
+            "who": "Job asks",
+            "ref": "v. 1",
+            "speaker": "Job"
+          },
+          {
+            "who": "Job observes",
+            "ref": "v. 12",
+            "speaker": "Job"
+          }
+        ],
+        "question": "Put yourself in Job's place. You ask why the Almighty does not reserve times for judgment, and you see the wounded cry out while God charges no one with wrongdoing. What would you weigh in that sight?"
+      },
+      "chain": {
+        "after": 22,
+        "ref": "Psalm 10:1-2",
+        "summary": "Job asks why the Almighty does not set times for judgment (v. 1). The psalmist also asks why the LORD stands far off and hides in times of trouble (Ps 10:1).",
+        "question": "How does the psalmist's plea help you understand the weight of Job's question?"
+      },
+      "conviction": {
+        "verse": 23,
+        "frame": "exposure",
+        "because": "God's eyes are on the ways of the wicked, though He gives them a sense of security",
+        "feeling": "anxiety, fear",
+        "object": "hidden mistakes",
+        "behavior": "trying to hide my tracks",
+        "step": "confess them to God today",
+        "template": "from today I bring my {feeling:anxiety, fear} about {object:hidden mistakes} into the light and instead of {behavior:trying to hide my tracks}, I will {step:confess them to God today}."
       }
     }
   }

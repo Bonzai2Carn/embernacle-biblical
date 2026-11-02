@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine inheritance resonates most deeply?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Generational Blessing",
-            "expansion": "God's promises transcend individual lives and flow through familial lineages."
-          },
-          {
-            "id": 2,
-            "text": "Purposeful Displacement",
-            "expansion": "Divine guidance often requires leaving familiar territories to discover greater destinies."
-          },
-          {
-            "id": 3,
-            "text": "Spiritual Inheritance",
-            "expansion": "True inheritance is not merely material, but a sacred covenant passed through generations."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might obedience to familial and divine expectations simultaneously limit and liberate an individual's potential?"
-      },
-      "moral_slider": {
-        "question": "How do personal agency and divine providence interact in life's pivotal moments?",
-        "left_label": "Human Choice",
-        "right_label": "Divine Plan"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual inheritance evolved?",
-        "options": [
-          "Recognize the weight of ancestral promises",
-          "Appreciate the complexity of divine guidance",
-          "Understand personal responsibility within larger narratives",
-          "Embrace transformative journeys of faith"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine promises are conditional upon individual faithfulness",
           "Covenant relationships emerge through intentional spiritual alignment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "narrative",
+      "puzzle": {
+        "after": 18,
+        "exchange": [
+          {
+            "who": "Jacob woke and thought",
+            "ref": "vv. 16-17",
+            "speaker": ""
+          },
+          {
+            "who": "Jacob set up the stone as a pillar",
+            "ref": "v. 18",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in Jacob's place, waking from the dream and saying, 'Surely the LORD is in this place, and I was unaware of it.' What would you do next with the stone you slept on?"
+      },
+      "chain": {
+        "after": 15,
+        "ref": "Genesis 12:1-3",
+        "summary": "God promises Jacob that his descendants will be a blessing to all the families of the earth (vv. 13-14). This echoes the promise God gave Abraham (Genesis 12:1-3).",
+        "question": "How does the specific promise of land and descendants in Jacob's dream connect to the original promise made to his grandfather?"
+      },
+      "conviction": {
+        "verse": 16,
+        "frame": "remembrance",
+        "because": "the LORD is in this place, and I was unaware of it",
+        "feeling": "distraction, numbness",
+        "object": "the presence of God in my daily routine",
+        "behavior": "ignoring the small signs",
+        "step": "stop and acknowledge His presence",
+        "template": "from today I let go of my {feeling:distraction, numbness} over {object:the presence of God in my daily routine} and instead of {behavior:ignoring the small signs}, I will {step:stop and acknowledge His presence}."
       }
     }
   }

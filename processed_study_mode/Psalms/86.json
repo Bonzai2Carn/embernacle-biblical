@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core spiritual theme resonates most in this psalm?",
-        "choices": [
-          {
-            "id": "1",
-            "text": "Divine Mercy",
-            "expansion": "God's compassion transcends human limitation and offers unconditional grace."
-          },
-          {
-            "id": "2",
-            "text": "Personal Dependence",
-            "expansion": "True strength emerges from humble acknowledgment of one's need for divine guidance."
-          },
-          {
-            "id": "3",
-            "text": "Worship as Vulnerability",
-            "expansion": "Authentic spiritual connection requires complete emotional transparency before God."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your understanding of divine intervention change if you viewed struggle as an invitation rather than an obstacle?"
-      },
-      "moral_slider": {
-        "question": "Where do you locate the balance between human agency and divine sovereignty?",
-        "left_label": "Personal Effort",
-        "right_label": "Divine Providence"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on prayer transformed after reflecting on this psalm?",
-        "options": [
-          "More intimate understanding of communication with God",
-          "Recognized prayer as a dialogue, not a monologue",
-          "Appreciated vulnerability in spiritual practice",
-          "Understood prayer as transformative, not transactional"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prayer demonstrates spiritual submission to God's will",
           "Prayer functions as a therapeutic spiritual practice"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 15,
+        "exchange": [
+          {
+            "who": "The psalmist cries",
+            "ref": "v. 14",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist says",
+            "ref": "v. 15",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the psalmist's place: ruthless men seek your life and have no regard for God. How does the character of God in the next verse change how you see your enemies?"
+      },
+      "chain": {
+        "after": 5,
+        "ref": "Exodus 34:6-7",
+        "summary": "The psalmist says the Lord is kind and forgiving, rich in loving devotion to all who call on Him (v. 5). Exodus 34:6-7 records the LORD passing in front of Moses and proclaiming Himself compassionate, gracious, slow to anger, and abounding in loving devotion and faithfulness.",
+        "question": "How does Exodus 34:6-7 help you understand why the psalmist calls on the LORD in verse 5?"
+      },
+      "conviction": {
+        "verse": 11,
+        "frame": "devotion",
+        "because": "I pray for an undivided heart, that I may fear Your name",
+        "feeling": "distraction, anxiety",
+        "object": "a busy schedule",
+        "behavior": "fragmented focus",
+        "step": "set aside ten minutes for prayer",
+        "template": "from today I bring You my {feeling:distraction, anxiety} about {object:a busy schedule} and instead of {behavior:fragmented focus}, I will {step:set aside ten minutes for prayer}."
       }
     }
   }

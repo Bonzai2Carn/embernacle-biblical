@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which idea resonates most deeply in this psalm's message?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's Rescue and Restoration",
-            "expansion": "The psalm emphasizes divine intervention and lifting one from despair to a place of hope and purpose."
-          },
-          {
-            "id": 2,
-            "text": "Obedience as Spiritual Sacrifice",
-            "expansion": "Listening and responding to God's will is more meaningful than ritual sacrifices."
-          },
-          {
-            "id": 3,
-            "text": "Public Testimony of God's Faithfulness",
-            "expansion": "Sharing personal experiences of divine deliverance can inspire and encourage others."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If suffering is a pathway to deeper understanding, what transformative insights might emerge from your most challenging experiences?"
-      },
-      "moral_slider": {
-        "question": "How do personal struggles relate to spiritual growth?",
-        "left_label": "Individual Suffering",
-        "right_label": "Divine Redemption"
-      },
-      "reevaluation": {
-        "question": "How has your perspective on divine intervention shifted?",
-        "options": [
-          "More aware of subtle spiritual movements",
-          "Recognize suffering as potentially purposeful",
-          "Understand obedience differently",
-          "Value personal testimony more deeply"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Individual response determines the depth of spiritual transformation",
           "Redemption occurs independently of human agency or response"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 2,
+        "exchange": [
+          {
+            "who": "The psalmist waited",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The psalmist recalls",
+            "ref": "v. 2",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the one waiting in the pit. What does it mean for your heart to hear that He has already set your feet upon a rock?"
+      },
+      "chain": {
+        "after": 6,
+        "ref": "Hebrews 10:5-7",
+        "summary": "The psalmist says God did not desire sacrifice or offering, but opened his ears (v. 6). Hebrews 10:5-7 says that when Christ came into the world He said, 'a body You prepared for Me,' and 'I have come to do Your will, O God.'",
+        "question": "How does Hebrews 10:5-7 help you understand what God desires in place of sacrifice (v. 6)?"
+      },
+      "conviction": {
+        "verse": 8,
+        "frame": "devotion",
+        "because": "Your law is within my heart",
+        "feeling": "distraction, apathy",
+        "object": "my morning routine",
+        "behavior": "rushing through my reading",
+        "step": "linger on one verse",
+        "template": "from today I bring You my {feeling:distraction, apathy} about {object:my morning routine} and instead of {behavior:rushing through my reading}, I will {step:linger on one verse}."
       }
     }
   }

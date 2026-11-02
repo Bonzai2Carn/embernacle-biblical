@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which core wisdom resonates most deeply with you?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Self-control in presence of power/wealth",
-            "expansion": "Restraint reveals true character more than immediate gratification."
-          },
-          {
-            "id": 2,
-            "text": "Understanding wealth's transient nature",
-            "expansion": "Material possessions are temporary and cannot define human worth."
-          },
-          {
-            "id": 3,
-            "text": "Wisdom over impulsive desires",
-            "expansion": "Disciplined reflection protects against destructive immediate impulses."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might your current appetites be obscuring your deeper, more meaningful aspirations?"
-      },
-      "moral_slider": {
-        "question": "To what extent should personal desire be subordinated to discipline?",
-        "left_label": "Personal Desire",
-        "right_label": "Disciplined Restraint"
-      },
-      "reevaluation": {
-        "question": "How has this passage challenged your previous understanding of self-control?",
-        "options": [
-          "I recognize my impulses more clearly",
-          "I see wealth differently now",
-          "I understand power dynamics more nuancedly",
-          "I feel challenged to practice greater self-restraint"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Self-control is a critical spiritual discipline",
           "External relationships require careful discernment"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "wisdom",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The writer warns",
+            "ref": "v. 4",
+            "speaker": ""
+          },
+          {
+            "who": "Wealth disappears",
+            "ref": "v. 5",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of someone working hard for a bigger bank account. What does this warning about disappearing wealth change about how you view your labor?"
+      },
+      "chain": {
+        "after": 17,
+        "ref": "1 Timothy 6:6-8",
+        "summary": "Proverbs 23 says not to let your heart envy sinners but to continue always in the fear of the LORD (v. 17). 1 Timothy 6:6-8 says godliness with contentment is great gain, since we brought nothing into the world and can carry nothing out.",
+        "question": "How does this definition of gain help you understand the value of fearing the LORD instead of envying others?"
+      },
+      "conviction": {
+        "verse": 17,
+        "frame": "devotion",
+        "because": "your heart must not envy sinners, but must always continue in the fear of the LORD",
+        "feeling": "envy, jealousy",
+        "object": "the success of others",
+        "behavior": "comparing my life to theirs",
+        "step": "focus on my own walk with God",
+        "template": "from today I let go of my {feeling:envy, jealousy} over {object:the success of others} and instead of {behavior:comparing my life to theirs}, I will {step:focus on my own walk with God}."
       }
     }
   }

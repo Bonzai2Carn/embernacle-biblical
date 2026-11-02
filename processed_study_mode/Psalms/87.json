@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine geography and spiritual belonging resonates most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Zion as God's Chosen Place",
-            "expansion": "The psalm elevates Jerusalem as a transcendent spiritual center beyond mere physical location."
-          },
-          {
-            "id": 2,
-            "text": "Universal Spiritual Citizenship",
-            "expansion": "God recognizes spiritual identity that transcends ethnic or national boundaries."
-          },
-          {
-            "id": 3,
-            "text": "Divine Record of Belonging",
-            "expansion": "The metaphor of God personally recording and acknowledging individual spiritual lineage."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might a geographical location simultaneously represent both physical space and spiritual meaning?"
-      },
-      "moral_slider": {
-        "question": "How do divine selection and universal inclusion coexist?",
-        "left_label": "Exclusive Chosenness",
-        "right_label": "Inclusive Invitation"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of spiritual belonging shifted?",
-        "options": [
-          "Recognized broader spiritual community",
-          "Understood God's perspective transcends human boundaries",
-          "Appreciated metaphorical versus literal interpretations",
-          "Saw personal spiritual identity differently"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Divine love is fundamentally inclusive and transformative",
           "Salvation is a universal divine invitation"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "praise",
+      "puzzle": {
+        "after": 5,
+        "exchange": [
+          {
+            "who": "The psalmist declares",
+            "ref": "v. 3",
+            "speaker": ""
+          },
+          {
+            "who": "The LORD says",
+            "ref": "v. 5",
+            "speaker": "The LORD"
+          }
+        ],
+        "question": "Put yourself as a citizen of Zion. You hear that glorious things are spoken of your city, and then that the Most High Himself will establish her. What do you weigh more heavily: the glory spoken of your city or the Most High who will establish her?"
+      },
+      "chain": {
+        "after": 2,
+        "ref": "Isaiah 2:2-3",
+        "summary": "Psalm 87 says the LORD loves the gates of Zion more than all the dwellings of Jacob (v. 2). Isaiah 2:2-3 describes the mountain of the house of the LORD, raised above the hills, to which many peoples will come to learn His ways.",
+        "question": "How does Isaiah 2:2-3 help you see the place the LORD loves?"
+      },
+      "conviction": {
+        "verse": 2,
+        "frame": "trust",
+        "because": "the LORD loves the gates of Zion more than all the dwellings of Jacob",
+        "feeling": "envy, resentment",
+        "object": "someone else's blessing",
+        "behavior": "comparing my lot with others",
+        "step": "thank God for His love for me",
+        "template": "from today I bring You my {feeling:envy, resentment} about {object:someone else's blessing} and instead of {behavior:comparing my lot with others}, I will {step:thank God for His love for me}."
       }
     }
   }

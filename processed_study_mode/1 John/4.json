@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which spiritual insight most challenges your current understanding?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "Testing spiritual claims",
-            "expansion": "Discernment requires active investigation, not passive acceptance of spiritual messages."
-          },
-          {
-            "id": 2,
-            "text": "God's love transforms human relationships",
-            "expansion": "Divine love transcends human limitations and becomes the fundamental relational paradigm."
-          },
-          {
-            "id": 3,
-            "text": "Perfect love casts out fear",
-            "expansion": "Authentic spiritual maturity is marked by confidence rather than anxiety."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "If genuine spiritual truth can be tested, what criteria would you use to distinguish authentic spiritual revelation from mere human opinion?"
-      },
-      "moral_slider": {
-        "question": "How do you balance skepticism and openness in spiritual discernment?",
-        "left_label": "Skeptical Rejection",
-        "right_label": "Naive Acceptance"
-      },
-      "reevaluation": {
-        "question": "How might this chapter reshape your understanding of spiritual authenticity?",
-        "options": [
-          "I now see the importance of critical spiritual discernment",
-          "Love seems more central to spiritual truth than I previously understood",
-          "Fear is less compatible with genuine spiritual experience",
-          "Community verification matters in spiritual claims"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Prioritize personal spiritual experience over doctrinal consistency",
           "Consult trusted theological authorities and church traditions"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "teaching",
+      "puzzle": {
+        "after": 4,
+        "exchange": [
+          {
+            "who": "The author warns",
+            "ref": "v. 1",
+            "speaker": ""
+          },
+          {
+            "who": "The author promises",
+            "ref": "v. 4",
+            "speaker": ""
+          }
+        ],
+        "question": "Put yourself in the place of the 'little children' facing many false prophets. What does the promise of a greater power within you change about how you weigh these voices?"
+      },
+      "chain": {
+        "after": 10,
+        "ref": "Romans 5:8",
+        "summary": "John shows how God's love was revealed through the sending of His Son (v. 9-10). Paul describes the timing of this love, noting it was demonstrated while we were still sinners.",
+        "question": "How does Paul's description of our condition help you grasp the weight of the sacrifice John describes?"
+      },
+      "conviction": {
+        "verse": 18,
+        "frame": "exposure",
+        "because": "perfect love drives out fear",
+        "feeling": "anxiety, dread",
+        "object": "the consequences of my mistakes",
+        "behavior": "hiding my true self",
+        "step": "rest in His presence",
+        "template": "from today I bring my {feeling:anxiety, dread} about {object:the consequences of my mistakes} into the light and instead of {behavior:hiding my true self}, I will {step:rest in His presence}."
       }
     }
   }

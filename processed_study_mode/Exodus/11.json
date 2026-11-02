@@ -41,45 +41,6 @@
         ]
       }
     },
-    "socratic": {
-      "three_choice": {
-        "question": "Which aspect of divine intervention intrigues you most?",
-        "choices": [
-          {
-            "id": 1,
-            "text": "God's strategic communication through Moses",
-            "expansion": "Divine messaging often requires human intermediaries who understand both celestial purpose and earthly context."
-          },
-          {
-            "id": 2,
-            "text": "The preparation of Israel's economic liberation",
-            "expansion": "Spiritual freedom is sometimes accompanied by practical provisions for material survival."
-          },
-          {
-            "id": 3,
-            "text": "Moses' growing political and social credibility",
-            "expansion": "Leadership emerges through consistent demonstration of moral courage and divine alignment."
-          }
-        ]
-      },
-      "socratic_nudge": {
-        "question": "How might an oppressed people transform favor from their oppressors into genuine reconciliation?"
-      },
-      "moral_slider": {
-        "question": "What is the ethical boundary between justified divine judgment and collective punishment?",
-        "left_label": "Individual Mercy",
-        "right_label": "Systemic Justice"
-      },
-      "reevaluation": {
-        "question": "How has your understanding of liberation changed?",
-        "options": [
-          "Freedom requires more than physical escape",
-          "Spiritual transformation precedes material change",
-          "Collective suffering can catalyze profound societal shifts",
-          "Leadership emerges through confronting systemic injustice"
-        ]
-      }
-    },
     "theological": {
       "thematic_summaries": [
         {
@@ -111,6 +72,41 @@
           "Political deliverance is a metaphor for spiritual liberation",
           "God's actions demonstrate His supremacy over human power structures"
         ]
+      }
+    },
+    "reflective": {
+      "lens": "prophetic",
+      "puzzle": {
+        "after": 7,
+        "exchange": [
+          {
+            "who": "Moses declared",
+            "ref": "vv. 4-6",
+            "speaker": "Moses"
+          },
+          {
+            "who": "Moses declared",
+            "ref": "v. 7",
+            "speaker": "Moses"
+          }
+        ],
+        "question": "Put yourself in the place of the Israelites. You hear of a great cry and death coming to the land, yet you are told even the dogs will not bark at you. What does this distinction between Egypt and Israel mean for your safety?"
+      },
+      "chain": {
+        "after": 9,
+        "ref": "Daniel 2:21",
+        "summary": "The LORD hardens Pharaoh's heart so that His wonders may be multiplied (v. 10). Daniel describes a God who changes times and seasons and removes kings from thrones.",
+        "question": "How does Daniel's description of God's control over kings help you understand why the LORD acted on Pharaoh's heart?"
+      },
+      "conviction": {
+        "verse": 3,
+        "frame": "remembrance",
+        "because": "the LORD gave the people favor in the sight of the Egyptians",
+        "feeling": "insecurity, inadequacy",
+        "object": "a difficult meeting",
+        "behavior": "trying to impress others",
+        "step": "rest in His provision",
+        "template": "from today I let go of my {feeling:insecurity, inadequacy} over {object:a difficult meeting} and instead of {behavior:trying to impress others}, I will {step:rest in His provision}."
       }
     }
   }
